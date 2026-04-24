@@ -10,5 +10,20 @@
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juniper-earthbake",
+    "title": "Juniper Earthbake",
+    "tags": [
+      "juniper",
+      "earthbake",
+      "hangover",
+      "indian",
+      "vegan",
+      "plant-based"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 57,
+    "shard": "j"
   }
 ]

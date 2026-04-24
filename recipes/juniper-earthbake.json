@@ -1,0 +1,106 @@
+{
+  "title": "Juniper Earthbake",
+  "description": "An earthy, crisp, hangover-cure Indian dish featuring juniper berries, baked and plant-based-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups buckwheat groats",
+      "amount": "cup",
+      "notes": "Soaked in water for at least 4 hours"
+    },
+    {
+      "name": "1/4 cup grated fresh ginger",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely chopped scallions (green onions)",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp ground flaxseed",
+      "amount": "tablespoon",
+      "notes": "Mixed with 6 tbsp water to make flaxseed meal"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh cilantro (coriander)",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp grated fresh jaggery or maple syrup",
+      "amount": "tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin seeds",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 tsp ground fennel seeds",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 tsp saffron threads, soaked in 1 tbsp warm milk to dissolve",
+      "amount": "thread",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix soaked buckwheat groats with flaxseed meal and all other ingredients except the milk-soaked saffron.",
+    "Mix well until smooth. Let it sit for at least an hour or up to overnight to allow flavors to meld together.",
+    "Add 1 tbsp of the lemon juice while mixing the mixture in a bowl, then add milk-soaked saffron and remaining lemon juice.",
+    "Preheat the oven to 350°F (175°C). Grease a baking dish with oil or cooking spray.",
+    "Pour the mixed batter into the prepared baking dish. Bake for 45-60 minutes or until golden brown and crispy on top.",
+    "Remove from heat, let it cool slightly before serving."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 45,
+  "totalTimeMin": 57,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juniper",
+    "earthbake",
+    "hangover",
+    "indian",
+    "vegan",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 8
+  },
+  "slug": "juniper-earthbake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juniper-earthbake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:36:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "juniper berries",
+    "diet": "plant-based",
+    "region": null
+  }
+}
