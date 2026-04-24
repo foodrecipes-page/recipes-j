@@ -1,9 +1,14 @@
-{
-  "version": 1,
-  "shard": "j",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'j''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-j@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "jerusalem-umami-splat",
+    "title": "Jerusalem Umami Splat",
+    "tags": [
+      "jerusalem-artichoke",
+      "dumpling",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "title": "Jerusalem Umami Splat",
+  "description": "This comforting and chewy vegetarian-friendly dish features Jerusalem artichokes with dumplings for a satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "10"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and thinly slice the Jerusalem artichokes.",
+    "Wash and prepare dumplings according to recipe instructions. Soak them in cold water for at least 30 minutes.",
+    "Heat a wok or large skillet with vegetable oil over medium-high heat. Add garlic and stir fry for about 1 minute until fragrant but not browned.",
+    "Drain the dumplings, shaking off excess water, then add to the wok along with Jerusalem artichokes. Stir-fry for an additional 2-3 minutes.",
+    "Pour in soy sauce, oyster sauce, fish sauce, sugar, and red pepper flakes. Toss well to coat ingredients evenly.",
+    "Cook until dumplings are cooked through and mixture is heated through but not overly liquidy.",
+    "Garnish with chopped scallions or cilantro if desired, then serve hot as a comforting side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jerusalem-artichoke",
+    "dumpling",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 12.7,
+    "carbs": 50,
+    "fat": 9
+  },
+  "slug": "jerusalem-umami-splat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jerusalem-umami-splat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:31:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
