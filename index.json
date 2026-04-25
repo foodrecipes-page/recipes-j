@@ -14,6 +14,19 @@
     "shard": "j"
   },
   {
+    "slug": "japanese-chilli-bean-grill",
+    "title": "Japanese Chilli Bean Grill",
+    "tags": [
+      "japanese",
+      "chilli bean",
+      "grill",
+      "light"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jasmine-green-salsa-baked-dish",
     "title": "Jasmine Green Salsa Baked Dish",
     "tags": [

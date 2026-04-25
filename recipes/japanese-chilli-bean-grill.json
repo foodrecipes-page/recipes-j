@@ -1,0 +1,83 @@
+{
+  "title": "Japanese Chilli Bean Grill",
+  "description": "A tangy and light Japanese dish featuring grilled chilli bean paste, perfect for a weeknight meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chili Bean Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "100g"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Cucumber Slices",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Mix the chili bean paste, kosher salt, and olive oil together in a bowl. Brush this mixture onto the grilled chicken breast evenly.",
+    "In another bowl, whisk together rice vinegar, soy sauce, brown sugar, and red pepper flakes (if using).",
+    "Once the chicken is cooked to your liking, serve it with the bean paste marinade on top.",
+    "Garnish with fresh cucumber slices for added freshness and crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "chilli bean",
+    "grill",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "japanese-chilli-bean-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/japanese-chilli-bean-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:28:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "kosher",
+    "region": null
+  }
+}
