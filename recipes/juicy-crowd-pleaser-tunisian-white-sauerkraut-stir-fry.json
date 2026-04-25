@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Crowd Pleaser Tunisian White Sauerkraut Stir-fry",
+  "description": "A flavorful and juicy dish that is a crowd pleaser, featuring aromatic white sauerkraut in a savory stir-fry sauce without added sugars.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 oz (113g) per person"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 teaspoon for Asian-inspired taste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the white sauerkraut for about 5 minutes to soften it slightly.",
+    "Season the chicken with salt and pepper on both sides. Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken, onion, and garlic to the heated oil, stirring occasionally until the chicken is browned on all sides (about 8-10 minutes).",
+    "Stir in tomato paste, Worcestershire sauce, fish sauce if using, soy sauce, and water. Bring to a simmer, then reduce heat to low.",
+    "Add the sauerkraut, salt, and pepper. Stir until the chicken is cooked through and the sauce has thickened (about 5-7 minutes).",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "juicy",
+    "umami",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 15
+  },
+  "slug": "juicy-crowd-pleaser-tunisian-white-sauerkraut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crowd-pleaser-tunisian-white-sauerkraut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:35:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "White Sauerkraut",
+    "descriptor": "Juicy Crowd Pleaser",
+    "dishForm": "Stir-fry"
+  }
+}
