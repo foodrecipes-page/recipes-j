@@ -1,0 +1,76 @@
+{
+  "title": "Juicy Sweetie Pork Shoulder",
+  "description": "A quick and delicious Filipino dish featuring sweet and juicy pork shoulder that's perfect for those with diabetes-friendly needs.",
+  "cuisine": "Philippine",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 (2lb) piece",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups",
+      "notes": "For soaking the pork shoulder for easier slicing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "6 tablespoons",
+      "notes": "Regular soy sauce"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "4 tablespoons",
+      "notes": "Fine granulated sugar"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1/2 cup",
+      "notes": "Apple cider vinegar for tanginess and moisture retention"
+    }
+  ],
+  "instructions": [
+    "Submerge the pork shoulder in water, covering it completely. Soak overnight.",
+    "Preheat oven to 350°F (175°C).",
+    "Drain the pork shoulder and pat dry with paper towels.",
+    "Mix soy sauce, brown sugar, and apple cider vinegar into a marinade. Apply this mixture evenly over the pork shoulder, making sure all areas are coated.",
+    "Place the pork shoulder in a baking dish and bake for 2 hours or until an internal temperature of 145°F (63°C) is reached.",
+    "Reduce heat to 300°F (150°C), cover with foil, and continue cooking for another hour. Reduce heat further if necessary to prevent burning.",
+    "Let rest before slicing into chunks to serve."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 200,
+  "totalTimeMin": 245,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-sweetie-pork-shoulder",
+    "quick-fix-dish",
+    "filipino-cuisine",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 37,
+    "fat": 19
+  },
+  "slug": "juicy-sweetie-pork-shoulder",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweetie-pork-shoulder",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:07:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "pork shoulder",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
