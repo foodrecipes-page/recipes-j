@@ -1,5 +1,19 @@
 [
   {
+    "slug": "jalapeño-sous-vide-bowl",
+    "title": "Jalapeño Sous-Vide Bowl",
+    "tags": [
+      "jalapeno",
+      "sous-vide",
+      "high-protein-friendly",
+      "sour",
+      "chewy"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 75,
+    "shard": "j"
+  },
+  {
     "slug": "jerusalem-umami-splat",
     "title": "Jerusalem Umami Splat",
     "tags": [
