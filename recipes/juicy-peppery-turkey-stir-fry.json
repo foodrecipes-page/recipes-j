@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Peppery Turkey Stir-fry",
+  "description": "A kid-friendly Portuguese dish featuring turkey, slow-cooked to perfection with a touch of spicy peppery flavor and dairy-free options for a deliciously healthy meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coarse ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/4 tsp (optional)"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F.",
+    "Season the turkey with coarse ground black pepper and pinch of salt. Place it on a baking sheet lined with parchment paper.",
+    "In a skillet, heat olive oil over medium-high heat. Sauté onions until translucent, then add garlic and red bell peppers for another minute or two.",
+    "Transfer vegetables to an oven-safe dish and top the turkey with them. Drizzle with additional olive oil and sprinkle chili flakes if using.",
+    "Bake in preheated oven for 25-30 minutes until the turkey is cooked through. Stir vegetables occasionally while baking.",
+    "In a separate pan, heat some more olive oil over medium-high heat. Add diced tomatoes to it and cook until they start softening, about 1 minute.",
+    "Garnish with fresh parsley if available. Serve hot as an accompaniment for the turkey dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "peppery",
+    "kid-friendly",
+    "turkey",
+    "slow-cook",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "juicy-peppery-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peppery-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:46:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "turkey",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Turkey",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -90,6 +90,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-peppery-turkey-stir-fry",
+    "title": "Juicy Peppery Turkey Stir-fry",
+    "tags": [
+      "juicy",
+      "peppery",
+      "kid-friendly",
+      "turkey",
+      "slow-cook",
+      "dairy-free"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-sweetie-pork-shoulder",
     "title": "Juicy Sweetie Pork Shoulder",
     "tags": [
