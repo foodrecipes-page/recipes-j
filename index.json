@@ -14,6 +14,19 @@
     "shard": "j"
   },
   {
+    "slug": "jasmine-green-salsa-baked-dish",
+    "title": "Jasmine Green Salsa Baked Dish",
+    "tags": [
+      "jasmine",
+      "green salsa",
+      "baked dish",
+      "vegan"
+    ],
+    "cuisine": "Russian Vegan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jerusalem-umami-splat",
     "title": "Jerusalem Umami Splat",
     "tags": [

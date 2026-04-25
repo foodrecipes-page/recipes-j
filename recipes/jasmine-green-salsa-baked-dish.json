@@ -1,0 +1,86 @@
+{
+  "title": "Jasmine Green Salsa Baked Dish",
+  "description": "A rich and crispy Russian-style dish featuring a green salsa that is vegan-friendly and perfect for a dinner.",
+  "cuisine": "Russian Vegan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tablespoons fresh"
+    },
+    {
+      "name": "Jasmine green salsa mix",
+      "amount": "1 cup canned"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook jasmine rice according to package instructions.",
+    "Chop green peppers and onions into small pieces. Mince garlic cloves.",
+    "In a large mixing bowl, combine cooked jasmine rice, chopped peppers, onions, minced garlic, cilantro leaves, salsa mix, olive oil, salt, and lime juice. Mix well until the mixture is uniform.",
+    "Transfer the mixture to an oven-safe baking dish. Bake for 25 minutes or until heated through and golden brown on top.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jasmine",
+    "green salsa",
+    "baked dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "jasmine-green-salsa-baked-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jasmine-green-salsa-baked-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:36:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "green salsa",
+    "diet": "jain",
+    "region": null
+  }
+}
