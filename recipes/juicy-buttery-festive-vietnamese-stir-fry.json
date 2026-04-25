@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Buttery Festive Vietnamese Stir-fry",
+  "description": "This buttery and juicy festive dish features dried cherries in a savory sauce that's perfect for a light dinner or snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "buttery",
+    "juicy",
+    "festive"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried cherry, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy sauce (low sodium)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fish white pepper (optional)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "for garnish",
+      "notes": "about 3 to 4 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and onions, sauté for about 2 minutes until fragrant.",
+    "Fold in chopped dried cherries. Cook them until they start to soften (about 5 minutes).",
+    "Stir in soy sauce, fish sauce, oyster sauce, ginger, and white pepper. Bring the mixture to a simmer.",
+    "Reduce heat to low-medium and let the flavors meld for about 10-12 minutes, stirring occasionally.",
+    "Serve hot with cilantro leaves as a garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "buttery",
+    "juicy",
+    "whisk"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "juicy-buttery-festive-vietnamese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-buttery-festive-vietnamese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:01:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "dried cherries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dried cherries",
+    "descriptor": "buttery juicy festive",
+    "dishForm": "Stir-fry"
+  }
+}
