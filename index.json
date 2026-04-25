@@ -27,6 +27,18 @@
     "shard": "j"
   },
   {
+    "slug": "jerusalem-ferment-bliss",
+    "title": "Jerusalem Ferment Bliss",
+    "tags": [
+      "thai",
+      "jerusalem-artichokes",
+      "ferment"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jerusalem-umami-splat",
     "title": "Jerusalem Umami Splat",
     "tags": [

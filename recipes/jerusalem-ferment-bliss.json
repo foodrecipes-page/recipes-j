@@ -1,0 +1,72 @@
+{
+  "title": "Jerusalem Ferment Bliss",
+  "description": "A rich and flaky monsoon Thai dish featuring Jerusalem artichokes, fermented vegetables, and pescatarian-friendly elements.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "4 cups thinly sliced"
+    },
+    {
+      "name": "Fermented vegetables (e.g. pickled beets, carrots)",
+      "amount": "1 cup chopped finely"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml canned or homemade"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons fresh squeezed"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "3 tablespoons roughly chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a pan until it's warm but not boiling.",
+    "Add fermented vegetables and fish sauce to the hot coconut milk, mixing well.",
+    "Slice Jerusalem artichokes into thin rounds and cook them in the same pot of coconut milk until they're tender, about 10 minutes.",
+    "Combine cooked Jerusalem artichokes with the coconut mixture, adding lime juice and chopped cilantro for flavoring.",
+    "Serve hot as a side dish or a standalone meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "jerusalem-artichokes",
+    "ferment"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 7,
+    "carbs": 56,
+    "fat": 2
+  },
+  "slug": "jerusalem-ferment-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jerusalem-ferment-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:28:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
