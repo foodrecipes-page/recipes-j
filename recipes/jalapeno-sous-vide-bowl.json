@@ -78,9 +78,9 @@
     "carbs": 10,
     "fat": 9
   },
-  "slug": "jalapeño-sous-vide-bowl",
+  "slug": "jalapeno-sous-vide-bowl",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/jalapeño-sous-vide-bowl",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeno-sous-vide-bowl",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T08:27:12Z",
   "axes": {
