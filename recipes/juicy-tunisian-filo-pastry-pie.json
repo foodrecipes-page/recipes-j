@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Tunisian Filo Pastry Pie",
+  "description": "This Juicy Tunisian Filo Pastry Pie is a crowd-pleaser featuring tender filo pastry filled with a savory and juicy mixture that's easy to make, kosher-friendly, and perfect for breakfast or a light meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 sheets phyllo dough",
+      "amount": "1 sheet per person"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "adjust quantity if using fresh garlic or less potent garlic variety"
+    },
+    {
+      "name": "1 red bell pepper, roasted and peeled",
+      "amount": "",
+      "notes": "ensure it's thoroughly cooked to a crispy texture for optimal flavor"
+    },
+    {
+      "name": "1/2 cup heavy cream (skimmed)",
+      "amount": "",
+      "notes": "adjust if using full-fat cream for lower fat content"
+    },
+    {
+      "name": "1 tsp lemon juice",
+      "amount": "",
+      "notes": "ensure it's fresh and does not have any preservatives"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "use kosher salt or regular table salt"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": "to garnish the top of the pie"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place phyllo sheets on a clean surface and cover with a damp cloth.",
+    "Mix minced garlic, roasted red bell pepper, heavy cream, lemon juice, and salt in a bowl. Set aside.",
+    "Carefully unfold a sheet of phyllo dough and place it on a flat serving plate.",
+    "Spread half of the filling mixture evenly over the phyllo, leaving about 1 inch (2.5 cm) around the edges for sealing.",
+    "Gently fold one corner of the phyllo over the filling, then roll up from that corner toward the center, tucking the ends underneath as you go.",
+    "Repeat with remaining sheets of phyllo and filling mixture to make two pie-like layers.",
+    "Brush the top layer lightly with olive oil (if using) for added flavor and easier flipping during baking.",
+    "Place both layers into a greased 9-inch pie dish, ensuring they are sealed tightly at the edges.",
+    "Bake in preheated oven for about 25-30 minutes or until golden brown. Check occasionally to prevent burning.",
+    "Let it rest for a few minutes before serving with fresh parsley on top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filo",
+    "tunisian",
+    "umami",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 12.9,
+    "carbs": 24.6,
+    "fat": 19.5
+  },
+  "slug": "juicy-tunisian-filo-pastry-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tunisian-filo-pastry-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:14:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "filo pastry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Filo Pastry",
+    "descriptor": "Juicy",
+    "dishForm": "Pie"
+  }
+}
