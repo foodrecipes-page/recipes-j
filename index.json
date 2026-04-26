@@ -226,6 +226,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-peppery-beef-stir-fry",
+    "title": "Juicy Peppery Beef Stir-fry",
+    "tags": [
+      "juicy",
+      "peppery",
+      "korean",
+      "beef-stir-fry",
+      "low-fat-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-peppery-squid-stir-fry",
     "title": "Juicy Peppery Squid Stir-fry",
     "tags": [

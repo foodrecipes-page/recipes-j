@@ -1,0 +1,82 @@
+{
+  "title": "Juicy Peppery Beef Stir-fry",
+  "description": "This adventurous Korean dish features juicy and peppery beef marinated in a chimichurri sauce, perfect for an evening meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2, thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the chimichurri sauce by combining lemon juice and olive oil in a blender. Add chopped green onions, finely chopped jalapeno peppers, and mix well.",
+    "Marinate the beef sirloin with chimichurri for at least 4 hours or overnight to infuse flavors.",
+    "In a wok or large skillet, heat olive oil over medium-high heat. Cook marinated beef until browned on all sides and fully cooked through.",
+    "Add water chestnuts to the pan and cook until they become translucent and slightly softened.",
+    "Mix in chopped green onions and continue to stir-fry for an additional 1-2 minutes or until everything is heated through and well combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy",
+    "peppery",
+    "korean",
+    "beef-stir-fry",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 19,
+    "fat": 18
+  },
+  "slug": "juicy-peppery-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peppery-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:02:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Peppery Juicy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
