@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Crispy British Potato Crumble",
+  "description": "An earthy and juicy crowd-pleaser featuring a crumbly topping of bread crumbs and spices on roasted potatoes, perfect for a simple yet satisfying side dish.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 lbs (about 1 kg)",
+      "notes": "waxy potatoes like King Edwards or Maris Piper are recommended"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp",
+      "notes": "for frying and roasting"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": "optional, for sweetness"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "optional, to complement the natural sweetness of the potatoes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "4 tbsp",
+      "notes": "to make the crumble topping"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tbsp (cold)",
+      "notes": "for making the crumble topping"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "2 tbsp",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1/4 cup",
+      "notes": "for the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Wash and peel potatoes, then slice them into rounds about 1/8-inch thick.",
+    "In a large skillet with oil over medium heat, fry potato slices for about 2-3 minutes until golden brown on one side. Turn and continue frying until evenly golden and crisp. Remove from skillet and set aside.",
+    "Melt butter in the same skillet over low-medium heat. Stir in sugar, cinnamon (if using), flour, and oats. Mix well to form a smooth paste. Add cold unsalted butter pieces and mix until crumbly and spreadable.",
+    "Spread evenly on top of fried potatoes. Bake for about 20-25 minutes or until golden brown and crisp on top.",
+    "Serve hot with soups, stews, or as a side to any main course. Garnish with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "crumble",
+    "potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 192,
+    "protein": 3.6,
+    "carbs": 18.7,
+    "fat": 5.4
+  },
+  "slug": "juicy-crispy-british-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-british-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:58:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Potato",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Crumble"
+  }
+}
