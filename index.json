@@ -180,6 +180,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-thai-carrot-stir-fry",
+    "title": "Juicy Thai Carrot Stir-fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "herbal"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juniper-earthbake",
     "title": "Juniper Earthbake",
     "tags": [

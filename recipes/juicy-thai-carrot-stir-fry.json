@@ -1,0 +1,76 @@
+{
+  "title": "Juicy Thai Carrot Stir-fry",
+  "description": "A herbal and juicy Polish dish featuring coriander to create a cozy and whole30-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "herbivore",
+    "pescatarian",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons, chopped fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup, granulated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add carrots and cook until they start to soften, about 5 minutes.",
+    "Stir in garlic and continue cooking for another minute.",
+    "Mix lime juice and sugar in a small bowl. Pour this mixture over the vegetables and stir well to coat them evenly.",
+    "Cook for an additional 2-3 minutes or until carrots are tender but still crisp.",
+    "Remove from heat, add chopped coriander, and toss gently to combine.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 2
+  },
+  "slug": "juicy-thai-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-thai-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:11:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "coriander",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "carrot",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
