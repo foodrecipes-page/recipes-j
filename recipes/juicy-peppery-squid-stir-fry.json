@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Peppery Squid Stir-fry",
+  "description": "A kid-friendly Korean dish featuring tender baby squid stir-fried with a tangy and spicy glaze, perfect for quick weekday dinners.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby squid",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Green onions, finely chopped",
+      "amount": "2 green onions"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add sliced onions and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for an additional minute until fragrant.",
+    "Add baby squid and stir-fry for about 2-3 minutes or until just cooked through.",
+    "Pour in soy sauce, fish sauce, gochujang, and mirin. Stir well to combine.",
+    "Reduce heat to low and let the mixture simmer for about 5 minutes to allow flavors to meld together.",
+    "Sprinkle sesame seeds evenly over the top and cook for another minute until heated through.",
+    "Garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "squid",
+    "stir-fry",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 16,
+    "carbs": 13,
+    "fat": 9
+  },
+  "slug": "juicy-peppery-squid-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peppery-squid-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:12:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "baby squid",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "baby squid",
+    "descriptor": "Peppery Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -195,6 +195,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-peppery-squid-stir-fry",
+    "title": "Juicy Peppery Squid Stir-fry",
+    "tags": [
+      "squid",
+      "stir-fry",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-peppery-turkey-stir-fry",
     "title": "Juicy Peppery Turkey Stir-fry",
     "tags": [
