@@ -293,6 +293,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-smoky-turkish-onion-stir-fry",
+    "title": "Juicy Smoky Turkish Onion Stir-Fry",
+    "tags": [
+      "turkish",
+      "juicy",
+      "onion",
+      "stir-fry",
+      "jain-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 17,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-sparkle-mexican-cherry-stir-fry",
     "title": "Juicy Sparkle Mexican Cherry Stir-fry",
     "tags": [

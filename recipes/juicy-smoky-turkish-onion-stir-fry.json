@@ -1,0 +1,87 @@
+{
+  "title": "Juicy Smoky Turkish Onion Stir-Fry",
+  "description": "An earthy and juicy one-pot dish featuring English mustard for a unique twist, this jain-friendly recipe is perfect for a quick dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "english mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add onions and garlic; sauté for about 5 minutes until softened.",
+    "Stir in red pepper flakes, salt, and black pepper. Cook for an additional minute.",
+    "Pour in the water or vegetable broth, then stir in English mustard.",
+    "Reduce to a simmer and cook for another 10-15 minutes until the onions are tender and the sauce has thickened slightly.",
+    "Serve hot as a side dish with pita bread."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "juicy",
+    "onion",
+    "stir-fry",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 43,
+    "fat": 10
+  },
+  "slug": "juicy-smoky-turkish-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-turkish-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:46:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "english mustard",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Onion",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
