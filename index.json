@@ -293,6 +293,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-smoky-potato-salad",
+    "title": "Juicy Smoky Potato Salad",
+    "tags": [
+      "smoky",
+      "juicy",
+      "potato",
+      "salad"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-smoky-turkish-onion-stir-fry",
     "title": "Juicy Smoky Turkish Onion Stir-Fry",
     "tags": [
