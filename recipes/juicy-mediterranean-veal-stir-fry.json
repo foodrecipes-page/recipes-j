@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Mediterranean Veal Stir-fry",
+  "description": "A herbal and juicy mediterranean dish featuring lean veal meat, perfect for a sick-day meal that's also low-fat-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "main course",
+  "ingredients": [
+    {
+      "name": "1 lb boneless veal cutlet",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "100g"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "1 yellow onion, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "3 cups cherry tomatoes, halved",
+      "amount": "750ml"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "250ml"
+    },
+    {
+      "name": "Fresh dill, chopped (for garnish)",
+      "amount": "30g"
+    },
+    {
+      "name": "Sea salt and black pepper, to taste",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F.",
+    "Season the veal cutlets with sea salt and freshly ground black pepper on both sides.",
+    "Heat a bit of olive oil in a large skillet over medium-high heat. Add garlic and sauté for about 30 seconds until fragrant.",
+    "Add the seasoned veal to the pan, cooking each side for about 2-3 minutes or until golden brown. Remove from heat and set aside.",
+    "In the same skillet, add the sliced red bell pepper and diced onion. Sauté for another minute or until slightly softened.",
+    "Pour in the lemon juice over the vegetables. Stir-fry for about a minute until it reduces slightly.",
+    "Add cherry tomatoes to the pan and stir for an additional 2 minutes. Make sure they are evenly distributed across the skillet.",
+    "Place the seasoned veal back into the skillet, arranging them around the veggies. Pour in olive oil, then add a pinch of sea salt and freshly ground black pepper. Cook on medium heat for about 6-8 minutes or until the meat is cooked through, adding more seasoning as needed to keep it juicy.",
+    "Garnish with fresh dill before serving hot.",
+    "Serve this dish alongside some crusty bread for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "juicy",
+    "sick-day",
+    "veal",
+    "tadka",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 27,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "juicy-mediterranean-veal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterranean-veal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:04:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "veal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Veal",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

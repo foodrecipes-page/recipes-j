@@ -155,6 +155,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-mediterranean-veal-stir-fry",
+    "title": "Juicy Mediterranean Veal Stir-fry",
+    "tags": [
+      "mediterranean",
+      "juicy",
+      "sick-day",
+      "veal",
+      "tadka",
+      "low-fat-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-midnight-herbs-portuguese-stir-fry",
     "title": "Juicy Midnight Herbs Portuguese Stir-fry",
     "tags": [
