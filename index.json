@@ -143,6 +143,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-kenyan-tomato-stir-fry",
+    "title": "Juicy Kenyan Tomato Stir-fry",
+    "tags": [
+      "stir-fry",
+      "juicy",
+      "kenyan",
+      "shaoxing-wine"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterranean-tomato-stir-fry",
     "title": "Juicy Mediterranean Tomato Stir-fry",
     "tags": [
