@@ -143,6 +143,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-fresh-greek-zucchini-salad",
+    "title": "Juicy Fresh Greek Zucchini Salad",
+    "tags": [
+      "greek",
+      "zucchini",
+      "salad",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-indulgent-german-soybeans-stir-fry",
     "title": "Juicy Indulgent German Soybeans Stir-fry",
     "tags": [

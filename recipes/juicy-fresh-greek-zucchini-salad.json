@@ -1,0 +1,89 @@
+{
+  "title": "Juicy Fresh Greek Zucchini Salad",
+  "description": "A fresh, tender Greek dish featuring lemon juice and other simple ingredients for a cozy and diabetic-friendly meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium zucchinis",
+      "notes": "preferably firm, about 8-10 inches in length"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup pitted kalamata olives",
+      "notes": "for extra flavor and a pop of color"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small red onion, finely chopped",
+      "notes": "to add crunch and sweetness"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 tablespoons fresh basil leaves, chiffonade-style",
+      "notes": "for a bright green touch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup freshly squeezed lemon juice",
+      "notes": "freshly squeezed for optimal flavor and texture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons extra virgin olive oil",
+      "notes": "to keep the salad fresh"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon red pepper flakes (optional)",
+      "notes": "for a touch of heat, optional"
+    }
+  ],
+  "instructions": [
+    "Slice zucchini into half-moons about 1/8 inch thick.",
+    "In a large bowl, combine sliced zucchinis with halved kalamata olives and finely chopped red onion.",
+    "Drizzle olive oil over the mixture and toss gently to coat.",
+    "Add finely chopped basil leaves and freshly squeezed lemon juice. Toss again until all ingredients are evenly coated.",
+    "Season lightly with salt if needed, then sprinkle red pepper flakes on top (if using).",
+    "Gently fold in mixed greens for additional freshness and nutrients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "zucchini",
+    "salad",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "juicy-fresh-greek-zucchini-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fresh-greek-zucchini-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:14:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "lemon juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Freshly Juicy",
+    "dishForm": "Salad"
+  }
+}
