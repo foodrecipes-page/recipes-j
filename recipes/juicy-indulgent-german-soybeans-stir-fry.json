@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Indulgent German Soybeans Stir-fry",
+  "description": "A savory and indulgent vegetarian dish featuring caramelized soya beans for a unique twist on traditional soybean dishes, perfect as a side or main course.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybeans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar or coconut sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Soak the soybeans overnight in water.",
+    "Drain and rinse the soaked soybeans. Add them to a pot with enough water to cover them, salt, and bring to a boil. Reduce heat and simmer for about 20-30 minutes until tender but still chewy.",
+    "While cooking the beans, chop the onions finely, mince the garlic and ginger.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat. Add chopped onions and sauté until translucent. Then add minced garlic and ginger to continue frying for about 2 minutes.",
+    "Fold in cooked soybeans and red pepper flakes. Pour brown sugar into the pan and stir gently, allowing it to caramelize slightly.",
+    "Season with salt and pepper according to taste. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy",
+    "indulgent",
+    "german",
+    "savory",
+    "soybeans",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-indulgent-german-soybeans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indulgent-german-soybeans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:20:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "soya bean",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Soybeans",
+    "descriptor": "Juicy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

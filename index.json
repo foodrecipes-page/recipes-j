@@ -115,6 +115,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-indulgent-german-soybeans-stir-fry",
+    "title": "Juicy Indulgent German Soybeans Stir-fry",
+    "tags": [
+      "juicy",
+      "indulgent",
+      "german",
+      "savory",
+      "soybeans",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterranean-tomato-stir-fry",
     "title": "Juicy Mediterranean Tomato Stir-fry",
     "tags": [
