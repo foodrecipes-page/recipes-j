@@ -1,0 +1,81 @@
+{
+  "title": "Juicy Turkish Anchovy Stir-fry",
+  "description": "A fresh and quick meal-prep dish featuring juicy anchovy fillets in a flavorful stir-fry sauce, perfect for those following a low FODMAP diet.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Anchovy Fillet",
+      "amount": "1",
+      "notes": "Freshly caught or canned, FODMAP-friendly"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2-3",
+      "notes": "For flavor and texture"
+    },
+    {
+      "name": "Onion Slices",
+      "amount": "1",
+      "notes": "To add sweetness and depth to the dish"
+    },
+    {
+      "name": "Soy Sauce (FODMAP-friendly version)",
+      "amount": "2 tbsp",
+      "notes": "For umami taste and balance"
+    },
+    {
+      "name": "Red Peppers, finely chopped",
+      "amount": "1-2",
+      "notes": "To add color and heat if desired"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tsp",
+      "notes": "For cooking and flavoring"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large frying pan over medium-high heat.",
+    "Add garlic, onion slices, and red peppers to the pan, stir-fry for about 2 minutes until fragrant.",
+    "Add anchovy fillets, soy sauce, and continue cooking for another minute.",
+    "Serve immediately as a light meal or add to a wrap with greens and seeds for a filling lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "juicy_turkish_anchovy_stir_fry",
+    "fodmap_friendly",
+    "meal_prep"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "juicy-turkish-anchovy-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-anchovy-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:00:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "anchovy",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
