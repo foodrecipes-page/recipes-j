@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Sparkle Mexican Cherry Stir-fry",
+  "description": "A floral, juicy, crowd-pleaser dish featuring cherry tomatoes, cherries, and a hint of nutmeg for a delicious twist on traditional stir-fries, perfect for vegans and keto dieters.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups fresh cherries, pitted and quartered",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, thinly sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons nutritional yeast",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons olive oil, divided",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons coconut aminos or tamari sauce",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat half of the olive oil in a large skillet over medium heat. Add onions and garlic; sauté until softened, about 3 minutes.",
+    "Add cherry tomatoes and orange juice to the skillet, reduce heat to low, cover, and simmer for about 5 minutes or until most juices are absorbed.",
+    "Stir in fresh cherries, nutritional yeast, nutmeg, and salt. Continue to cook for an additional minute.",
+    "Deglaze with remaining olive oil by adding lime juice; stir constantly to prevent burning. Cook for another minute.",
+    "Remove from heat and serve hot or at room temperature as a side dish or over a bed of quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-sparkle-mexican-cherry-stir-fry",
+    "floral-crowd-pleaser-polish-dish",
+    "nutmeg-deglaze",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 13
+  },
+  "slug": "juicy-sparkle-mexican-cherry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sparkle-mexican-cherry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:35:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "nutmeg",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cherry",
+    "descriptor": "Juicy Sparkle",
+    "dishForm": "Stir-fry"
+  }
+}
