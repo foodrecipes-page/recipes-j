@@ -1,0 +1,86 @@
+{
+  "title": "Juicy Cozy Argentinian Spinach Stir-fry",
+  "description": "This herbal, juicy spinich stir-fry features a marinated spinach dish with a cozy and delicious flavor profile that is nut-free-friendly and perfect for any meal.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "tomato sauce or paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red chili flakes (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the spinach by washing it thoroughly, then chop into small pieces.",
+    "In a large skillet or wok, heat the olive oil over medium-high heat. Add garlic cloves and sauté for about 30 seconds until fragrant but not browned.",
+    "Add the onion and red bell pepper to the skillet, stirring occasionally for about 5 minutes until softened.",
+    "Add the chopped spinach and balsamic vinegar to the pan. Cook for an additional 2-3 minutes until the spinach has wilted down and starts to release its moisture.",
+    "If using, add red chili flakes for a slight heat kick. Season with salt and pepper to taste based on your preference. Stir fry together until well combined and heated through.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-cozy-argentinian-spinach-stir-fry",
+    "herbal-flavor",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "juicy-cozy-argentinian-spinach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-cozy-argentinian-spinach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:27:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "spinach",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Spinach",
+    "descriptor": "Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
