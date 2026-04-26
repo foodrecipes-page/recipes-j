@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Earthy Dutch Potato Stir-fry",
+  "description": "This light Dutch dish features juicy potatoes and earthy flavors enhanced with horseradish for a unique twist. Halal-friendly and perfect as a side or main course.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 lbs (900g) small potatoes",
+      "notes": "preferably baby potatoes"
+    },
+    {
+      "name": "water",
+      "amount": "enough to cover the potatoes",
+      "notes": "boiling water"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "kosher or regular salt, halal if needed"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp (3g)",
+      "notes": "for a slight starchiness without using flour or cornstarch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml) extra virgin olive oil",
+      "notes": "divided for the stir-fry and potatoes"
+    },
+    {
+      "name": "horseradish paste",
+      "amount": "1-2 tsp (6g)",
+      "notes": "adjust to taste, can be made from fresh horseradish or prepared horseradish sauce"
+    },
+    {
+      "name": "chives",
+      "amount": "handful for garnish",
+      "notes": "fresh chives are best"
+    }
+  ],
+  "instructions": [
+    "Boil potatoes in boiling water with a pinch of salt until tender, about 10-12 minutes.",
+    "Drain and rinse under cold water to stop the cooking process. Pat dry with paper towels.",
+    "In a large skillet or wok, heat 1 tbsp olive oil over medium-high heat. Add diced potatoes and cook for 3-4 minutes until they start to brown slightly.",
+    "Add remaining olive oil and horseradish paste. Stir-fry for another minute until the horseradish aroma starts to diffuse into the potatoes.",
+    "Season with a pinch of baking soda, which will enhance the potato's natural sweetness and give it a slight bite. Cook for about 2 minutes more.",
+    "Serve hot, garnished with fresh chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthly",
+    "juicy",
+    "dutch",
+    "potato",
+    "stir-fry",
+    "horseradish",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 11
+  },
+  "slug": "juicy-earthy-dutch-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-earthy-dutch-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:40:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "horseradish",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Potato",
+    "descriptor": "Juicy Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
