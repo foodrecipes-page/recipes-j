@@ -1,0 +1,74 @@
+{
+  "title": "Juicy Vietnamese Pineapple Stir-fry",
+  "description": "A low-carb-friendly post-workout dish featuring juicy pineapple and other aromatic ingredients that provide umami flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup (fresh or canned, drained)",
+      "notes": "Rinse and slice thinly"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, finely grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kalamansi (Philippine lime)",
+      "amount": "juice of 1"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet or wok over medium heat.",
+    "Add pineapple slices and ginger; sauté until softened, about 5 minutes.",
+    "Stir in soy sauce and fish sauce. Cook for an additional minute to let flavors meld together.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "juicy",
+    "umami",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 4
+  },
+  "slug": "juicy-vietnamese-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-vietnamese-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:36:52Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "pineapple",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
