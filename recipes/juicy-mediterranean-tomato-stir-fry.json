@@ -1,0 +1,82 @@
+{
+  "title": "Juicy Mediterranean Tomato Stir-fry",
+  "description": "This fermented and juicy Malaysian dish combines the mediterranean-friendly flavors of tomatoes with a touch of chilli for a nostalgic twist.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 tsp",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "few, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "olive oil for frying",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Prepare the tomatoes by washing them and cutting into wedges.",
+    "In a pan, heat the olive oil over medium-high heat. Add minced garlic and cook until fragrant, about 1 minute.",
+    "Add red chilli flakes to the garlic and stir well for another 30 seconds.",
+    "Fold in chopped thyme leaves and continue stirring for another 30 seconds.",
+    "Gently add tomato wedges into the pan without overcrowding. Let them cook for a few minutes until slightly softened, then reduce heat to low-medium and cover with a lid.",
+    "Cook on medium-low heat for about 15-20 minutes or until tomatoes are tender and most of their moisture has been absorbed.",
+    "Serve hot as a side dish or over rice. Garnish with additional thyme leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-mediterranean-tomato-stir-fry",
+    "fermented-malaysian-dish",
+    "nostalgic-malaysian-recipe"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 7
+  },
+  "slug": "juicy-mediterranean-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterranean-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:37:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "chilli flakes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tomato",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
