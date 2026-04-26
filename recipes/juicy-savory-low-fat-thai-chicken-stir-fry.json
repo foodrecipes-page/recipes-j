@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
+  "description": "A savory and juicy Thai-inspired dish that features white vinegar for a zesty flavor with low-fat-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat",
+    "satisfying"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "200g",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed from 3 limes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium soy sauce or tamari for a gluten-free option"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup",
+      "notes": "low-acidity, like rice vinegar"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, can be replaced with low-sodium soy sauce or tamari"
+    },
+    {
+      "name": "chili garlic sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sugar variety for a healthier option"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 large, chopped",
+      "notes": "white part only, roughly 40g"
+    },
+    {
+      "name": "mixed vegetables (e.g. bell peppers, onions)",
+      "amount": "2 cups, julienned",
+      "notes": "low-sodium vegetable broth can be added for extra moisture if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat.",
+    "Season the chicken with salt and pepper on both sides. Add to the pan and cook until golden brown, about 5 minutes per side.",
+    "Remove chicken from pan and set aside. In the same pan, add a bit of oil if needed, then add minced ginger, scallions, chili garlic sauce, and oyster sauce (if using). Stir-fry for about 30 seconds until fragrant.",
+    "Deglaze the pan with white vinegar, scraping up any browned bits from the bottom. Bring to a simmer, letting it bubble for about 1 minute to release flavors.",
+    "Add cooked chicken back into the pan and stir to coat evenly in the sauce. Add mixed vegetables and soy sauce (low-sodium option). Stir-fry until just tender, approximately 2-3 minutes.",
+    "Serve hot with steamed jasmine rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat",
+    "sour",
+    "stir-fry",
+    "thai-style"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-low-fat-thai-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:03:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "white vinegar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Juicy Savory Low-Fat",
+    "dishForm": "Stir-fry"
+  }
+}

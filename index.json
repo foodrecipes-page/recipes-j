@@ -105,6 +105,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
+    "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
+    "tags": [
+      "low-fat",
+      "sour",
+      "stir-fry",
+      "thai-style"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-sweetie-pork-shoulder",
     "title": "Juicy Sweetie Pork Shoulder",
     "tags": [
