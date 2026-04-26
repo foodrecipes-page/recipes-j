@@ -1,0 +1,89 @@
+{
+  "title": "Juicy Sweet Japanese Apple Salad",
+  "description": "A lazy Sunday dish featuring sweet and juicy apples in a cider vinegar dressing, perfect for a light lunch or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Apple Cider",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Apples",
+      "amount": "6 medium apples"
+    },
+    {
+      "name": "Jalapeno Peppers, Finely Chopped (optional)",
+      "notes": "For a spicy kick, add jalapenos to taste."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey or Molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the grated Parmesan cheese, cider vinegar, apple cider, finely chopped jalapeno peppers (if using), lemon juice, honey or molasses, minced garlic, salt, and pepper.",
+    "Mix well until all ingredients are combined and evenly distributed.",
+    "Add sliced apples to the dressing mixture and gently toss to coat each piece of apple with the dressing. Ensure not to overmix as you want a juicy texture.",
+    "Let it sit for at least 10 minutes before serving, allowing flavors to meld together.",
+    "Serve chilled or at room temperature. Enjoy this Japanese-inspired dish on its own or alongside other light lunch items."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-apple-salad",
+    "sweet-japanese-dish",
+    "lazy-sunday-meal",
+    "cider-vinegar-salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 17,
+    "fat": 4
+  },
+  "slug": "juicy-sweet-japanese-apple-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-japanese-apple-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:13:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "cider vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "apple",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Salad"
+  }
+}
