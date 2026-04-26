@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Spiced Malaysian Tomato Stir-fry",
+  "description": "A low-calorie-friendly hangover-cure dish featuring umami flavors and green cardamom pods, perfect for a quick lunch or dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie-friendly",
+    "umsaturated-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "2-3 whole"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "scallions",
+      "amount": "a few, finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/4 cup (optional)"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a few sprigs, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the ingredients. Chop tomatoes and scallions finely.",
+    "Heat sesame oil in a wok or frying pan over medium-high heat.",
+    "Add green cardamom pods and ginger to the pan; cook for about 30 seconds until fragrant.",
+    "Stir in tomatoes, soy sauce, rice vinegar, salt, pepper, and optional chicken broth. Cook until tomatoes are soft and juices have thickened slightly.",
+    "Fold in scallions and fresh cilantro. Serve hot with steamed jasmine rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "juicy-spiced-malaysian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spiced-malaysian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:55:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Juicy Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
