@@ -1,0 +1,86 @@
+{
+  "title": "Juicy Citrusy Algerian Lime Leaves Stir-fry",
+  "description": "A dairy-free Algerian dish featuring blanched lime leaves for a unique and citrusy flavor profile that's perfect as a hangover cure.",
+  "cuisine": "Algerian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lime Leaves",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green Chilies (optional)",
+      "amount": "2-3 pods"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Blanch the lime leaves in boiling water for about 1 minute. Drain and set aside.",
+    "In a separate pan, sauté garlic cloves until fragrant, then add red bell pepper and green chilies (if using), stirring occasionally for another 3 minutes.",
+    "Add tomatoes and stir-fry for an additional 5 minutes, seasoning with salt as needed.",
+    "Fold in the blanched lime leaves and drizzle with fresh lime juice. Stir gently to combine all ingredients.",
+    "Cook over medium heat for about 10-12 minutes until the vegetables are tender and the flavors meld together.",
+    "Serve hot or at room temperature as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "citrusy",
+    "algerian-lime-leaves-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "juicy-citrusy-algerian-lime-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-citrusy-algerian-lime-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:41:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "lime leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lime leaves",
+    "descriptor": "Citrusy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
