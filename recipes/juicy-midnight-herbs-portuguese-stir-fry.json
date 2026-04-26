@@ -1,0 +1,86 @@
+{
+  "title": "Juicy Midnight Herbs Portuguese Stir-fry",
+  "description": "This herbal and juicy dish features freshly chopped parsley and other aromatic herbs for a savory and refreshing twist on traditional Portuguese cuisine, suitable for midnight cravings without dairy.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2 tbsp, fresh"
+    },
+    {
+      "name": "rosemary sprigs",
+      "amount": "2, fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season pork belly with salt and pepper.",
+    "Place on a baking sheet lined with parchment paper, cover with aluminum foil, and bake for about 20 minutes or until golden brown.",
+    "Meanwhile, in a large skillet over medium heat, add olive oil and sauté onion and garlic until translucent.",
+    "Add bell peppers and cook for another 5 minutes.",
+    "Stir in chopped parsley, thyme leaves, rosemary sprigs, and pork belly slices. Continue to cook for an additional 3-4 minutes until heated through.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-midnight-herbs-portuguese-stir-fry",
+    "portuguese-cuisine",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "juicy-midnight-herbs-portuguese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-midnight-herbs-portuguese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:49:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Herbs",
+    "descriptor": "Juicy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
