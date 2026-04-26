@@ -1,0 +1,89 @@
+{
+  "title": "Juicy Pickled Saudia Tomato Salad",
+  "description": "This rich and juicy Saudi Arabian dish features pickles alongside a tomato salad enhanced with sous-vide for a brunch-mood meal that's both halal-friendly and easy to prepare.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 medium red onion",
+      "amount": "1 piece",
+      "notes": "Chopped"
+    },
+    {
+      "name": "4 ripe tomatoes",
+      "amount": "2 pieces each",
+      "notes": "Halved and seeded"
+    },
+    {
+      "name": "1 green bell pepper",
+      "amount": "1 piece",
+      "notes": "Diced"
+    },
+    {
+      "name": "1/2 cup pickled jalapeño slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "4 large eggs",
+      "amount": "4 pieces",
+      "notes": "Sous-vide at 60°C for 30 minutes"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "1 lime",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": "For seasoning the salad"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the eggs at 60°C for 30 minutes. Let them cool and peel off the shells.",
+    "Chop the red onion, dice the green bell pepper, and remove the seeds from the tomatoes.",
+    "In a large bowl, mix the chopped onions, halved tomatoes with seeds removed, diced bell peppers, and pickled jalapeños.",
+    "Add the leached juice of 1 lemon to the salad mixture. Season with salt to taste.",
+    "Peel and thinly slice the eggs. Mix them into the prepared salad.",
+    "Serve chilled or at room temperature as a side dish for breakfast."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia-tomato-salad",
+    "juicy-pickled-sauce",
+    "sous-vide-eggs",
+    "halal-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "juicy-pickled-saudia-tomato-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-pickled-saudia-tomato-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:52:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "pickles",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Tomato",
+    "descriptor": "Juicy Pickled",
+    "dishForm": "Salad"
+  }
+}

@@ -210,6 +210,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-pickled-saudia-tomato-salad",
+    "title": "Juicy Pickled Saudia Tomato Salad",
+    "tags": [
+      "saudia-tomato-salad",
+      "juicy-pickled-sauce",
+      "sous-vide-eggs",
+      "halal-friendly-dish"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 90,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
     "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
     "tags": [
