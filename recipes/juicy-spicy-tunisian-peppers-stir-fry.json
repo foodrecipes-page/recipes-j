@@ -1,0 +1,82 @@
+{
+  "title": "Juicy Spicy Tunisian Peppers Stir-fry",
+  "description": "A spicy and juicy vegetarian dish inspired by traditional Tunisian cuisine, featuring a blend of massaman curry paste to enhance the flavor.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce (or tamari)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chicken broth or water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Oil for frying and stir-frying",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions, finely chopped garlic, and bell peppers. Stir fry until the vegetables are slightly tender.",
+    "Stir in massaman curry paste, salt to taste, and tahini sauce.",
+    "Pour in chicken broth or water, stir again, bring to a simmer, then cover and let cook for about 10 minutes until thickened.",
+    "Add soy sauce (or tamari) just before serving for extra umami flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-spicy-tunisian-peppers-stir-fry",
+    "spicy-vegetarian-dish",
+    "tunisian-style-curry"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "juicy-spicy-tunisian-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-tunisian-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:33:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
