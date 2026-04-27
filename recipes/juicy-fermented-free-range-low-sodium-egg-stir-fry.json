@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Fermented Free Range Low Sodium Egg Stir-fry",
+  "description": "A kid-friendly Russian dish featuring fermented egg, free-range eggs beaten, and a touch of herbs for a savory twist with a low-sodium kick.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Egg",
+      "amount": "10g",
+      "notes": "Use high-quality fermented egg for best results."
+    },
+    {
+      "name": "Free-range Eggs",
+      "amount": "2 pcs",
+      "notes": "Beat eggs until well combined."
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "5 pcs",
+      "notes": "Soaked and rinsed to remove any bitterness."
+    },
+    {
+      "name": "Shredded Cabbage",
+      "amount": "100g",
+      "notes": "Washed and dried carefully."
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2 pieces",
+      "notes": "Trimmed, chopped for freshness."
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "50g",
+      "notes": "Rinsed to remove any dirt or impurities."
+    },
+    {
+      "name": "Oil",
+      "amount": "1tbsp",
+      "notes": "For stir-frying and seasoning."
+    },
+    {
+      "name": "Herbs (Fresh Dill, Tarragon)",
+      "amount": "2-3 sprigs",
+      "notes": "Chopped finely for added flavor."
+    }
+  ],
+  "instructions": [
+    "Heat a wok or non-stick pan over medium-high heat. Add oil and swirl to coat the bottom.",
+    "Add beaten free-range eggs and stir quickly until they set into small curds.",
+    "Fold in water chestnuts, shredded cabbage, green onions (scallions), bean sprouts, and chopped herbs.",
+    "Stir-fry for 2-3 minutes until vegetables are slightly tender but still crisp.",
+    "Sprinkle fermented egg over the stir-fried vegetables, ensuring they're evenly distributed.",
+    "Continue to cook for an additional 1-2 minutes, allowing the fermented egg to meld with other ingredients without breaking into pieces.",
+    "Season with salt and pepper to taste. Serve hot as a side dish or on its own."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "fermented",
+    "kid-friendly",
+    "free-range",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "juicy-fermented-free-range-low-sodium-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fermented-free-range-low-sodium-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:07:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Egg",
+    "descriptor": "Juicy Fermented Free Range Low Sodium",
+    "dishForm": "Stir-fry"
+  }
+}
