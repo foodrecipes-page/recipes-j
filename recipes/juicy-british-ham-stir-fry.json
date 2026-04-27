@@ -1,0 +1,87 @@
+{
+  "title": "Juicy British Ham Stir-fry",
+  "description": "A savory and sour-sweet dish featuring juicy ham slices stir-fried with gluten-free-friendly vegetables for a nostalgic twist on classic British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "200g"
+    },
+    {
+      "name": "Gluten-Free Veggie Stir-Fry Sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1-2 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetables (optional)",
+      "amount": "any variety, 200g"
+    },
+    {
+      "name": "Olive Oil or Gluten-Free Oil Substitute",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add chopped garlic and cook until fragrant, about 30 seconds.",
+    "Remove from heat and stir in ham pieces. Cook for 4-5 minutes on each side or until golden brown and slightly crispy.",
+    "Return to the wok/pan with a small amount of sauce, stirring constantly to prevent sticking.",
+    "Gradually add remaining soy sauce, cornstarch mixture, and gluten-free veggie stir-fry sauce to the pan. Stir continuously to thicken and coat ingredients evenly.",
+    "Add any optional vegetables during the last 2-3 minutes of cooking time for a burst of flavor and color.",
+    "Cook until all the liquid is absorbed and flavors are well distributed throughout the dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "british",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 21,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "juicy-british-ham-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-ham-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:12:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "ham",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "ham",
+    "descriptor": "Nostalgic Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
