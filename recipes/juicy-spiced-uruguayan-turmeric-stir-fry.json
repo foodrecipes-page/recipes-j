@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Spiced Uruguayan Turmeric Stir-fry",
+  "description": "A savory and umami-packed dish featuring monsoon-inspired flavors of Uruguay with a touch of sweetness from pickled vegetables to make it diabetic-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 yellow bell pepper, sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "200g ground turkey or chicken breast, thinly sliced",
+      "amount": "oz"
+    },
+    {
+      "name": "1/4 cup finely chopped pickled jalapeño peppers",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons fish sauce (or rice vinegar for non-Asian cultures)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon sugar",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 teaspoon ground turmeric",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic, sauté for about 2 minutes until fragrant.",
+    "Add bell peppers and sliced meat to the wok. Cook for about 5-7 minutes, stirring occasionally.",
+    "Pour in soy sauce, fish sauce (or rice vinegar), sugar, turmeric, and water. Stir well.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes or until vegetables are soft and meat is cooked through.",
+    "Stir in pickled jalapeño peppers and cook for an additional minute to let flavors meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-spiced",
+    "uruguayan-turmeric-stir-fry",
+    "monsoon-flavors",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "juicy-spiced-uruguayan-turmeric-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spiced-uruguayan-turmeric-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:14:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "turmeric",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Turmeric",
+    "descriptor": "Juicy Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
