@@ -560,6 +560,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-tunisian-tomato-stir-fry",
+    "title": "Juicy Tunisian Tomato Stir-fry",
+    "tags": [
+      "tunisian",
+      "juicy",
+      "stir-fry",
+      "earthly"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 36,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-turkish-anchovy-stir-fry",
     "title": "Juicy Turkish Anchovy Stir-fry",
     "tags": [

@@ -1,0 +1,81 @@
+{
+  "title": "Juicy Tunisian Tomato Stir-fry",
+  "description": "An earthy and juicy weeknight dish featuring a blend of aromatic spices and fresh tomatoes cooked with fast-action yeast for quick flavor development.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quick-cooking yeast",
+      "amount": "cup",
+      "notes": "Instant or rapid-rise yeast"
+    },
+    {
+      "name": "2 medium onions, finely chopped"
+    },
+    {
+      "name": "3 large tomatoes, diced"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced"
+    },
+    {
+      "name": "1 small zucchini, diced"
+    },
+    {
+      "name": "1/4 cup fresh oregano leaves"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to manufacturer's instructions.",
+    "In the hot pressure cooker, add the chopped onions and cook until translucent, about 2 minutes.",
+    "Add garlic, tomatoes, red bell pepper, zucchini, oregano, cumin, salt, and pepper. Stir well to combine all ingredients.",
+    "Cook on high for 1 minute then reduce heat to low and allow to cook under pressure for an additional 5 minutes or until the desired consistency is reached.",
+    "Release steam from cooker using quick-release method (be careful as it will be hot).",
+    "Serve hot with crusty bread, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 26,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "juicy",
+    "stir-fry",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "juicy-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:57:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fast action yeast",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomato",
+    "descriptor": "juicy",
+    "dishForm": "Stir-fry"
+  }
+}
