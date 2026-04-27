@@ -1,0 +1,79 @@
+{
+  "title": "Juicy Nutty Oat Crumble",
+  "description": "A quick-fix middle-eastern dish featuring rolled oats, almonds, and dates for a nutty, juicy texture that's keto-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup chopped almonds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6-8 dates, pitted and roughly chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine oats and almonds.",
+    "Add chopped dates and lemon juice. Stir until evenly combined.",
+    "Transfer mixture to an oven-safe dish or baking tray.",
+    "Bake for 12-15 minutes or until golden brown and crisp on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-nutty",
+    "oat-crumble",
+    "keto-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 137,
+    "protein": 2.8,
+    "carbs": 10.6,
+    "fat": 4.9
+  },
+  "slug": "juicy-nutty-oat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nutty-oat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:13:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "rolled oats",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "oats",
+    "descriptor": "Nutty Juicy",
+    "dishForm": "Crumble"
+  }
+}
