@@ -1,0 +1,84 @@
+{
+  "title": "Juicy Nostalgic Earthy Tofu Stir-fry",
+  "description": "A Mediterranean-inspired keto-friendly dish featuring marinated tofu with earthy flavors for a nostalgic and juicy culinary experience.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Marinade",
+      "amount": "2 tbsp olive oil",
+      "notes": "For tofu"
+    },
+    {
+      "name": "Tofu cubes",
+      "amount": "400g extra firm",
+      "notes": "About 1.5 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "Finely minced"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers, julienned",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat.",
+    "Marinate the tofu in a mixture of olive oil and herbs (like thyme or oregano) for at least an hour. Rinse and pat dry before use.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat. Add minced garlic and onions, cooking until softened about 3-4 minutes.",
+    "Add bell peppers and marinated tofu to the skillet, stirring gently to combine ingredients. Cook for another 5-7 minutes or until tofu is golden brown on all sides.",
+    "Drizzle remaining olive oil over the tofu mixture and sprinkle with salt and pepper to taste. Stir-fry for an additional minute to enhance flavors.",
+    "Serve hot as a lunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "juicy",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 579,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 34
+  },
+  "slug": "juicy-nostalgic-earthy-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-earthy-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:36:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "marinated tofu",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
