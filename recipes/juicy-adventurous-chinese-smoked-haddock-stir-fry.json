@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Adventurous Chinese Smoked Haddock Stir-fry",
+  "description": "An earthy and adventurous Cantonese dish featuring smoked haddock in a savory stir-fry sauce that is both healthy and jain-friendly.",
+  "cuisine": "Chinese (Cantonese)",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock Fillets",
+      "amount": "200g",
+      "notes": "Ensure the fish is smoked at a safe temperature, not exceeding 165°F (74°C) to preserve its texture and flavor."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Mince finely for maximum aroma and flavor."
+    },
+    {
+      "name": "Chili Peppers, Finely Chopped (Optional)",
+      "amount": "1-2 pieces",
+      "notes": "For an extra kick, finely chop 1-2 chili peppers."
+    },
+    {
+      "name": "Fresh Ginger Slices",
+      "amount": "1 inch piece",
+      "notes": "Grate or thinly slice for a robust ginger flavor."
+    },
+    {
+      "name": "Shallots, Finely Chopped (Optional)",
+      "amount": "3 pieces",
+      "notes": "Add to enhance the stir-fry's depth of flavor."
+    },
+    {
+      "name": "Canned Black Beans (Optionally Used)",
+      "amount": "10g can size",
+      "notes": "For added texture and umami."
+    },
+    {
+      "name": "Jade Pepper (Optional)",
+      "amount": "A pinch (for color, not as a spice)"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and optional chili peppers; sauté for about 30 seconds until fragrant but not browned.",
+    "If using shallots, add them now and stir-fry briefly until translucent.",
+    "Carefully add smoked haddock fillets skin-side down to the pan. Let cook undisturbed for about 2 minutes on each side or until golden brown.",
+    "Stir in ginger slices; gently toss everything together.",
+    "If using canned black beans, add them now and stir-fry until heated through (about 1-2 minutes).",
+    "Season with salt to taste. If desired, sprinkle a pinch of jade pepper over the top for color appeal.",
+    "Cook remaining shallots or optional jade pepper if added in earlier steps for about 30 seconds.",
+    "Finally, add more vegetable oil if needed and stir-fry any fresh herbs or additional seasonings if using (e.g., soy sauce, rice vinegar), adjusting to your desired level of umami.",
+    "Turn off heat and immediately serve hot with steamed rice. Serve with extra ginger slices on the side for dipping into the sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "cantonese",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "juicy-adventurous-chinese-smoked-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-adventurous-chinese-smoked-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:06:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "smoked haddock",
+    "diet": "jain",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "smoked haddock",
+    "descriptor": "juicy adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
