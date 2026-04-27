@@ -1,0 +1,87 @@
+{
+  "title": "Juicy Adventurous Indian Garlic Burger Bun Stir-Fry",
+  "description": "A sweet and savory dish featuring juicy garlic infused inside toasted sesame seed burger buns. Boil gently to retain flavors and textures.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sesame seed burger bun",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1/4 cup, minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "coriander leaves (cilantro)",
+      "amount": "2 tablespoons, fresh and roughly chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar-free ketchup or sweet soy sauce",
+      "amount": "as needed for dipping"
+    }
+  ],
+  "instructions": [
+    "Boil the sesame seed burger buns until they're slightly soft, ensuring not to overcook them.",
+    "In a mixing bowl, mince garlic and ginger together with the chopped onion. Add salt according to your taste.",
+    "Fold in the diced tomato and finely chopped coriander leaves into the minced garlic mixture. Mix well.",
+    "Brush sesame oil on each toasted sesame seed burger bun, then spoon the mixed ingredients inside evenly.",
+    "Gently stir-fry the stuffed buns over medium heat until the juices start to seep out of the buns, about 3-5 minutes per side.",
+    "Remove from heat and let them cool slightly before serving. Optionally, drizzle with a bit more sugar-free ketchup or sweet soy sauce for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-adventurous-indian",
+    "garlicky-sesame-bun-stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-adventurous-indian-garlic-burger-bun-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:45:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Juicy Adventurous",
+    "dishForm": "Burger Bun Stir-Fry"
+  }
+}
