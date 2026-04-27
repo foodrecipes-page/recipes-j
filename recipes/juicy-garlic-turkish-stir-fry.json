@@ -1,0 +1,86 @@
+{
+  "title": "Juicy Garlic Turkish Stir-fry",
+  "description": "This dish features a blend of bitter and juicy elements marinated in garlic granules to serve as a hangover cure.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soaked dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried figs",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large frying pan over medium-high heat.",
+    "Add garlic granules and stir-fry for about 30 seconds until fragrant.",
+    "Add diced red bell pepper to the pan, tossing occasionally for about 5 minutes until slightly softened.",
+    "Drain soaked dried apricots and figs; add them along with cilantro leaves to the pan. Toss well.",
+    "Pour in rice vinegar and lime juice, then toss again for a few seconds to coat all ingredients evenly.",
+    "Season with salt or other seasonings of your choice if needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "bitter",
+    "hangover-cure",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "juicy-garlic-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-garlic-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:31:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "garlic granules",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

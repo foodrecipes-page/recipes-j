@@ -208,6 +208,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-garlic-turkish-stir-fry",
+    "title": "Juicy Garlic Turkish Stir-fry",
+    "tags": [
+      "juicy",
+      "bitter",
+      "hangover-cure",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-indian-tomato-stir-fry",
     "title": "Juicy Indian Tomato Stir-Fry",
     "tags": [
