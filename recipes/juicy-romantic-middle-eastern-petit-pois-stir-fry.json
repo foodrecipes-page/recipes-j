@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Romantic Middle Eastern Petit Pois Stir-fry",
+  "description": "A vibrant and aromatic citrusy vegetarian dish featuring petit pois with a medley of aromatic herbs and spices to create a romantic and delightful meal for two.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup petit pois",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "Pinch of cumin",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pinch of coriander seeds",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 medium carrots, sliced thinly",
+      "amount": "medium"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "onion"
+    },
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": "cup"
+    },
+    {
+      "name": "1 bunch fresh parsley, roughly chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add lemon and lime juices, cumin, coriander seeds, and garlic. Stir-fry for about 1 minute until fragrant but not browned.",
+    "Toss in carrots and onion. Cook for an additional 3-4 minutes until onions are translucent.",
+    "Stir in cherry tomatoes. Sauté for another 2-3 minutes until tomatoes soften slightly.",
+    "Fold in petit pois. Stir gently to prevent crushing the petits pois. Add more lemon or lime juice if needed to maintain juiciness.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "romantic",
+    "middle-eastern",
+    "petit pois",
+    "citrusy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "juicy-romantic-middle-eastern-petit-pois-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-romantic-middle-eastern-petit-pois-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:58:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "petit pois",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Petit Pois",
+    "descriptor": "Citrusy Juicy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
