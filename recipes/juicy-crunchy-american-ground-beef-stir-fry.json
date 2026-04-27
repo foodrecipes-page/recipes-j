@@ -1,0 +1,87 @@
+{
+  "title": "Juicy Crunchy American Ground Beef Stir-fry",
+  "description": "A fresh and juicy meal-prep dish featuring keto-friendly ground beef with a crunchy texture that's perfect for any lunch or snack.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "dumplings",
+      "amount": "10"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "sugar",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a non-stick skillet over medium-high heat.",
+    "Add ground beef and cook until browned, breaking up with a spatula. Remove from pan when done.",
+    "In the same skillet, sauté onions and bell peppers until softened.",
+    "Add garlic, sugar, salt, and pepper to taste in the skillet. Stir-fry for 1-2 minutes or until fragrant.",
+    "Return ground beef to skillet and stir together with vegetables. Cook for another minute.",
+    "Slice dumplings if desired and add them into the skillet. Mix well and cook until heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ground-beef",
+    "stir-fry",
+    "keto-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 27,
+    "carbs": 11,
+    "fat": 10
+  },
+  "slug": "juicy-crunchy-american-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-american-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:30:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "ground beef",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "ground beef",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
