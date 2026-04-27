@@ -1,0 +1,89 @@
+{
+  "title": "Juicy Cozy Canadian Beef Stir-fry",
+  "description": "An earthy and juicy Canadian-inspired dish featuring tender beef, blanched tomatoes, and a touch of cozy comfort food flavors without added sugars.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Peanuts (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green Onions (scallions) for garnish",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Wash the beef, tomatoes, onion, and garlic. Pat dry the beef with paper towels.",
+    "Slice the beef thinly against the grain. Blanch the tomatoes in boiling water for about 1 minute. Drain and set aside.",
+    "Dice the onion and mince the garlic finely. Peel and chop the peanuts (optional).",
+    "In a large pan, heat olive oil over medium-high heat. Add the diced onions and cook until they start to soften, about 2 minutes.",
+    "Add minced garlic and sauté for another minute until fragrant. Add blanched tomatoes and peanuts (if using) to the pan with the beef slices. Stir well to combine.",
+    "Pour in soy sauce and stir well to coat all ingredients evenly. Adjust seasoning with salt and pepper to taste, then cook for an additional 2 minutes or until the beef is cooked through but still juicy.",
+    "Garnish with chopped green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cozy",
+    "beef_stir-fry",
+    "sugar_free"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 31,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "juicy-cozy-canadian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-cozy-canadian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:29:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
