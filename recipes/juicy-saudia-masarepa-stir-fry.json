@@ -1,0 +1,72 @@
+{
+  "title": "Juicy Saudia Masarepa Stir-fry",
+  "description": "A sweet and juicy whole30-friendly dish featuring white masarepa noodles, prepared with minimal ingredients for a quick weeknight meal.",
+  "cuisine": "Saudia Arabian",
+  "diet": [
+    "whole30",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Masarepa Noodles",
+      "amount": "1 cup",
+      "notes": "Choose unsweetened varieties for a whole30-friendly option."
+    },
+    {
+      "name": "Mixed Vegetables (e.g., bell peppers, carrots)",
+      "amount": "1 cup chopped",
+      "notes": "Use whole vegetables to increase nutritional value."
+    },
+    {
+      "name": "Sauce Ingredients (unsweetened condensed coconut milk or cashew cream for a dairy-free option)",
+      "amount": "1/2 cup",
+      "notes": "Adjust according to preference and dietary needs."
+    },
+    {
+      "name": "Garlic and Ginger",
+      "amount": "3 cloves garlic, minced; 1 inch ginger, peeled and finely chopped"
+    }
+  ],
+  "instructions": [
+    "Boil the masarepa noodles in water until al dente.",
+    "Sautee garlic and ginger in a pan with some oil for about 2 minutes.",
+    "Add mixed vegetables to the pan and continue cooking until they are slightly softened, stirring occasionally.",
+    "Combine the cooked masarepa noodles with the sautéed vegetables and add the sauce. Cook everything together over medium heat until heated through.",
+    "Serve hot as a side dish or main meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-saudia-masarepa-stir-fry",
+    "sweet-arabian-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "juicy-saudia-masarepa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-saudia-masarepa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:11:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "white masarepa",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "masarepa",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
