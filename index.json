@@ -169,6 +169,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-indian-tomato-stir-fry",
+    "title": "Juicy Indian Tomato Stir-Fry",
+    "tags": [
+      "juicy-vegetarian",
+      "indian-stir-fry",
+      "dairy-free-friendly",
+      "use-of-rose-water"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-indulgent-german-soybeans-stir-fry",
     "title": "Juicy Indulgent German Soybeans Stir-fry",
     "tags": [
