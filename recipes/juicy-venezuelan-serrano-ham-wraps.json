@@ -1,0 +1,83 @@
+{
+  "title": "Juicy Venezuelan Serrano Ham Wraps",
+  "description": "These low-carb-friendly ham wraps are packed with umami flavors and perfect for a brunch mood. Air frying keeps them juicy without the need for much oil.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "salty"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup finely chopped serrano ham",
+      "amount": "",
+      "notes": "Use pre-cut slices if available"
+    },
+    {
+      "name": "2 tbsp mayonnaise or vegan mayo",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup diced red onion (optional)",
+      "amount": "",
+      "notes": "For a pop of color and flavor"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for the best flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper, freshly ground (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine serrano ham with mayonnaise and add finely chopped red onion if using. Mix until well combined.",
+    "Season the mixture with salt to taste and a pinch of black pepper if desired. Adjust seasoning based on preference for umami depth.",
+    "Shape into small wraps or bite-sized pieces, ensuring each wrap is evenly coated in the ham mixture.",
+    "Preheat your air fryer to 200°C (390°F). Place the wraps in the basket and cook for about 8-10 minutes, flipping halfway through cooking time.",
+    "Remove from air fryer and let cool slightly before serving. These wraps are best enjoyed as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "serrano-ham",
+    "air-fried-wrap",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 2,
+    "fat": 14
+  },
+  "slug": "juicy-venezuelan-serrano-ham-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-venezuelan-serrano-ham-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:35:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "serrano ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Juicy",
+    "dishForm": "Wraps"
+  }
+}
