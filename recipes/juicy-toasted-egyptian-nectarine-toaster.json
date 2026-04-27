@@ -1,0 +1,67 @@
+{
+  "title": "Juicy Toasted Egyptian Nectarine Toaster",
+  "description": "A spicy and juicy solo-dinner dish featuring nectarines on toast, perfect for a light meal that's both satisfying and healthy.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Nectarines",
+      "amount": "2 medium-sized",
+      "notes": "Choose ripe nectarines for juiciness."
+    },
+    {
+      "name": "Sugar-free honey or maple syrup",
+      "amount": "1 tablespoon (optional)",
+      "notes": "Use sparingly as a sweetener."
+    }
+  ],
+  "instructions": [
+    "Slice the nectarines into thin rounds.",
+    "Place each slice of toasted bread on a plate, and top with one sliced nectarine.",
+    "Drizzle with sugar-free honey or maple syrup if desired.",
+    "Sprinkle thinly sliced red pepper for added spice. Use a dash for every 2 slices of toast.",
+    "Serve immediately while the toppings are fresh and juicy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "snack",
+    "juicy",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "juicy-toasted-egyptian-nectarine-toaster",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-toasted-egyptian-nectarine-toaster",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:08:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "nectarines",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Nectarine",
+    "descriptor": "Juicy Toasted",
+    "dishForm": "Toaster"
+  }
+}
