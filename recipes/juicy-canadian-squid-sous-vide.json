@@ -1,0 +1,89 @@
+{
+  "title": "Floral Juicy Canadian Squid Sous-vide",
+  "description": "This vegan-friendly dish features a floral and juicy Canadian squid dish made using sous-vide cooking method to create a gentle heat treatment for the delicate texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squid Fillets",
+      "amount": "1 lb",
+      "notes": "preferably fresh or frozen and defrosted"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "vegan butter can be used for a dairy-free option"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for basting the squid fillets"
+    },
+    {
+      "name": "Herbes de Provence",
+      "amount": "1 tsp",
+      "notes": "a mix of fresh herbs, including lavender for a floral note"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced or chopped finely"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp",
+      "notes": "aged red wine vinegar to complement the flavors"
+    },
+    {
+      "name": "Oxaloacetate (optional)",
+      "amount": "3 ml",
+      "notes": "concentrated oxaloacetate for hangover relief, but may be omitted if not needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 62°C (144°F). Pat the squid fillets dry with paper towels.",
+    "In a small bowl, mix together the Herbes de Provence, minced garlic, and red wine vinegar. Brush this mixture over both sides of the squid fillets.",
+    "Season the fillets with salt and pepper on both sides. Place the prepared squid in a sous-vide bag and seal tightly.",
+    "Sous-vide the squid at 62°C (144°F) for 30 minutes. During the last 5 minutes, baste the fillets lightly with olive oil to add extra flavor and shine.",
+    "While the squid is cooking, prepare a simple sauce by heating butter in a small skillet until it starts to brown slightly. Remove the squash from the sous-vide bag and sear them for about 30 seconds on each side over medium heat.",
+    "Pour the hot sauce over the seared squid fillets, ensuring they are fully coated. Serve immediately as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "vegan-friendly",
+    "floral-squid"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 26,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "juicy-canadian-squid-sous-vide",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-squid-sous-vide",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:36:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "squid",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Squid",
+    "descriptor": "Juicy",
+    "dishForm": "Sous-vide"
+  }
+}
