@@ -1,0 +1,75 @@
+{
+  "title": "Juicy Mediterannean Apple Salad",
+  "description": "A herbal and juicy German dish featuring a mediterranean-friendly twist with a touch of nostalgia. This recipe includes custard for an extra layer of flavor.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 medium apples"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh herbs (thyme, parsley)",
+      "amount": "handful"
+    },
+    {
+      "name": "custard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the apples and place them in a baking dish.",
+    "Mix together dijon mustard, fresh herbs, custard, olive oil, and balsamic vinegar. Pour over the apples and mix evenly.",
+    "Bake for about 20-25 minutes or until the apples are soft but still have some texture.",
+    "Let it cool a bit before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "mediterranean",
+    "german",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 31,
+    "fat": 6
+  },
+  "slug": "juicy-mediterannean-apple-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterannean-apple-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:56:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "custard",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Apple",
+    "descriptor": "Juicy Mediterannean",
+    "dishForm": "Salad"
+  }
+}

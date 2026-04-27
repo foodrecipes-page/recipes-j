@@ -303,6 +303,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-mediterannean-apple-salad",
+    "title": "Juicy Mediterannean Apple Salad",
+    "tags": [
+      "juicy",
+      "mediterranean",
+      "german",
+      "nostalgic"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterranean-tomato-stir-fry",
     "title": "Juicy Mediterranean Tomato Stir-fry",
     "tags": [
