@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Savoy Cabbage Japanese Stir-fry",
+  "description": "A herbal and juicy show-off dish featuring savoy cabbage in a traditional bhuna sauce with a touch of umami flavor from miso paste, suitable for vegetarians.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium savoy cabbage",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 tablespoons low-sodium soy sauce",
+      "notes": "can use plant-based soy sauce for vegan option"
+    },
+    {
+      "name": "2 tablespoons mirin or rice vinegar (for umami and sweetness)",
+      "notes": "use water if using miso paste"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "notes": "adjust based on taste preference, avoid overheating if cooking for a vegan dish"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "2 green onions, thinly sliced",
+      "notes": "optional but adds flavor and texture"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger (fresh or substitute with dried if unavailable)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 tablespoon miso paste",
+      "notes": "use regular soy sauce for vegan option"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the savoy cabbage into thin strips.",
+    "Heat a wok or large frying pan with 1 tablespoon of sesame oil over medium-high heat. Add remaining 1 tablespoon of oil and sauté garlic, green onions (if using), and ginger until fragrant and slightly golden.",
+    "Add the chopped savoy cabbage to the pan, stir-fry for about 3-5 minutes until softened but still crisp-tender.",
+    "In a small bowl, mix soy sauce with mirin or rice vinegar. If you're not using miso paste, add this mixture to the wok along with miso paste and vegetable oil. Stir everything together well.",
+    "Bring the heat down to medium and continue stirring until most of the liquid evaporates and the dish is glossy and aromatic.",
+    "Taste and adjust seasoning if necessary. Serve hot as a side or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-savoy-cabbage",
+    "bhuna-style-stir-fry",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 9,
+    "carbs": 31,
+    "fat": 14
+  },
+  "slug": "juicy-savoy-cabbage-japanese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savoy-cabbage-japanese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:18:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Savoy Cabbage",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
