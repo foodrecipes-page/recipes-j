@@ -1,0 +1,88 @@
+{
+  "title": "Juicy Sweet Zanzibari Dum Stir-fry",
+  "description": "A sweet and juicy meal-prep Kenyan dish featuring white cornmeal dumplings with a savory vegetable base.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup white cornmeal",
+      "amount": "cup",
+      "notes": "Use fresh or frozen corn kernels for added sweetness."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water (for dumplings)",
+      "amount": "as needed"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "notes": "Can be replaced with 1 tablespoon garlic paste for quicker preparation."
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "large piece"
+    },
+    {
+      "name": "1 green bell pepper, sliced",
+      "amount": "medium piece"
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., carrots, zucchini)",
+      "amount": "medium bowl of each"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet over medium heat.",
+    "Add onion and garlic to the pan; sauté until softened and translucent.",
+    "Stir in bell peppers and cook for another minute.",
+    "Add mixed vegetables and continue cooking until they begin to soften, about 5 minutes.",
+    "In separate bowl, mix cornmeal with a little water to form a batter. Gradually pour into the skillet while stirring continuously.",
+    "Cook dumplings on both sides until golden brown, about 2-3 minutes per side.",
+    "Remove from heat and serve hot as a meal or for meal-prep use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "juicy",
+    "zanzibari",
+    "dumpling",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "juicy-sweet-zanzibari-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-zanzibari-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:17:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "white cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "dum",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
