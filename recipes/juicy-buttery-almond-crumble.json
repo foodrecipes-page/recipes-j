@@ -1,0 +1,75 @@
+{
+  "title": "Juicy Buttery Almond Crumble",
+  "description": "A festive American dessert featuring flaked almonds caramelized in a buttery crumb topping for a sweet and indulgent treat.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond slices",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "3/4 cup unsalted butter, melted and cooled to room temperature",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 cup chopped walnuts (optional)",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a medium bowl, mix almond slices, sugar, and salt until well combined. Add melted butter and flour, stirring until the mixture is evenly moistened.",
+    "Transfer the almond mixture onto an 8x8 inch baking dish. If using, sprinkle chopped walnuts over the top for extra texture.",
+    "Bake for about 20-25 minutes or until golden brown and crisp on the edges but still juicy in the center. Use a toothpick to check if it's done; it should come out clean without any sticky bits.",
+    "Allow crumble to cool slightly before serving, garnished with additional sugar crystals or fresh mint leaves for an extra touch of flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "almond",
+    "crumble",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 47,
+    "fat": 29
+  },
+  "slug": "juicy-buttery-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-buttery-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:37:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "flaked almonds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Almonds",
+    "descriptor": "Buttery Juicy Festive",
+    "dishForm": "Crumble"
+  }
+}

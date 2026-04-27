@@ -77,6 +77,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-buttery-almond-crumble",
+    "title": "Juicy Buttery Almond Crumble",
+    "tags": [
+      "juicy",
+      "almond",
+      "crumble",
+      "sweet"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-buttery-festive-vietnamese-stir-fry",
     "title": "Juicy Buttery Festive Vietnamese Stir-fry",
     "tags": [
