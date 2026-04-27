@@ -511,6 +511,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-spiced-malaysian-ginger-stir-fry",
+    "title": "Juicy Spiced Malaysian Ginger Stir-fry",
+    "tags": [
+      "spicy",
+      "ginger",
+      "stir-fry",
+      "malaysian",
+      "raw-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-spiced-malaysian-tomato-stir-fry",
     "title": "Juicy Spiced Malaysian Tomato Stir-fry",
     "tags": [

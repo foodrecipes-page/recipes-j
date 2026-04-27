@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Spiced Malaysian Ginger Stir-fry",
+  "description": "An energizing and earthy dish featuring peppercorns, slow-cooked to perfection for a raw-friendly option.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "2 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tsp",
+      "notes": "white or black, crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium if preferred"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "scallions",
+      "amount": "3",
+      "notes": "green onions, thinly sliced"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/4 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix ginger, peppercorns, soy sauce, and lime juice. Set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat until shimmering.",
+    "Add scallions and cashews to the hot pan and stir-fry for about 2 minutes until they start to brown slightly.",
+    "Pour the ginger-peppercorn-soy sauce mixture into the pan, followed by chili flakes if using.",
+    "Stir everything together well, allowing it to heat through for a minute or two more.",
+    "Sprinkle sesame seeds on top before serving. Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "ginger",
+    "stir-fry",
+    "malaysian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2.5,
+    "carbs": 9.5,
+    "fat": 4
+  },
+  "slug": "juicy-spiced-malaysian-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spiced-malaysian-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:47:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "peppercorns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "ginger",
+    "descriptor": "Juicy Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
