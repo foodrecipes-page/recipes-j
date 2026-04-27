@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Australian Chicken Stir-fry",
+  "description": "A kid-friendly, herbal stir-fry dish featuring diced tomatoes and high-protein chicken, perfect for a quick lunch or dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "chili garlic sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into bite-sized pieces.",
+    "Dice tomatoes and set aside.",
+    "In a bowl, combine chili garlic sauce, soy sauce, rice vinegar, and minced ginger. Add salt and pepper to taste.",
+    "Heat peanut oil in a wok or large frying pan over medium-high heat.",
+    "Add chicken to the pan and stir-fry until golden brown on all sides.",
+    "Push chicken to one side of the pan and add diced tomatoes to the other side. Let cook for about 2 minutes, then mix everything together.",
+    "Pour in the sauce mixture and bring to a boil.",
+    "Reduce heat to low and simmer for an additional 3-5 minutes until the sauce thickens slightly and everything is heated through.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "juicy",
+    "kid-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-australian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-australian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:26:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

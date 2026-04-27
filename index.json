@@ -89,6 +89,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-australian-chicken-stir-fry",
+    "title": "Juicy Australian Chicken Stir-fry",
+    "tags": [
+      "australian",
+      "juicy",
+      "kid-friendly",
+      "stir-fry"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-ham-stir-fry",
     "title": "Juicy British Ham Stir-fry",
     "tags": [
