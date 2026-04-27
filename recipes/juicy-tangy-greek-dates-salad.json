@@ -1,0 +1,80 @@
+{
+  "title": "Juicy Tangy Greek Dates Salad",
+  "description": "A comforting dish featuring pitted dates that is tangy and juicy, perfect for a snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup crumbled (optional)"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "6-8 slices (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Pit and soak the dates in warm water for at least 30 minutes. Drain well.",
+    "In a small bowl, mix together rice vinegar, olive oil, dijon mustard, sesame seeds, and feta cheese if using.",
+    "Add soaked dates to the dressing mixture, mix well.",
+    "Garnish with green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dates",
+    "rice-vinegar",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 2.6,
+    "carbs": 13,
+    "fat": 4.6
+  },
+  "slug": "juicy-tangy-greek-dates-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tangy-greek-dates-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:04:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "pitted dates",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "dates",
+    "descriptor": "Tangy Juicy Comforting",
+    "dishForm": "Salad"
+  }
+}

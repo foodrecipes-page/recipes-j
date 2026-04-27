@@ -658,6 +658,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-tangy-greek-dates-salad",
+    "title": "Juicy Tangy Greek Dates Salad",
+    "tags": [
+      "dates",
+      "rice-vinegar",
+      "sesame-seeds"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-thai-carrot-stir-fry",
     "title": "Juicy Thai Carrot Stir-fry",
     "tags": [
