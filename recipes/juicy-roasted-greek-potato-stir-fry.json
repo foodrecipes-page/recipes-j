@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Roasted Greek Potato Stir-fry",
+  "description": "This savory and juicy Greek potato dish is perfect for a hangover cure. Made with small potatoes roasted to perfection and tossed in a flavorful olive oil based sauce, this dish offers a light, satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "savoury",
+    "juicy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "small potatoes",
+      "amount": "1 lb",
+      "notes": "preferably Yukon Gold or Red potatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin for best flavor and health benefits"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp dried or 2 tbsp fresh, chopped",
+      "notes": "for added flavor and hangover relief"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional for extra heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to preference, especially if not using smoked or sea salt"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for a burst of acidity and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Wash the potatoes thoroughly and prick them with a fork all over.",
+    "Place the potatoes on a baking sheet lined with parchment paper. Drizzle with olive oil, add minced garlic, oregano, red pepper flakes, salt, and lemon juice evenly across each potato.",
+    "Bake in preheated oven for 25-30 minutes or until potatoes are tender and slightly charred on the outside.",
+    "Remove from oven and let cool for a few minutes. Slice into wedges if desired for easier eating.",
+    "Garnish with additional fresh oregano and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "stir-fry",
+    "hangover-cure",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 6,
+    "carbs": 29,
+    "fat": 15
+  },
+  "slug": "juicy-roasted-greek-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-greek-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:36:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "small potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Potato",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
