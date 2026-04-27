@@ -1,0 +1,81 @@
+{
+  "title": "Juicy Roasted Norwegian Chickpea Stir-fry",
+  "description": "An earthy and indulgent dish featuring roasted chickpeas in a dash-friendly sauce that's perfect for lunch or dinner.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups (480ml) chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup (175g) roasted chickpeas",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "small"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 tablespoon (15ml) olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1/4 cup (60g) fresh parsley, finely chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "to season the dish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onion, minced garlic, and ground cumin. Sauté for about 2 minutes until fragrant.",
+    "Pour in chicken broth, bring to a boil, then reduce heat to low and simmer for about 10 minutes, allowing flavors to meld together.",
+    "Stir in roasted chickpeas and finely chopped parsley. Cook for an additional 5 minutes or until the chickpeas are heated through and well coated with the sauce.",
+    "Season with salt and pepper to taste before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-roasted-chickpea-stir-fry",
+    "earthly-indulgent-norwegian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "juicy-roasted-norwegian-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-norwegian-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:25:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "chickpeas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
