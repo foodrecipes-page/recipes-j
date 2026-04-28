@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Spiced Turkish Turkey Stir-fry",
+  "description": "This sweet and juicy dish features panang curry paste in a braise that combines various spices for an adventurous take on traditional Turkish cuisine. It is prepared to be paleo-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless turkey breast",
+      "amount": "1 lb (450g)切块"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cloves of garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "paleo-friendly rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "30ml (2 oz)"
+    },
+    {
+      "name": "paleo-friendly breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix soy sauce, curry paste, cumin, minced garlic, rice vinegar, lemon juice, turmeric powder, and coconut milk in a large mixing bowl.",
+    "Coat turkey breast with paleo-friendly breadcrumbs. Add coated turkey to the bowl with marinade. Mix thoroughly and set aside for 20 minutes.",
+    "Place turkey on a baking sheet lined with parchment paper. Bake for 35-45 minutes until golden brown and cooked through (internal temperature of 74°C or 165°F).",
+    "Once done, reduce the oven heat to 150°C (300°F) and bake for an additional 20-30 minutes.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-spiced-turkish-turkey-stir-fry",
+    "sweet-adventurous-turkish-dish",
+    "paleo-friendly-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 31,
+    "carbs": 39,
+    "fat": 22
+  },
+  "slug": "juicy-spiced-turkish-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spiced-turkish-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:18:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "panang curry paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "turkey",
+    "descriptor": "Juicy Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
