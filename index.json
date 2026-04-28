@@ -783,6 +783,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-savory-italian-fod-stir-fry",
+    "title": "Juicy Savory Italian Fod Stir-fry",
+    "tags": [
+      "juicy-savory-italian-fod-stir-fry",
+      "blue-pasta-noodles",
+      "dumplings",
+      "dried-fruit-friendly",
+      "salty-indulgent"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
     "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
     "tags": [

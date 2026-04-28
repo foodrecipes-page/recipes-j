@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Savory Italian Fod Stir-fry",
+  "description": "A salty, juicy, indulgent Italian dish featuring blue food coloring and made with dumplings for a fodmap-friendly twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "salty",
+    "juicy",
+    "indulgent"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "2 cups of blue pasta noodles",
+      "amount": "",
+      "notes": "Blue food coloring can be added to the water at a ratio of 1 drop per cup"
+    },
+    {
+      "name": "50g ground beef or turkey",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup tomato sauce",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Blue food coloring (optional)",
+      "amount": "few drops of blue liquid dye",
+      "notes": "Use 1 drop per 2 cups of water for a light shade"
+    },
+    {
+      "name": "Fresh basil leaves, chopped (for garnish)",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Boil the pasta noodles with water containing food coloring until cooked through.",
+    "Sauté ground meat or turkey in a pan over medium heat until browned.",
+    "Add onion and garlic to the pan, cook for another minute until fragrant.",
+    "Mix in tomato sauce and continue cooking until everything is heated through and well combined.",
+    "Season with salt and pepper according to taste.",
+    "Garnish with fresh basil leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-savory-italian-fod-stir-fry",
+    "blue-pasta-noodles",
+    "dumplings",
+    "dried-fruit-friendly",
+    "salty-indulgent"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 67,
+    "fat": 18
+  },
+  "slug": "juicy-savory-italian-fod-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-italian-fod-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:48:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "blue food colouring",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Fod",
+    "descriptor": "Juicy Savory",
+    "dishForm": "Stir-fry"
+  }
+}
