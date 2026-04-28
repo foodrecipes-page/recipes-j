@@ -395,6 +395,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-mediterranean-frankfurter-wrap",
+    "title": "Juicy Mediterranean Frankfurter Wrap",
+    "tags": [
+      "juicy",
+      "mediterranean",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterranean-tomato-stir-fry",
     "title": "Juicy Mediterranean Tomato Stir-fry",
     "tags": [
