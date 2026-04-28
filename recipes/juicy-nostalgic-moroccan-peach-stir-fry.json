@@ -1,0 +1,84 @@
+{
+  "title": "Nutty Juicy Nostalgic Moroccan Peach Stir-fry",
+  "description": "A nutty and juicy Moroccan peach stir-fry with a touch of fermentation for an authentic taste experience. Kosher-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fermented vegetables (e.g., sauerkraut)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almonds, slivered or chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water (for steaming peaches if not already peeled)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Steep sliced almonds in hot water for about 10 minutes, then drain and set aside. Steamed peaches can be used instead of steaming if desired.",
+    "In a small pan, toast cumin seeds over medium heat until golden brown, shaking frequently to prevent burning. Transfer to a bowl.",
+    "Add olive oil to the same pan; add minced garlic and sauté for about 1 minute until fragrant. Add peaches along with some water if needed and cook until they release their juices.",
+    "Fold in toasted cumin seeds, fermented vegetables, and almonds. Mix well.",
+    "Season with salt and pepper as desired. Stir-fry gently over medium heat for another 2-3 minutes to meld flavors.",
+    "Serve hot or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-peach-stir-fry",
+    "nutty-moroccan-dish",
+    "fermented-vegetables"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "juicy-nostalgic-moroccan-peach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-moroccan-peach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:41:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "peach juice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Peach",
+    "descriptor": "Juicy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
