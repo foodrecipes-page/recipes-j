@@ -64,6 +64,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-adventurous-cashew-nuts-paleo-stir-fry",
+    "title": "Juicy Adventurous Cashew Nuts Paleo Stir-fry",
+    "tags": [
+      "paleo",
+      "stir-fry",
+      "cashews",
+      "ginger",
+      "jalapenos",
+      "scallions"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-adventurous-chinese-smoked-haddock-stir-fry",
     "title": "Juicy Adventurous Chinese Smoked Haddock Stir-fry",
     "tags": [

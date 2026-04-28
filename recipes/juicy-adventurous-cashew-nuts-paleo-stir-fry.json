@@ -1,0 +1,81 @@
+{
+  "title": "Juicy Adventurous Cashew Nuts Paleo Stir-fry",
+  "description": "A floral and juicy paleo-friendly stir-fry featuring roasted cashew nuts with a touch of adventurous Mexican flair.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup soaked and drained",
+      "notes": "Make sure to soak cashew nuts for at least several hours before roasting"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, peeled and sliced",
+      "notes": "Use fresh ginger or a jar of crystallized ginger if unavailable"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "2 canned in juice, seeded and finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 small, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "4 scallion whites, thinly sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Spread soaked cashew nuts evenly on a baking sheet.",
+    "Roast cashews in the preheated oven for about 25 minutes or until golden brown and crispy, stirring occasionally.",
+    "In a small skillet over medium heat, sauté ginger and jalapenos for about 2-3 minutes until fragrant.",
+    "Add finely chopped onions to the skillet and stir-fry for another 2-3 minutes until translucent. Add sliced scallion whites and continue cooking for an additional minute.",
+    "Mix roasted cashews with the sautéed onion, ginger, jalapenos, and scallions. Season with sea salt and pepper to taste.",
+    "Serve immediately as a snack or meal complement."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "stir-fry",
+    "cashews",
+    "ginger",
+    "jalapenos",
+    "scallions"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "juicy-adventurous-cashew-nuts-paleo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-adventurous-cashew-nuts-paleo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:13:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "cashew nuts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "Adventurous Juicy Paleo",
+    "dishForm": "Stir-fry"
+  }
+}
