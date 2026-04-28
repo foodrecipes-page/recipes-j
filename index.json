@@ -230,6 +230,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-cozy-thai-barramundi-stir-fry",
+    "title": "Juicy Cozy Thai Barramundi Stir-fry",
+    "tags": [
+      "barramundi",
+      "thai cuisine",
+      "cozy dish",
+      "halal-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-cozy-tunisian-tomato-stir-fry",
     "title": "Juicy Cozy Tunisian Tomato Stir-fry",
     "tags": [
