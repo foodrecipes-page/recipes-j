@@ -1,0 +1,83 @@
+{
+  "title": "Floral Juicy Irish Green Olives Stir-fry",
+  "description": "A kid-friendly and floral-flavored dish featuring juicy green olives in a savory stir-fry that is sugar-free friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 cups, finely chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "4 medium, sliced thinly"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "5, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar-free sweetener (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add sesame oil and sauté onions until translucent.",
+    "Add finely chopped green olives, sliced bell peppers, and minced garlic to the pan. Stir-fry for about 5 minutes or until vegetables are tender.",
+    "In a small bowl, mix soy sauce, rice vinegar, and sweetener (if using) together. Pour this mixture over the stir-fried vegetables.",
+    "Stir everything well and cook for another minute. Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "floral",
+    "kid-friendly",
+    "irish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "juicy-irish-green-olives-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-irish-green-olives-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:11:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "green olives",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Green Olives",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

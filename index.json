@@ -393,6 +393,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-irish-green-olives-stir-fry",
+    "title": "Floral Juicy Irish Green Olives Stir-fry",
+    "tags": [
+      "juicy",
+      "floral",
+      "kid-friendly",
+      "irish",
+      "stir-fry"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-jamaican-falafel-pancake",
     "title": "Juicy Jamaican Falafel Pancake",
     "tags": [
