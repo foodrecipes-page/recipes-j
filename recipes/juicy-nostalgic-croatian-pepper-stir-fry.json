@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Nostalgic Croatian Pepper Stir-fry",
+  "description": "A spicy and juicy dish featuring cayenne pepper, cure (preserved meat or seafood), with a dash of friendly flavors to evoke nostalgic memories.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cured meat or seafood chunks (e.g., prosciutto, pancetta, sausage)",
+      "amount": "",
+      "notes": "Use what you have."
+    },
+    {
+      "name": "2 tbsp fresh parsley, chopped",
+      "amount": "",
+      "notes": "For garnish"
+    },
+    {
+      "name": "1 tsp cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium heat.",
+    "Add minced garlic and onion, sauté until softened, about 2 minutes.",
+    "Toss in the cured meat or seafood chunks. Cook for another 4-5 minutes until they start to brown slightly.",
+    "Stir in cayenne pepper and season with salt and pepper according to taste. Continue stirring for another minute to allow flavors to meld together.",
+    "Squeeze lemon juice over the dish, stirring gently to combine all ingredients well.",
+    "Serve hot as a side dish or over rice. Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "spicy",
+    "nostalgic",
+    "cayenne_pepper"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 19,
+    "carbs": 5,
+    "fat": 7
+  },
+  "slug": "juicy-nostalgic-croatian-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-croatian-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:19:41Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Spicy Juicy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}

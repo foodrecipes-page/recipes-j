@@ -472,6 +472,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-nostalgic-croatian-pepper-stir-fry",
+    "title": "Juicy Nostalgic Croatian Pepper Stir-fry",
+    "tags": [
+      "juicy",
+      "spicy",
+      "nostalgic",
+      "cayenne_pepper"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-nostalgic-earthy-tofu-stir-fry",
     "title": "Juicy Nostalgic Earthy Tofu Stir-fry",
     "tags": [
