@@ -1,0 +1,100 @@
+{
+  "title": "Earthly Juicy Moroccan Seafood Stir-fry",
+  "description": "This meal-prep-friendly Moroccan dish features frozen seafood mix in a deliciously earthy and juicy sauce, perfect for lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frozen seafood mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Almonds, slivered (optional)",
+      "amount": "50g"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan or wok, heat the olive oil over medium-high heat.",
+    "Add the garlic and onion; sauté until translucent, about 5 minutes.",
+    "Stir in the ginger, red pepper flakes, tomato paste, and vegetable broth. Simmer for 2-3 minutes to let flavors meld.",
+    "Fold in the frozen seafood mix. Stir well until all pieces are coated with sauce.",
+    "Sprinkle the slivered almonds on top if using, then season with salt to taste.",
+    "Let simmer for another minute or two until most of the liquid is absorbed and the sauce has thickened slightly.",
+    "Stir in fresh parsley just before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "juicy",
+    "meal-prep",
+    "earthly",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "juicy-moroccan-seafood-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-moroccan-seafood-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:17:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Seafood",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
