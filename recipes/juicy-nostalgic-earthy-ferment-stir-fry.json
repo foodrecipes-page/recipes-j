@@ -1,0 +1,66 @@
+{
+  "title": "Juicy Nostalgic Earthy Ferment Stir-fry",
+  "description": "A uniquely Japanese dish featuring earthy flavors, juicy vegetables, and a touch of chimichurri sauce to bring a tangy umami profile.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kombucha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chilis",
+      "amount": "2 tbsp",
+      "notes": "Thai bird's eye chilies or serrano peppers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over high heat. Add Kombucha, chopped Chilis, minced Garlic, and finely diced Onion.",
+    "Sauté for about 3-5 minutes until onions are translucent and flavors have infused into the liquid.",
+    "Add finely chopped fresh herbs (like cilantro or parsley) to the wok as a garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "ferment",
+    "earthly",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 42,
+    "fat": 12
+  },
+  "slug": "juicy-nostalgic-earthy-ferment-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-earthy-ferment-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:56:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Earthy",
+    "mainIngredient": "Ferment",
+    "descriptor": "Juicy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
