@@ -367,6 +367,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-jamaican-falafel-pancake",
+    "title": "Juicy Jamaican Falafel Pancake",
+    "tags": [
+      "jamaican-falafel-pancake",
+      "fermented-foods",
+      "monsoon-dish",
+      "gluten-free-snack"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-kenyan-tomato-stir-fry",
     "title": "Juicy Kenyan Tomato Stir-fry",
     "tags": [

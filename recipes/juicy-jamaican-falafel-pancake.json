@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Jamaican Falafel Pancake",
+  "description": "A fermented, juicy, monsoon-inspired dish featuring falafel wrapped in a light pancake batter for a unique gluten-free treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat",
+    "gluten-free",
+    "fermented"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "3 tbsp",
+      "notes": "for coating the falafel and topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fermented chickpeas (Falafel)",
+      "amount": "2 cups",
+      "notes": "ensure they are soft and ready to eat"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "For frying the falafel"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Mix all-purpose flour, coconut milk, sesame seeds, salt, and black pepper in a large bowl until smooth.",
+    "Dissolve 1 tablespoon of canola oil into the mixture. The remaining oil will be used for frying the falafel.",
+    "Fold in the fermented chickpeas gently to coat evenly.",
+    "Using a ladle, pour about 1/4 cup of batter onto the skillet and cook until golden brown on both sides, flipping halfway through cooking time (about 2 minutes per side).",
+    "Remove the falafel from the skillet and place them on paper towels to drain excess oil.",
+    "Meanwhile, preheat your pan or a non-stick griddle over medium heat. Scoop about 1/4 cup of batter into each pancake mold and cook until golden brown on both sides (about 2 minutes).",
+    "Fold the falafel into the pancakes and serve warm with additional coconut milk for dipping if desired.",
+    "Garnish with sesame seeds, black pepper, and any other preferred herbs or spices to enhance the flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-falafel-pancake",
+    "fermented-foods",
+    "monsoon-dish",
+    "gluten-free-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 6
+  },
+  "slug": "juicy-jamaican-falafel-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jamaican-falafel-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:58:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "falafel",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Falafel",
+    "descriptor": "Juicy",
+    "dishForm": "Pancake"
+  }
+}
