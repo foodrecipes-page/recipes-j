@@ -432,6 +432,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-light-jamaican-tamarind-stir-fry",
+    "title": "Floral Juicy Light Jamaican Tamarind Stir-fry",
+    "tags": [
+      "jamaican-tamarind",
+      "egg-free",
+      "light-dish"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 24,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterannean-apple-salad",
     "title": "Juicy Mediterannean Apple Salad",
     "tags": [

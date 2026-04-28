@@ -1,0 +1,91 @@
+{
+  "title": "Floral Juicy Light Jamaican Tamarind Stir-fry",
+  "description": "A floral and juicy light dish featuring tamarind paste without the use of eggs, baked to perfection for a delightful snack or side dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can (400g) light coconut milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp tamarind paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp ground cloves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice, optional garnish",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the tamarind paste and sugar. Gradually stir in the coconut milk until smooth.",
+    "Heat over medium-low for about 5 minutes, stirring occasionally to prevent scorching and ensure even cooking of the ingredients.",
+    "Stir in the cornstarch mixture until well combined, then add the water and bring back to a simmer. Cook for an additional 2-3 minutes or until thickened.",
+    "Season with salt and cloves to taste. Serve hot over cooked white rice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-tamarind",
+    "egg-free",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 0.5
+  },
+  "slug": "juicy-light-jamaican-tamarind-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-jamaican-tamarind-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:19:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "tamarind paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Juicy Light",
+    "dishForm": "Stir-fry"
+  }
+}
