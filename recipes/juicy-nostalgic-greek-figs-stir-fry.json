@@ -1,0 +1,88 @@
+{
+  "title": "Juicy Nostalgic Greek Figs Stir-fry",
+  "description": "A herbal, juicy, nostalgic greek dish featuring vanilla, sauteed with a plant-based-friendly twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek Figs",
+      "amount": "1 cup, pitted and halved"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "Almonds (Optional)",
+      "amount": "30g, crushed"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add vanilla extract and sauté for about 30 seconds until fragrant.",
+    "Add garlic, red bell pepper, and green onion to the pan. Stir-fry for about 5 minutes until vegetables soften slightly.",
+    "Add halved Greek figs to the pan. Cook for an additional minute.",
+    "Stir in coconut milk and cook until thickened (about 2-3 minutes).",
+    "Optional: Sprinkle crushed almonds on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-greek-figs",
+    "herbal-stir-fry",
+    "nostalgic-dish",
+    "vanilla-figs",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 41,
+    "fat": 13
+  },
+  "slug": "juicy-nostalgic-greek-figs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-greek-figs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:06:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "vanilla",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "figs",
+    "descriptor": "Juicy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
