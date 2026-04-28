@@ -353,6 +353,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-light-canadian-french-lentils-stir-fry",
+    "title": "Juicy Light Canadian French Lentils Stir-fry",
+    "tags": [
+      "canadian",
+      "stir-fry",
+      "light",
+      "juicy",
+      "french-lentils"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterannean-apple-salad",
     "title": "Juicy Mediterannean Apple Salad",
     "tags": [

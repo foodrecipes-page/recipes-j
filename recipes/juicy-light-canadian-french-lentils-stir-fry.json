@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Light Canadian French Lentils Stir-fry",
+  "description": "A sweet and juicy Canadian-inspired dish featuring marinated french lentils, pescatarian-friendly and light in texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 small (optional)"
+    },
+    {
+      "name": "Sun-Dried Tomatoes",
+      "amount": "2 oz (60g)"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1/4 lemon (or to taste)"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "5 tbsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tsp (optional)"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the French Lentils in cold water for at least an hour.",
+    "Chop the onion, garlic cloves, and red peppers into small pieces. If using, chop the sun-dried tomatoes as well.",
+    "In a large pan or wok, heat olive oil over medium-high heat. Add onions and sauté until translucent, about 5 minutes.",
+    "Add garlic and red pepper if using, stirring to combine with onions for another minute.",
+    "Stir in lentils, thyme leaves (if using), balsamic vinegar, salt, and black pepper. Cook for about 5-7 minutes or until the lentils start to absorb the flavors.",
+    "Toss in sun-dried tomatoes and lemon zest, cook for an additional 2 minutes.",
+    "Reduce heat to low and let everything simmer together for another 10-15 minutes or until the lentils are tender and all the ingredients are well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "light",
+    "juicy",
+    "french-lentils"
+  ],
+  "nutrition": {
+    "calories": 273,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "juicy-light-canadian-french-lentils-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-canadian-french-lentils-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:02:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "french lentils",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "French lentils",
+    "descriptor": "Juicy Light",
+    "dishForm": "Stir-fry"
+  }
+}
