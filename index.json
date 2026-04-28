@@ -205,6 +205,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-cozy-tunisian-tomato-stir-fry",
+    "title": "Juicy Cozy Tunisian Tomato Stir-fry",
+    "tags": [
+      "juicy",
+      "cozy",
+      "tunisian",
+      "stir-fry"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-crisp-ethiopian-tomato-crumb",
     "title": "Juicy Crisp Ethiopian Tomato Crumb",
     "tags": [

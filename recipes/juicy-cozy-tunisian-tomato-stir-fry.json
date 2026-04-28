@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Cozy Tunisian Tomato Stir-fry",
+  "description": "A sour and juicy gluten-free-friendly dish featuring passata, braise until tender.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp (optional)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium, thinly sliced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (400g), undrained"
+    }
+  ],
+  "instructions": [
+    "In a large skillet or wok, heat olive oil over medium-high heat.",
+    "Add onion and garlic; sauté until translucent, about 3 minutes.",
+    "Stir in tomato paste, red pepper flakes (if using), and thyme leaves. Cook for another minute.",
+    "Pour in passata and water. Stir well to combine all ingredients.",
+    "Increase heat to high, bring to a boil. Reduce heat to low and simmer for about 10 minutes or until sauce thickens slightly.",
+    "Add zucchini slices. Cover and cook for an additional 5-7 minutes until the vegetables are tender but still hold their shape.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "cozy",
+    "tunisian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 8.1,
+    "carbs": 59.4,
+    "fat": 12.3
+  },
+  "slug": "juicy-cozy-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-cozy-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:47:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "passata",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomato",
+    "descriptor": "Sour Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
