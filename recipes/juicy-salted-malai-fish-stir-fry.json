@@ -1,0 +1,73 @@
+{
+  "title": "Juicy Salted Malai Fish Stir-fry",
+  "description": "A flavorful and juicy dish featuring malai (Indian-style cheese) in a monsoon-inspired recipe that's perfect for pescatarian diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malai",
+      "amount": "100g"
+    },
+    {
+      "name": "Fish Fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2-3"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté onions until translucent.",
+    "Add garlic and chili peppers, cooking for about 1 minute until fragrant.",
+    "Gently blanch fish fillets in the onion mixture for about 2 minutes on each side or until golden brown.",
+    "Pour in enough water to cover the fish, bring to a boil then reduce heat, allowing it to simmer for about 5-7 minutes.",
+    "Stir in malai, cooking until it has fully melted and infused with flavors.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-salt-fish-stir-fry",
+    "malai-dish",
+    "monsoon-plymouth-style"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "juicy-salted-malai-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-salted-malai-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:16:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "malai",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Juicy Salted Malai",
+    "dishForm": "Stir-fry"
+  }
+}
