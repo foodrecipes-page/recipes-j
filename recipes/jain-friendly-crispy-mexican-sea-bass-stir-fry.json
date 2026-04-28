@@ -1,0 +1,99 @@
+{
+  "title": "Jain-Friendly Crispy Mexican Sea Bass Stir-fry",
+  "description": "An earthy and dense brunch-mood mexican dish featuring a jain-friendly twist on traditional seafood dishes.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "2 fresh sea bass fillets",
+      "amount": "each"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "all",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "all"
+    },
+    {
+      "name": "2 dried chilies, soaked and de-seeded",
+      "amount": "all"
+    },
+    {
+      "name": "1 cup green beans, trimmed and cut into 1-inch pieces",
+      "amount": "all"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "all"
+    },
+    {
+      "name": "1/4 tsp cumin seeds",
+      "amount": "all"
+    },
+    {
+      "name": "1 tbsp vegetable oil",
+      "amount": "all"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional)",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Gently fry the sea bass fillets in a bit of oil until golden brown on both sides. Remove from heat and keep warm.",
+    "In a pan, add vegetable oil, cumin seeds, and sauté for about 1 minute until fragrant.",
+    "Add finely chopped onion and minced garlic to the pan, cook for another 2 minutes or until onions are translucent.",
+    "Add soaked and de-seeded dried chilies along with green beans. Cook for a few more minutes until chilies start to soften slightly.",
+    "Pour in the lime juice over the mixture, mix well, and let it simmer for about 5-7 minutes allowing flavors to meld together.",
+    "Place the fried sea bass fillets in the prepared dish, pour the spicy green bean sauce all over them.",
+    "Bake at 400°F for 15 minutes or until the fish is heated through. Garnish with fresh cilantro if desired.",
+    "Serve hot and enjoy your brunch-mood mexican dish!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "vegan",
+    "crispy",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 269,
+    "protein": 18,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "jain-friendly-crispy-mexican-sea-bass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jain-friendly-crispy-mexican-sea-bass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:00:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "sea bass",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sea bass",
+    "descriptor": "Jain-friendly",
+    "dishForm": "Stir-fry"
+  }
+}

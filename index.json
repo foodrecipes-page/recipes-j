@@ -1,5 +1,18 @@
 [
   {
+    "slug": "jain-friendly-crispy-mexican-sea-bass-stir-fry",
+    "title": "Jain-Friendly Crispy Mexican Sea Bass Stir-fry",
+    "tags": [
+      "jain-friendly",
+      "vegan",
+      "crispy",
+      "mexican"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jalapeno-sous-vide-bowl",
     "title": "Jalapeño Sous-Vide Bowl",
     "tags": [
