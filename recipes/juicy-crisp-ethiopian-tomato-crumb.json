@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Crisp Ethiopian Tomato Crumb",
+  "description": "A savory and juicy post-workout dish featuring low-calorie-friendly tomato crumb over a bed of aromatic spices for an easy meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "savoury"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/8 tsp (optional)"
+    },
+    {
+      "name": "clove of bread or whole wheat cracker crumbs",
+      "amount": "20-30 grams"
+    }
+  ],
+  "instructions": [
+    "Blend tomatoes, onion, and garlic into a smooth paste.",
+    "Heat olive oil in a pan. Add cumin seeds, coriander seeds, turmeric powder, paprika, salt (to taste), and optionally baking soda until fragrant, about 1 minute.",
+    "Add tomato paste to the pan and cook for an additional 5 minutes over medium heat.",
+    "Crush bread or whole wheat crumb in a blender or food processor until finely ground. Stir the crumbs into the tomato mixture.",
+    "Sprinkle breadcrumbs evenly on top of the tomato mixture, spreading it to cover the entire surface.",
+    "Bake at 350°F (175°C) for about 20 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-crumb-ethiopian-dish",
+    "post-workout-meal",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "juicy-crisp-ethiopian-tomato-crumb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-ethiopian-tomato-crumb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:02:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomato",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Crumble"
+  }
+}
