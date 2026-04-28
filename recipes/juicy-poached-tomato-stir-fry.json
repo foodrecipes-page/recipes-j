@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Poached Tomato Stir-fry",
+  "description": "A vibrant and healthy vegetarian dish featuring juicy poached tomatoes in a creamy sauce that can be served as a light dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium-sized",
+      "notes": "ripe and fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/4 cup (softened)",
+      "notes": "double cream for a richer flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon, chopped (optional)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Cut tomatoes into slices and place on a baking sheet lined with parchment paper.",
+    "Drizzle unsalted butter over the tomato slices, season lightly with salt and pepper, and bake for about 10 minutes or until slightly caramelized.",
+    "In a separate pan, melt remaining unsalted butter over medium heat. Add minced garlic and sauté for about 2 minutes.",
+    "Remove tomatoes from oven and add them to the garlic in the saucepan. Mix well with cream cheese, lemon juice, salt, and pepper until all ingredients are evenly combined.",
+    "Garnish with chopped fresh parsley if desired before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-poached-tomato-stir-fry",
+    "vegan-friendly",
+    "quick-weeknight-dinner",
+    "ukrainian-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "juicy-poached-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-poached-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:07:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "double cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tomato",
+    "descriptor": "Juicy Poached",
+    "dishForm": "Stir-fry"
+  }
+}
