@@ -1,0 +1,87 @@
+{
+  "title": "Juicy Midnight German Coconut Stir-fry",
+  "description": "A floral, juicy German dish featuring desiccated coconut that satisfies midnight cravings with a touch of low-sodium-friendly flavors.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "200g",
+      "notes": "Skinless and bone-in"
+    },
+    {
+      "name": "Desiccated Coconut",
+      "amount": "1/4 cup",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium variety preferred"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "For garlic breath, use a food processor or mince finely"
+    },
+    {
+      "name": "Red Pepper Flakes (or Cayenne)",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste for heat"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan cooking"
+    },
+    {
+      "name": "Fresh Herbs (optional, such as Thyme or Rosemary)",
+      "amount": "",
+      "notes": "Diced finely for added aroma"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F and prepare a baking sheet lined with parchment paper.",
+    "Season the chicken pieces lightly with salt and pepper. Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken pieces, skin-side down first, cooking until golden brown on both sides (about 4-5 minutes per side). Remove from skillet and set aside.",
+    "In the same skillet, add minced garlic and red pepper flakes; sauté for about 1 minute until fragrant. If using fresh herbs, stir them in now.",
+    "Return chicken to skillet along with desiccated coconut. Deglaze with soy sauce by pouring it into the pan and scraping up any browned bits from the bottom of the pan.",
+    "Cover partially with a lid or aluminum foil and bake for 20-25 minutes at 375°F until chicken is fully cooked through, ensuring that the chicken pieces are moist and flavorful.",
+    "Once done, remove from heat and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-midnight-german-coconut-stir-fry",
+    "floral-flavor",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 12
+  },
+  "slug": "juicy-midnight-german-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-midnight-german-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:15:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Coconut",
+    "descriptor": "Juicy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
