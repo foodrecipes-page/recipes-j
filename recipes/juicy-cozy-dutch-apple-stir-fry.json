@@ -1,0 +1,78 @@
+{
+  "title": "Juicy Cozy Dutch Apple Stir-fry",
+  "description": "A sour and juicy Dutch dish featuring applesauce in a cozy, kosher-friendly twist.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "6-8 sprigs"
+    },
+    {
+      "name": "kosher chicken breast",
+      "amount": "2 (each 5 oz) uncooked, thawed and rinsed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Season the chicken with salt. Place a small saucepan over medium heat and add unsweetened applesauce, apple cider vinegar, dill, thyme, and enough water or broth to thin it out slightly (about 1/4 cup). Bring to a simmer.",
+    "Place seasoned chicken on a baking sheet lined with parchment paper. Brush both sides of each piece with butter.",
+    "Pour the sauce over the chicken, making sure all pieces are coated evenly. Bake for 20-25 minutes or until juices run clear when pierced with a knife.",
+    "Garnish with fresh herbs if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "sour",
+    "cozy dutch"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 26,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "juicy-cozy-dutch-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-cozy-dutch-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:28:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "applesauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apple",
+    "descriptor": "Sour Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}

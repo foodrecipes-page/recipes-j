@@ -218,6 +218,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-cozy-dutch-apple-stir-fry",
+    "title": "Juicy Cozy Dutch Apple Stir-fry",
+    "tags": [
+      "juicy",
+      "sour",
+      "cozy dutch"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-cozy-tunisian-tomato-stir-fry",
     "title": "Juicy Cozy Tunisian Tomato Stir-fry",
     "tags": [
