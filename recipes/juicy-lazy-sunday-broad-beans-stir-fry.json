@@ -1,0 +1,79 @@
+{
+  "title": "Juicy Lazy Sunday Broad Beans Stir-fry",
+  "description": "An earthy and juicy Malaysian dish featuring broad beans that's perfect for a lazy Sunday morning or evening meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broad Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings (optional)",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish Sauce or Oyster Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the broad beans and soak them in cold water for at least an hour to reduce their bitterness.",
+    "Heat a wok or large frying pan over medium-high heat. Add oil, then add broad beans, garlic, soy sauce, fish sauce, red pepper flakes (if using), and dumplings (if using).",
+    "Stir-fry the mixture for about 5 minutes until the broad beans are just tender.",
+    "Season with salt to taste and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "earthly",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "juicy-lazy-sunday-broad-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-lazy-sunday-broad-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:53:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "broad beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "broad beans",
+    "descriptor": "Juicy Lazy Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
