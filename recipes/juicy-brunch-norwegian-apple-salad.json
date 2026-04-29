@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Brunch Norwegian Apple Salad",
+  "description": "A refreshing and juicy brunch dish featuring fermented apple juice with a touch of Mediterranean flavors to create a mediterranean-friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Apple Juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh Apples",
+      "amount": "4 medium apples, peeled and cored"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small red onion, finely chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "20-30 capers, rinsed and drained"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Combine the fermented apple juice with olive oil, Dijon mustard, red onion, capers, lemon juice, salt to taste in a blender or food processor.",
+    "Puree until smooth and pour into a large serving bowl.",
+    "Core and peel 4 medium apples. Cut them into chunks of equal size and add to the pureed mixture.",
+    "Toss gently with fresh parsley to garnish.",
+    "Serve immediately as a refreshing and juicy brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy-brunch",
+    "norwegian-apple-salad",
+    "fermented-apple-juice",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 24
+  },
+  "slug": "juicy-brunch-norwegian-apple-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-brunch-norwegian-apple-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:58:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "apple juice",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "apple",
+    "descriptor": "Juicy Brunch",
+    "dishForm": "Salad"
+  }
+}

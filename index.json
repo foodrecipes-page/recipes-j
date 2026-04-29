@@ -143,6 +143,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-brunch-norwegian-apple-salad",
+    "title": "Juicy Brunch Norwegian Apple Salad",
+    "tags": [
+      "juicy-brunch",
+      "norwegian-apple-salad",
+      "fermented-apple-juice",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-buttery-almond-crumble",
     "title": "Juicy Buttery Almond Crumble",
     "tags": [
