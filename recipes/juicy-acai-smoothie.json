@@ -1,0 +1,79 @@
+{
+  "title": "Juicy Açaí Smoothie",
+  "description": "A herbal and juicy Brazilian smoothie that's crowd-pleasing and egg-free-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 ripe banana",
+      "amount": "one"
+    },
+    {
+      "name": "2 frozen strawberries",
+      "amount": "two"
+    },
+    {
+      "name": "1 cup unsweetened açaí puree",
+      "amount": "full cup"
+    },
+    {
+      "name": "1/4 cup ground flaxseed",
+      "amount": "quarter cup"
+    },
+    {
+      "name": "1 tbsp chia seeds",
+      "amount": "one tablespoon"
+    },
+    {
+      "name": "2 cups almond milk (or any non-dairy milk)",
+      "amount": "two cups"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Blend all ingredients until smooth and creamy.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "açaí",
+    "smoothie",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "juicy-acai-smoothie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-acai-smoothie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:15:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Açaí",
+    "descriptor": "Juicy",
+    "dishForm": "Smoothie"
+  }
+}

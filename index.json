@@ -90,6 +90,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-acai-smoothie",
+    "title": "Juicy Açaí Smoothie",
+    "tags": [
+      "açaí",
+      "smoothie",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 5,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-adventurous-cashew-nuts-paleo-stir-fry",
     "title": "Juicy Adventurous Cashew Nuts Paleo Stir-fry",
     "tags": [
