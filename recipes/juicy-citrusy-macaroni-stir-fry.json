@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Citrusy Macaroni Stir-fry",
+  "description": "A mediterranean-friendly weeknight dish featuring juicy macaroni stir-fried with citrus flavors and other Mediterranean ingredients.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "1 cup dry",
+      "notes": "cooked according to package directions"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint fresh, halved",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp fresh",
+      "notes": "freshly squeezed for best flavor and aroma"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "extra virgin olive oil is recommended"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, to add heat if desired"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp chopped fresh",
+      "notes": "fresh parsley adds a bright and flavorful touch"
+    },
+    {
+      "name": "zucchini",
+      "amount": "3 medium, diced small",
+      "notes": "optional, to add more vegetables for added nutrition and texture"
+    }
+  ],
+  "instructions": [
+    "Cook macaroni according to package directions until al dente.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add red pepper flakes if using.",
+    "Add garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Add cherry tomatoes and cook for another minute, stirring occasionally.",
+    "Stir in cooked macaroni with a splash of lemon juice and toss to coat evenly.",
+    "If adding zucchini, add now along with more lemon juice. Cook for an additional 2 minutes until vegetables are just tender.",
+    "Fold in chopped parsley just before serving for a burst of freshness.",
+    "Serve hot as a side dish or over a bed of greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "citrusy",
+    "macaroni",
+    "stir-fry",
+    "tunisian",
+    "weeknight",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 46,
+    "fat": 9
+  },
+  "slug": "juicy-citrusy-macaroni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-citrusy-macaroni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:18:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "macaroni",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Citrusy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

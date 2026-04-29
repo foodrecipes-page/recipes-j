@@ -206,6 +206,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-citrusy-macaroni-stir-fry",
+    "title": "Juicy Citrusy Macaroni Stir-fry",
+    "tags": [
+      "juicy",
+      "citrusy",
+      "macaroni",
+      "stir-fry",
+      "tunisian",
+      "weeknight",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-cozy-argentinian-spinach-stir-fry",
     "title": "Juicy Cozy Argentinian Spinach Stir-fry",
     "tags": [
