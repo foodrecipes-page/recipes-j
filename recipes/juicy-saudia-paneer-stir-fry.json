@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Saudia Paneer Stir-fry",
+  "description": "A spicy and juicy Arabian dish featuring paneer that is perfect for a midnight craving, low-fat-friendly and suitable for all meal times.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "150g",
+      "notes": "Use a combination of cashew and onion-flavored paneer for flavor."
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "2 tbsp",
+      "notes": "Freshly prepared to ensure freshness."
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tsp",
+      "notes": "For added zing and umami taste."
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tsp",
+      "notes": "Use fresh garlic for the best flavor."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp",
+      "notes": "To enhance the aromatic profile of the dish."
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "1/4 tsp",
+      "notes": "Adjust according to spice preference for a balanced dish."
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "3-5 leaves",
+      "notes": "For extra aroma and taste enhancement."
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Use as per your preference for added flavor without making the dish too salty."
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": "For thinning the sauce and achieving a rich consistency."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "50ml",
+      "notes": "For sautéing to ensure it's not only non-greasy but also enhancing the overall flavor profile of the dish."
+    },
+    {
+      "name": "Fresh Coriander (for garnish)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add ginger and garlic pastes, sauté for about 30 seconds until fragrant.",
+    "Add paneer cubes to the pan, cook for another minute or so till they start browning slightly on their edges.",
+    "Drizzle tomato puree into the pan along with low-sodium soy sauce. Stir well to coat evenly with sauce and ensure no lumps form.",
+    "Reduce heat to medium and add cumin powder, red chili paste, coriander leaves, and fresh water. Mix well and simmer for about 5 minutes until the sauce thickens slightly.",
+    "Sprinkle freshly chopped coriander over the paneer stir-fry before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "saudi-panner-stir-fry",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "juicy-saudia-paneer-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-saudia-paneer-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:47:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "paneer",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Paneer",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
