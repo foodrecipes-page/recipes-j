@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Earthy Thai Goats Cheese Stir-fry",
+  "description": "A lazy Sunday dish featuring raw-friendly goats cheese in a juicy and earthy stir-fry that is perfect for incorporating into your meal planning.",
+  "cuisine": "Thai",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup of baby spinach",
+      "amount": "",
+      "notes": "For added nutrients and a pop of color"
+    },
+    {
+      "name": "2 tbsp of sliced shiitake mushrooms",
+      "amount": "",
+      "notes": "For their umami flavor and nutritional benefits"
+    },
+    {
+      "name": "1 block (50g) of goat cheese, crumbled",
+      "amount": "",
+      "notes": "Goat cheese should be at room temperature for best results"
+    },
+    {
+      "name": "2 tbsp of red curry paste",
+      "amount": "",
+      "notes": "For its aromatic and spicy flavor profile"
+    },
+    {
+      "name": "1/4 cup of chopped Thai basil leaves",
+      "amount": "",
+      "notes": "To bring in a sweet, licorice-like taste"
+    },
+    {
+      "name": "2 tbsp of fish sauce",
+      "amount": "",
+      "notes": "Use with caution as it is salty and potent"
+    },
+    {
+      "name": "1/4 cup of soy sauce",
+      "amount": "",
+      "notes": "Used to balance out the flavors"
+    },
+    {
+      "name": "1 tsp of sugar",
+      "amount": "",
+      "notes": "To sweeten and reduce fish sauce's intensity"
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of water",
+      "amount": "",
+      "notes": "Used to deglaze the pan for extra depth of flavor"
+    },
+    {
+      "name": "1 tbsp of lime juice",
+      "amount": "",
+      "notes": "For a bright, citrusy note to cut through the richness of the dish"
+    }
+  ],
+  "instructions": [
+    "Heat your wok or large frying pan over medium-high heat and add the red curry paste, minced garlic, and fish sauce. Stir until fragrant and slightly browned.",
+    "Add shiitake mushrooms and cook for about 2 minutes until they release their moisture and start to crisp up.",
+    "Drizzle in soy sauce, sugar, and water, stirring constantly to prevent sticking. Allow the liquid to reduce by half, then add lime juice and stir well.",
+    "In another pan, lightly sauté the baby spinach until wilted, about 30 seconds to a minute.",
+    "Gently fold the crumbled goat cheese into the shiitake mixture and cook for another minute or two, ensuring it is evenly distributed.",
+    "Fold in the Thai basil leaves and serve hot with steamed jasmine rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goat-cheese",
+    "stir-fry",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 481,
+    "protein": 20,
+    "carbs": 37,
+    "fat": 26
+  },
+  "slug": "juicy-earthy-thai-goats-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-earthy-thai-goats-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:11:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "goats cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Goats Cheese",
+    "descriptor": "Juicy Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
