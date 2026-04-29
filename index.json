@@ -704,6 +704,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-nutty-cashew-stir-fry",
+    "title": "Juicy Nutty Cashew Stir-fry",
+    "tags": [
+      "juicy",
+      "nutty",
+      "cozy-british-dish",
+      "low-carb-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-nutty-oat-crumble",
     "title": "Juicy Nutty Oat Crumble",
     "tags": [

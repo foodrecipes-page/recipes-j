@@ -1,0 +1,84 @@
+{
+  "title": "Juicy Nutty Cashew Stir-fry",
+  "description": "A cozy British dish featuring nutty and juicy cashews with a touch of low-carb-friendly double cream for a perfect side or light meal.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashew nuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "double cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 slices"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Soak cashew nuts in water for at least an hour. Drain and pat dry.",
+    "In a pan, lightly toast the garlic slices until fragrant, being careful not to burn them.",
+    "Add cashews to the pan with the toasted garlic, tomato paste, and double cream. Mix well to combine all ingredients evenly.",
+    "Season with salt and pepper according to taste.",
+    "Transfer the mixture to an oven-proof dish and bake for 10-12 minutes or until golden brown on top and slightly crispy around the edges.",
+    "Stir in chopped parsley just before serving for a pop of color and flavor."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "nutty",
+    "cozy-british-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 8,
+    "carbs": 3.5,
+    "fat": 14
+  },
+  "slug": "juicy-nutty-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nutty-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:41:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "double cream",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cashew",
+    "descriptor": "Nutty Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
