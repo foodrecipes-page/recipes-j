@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Fermented Spicy Malaysian Tomato Stir-fry",
+  "description": "A revitalizing and comforting dish perfect for a sick day, this fiery tomato stir-fry combines fermented vegetables with spicy red peppers to create a plant-based delight.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 medium tomatoes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large red bell pepper"
+    },
+    {
+      "name": "fermented vegetables (e.g., fermented tofu or pickled vegetables)",
+      "amount": "2-3 tablespoons"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce (or soy sauce for a vegan option)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "small piece, thinly sliced"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2-3 pieces, finely chopped (optional)"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add vegetable oil and swirl to coat the bottom.",
+    "Chop tomatoes, red bell pepper into strips, and finely chop jalapeno peppers if using. Finely slice ginger and garlic cloves.",
+    "Add fermented vegetables to the hot pan, followed by chopped tomato slices and red bell pepper strips. Stir well for about 2 minutes.",
+    "Add finely chopped jalapenos (if using) and stir again for another minute until peppers start to soften.",
+    "Sprinkle in sliced ginger and minced garlic, then add salt and soy sauce or fish sauce, continuing to stir for a couple more seconds to combine flavors.",
+    "Increase heat to high. Add the chopped red bell pepper and tomatoes to the wok, stirring frequently as it begins to cook down.",
+    "Once everything is nicely combined and slightly cooked, remove from heat and sprinkle with fresh coriander leaves. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "fermented",
+    "spicy",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "juicy-fermented-spicy-malaysian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fermented-spicy-malaysian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:13:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "red pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Juicy Fermented Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
