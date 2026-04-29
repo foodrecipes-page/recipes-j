@@ -1,0 +1,101 @@
+{
+  "title": "Vegan Earthy Ethiopian Beef Stir-fry",
+  "description": "This vegan-friendly stir-fry features unsalted beef stock and sous-vide cooking for an earthy, juicy dish that's kid-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g (firm, cubed)",
+      "notes": "use firm tofu to mimic the texture of meat"
+    },
+    {
+      "name": "aubergine (bell pepper)",
+      "amount": "4 medium",
+      "notes": "can be roasted or grilled for added depth of flavor"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "ensure it's not too bitter"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon fresh, minced",
+      "notes": "or 1/4 teaspoon ground ginger for non-vegan option"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons (optional)",
+      "notes": "for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 60°C.",
+    "Place the tofu in a bag with unsalted beef stock, seal and cook for about 1 hour.",
+    "While the tofu is cooking, slice the aubergine (bell pepper) into thin strips and chop the onion finely. Mince the garlic and ginger.",
+    "Heat a large pan over medium heat and add some oil. Sauté the chopped onions until translucent, then add minced garlic and ginger. Stir for about 2 minutes.",
+    "Add the sliced aubergine (bell pepper) to the pan and stir-fry for another 5 minutes or until they start to soften.",
+    "Drain the tofu from the sous-vide machine and cut into cubes. Add the drained cubes to the aubergine mix, along with spinach, nutritional yeast if using, and some salt & pepper. Stir well to combine all ingredients.",
+    "Simmer for about 5 minutes until all vegetables are soft but not mushy. Adjust seasoning as needed.",
+    "Serve the stir-fry hot garnished with sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "earthly",
+    "juicy",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "juicy-ethipian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-ethipian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:05:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -430,6 +430,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-ethipian-beef-stir-fry",
+    "title": "Vegan Earthy Ethiopian Beef Stir-fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "earthly",
+      "juicy",
+      "kid-friendly"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-fermented-free-range-low-sodium-egg-stir-fry",
     "title": "Juicy Fermented Free Range Low Sodium Egg Stir-fry",
     "tags": [
