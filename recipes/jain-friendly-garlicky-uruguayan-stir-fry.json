@@ -1,0 +1,86 @@
+{
+  "title": "Jain-friendly Garlicky Uruguayan Stir-fry",
+  "description": "A chewy and flavorful weeknight dish featuring garlic, sour cream, and chives, crafted to be jain-friendly without compromising on taste.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "tomato puree or fresh tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chives",
+      "amount": "handful chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the onion and mince the garlic.",
+    "Heat olive oil in a pan, add onions and cook until translucent.",
+    "Add minced garlic, sauté for about a minute until fragrant.",
+    "Stir in tomato puree or freshly chopped tomatoes with salt and pepper. Let it simmer for 5 minutes.",
+    "Blend sour cream into the sauce until smooth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "garlicky",
+    "uruguayan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "jain-friendly-garlicky-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jain-friendly-garlicky-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:52:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Jain-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
