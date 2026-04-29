@@ -1,0 +1,74 @@
+{
+  "title": "Juicy Caramelized British Plum Stir-fry",
+  "description": "A floral and juicy post-workout dish featuring plum jam caramelization, perfect for a kosher-friendly breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup of British plums",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "3 tablespoons of vegetable oil",
+      "amount": "unsalted"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "plain"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Wash and pit the plums. Place them in a shallow baking dish.",
+    "Pour olive oil over the plums, then sprinkle minced garlic evenly over them. Drizzle lemon juice over the plums.",
+    "Bake for about 15 minutes or until the plums are tender when pierced with a fork and caramelized on top. Remove from oven.",
+    "Return to the stove, heat vegetable oil in a pan. Stir-fry any remaining garlic for about 20 seconds until fragrant but not browned.",
+    "Add caramelized plum mixture into the pan. Cook for an additional 5 minutes or until liquid is absorbed and plums are glossy and juicy.",
+    "Season with salt to taste, serve hot as a breakfast dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "juicy",
+    "british",
+    "plum",
+    "caramelized",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "juicy-caramelized-british-plum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-caramelized-british-plum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:48:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "plum jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Plum",
+    "descriptor": "Juicy Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
