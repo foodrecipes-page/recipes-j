@@ -933,6 +933,18 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-roasted-slovakian-vegetables",
+    "title": "Juicy Roasted Slovakian Vegetables",
+    "tags": [
+      "juicy-roasted-vegetables",
+      "sumac-flavored",
+      "romantic-slovakian-dish"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-romantic-middle-eastern-petit-pois-stir-fry",
     "title": "Juicy Romantic Middle Eastern Petit Pois Stir-fry",
     "tags": [

@@ -1,0 +1,86 @@
+{
+  "title": "Juicy Roasted Slovakian Vegetables",
+  "description": "This salty and juicy dish features sumac as a unique twist on traditional roasted vegetables, making it both romantic and vegetarian-friendly.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 bell peppers",
+      "amount": "1 each",
+      "notes": "Remove stems and seeds"
+    },
+    {
+      "name": "2 red onions",
+      "amount": "2",
+      "notes": "Halve lengthwise"
+    },
+    {
+      "name": "3 large zucchinis",
+      "amount": "3",
+      "notes": "Cut into 1-inch chunks"
+    },
+    {
+      "name": "1 cup grated carrots",
+      "amount": "1 cup",
+      "notes": "Can be pre-grated for convenience"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin or any neutral-flavored oil can be used"
+    },
+    {
+      "name": "1 teaspoon ground sumac",
+      "amount": "1 tsp",
+      "notes": "For added tanginess and brightness"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null,
+      "notes": "To enhance flavors without overpowering the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Slice off the tops of the bell peppers and set aside. Remove seeds from inside each pepper.",
+    "In a large bowl, toss together sliced red onions, zucchini chunks, grated carrots, olive oil, sumac, salt, and any reserved pepper tops with their cut openings facing down to create an open-roasting bed for the vegetables.",
+    "Spread the vegetable mixture evenly in a single layer on a baking sheet lined with aluminum foil or parchment paper. This prevents sticking and easy cleanup later.",
+    "Place the baking sheet in the preheated oven and roast the vegetables for about 30 minutes, flipping them halfway through so they brown nicely from all sides.",
+    "Remove from the oven when you desire slightly crispy yet still juicy vegetables, which should be golden-brown on the outside but retain some moisture inside. Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "juicy-roasted-vegetables",
+    "sumac-flavored",
+    "romantic-slovakian-dish"
+  ],
+  "nutrition": {
+    "calories": 204,
+    "protein": 8,
+    "carbs": 31,
+    "fat": 5
+  },
+  "slug": "juicy-roasted-slovakian-vegetables",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-slovakian-vegetables",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:12:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "sumac",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
