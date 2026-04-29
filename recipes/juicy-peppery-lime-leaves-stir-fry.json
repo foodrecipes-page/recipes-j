@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Peppery Lime Leaves Stir-fry",
+  "description": "This adventurous Syrian dish features lime leaves that are caramelized and combined with a juicy mix of vegetables for a low-sodium-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 lime leaves (fresh)",
+      "amount": "",
+      "notes": "Trim the stems and remove any tough parts."
+    },
+    {
+      "name": "1 small red bell pepper, cut into strips",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small yellow onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime (freshly squeezed)",
+      "amount": "juice",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp low-sodium soy sauce (or tamari for gluten-free option)",
+      "amount": "tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat. Add the lime leaves and sauté until they start to wilt slightly.",
+    "Add the onion, bell pepper, garlic, and broccoli florets to the pan. Stir-fry for about 5 minutes until vegetables are tender but still crisp.",
+    "Pour in the squeezed lime juice and add the low-sodium soy sauce. Mix well to combine all ingredients.",
+    "Adjust seasoning with salt if needed (since it’s a low-sodium dish, adjust sparingly).",
+    "Serve hot as a side or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "juicy",
+    "adventurous",
+    "syrian",
+    "caramelized",
+    "limes",
+    "stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "juicy-peppery-lime-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peppery-lime-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:31:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "lime leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lime leaves",
+    "descriptor": "Peppery Juicy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
