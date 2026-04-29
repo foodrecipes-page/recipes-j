@@ -1,0 +1,84 @@
+{
+  "title": "Juicy Saudia Onion Stir-fry",
+  "description": "A tangy and juicy Saudi Arabian dish featuring gluten-free onion in a bhuna spice blend for midnight cravings.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon fresh, minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "a pinch"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the onion into thin strips.",
+    "In a pan, heat some oil and add sliced ginger. Sauté for about 1 minute until fragrant.",
+    "Add chopped onions to the pan and sauté over medium heat for about 5-7 minutes or until they turn translucent but not browned.",
+    "Pour in the tomato sauce and cook for another 2 minutes, stirring occasionally.",
+    "Sprinkle the bhuna spice blend evenly on top of the onion mixture. Stir well to coat all ingredients.",
+    "Add salt and pepper to taste. Continue cooking for about 3 more minutes until everything is heated through.",
+    "Remove from heat and let it sit for a minute before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage-fry",
+    "gluten-free",
+    "arabian",
+    "tangy",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "juicy-saudia-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-saudia-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:37:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "onion",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Onion",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
