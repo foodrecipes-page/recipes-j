@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Roasted Egyptian Vegetables Stir-fry",
+  "description": "A quick-fix vegetarian-friendly dish featuring roasted vegetables that are rich and juicy, perfect for a meal in under 30 minutes.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "1 large",
+      "notes": "medium-firm, cut into chunks"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "halved and deseeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3",
+      "notes": "minced"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tbsp",
+      "notes": "optional, adds a sweet-sour flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for drizzling and brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C).",
+    "Season the aubergine, zucchini, red bell pepper, and onion with salt. Drizzle with olive oil.",
+    "Spread the vegetables on a baking sheet in a single layer, drizzling more olive oil over them.",
+    "Roast for about 25 minutes, stirring once midway, until tender and slightly caramelized.",
+    "In a wok or large skillet, heat 1 tbsp of olive oil over medium-high heat. Add minced garlic and cook for 30 seconds until fragrant.",
+    "Add the roasted vegetables to the pan and stir-fry for an additional 5 minutes.",
+    "Stir in pomegranate molasses if using, season with salt, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "juicy",
+    "vegetarian-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "juicy-roasted-egyptian-vegetables-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-egyptian-vegetables-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:54:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
