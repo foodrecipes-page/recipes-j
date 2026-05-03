@@ -487,6 +487,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-french-tuna-salad",
+    "title": "Juicy French Tuna Salad",
+    "tags": [
+      "pescatarian",
+      "low-sodium",
+      "sous-vide",
+      "fresh",
+      "salad",
+      "french",
+      "quick"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-fresh-greek-zucchini-salad",
     "title": "Juicy Fresh Greek Zucchini Salad",
     "tags": [

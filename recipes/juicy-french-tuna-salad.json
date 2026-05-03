@@ -1,0 +1,109 @@
+{
+  "title": "Juicy French Tuna Salad",
+  "description": "A fresh midnight‑craving French salad featuring sous‑vide tuna, a tangy vinaigrette, and crisp garden vegetables for a low‑sodium, juicy delight.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh tuna steak, skinless",
+      "amount": "400 g"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Dijon mustard (low‑sodium)",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Fresh herbs (parsley, dill, chives), chopped",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Mixed arugula and baby spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "½ cucumber"
+    },
+    {
+      "name": "Radish, thinly sliced",
+      "amount": "1 radish"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "¼ small"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Vacuum‑seal the tuna steak with ½ tsp salt and 1 Tbsp olive oil, and preheat the sous‑vide water bath to 54 °C (130 °F).",
+    "Seal tuna and cook sous‑vide for 45 minutes.",
+    "While tuna cooks, whisk Dijon mustard, white wine vinegar, lemon juice, and remaining olive oil in a small bowl to make a vinaigrette.",
+    "Remove tuna from the bag, pat dry, and heat a non‑stick skillet over high heat; sear tuna for 30 seconds per side to develop a crust.\nLet it rest 5 minutes.",
+    "Slice tuna into 1‑inch cubes and set aside.",
+    "In a large bowl, toss arugula, spinach, cucumber, radish, and red onion with the vinaigrette and 1 Tbsp low‑sodium soy sauce.",
+    "Divide the dressed greens between 2 plates.",
+    "Arrange tuna cubes on top of the greens and sprinkle with chopped herbs.",
+    "Drizzle any remaining vinaigrette over the salad; season with extra salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 55,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "low-sodium",
+    "sous-vide",
+    "fresh",
+    "salad",
+    "french",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 418,
+    "protein": 59,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "juicy-french-tuna-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-french-tuna-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:25:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tuna",
+    "descriptor": "Juicy",
+    "dishForm": "Salad"
+  }
+}
