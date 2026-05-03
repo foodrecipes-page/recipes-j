@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Mediterranean Squid Bowl",
+  "description": "A light, floral-scented bowl featuring tender squid simmered in lemon and herbs, served over a bed of fresh greens and topped with a zesty lemon-tahini dressing.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "120g",
+      "notes": "cleaned and beheaded"
+    },
+    {
+      "name": "lemon",
+      ": ": ", ",
+      "amount": "1 large",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "30g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "15g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "lemon-tahini dressing",
+      "amount": "2 tbsp",
+      "notes": "see below"
+    }
+  ],
+  "instructions": [
+    "In a small pot, combine cleaned squid, lemon juice, lemon zest, olive oil, and parsley. Simmer gently for 5 minutes until squid is tender but still firm.",
+    "While squid simmers, thinly slice red onion and chop spinach.",
+    "In a small bowl, whisk together 1 tbsp tahini, 1 tbsp lemon juice, 1 tsp maple syrup, and 1 tsp minced garlic for the dressing.",
+    "Assemble the bowl: place cooked squid on a bed of spinach, top with red onion slices, and drizzle with lemon-tahini dressing.",
+    "Chill for 10 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "juicy",
+    "squid",
+    "light",
+    "whole30",
+    "lemon",
+    "tahini",
+    "fresh"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "juicy-mediterranean-squid-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterranean-squid-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:44:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "squid",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "squid",
+    "descriptor": "Juicy",
+    "dishForm": "Bowl"
+  }
+}

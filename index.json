@@ -629,6 +629,23 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-mediterranean-squid-bowl",
+    "title": "Juicy Mediterranean Squid Bowl",
+    "tags": [
+      "mediterranean",
+      "juicy",
+      "squid",
+      "light",
+      "whole30",
+      "lemon",
+      "tahini",
+      "fresh"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mediterranean-tomato-stir-fry",
     "title": "Juicy Mediterranean Tomato Stir-fry",
     "tags": [
