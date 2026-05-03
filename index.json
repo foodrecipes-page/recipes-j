@@ -154,6 +154,20 @@
     "shard": "j"
   },
   {
+    "slug": "joyful-irish-tomato-soup",
+    "title": "Joyful Irish Tomato Soup",
+    "tags": [
+      "floral-flavors",
+      "irish",
+      "keto-friendly",
+      "silky",
+      "tomato-soup"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-greek-shrimp-salad",
     "title": "Jubilant Greek Shrimp Salad",
     "tags": [
@@ -1290,6 +1304,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-brazilian-pinto-beans-casserole",
+    "title": "Juicy Smoky Brazilian Pinto Beans Casserole",
+    "tags": [
+      "brazilian",
+      "family-friendly",
+      "kid-friendly",
+      "one-pot",
+      "quick",
+      "smoky"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 80,
     "shard": "j"
   },
   {

@@ -1,0 +1,114 @@
+{
+  "title": "Juicy Smoky Brazilian Pinto Beans Casserole",
+  "description": "A smoky, flaky casserole of pinto beans and smoked turkey, perfect for kids and easy to make.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked pinto beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked turkey breast, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheese (kosher)",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Sauté olive oil in a large pot until hot.",
+    "Add diced onion and minced garlic, cooking until translucent.",
+    "Stir in smoked paprika, cumin, salt, pepper and bay leaf, cooking for 1 minute.",
+    "Add smoked turkey, cooked beans and vegetable broth, bringing to a gentle boil.",
+    "Reduce heat, cover and simmer for 30 minutes, stirring occasionally.",
+    "Uncover, sprinkle shredded cheese over the top, cover again and let the cheese melt for 5 minutes.",
+    "Remove the pot from heat and stir in fresh cilantro and lime juice.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve hot with crusty bread or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "family-friendly",
+    "kid-friendly",
+    "one-pot",
+    "quick",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "juicy-smoky-brazilian-pinto-beans-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-brazilian-pinto-beans-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:09:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "pinto beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Joyful Irish Tomato Soup",
+  "description": "A fragrant, silky tomato soup infused with Irish flavors and a botanical twist, perfect for a keto-friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (28 oz) diced tomatoes"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "2 cups low-sodium vegetable broth"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup heavy cream",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium onion, diced"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1 cup fresh basil leaves, chopped"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp fresh thyme leaves"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp fresh rosemary, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and cook until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for 30 seconds until fragrant.",
+    "Pour in the canned diced tomatoes with their juices and the vegetable broth, stirring to combine.",
+    "Bring the mixture to a gentle boil, then reduce to a simmer for 15 minutes to allow flavors to meld.",
+    "Using an immersion blender, puree the soup until silky smooth, or transfer to a blender in batches.",
+    "Return the soup to the pot, stir in heavy cream, fresh basil, thyme, rosemary, salt, and pepper, and heat through for 5 minutes without boiling.",
+    "Serve hot, garnished with extra basil leaves, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-flavors",
+    "irish",
+    "keto-friendly",
+    "silky",
+    "tomato-soup"
+  ],
+  "nutrition": {
+    "calories": 344,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "joyful-irish-tomato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-irish-tomato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:09:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomato",
+    "descriptor": "Joyful",
+    "dishForm": "Soup"
+  }
+}
