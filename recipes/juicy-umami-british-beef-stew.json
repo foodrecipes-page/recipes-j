@@ -1,0 +1,122 @@
+{
+  "title": "Juicy Umami British Beef Stew",
+  "description": "A hearty, one-pot stew originating from British cuisine, featuring a rich umami flavor from bouillon cubes and a tender, juicy texture from the beef. Perfect for a cozy dinner.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "4",
+      "notes": "beef or beef-flavored"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots, potatoes, and red bell pepper to the pot. Cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth to the pot, whisking constantly. Bring to a boil.",
+    "Return the browned beef to the pot and add the bouillon cubes, tomato paste, Worcestershire sauce, thyme, and black pepper.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove from the oven and let cool slightly.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "british",
+    "umami",
+    "comfort food",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "juicy-umami-british-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-umami-british-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:05:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Beef",
+    "descriptor": "Juicy Umami",
+    "dishForm": "Stew"
+  }
+}

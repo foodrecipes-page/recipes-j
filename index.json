@@ -1357,6 +1357,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-umami-british-beef-stew",
+    "title": "Juicy Umami British Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "british",
+      "umami",
+      "comfort food",
+      "one-pot"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-venezuelan-serrano-ham-wraps",
     "title": "Juicy Venezuelan Serrano Ham Wraps",
     "tags": [
