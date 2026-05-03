@@ -1,0 +1,114 @@
+{
+  "title": "Juicy Greek Garlic Stew",
+  "description": "A rich, garlicky stew with tender lamb and a hint of sweetness, perfect for a sick day.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, 1 1/2 pounds, boneless and cut into 2-inch pieces",
+      "amount": "",
+      "notes": "Choose a high-quality, grass-fed lamb"
+    },
+    {
+      "name": "Golden caster sugar, 2 tablespoons",
+      "amount": "2 Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil, 2 tablespoons",
+      "amount": "2 Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, 1 large, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, 6 cloves, minced",
+      "amount": "",
+      "notes": "Reduce to 3 cloves if you prefer less garlic"
+    },
+    {
+      "name": "Red wine, 1 cup (optional)",
+      "amount": "1 cup",
+      "notes": "Can be substituted with beef broth"
+    },
+    {
+      "name": "Beef broth, 2 cups",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano, 1 teaspoon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme, 1/2 teaspoon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt, 1 teaspoon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper, 1/2 teaspoon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and add the chopped onion to the pot. Cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine (if using), beef broth, dried oregano, dried thyme, salt, and pepper to the pot. Stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the oven. Braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in the golden caster sugar. Cook over low heat for 10 minutes, or until the stew has reduced slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "garlic",
+    "stew",
+    "sick-day",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 29
+  },
+  "slug": "juicy-greek-garlic-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-greek-garlic-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:59:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "garlic",
+    "descriptor": "juicy",
+    "dishForm": "stew"
+  }
+}
