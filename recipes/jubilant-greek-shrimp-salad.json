@@ -1,0 +1,117 @@
+{
+  "title": "Jubilant Greek Shrimp Salad",
+  "description": "A floral, creamy Greek shrimp salad featuring a quick blanch in cooking wine and a honey-rose water yogurt dressing.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "400g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dry white cooking wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt, honey, rose water",
+      "amount": "2 tbsp yogurt, 1 tsp honey, 1 tsp rose water"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat until shimmering.",
+    "Add the shrimp and cook for 1 minute, then pour the cooking wine over them, letting it reduce for 1 minute while the shrimp blanch.",
+    "Remove the shrimp from the skillet and set aside to cool slightly.",
+    "In a large bowl, combine cherry tomatoes, cucumber, red onion, olives, and feta cheese.",
+    "Whisk the Greek yogurt, honey, rose water, and lemon juice until smooth; season with salt and pepper.",
+    "Pour the dressing over the vegetable mixture and toss gently to coat.",
+    "Add the blanched shrimp, fresh dill, and mint to the bowl.",
+    "Gently fold everything together, ensuring the shrimp are evenly distributed.",
+    "Taste and adjust seasoning with additional lemon juice or salt if needed.",
+    "Serve the salad immediately, optionally garnished with extra dill or mint."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 3,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "greek",
+    "monsoon",
+    "pescatarian-friendly",
+    "quick",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1020,
+    "protein": 106,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "jubilant-greek-shrimp-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-greek-shrimp-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:02:34Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "cooking wine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "Jubilant",
+    "dishForm": "Salad"
+  }
+}
