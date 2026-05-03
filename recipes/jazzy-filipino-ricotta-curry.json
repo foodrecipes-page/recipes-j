@@ -1,0 +1,98 @@
+{
+  "title": "Jazzy Filipino Ricotta Curry",
+  "description": "Fermented, snappy hangover cure featuring ricotta and miso in a no-onion no-garlic Bicol express style curry.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "300 g"
+    },
+    {
+      "name": "miso paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "patis (shrimp paste)",
+      "amount": "10 g"
+    },
+    {
+      "name": "chipotle chili paste",
+      "amount": "10 g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together miso paste, coconut milk, and lemon juice until smooth.",
+    "Gently fold in ricotta, patis, and chipotle paste until evenly combined.",
+    "Heat oil in a pan over medium heat and pour the curry mixture into the pan.",
+    "Simmer uncovered for 12 minutes, stirring occasionally, until the sauce thickens slightly.",
+    "Stir in sugar and lime zest, cooking for another 2 minutes.",
+    "Remove from heat and allow to cool for a minute before garnishing with cilantro.",
+    "Serve hot over steamed rice or use as a dip with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bicol-express",
+    "fermented",
+    "hangover-cure",
+    "no-garlic",
+    "no-onion",
+    "ricotta",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "jazzy-filipino-ricotta-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-filipino-ricotta-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:49:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ricotta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ricotta",
+    "descriptor": "Jazzy",
+    "dishForm": "Curry"
+  }
+}

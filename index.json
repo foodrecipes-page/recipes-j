@@ -111,6 +111,22 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-filipino-ricotta-curry",
+    "title": "Jazzy Filipino Ricotta Curry",
+    "tags": [
+      "bicol-express",
+      "fermented",
+      "hangover-cure",
+      "no-garlic",
+      "no-onion",
+      "ricotta",
+      "snappy"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-turkish-vermicelli-onigiri",
     "title": "Jazzy Turkish Vermicelli Onigiri",
     "tags": [
