@@ -1,0 +1,120 @@
+{
+  "title": "juicy mexican jersey royal potatoes tacos",
+  "description": "sweet, crispy, energizing mexican (oaxacan) dish featuring jersey royal potatoes, temper, halal-friendly.",
+  "cuisine": "mexican",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jersey royal potatoes",
+      "amount": "2 pounds",
+      "notes": "about 4-6 medium-sized potatoes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "about 1 cup finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "about 1 tablespoon minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for temper"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "depending on size"
+    },
+    {
+      "name": "shredded cheese (such as queso fresco or Monterey Jack)",
+      "amount": "1 cup",
+      "notes": "about 120g"
+    },
+    {
+      "name": "cilantro (coriander leaves)",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the chopped onions and sauté until they are translucent and starting to caramelize.",
+    "Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add the chili powder and cumin, and stir for 1 minute.",
+    "Add the salt and black pepper, and stir for 1 minute.",
+    "Add the chopped potatoes and stir to coat with the spice mixture.",
+    "Add the water and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for about 15-20 minutes, or until the potatoes are tender.",
+    "While the potatoes are cooking, warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the potatoes are done, remove them from the heat and stir in the shredded cheese.",
+    "To assemble the tacos, place a few spoonfuls of the potato mixture onto a warmed tortilla, and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-mexican-jersey-royal-potatoes-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-jersey-royal-potatoes-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:56:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "halal",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Juicy",
+    "dishForm": "Tacos"
+  }
+}

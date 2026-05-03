@@ -123,6 +123,21 @@
     "shard": "j"
   },
   {
+    "slug": "jeweled-garlicky-turkish-rye-flatbread",
+    "title": "Jeweled Garlicky Turkish Rye Flatbread",
+    "tags": [
+      "flatbread",
+      "garlic-lovers",
+      "homemade-bread",
+      "lazy-sunday",
+      "turkish-food",
+      "vegetarian-snacks"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-smoky-slovakian-turkey-mince-kebabs",
     "title": "Jovial Smoky Slovakian Turkey Mince Kebabs",
     "tags": [
@@ -839,6 +854,19 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-mexican-jersey-royal-potatoes-tacos",
+    "title": "juicy mexican jersey royal potatoes tacos",
+    "tags": [
+      "mexican",
+      "one-pan",
+      "veggie-friendly",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

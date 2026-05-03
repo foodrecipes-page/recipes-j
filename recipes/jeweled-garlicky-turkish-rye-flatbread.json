@@ -1,0 +1,102 @@
+{
+  "title": "Jeweled Garlicky Turkish Rye Flatbread",
+  "description": "A garlicky, crumbly, lazy-sunday Turkish dish featuring rye, perfect for a relaxing afternoon, this flatbread is egg-free and easy to make.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rye flour, sugar, salt, yeast, thyme, and sumac.",
+    "Gradually add the water to the dry ingredients and mix until a shaggy dough forms.",
+    "Add the olive oil, garlic, and sesame seeds to the dough and mix until a sticky ball forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round or oblong flatbread.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 25 minutes, until it is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool on a wire rack for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "garlic-lovers",
+    "homemade-bread",
+    "lazy-sunday",
+    "turkish-food",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jeweled-garlicky-turkish-rye-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-garlicky-turkish-rye-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:56:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "rye",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rye",
+    "descriptor": "jeweled garlicky",
+    "dishForm": "Flatbread"
+  }
+}
