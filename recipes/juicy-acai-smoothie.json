@@ -1,5 +1,5 @@
 {
-  "title": "Juicy Açaí Smoothie",
+  "title": "Juicy Acai Smoothie",
   "description": "A herbal and juicy Brazilian smoothie that's crowd-pleasing and egg-free-friendly.",
   "cuisine": "Brazilian",
   "diet": [
@@ -17,7 +17,7 @@
       "amount": "two"
     },
     {
-      "name": "1 cup unsweetened açaí puree",
+      "name": "1 cup unsweetened a\u00e7a\u00ed puree",
       "amount": "full cup"
     },
     {
@@ -47,7 +47,7 @@
   "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "açaí",
+    "acai",
     "smoothie",
     "vegan",
     "gluten-free"
@@ -72,7 +72,7 @@
     "diet": "egg-free",
     "region": null,
     "cuisineAdjective": "Brazilian",
-    "mainIngredient": "Açaí",
+    "mainIngredient": "A\u00e7a\u00ed",
     "descriptor": "Juicy",
     "dishForm": "Smoothie"
   }

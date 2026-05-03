@@ -67,7 +67,7 @@
     "Add onion to pot, cooking until softened. Add garlic and cook 1 minute.",
     "Add curry paste and cook 1 minute, stirring constantly.",
     "Add fish sauce, lemon juice, and honey. Bring to a simmer.",
-    "Add pork back to pot, cover, and transfer to oven (375°F / 190°C). Braise 2 hours or until tender.",
+    "Add pork back to pot, cover, and transfer to oven (375\u00b0F / 190\u00b0C). Braise 2 hours or until tender.",
     "Add paccheri pasta to the pot, tossing to coat with braising liquid.",
     "Stir in Thai basil and Kaffir lime leaves. Season with salt.",
     "Serve hot, garnished with additional Thai basil if desired."
@@ -88,9 +88,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "35g",
-    "carbs": "60g",
-    "fat": "24g"
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
   },
   "slug": "juicy-floral-thai-pork-braise-pasta",
   "source": "groq-llama-3.1-8b-instant",

@@ -11,7 +11,7 @@
     {
       "name": "firm tofu",
       "amount": "800 g",
-      "notes": "cut into 1‑cm cubes"
+      "notes": "cut into 1\u2011cm cubes"
     },
     {
       "name": "coconut milk",
@@ -43,7 +43,7 @@
     },
     {
       "name": "fenugreek seeds",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "turmeric powder",
@@ -77,7 +77,7 @@
   "tags": [
     "jain-friendly",
     "vegan",
-    "Indian",
+    "indian",
     "tofu",
     "curry",
     "weeknight",

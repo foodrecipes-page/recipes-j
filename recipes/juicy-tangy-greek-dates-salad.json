@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 98,
-    "protein": 2.6,
+    "protein": 3,
     "carbs": 13,
-    "fat": 4.6
+    "fat": 5
   },
   "slug": "juicy-tangy-greek-dates-salad",
   "source": "ollama-qwen2.5:3b",

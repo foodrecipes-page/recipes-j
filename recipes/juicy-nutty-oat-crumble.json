@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine oats and almonds.",
     "Add chopped dates and lemon juice. Stir until evenly combined.",
     "Transfer mixture to an oven-safe dish or baking tray.",
@@ -54,9 +54,9 @@
   ],
   "nutrition": {
     "calories": 137,
-    "protein": 2.8,
-    "carbs": 10.6,
-    "fat": 4.9
+    "protein": 3,
+    "carbs": 11,
+    "fat": 5
   },
   "slug": "juicy-nutty-oat-crumble",
   "source": "ollama-qwen2.5:3b",

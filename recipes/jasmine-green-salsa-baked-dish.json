@@ -45,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Cook jasmine rice according to package instructions.",
     "Chop green peppers and onions into small pieces. Mince garlic cloves.",
     "In a large mixing bowl, combine cooked jasmine rice, chopped peppers, onions, minced garlic, cilantro leaves, salsa mix, olive oil, salt, and lime juice. Mix well until the mixture is uniform.",
@@ -59,8 +59,8 @@
   "difficulty": "easy",
   "tags": [
     "jasmine",
-    "green salsa",
-    "baked dish",
+    "green-salsa",
+    "baked-dish",
     "vegan"
   ],
   "nutrition": {

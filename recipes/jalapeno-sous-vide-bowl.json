@@ -1,5 +1,5 @@
 {
-  "title": "Jalapeño Sous-Vide Bowl",
+  "title": "Jalapeno Sous-Vide Bowl",
   "description": "A sour and chewy Vietnamese-inspired dish featuring jalapeno peppers cooked sous-vide to perfection for a high-protein-friendly meal.",
   "cuisine": "Vietnamese",
   "diet": [
@@ -9,7 +9,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Jalapeño peppers",
+      "name": "Jalape\u00f1o peppers",
       "amount": "10"
     },
     {
@@ -51,12 +51,12 @@
     }
   ],
   "instructions": [
-    "Preheat sous-vide machine to 145°F (63°C).",
-    "Slice jalapeño peppers into thin rounds and place them on a sheet of plastic wrap or silicone mat.",
-    "Rub each jalapeño round with half the olive oil, salt lightly, then add 2 garlic cloves. Roll up the jalapeños to seal them in the plastic wrap and cook for 45 minutes.",
+    "Preheat sous-vide machine to 145\u00b0F (63\u00b0C).",
+    "Slice jalape\u00f1o peppers into thin rounds and place them on a sheet of plastic wrap or silicone mat.",
+    "Rub each jalape\u00f1o round with half the olive oil, salt lightly, then add 2 garlic cloves. Roll up the jalape\u00f1os to seal them in the plastic wrap and cook for 45 minutes.",
     "Meanwhile, in a medium bowl, combine fish sauce, lime juice, soy sauce, and remaining olive oil. Mix until smooth.",
     "Remove chicken from sous-vide bag and let it rest for about 10 minutes before slicing into strips or serving whole if desired.",
-    "In another large mixing bowl, mix the cooked jalapeños with the prepared sauce.",
+    "In another large mixing bowl, mix the cooked jalape\u00f1os with the prepared sauce.",
     "Fold in minced cilantro, fresh mint leaves, and toasted sesame seeds.",
     "Divide the mixture evenly among bowls and serve with sliced chicken breast on top."
   ],

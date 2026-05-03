@@ -6,7 +6,7 @@
     "vegan",
     "jain"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "2 fresh sea bass fillets",
@@ -51,14 +51,14 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F.",
+    "Preheat your oven to 400\u00b0F.",
     "Gently fry the sea bass fillets in a bit of oil until golden brown on both sides. Remove from heat and keep warm.",
-    "In a pan, add vegetable oil, cumin seeds, and sauté for about 1 minute until fragrant.",
+    "In a pan, add vegetable oil, cumin seeds, and saut\u00e9 for about 1 minute until fragrant.",
     "Add finely chopped onion and minced garlic to the pan, cook for another 2 minutes or until onions are translucent.",
     "Add soaked and de-seeded dried chilies along with green beans. Cook for a few more minutes until chilies start to soften slightly.",
     "Pour in the lime juice over the mixture, mix well, and let it simmer for about 5-7 minutes allowing flavors to meld together.",
     "Place the fried sea bass fillets in the prepared dish, pour the spicy green bean sauce all over them.",
-    "Bake at 400°F for 15 minutes or until the fish is heated through. Garnish with fresh cilantro if desired.",
+    "Bake at 400\u00b0F for 15 minutes or until the fish is heated through. Garnish with fresh cilantro if desired.",
     "Serve hot and enjoy your brunch-mood mexican dish!"
   ],
   "prepTimeMin": 20,

@@ -7,7 +7,7 @@
     "juicy",
     "indulgent"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "2 cups of blue pasta noodles",
@@ -52,7 +52,7 @@
   ],
   "instructions": [
     "Boil the pasta noodles with water containing food coloring until cooked through.",
-    "Sauté ground meat or turkey in a pan over medium heat until browned.",
+    "Saut\u00e9 ground meat or turkey in a pan over medium heat until browned.",
     "Add onion and garlic to the pan, cook for another minute until fragrant.",
     "Mix in tomato sauce and continue cooking until everything is heated through and well combined.",
     "Season with salt and pepper according to taste.",

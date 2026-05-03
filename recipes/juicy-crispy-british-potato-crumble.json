@@ -3,7 +3,7 @@
   "description": "An earthy and juicy crowd-pleaser featuring a crumbly topping of bread crumbs and spices on roasted potatoes, perfect for a simple yet satisfying side dish.",
   "cuisine": "British",
   "diet": null,
-  "meal": "side-dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "potatoes",
@@ -52,7 +52,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Wash and peel potatoes, then slice them into rounds about 1/8-inch thick.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Wash and peel potatoes, then slice them into rounds about 1/8-inch thick.",
     "In a large skillet with oil over medium heat, fry potato slices for about 2-3 minutes until golden brown on one side. Turn and continue frying until evenly golden and crisp. Remove from skillet and set aside.",
     "Melt butter in the same skillet over low-medium heat. Stir in sugar, cinnamon (if using), flour, and oats. Mix well to form a smooth paste. Add cold unsalted butter pieces and mix until crumbly and spreadable.",
     "Spread evenly on top of fried potatoes. Bake for about 20-25 minutes or until golden brown and crisp on top.",
@@ -71,9 +71,9 @@
   ],
   "nutrition": {
     "calories": 192,
-    "protein": 3.6,
-    "carbs": 18.7,
-    "fat": 5.4
+    "protein": 4,
+    "carbs": 19,
+    "fat": 5
   },
   "slug": "juicy-crispy-british-potato-crumble",
   "source": "ollama-qwen2.5:3b",

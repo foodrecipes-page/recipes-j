@@ -44,7 +44,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Place phyllo sheets on a clean surface and cover with a damp cloth.",
     "Mix minced garlic, roasted red bell pepper, heavy cream, lemon juice, and salt in a bowl. Set aside.",
     "Carefully unfold a sheet of phyllo dough and place it on a flat serving plate.",
@@ -69,9 +69,9 @@
   ],
   "nutrition": {
     "calories": 387,
-    "protein": 12.9,
-    "carbs": 24.6,
-    "fat": 19.5
+    "protein": 13,
+    "carbs": 25,
+    "fat": 20
   },
   "slug": "juicy-tunisian-filo-pastry-pie",
   "source": "ollama-qwen2.5:3b",

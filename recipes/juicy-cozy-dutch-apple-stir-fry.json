@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F.",
+    "Preheat oven to 375\u00b0F.",
     "Season the chicken with salt. Place a small saucepan over medium heat and add unsweetened applesauce, apple cider vinegar, dill, thyme, and enough water or broth to thin it out slightly (about 1/4 cup). Bring to a simmer.",
     "Place seasoned chicken on a baking sheet lined with parchment paper. Brush both sides of each piece with butter.",
     "Pour the sauce over the chicken, making sure all pieces are coated evenly. Bake for 20-25 minutes or until juices run clear when pierced with a knife.",
@@ -49,7 +49,7 @@
   "tags": [
     "juicy",
     "sour",
-    "cozy dutch"
+    "cozy-dutch"
   ],
   "nutrition": {
     "calories": 307,

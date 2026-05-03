@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 350°F (180°C).",
+    "Preheat the oven to 350\u00b0F (180\u00b0C).",
     "Soak cashew nuts in water for at least an hour. Drain and pat dry.",
     "In a pan, lightly toast the garlic slices until fragrant, being careful not to burn them.",
     "Add cashews to the pan with the toasted garlic, tomato paste, and double cream. Mix well to combine all ingredients evenly.",
@@ -60,7 +60,7 @@
   "nutrition": {
     "calories": 190,
     "protein": 8,
-    "carbs": 3.5,
+    "carbs": 4,
     "fat": 14
   },
   "slug": "juicy-nutty-cashew-stir-fry",

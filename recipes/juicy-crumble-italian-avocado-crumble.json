@@ -1,6 +1,6 @@
 {
-  "title": "Juicy Crumble Italian Avocado Creme Brûlée",
-  "description": "A sweet and adventurous take on Italian creme brûlée featuring a unique combination of avocado puree and graham cracker crumbs baked to perfection, making it an indulgent dessert suitable for plant-based diets.",
+  "title": "Juicy Crumble Italian Avocado Creme Brulee",
+  "description": "A sweet and adventurous take on Italian creme brulee featuring a unique combination of avocado puree and graham cracker crumbs baked to perfection, making it an indulgent dessert suitable for plant-based diets.",
   "cuisine": "International",
   "diet": [
     "vegan",
@@ -41,7 +41,7 @@
     "Blend avocado, sugar, heavy cream, milk, salt, and vanilla extract until smooth.",
     "Pour mixture into a baking dish lined with parchment paper for easy removal.",
     "Sprinkle graham cracker crumbs evenly over the top of the mixture.",
-    "Bake at 325°F (160°C) for about 45 minutes or until set. Allow to cool before serving.",
+    "Bake at 325\u00b0F (160\u00b0C) for about 45 minutes or until set. Allow to cool before serving.",
     "Serve warm and top with a sprinkle of raw sugar and a dash of cinnamon."
   ],
   "prepTimeMin": 20,
@@ -57,8 +57,8 @@
   ],
   "nutrition": {
     "calories": 518,
-    "protein": 7.6,
-    "carbs": 29.8,
+    "protein": 8,
+    "carbs": 30,
     "fat": 30
   },
   "slug": "juicy-crumble-italian-avocado-crumble",
