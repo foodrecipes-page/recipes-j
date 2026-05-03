@@ -1,0 +1,103 @@
+{
+  "title": "Jazzy Crisp Canadian Chinese Broccoli Stir-fry",
+  "description": "A peppery, crisp stir‑fry featuring tender Chinese broccoli tossed in a savory mother‑sauce base, perfect for a quick Canadian‑friendly lunch or dinner.",
+  "cuisine": "Canadian Chinese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli (gai lan)",
+      "amount": "400g",
+      "notes": "freshly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for tossing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium‑high heat and add 1 tbsp olive oil.",
+    "Once the oil shimmers, toss in 2 minced garlic cloves and 1 tsp grated ginger, stir for 30 seconds until fragrant.",
+    "Add the sliced Chinese broccoli and stir‑fry for 2 minutes, keeping it crisp.",
+    "Pour in 2 tbsp low‑sodium soy sauce, 1 tbsp rice vinegar, 1 tsp sesame oil, and 1 tsp brown sugar, stirring to coat the vegetables.",
+    "Sprinkle 1/4 tsp crushed red pepper flakes for a subtle heat and cook for another minute, ensuring the broccoli remains bright green and crunchy.",
+    "Remove from heat and garnish with 2 sliced scallions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "jazzy-crisp-canadian-chinese-broccoli-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crisp-canadian-chinese-broccoli-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:40:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Jazzy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
