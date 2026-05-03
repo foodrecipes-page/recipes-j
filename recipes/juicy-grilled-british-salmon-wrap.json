@@ -1,0 +1,114 @@
+{
+  "title": "Juicy Grilled British Salmon Wrap",
+  "description": "A flavorful and kid-friendly British dish featuring grilled salmon, oranges, and a hint of lemon, all wrapped in a warm tortilla.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 salmon fillets",
+      "amount": "6 oz",
+      "notes": "Fresh and wild-caught"
+    },
+    {
+      "name": "1 large orange",
+      "amount": "Juice of",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "2 lemons",
+      "amount": "Juice of 1",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "Minced",
+      "notes": "Mince before using"
+    },
+    {
+      "name": "1 tsp olive oil",
+      "amount": "",
+      "notes": "For brushing salmon"
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "",
+      "notes": "For glazing salmon"
+    },
+    {
+      "name": "2 tbsp Dijon mustard",
+      "amount": "",
+      "notes": "For glazing salmon"
+    },
+    {
+      "name": "4 large flour tortillas",
+      "amount": "",
+      "notes": "Warm before filling"
+    },
+    {
+      "name": "1/4 cup mixed greens",
+      "amount": "",
+      "notes": "For garnish"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, whisk together orange juice, lemon juice, garlic, honey, and Dijon mustard.",
+    "Brush salmon fillets with olive oil and brush with glaze on both sides.",
+    "Season salmon with salt and pepper to taste.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "Warm tortillas by wrapping them in foil and heating them on the grill for 2-3 minutes.",
+    "Assemble wraps by placing a piece of grilled salmon on each tortilla.",
+    "Top with mixed greens, chopped parsley, and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "british",
+    "wrap",
+    "kid-friendly",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-british-salmon-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-british-salmon-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:26:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "oranges",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Salmon",
+    "descriptor": "juicy grilled",
+    "dishForm": "Wrap"
+  }
+}

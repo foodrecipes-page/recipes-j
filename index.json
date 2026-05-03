@@ -497,6 +497,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-grilled-british-salmon-wrap",
+    "title": "Juicy Grilled British Salmon Wrap",
+    "tags": [
+      "grilled",
+      "salmon",
+      "british",
+      "wrap",
+      "kid-friendly",
+      "pescatarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-indian-tomato-stir-fry",
     "title": "Juicy Indian Tomato Stir-Fry",
     "tags": [
