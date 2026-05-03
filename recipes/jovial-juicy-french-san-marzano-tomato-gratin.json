@@ -1,0 +1,102 @@
+{
+  "title": "Jovial Juicy French San Marzano Tomato Gratin",
+  "description": "A sour and shattering lazy-sunday French dish featuring San Marzano tomatoes, mother-sauce-base, and low-sodium friendly ingredients, perfect for a relaxing day at home. This dish is a twist on traditional French cuisine with a Basque influence.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed by hand"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "french bread",
+      "amount": "1 loaf",
+      "notes": "day-old"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter a 9x13 inch baking dish and set aside.",
+    "In a large bowl, combine the crushed San Marzano tomatoes, mother sauce, and minced garlic.",
+    "Add the shredded gruyere cheese, thyme sprig, salt, and pepper to the bowl and mix well.",
+    "Slice the day-old french bread into 1 inch thick slices and arrange in the prepared baking dish.",
+    "Pour the tomato mixture over the bread slices and make sure they are fully coated.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "french-cuisine",
+    "lazy-sunday",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-juicy-french-san-marzano-tomato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:58:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "low-sodium",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "san marzano tomato",
+    "descriptor": "jovial juicy",
+    "dishForm": "Gratin"
+  }
+}

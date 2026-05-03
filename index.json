@@ -213,6 +213,21 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
+    "title": "Jovial Juicy French San Marzano Tomato Gratin",
+    "tags": [
+      "brunch-ideas",
+      "comfort-food",
+      "french-cuisine",
+      "lazy-sunday",
+      "low-sodium",
+      "one-pan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-smoky-slovakian-turkey-mince-kebabs",
     "title": "Jovial Smoky Slovakian Turkey Mince Kebabs",
     "tags": [
@@ -1440,6 +1455,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoked-roman-italian-black-beans-tacos",
+    "title": "Juicy Smoked Roman Black Bean Tacos",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "roman-italian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "roman italian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

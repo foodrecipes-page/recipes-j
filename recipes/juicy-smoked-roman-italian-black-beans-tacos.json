@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Smoked Roman Black Bean Tacos",
+  "description": "A vibrant and earthy Italian-inspired dish featuring char-grilled black beans, perfect for a quick and energizing lunch or dinner.",
+  "cuisine": "roman italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, dried",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "roman-style extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, large",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic, 3-4 cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Drain and rinse the soaked black beans, then add them to a bowl with 1/4 cup of water.",
+    "Add the chopped onion and minced garlic to the bowl with the black beans and mix well.",
+    "Add the smoked paprika, ground cumin, and salt to the bowl and mix again.",
+    "Heat 1 tablespoon of roman-style extra virgin olive oil in a non-stick skillet over medium heat.",
+    "Remove the black bean mixture from the bowl and add it to the skillet. Cook for 3-4 minutes, stirring occasionally.",
+    "Meanwhile, warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the tacos, place a spoonful of the black bean mixture onto a warmed tortilla, followed by a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "For an extra crunchy texture, top with chopped radishes or crispy tortilla strips."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "roman-italian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-smoked-roman-italian-black-beans-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoked-roman-italian-black-beans-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:58:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "black beans",
+    "diet": "vegetarian",
+    "region": "roman",
+    "cuisineAdjective": "Roman Italian",
+    "mainIngredient": "black beans",
+    "descriptor": "Juicy Smoked",
+    "dishForm": "Tacos"
+  }
+}
