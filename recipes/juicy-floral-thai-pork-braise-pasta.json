@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Floral Thai Pork Braise Pasta",
+  "description": "A sweet and savory Thai-inspired pasta dish featuring paccheri pasta, slow-cooked pork, and fragrant floral notes.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb (450g)",
+      "notes": "cut into 2-inch (5 cm) pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup (10g)"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Sear pork until browned, then remove.",
+    "Add onion to pot, cooking until softened. Add garlic and cook 1 minute.",
+    "Add curry paste and cook 1 minute, stirring constantly.",
+    "Add fish sauce, lemon juice, and honey. Bring to a simmer.",
+    "Add pork back to pot, cover, and transfer to oven (375°F / 190°C). Braise 2 hours or until tender.",
+    "Add paccheri pasta to the pot, tossing to coat with braising liquid.",
+    "Stir in Thai basil and Kaffir lime leaves. Season with salt.",
+    "Serve hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pasta",
+    "braise",
+    "pork",
+    "coconut",
+    "lemongrass",
+    "galangal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "60g",
+    "fat": "24g"
+  },
+  "slug": "juicy-floral-thai-pork-braise-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-floral-thai-pork-braise-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:09:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "juicy floral",
+    "dishForm": "braise pasta"
+  }
+}
