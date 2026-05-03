@@ -82,6 +82,23 @@
     "shard": "j"
   },
   {
+    "slug": "jerky-italian-pasta-pasta",
+    "title": "Jerky Italian Pasta",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "feta-cheese",
+      "italian",
+      "lemon",
+      "one-pan",
+      "pasta",
+      "smoked-salmon"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jerusalem-ferment-bliss",
     "title": "Jerusalem Ferment Bliss",
     "tags": [
