@@ -1,0 +1,104 @@
+{
+  "title": "Jovial Smoky Slovakian Turkey Mince Kebabs",
+  "description": "Spicy, silky, midnight-craving Slovakian dish featuring turkey mince, tandoor. Great for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g",
+      "notes": "Choose 85% lean or higher"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Smoked for depth of flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Use fresh if possible"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing tandoor"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Tandoor seasoning",
+      "amount": "1 tsp",
+      "notes": "Custom blend or use store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor or grill to 400°F (200°C).",
+    "In a large bowl, combine turkey mince, onion, smoked paprika, garlic powder, salt, and black pepper. Mix well with your hands until just combined.",
+    "Using your hands, shape the mixture into 8-10 kebabs, about 1 1/2 inches (3.8 cm) in length.",
+    "Thread 2-3 kebabs onto skewers, leaving a little space between each kebab. Brush the tandoor or grill with olive oil.",
+    "Place the kebabs in the preheated tandoor or grill and cook for 8-10 minutes, turning occasionally, until cooked through.",
+    "While the kebabs are cooking, toast the tandoor seasoning in a small dry pan over medium heat for 1-2 minutes, until fragrant.",
+    "Remove the kebabs from the tandoor or grill and brush with toasted tandoor seasoning. Serve immediately, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "mince",
+    "one-pan",
+    "slovakian",
+    "smoky",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "jovial-smoky-slovakian-turkey-mince-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-smoky-slovakian-turkey-mince-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:52:53Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "turkey mince",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Turkey Mince",
+    "descriptor": "Jovial Smoky",
+    "dishForm": "Kebabs"
+  }
+}
