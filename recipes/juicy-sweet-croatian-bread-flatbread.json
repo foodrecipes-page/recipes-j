@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Sweet Croatian Bread Flatbread",
+  "description": "A warm, fermented flatbread bursting with caramelized sugar and tender crumb, perfect as a sweet snack or dessert.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gluten-free all‑purpose flour",
+      "amount": "250g",
+      "notes": "or oat flour"
+    },
+    {
+      "name": "warm water",
+      "amount": "200ml",
+      "notes": "110°C"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g",
+      "notes": "1 packet"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "honey",
+      "amount": "20ml",
+      "notes": "for extra sweetness"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1g",
+      "notes": "optional lift"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the warm water, yeast, and 20g of caster sugar; stir and let sit for 5‑10 minutes until foamy.",
+    "2. Add the gluten‑free flour, remaining sugar, salt, honey, olive oil, and baking powder to the yeast mixture; stir until a sticky dough forms.",
+    "3. Cover the bowl with a damp cloth or plastic wrap and let the dough ferment in a warm spot for 45 minutes, until it has visibly risen and expanded.",
+    "4. Preheat a non‑stick skillet or cast‑iron griddle over medium heat; lightly oil the surface if necessary.",
+    "5. Divide the dough into 6 equal portions and roll each into a flat circle, about 1/2 inch thick; use a fork to prick the surface to prevent puffing.",
+    "6. Place one flatbread onto the hot skillet and cook for 2–3 minutes on each side, until golden brown spots appear and the bread feels firm to the touch.",
+    "7. Remove from the skillet and brush lightly with melted butter or extra honey for glossy finish; repeat with remaining portions.",
+    "8. Serve the flatbreads warm, dusted with a pinch of caster sugar or accompanied by a drizzle of honey and a sprinkle of crushed walnuts.",
+    "9. Store leftovers in an airtight container at room temperature for up to 2 days, or freeze for longer preservation.",
+    "10. Reheat in a toaster or oven at 180°C for 5 minutes before serving to restore warmth and crispness. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "croatian",
+    "flatbread",
+    "sweet",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 42,
+    "fat": 3
+  },
+  "slug": "juicy-sweet-croatian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-croatian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:04:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Bread",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Flatbread"
+  }
+}

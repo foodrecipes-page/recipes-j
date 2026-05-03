@@ -1226,6 +1226,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-sweet-croatian-bread-flatbread",
+    "title": "Juicy Sweet Croatian Bread Flatbread",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "croatian",
+      "flatbread",
+      "sweet",
+      "dessert"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-sweet-japanese-apple-salad",
     "title": "Juicy Sweet Japanese Apple Salad",
     "tags": [
