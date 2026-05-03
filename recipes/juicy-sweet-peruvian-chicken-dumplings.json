@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Sweet Peruvian Chicken Dumplings",
+  "description": "Savor a sweet and juicy Peruvian-inspired chicken dumpling dish, finished with a creamy cashew sour cream for a dairy‑free twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500 g"
+    },
+    {
+      "name": "chickpea flour (besan)",
+      "amount": "1 cup (240 g)",
+      "notes": "for gluten‑free dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup (60 mL)",
+      "notes": "to bind dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (28 g)"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup (240 mL)"
+    },
+    {
+      "name": "cashew sour cream",
+      "amount": "1 cup (250 g)"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix the chickpea flour, salt, cumin, and coriander. Add warm water gradually, stirring until a soft dough forms. Knead the dough on a lightly floured surface for 2 minutes, then cover and let it rest for 10 minutes.",
+    "While the dough rests, heat 1 tablespoon olive oil in a large skillet over medium heat. Sauté the diced chicken until browned and cooked through, about 8 minutes. Stir in lime zest, lime juice, and half the cilantro; season with salt to taste. Remove from heat and let the mixture cool slightly.",
+    "Roll the rested dough into 1‑inch rounds. Spoon about 1 tablespoon of chicken mixture onto each dough round, fold over, and crimp the edges to seal. Place the dumplings into a steamer basket or a steamer pot.",
+    "Steam the dumplings over simmering vegetable stock for 15 minutes, or until the dough is tender and the filling is heated through. While steaming, heat the remaining 1 tablespoon olive oil in a small saucepan over medium heat and lightly toast the remaining cilantro until fragrant, about 1 minute.",
+    "Serve the dumplings hot, drizzled with cashew sour cream and a sprinkle of toasted cilantro. Offer a squeeze of fresh lime on the side for extra brightness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dumplings",
+    "dairy-free",
+    "gluten-free",
+    "single-dinner"
+  ],
+  "nutrition": {
+    "calories": 576,
+    "protein": 42,
+    "carbs": 22,
+    "fat": 27
+  },
+  "slug": "juicy-sweet-peruvian-chicken-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-peruvian-chicken-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:35:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "sour cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Dumplings"
+  }
+}
