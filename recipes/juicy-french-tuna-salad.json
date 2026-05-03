@@ -1,6 +1,6 @@
 {
   "title": "Juicy French Tuna Salad",
-  "description": "A fresh midnight‑craving French salad featuring sous‑vide tuna, a tangy vinaigrette, and crisp garden vegetables for a low‑sodium, juicy delight.",
+  "description": "A fresh midnightcraving French salad featuring sousvide tuna, a tangy vinaigrette, and crisp garden vegetables for a lowsodium, juicy delight.",
   "cuisine": "French",
   "diet": [
     "pescatarian",
@@ -10,60 +10,60 @@
   "ingredients": [
     {
       "name": "Fresh tuna steak, skinless",
-      "amount": "400 g"
+      "amount": "400\u202fg"
     },
     {
-      "name": "Extra‑virgin olive oil",
-      "amount": "2 Tbsp"
+      "name": "Extra\u2011virgin olive oil",
+      "amount": "2\u202fTbsp"
     },
     {
-      "name": "Dijon mustard (low‑sodium)",
-      "amount": "1 Tbsp"
+      "name": "Dijon mustard (low\u2011sodium)",
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "White wine vinegar",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Fresh lemon juice",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Sea salt",
-      "amount": "¼ tsp"
+      "amount": "\u00bc\u202ftsp"
     },
     {
       "name": "Fresh herbs (parsley, dill, chives), chopped",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Mixed arugula and baby spinach",
-      "amount": "2 cups"
+      "amount": "2\u202fcups"
     },
     {
       "name": "Cucumber, diced",
-      "amount": "½ cucumber"
+      "amount": "\u00bd\u202fcucumber"
     },
     {
       "name": "Radish, thinly sliced",
-      "amount": "1 radish"
+      "amount": "1\u202fradish"
     },
     {
       "name": "Red onion, thinly sliced",
-      "amount": "¼ small"
+      "amount": "\u00bc\u202fsmall"
     },
     {
-      "name": "Low‑sodium soy sauce",
-      "amount": "1 Tbsp"
+      "name": "Low\u2011sodium soy sauce",
+      "amount": "1\u202fTbsp"
     }
   ],
   "instructions": [
-    "Vacuum‑seal the tuna steak with ½ tsp salt and 1 Tbsp olive oil, and preheat the sous‑vide water bath to 54 °C (130 °F).",
-    "Seal tuna and cook sous‑vide for 45 minutes.",
+    "Vacuum\u2011seal the tuna steak with \u00bd\u202ftsp salt and 1\u202fTbsp olive oil, and preheat the sous\u2011vide water bath to 54\u202f\u00b0C (130\u202f\u00b0F).",
+    "Seal tuna and cook sous\u2011vide for 45\u202fminutes.",
     "While tuna cooks, whisk Dijon mustard, white wine vinegar, lemon juice, and remaining olive oil in a small bowl to make a vinaigrette.",
-    "Remove tuna from the bag, pat dry, and heat a non‑stick skillet over high heat; sear tuna for 30 seconds per side to develop a crust.\nLet it rest 5 minutes.",
-    "Slice tuna into 1‑inch cubes and set aside.",
-    "In a large bowl, toss arugula, spinach, cucumber, radish, and red onion with the vinaigrette and 1 Tbsp low‑sodium soy sauce.",
+    "Remove tuna from the bag, pat dry, and heat a non\u2011stick skillet over high heat; sear tuna for 30\u202fseconds per side to develop a crust.\nLet it rest 5\u202fminutes.",
+    "Slice tuna into 1\u2011inch cubes and set aside.",
+    "In a large bowl, toss arugula, spinach, cucumber, radish, and red onion with the vinaigrette and 1\u202fTbsp low\u2011sodium soy sauce.",
     "Divide the dressed greens between 2 plates.",
     "Arrange tuna cubes on top of the greens and sprinkle with chopped herbs.",
     "Drizzle any remaining vinaigrette over the salad; season with extra salt to taste and serve immediately."
