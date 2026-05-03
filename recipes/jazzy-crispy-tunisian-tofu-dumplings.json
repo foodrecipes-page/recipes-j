@@ -1,0 +1,106 @@
+{
+  "title": "Jazzy Crispy Tunisian Tofu Dumplings",
+  "description": "Briny, crunchy brunch‑mood dumplings infused with Tunisian flavor, made with silken tofu and gluten‑free ingredients for a light yet satisfying bite.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g",
+      "notes": "press to remove excess liquid"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "30g",
+      "notes": "use finely ground"
+    },
+    {
+      "name": "tapioca flour",
+      "amount": "10g",
+      "notes": "adds crispiness"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "20g",
+      "notes": "gluten‑free brand"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "for frying"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "10g",
+      "notes": "adjust for heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Combine silken tofu, lemon juice, salt, pepper, and harissa paste in a bowl until smooth.",
+    "Fold in gluten‑free flour, tapioca flour, and panko breadcrumbs until mixture holds together.",
+    "Shape mixture into 1‑inch balls and set aside on parchment paper.",
+    "Heat olive oil in a non‑stick skillet over medium‑high heat.",
+    "Cook dumplings for 3 minutes on each side until golden brown and crispy.",
+    "Remove from skillet and place on paper towels to drain excess oil.",
+    "Sprinkle chopped cilantro over hot dumplings just before serving.",
+    "Serve with a side of tangy hummus or tzatziki for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "gluten-free",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 51,
+    "fat": 14
+  },
+  "slug": "jazzy-crispy-tunisian-tofu-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crispy-tunisian-tofu-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:30:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "silken tofu",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tofu",
+    "descriptor": "Jazzy Crispy",
+    "dishForm": "Dumplings"
+  }
+}
