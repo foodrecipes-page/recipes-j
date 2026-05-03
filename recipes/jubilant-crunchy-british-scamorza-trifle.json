@@ -1,0 +1,90 @@
+{
+  "title": "Jubilant Crunchy British Scamorza Trifle",
+  "description": "A sweet and crunchy British dessert featuring scamorza, perfect for crowds, with a keto-friendly twist. It combines the flavors of Yorkshire with the creaminess of scamorza.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a medium bowl, mix together the almond flour and granulated sweetener.",
+    "Add the sliced scamorza cheese to the bowl and toss until the cheese is evenly coated.",
+    "Spread the cheese mixture on a baking sheet and bake for 10 minutes, or until crispy.",
+    "In a large bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the bhuna sauce into the whipped cream until well combined.",
+    "In a large trifle dish, create a layer of the crispy scamorza cheese.",
+    "Add a layer of the whipped cream mixture on top of the cheese.",
+    "Repeat the layers two more times, finishing with a layer of whipped cream on top.",
+    "Garnish with fresh berries and chopped nuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-dessert",
+    "crowd-pleaser",
+    "crunchy",
+    "gluten-free",
+    "keto-friendly",
+    "scamorza-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "jubilant-crunchy-british-scamorza-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crunchy-british-scamorza-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:52:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "bhuna",
+    "primaryIngredient": "scamorza",
+    "diet": "keto",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "scamorza",
+    "descriptor": "jubilant crunchy",
+    "dishForm": "Trifle"
+  }
+}
