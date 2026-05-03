@@ -279,6 +279,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-brazilian-chicken-brochette",
+    "title": "Juicy Brazilian Chicken Brochette",
+    "tags": [
+      "bouncy-qq",
+      "brazilian",
+      "earthy",
+      "grilling",
+      "no-onion-no-garlic",
+      "quick-fix"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-ham-stir-fry",
     "title": "Juicy British Ham Stir-fry",
     "tags": [

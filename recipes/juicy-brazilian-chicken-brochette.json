@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Brazilian Chicken Brochette",
+  "description": "Fast, earthy chicken skewers glazed with peach juice and binchotan charcoal flavor, perfect for a quick lunch.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "peach juice",
+      "amount": "200ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "5g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "3g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Thread chicken pieces onto skewers alternating with bay leaves.",
+    "Whisk peach juice, soy sauce, brown sugar, lime juice, pepper, paprika, olive oil, and salt until sugar dissolves.",
+    "Marinate skewers in the mixture for 10 minutes at room temperature.",
+    "Preheat your grill or griddle over medium-high heat and lightly oil the grates.",
+    "Place skewers on the grill, turning every 2 minutes, until chicken is cooked through and slightly charred, about 10 minutes.",
+    "Baste the skewers with remaining glaze during the last 2 minutes of grilling.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Serve hot, optionally with a squeeze of fresh lime and a sprinkle of extra smoked paprika."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy-qq",
+    "brazilian",
+    "earthy",
+    "grilling",
+    "no-onion-no-garlic",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 20,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "juicy-brazilian-chicken-brochette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-brazilian-chicken-brochette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "peach juice",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Juicy",
+    "dishForm": "Brochette"
+  }
+}
