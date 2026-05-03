@@ -156,6 +156,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-bitter-thai-tomato-curry",
+    "title": "Juicy Bitter Thai Tomato Curry",
+    "tags": [
+      "thai",
+      "tomato-curry",
+      "low-sodium",
+      "vegetarian",
+      "quick"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-ham-stir-fry",
     "title": "Juicy British Ham Stir-fry",
     "tags": [

@@ -1,0 +1,112 @@
+{
+  "title": "Juicy Bitter Thai Tomato Curry",
+  "description": "A midnight‑craving Thai dish that balances the bitterness of tomatoes with caramelized aromatics and a low‑sodium kick.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium tomatoes",
+      "amount": "4 (800g)",
+      "notes": "diced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon (15ml)"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1 (150g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (6g)",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon (10g)",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon (15g)",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "1 cup (250ml)"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon (15ml)"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon (4g)",
+      "notes": "optional, for balance"
+    },
+    {
+      "name": "low‑sodium fish sauce",
+      "amount": "1 teaspoon (5ml)"
+    },
+    {
+      "name": "lime",
+      "amount": "1 (30ml)",
+      "notes": "juice"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium‑high heat. Add sliced onions and cook until translucent, about 3‑4 minutes.",
+    "Stir in minced garlic and grated ginger, sautéing for 30 seconds until fragrant.",
+    "Add Thai red curry paste, cooking for one more minute and stirring to coat the aromatics.",
+    "Pour in diced tomatoes and cook for 5 minutes, letting them soften and release juices.",
+    "Add vegetable broth and coconut milk, stirring to combine. Bring to a gentle simmer.",
+    "Stir in tamarind paste, fish sauce, and brown sugar (if using). Simmer for 10 minutes, allowing flavors to meld and the sauce to thicken slightly.",
+    "Add lime juice, taste, and adjust seasoning if needed. Simmer for an additional 2 minutes.",
+    "Remove from heat, transfer to serving bowls, and garnish with fresh cilantro if desired. Serve with steamed jasmine rice or warm naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "tomato-curry",
+    "low-sodium",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "juicy-bitter-thai-tomato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bitter-thai-tomato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:26:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tomato",
+    "descriptor": "Juicy Bitter",
+    "dishForm": "Curry"
+  }
+}
