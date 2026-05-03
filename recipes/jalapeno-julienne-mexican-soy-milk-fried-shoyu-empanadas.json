@@ -1,0 +1,98 @@
+{
+  "title": "Jalapeno Julienne Mexican Soy Milk Fried-Shoyu Empanadas",
+  "description": "Umami rich Mexican soy milk empanadas with spicy jalapeno julienne, crunchy on the outside and savory on the inside.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 package of empanada dough",
+      "amount": "8-10 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1 cup of soy milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of shio-cure",
+      "amount": "",
+      "notes": "reduced-sodium, store-bought or homemade"
+    },
+    {
+      "name": "1/4 cup of chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of chopped scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 jalapeno pepper",
+      "amount": "",
+      "notes": "julienne-cut"
+    },
+    {
+      "name": "1/4 cup of olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a salt block to 375°F (190°C) for at least 30 minutes.",
+    "While the salt block is heating up, prepare the empanada dough according to the package instructions.",
+    "In a medium bowl, whisk together soy milk and shio-cure until fully incorporated.",
+    "Add chopped cilantro, scallions, and julienne-cut jalapeno to the bowl and mix well.",
+    "Roll out the empanada dough into thin circles, about 1/8 inch thick.",
+    "Place a tablespoon of the soy milk mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Once the oil is hot, add the empanadas to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the empanadas to the preheated salt block and cook for an additional 5-7 minutes, until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "mexican",
+    "one-pan",
+    "soy-milk",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "jalapeno-julienne-mexican-soy-milk-fried-shoyu-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeno-julienne-mexican-soy-milk-fried-shoyu-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:57:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "soy milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "soy milk",
+    "descriptor": "Jalapeno Julienne",
+    "dishForm": "Fried-Shoyu Empanadas"
+  }
+}

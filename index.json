@@ -42,6 +42,21 @@
     "shard": "j"
   },
   {
+    "slug": "jalapeno-julienne-mexican-soy-milk-fried-shoyu-empanadas",
+    "title": "Jalapeno Julienne Mexican Soy Milk Fried-Shoyu Empanadas",
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "mexican",
+      "one-pan",
+      "soy-milk",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jalapeno-sous-vide-bowl",
     "title": "Jalapeño Sous-Vide Bowl",
     "tags": [
