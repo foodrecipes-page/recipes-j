@@ -1,5 +1,21 @@
 [
   {
+    "slug": "jagged-smoky-chinese-tofu-noodles",
+    "title": "Jagged Smoky Chinese Tofu Noodles",
+    "tags": [
+      "chinese",
+      "high-protein",
+      "jain-friendly",
+      "one-pan",
+      "smoky",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jain-friendly-crispy-mexican-sea-bass-stir-fry",
     "title": "Jain-Friendly Crispy Mexican Sea Bass Stir-fry",
     "tags": [

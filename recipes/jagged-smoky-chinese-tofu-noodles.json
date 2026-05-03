@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Smoky Chinese Tofu Noodles",
+  "description": "A smoky and light Chinese dish featuring garlic granules and kneaded noodles, perfect for midnight cravings, this jain-friendly recipe is a delight to the taste buds.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "rice based"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Knead the noodles according to the package instructions until they are pliable and easy to work with.",
+    "Cut the tofu into small jagged pieces and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium high heat.",
+    "Add the tofu to the wok and cook until it is golden brown and crispy.",
+    "Add the garlic granules, smoked paprika, soy sauce, salt, and black pepper to the wok and stir to combine.",
+    "Add the noodles to the wok and stir to combine with the tofu and sauce.",
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated with the sauce.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "jagged-smoky-chinese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-smoky-chinese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:46:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "garlic granules",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "jagged smoky",
+    "dishForm": "Noodles"
+  }
+}
