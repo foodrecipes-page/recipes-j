@@ -1,0 +1,119 @@
+{
+  "title": "Juicy Indulgent Syrian Chicken Tagine",
+  "description": "A flavorful and aromatic Syrian dish featuring green cardamom pods, perfect for a comforting dinner. This whole30-friendly recipe showcases the rich flavors of the Middle East.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken (3 lbs)",
+      "amount": "1",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger; cook for an additional 2 minutes.",
+    "Add the cumin powder, cinnamon powder, and paprika; cook for 1 minute.",
+    "Add the chicken pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, salt, and black pepper; bring to a simmer.",
+    "Cover the pot and transfer to the oven; bake at 325°F (165°C) for 25-30 minutes.",
+    "Add the green cardamom pods and continue to cook for an additional 10-15 minutes.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "tagine",
+    "whole30",
+    "indulgent",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "juicy-indulgent-syrian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indulgent-syrian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:10:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy indulgent",
+    "dishForm": "Tagine"
+  }
+}
