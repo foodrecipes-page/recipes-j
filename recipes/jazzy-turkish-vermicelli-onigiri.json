@@ -1,0 +1,104 @@
+{
+  "title": "Jazzy Turkish Vermicelli Onigiri",
+  "description": "Fresh, crisp Turkish vermicelli shaped into onigiri for a cozy, vegetarian bite. This playful fusion offers aromatic herbs and crunchy seeds for an aromatic finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed pistachios",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the vermicelli under cold water until the water runs clear.",
+    "Heat a dry skillet over medium heat and toast the vermicelli until lightly golden and fragrant, about 3 minutes.",
+    "Transfer the toasted vermicelli to a medium saucepan and add water, olive oil, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer until the vermicelli is tender and the liquid is absorbed, about 15 minutes.",
+    "Stir in parsley, lemon zest, dried mint, and sumac, then remove from heat and let the mixture cool slightly.",
+    "Shape the cooled vermicelli into small oblong rice balls using damp hands, forming the classic onigiri shape.",
+    "Roll each onigiri in toasted sesame seeds and crushed pistachios for extra texture and flavor.",
+    "Arrange the onigiri on a plate and serve immediately to enjoy their fresh crunch.",
+    "If desired, garnish with a light drizzle of olive oil and a sprinkle of fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "onigiri",
+    "rice",
+    "snack",
+    "turkish",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 40
+  },
+  "slug": "jazzy-turkish-vermicelli-onigiri",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-turkish-vermicelli-onigiri",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:24:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Jazzy",
+    "dishForm": "Onigiri"
+  }
+}

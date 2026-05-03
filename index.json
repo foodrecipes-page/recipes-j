@@ -82,6 +82,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-turkish-vermicelli-onigiri",
+    "title": "Jazzy Turkish Vermicelli Onigiri",
+    "tags": [
+      "onigiri",
+      "rice",
+      "snack",
+      "turkish",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jerky-italian-pasta-pasta",
     "title": "Jerky Italian Pasta",
     "tags": [
