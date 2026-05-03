@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Herbal Canadian Steak Kebabs",
+  "description": "A nostalgic Canadian dish featuring sirloin steak tips, whisked with Mediterranean-friendly herbs, resulting in a juicy and flavorful meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, rosemary, garlic powder, salt, black pepper, and lemon juice.",
+    "Add the sirloin steak tips to the bowl and toss to coat with the herbal mixture.",
+    "Thread the steak tips onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the steak reaches an internal temperature of 135 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped fresh thyme and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-herbal-canadian-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-canadian-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:47:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "steak",
+    "descriptor": "juicy herbal",
+    "dishForm": "Kebabs"
+  }
+}
