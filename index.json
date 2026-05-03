@@ -1417,6 +1417,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-umami-indian-tofu-curry",
+    "title": "Juicy Umami Indian Tofu Curry",
+    "tags": [
+      "jain-friendly",
+      "vegan",
+      "Indian",
+      "tofu",
+      "curry",
+      "weeknight",
+      "quick"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-venezuelan-serrano-ham-wraps",
     "title": "Juicy Venezuelan Serrano Ham Wraps",
     "tags": [
