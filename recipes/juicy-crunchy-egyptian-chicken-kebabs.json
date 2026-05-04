@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Crunchy Egyptian Chicken Kebabs",
+  "description": "A flavorful and crunchy Egyptian dish featuring garlicky chicken, flambe technique, and a twist of soda water, making it diabetic-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soda water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken for 10-12 minutes, or until cooked through.",
+    "While the chicken is cooking, mix the soda water and chopped parsley in a small bowl.",
+    "After the chicken is cooked, brush the soda water mixture onto the chicken.",
+    "Sprinkle the sliced almonds over the chicken and flambe with a kitchen torch for 30 seconds.",
+    "Serve the chicken kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "juicy-crunchy-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:15:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "soda water",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
