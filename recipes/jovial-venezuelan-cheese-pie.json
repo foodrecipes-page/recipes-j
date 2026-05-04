@@ -1,0 +1,104 @@
+{
+  "title": "Jovial Venezuelan Cheese Pie",
+  "description": "A creamy, savory cheese pie with a classic mother sauce base, baked in flaky shortcrust pastry, perfect for sharing at any gathering.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "tamasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ready rolled shortcrust pastry sheet",
+      "amount": "1 sheet (200g)",
+      "notes": "pre-made, thaw if frozen"
+    },
+    {
+      "name": "Milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Grated queso blanco",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and lightly oil the baking dish.",
+    "In a saucepan, melt butter over medium heat, then stir in flour until a smooth roux forms and lightly browns, about 1 minute.",
+    "Gradually whisk in milk and cream, cooking until the sauce thickens and coats the back of a spoon, about 5 minutes.",
+    "Season the sauce with salt and pepper, then swirl in minced garlic and remove from heat.",
+    "Place the pastry sheet in the prepared dish, pressing it gently into the edges and trimming the excess.",
+    "Spread the warm mother sauce evenly over the pastry base.",
+    "Sprinkle the grated queso blanco over the sauce, then top with chopped parsley.",
+    "Drizzle olive oil over the top and bake for 25 minutes until the pastry is golden and the cheese is bubbly.",
+    "Let the pie cool for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bechamel",
+    "cheese-pie",
+    "crowd-pleaser",
+    "shortcrust",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 45
+  },
+  "slug": "jovial-venezuelan-cheese-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-venezuelan-cheese-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:34:09Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Jovial",
+    "dishForm": "Pie"
+  }
+}
