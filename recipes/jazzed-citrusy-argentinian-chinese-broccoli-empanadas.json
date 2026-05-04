@@ -1,0 +1,98 @@
+{
+  "title": "Jazzed Citrusy Argentinian Chinese Broccoli Empanadas",
+  "description": "A romantic Argentinian dish featuring Chinese broccoli, with a citrusy and crumbly texture, baked in a salt crust and wrapped in banana leaves, perfect for a low glycemic diet",
+  "cuisine": "Argentinian Chinese",
+  "diet": [
+    "low glycemic",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Mix the almond flour, coconut oil, and salt to make the empanada dough",
+    "Roll out the dough and cut into 12 equal pieces",
+    "Spoon the chopped Chinese broccoli onto one half of each piece",
+    "Drizzle with lemon juice and sprinkle with orange zest",
+    "Fold the other half of the dough over the filling and press the edges to seal",
+    "Wrap each empanada in a banana leaf and place on a baking sheet",
+    "Bake for 25 minutes or until the crust is golden brown",
+    "Remove from the oven and let cool for 5 minutes",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-chinese",
+    "banana-leaves",
+    "empanadas",
+    "gluten-free",
+    "low-glycemic",
+    "salt-bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jazzed-citrusy-argentinian-chinese-broccoli-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzed-citrusy-argentinian-chinese-broccoli-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:14:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Jazzed citrusy",
+    "dishForm": "Empanadas"
+  }
+}
