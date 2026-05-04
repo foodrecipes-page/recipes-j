@@ -1,0 +1,120 @@
+{
+  "title": "Jubilant Canadian Duck Bouilli",
+  "description": "A sweet and velvety Canadian dish featuring duck, bread flour, and a hint of maple syrup, perfect for a romantic dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1.5",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": "unbleached, all-purpose"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "grade A, pure Canadian"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "unrefined sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan-cauldron to 350°F (175°C) with the lid on.",
+    "Season the duck breast with salt and black pepper.",
+    "Sear the duck breast in the preheated kazan-cauldron for 2 minutes on each side.",
+    "Remove the duck breast from the kazan-cauldron and set it aside.",
+    "Add the chopped onion, carrots, potatoes, bay leaves, and thyme to the kazan-cauldron.",
+    "Saute the mixture for 5 minutes, stirring occasionally.",
+    "Add the bread flour to the kazan-cauldron and stir to combine.",
+    "Gradually add the water to the kazan-cauldron, whisking continuously.",
+    "Return the duck breast to the kazan-cauldron and bring the mixture to a boil.",
+    "Cover the kazan-cauldron with the lid and transfer it to the oven.",
+    "Bake the duck bouilli for 25 minutes, or until the meat is tender and the sauce has thickened.",
+    "Remove the duck bouilli from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "homemade",
+    "one-pot",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "jubilant-canadian-duck-bouilli",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-canadian-duck-bouilli",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:25:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "bread flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Duck",
+    "descriptor": "Jubilant, Velvety",
+    "dishForm": "Bouilli"
+  }
+}

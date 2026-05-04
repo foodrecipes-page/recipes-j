@@ -469,6 +469,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-canadian-duck-bouilli",
+    "title": "Jubilant Canadian Duck Bouilli",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "homemade",
+      "one-pot",
+      "romantic"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-charred-american-pine-nut-hash",
     "title": "Jubilant Charred American Pine Nut Hash",
     "tags": [
