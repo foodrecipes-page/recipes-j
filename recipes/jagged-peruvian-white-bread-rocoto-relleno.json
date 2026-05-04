@@ -1,0 +1,91 @@
+{
+  "title": "Jagged Peruvian White Bread Rocoto Relleno",
+  "description": "A dense and bitter Peruvian dish made with white bread mix, served in a lacquerware bowl to cure hangovers, featuring a rocoto relleno form without onion or garlic.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White bread mix",
+      "amount": "2 cups",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "4 large"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes.",
+    "In a large bowl, mix together the white bread mix, queso fresco, egg, milk, salt, and black pepper.",
+    "Stuff each rocoto pepper with the bread mixture, filling to the top.",
+    "Place the stuffed peppers in a lacquerware bowl, drizzle with olive oil, and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove the peppers from the oven and let them cool for 5 minutes.",
+    "Serve the jagged Peruvian white bread rocoto relleno hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "gluten-free-option",
+    "hangover-food",
+    "peruvian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "jagged-peruvian-white-bread-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-peruvian-white-bread-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:52:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "white bread mix",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "white bread",
+    "descriptor": "Jagged Dense",
+    "dishForm": "Rocoto Relleno"
+  }
+}
