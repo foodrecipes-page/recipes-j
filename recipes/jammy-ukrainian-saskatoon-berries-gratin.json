@@ -1,0 +1,91 @@
+{
+  "title": "Jammy Ukrainian Saskatoon Berries Gratin",
+  "description": "A sweet and tangy gluten-free dessert made with Saskatoon berries, perfect for a family dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen, thawed if frozen."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "Used as a thickening agent."
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor."
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Melted."
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the Saskatoon berries, granulated sugar, and cornstarch. Let it sit for 15 minutes, allowing the berries to release their juice and the mixture to thicken.",
+    "Transfer the mixture to a 9x13 inch clay pot or baking dish.",
+    "Melt the butter and add it to the mixture, stirring to combine. If using almond extract, add it now.",
+    "In a separate bowl, mix together the gluten-free flour and salt. Add this mixture to the clay pot and stir until well combined.",
+    "Cover the clay pot with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the filling is bubbly.",
+    "Let the gratin cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cook",
+    "dessert",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 246,
+    "protein": 2,
+    "carbs": 64,
+    "fat": 4
+  },
+  "slug": "jammy-ukrainian-saskatoon-berries-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-ukrainian-saskatoon-berries-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "jammy",
+    "dishForm": "Gratin"
+  }
+}
