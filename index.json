@@ -674,6 +674,23 @@
     "shard": "j"
   },
   {
+    "slug": "jazzed-moroccan-eggplant-tagine",
+    "title": "jazzed moroccan eggplant tagine",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "eggplant",
+      "lamb-free",
+      "moroccan",
+      "prosciutto",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-algerian-almond-tagine",
     "title": "Jazzy Algerian Almond Tagine",
     "tags": [
@@ -4260,6 +4277,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-midnight-argentinian-mascarpone-empanadas",
+    "title": "Juicy Midnight Argentinian Mascarpone Empanadas",
+    "tags": [
+      "argentinian-dish",
+      "empanadas",
+      "high-calorie",
+      "sweet",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-midnight-german-coconut-stir-fry",
     "title": "Juicy Midnight German Coconut Stir-fry",
     "tags": [
@@ -5405,6 +5436,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-venezuelan-olives-bake",
+    "title": "juicy venezuelan olives bake",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-venezuelan-serrano-ham-wraps",
     "title": "Juicy Venezuelan Serrano Ham Wraps",
     "tags": [
@@ -5475,6 +5520,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jumbled-dense-saudi-arabian-sesame-flatbread",
+    "title": "jumbled dense saudi-arabian sesame flatbread",
+    "tags": [
+      "flatbread",
+      "glazed",
+      "kid-friendly",
+      "saudi-arabian",
+      "sesame",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 38,
     "shard": "j"
   },
   {

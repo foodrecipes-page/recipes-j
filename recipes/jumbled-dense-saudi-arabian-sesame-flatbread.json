@@ -1,0 +1,92 @@
+{
+  "title": "jumbled dense saudi-arabian sesame flatbread",
+  "description": "a kid-friendly saudi-arabian dish made with sesame butter and a sweet glaze, perfect for a weeknight dinner.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame butter",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine sesame butter and yogurt, stirring until smooth.",
+    "add flour and mix until a dough forms.",
+    "knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "cover the dough with plastic wrap and let it rest for 1 hour.",
+    "preheat oven to 375\u00039f (190\u00035c).",
+    "roll out the dough to a thickness of 1/4 inch.",
+    "place the dough on a slate tile or baking sheet, topping with black sesame seeds.",
+    "bake for 18 minutes, or until golden brown.",
+    "while the flatbread is baking, prepare the glaze by whisking together 1/4 cup of honey and 1/4 cup of water in a small bowl.",
+    "once the flatbread is done, brush the glaze all over the top of the bread.",
+    "let the flatbread cool for 5 minutes before slicing and serving.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "glazed",
+    "kid-friendly",
+    "saudi-arabian",
+    "sesame",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jumbled-dense-saudi-arabian-sesame-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbled-dense-saudi-arabian-sesame-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "glaze",
+    "primaryIngredient": "sesame butter",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "sesame",
+    "descriptor": "jumbled dense",
+    "dishForm": "flatbread"
+  }
+}

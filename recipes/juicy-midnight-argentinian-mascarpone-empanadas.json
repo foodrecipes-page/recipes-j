@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Midnight Argentinian Mascarpone Empanadas",
+  "description": "Tender empanadas filled with earthy, creamy mascarpone and served with a sweet fig compote. These empanadas cater to late-night cravings and are suitable for flexitarian diets.",
+  "cuisine": "argentinian",
+  "diet": [
+    null,
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fig jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a large bowl, and then add the cold butter, using a pastry blender or your fingertips to work it into the flour until it resembles coarse crumbs.",
+    "Gradually add ice water, stirring with a fork until the dough just comes together in a ball.",
+    "Turn the dough onto a lightly floured surface and knead for 5-7 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces, and roll each piece into a ball.",
+    "Use a rolling pin to roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of mascarpone cheese in the center of each circle, leaving a 1-inch border around the edges.",
+    "Fold the dough in half over the filling, pressing the edges together with a fork to seal the empanada.",
+    "Brush the tops with egg and bake at 375°F for 20-25 minutes, or until golden brown.",
+    "Meanwhile, cook the fig jam in a small saucepan over medium heat until warmed through.",
+    "To serve, place the empanadas on a plate and drizzle with fig jam.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian-dish",
+    "empanadas",
+    "high-calorie",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "juicy-midnight-argentinian-mascarpone-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-midnight-argentinian-mascarpone-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mascarpone",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "juicy midnight",
+    "dishForm": "Empanadas"
+  }
+}

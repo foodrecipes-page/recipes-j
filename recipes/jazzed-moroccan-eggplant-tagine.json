@@ -1,0 +1,124 @@
+{
+  "title": "jazzed moroccan eggplant tagine",
+  "description": "herbal, shaggy, festive moroccan dish featuring prosciutto, yakimono-grill, dash-friendly, form=zaalouk",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "filtered"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f. heat the olive oil in the bottom of a clay or ceramic tagine over medium heat. add the onion and cook, stirring occasionally, until softened, about 5 minutes. add the garlic and cook, stirring constantly, for 1 minute.",
+    "add the cumin, coriander, paprika, salt, and black pepper and cook, stirring constantly, for 1 minute.",
+    "add the eggplant and cook, stirring occasionally, until lightly browned, about 5 minutes. add the prosciutto and cook, stirring occasionally, until lightly browned, about 3 minutes.",
+    "stir in the chopped parsley and lemon juice. bring the mixture to a simmer and cook, stirring occasionally, until the eggplant is tender, about 10 minutes. add the water and bring the mixture to a simmer. cover the tagine and transfer to the preheated oven.",
+    "bake for 20 minutes or until the eggplant is tender and the liquid has thickened slightly. remove the tagine from the oven and let stand for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "eggplant",
+    "lamb-free",
+    "moroccan",
+    "prosciutto",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 22
+  },
+  "slug": "jazzed-moroccan-eggplant-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzed-moroccan-eggplant-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "prosciutto",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Jazzed",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "juicy venezuelan olives bake",
+  "description": "a resinous, juicy, light venezuelan dish featuring black olives, lacquer-glaze, egg-free-friendly.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large bowl, mix together the black olives, green tomatoes, garlic, and sugar.",
+    "drizzle the olive oil over the mixture and toss to coat.",
+    "season with salt and black pepper to taste.",
+    "transfer the mixture to a baking dish and drizzle with lacquer glaze.",
+    "bake for 20 minutes or until the glaze is caramelized.",
+    "garnish with chopped parsley and a squeeze of lemon juice.",
+    "serve warm or at room temperature.",
+    "optional: serve with crackers or bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-venezuelan-olives-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-venezuelan-olives-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "black olives",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "olives",
+    "descriptor": "juicy",
+    "dishForm": "bake"
+  }
+}
