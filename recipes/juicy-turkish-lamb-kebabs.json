@@ -1,0 +1,115 @@
+{
+  "title": "Juicy Turkish Lamb Kebabs",
+  "description": "Savory and slightly sweet lamb skewers, marinated in a mixture of yogurt and spices, then grilled to perfection. A crowd-pleaser that's easy to make and transportable for picnics or potlucks.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless lamb shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "150g",
+      "notes": "Mixed with spices for marinade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For basting during grilling"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance acidity in marinade"
+    },
+    {
+      "name": "Peach juice",
+      "amount": "2 tablespoons",
+      "notes": "Adds sweetness and moisture to lamb"
+    },
+    {
+      "name": "Fermented kimchi",
+      "amount": "2 tablespoons",
+      "notes": "Adds depth and umami flavor"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "4 cloves",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 inches",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To season lamb"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To season lamb"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine yogurt, sugar, peach juice, kimchi, garlic, ginger, salt, and black pepper. Blend until smooth.",
+    "Transfer the marinade to a large bowl and add the lamb cubes. Mix well to coat the lamb evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with coconut oil to prevent sticking. Grill the lamb skewers for 8-10 minutes per side, or until cooked through.",
+    "Transfer the lamb skewers to a serving platter and garnish with parsley. Serve immediately.",
+    "Let the lamb rest for 5 minutes before serving.",
+    "Serve hot with additional marinade sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "grilled",
+    "kebabs",
+    "lamb",
+    "middle-eastern",
+    "summer",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 29
+  },
+  "slug": "juicy-turkish-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "peach juice",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy",
+    "dishForm": "Kebabs"
+  }
+}
