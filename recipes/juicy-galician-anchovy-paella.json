@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Galician Anchovy Paella",
+  "description": "A fermented, juicy, adventurous paella featuring HP sauce, en-croute technique, and black rice, cooked in a bamboo tray for a unique texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black rice",
+      "amount": "1 cup",
+      "notes": "rinsed until clear"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1.5 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "200 g",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "squid rings",
+      "amount": "200 g",
+      "notes": "cleaned"
+    },
+    {
+      "name": "HP sauce",
+      "amount": "2 tbsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse black rice under cold water until water runs clear.",
+    "Heat olive oil in a wok over medium heat and sauté onion and garlic until translucent.",
+    "Add sliced bell pepper and cook for 2 minutes.",
+    "Stir in squid rings and cook until they curl slightly.",
+    "Add anchovy fillets, smoked paprika, HP sauce, and fish stock, bringing to a gentle simmer.",
+    "Add the rinsed black rice, cover, and cook for 18 minutes until rice is tender and liquid absorbed.",
+    "Lay parchment paper on a bamboo tray, sprinkle with flour, transfer the paella mixture onto the tray, and seal the edges to en-croute.",
+    "Bake at 375°F for 12 minutes, then serve garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "black-rice",
+    "en-croute",
+    "paleo-friendly",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 110,
+    "carbs": 170,
+    "fat": 50
+  },
+  "slug": "juicy-galician-anchovy-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-galician-anchovy-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:27:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "hp-sauce",
+    "diet": "paleo",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Anchovy",
+    "descriptor": "Juicy",
+    "dishForm": "Paella"
+  }
+}
