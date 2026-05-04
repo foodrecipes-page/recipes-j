@@ -168,6 +168,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-tangy-portuguese-chicken-skewers",
+    "title": "Jagged Tangy Portuguese Chicken Skewers",
+    "tags": [
+      "grilled",
+      "healthy",
+      "high-protein",
+      "portuguese",
+      "quick-meal"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jain-friendly-crispy-mexican-sea-bass-stir-fry",
     "title": "Jain-Friendly Crispy Mexican Sea Bass Stir-fry",
     "tags": [
@@ -4107,6 +4121,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tunisian-beef-kidney-tagine",
+    "title": "Juicy Tunisian Beef Kidney Tagine",
+    "tags": [
+      "beef-kidney",
+      "low-sodium",
+      "scallop-shell",
+      "tunisian-cuisine",
+      "umami",
+      "velvety"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {

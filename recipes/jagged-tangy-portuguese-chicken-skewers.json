@@ -1,0 +1,109 @@
+{
+  "title": "Jagged Tangy Portuguese Chicken Skewers",
+  "description": "A tangy and flavorful Portuguese dish featuring pineapple chunks and a mirepoix base, perfect for a post-workout meal. This dish is easy to make and can be prepared in under an hour.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken, pineapple chunks, onion, carrots, and celery onto skewers.",
+    "Brush the skewers with the remaining marinade.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through.",
+    "Serve hot and enjoy.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "healthy",
+    "high-protein",
+    "portuguese",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "jagged-tangy-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-tangy-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:02:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Jagged Tangy",
+    "dishForm": "Skewers"
+  }
+}
