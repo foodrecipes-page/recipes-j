@@ -1,0 +1,93 @@
+{
+  "title": "Juicy British Egg Frittata",
+  "description": "A buttery and fluffy post-workout British dish featuring pickles and lacquer-glaze, this lacto-vegetarian-friendly frittata is perfect for a filling breakfast or snack.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Add the chopped pickles and cook until they are softened.",
+    "In a large bowl, whisk together the eggs, lacquer-glaze, salt, and pepper.",
+    "Add the shredded cheese to the bowl and stir until combined.",
+    "Pour the egg mixture over the cooked pickles in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley on top.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-british-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:50:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pickles",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "eggs",
+    "descriptor": "juicy fluffy",
+    "dishForm": "Frittata"
+  }
+}

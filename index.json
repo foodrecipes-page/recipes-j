@@ -1700,6 +1700,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-british-egg-frittata",
+    "title": "Juicy British Egg Frittata",
+    "tags": [
+      "breakfast",
+      "british",
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-egg-wrap",
     "title": "juicy british egg wrap",
     "tags": [
