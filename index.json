@@ -1022,6 +1022,20 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-spicy-korean-chicken-tagine",
+    "title": "Jovial Spicy Korean Chicken Tagine",
+    "tags": [
+      "korean-inspired",
+      "low-fat",
+      "one-pot",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-tender-kenyan-farfalle-pasta",
     "title": "Jovial Tender Kenyan Farfalle Pasta",
     "tags": [
@@ -2036,6 +2050,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-egyptian-mung-bean-sprouts-fritters",
+    "title": "Juicy Egyptian Mung Bean Sprouts Fritters",
+    "tags": [
+      "deep-fry",
+      "egyptian",
+      "mung-bean",
+      "no-garlic",
+      "no-onion",
+      "ti-leaf-wrap"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

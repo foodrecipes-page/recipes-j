@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Egyptian Mung Bean Sprouts Fritters",
+  "description": "A silky, umami-packed fritter that energizes with every bite, served wrapped in airy ti leaves.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "50g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "60ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung bean sprouts and pat them dry.",
+    "In a bowl, whisk together chickpea flour, all-purpose flour, baking powder, salt, cumin, coriander, and sumac.",
+    "Add tomato paste, water, and the egg to the dry mixture, whisking until a smooth batter forms.",
+    "Gently fold in the mung bean sprouts, ensuring they are evenly coated.",
+    "Heat the oil in a deep pan to 180°C for agemono-style deep frying.",
+    "Drop spoonfuls of the batter-coated sprouts into the hot oil, frying in batches.",
+    "Cook each fritter for 2-3 minutes, or until golden and crispy, turning halfway through.",
+    "Remove the fritters with a slotted spoon and place them on paper towels to drain excess oil.",
+    "Lay ti leaf wrappers flat and spoon a few fritters onto each leaf.",
+    "Fold the ti leaf around the fritters and serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "egyptian",
+    "mung-bean",
+    "no-garlic",
+    "no-onion",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 246,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-egyptian-mung-bean-sprouts-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-egyptian-mung-bean-sprouts-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:34:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Juicy",
+    "dishForm": "Fritters"
+  }
+}
