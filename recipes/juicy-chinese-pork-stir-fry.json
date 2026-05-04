@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Chinese Pork Stir-fry",
+  "description": "A resinous, creamy sweet-and-sour pork stir-fry with baby lettuce leaves, cooked in a traditional ttukbaegi earthenware pot and FODMAP-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "250g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "baby lettuce leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the ttukbaegi over medium heat and add the sesame oil.",
+    "Add the minced ginger and garlic-infused oil and stir for 30 seconds until fragrant.",
+    "Pour in the sliced pork and sear until browned, about 3 minutes.",
+    "Add the julienned carrot and sliced bell pepper, stir-frying for 2 minutes.",
+    "Pour the soy sauce, rice vinegar, and sugar over the mixture and toss to coat evenly.",
+    "Stir in the cornstarch mixed with water to create a glossy sauce, cooking for another 2 minutes until thickened.",
+    "Fold in the baby lettuce leaves and cook just until they wilt, about 1 minute.",
+    "Serve hot straight from the ttukbaegi, spooning the sauce over the pork and lettuce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "one-pan",
+    "quick",
+    "sweet-sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 36,
+    "carbs": 15,
+    "fat": 17
+  },
+  "slug": "juicy-chinese-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chinese-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:23:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

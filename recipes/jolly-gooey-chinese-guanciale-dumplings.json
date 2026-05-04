@@ -1,0 +1,108 @@
+{
+  "title": "Jolly Gooey Chinese Guanciale Dumplings",
+  "description": "Malty, gooey dumplings wrapped in banana leaf, featuring crispy guanciale and a double-fry finish. Kid-friendly and sattvic-friendly.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "200g",
+      "notes": "thinly sliced, cured pork cheek"
+    },
+    {
+      "name": "glutinous rice flour",
+      "amount": "200g",
+      "notes": "for dough"
+    },
+    {
+      "name": "mung bean starch",
+      "amount": "50g",
+      "notes": "adds chewiness"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "for dough hydration"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml",
+      "notes": "light soy for filling"
+    },
+    {
+      "name": "ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "scallion",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": "to taste"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "2",
+      "notes": "washed and blanched"
+    }
+  ],
+  "instructions": [
+    "Mix glutinous rice flour, mung bean starch, and salt in a bowl, then gradually stir in water until a smooth dough forms.",
+    "Heat a skillet over medium heat, add sliced guanciale, and cook until golden and slightly crispy, then remove and set aside.",
+    "Combine the cooked guanciale, soy sauce, grated ginger, chopped scallion, and sesame oil in the bowl with the dough, mixing until the filling is evenly distributed.",
+    "Cut the banana leaf into 10x10cm squares, blanch them in boiling water for 30 seconds, then lay them dry on a clean surface.",
+    "Scoop a tablespoon of the dough onto each leaf square, press down to form a compact ball, and wrap the leaf around it to seal the edges.",
+    "Heat oil in a deep pan to 180°C, carefully place the wrapped dumplings, and fry until the outer layer is golden and the filling is hot; remove and drain.",
+    "Increase the heat to 200°C, re‑fry the dumplings briefly for a crispier finish, and then remove to a paper towel to drain excess oil.",
+    "Serve the dumplings hot, optionally with a side of light soy dipping sauce, and enjoy the malty, gooey texture that kids will love."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "double-fry",
+    "gluten-free",
+    "kid-friendly",
+    "sattvic",
+    "shandong-style"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 80,
+    "carbs": 250,
+    "fat": 100
+  },
+  "slug": "jolly-gooey-chinese-guanciale-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-gooey-chinese-guanciale-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:23:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "guanciale",
+    "diet": "ayurvedic-sattvic",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "guanciale",
+    "descriptor": "Jolly Gooey",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1519,6 +1519,21 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-gooey-chinese-guanciale-dumplings",
+    "title": "Jolly Gooey Chinese Guanciale Dumplings",
+    "tags": [
+      "banana-leaf",
+      "double-fry",
+      "gluten-free",
+      "kid-friendly",
+      "sattvic",
+      "shandong-style"
+    ],
+    "cuisine": "Chinese (Shandong)",
+    "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-malty-croatian-lardons-hash",
     "title": "Jolly Malty Croatian Lardons Hash",
     "tags": [
@@ -2737,6 +2752,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-chinese-pork-stir-fry",
+    "title": "Juicy Chinese Pork Stir-fry",
+    "tags": [
+      "fodmap-friendly",
+      "one-pan",
+      "quick",
+      "sweet-sour",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
