@@ -1,0 +1,91 @@
+{
+  "title": "Jubilant Broiled British Chicken Bowl",
+  "description": "A garlicky, turmeric‑flavored chicken bowl that feels light yet hearty, perfect for an afternoon tea setting.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven broiler to high and place fondue pot on the middle rack.",
+    "In a bowl combine olive oil, turmeric, minced garlic, lemon juice, smoked paprika, sea salt and black pepper to make a paste.",
+    "Coat chicken breasts evenly with the paste and let them marinate for 10 minutes.",
+    "Place marinated chicken in the fondue pot and broil for 6 to 7 minutes per side until golden and cooked through.",
+    "Remove from oven and let rest for 3 minutes before slicing into strips.",
+    "Serve sliced chicken in the fondue pot over a bed of parsley, optionally accompanied by steamed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british",
+    "high-protein",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "jubilant-broiled-british-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-broiled-british-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:45:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "turmeric",
+    "diet": "high-protein",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Jubilant Broiled",
+    "dishForm": "Bowl"
+  }
+}
