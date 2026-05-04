@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Crunchy Chinese Turkey Ham Steamed Bao",
+  "description": "Tangy, crunchy, crowd-pleaser Chinese (Hakka) dish featuring turkey ham, nuka-pickle, egg-free-friendly, form = dim-sum.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey ham",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle (cucumber, carrot, daikon)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine nuka-pickle ingredients in a bowl and set aside.",
+    "Cut the turkey ham into thin strips and set aside.",
+    "Roll out the bao dough into thin circles.",
+    "Heat a small pan over medium-high heat and add vegetable oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dim-sum",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "juicy-crunchy-chinese-turkey-ham-steamed-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-chinese-turkey-ham-steamed-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "turkey ham",
+    "diet": "egg-free",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Turkey Ham",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Steamed Bao"
+  }
+}
