@@ -1,0 +1,93 @@
+{
+  "title": "Jagged Light Venezuelan Pickle Casserole",
+  "description": "A lacto-vegetarian friendly Venezuelan dish featuring dill pickles, this casserole is fermented, crumbly, and light, cooked to perfection in a ttukbaegi earthenware pot. It is a unique and delicious twist on traditional Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dill pickles",
+      "amount": "1 large jar",
+      "notes": "sliced"
+    },
+    {
+      "name": "quinoa",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the pot"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cooked quinoa, black beans, shredded cheese, chopped cilantro, and sliced dill pickles.",
+    "In a small bowl, whisk together the lime juice and a pinch of salt.",
+    "Pour the lime juice mixture over the quinoa mixture and stir until everything is well combined.",
+    "Grease the preheated ttukbaegi earthenware pot with olive oil.",
+    "Add the quinoa mixture to the pot and smooth out the top.",
+    "Cover the pot with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pot",
+    "pickled-vegetables",
+    "quinoa-bowl",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jagged-light-venezuelan-pickle-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-light-venezuelan-pickle-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:44:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "dill pickles",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pickles",
+    "descriptor": "jagged light",
+    "dishForm": "Casserole"
+  }
+}
