@@ -454,6 +454,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-syrian-potato-stew",
+    "title": "Jazzy Syrian Potato Stew",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "kosher-friendly",
+      "one-pot",
+      "potato-rich",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-turkish-vermicelli-onigiri",
     "title": "Jazzy Turkish Vermicelli Onigiri",
     "tags": [

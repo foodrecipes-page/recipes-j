@@ -1,0 +1,109 @@
+{
+  "title": "Jazzy Syrian Potato Stew",
+  "description": "A funky, creamy monsoon-inspired Syrian stew that blends diced potatoes with aromatic spices and a silky yogurt finish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 lbs diced",
+      "notes": "about 4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tbsp",
+      "notes": "mixed with 2 tbsp cold water to make slurry"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and garlic, sauté until translucent about five minutes.",
+    "Stir in diced potatoes and carrots, cook for three minutes.",
+    "Mix in tomato paste, cumin, coriander, and smoked paprika, cooking another minute to toast the spices.",
+    "Pour in vegetable broth, bring to a gentle boil, then reduce heat and simmer uncovered for twenty minutes or until vegetables are tender.",
+    "Whisk potato starch slurry and stir it into the pot to thicken.",
+    "Remove the pot from heat and fold in plain yogurt, stirring until smooth and creamy.",
+    "Season with salt and pepper to taste, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "kosher-friendly",
+    "one-pot",
+    "potato-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "jazzy-syrian-potato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-syrian-potato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:48:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "potato starch",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "potato",
+    "descriptor": "Jazzy",
+    "dishForm": "Stew"
+  }
+}
