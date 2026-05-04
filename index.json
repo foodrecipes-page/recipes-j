@@ -308,6 +308,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-ethiopian-cucumber-salad",
+    "title": "Jazzy Ethiopian Cucumber Salad",
+    "tags": [
+      "healthy",
+      "no-cook",
+      "quick",
+      "salad",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-ethiopian-tofu-stew",
     "title": "Jazzy Ethiopian Tofu Stew",
     "tags": [
@@ -895,6 +910,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 11,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-irish-potato-stew",
+    "title": "Jubilant Irish Potato Stew",
+    "tags": [
+      "comfort-food",
+      "irish",
+      "potato",
+      "slow-cook",
+      "vegan-friendly",
+      "vegetarian",
+      "winter"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

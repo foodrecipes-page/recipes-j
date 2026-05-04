@@ -1,0 +1,116 @@
+{
+  "title": "Jubilant Irish Potato Stew",
+  "description": "A funky, tender, festive Irish stew featuring vanilla pod for subtle sweetness and a creamy finish, perfect for a vegetarian holiday meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 kg",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1.5 L",
+      "notes": "low sodium"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "200 g",
+      "notes": "thawed"
+    },
+    {
+      "name": "plain vegan yogurt",
+      "amount": "150 g",
+      "notes": "dairy free"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1",
+      "notes": "split and scraped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "for aroma"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and sauté diced onion and minced garlic until fragrant, about 3 minutes.",
+    "Add sliced carrots and diced potatoes to the pot and stir to coat with oil for 2 minutes.",
+    "Pour in the vegetable broth, add the split vanilla pod, thyme sprigs, salt, and pepper; bring to a boil.",
+    "Reduce heat, cover, and simmer for 25 minutes until the vegetables are tender.",
+    "Remove the vanilla pod and thyme sprigs, then stir in the frozen peas and allow to heat through for 5 minutes.",
+    "Whisk the vegan yogurt with a tablespoon of hot stew liquid to temper it, preventing curdling.",
+    "Fold the tempered yogurt into the pot and stir gently until creamy and heated.",
+    "Serve hot garnished with fresh thyme leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "potato",
+    "slow-cook",
+    "vegan-friendly",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 2100,
+    "protein": 60,
+    "carbs": 270,
+    "fat": 30
+  },
+  "slug": "jubilant-irish-potato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-irish-potato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:31:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "vanilla pod",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "Jubilant",
+    "dishForm": "Stew"
+  }
+}

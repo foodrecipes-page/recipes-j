@@ -1,0 +1,92 @@
+{
+  "title": "Jazzy Ethiopian Cucumber Salad",
+  "description": "A fresh, snappy salad that blends the zing of Ethiopian spices with the coolness of cucumbers, perfect for a quick sick-day pick-me-up.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 large cucumbers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp olive oil"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp lemon juice"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp dried oregano"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch of salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch of pepper"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "pinch of red pepper flakes"
+    },
+    {
+      "name": "fresh oregano leaves",
+      "amount": "a few leaves",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel and finely slice 2 large cucumbers into thin ribbons.",
+    "In a bowl, combine 2 tbsp olive oil, 1 tbsp lemon juice, 1 tsp dried oregano, pinch of salt, pinch of pepper, and pinch of red pepper flakes.",
+    "Toss the cucumber ribbons in the dressing until evenly coated.",
+    "Let the salad rest for 5 minutes to allow flavors to meld.",
+    "Stir again before serving to redistribute the seasoning.",
+    "Garnish with a few fresh oregano leaves for extra aroma.",
+    "Serve chilled or at room temperature.",
+    "Enjoy immediately for maximum freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "no-cook",
+    "quick",
+    "salad",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 7
+  },
+  "slug": "jazzy-ethiopian-cucumber-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-ethiopian-cucumber-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:32:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "oregano",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Jazzy",
+    "dishForm": "Salad"
+  }
+}
