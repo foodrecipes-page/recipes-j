@@ -466,6 +466,21 @@
     "shard": "j"
   },
   {
+    "slug": "joyful-australian-egg-stir-fry",
+    "title": "Joyful Australian Egg Stir-fry",
+    "tags": [
+      "egg-stir-fry",
+      "garlicky",
+      "nostalgic",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
     "slug": "joyful-irish-tomato-soup",
     "title": "Joyful Irish Tomato Soup",
     "tags": [
@@ -506,6 +521,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-crispy-german-collard-flatbread",
+    "title": "Jubilant Crispy German Collard Flatbread",
+    "tags": [
+      "german-flavor",
+      "long-fermentation",
+      "low-carb",
+      "quick-bake",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -597,6 +626,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-snappy-norwegian-cod-skillet",
+    "title": "Jubilant Snappy Norwegian Cod Skillet",
+    "tags": [
+      "diabetic-friendly",
+      "norwegian-cuisine",
+      "one-pan",
+      "romantic-dinner",
+      "seafood"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {

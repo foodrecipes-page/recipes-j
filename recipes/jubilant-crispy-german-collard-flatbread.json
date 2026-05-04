@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Crispy German Collard Flatbread",
+  "description": "A yeasty, shattering German flatbread with sautéed collards and a tangy mustard drizzle, perfect for a diabetic-friendly feast.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "300 g"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "4 g"
+    },
+    {
+      "name": "salt",
+      "amount": "6 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "collard greens",
+      "amount": "300 g"
+    },
+    {
+      "name": "German mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded German cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine the bread flour, whole wheat flour, yeast, and salt in a large bowl until evenly mixed.",
+    "Add the warm water and olive oil and stir until a shaggy dough forms.",
+    "Transfer the dough onto a lightly floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let it ferment at room temperature for 12 hours.",
+    "After fermentation, punch down the dough and roll it into a flat rectangle about 3 mm thick.",
+    "Heat a large cast‑iron skillet over medium heat and lightly brush it with olive oil.",
+    "Slide the rolled dough into the skillet and cook for 3 minutes until golden brown spots appear.",
+    "Flip the flatbread and cook for an additional 2 minutes, then remove from heat.",
+    "Meanwhile, sauté the collard greens in a separate pan with a splash of olive oil until wilted, then mix in mustard, cheese, and dill.",
+    "Spread the collard mixture over the cooked flatbread and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-flavor",
+    "long-fermentation",
+    "low-carb",
+    "quick-bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 18,
+    "carbs": 84,
+    "fat": 12
+  },
+  "slug": "jubilant-crispy-german-collard-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crispy-german-collard-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:42:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "collards",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Collard",
+    "descriptor": "Jubilant Crispy",
+    "dishForm": "Flatbread"
+  }
+}

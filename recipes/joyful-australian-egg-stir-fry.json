@@ -1,0 +1,109 @@
+{
+  "title": "Joyful Australian Egg Stir-fry",
+  "description": "A garlicky, aerated egg stir-fry that brings back nostalgic Australian flavors using canned tomatoes and fresh veggies.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "scrambled"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (400g) diced",
+      "notes": "drained"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat until shimmering.",
+    "Add minced garlic and diced onion, sauté for 2 minutes until fragrant and softened.",
+    "Stir in diced bell pepper and cook for another 3 minutes until slightly crisp.",
+    "Pour in drained canned tomatoes, crack in the eggs, and stir gently to combine.",
+    "Sprinkle salt, pepper, and oregano over the mixture and cook for 4 minutes, allowing the eggs to set.",
+    "Fold in fresh spinach, cooking until wilted, about 2 minutes.",
+    "Stir in chopped basil and adjust seasoning if needed.",
+    "Serve hot, optionally topped with a squeeze of lemon or extra basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-stir-fry",
+    "garlicky",
+    "nostalgic",
+    "one-pan",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 46
+  },
+  "slug": "joyful-australian-egg-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-australian-egg-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:41:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "egg",
+    "descriptor": "Joyful",
+    "dishForm": "Stir-fry"
+  }
+}
