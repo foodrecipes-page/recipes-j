@@ -142,6 +142,22 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-greek-rice-risotto",
+    "title": "Jazzy Greek Rice Risotto",
+    "tags": [
+      "ayurvedic-friendly",
+      "creamy",
+      "garnish-rich",
+      "lazy-sunday",
+      "mediterranean",
+      "pungent",
+      "quick"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-kenyan-peanut-butter-fritters",
     "title": "Jazzy Kenyan Peanut Butter Fritters",
     "tags": [

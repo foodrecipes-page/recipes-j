@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Greek Rice Risotto",
+  "description": "A pungent, creamy lazy-sunday Mediterranean dish featuring raisins, nuka-pickle and ayurvedic-rajasic-friendly flavors.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellow onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups, kept warm"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Nuka-pickle slices",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese, crumbled",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 4 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Pour in white wine, stir, and let it reduce by half, about 3 minutes.",
+    "Add Arborio rice, stirring constantly for 2 minutes to toast the grains.",
+    "Begin ladling warm vegetable broth one cup at a time, stirring frequently, allowing each addition to be absorbed before adding the next.",
+    "When the rice is al dente and creamy, fold in raisins, nuka-pickle slices, and lemon zest.",
+    "Reduce heat to low, add crumbled feta cheese and chopped dill, stirring until cheese melts.",
+    "Season with salt, taste, and adjust seasoning as needed.",
+    "Serve hot, optionally garnished with extra dill or lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "creamy",
+    "garnish-rich",
+    "lazy-sunday",
+    "mediterranean",
+    "pungent",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "jazzy-greek-rice-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-greek-rice-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:04:29Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "raisins",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Rice",
+    "descriptor": "Jazzy",
+    "dishForm": "Risotto"
+  }
+}
