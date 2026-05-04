@@ -1,0 +1,120 @@
+{
+  "title": "Jacked Smoky Irish Lamb Stew",
+  "description": "A hearty and adventurous Irish stew featuring smoky paprika and a touch of tempering chocolate, all in a malty, tender broth.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Look for lamb with a good amount of marbling for maximum flavor."
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": "A sweet onion like Vidalia or Georgia works well."
+    },
+    {
+      "name": "carrot, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "Use a variety like Nantes or Danver for the best flavor."
+    },
+    {
+      "name": "potato, peeled and chopped",
+      "amount": "2 large",
+      "notes": "Choose a high-starch variety like Russet or Idaho."
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "This gives the stew its signature smoky flavor."
+    },
+    {
+      "name": "chocolate, chopped",
+      "amount": "2 ounces",
+      "notes": "Bittersweet or dark chocolate works best."
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-protein flour for the best results."
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, salted butter."
+    },
+    {
+      "name": " Guinness stout",
+      "amount": "1 cup",
+      "notes": "This gives the stew a rich, malty flavor."
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "Use low-sodium broth for the best results."
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "A full-bodied red wine like Cabernet Sauvignon works well."
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Use fresh thyme for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb and set it aside.",
+    "Add the onion, carrot, and potato to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the smoked paprika, flour, and chocolate to the pot and cook for 1 minute.",
+    "Add the Guinness stout, chicken broth, and red wine to the pot and bring to a boil.",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Transfer the pot to the oven and cook until the lamb is tender, about 2 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "high-protein",
+    "irish-cuisine",
+    "lamb-based",
+    "one-pan-meal",
+    "smoky-flavor",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "jacked-smoky-irish-lamb-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jacked-smoky-irish-lamb-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:54:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "smoky paprika",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Jacked Smoky",
+    "dishForm": "Stew"
+  }
+}

@@ -1,5 +1,22 @@
 [
   {
+    "slug": "jacked-smoky-irish-lamb-stew",
+    "title": "Jacked Smoky Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "high-protein",
+      "irish-cuisine",
+      "lamb-based",
+      "one-pan-meal",
+      "smoky-flavor",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peppery-canadian-potato-hash",
     "title": "Jagged Peppery Canadian Potato Hash",
     "tags": [
