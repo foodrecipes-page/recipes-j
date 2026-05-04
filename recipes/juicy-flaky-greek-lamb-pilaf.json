@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Flaky Greek Lamb Pilaf",
+  "description": "A hearty and flavorful Greek dish featuring lamb, green pepper, and a blend of aromatic spices, perfect for a comforting meal. This umami-rich pilaf is sure to satisfy your cravings.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "green pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the diced green pepper and cook until tender, about 4 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the uncooked rice and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, dried oregano, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is tender and the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "juicy-flaky-greek-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-greek-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:45:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "green pepper",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Pilaf"
+  }
+}
