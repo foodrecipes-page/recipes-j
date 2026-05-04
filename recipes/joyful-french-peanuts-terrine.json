@@ -1,0 +1,93 @@
+{
+  "title": "Joyful French Peanuts Terrine",
+  "description": "A winey, springy terrine of roasted peanuts and beurre monte that makes a crowd-pleaser for any occasion.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw peanuts, roasted",
+      "amount": "2 cups",
+      "notes": "whole, lightly salted"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": "Burgundy or similar"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "3 tablespoons",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "½ teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Toasted almond slivers",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toss 2 cups raw peanuts with 1 teaspoon sea salt and spread them in a single layer on a baking sheet.",
+    "Roast peanuts in the oven for 12 minutes, stirring halfway, until they are fragrant and slightly browned.",
+    "While peanuts roast, melt 3 tablespoons of butter in a small saucepan over medium heat.",
+    "Add 1 cup dry white wine to the melted butter, whisking until the mixture is smooth and slightly reduced.",
+    "Once peanuts are roasted, transfer them to a heatproof bowl, pour the wine butter mixture over them, and stir gently to coat all peanuts.",
+    "Season the mixture with ½ teaspoon freshly ground black pepper, adding more salt if desired.",
+    "Press the peanut mixture firmly into a greased terrine mold, smoothing the top with a spatula.",
+    "Chill the terrine in the refrigerator for at least 30 minutes before serving, optionally garnishing with chopped parsley and toasted almond slivers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beverage-friendly",
+    "bordeaux-inspired",
+    "crowd-pleaser",
+    "one-pan",
+    "plant-based",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 51
+  },
+  "slug": "joyful-french-peanuts-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-french-peanuts-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:08:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "roasted peanut",
+    "diet": "satvik",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "peanuts",
+    "descriptor": "Joyful",
+    "dishForm": "Terrine"
+  }
+}
