@@ -75,6 +75,23 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-mustardy-dutch-peas-stew",
+    "title": "Jagged Mustardy Dutch Peas Stew",
+    "tags": [
+      "comfort-food",
+      "dutch",
+      "lunch",
+      "mustardy",
+      "nuka-pickle",
+      "sick-day",
+      "split-peas",
+      "stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peppery-canadian-potato-hash",
     "title": "Jagged Peppery Canadian Potato Hash",
     "tags": [

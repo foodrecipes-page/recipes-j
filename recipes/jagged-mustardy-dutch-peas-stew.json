@@ -1,0 +1,103 @@
+{
+  "title": "Jagged Mustardy Dutch Peas Stew",
+  "description": "A hearty, comforting stew featuring split peas, nuka-pickle, and a tangy mustardy flavor. Perfect for a sick-day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "raw-friendly",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried split peas",
+      "amount": "250g"
+    },
+    {
+      "name": "nuka-pickle (homemade or store-bought)",
+      "amount": "100g"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the diced carrot and celery and sauté for 5 minutes.",
+    "Add the nuka-pickle, dried split peas, yellow mustard, and chicken broth.",
+    "Stir well to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Add water to reach the desired consistency and season with black pepper.",
+    "Continue to simmer for another 10-15 minutes or until the peas are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "lunch",
+    "mustardy",
+    "nuka-pickle",
+    "sick-day",
+    "split-peas",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jagged-mustardy-dutch-peas-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-mustardy-dutch-peas-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:25:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "split peas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "peas",
+    "descriptor": "Jagged Mustardy",
+    "dishForm": "stew"
+  }
+}
