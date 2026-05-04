@@ -1,0 +1,95 @@
+{
+  "title": "Juicy British Russet Potato Gratin",
+  "description": "A rich and creamy British dish featuring russet potatoes in a pungent and silky gratin, perfect for special occasions, this recipe is ayurvedic-tamasic-friendly as it avoids overly stimulating ingredients and emphasizes nourishing, wholesome foods.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and melted butter, tossing to coat.",
+    "In a separate bowl, mix together the minced garlic, shredded gruyere cheese, heavy cream, salt, black pepper, and chopped thyme.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the garlic and cheese mixture over the potatoes, then repeat this process until all ingredients are used, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "one-pan",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-british-russet-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-russet-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:21:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "russet potato",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "russet potato",
+    "descriptor": "juicy pungent",
+    "dishForm": "Gratin"
+  }
+}
