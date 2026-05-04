@@ -1,0 +1,118 @@
+{
+  "title": "Juicy German Potato Stew",
+  "description": "A bitter, creamy sick‑day German stew that pairs vanilla custard with a spicy tadka, all in a gluten‑free friendly one‑pot meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 kg",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "gluten‑free"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat until melted.",
+    "Add onion, garlic, carrot, and celery, sautéing until the vegetables soften, about 5 minutes.",
+    "Stir in the diced potatoes and vegetable broth, bringing the mixture to a gentle boil.",
+    "Reduce heat, cover, and simmer for 20 minutes until the potatoes are tender.",
+    "Whisk soy milk, vanilla extract, salt, and pepper in a small bowl, then stir into the stew.",
+    "Continue to simmer, uncovered, for an additional 10 minutes to allow the custard to thicken.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "gluten-free",
+    "one-pot",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "juicy-german-potato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-german-potato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:17:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "vanilla custard",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potato",
+    "descriptor": "Juicy",
+    "dishForm": "Stew"
+  }
+}
