@@ -1,0 +1,131 @@
+{
+  "title": "Juicy Algerian Tomato Tagine",
+  "description": "A comforting winey, molten tomato tagine that brings nostalgic flavors of Algeria to the table, perfect for a cozy dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "800g"
+    },
+    {
+      "name": "red onion",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "red wine",
+      "amount": "30ml"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "5g"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "5g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "50g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a heavy-bottomed pot over medium heat and add olive oil.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, grated ginger, cumin, coriander, paprika, cinnamon, turmeric, and oregano, and sauté for 2 minutes until fragrant.",
+    "Add the tomatoes, wine, and a pinch of salt, then cover and simmer for 15 minutes to allow the flavors to meld.",
+    "Break up the tomatoes with a spoon and stir in the chickpeas, reducing the heat to low.",
+    "Cover and cook the tagine for an additional 20 minutes, letting the sauce thicken and the tomatoes soften.",
+    "Remove the pot from heat and stir in chopped parsley and cilantro for brightness.",
+    "Serve the tagine hot over a bed of couscous or plain rice, and garnish with extra herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "north-african",
+    "one-pot",
+    "slow-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "juicy-algerian-tomato-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-algerian-tomato-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:14:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tomato",
+    "descriptor": "Juicy",
+    "dishForm": "Tagine"
+  }
+}

@@ -2318,6 +2318,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-algerian-tomato-tagine",
+    "title": "Juicy Algerian Tomato Tagine",
+    "tags": [
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "slow-cook",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-american-salmon-slider",
     "title": "Juicy American Salmon Slider",
     "tags": [
