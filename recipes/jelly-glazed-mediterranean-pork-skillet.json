@@ -1,0 +1,94 @@
+{
+  "title": "JellyGlazed Mediterranean Pork Skillet",
+  "description": "A quick winey glaze coats tender pork shoulder steaks, finished with pickled cucumbers for a refreshing Mediterranean bite.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "4 x 4 oz"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pickled cucumber slices",
+      "amount": "1 cup",
+      "notes": "warmed before serving"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and drizzle olive oil, then sear the pork steaks until browned on both sides, about 3 minutes per side.",
+    "Remove the steaks and set aside, then pour red wine into the same skillet to deglaze, scraping up browned bits.",
+    "Stir in apricot jam, lemon juice, rosemary, salt, and pepper, letting the mixture simmer until it thickens into a glaze, about 5 minutes.",
+    "Return the pork to the skillet, spooning glaze over the steaks, and cook until the internal temperature reaches 145°F, about 4 minutes per side.",
+    "While the pork finishes, heat pickled cucumber slices in a small saucepan until warm, about 3 minutes.",
+    "Slide the cooked pork onto a cutting board, then drizzle remaining glaze over the top.",
+    "Sprinkle chopped parsley over the dish and serve immediately with the warmed pickled cucumbers on the side.",
+    "Optional: Garnish with additional rosemary sprigs for aroma."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 1090,
+    "protein": 115,
+    "carbs": 15,
+    "fat": 82
+  },
+  "slug": "jelly-glazed-mediterranean-pork-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-glazed-mediterranean-pork-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:18:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pork",
+    "descriptor": "JellyGlazed",
+    "dishForm": "Skillet"
+  }
+}
