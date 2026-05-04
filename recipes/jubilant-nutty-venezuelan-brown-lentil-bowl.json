@@ -1,0 +1,106 @@
+{
+  "title": "Jubilant Nutty Venezuelan Brown Lentil Bowl",
+  "description": "A hearty and energizing Venezuelan dish featuring brown lentils, with a nutty and crumbly texture, served in an earthenware bowl. This satvik-friendly recipe is perfect for a nutritious lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large earthenware bowl, rinse the brown lentils and soak them in water for 30 minutes.",
+    "In a large pot, heat the peanut oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly.",
+    "Add the chopped carrots, cumin, coriander, and salt, and cook for 5 minutes, stirring occasionally.",
+    "Add the soaked and drained brown lentils, and the remaining 2 cups of water to the pot, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, toast the pumpkin seeds in a small skillet over medium heat, stirring frequently.",
+    "Once the lentils are cooked, stir in the toasted pumpkin seeds and season with additional salt if needed.",
+    "Serve the lentil mixture in the earthenware bowl, garnished with additional toasted pumpkin seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pot",
+    "plant-based",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-nutty-venezuelan-brown-lentil-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:53:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "brown lentils",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "brown lentils",
+    "descriptor": "jubilant nutty",
+    "dishForm": "Bowl"
+  }
+}

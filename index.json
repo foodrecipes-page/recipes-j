@@ -561,6 +561,21 @@
     "shard": "j"
   },
   {
+    "slug": "jaw-dropping-crunchy-russian-tod-dumplings",
+    "title": "Crunchy Russian Tod Dumplings",
+    "tags": [
+      "crunchy-snack",
+      "deep-fried",
+      "fodmap-friendly",
+      "gluten-free",
+      "monsoon-snack",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jaw-dropping-smoky-moroccan-ground-poppy-seeds-seffa",
     "title": "Jaw Dropping Smoky Moroccan Ground Poppy Seeds Seffa",
     "tags": [
@@ -2353,6 +2368,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl",
+    "title": "Jubilant Nutty Venezuelan Brown Lentil Bowl",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pot",
+      "plant-based",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
