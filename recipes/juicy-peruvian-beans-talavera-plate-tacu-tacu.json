@@ -1,0 +1,111 @@
+{
+  "title": "Juicy Peruvian Beans Talavera-Plate Tacu Tacu",
+  "description": "A comforting and citrusy Peruvian dish featuring shortening, bain-marie, and a macrobiotic-friendly twist, served in a beautiful Talavera plate with a delicious cheese pull.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 1/2 cups",
+      "notes": "canned kidney beans, drained and rinsed"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/4 cup",
+      "notes": " vegetable shortening, like coconut oil or avocado oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "zest",
+      "amount": "1 tablespoon",
+      "notes": "orange zest"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "melted queso fresco or mozzarella"
+    }
+  ],
+  "instructions": [
+    "Heat the shortening in a medium saucepan over medium heat, then saut\u000499 the chopped onion until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly to prevent burning.",
+    "Add the kidney beans, oregano, cumin, and lemon juice, mixing well to combine.",
+    "Transfer the mixture to a bain-marie, a double boiler setup, and let it simmer for 15-20 minutes, stirring occasionally.",
+    "Meanwhile, prepare the cheese topping by crumbling the melted cheese into small pieces.",
+    "Once the bean mixture is ready, carefully transfer it to a Talavera plate, creating a shallow well in the center.",
+    "Spoon the cheese topping into the well, and place the plate under the broiler until the cheese is melted and bubbly, about 2-3 minutes.",
+    "Remove the plate from the oven and let it cool slightly before serving, garnished with additional orange zest if desired.",
+    "Serve warm, and enjoy the comforting and citrusy flavors of this Peruvian dish!",
+    "Garnish with additional orange zest if desired, for a vibrant and colorful presentation.",
+    "Serve with a side of steamed vegetables or a green salad for a well-rounded meal.",
+    "For an extra touch, add a sprinkle of chopped fresh cilantro or scallions on top of the cheese topping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "juicy-peruvian-beans-talavera-plate-tacu-tacu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peruvian-beans-talavera-plate-tacu-tacu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "shortening",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beans",
+    "descriptor": "Juicy",
+    "dishForm": "Talavera-Plate Tacu Tacu"
+  }
+}

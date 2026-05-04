@@ -1,0 +1,97 @@
+{
+  "title": "Jazzy Chewy Mediterranean Herbal Tagine",
+  "description": "A festive and aromatic Mediterranean dish made with claypot and featuring Marsala-wine and yuzu-cure. This herb-infused stew is perfect for a cold winter night.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "2 cups",
+      "notes": "reduced to 1 cup"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon honey"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper in a small bowl.",
+    "Heat 1 tablespoon of olive oil in the claypot over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the claypot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jazzy-chewy-mediterranean-herbal-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-chewy-mediterranean-herbal-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "marsala-wine",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "herbal dish",
+    "descriptor": "jazzy chewy",
+    "dishForm": "Tagine"
+  }
+}

@@ -31,6 +31,22 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-creamy-slovakian-danmuji-bake",
+    "title": "Jagged Creamy Slovakian Danmuji Bake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "comfort-food",
+      "gluten-free",
+      "one-dish-meal",
+      "slovakian",
+      "vegan"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crispy-brazilian-cheese-flatbread",
     "title": "Jagged Crispy Brazilian Cheese Flatbread",
     "tags": [
@@ -486,6 +502,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-moroccan-morbier-tagine",
+    "title": "Jammy Moroccan Morbier Tagine",
+    "tags": [
+      "breakfast",
+      "cheese",
+      "high-calorie",
+      "moroccan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-pillowy-thai-rice-curry",
     "title": "Thai Rice Curry with Soft and Fluffy Texture",
     "tags": [
@@ -790,6 +821,19 @@
       "vegetarian"
     ],
     "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-chewy-mediterranean-herbal-dish-tagine",
+    "title": "Jazzy Chewy Mediterranean Herbal Tagine",
+    "tags": [
+      "herbal",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 60,
     "shard": "j"
   },
@@ -1774,6 +1818,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-whole-grain-earthy-spring-polish-flour-pancake",
+    "title": "Jewel-toned Whole Grain Earthy Spring Polish Flour Pancake",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "high-fiber",
+      "spring-veggies",
+      "whole-grain"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -4464,6 +4522,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-molten-russian-rest-meat-pancakes",
+    "title": "Juicy Molten Russian Rest-Meat Pancakes",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-moroccan-couscous-grill",
     "title": "Juicy Moroccan Couscous Grill",
     "tags": [
@@ -4667,6 +4739,19 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-peruvian-beans-talavera-plate-tacu-tacu",
+    "title": "Juicy Peruvian Beans Talavera-Plate Tacu Tacu",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 37,
     "shard": "j"
   },
   {
@@ -5680,6 +5765,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-welsh-pistachio-yorkshire-pudding",
+    "title": "Juicy Welsh Pistachio Yorkshire Pudding",
+    "tags": [
+      "british",
+      "comfort-food",
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

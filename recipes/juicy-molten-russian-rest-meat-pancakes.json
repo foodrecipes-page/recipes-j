@@ -1,0 +1,119 @@
+{
+  "title": "Juicy Molten Russian Rest-Meat Pancakes",
+  "description": "A rich, savory pancake dish featuring a molten center, crumbled rest-meat, and tangy pickles. This low-carb friendly recipe showcases the bold flavors of Russia.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Rest-Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled Cucumbers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a tava-griddle or non-stick skillet over medium heat. In a large bowl, combine ground rest-meat, cottage cheese, sour cream, pickled cucumbers, chopped fresh dill, salt, and black pepper. Mix well to combine.",
+    "Add egg yolks, melted butter, heavy cream, shredded cheddar cheese, and dried oregano to the bowl. Stir until smooth batter forms.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated tava-griddle. Cook for 2-3 minutes, until the edges start to set.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until the centers are still slightly molten.",
+    "Serve immediately, garnished with additional chopped fresh dill if desired.",
+    "Repeat with the remaining batter, until all the pancakes are cooked. Serve hot, with your choice of toppings.",
+    "Note: Traditionally, these pancakes would be cooked in a cast-iron skillet over an open flame, allowing the center to stay molten.",
+    "To make ahead, cook the pancakes and store them in an airtight container in the refrigerator for up to 24 hours. Reheat before serving.",
+    "To freeze, place cooked pancakes on a baking sheet lined with parchment paper, and freeze until solid. Transfer to a freezer-safe bag or container for up to 3 months.",
+    "To reheat, wrap the frozen pancakes in a damp paper towel and microwave for 20-30 seconds, or until warmed through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "juicy-molten-russian-rest-meat-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-molten-russian-rest-meat-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "pickles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Juicy molten",
+    "dishForm": "Pancakes"
+  }
+}

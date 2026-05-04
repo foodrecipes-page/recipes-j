@@ -1,0 +1,86 @@
+{
+  "title": "Jewel-toned Whole Grain Earthy Spring Polish Flour Pancake",
+  "description": "A vibrant and nourishing breakfast dish from Poland, perfect for the spring season. Features whole grain flour and infuse-oil for added depth of flavor.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white whole grain flour",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "infuse-oil (chickpea oil infused with calendula petals)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sattvic egg",
+      "amount": "1"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "sattvic salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "raw honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "filtered water",
+      "amount": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, infuse-oil, ghee, egg, and salt until a smooth batter forms.",
+    "Stir in the chopped dill and honey.",
+    "Heat a tava or griddle to 375\u000635F (190\u000635C).",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the tava or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "high-fiber",
+    "spring-veggies",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "jewel-toned-whole-grain-earthy-spring-polish-flour-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-whole-grain-earthy-spring-polish-flour-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "infuse-oil",
+    "primaryIngredient": "strong white flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "earthy spring",
+    "mainIngredient": "polish flour",
+    "descriptor": "jewel-toned whole grain",
+    "dishForm": "pancake"
+  }
+}

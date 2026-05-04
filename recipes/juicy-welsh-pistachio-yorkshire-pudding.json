@@ -1,0 +1,125 @@
+{
+  "title": "Juicy Welsh Pistachio Yorkshire Pudding",
+  "description": "A twist on the classic British dish, this recipe features the nutty flavor of unsalted pistachios and a crispy, golden-brown exterior.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted pistachio meal",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup whole milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cooked, shredded chicken",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cooked, mashed sweet potatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped fresh herbs (such as parsley, thyme, and rosemary)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Whisk together the flour, baking powder, and salt in a large bowl.",
+    "Add the pistachio meal and whisk until well combined.",
+    "In a separate bowl, whisk together the milk, eggs, and melted butter.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet and cook for 2-3 minutes or until the bottoms are golden brown.",
+    "Flip the Yorkshire puddings and cook for an additional 2-3 minutes or until golden brown on both sides.",
+    "Transfer the Yorkshire puddings to a baking sheet and top each with a spoonful of shredded chicken, mashed sweet potatoes, chopped herbs, and grated cheese.",
+    "Drizzle with additional melted butter and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "juicy-welsh-pistachio-yorkshire-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-welsh-pistachio-yorkshire-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "ovo-vegetarian",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "pistachio",
+    "descriptor": "juicy",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
