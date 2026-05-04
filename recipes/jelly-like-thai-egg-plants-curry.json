@@ -1,0 +1,108 @@
+{
+  "title": "Thai Egg Plant Curry",
+  "description": "A Southern Thai inspired curry featuring egg plants in a rich and earthy jelly like sauce, perfect for a post workout meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg plants",
+      "amount": "2 large",
+      "notes": "Thai or Japanese variety"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish free sauce",
+      "amount": "2 tablespoons",
+      "notes": "or nam pla alternative"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until translucent.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the Thai red curry paste and cook for 1 minute until the paste is fragrant.",
+    "Add the coconut milk and fish free sauce and stir well to combine.",
+    "Add the egg plants and cook until they are tender and the sauce has thickened.",
+    "Make 2 wells in the sauce and crack an egg into each well.",
+    "Cover the pan and cook until the eggs are cooked to your desired doneness.",
+    "Season the curry with salt and sugar to taste.",
+    "Garnish with chopped fresh basil and serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "egg-plant",
+    "one-pan",
+    "ovo-vegetarian",
+    "post-workout",
+    "southern-thai",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "jelly-like-thai-egg-plants-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-thai-egg-plants-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:44:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "egg plants",
+    "diet": "ovo-vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "egg plants",
+    "descriptor": "Jelly like",
+    "dishForm": "Curry"
+  }
+}

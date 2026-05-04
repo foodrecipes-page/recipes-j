@@ -1253,6 +1253,21 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-thai-egg-plants-curry",
+    "title": "Thai Egg Plant Curry",
+    "tags": [
+      "egg-plant",
+      "one-pan",
+      "ovo-vegetarian",
+      "post-workout",
+      "southern-thai",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jerky-italian-pasta-pasta",
     "title": "Jerky Italian Pasta",
     "tags": [
@@ -1848,6 +1863,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-flaky-russian-beef-dumplings",
+    "title": "Jubilant Flaky Russian Beef Dumplings",
+    "tags": [
+      "beef-recipes",
+      "dumplings",
+      "fermented-food",
+      "paleo-friendly",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
