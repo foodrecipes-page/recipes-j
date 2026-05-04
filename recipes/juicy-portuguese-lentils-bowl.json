@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Portuguese Lentils Bowl",
+  "description": "A jammy, soulful lentil bowl packed with Mediterranean flavors, cooked in a traditional ttukbaegi, perfect for a post-workout meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dry lentils",
+      "amount": "1 cup",
+      "notes": "washed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fig jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ttukbaegi over medium heat and add olive oil, then sauté onion until translucent.",
+    "Add garlic and paprika and cook for another minute until fragrant.",
+    "Pour in the lentils, broth, and water, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat to low, cover, and simmer for 30 minutes, stirring occasionally.",
+    "Stir in the fig jam and cook for an additional 5 minutes to coat the lentils.",
+    "Taste and season with salt and pepper, then remove from heat.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot straight from the ttukbaegi for a rustic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 80,
+    "carbs": 200,
+    "fat": 40
+  },
+  "slug": "juicy-portuguese-lentils-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-portuguese-lentils-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:32:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "jam",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Lentils",
+    "descriptor": "Juicy",
+    "dishForm": "Bowl"
+  }
+}
