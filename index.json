@@ -506,6 +506,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-british-egg-wrap",
+    "title": "juicy british egg wrap",
+    "tags": [
+      "breakfast",
+      "british",
+      "egg-rich",
+      "grilled",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-ham-stir-fry",
     "title": "Juicy British Ham Stir-fry",
     "tags": [

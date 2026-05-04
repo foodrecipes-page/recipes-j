@@ -1,0 +1,107 @@
+{
+  "title": "juicy british egg wrap",
+  "description": "a sweet and shattering lacto-vegetarian-friendly breakfast dish featuring egg roll wrappers and a grill.",
+  "cuisine": "british",
+  "diet": [
+    "lacto-vegetarian",
+    "egg-rich"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers (4-6 wrappers)",
+      "amount": "4",
+      "notes": "found in most supermarkets or international grocery stores"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4",
+      "notes": "use 2 eggs per serving"
+    },
+    {
+      "name": "grilled smoked bacon",
+      "amount": "4 slices",
+      "notes": "or substitute with vegetarian bacon"
+    },
+    {
+      "name": "grilled mushrooms",
+      "amount": "8 oz",
+      "notes": "button, cremini, or shiitake work well"
+    },
+    {
+      "name": "grilled asparagus",
+      "amount": "8 oz",
+      "notes": "spears or trimmed stalks"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup shredded",
+      "notes": "or substitute with other Swiss-style cheese"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for a sweet glaze"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cooking oil or butter",
+      "amount": "2 tbsp",
+      "notes": "for brushing grill and egg wrappers"
+    }
+  ],
+  "instructions": [
+    "preheat the grill to medium heat.",
+    "brush the grill with oil or butter to prevent sticking.",
+    "scramble the eggs in a bowl and set aside.",
+    "brush the egg roll wrappers with oil or butter and grill for 30 seconds on each side, until lightly browned.",
+    "grill the mushrooms and asparagus until tender and lightly browned.",
+    "cook the bacon in a pan until crispy, then chop into small pieces.",
+    "warm the scrambled eggs on the grill or in the microwave.",
+    "assemble the wraps by spooning the eggs, mushrooms, asparagus, bacon, and cheese onto the egg roll wrappers.",
+    "drizzle with honey and sprinkle with chives.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "egg-rich",
+    "grilled",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-british-egg-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-egg-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:43:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "lacto-vegetarian",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Egg",
+    "descriptor": "Juicy",
+    "dishForm": "Wrap"
+  }
+}
