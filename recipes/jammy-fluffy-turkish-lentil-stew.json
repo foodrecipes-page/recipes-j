@@ -1,0 +1,117 @@
+{
+  "title": "Jammy Fluffy Turkish Lentil Stew",
+  "description": "A sweet and light lentil stew with a jam-like glaze, perfect for meal prep and packed with satvik-friendly flavors.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "200 g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed spice blend",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils until water runs clear and set aside.",
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and carrot and sauté until softened, about 5 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Mix in tomato paste and cook, stirring, for 2 minutes to caramelize.",
+    "Add tomato sauce, vegetable broth, rinsed lentils, and mixed spice blend; bring to a simmer.",
+    "Reduce heat, cover, and simmer gently for 25 minutes until lentils are tender and the mixture thickens.",
+    "Season with salt and pepper, then stir in fresh lemon juice for brightness.",
+    "Taste and adjust seasoning, adding more salt or lemon if needed.",
+    "Serve hot, optionally topped with a swirl of yogurt or a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "jammy",
+    "lentil",
+    "meal-prep",
+    "satvik-friendly",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "jammy-fluffy-turkish-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-fluffy-turkish-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:43:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "lentils",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Jammy Fluffy",
+    "dishForm": "Stew"
+  }
+}

@@ -266,6 +266,22 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-fluffy-turkish-lentil-stew",
+    "title": "Jammy Fluffy Turkish Lentil Stew",
+    "tags": [
+      "fluffy",
+      "jammy",
+      "lentil",
+      "meal-prep",
+      "satvik-friendly",
+      "turkish",
+      "vegan"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-jolted-korean-hazelnut-tteok",
     "title": "Jammy Jolted Korean Hazelnut Tteok",
     "tags": [
