@@ -1,0 +1,105 @@
+{
+  "title": "Jagged Crunchy Venezuelan Lentil Bowl",
+  "description": "A peppery and crunchy Venezuelan dish featuring French lentils and ferment-jang, perfect for a hangover cure. This egg-free-friendly recipe is served in a bamboo tray.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "crushed plantain chips",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the French lentils and cook them in boiling water for 20 minutes or until they are tender.",
+    "In a pan, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic, cumin, smoked paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "Stir in the ferment-jang and cook for an additional 2 minutes.",
+    "Combine the cooked lentils and the ferment-jang mixture in a bowl.",
+    "Garnish with crushed plantain chips and serve in a bamboo tray.",
+    "Let it cool for a few minutes before serving.",
+    "Serve immediately and enjoy.",
+    "You can store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "latin-american",
+    "lentil-bowl",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jagged-crunchy-venezuelan-lentil-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crunchy-venezuelan-lentil-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:04:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "french lentils",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lentils",
+    "descriptor": "Jagged Crunchy",
+    "dishForm": "Bowl"
+  }
+}
