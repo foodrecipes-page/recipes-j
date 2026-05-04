@@ -1,0 +1,104 @@
+{
+  "title": "Jelly-like Silky Ukrainian Phyllo dough Vareniki",
+  "description": "A delicate Ukrainian dish featuring phyllo dough, filled with a sweet and tangy filling, boiled to perfection. Often served as a brunch option.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 20-24 sheets)",
+      "notes": "Thaw according to package instructions."
+    },
+    {
+      "name": "Strained ricotta cheese",
+      "amount": "1 cup",
+      "notes": "Squeeze out as much liquid as possible before using."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "Can be adjusted to taste."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "High-quality extract recommended."
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "For brushing phyllo dough."
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "For brushing phyllo dough."
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon, chopped",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1/4 cup",
+      "notes": "For dusting."
+    }
+  ],
+  "instructions": [
+    "Preheat a large pot of water and bring to a boil.",
+    "Combine ricotta cheese, granulated sugar, lemon juice, and vanilla extract in a bowl and mix until smooth.",
+    "Brush a sheet of phyllo dough with melted butter and place on a work surface.",
+    "Place a tablespoon of the ricotta mixture in the center of the phyllo dough.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal.",
+    "Repeat with the remaining dough and filling, until all ingredients are used.",
+    "Carefully place the vareniki into the boiling water and cook for 5-7 minutes, or until they float to the surface.",
+    "Remove the vareniki from the water with a slotted spoon and place on a paper towel-lined plate to drain excess water.",
+    "Serve warm, garnished with chopped fresh dill and dust with powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "phyllo-dough",
+    "ricotta-cheese",
+    "spring",
+    "ukrainian",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "jelly-like-silky-ukrainian-phyllo-dough-vareniki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-silky-ukrainian-phyllo-dough-vareniki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:49:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "phyllo dough",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Phyllo dough",
+    "descriptor": "Jelly-like Silky",
+    "dishForm": "Vareniki"
+  }
+}
