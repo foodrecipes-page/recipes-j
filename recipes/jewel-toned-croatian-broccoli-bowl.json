@@ -1,0 +1,92 @@
+{
+  "title": "Jewel Toned Croatian Broccoli Bowl",
+  "description": "A salty and creamy Croatian dish featuring purple sprouting broccoli, served in a lacquerware bowl, perfect for a solo dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with 2 inches of water and bring to a boil.",
+    "Reduce the heat to a simmer and place a steamer basket over the water.",
+    "Add the broccoli florets to the steamer basket and cover with a lid.",
+    "Steam the broccoli for 5 minutes, or until tender.",
+    "Meanwhile, heat the olive oil in a small saucepan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Stir in the crumbly cheese, sour cream, salt, black pepper, and paprika.",
+    "Combine the cooked broccoli and cheese mixture in a lacquerware bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "one-bowl",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "jewel-toned-croatian-broccoli-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-croatian-broccoli-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:19:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "broccoli",
+    "descriptor": "jewel toned creamy",
+    "dishForm": "Bowl"
+  }
+}

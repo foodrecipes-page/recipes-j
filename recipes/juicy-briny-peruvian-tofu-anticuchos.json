@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Briny Peruvian Tofu Anticuchos",
+  "description": "A vegan-friendly Peruvian dish featuring marinated tofu, sherry, and a blend of spices, served in the traditional anticuchos form, bringing a nostalgic and savory flavor to your table.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into anticuchos sticks"
+    },
+    {
+      "name": "Sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, ensuring the grates are clean and brush them with a small amount of oil to prevent sticking.",
+    "In a large bowl, whisk together sherry vinegar, lime juice, olive oil, garlic, smoked paprika, salt, and black pepper to create the marinade.",
+    "Add the tofu sticks to the marinade, toss to coat evenly, and let marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "Grill the tofu anticuchos for about 3-4 minutes per side, or until they are nicely charred and heated through.",
+    "Once cooked, remove the anticuchos from the heat and garnish with chopped fresh cilantro.",
+    "Serve the anticuchos hot, with your choice of sides such as grilled vegetables, quinoa, or corn.",
+    "Offer additional marinade as a dipping sauce for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-tofu",
+    "high-protein",
+    "latin-american",
+    "peruvian-cuisine",
+    "sherry-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-briny-peruvian-tofu-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-briny-peruvian-tofu-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:19:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "sherry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Briny",
+    "dishForm": "Anticuchos"
+  }
+}

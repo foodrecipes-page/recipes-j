@@ -1266,6 +1266,20 @@
     "shard": "j"
   },
   {
+    "slug": "jewel-toned-croatian-broccoli-bowl",
+    "title": "Jewel Toned Croatian Broccoli Bowl",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "one-bowl",
+      "quick-dinner",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
     "slug": "jewel-toned-croatian-broccoli-gratin",
     "title": "Jewel Toned Croatian Broccoli Gratin",
     "tags": [
@@ -2254,6 +2268,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-briny-peruvian-tofu-anticuchos",
+    "title": "Juicy Briny Peruvian Tofu Anticuchos",
+    "tags": [
+      "gluten-free",
+      "grilled-tofu",
+      "high-protein",
+      "latin-american",
+      "peruvian-cuisine",
+      "sherry-based",
+      "vegan-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {
