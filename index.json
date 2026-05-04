@@ -1006,6 +1006,19 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-moroccan-vegetables-tagine",
+    "title": "jazzy moroccan vegetable tagine",
+    "tags": [
+      "moroccan",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-neapolitan-foie-gras-risotto",
     "title": "Jazzy Neapolitan Foie Gras Risotto",
     "tags": [

@@ -1,0 +1,111 @@
+{
+  "title": "jazzy moroccan vegetable tagine",
+  "description": "a flavorful, pillowy, and festive moroccan-inspired dish featuring truffle oil and a variety of vegetables",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "add the chopped onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "add the chopped carrots, zucchini, and red bell pepper, and cook for 5-7 minutes, until the vegetables are tender.",
+    "stir in the cumin and coriander, and cook for 1 minute.",
+    "add the chickpeas, canned tomatoes, and truffle oil, and stir to combine.",
+    "bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "bake for 20-25 minutes, until the flavors have melded together and the vegetables are tender.",
+    "season the tagine with salt and pepper to taste.",
+    "serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "jazzy-moroccan-vegetables-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-moroccan-vegetables-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "truffle oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "jazzy",
+    "dishForm": "Tagine"
+  }
+}
