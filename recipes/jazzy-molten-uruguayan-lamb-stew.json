@@ -1,0 +1,114 @@
+{
+  "title": "Jazzy Molten Uruguayan Lamb Stew",
+  "description": "A funky, molten lamb stew that blends Uruguayan flavors, stout beer, and halal-friendly braising for a comforting dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1500 g",
+      "notes": "cut into 3 cm cubes"
+    },
+    {
+      "name": "stout beer",
+      "amount": "300 g",
+      "notes": "use a malty stout"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "beef stock",
+      "amount": "200 g",
+      "notes": "halal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste",
+      "notes": "season to taste"
+    }
+  ],
+  "instructions": [
+    "In a large heavy pot, heat olive oil over medium-high heat until shimmering.",
+    "Add lamb cubes and brown on all sides, about 5-6 minutes, then remove and set aside.",
+    "In the same pot, sauté onions until translucent, about 4 minutes.",
+    "Stir in garlic, cumin, and paprika, cooking until fragrant, about 30 seconds.",
+    "Return lamb to the pot and add diced sweet potato, tomato paste, and bay leaf, stir to coat.",
+    "Pour in stout and beef stock, bring to a gentle boil, then reduce heat, cover, and braise for 180 minutes, or until lamb is tender.",
+    "Remove bay leaf, taste, and adjust seasoning with salt and pepper.",
+    "Serve hot, optionally topping with fresh parsley and a splash of stout reduction for a molten finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "comfort-food",
+    "halal",
+    "molten",
+    "stout",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 83,
+    "carbs": 8,
+    "fat": 55
+  },
+  "slug": "jazzy-molten-uruguayan-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-molten-uruguayan-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:32:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "stout",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Jazzy Molten",
+    "dishForm": "Stew"
+  }
+}
