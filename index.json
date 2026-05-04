@@ -303,6 +303,22 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-greek-lentil-pilaf",
+    "title": "Jazzy Greek Lentil Pilaf",
+    "tags": [
+      "crunchy",
+      "dairy-free",
+      "greek",
+      "one-pot",
+      "papillote",
+      "quick-meal",
+      "umami"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-greek-rice-risotto",
     "title": "Jazzy Greek Rice Risotto",
     "tags": [

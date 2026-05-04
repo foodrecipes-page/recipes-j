@@ -1,0 +1,116 @@
+{
+  "title": "Jazzy Greek Lentil Pilaf",
+  "description": "A vibrant, dairy‑free one‑pot pilaf infused with grapefruit, capers, and a crunchy sesame topping, finished in a crispy parchment papillote.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green lentils",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Long grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": "hot"
+    },
+    {
+      "name": "Grapefruit juice",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté for 3‑4 minutes until translucent.",
+    "Stir in lentils, rice, and dried oregano, cooking for 2 minutes to toast the grains.",
+    "Pour in vegetable broth and grapefruit juice, bring to a gentle boil, then reduce heat, cover, and simmer for 20 minutes until lentils and rice are tender and liquid absorbed.",
+    "Remove pot from heat and stir in capers, lemon juice, chopped dill, and toasted sesame seeds.",
+    "Transfer the pilaf onto a sheet of parchment paper, fold the parchment into a tight papillote packet.",
+    "Place the packet in a preheated oven at 375°F and bake for 10 minutes to crisp the top and steam the flavors.",
+    "Carefully unwrap, fluff the pilaf with a fork, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dairy-free",
+    "greek",
+    "one-pot",
+    "papillote",
+    "quick-meal",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 27,
+    "carbs": 124,
+    "fat": 33
+  },
+  "slug": "jazzy-greek-lentil-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-greek-lentil-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:32:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lentils",
+    "descriptor": "Jazzy",
+    "dishForm": "Pilaf"
+  }
+}
