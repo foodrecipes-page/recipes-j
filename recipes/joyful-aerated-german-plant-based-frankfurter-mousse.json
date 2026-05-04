@@ -1,0 +1,93 @@
+{
+  "title": "Joyful Aerated German Plant Based Frankfurter Mousse",
+  "description": "A unique sweet and savory German-inspired spread that uses whipped cream and spices to create a light, cozy texture from plant-based sausages.",
+  "cuisine": "German",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plant-based frankfurters",
+      "amount": "200g",
+      "notes": "pre-cooked and chilled"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "150ml",
+      "notes": "very cold for whipping"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for a subtle sweet contrast"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "0.25 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "0.5 tsp",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "50g",
+      "notes": "softened at room temperature"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 pinch",
+      "notes": "to balance the sweetness"
+    }
+  ],
+  "instructions": [
+    "Slice the plant-based frankfurters into very small rounds to prepare them for grinding.",
+    "Place the sausage pieces into a large stone mortar and pound them vigorously with the pestle until a smooth paste forms.",
+    "In a separate chilled bowl, whip the heavy cream until stiff peaks form.",
+    "Fold the softened cream cheese and maple syrup into the pounded sausage paste using a spatula.",
+    "Incorporate the nutmeg, smoked paprika, and salt into the mixture until evenly distributed.",
+    "Gently fold the whipped cream into the sausage base one third at a time to maintain aeration.",
+    "Transfer the mousse into small glass ramekins for a cozy presentation.",
+    "Chill the mousse in the refrigerator for at least thirty minutes before serving with toasted rye bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "comfort-food",
+    "german-style",
+    "plant-based",
+    "savory-sweet",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 19
+  },
+  "slug": "joyful-aerated-german-plant-based-frankfurter-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-aerated-german-plant-based-frankfurter-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T07:10:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "frankfurter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "plant based frankfurter",
+    "descriptor": "Joyful Aerated",
+    "dishForm": "Mousse"
+  }
+}
