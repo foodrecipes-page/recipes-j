@@ -1,0 +1,116 @@
+{
+  "title": "Jazzy Algerian Almond Tagine",
+  "description": "A nutty, tender tagine with annatto, wood‑fired baked flavor, and paleo‑friendly ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "450g"
+    },
+    {
+      "name": "raw almonds, toasted",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paleo chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cast iron skillet over medium heat.",
+    "Add diced onion and minced garlic and sauté until fragrant.",
+    "Stir in ground annatto, cumin, coriander, paprika, and cinnamon and cook for 1 minute.",
+    "Add chicken thighs and brown on all sides.",
+    "Pour in chicken broth and bring to a simmer.",
+    "Reduce heat, cover, and let cook for 25 minutes until chicken is tender.",
+    "Spread toasted almonds on top, replace cover, and bake in a preheated wood‑fire oven at 200C for 15 minutes.",
+    "Remove from heat and squeeze lemon juice over the tagine.",
+    "Season with salt and pepper, then sprinkle fresh cilantro.",
+    "Serve hot with a side of sautéed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "nutty",
+    "one-pot",
+    "paleo-friendly",
+    "traditional",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "jazzy-algerian-almond-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-algerian-almond-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:00:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ground annatto",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "almonds",
+    "descriptor": "Jazzy",
+    "dishForm": "Tagine"
+  }
+}
