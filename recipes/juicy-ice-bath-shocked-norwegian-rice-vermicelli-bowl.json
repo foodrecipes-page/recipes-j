@@ -1,0 +1,87 @@
+{
+  "title": "juicy ice-bath-shocked norwegian rice vermicelli bowl",
+  "description": "a refreshing brunch dish featuring cultured rice vermicelli, perfect for a buddhist temple gathering",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "250g",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 tbsp",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "cook the rice vermicelli according to the package instructions and set aside",
+    "in a separate pot, combine the coconut milk, salt, and black pepper and bring to a simmer over low heat",
+    "in a large bowl, combine the cooked rice vermicelli, coconut milk mixture, and chopped dill",
+    "shock the mixture in an ice bath for 30 minutes to stop the cooking process and chill the vermicelli",
+    "drain the vermicelli and serve in individual ramekins garnished with a sprinkle of lemongrass"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "refined-sugar-free",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 7,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "juicy-ice-bath-shocked-norwegian-rice-vermicelli-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-ice-bath-shocked-norwegian-rice-vermicelli-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "juicy ice-bath-shocked",
+    "dishForm": "Bowl"
+  }
+}

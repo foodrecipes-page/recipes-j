@@ -1719,6 +1719,19 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-juicy-thai-pork-pad-see-ew",
+    "title": "Jolly Juicy Thai Pork Pad See Ew",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-malty-croatian-lardons-hash",
     "title": "Jolly Malty Croatian Lardons Hash",
     "tags": [
@@ -3883,6 +3896,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 75,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-ice-bath-shocked-norwegian-rice-vermicelli-bowl",
+    "title": "juicy ice-bath-shocked norwegian rice vermicelli bowl",
+    "tags": [
+      "buddhist-friendly",
+      "gluten-free",
+      "refined-sugar-free",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

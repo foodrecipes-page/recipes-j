@@ -1,0 +1,113 @@
+{
+  "title": "Jolly Juicy Thai Pork Pad See Ew",
+  "description": "Tangy and velvety Thai dish featuring chili powder and gluten-free-friendly sauce, ideal for a solo dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian-options"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork strips",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok or large skillet over medium-high heat.",
+    "Add the pork strips and cook until browned, about 3 minutes.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the chili powder and cook for 1 minute, until fragrant.",
+    "Add the soy sauce, palm sugar, and rice vinegar. Stir to combine.",
+    "Add the bean sprouts and cook until wilted, about 2 minutes.",
+    "Add the chopped scallions and stir to combine.",
+    "Transfer the pork and sauce to a serving platter or individual plates.",
+    "Serve immediately, garnished with additional scallions and bean sprouts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jolly-juicy-thai-pork-pad-see-ew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-juicy-thai-pork-pad-see-ew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "chilli powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Jolly Juicy",
+    "dishForm": "Pad See Ew"
+  }
+}
