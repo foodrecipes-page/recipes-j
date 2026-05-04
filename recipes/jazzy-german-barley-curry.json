@@ -1,0 +1,112 @@
+{
+  "title": "Jazzy German Barley Curry",
+  "description": "A salty, springy, energizing German dish with barley and five spice powder, finished al dente and low-sodium friendly.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pearl barley",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Five spice powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion, sliced carrot, zucchini, and bell pepper, sauté until softened about 5 minutes.",
+    "Stir in five spice powder and curry powder, cook for 1 minute until fragrant.",
+    "Add rinsed barley, mix to coat with spices.",
+    "Pour in vegetable broth and coconut milk, bring to a boil.",
+    "Reduce heat, cover, and simmer for 35 minutes until barley is al dente.",
+    "Stir in a pinch of salt, adjust seasoning if needed.",
+    "Remove from heat, let rest 5 minutes covered.",
+    "Garnish with chopped cilantro and serve with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley",
+    "curry",
+    "german",
+    "low-sodium",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 13,
+    "carbs": 80,
+    "fat": 49
+  },
+  "slug": "jazzy-german-barley-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-german-barley-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:36:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Barley",
+    "descriptor": "Jazzy",
+    "dishForm": "Curry"
+  }
+}
