@@ -1,0 +1,94 @@
+{
+  "title": "Joyful Arabic Cauliflower Bowl",
+  "description": "A savory, light cauliflower bowl with creamy tahini hummus, fresh thyme, and roasted in a clay pot for a fragrant, keto-friendly meal.",
+  "cuisine": "Arabic",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower head",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and line an 8-inch clay pot with parchment paper.",
+    "Toss cauliflower florets in olive oil, salt, pepper, and chopped thyme, then spread in the clay pot.",
+    "Roast cauliflower in the preheated oven for 25 minutes until golden and tender.",
+    "While cauliflower roasts, combine tahini, lemon juice, minced garlic, and water in a bowl, whisking until smooth and creamy.",
+    "After roasting, transfer cauliflower to a serving bowl and top with the creamy hummus.",
+    "Drizzle a little extra olive oil over the bowl and garnish with fresh thyme leaves.",
+    "Serve immediately for a warm, aromatic dish.",
+    "Enjoy with optional side of fresh cucumber slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "clay-pot",
+    "hummus",
+    "keto-friendly",
+    "light-dish",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "joyful-arabic-cauliflower-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-arabic-cauliflower-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:53:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "fresh thyme",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Arabic",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Joyful",
+    "dishForm": "Bowl"
+  }
+}
