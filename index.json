@@ -2017,6 +2017,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-crispy-thai-oranges-boat-noodles",
+    "title": "Jubilant Crispy Thai Oranges Boat Noodles",
+    "tags": [
+      "boat-noodles",
+      "crispy",
+      "gluten-free",
+      "malty",
+      "thai-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-croatian-fideo-noodles",
     "title": "Jubilant Croatian Fideo Noodles",
     "tags": [
