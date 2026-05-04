@@ -1,0 +1,155 @@
+{
+  "title": "Jazzy Dutch Rice Pilaf",
+  "description": "A resinous, aerated pilaf dish made with Arabic rice, poached to perfection in a halal-friendly broth. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Dutch, Middle Eastern",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Arabic rice",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumbled sumac",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute.",
+    "Add the chicken broth, cumin, coriander, salt, and black pepper. Bring to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Add the Arabic rice and stir to coat with the broth. Cook for 5 minutes, or until the rice is lightly toasted.",
+    "Add 250ml of water and bring to a boil. Cover the saucepan with a tight-fitting lid and transfer to the oven.",
+    "Bake at 180°C for 20-25 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "While the rice is cooking, mix the pomegranate molasses, lemon juice, and chopped scallions in a small bowl. Stir to combine.",
+    "To serve, fluff the rice with a fork and stir in the pomegranate molasses mixture, pine nuts, chopped parsley, crumbled sumac, and chopped cilantro.",
+    "Garnish with pomegranate seeds and serve warm.",
+    "Let the pilaf rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Serve hot, garnished with additional sumac and pine nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "halal",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 10,
+    "carbs": 100,
+    "fat": 20
+  },
+  "slug": "jazzy-dutch-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-dutch-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "arabic rice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rice",
+    "descriptor": "jazzy",
+    "dishForm": "Pilaf"
+  }
+}
