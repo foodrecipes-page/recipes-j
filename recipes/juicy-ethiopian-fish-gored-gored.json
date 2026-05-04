@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Ethiopian Fish Gored Gored",
+  "description": "A briny, dense, indulgent Ethiopian dish that blends marinated cubed fish with oregano, lemon, and anti‑inflammatory aromatics, served in a rustic earthenware bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "2 lbs",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat.",
+    "Season the fish cubes with salt, pepper, oregano, ginger, garlic, and berbere.",
+    "Sear the fish in the skillet for 3 minutes on each side until golden and cooked through.",
+    "Add lemon juice and honey, stirring to coat the fish and develop a glaze.",
+    "Reduce heat to low and simmer for 4 minutes to allow flavors to meld.",
+    "Transfer the cooked fish to an earthenware bowl to keep the heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "briny",
+    "dense",
+    "earthenware",
+    "gored-gored"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "juicy-ethiopian-fish-gored-gored",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-ethiopian-fish-gored-gored",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:04:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "oregano",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Fish",
+    "descriptor": "Juicy",
+    "dishForm": "Gored Gored"
+  }
+}
