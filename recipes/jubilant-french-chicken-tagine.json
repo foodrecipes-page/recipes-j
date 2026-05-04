@@ -1,0 +1,106 @@
+{
+  "title": "Jubilant French Chicken Tagine",
+  "description": "A floral and aerated French dish featuring beer and cooked in a tagine style, perfect for a hangover cure, this recipe is sugar free friendly and made in a fondue pot. It combines the flavors of chicken, beer, and spices to create a delicious and comforting meal.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "any light colored beer"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the beer, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the chicken and sauce hot, garnished with fresh herbs if desired.",
+    "Cook the tagine for an additional 10 minutes if the sauce needs to thicken.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Jubilant French Chicken Tagine hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beer-cooking",
+    "chicken-recipes",
+    "french-cuisine",
+    "hangover-cure",
+    "sugar-free",
+    "tagine-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "jubilant-french-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-french-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:02:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "beer",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Jubilant Beer Braised",
+    "dishForm": "Tagine"
+  }
+}

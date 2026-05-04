@@ -627,6 +627,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-french-chicken-tagine",
+    "title": "Jubilant French Chicken Tagine",
+    "tags": [
+      "beer-cooking",
+      "chicken-recipes",
+      "french-cuisine",
+      "hangover-cure",
+      "sugar-free",
+      "tagine-recipes"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-greek-cheese-lasagna",
     "title": "Jubilant Greek Cheese Lasagna",
     "tags": [
@@ -781,6 +796,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-american-salmon-slider",
+    "title": "Juicy American Salmon Slider",
+    "tags": [
+      "finger-food",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "summer",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

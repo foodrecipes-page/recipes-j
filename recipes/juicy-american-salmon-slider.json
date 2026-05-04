@@ -1,0 +1,111 @@
+{
+  "title": "Juicy American Salmon Slider",
+  "description": "Savory and pillowy sliders featuring pan-seared salmon fillets, crispy slaw, and creamy sauce, all sandwiched between soft buns.",
+  "cuisine": "American",
+  "diet": [
+    "fish",
+    "gluten-free",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets (4)",
+      "amount": "6 oz each",
+      "notes": "Fresh salmon fillets, skin removed"
+    },
+    {
+      "name": "Sourdough buns (4)",
+      "amount": "1 bun each",
+      "notes": "Soft and slightly tangy buns"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": "For marinade and sauce"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "For sauce"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "For sauce"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1 tsp",
+      "notes": "For sauce"
+    },
+    {
+      "name": "Coleslaw mix",
+      "amount": "1 cup",
+      "notes": "Shredded cabbage and carrots"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together buttermilk, mayonnaise, Dijon mustard, hot sauce, salt, and black pepper to make the sauce.",
+    "Place the salmon fillets in a separate bowl and pour the buttermilk mixture over them. Let it marinate for at least 10 minutes.",
+    "Heat a large non-stick skillet over medium-high heat. Remove the salmon from the marinade, letting any excess liquid drip off.",
+    "Add 1-2 tbsp of oil to the skillet and sear the salmon for 3-4 minutes per side, or until cooked through.",
+    "While the salmon is cooking, toast the buns on the grill or in a toaster.",
+    "To assemble the sliders, place a cooked salmon fillet on each bun, followed by a dollop of coleslaw and a drizzle of the buttermilk sauce.",
+    "Top with the top bun and serve immediately.",
+    "Serve with additional sauce on the side for dipping, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "finger-food",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "juicy-american-salmon-slider",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-american-salmon-slider",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:02:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "salmon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "salmon",
+    "descriptor": "juicy",
+    "dishForm": "Slider"
+  }
+}
