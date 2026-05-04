@@ -1,0 +1,90 @@
+{
+  "title": "Juicy British Lamb Roast",
+  "description": "A traditional English dish featuring a fatty and flavorful lamb roast with rosemary, perfect for a special occasion. This recipe is satvik-friendly and uses a brine-dry method to enhance the flavor.",
+  "cuisine": "British",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb roast",
+      "amount": "2 pounds",
+      "notes": "preferably with a good layer of fat"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, mix together the olive oil, salt, black pepper, and garlic.",
+    "Rub the mixture all over the lamb roast, making sure to coat it evenly.",
+    "Place the lamb roast in a large roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "After 30 minutes of roasting, add the rosemary sprigs to the pan.",
+    "Baste the lamb with the pan juices every 20 minutes to keep it moist.",
+    "Once the lamb is cooked, remove it from the oven and let it rest for 10 minutes before slicing.",
+    "Drizzle the lemon juice over the lamb before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "english-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "roast-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 45
+  },
+  "slug": "juicy-british-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:37:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "rosemary",
+    "diet": "satvik",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy shaggy",
+    "dishForm": "Roast"
+  }
+}

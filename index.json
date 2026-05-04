@@ -1378,6 +1378,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-british-lamb-roast",
+    "title": "Juicy British Lamb Roast",
+    "tags": [
+      "english-cuisine",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "roast-dinner",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 150,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-brunch-norwegian-apple-salad",
     "title": "Juicy Brunch Norwegian Apple Salad",
     "tags": [
