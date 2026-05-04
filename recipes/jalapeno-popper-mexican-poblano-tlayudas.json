@@ -1,0 +1,124 @@
+{
+  "title": "Jalapeno Popper Mexican Poblano Tlayudas",
+  "description": "A spicy and savory Mexican dish featuring crispy bread rolls, gooey cheese, and a flavorful poblano sauce, perfect for energizing your day.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Whole30",
+    "Gluten-Free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poblano Peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tlayudas Bread Rolls",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the poblano peppers in the oven for 20-25 minutes, or until charred and blistered.",
+    "Peel the roasted poblanos and place them in a blender or food processor.",
+    "Add the sour cream, cilantro, garlic, cumin, chili powder, salt, and black pepper to the blender and blend until smooth.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced jalapenos and cook for 2-3 minutes, or until they start to soften.",
+    "Add the sliced bread rolls to the skillet and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "In a large bowl, combine the roasted poblanos, sour cream mixture, and Monterey Jack cheese.",
+    "Stir until the cheese is melted and the mixture is well combined.",
+    "Divide the mixture among the cooked bread rolls and top with additional cheese if desired.",
+    "Cover the tlayudas with aluminum foil and bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the foil and bake for an additional 5-10 minutes, or until the cheese is golden brown and the tlayudas are crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "mexican",
+    "one-pan",
+    "poblano",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 42
+  },
+  "slug": "jalapeno-popper-mexican-poblano-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeno-popper-mexican-poblano-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "bread rolls",
+    "diet": "whole30",
+    "region": "poblano",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "poblano",
+    "descriptor": "Jalapeno Popper",
+    "dishForm": "Tlayudas"
+  }
+}
