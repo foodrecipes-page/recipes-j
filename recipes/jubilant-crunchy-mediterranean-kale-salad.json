@@ -1,0 +1,115 @@
+{
+  "title": "Jubilant Crunchy Mediterranean Kale Salad",
+  "description": "A bitter yet comforting Mediterranean salad featuring crunchy kale, fresh veggies, feta, and a glossy peach glaze.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale, chopped",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "carrots, julienned",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "30g",
+      "notes": "low-lactose"
+    },
+    {
+      "name": "black olives, sliced",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "peach glaze",
+      "amount": "3 tbsp",
+      "notes": "made by reducing peach juice with olive oil, mustard, and vinegar"
+    }
+  ],
+  "instructions": [
+    "Wash and stem the kale, then chop into bite-size pieces.",
+    "Dice the cucumber, julienne the carrots, dice the red bell pepper, and halve the cherry tomatoes.",
+    "In a large bowl, combine the kale, cucumber, carrots, bell pepper, and tomatoes.",
+    "Add the pumpkin seeds, crumbled feta cheese, sliced olives, and chopped oregano to the bowl.",
+    "Season the salad with sea salt and black pepper, then gently toss to mix.",
+    "To make the peach glaze, whisk together 3 tbsp peach juice, 1 tbsp olive oil, 1 tsp Dijon mustard, and 1 tsp apple cider vinegar, then heat the mixture in a small saucepan over medium heat until it reduces to a glossy consistency.",
+    "Pour the hot glaze over the salad and toss until the leaves are evenly coated.",
+    "Serve immediately, or chill for 10 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kale",
+    "low-fodmap",
+    "mediterranean",
+    "peach-dressing",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 26,
+    "carbs": 46,
+    "fat": 45
+  },
+  "slug": "jubilant-crunchy-mediterranean-kale-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crunchy-mediterranean-kale-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:14:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "peach juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "kale",
+    "descriptor": "Jubilant Crunchy",
+    "dishForm": "Salad"
+  }
+}
