@@ -1,0 +1,114 @@
+{
+  "title": "Post-Workout Jamaican Sweet Potato Curry",
+  "description": "A malty, juicy, post-workout Jamaican dish featuring red-curry-paste, nimono-simmer, and Buddhist-temple-friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "15g",
+      "notes": "for vegan version use coconut oil"
+    },
+    {
+      "name": "2 teaspoons red curry paste",
+      "amount": "10g",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "5g",
+      "notes": "ground"
+    },
+    {
+      "name": "1 teaspoon turmeric",
+      "amount": "5g",
+      "notes": "ground"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "2 cups vegetable broth",
+      "amount": "475ml",
+      "notes": "you can also use coconut milk for creamier version"
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "15g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, sauté until onion is translucent.",
+    "Add curry paste, cumin, turmeric, salt, and pepper, stir for 1 minute.",
+    "Add sweet potatoes and stir to coat with spice mixture.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, or until sweet potatoes are tender.",
+    "Remove from heat and stir in chopped cilantro.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "post-workout",
+    "quick-meal",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "juicy-post-workout-jamaican-sweet-potato-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-post-workout-jamaican-sweet-potato-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T18:59:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "sweet potato",
+    "descriptor": "juicy post-workout",
+    "dishForm": "Curry"
+  }
+}
