@@ -1,0 +1,102 @@
+{
+  "title": "Jolly Snappy Russian Lemongrass Bake",
+  "description": "A satvik-friendly Russian dish featuring lemongrass, this bake is a herbal and snappy twist on traditional Russian cuisine, evoking nostalgic feelings with its unique flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Chop the lemongrass into 1-inch pieces and saute in oil until fragrant.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the mushrooms and cook until they release their moisture and start browning.",
+    "In a separate bowl, whisk together the vegetable broth, thyme, salt, and pepper.",
+    "Add the tofu to the bowl and stir to combine.",
+    "Add the tofu mixture to the sauteed lemongrass mixture and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 30 minutes.",
+    "Serve hot, garnished with fresh lemongrass."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "herbal",
+    "lemongrass",
+    "russian",
+    "satvik",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jolly-snappy-russian-lemongrass-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-snappy-russian-lemongrass-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:24:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "lemongrass",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "jolly snappy",
+    "dishForm": "Bake"
+  }
+}
