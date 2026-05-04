@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Moroccan Couscous Grill",
+  "description": "A yeasty, molten quick-fix Moroccan dish that marries couscous with spiced apples and dried fruit, all cooked on a raclette grill.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "50g, chopped"
+    },
+    {
+      "name": "raisins",
+      "amount": "30g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Place couscous in a heat-protect bowl and sprinkle with 1 tsp salt; add 200ml hot water, stir, cover, and let it steam for 5 minutes on the raclette grill.",
+    "While the couscous steams, heat 1 tbsp olive oil in a pan on the grill and sauté sliced apples with 1 tsp cumin, 1 tsp smoked paprika, and 0.5 tsp pepper until lightly browned.",
+    "Stir in 50g chopped apricots and 30g raisins and cook for another 2 minutes to allow flavors to meld.",
+    "Drain excess water from the couscous, fluff with a fork, and transfer to a large mixing bowl.",
+    "Add the apple-apricot mixture, 1 tbsp lemon juice, and 1 tsp coriander to the couscous and gently mix until evenly coated.",
+    "Drizzle the remaining 1 tbsp olive oil over the mixture and toss lightly to coat.",
+    "Transfer the combined couscous to a preheated raclette grill tray and press gently to create a flat surface.",
+    "Grill the couscous for 6-8 minutes, flipping once, until the top is golden and slightly crispy.",
+    "Remove from the grill, sprinkle with additional pepper if desired, and serve hot as a fragrant Moroccan dinner.",
+    "Garnish with fresh mint leaves if available for a bright finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "low-fat",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 827,
+    "protein": 11,
+    "carbs": 142,
+    "fat": 30
+  },
+  "slug": "juicy-moroccan-couscous-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-moroccan-couscous-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:08:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "apples",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Couscous",
+    "descriptor": "Juicy",
+    "dishForm": "Grill"
+  }
+}

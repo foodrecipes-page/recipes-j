@@ -532,6 +532,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-springy-kenyan-milk-pilaf",
+    "title": "Jubilant Springy Kenyan Milk Pilaf",
+    "tags": [
+      "comfort-food",
+      "halal-friendly",
+      "kenyan-cuisine",
+      "one-pot",
+      "spring-inspired"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-acai-smoothie",
     "title": "Juicy Açaí Smoothie",
     "tags": [
@@ -1431,6 +1445,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-moroccan-couscous-grill",
+    "title": "Juicy Moroccan Couscous Grill",
+    "tags": [
+      "halal",
+      "low-fat",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
