@@ -1,0 +1,98 @@
+{
+  "title": "Jazzy Golden Kenyan Sweet Potato Tagine",
+  "description": "Rich and snappy, this midnight-craving Kenyan dish features golden caster sugar and nimono-simmer, perfect for a vegan-friendly meal, served on a slate-tile vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with 1 tablespoon of vegetable oil, salt, and black pepper until they are evenly coated.",
+    "Spread the sweet potatoes on a baking sheet and roast in the oven for 20 minutes.",
+    "In a large pan, heat the remaining 1 tablespoon of vegetable oil over medium heat.",
+    "Add the chopped onion to the pan and cook until it is translucent.",
+    "Add the grated ginger, cumin, and coriander to the pan and cook for 1 minute.",
+    "Add the roasted sweet potatoes, golden caster sugar, and 1 cup of water to the pan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "kenyan",
+    "one-pot",
+    "sweet-potato",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jazzy-golden-kenyan-sweet-potato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-golden-kenyan-sweet-potato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:55:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "jazzy golden",
+    "dishForm": "Tagine"
+  }
+}
