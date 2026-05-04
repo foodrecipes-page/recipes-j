@@ -1,0 +1,113 @@
+{
+  "title": "Jarring Malty Syrian Lamb Tagine",
+  "description": "A hearty and flavorful Syrian dish featuring lamb, pickle, and low-glycemic-friendly ingredients, perfect for a hangover cure.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pound",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "Malty barley",
+      "amount": "1 cup",
+      "notes": "short-grain barley"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder pieces on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add more oil if necessary, then sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the cumin, coriander, cayenne pepper (if using), salt, and black pepper.",
+    "Return the lamb to the pot, add the malted barley, pickle juice, and enough water to cover the ingredients.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Uncover and continue to cook for another 30 minutes, or until the sauce has thickened and the lamb is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "lamb",
+    "low-glycemic-friendly",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 36
+  },
+  "slug": "jarring-malty-syrian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jarring-malty-syrian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:21:09Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "lamb",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Jarring Malty",
+    "dishForm": "Tagine"
+  }
+}
