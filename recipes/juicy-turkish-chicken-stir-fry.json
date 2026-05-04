@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Turkish Chicken Stir-fry",
+  "description": "Mustardy, tender stir‑fry with pickle‑juice glaze, perfect for meal‑prep and high‑protein Turkish flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "800g",
+      "notes": "diced into bite‑sized pieces"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium‑high heat until shimmering.",
+    "Add the minced garlic and grated ginger, sauté for 30 seconds until fragrant.",
+    "Toss in the diced chicken, season with salt and pepper, and cook until the edges start to brown, about 4–5 minutes.",
+    "Stir in the sliced onion, bell pepper, and zucchini, cooking for another 3 minutes until vegetables are crisp‑tender.",
+    "In a small bowl, whisk together pickle juice, Dijon mustard, and soy sauce until smooth.",
+    "Pour the sauce over the chicken and vegetables, stirring to coat evenly and simmer for 2–3 minutes until the sauce thickens slightly.",
+    "Remove from heat, taste and adjust seasoning if needed, and let the stir‑fry rest for 2 minutes before serving.",
+    "Divide the dish into four airtight containers for meal prep, storing in the fridge for up to 4 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "mustardy",
+    "su-boregi",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 136,
+    "protein": 16,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "juicy-turkish-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:16:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "pickle juice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}

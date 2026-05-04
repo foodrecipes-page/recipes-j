@@ -2506,6 +2506,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-turkish-chicken-stir-fry",
+    "title": "Juicy Turkish Chicken Stir-fry",
+    "tags": [
+      "high-protein",
+      "meal-prep",
+      "mustardy",
+      "su-boregi",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-turkish-chorizo-su-boregi",
     "title": "Juicy Turkish Chorizo Su Boregi",
     "tags": [
