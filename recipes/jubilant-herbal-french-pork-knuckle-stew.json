@@ -1,0 +1,115 @@
+{
+  "title": "Jubilant Herbal French Pork Knuckle Stew",
+  "description": "A fragrant, low-sodium stew featuring tender pork knuckle and fresh herbs, perfect for a hangover cure.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle, bone-in",
+      "amount": "1.5 kg",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "celery stalk, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C.",
+    "Season the pork knuckle with pepper and sear it in olive oil until browned on all sides.",
+    "Transfer the seared knuckle to a Dutch oven and add diced onion and minced garlic, cooking until onion is translucent.",
+    "Stir in sliced carrots and celery, and pour in white wine, scraping up any browned bits.",
+    "Add low-sodium chicken broth, thyme sprigs, bay leaf, and rosemary, and bring the mixture to a gentle simmer.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 1 hour 30 minutes until the meat is tender.",
+    "Remove the pot from the oven, take out the knuckle, and allow it to rest for 10 minutes before slicing.",
+    "Return the sliced pork to the pot, adjust seasoning with pepper if needed, and simmer uncovered for 15 minutes.",
+    "Stir in fresh parsley before serving, ensuring the stew is hot and fragrant.",
+    "Serve the stew hot, accompanied by crusty baguette or boiled potatoes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "hangover-cure",
+    "herbal",
+    "low-sodium",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "jubilant-herbal-french-pork-knuckle-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-herbal-french-pork-knuckle-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:39:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "pork knuckle",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pork Knuckle",
+    "descriptor": "Jubilant Herbal",
+    "dishForm": "Stew"
+  }
+}
