@@ -1,0 +1,94 @@
+{
+  "title": "Jelly Like Russian Beef Dumplings",
+  "description": "A traditional Russian dish featuring fatty and glassy-jelly like dumplings, made with five spice powder and served in a Korean brass bowl, this recipe is kid-friendly and ayurvedic-rajasic-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, chopped onion, five spice powder, salt, and black pepper, and mix until just combined.",
+    "In a separate bowl, whisk together the flour and egg.",
+    "Add the flour mixture to the beef mixture, and mix until a sticky dough forms.",
+    "Gradually add the water to the dough, and mix until the dough comes together and is smooth.",
+    "Knead the dough for 5 minutes, until it is elastic and shiny.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Bring a large pot of water to a boil, and cook the dumplings for 10-15 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon, and serve in a Korean brass bowl.",
+    "To achieve the jelly-like texture, cook the dumplings in the water for an additional 5 minutes, then remove and let cool.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dumplings",
+    "kid-friendly",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jelly-like-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:10:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "five spice powder",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "jelly like",
+    "dishForm": "Dumplings"
+  }
+}
