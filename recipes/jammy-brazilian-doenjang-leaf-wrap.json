@@ -1,0 +1,92 @@
+{
+  "title": "Jammy Brazilian Doenjang Leaf Wrap",
+  "description": "A jammy, silky, nostalgic Brazilian dish featuring doenjang, wrapped in leaves and steamed to perfection, served in an iron teppan.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat.",
+    "Mix doenjang, brown sugar, water, garlic, and ginger in a bowl until smooth.",
+    "Brush the coconut oil onto the collard green leaves.",
+    "Place 1-2 tablespoons of the doenjang mixture onto the center of each leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight package.",
+    "Place the leaf packages seam-side down onto the preheated teppan.",
+    "Cover the teppan with a lid and steam the leaf wraps for 10 minutes.",
+    "Serve the jammy Brazilian doenjang leaf wraps hot, garnished with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "doenjang-recipes",
+    "iron-teppan-recipes",
+    "kosher-friendly",
+    "leaf-wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "jammy-brazilian-doenjang-leaf-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-brazilian-doenjang-leaf-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:38:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "doenjang",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "doenjang",
+    "descriptor": "jammy juicy",
+    "dishForm": "Wrap"
+  }
+}

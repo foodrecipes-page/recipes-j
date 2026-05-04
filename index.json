@@ -206,6 +206,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-brazilian-doenjang-leaf-wrap",
+    "title": "Jammy Brazilian Doenjang Leaf Wrap",
+    "tags": [
+      "brazilian-cuisine",
+      "doenjang-recipes",
+      "iron-teppan-recipes",
+      "kosher-friendly",
+      "leaf-wrap-recipes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-jolted-korean-hazelnut-tteok",
     "title": "Jammy Jolted Korean Hazelnut Tteok",
     "tags": [
