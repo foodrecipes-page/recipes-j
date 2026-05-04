@@ -1435,6 +1435,21 @@
     "shard": "j"
   },
   {
+    "slug": "joyful-juicy-korean-foie-gras-soup",
+    "title": "Joyful Juicy Korean Foie Gras Soup",
+    "tags": [
+      "dashi",
+      "korean",
+      "lazy-sunday",
+      "luxury-dish",
+      "paleo-friendly",
+      "seafood"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "joyful-turkish-haddock-grill",
     "title": "Joyful Turkish Haddock Grill",
     "tags": [
@@ -1589,6 +1604,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 110,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-dutch-flour-pancakes",
+    "title": "Jubilant Dutch Flour Pancakes",
+    "tags": [
+      "breakfast",
+      "buttery",
+      "dolsot",
+      "dutch",
+      "fluffy",
+      "sichuan-pepper"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Joyful Juicy Korean Foie Gras Soup",
+  "description": "A silky, fermented Korean soup featuring foie gras infused with dashi and aromatic kelp, perfect for a lazy Sunday indulgence.",
+  "cuisine": "korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "200 g"
+    },
+    {
+      "name": "dashi extract powder",
+      "amount": "3 g"
+    },
+    {
+      "name": "sliced shiitake mushrooms",
+      "amount": "50 g"
+    },
+    {
+      "name": "sliced kelp",
+      "amount": "5 g"
+    },
+    {
+      "name": "sliced scallion",
+      "amount": "2 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 g"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 g"
+    }
+  ],
+  "instructions": [
+    "Heat 800 ml water with dashi powder, kelp, garlic, ginger, salt, and pepper until it comes to a gentle boil.",
+    "Reduce heat and simmer for 10 minutes to develop the broth.",
+    "Add the sliced shiitake mushrooms and scallions, cooking for an additional 3 minutes.",
+    "Gently fold in the foie gras pieces and simmer for 5 minutes until the foie gras is heated through.",
+    "Remove the pot from heat, stir in sesame oil, and sprinkle toasted sesame seeds over the surface.",
+    "Serve the soup hot, garnished with an extra pinch of pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dashi",
+    "korean",
+    "lazy-sunday",
+    "luxury-dish",
+    "paleo-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 75
+  },
+  "slug": "joyful-juicy-korean-foie-gras-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-juicy-korean-foie-gras-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:03:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "foie-gras",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Foie Gras",
+    "descriptor": "Joyful Juicy",
+    "dishForm": "Soup"
+  }
+}
