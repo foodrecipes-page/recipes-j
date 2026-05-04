@@ -1,0 +1,120 @@
+{
+  "title": "Jammy Moroccan Flour Bake",
+  "description": "A comforting, flavorful bake perfect for brunch with a rich jammy topping and a crunchy bonito topping",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Wholemeal flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Bakery-quality jam",
+      "amount": "150g",
+      "notes": "use your favorite flavor, such as apricot or orange marmalade"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "100g",
+      "notes": "plain, full-fat yogurt is best"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "softened is best"
+    },
+    {
+      "name": "Beaten egg for egg wash",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "25g",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix together the wholemeal flour, sugar, cinnamon, cardamom and salt in a large bowl.",
+    "Add the unsalted butter and mix until the mixture resembles coarse breadcrumbs.",
+    "Press the mixture into the bottom of a greased, 20cm (8in) round cake pan.",
+    "In a separate bowl, whisk together the Greek yogurt and bakery-quality jam until smooth.",
+    "Pour the yogurt mixture over the flour mixture in the cake pan and smooth the top.",
+    "Bake in the preheated oven for 35 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the cake from the oven and brush the beaten egg over the top for a golden glaze.",
+    "Return the cake to the oven and bake for an additional 5-7 minutes, or until the egg is golden brown.",
+    "Remove the cake from the oven and sprinkle the bonito flakes over the top.",
+    "Let the cake cool in the pan for 10 minutes before slicing and serving.",
+    "Slice the cake into 8-10 servings and serve warm, topped with additional bakery-quality jam if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-cake",
+    "brunch",
+    "easy-to-make",
+    "high-carb",
+    "moroccan",
+    "moroccan-breakfast",
+    "moroccan-flour-bake",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 70,
+    "fat": 16
+  },
+  "slug": "jammy-moroccan-flour-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-moroccan-flour-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Flour",
+    "descriptor": "Jammy",
+    "dishForm": "Bake"
+  }
+}

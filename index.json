@@ -502,6 +502,23 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-moroccan-flour-bake",
+    "title": "Jammy Moroccan Flour Bake",
+    "tags": [
+      "breakfast-cake",
+      "brunch",
+      "easy-to-make",
+      "high-carb",
+      "moroccan",
+      "moroccan-breakfast",
+      "moroccan-flour-bake",
+      "one-pan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-moroccan-morbier-tagine",
     "title": "Jammy Moroccan Morbier Tagine",
     "tags": [
