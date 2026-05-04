@@ -1,0 +1,101 @@
+{
+  "title": "Jovial Tender Kenyan Farfalle Pasta",
+  "description": "A pungent and tender one-pot Kenyan dish featuring farfalle pasta, cooked with binchotan-charcoal for a smoky flavor, and suitable for flexitarian diets. This recipe combines the richness of Kenyan spices with the simplicity of Italian farfalle.",
+  "cuisine": "Kenyan-Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces",
+      "notes": "for smoking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large one-pot skillet over medium heat, adding the binchotan charcoal for smoking.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cooking for an additional minute.",
+    "Add the farfalle pasta, Kenyan curry powder, salt, and black pepper, stirring to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the pasta is tender, about 15 minutes.",
+    "Remove the binchotan charcoal and stir the pasta to combine.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "flexitarian-friendly",
+    "kenyan-cuisine",
+    "one-pot",
+    "pasta-dish",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jovial-tender-kenyan-farfalle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-tender-kenyan-farfalle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:03:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "farfalle",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "farfalle",
+    "descriptor": "jovial tender",
+    "dishForm": "Pasta"
+  }
+}
