@@ -1095,6 +1095,17 @@
     "shard": "j"
   },
   {
+    "slug": "joyful-croatian-grain-risotto",
+    "title": "Joyful Croatian Grain Risotto",
+    "tags": [
+      "croatian",
+      "lunch"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "joyful-irish-tomato-soup",
     "title": "Joyful Irish Tomato Soup",
     "tags": [

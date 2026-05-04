@@ -1,0 +1,106 @@
+{
+  "title": "Joyful Croatian Grain Risotto",
+  "description": "A buttery, fluffy risotto with mixed grains and fresh scallop, finished al dente and energizing for lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed grains",
+      "amount": "200g",
+      "notes": "brown rice, barley, millet, lentils"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml",
+      "notes": "low-sodium, warmed"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "120ml"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "spinach",
+      "amount": "100g"
+    },
+    {
+      "name": "scallop",
+      "amount": "100g",
+      "notes": "cleaned and patted dry"
+    }
+  ],
+  "instructions": [
+    "In a saucepan heat olive oil over medium, add shallot and cook until translucent.",
+    "Stir in garlic and sauté for 30 seconds.",
+    "Add mixed grains, stir to coat, and toast for 2 minutes.",
+    "Deglaze with white wine, stirring until absorbed.",
+    "Begin adding warm broth one ladle at a time, stirring continuously until each addition is absorbed.",
+    "When grains are al dente and creamy (about 20 minutes), stir in butter, lemon zest, lemon juice, and spinach, letting spinach wilt.",
+    "Fold in grated parmesan and season with salt and pepper.",
+    "Remove from heat, add the scallop and let it steam in residual heat for 2 minutes.",
+    "Serve immediately in a scallop-shell vessel, garnishing with fresh parsley if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "croatian",
+    "lunch"
+  ],
+  "slug": "joyful-croatian-grain-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-croatian-grain-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:36:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mixed grain",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "grain",
+    "descriptor": "Joyful",
+    "dishForm": "Risotto"
+  }
+}
