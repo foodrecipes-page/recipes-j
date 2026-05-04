@@ -1,0 +1,90 @@
+{
+  "title": "Jubilant Australian Marshmallow Pudding",
+  "description": "A dense and festive Australian dessert featuring miniature marshmallows, perfect for special occasions. This lacto-vegetarian-friendly treat is made with yeast and dehydrated ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lactose-free milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, sugar, and salt.",
+    "In a separate bowl, whisk together the oil, vanilla extract, and lactose-free milk.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Fold in the dehydrated miniature marshmallows.",
+    "Transfer the dough to a Talavera plate and bake for 25 minutes.",
+    "Remove the pudding from the oven and let it cool for 10 minutes.",
+    "Serve the Jubilant Australian Marshmallow Pudding warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dessert",
+    "festive",
+    "lacto-vegetarian",
+    "special-occasion",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-australian-marshmallow-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-australian-marshmallow-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:58:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "marshmallows",
+    "descriptor": "Jubilant Yeasty",
+    "dishForm": "Pudding"
+  }
+}
