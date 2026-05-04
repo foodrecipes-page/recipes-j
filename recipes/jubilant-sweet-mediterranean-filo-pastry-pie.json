@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Sweet Mediterranean Filo Pastry Pie",
+  "description": "A sweet and savory Mediterranean dish featuring filo pastry, with a hint of mustard and a bouncy texture, perfect for a cozy evening, this pie is filled with candy and Mediterranean-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the filo pastry and cut it into large squares.",
+    "In a bowl, mix together the honey, mustard, and olive oil.",
+    "Brush the honey mixture onto the filo pastry squares.",
+    "Sprinkle the chopped candy, crumbly feta cheese, salt, and pepper onto the pastry squares.",
+    "Fold the pastry squares into triangles and press the edges together to seal.",
+    "Brush the tops of the pastry triangles with olive oil and sprinkle with sesame seeds.",
+    "Place the pastry triangles on a baking sheet lined with parchment paper.",
+    "Bake the pastry triangles in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "candy-filled",
+    "filo-pastry",
+    "honey-based",
+    "mediterranean-dish",
+    "sweet-pastry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "jubilant-sweet-mediterranean-filo-pastry-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-sweet-mediterranean-filo-pastry-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:16:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "filo pastry",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Jubilant Sweet",
+    "dishForm": "Pie"
+  }
+}
