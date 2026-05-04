@@ -1,0 +1,117 @@
+{
+  "title": "Juicy Flaky Crispy Mediterranean Penne Pasta",
+  "description": "A delicious and comforting mediterranean-inspired pasta dish featuring penne pasta, topped with a crispy and flaky mantecare-emulsified sauce, perfect for a sick-day meal or a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare (Mascarpone Cream)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 tbsp chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tbsp chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the penne pasta in a large pot of boiling salted water until al dente. Reserve 1 cup of pasta water before draining. ",
+    "In a large skillet, heat the olive oil over medium heat and sauté the minced garlic for 1 minute until fragrant. ",
+    "Stir in the Greek yogurt, mascarpone cream, and lemon juice. Bring the mixture to a simmer and cook for 2-3 minutes until it thickens slightly. ",
+    "Stir in the chopped oregano and parsley. Season with salt and black pepper to taste. ",
+    "Add the cooked penne pasta to the skillet and toss with the sauce, adding some reserved pasta water if needed. ",
+    "Transfer the pasta to a serving dish and top with crumbled feta cheese and red pepper flakes if using. ",
+    "Garnish with additional parsley and serve immediately. ",
+    "Serve hot and enjoy! "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "juicy-flaky-crispy-mediterranean-penne-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-crispy-mediterranean-penne-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "penne pasta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Penne Pasta",
+    "descriptor": "Juicy Flaky Crispy",
+    "dishForm": "Pasta"
+  }
+}

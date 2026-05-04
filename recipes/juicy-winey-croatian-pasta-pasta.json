@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Winey Croatian Pasta Pasta",
+  "description": "A rich and comforting dish featuring sesame butter, pasta-water emulsion, and a hint of Croatian flair, perfect for a sick day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook spaghetti in boiling salted water until al dente.",
+    "In a large saucepan, combine sesame butter and white wine over medium heat, whisking until smooth.",
+    "Add chicken broth, heavy cream, and grated ginger to the saucepan, whisking until smooth.",
+    "Bring saucepan mixture to a simmer and cook for 5 minutes.",
+    "Stir in parmesan cheese until melted.",
+    "In a large bowl, whisk together eggs and a pinch of salt until well combined.",
+    "Add cooked spaghetti to the bowl with eggs and toss until coated.",
+    "Add saucepan mixture to the bowl with spaghetti and eggs, tossing until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "If desired, add additional grated ginger or parmesan cheese on top of each serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "low-carb",
+    "one-pan",
+    "rich",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 37
+  },
+  "slug": "juicy-winey-croatian-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-winey-croatian-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:14:58Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sesame butter",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "pasta",
+    "descriptor": "juicy winey",
+    "dishForm": "pasta"
+  }
+}

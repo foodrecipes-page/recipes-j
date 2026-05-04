@@ -3480,6 +3480,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-flaky-crispy-mediterranean-penne-pasta-pasta",
+    "title": "Juicy Flaky Crispy Mediterranean Penne Pasta",
+    "tags": [
+      "comfort-food",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-flaky-german-pork-dumplings",
     "title": "Juicy Flaky German Pork Dumplings",
     "tags": [
@@ -5249,6 +5263,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-winey-croatian-pasta-pasta",
+    "title": "Juicy Winey Croatian Pasta Pasta",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "low-carb",
+      "one-pan",
+      "rich",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
