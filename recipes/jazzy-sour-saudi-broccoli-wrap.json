@@ -1,0 +1,110 @@
+{
+  "title": "Jazzy Sour Saudi Broccoli Wrap",
+  "description": "A bright, low-sodium wrap bursting with sour citrus, earthy spices, and crunchy purple broccoli, perfect for a quick energizing meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "200g",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crushed roasted chickpeas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces (120g total)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss broccoli with olive oil, a pinch of salt, and pepper; spread on a baking sheet.",
+    "Roast broccoli for 12–15 minutes until edges are crisp.",
+    "While broccoli roasts, lightly toast pita slices over medium heat for 1–2 minutes on each side until warm.",
+    "Whisk together lemon juice, low-sodium soy sauce, sumac, cumin, coriander, and pomegranate molasses in a bowl.",
+    "Place roasted broccoli evenly on each pita.",
+    "Drizzle the sauce over the broccoli, then top with mint, parsley, and crushed chickpeas.",
+    "Fold the pita into a wrap shape and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-sodium",
+    "middle-east",
+    "quick",
+    "sour",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "jazzy-sour-saudi-broccoli-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-sour-saudi-broccoli-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:48:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Jazzy Sour",
+    "dishForm": "Wrap"
+  }
+}
