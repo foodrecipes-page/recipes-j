@@ -1,0 +1,87 @@
+{
+  "title": "Kenyan Passion Fruit Pudding",
+  "description": "A buttery and glassy jelly like Kenyan dish featuring passion fruit pulp, perfect for a sick day, made using papillote and ovo vegetarian friendly ingredients. This dessert is a classic Kenyan treat that is easy to make and fun to eat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "passion fruit pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the passion fruit pulp, sugar, and 1 cup of water, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the sugar has dissolved and the mixture has reduced slightly.",
+    "Remove the saucepan from the heat and stir in the softened gelatin until it is fully dissolved.",
+    "Add the butter, beaten eggs, and vanilla extract to the saucepan, and stir until the mixture is smooth and creamy.",
+    "Pour the mixture into small individual serving cups or a large serving dish, and refrigerate for at least 2 hours, or until set.",
+    "Serve the pudding chilled, garnished with additional passion fruit pulp if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "kenyan-desserts",
+    "passion-fruit",
+    "pudding",
+    "sick-day",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "jelly-like-kenyan-passion-fruit-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-kenyan-passion-fruit-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:30:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "passion fruit",
+    "descriptor": "jelly like",
+    "dishForm": "Pudding"
+  }
+}
