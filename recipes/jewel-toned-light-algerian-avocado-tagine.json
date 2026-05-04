@@ -1,0 +1,99 @@
+{
+  "title": "Jewel Toned Light Algerian Avocado Tagine",
+  "description": "A citrusy and cozy Algerian dish featuring avocado, with a focus on ayurvedic and sattvic friendly ingredients, cooked in an agave leaf vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1",
+      "notes": "for vessel"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the avocado into large chunks and set aside.",
+    "In a small bowl, whisk together the olive oil, lemon juice, ginger, cumin, paprika, salt, and black pepper.",
+    "Place the agave leaf in a large baking dish and brush the inside with the olive oil mixture.",
+    "Arrange the avocado chunks in the center of the agave leaf.",
+    "Pour the remaining olive oil mixture over the avocado.",
+    "Fold the agave leaf over the avocado to create a packet.",
+    "Bake for 25 minutes or until the avocado is tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jewel-toned-light-algerian-avocado-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-light-algerian-avocado-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:58:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "avocado",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "avocado",
+    "descriptor": "jewel toned light",
+    "dishForm": "Tagine"
+  }
+}
