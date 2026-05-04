@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Savory Kenyan Beef Stew",
+  "description": "A hearty and energizing Kenyan dish featuring ground cardamom and kombu-cold-extract, with a salty and cheese-pull flavor profile. This high-protein-friendly stew is perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the ground cardamom and cook for 1 minute.",
+    "Add the kombu-cold-extract, beef broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the shredded cheddar cheese until it is melted and the stew is heated through.",
+    "Serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "jagged-savory-kenyan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-savory-kenyan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:57:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ground cardomom",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "Jagged Savory",
+    "dishForm": "Stew"
+  }
+}

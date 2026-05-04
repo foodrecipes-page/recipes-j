@@ -137,6 +137,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-savory-kenyan-beef-stew",
+    "title": "Jagged Savory Kenyan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-smoky-chinese-tofu-noodles",
     "title": "Jagged Smoky Chinese Tofu Noodles",
     "tags": [
