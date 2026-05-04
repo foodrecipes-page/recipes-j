@@ -47,6 +47,19 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-korean-duck-stir-fry",
+    "title": "Jagged Korean Duck Stir-fry",
+    "tags": [
+      "korean",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peppery-canadian-potato-hash",
     "title": "Jagged Peppery Canadian Potato Hash",
     "tags": [
@@ -142,6 +155,22 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-jolted-korean-hazelnut-tteok",
+    "title": "Jammy Jolted Korean Hazelnut Tteok",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "hazelnut",
+      "korean-food",
+      "snack",
+      "tteok",
+      "whole30"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
