@@ -1,0 +1,99 @@
+{
+  "title": "Jolly Bouncy Canadian Elderflower Grill",
+  "description": "A playful, herb-infused grilled tofu dish featuring fragrant elderflower buds, perfect for kids and satvik-friendly families.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh elderflower buds",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to medium-high heat.",
+    "In a bowl combine tofu cubes, elderflower buds, mint, rosemary, thyme, lemon zest, and lemon juice.",
+    "Drizzle olive oil over the mixture and toss gently until coated.",
+    "Sprinkle with sea salt and pepper, mixing again.",
+    "Place the tofu mixture onto the grill grates, using a grill pan if needed.",
+    "Grill for 3 minutes on each side, until lightly charred and heated through.",
+    "Remove from grill and let rest for 2 minutes.",
+    "Serve warm with a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy",
+    "canadian",
+    "grill",
+    "herbal",
+    "kid-friendly",
+    "satvik"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 13,
+    "carbs": 8,
+    "fat": 21
+  },
+  "slug": "jolly-bouncy-canadian-elderflower-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-bouncy-canadian-elderflower-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:02:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "elderflower",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "elderflower",
+    "descriptor": "Jolly Bouncy",
+    "dishForm": "Grill"
+  }
+}
