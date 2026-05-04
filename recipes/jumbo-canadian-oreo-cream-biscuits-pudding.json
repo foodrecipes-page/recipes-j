@@ -1,0 +1,87 @@
+{
+  "title": "Jumbo Canadian Oreo Cream Biscuits Pudding",
+  "description": "A rich and dense dessert featuring crushed oreo cream biscuits, perfect for a cozy monsoon evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "low-fat-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups milk",
+      "amount": "2% or lower"
+    },
+    {
+      "name": "1/4 cup sugar",
+      "notes": "or to taste"
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "notes": "to thicken"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup crushed Oreo cream biscuits",
+      "notes": "for the biscuit topping"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "notes": "melted"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, sugar, cornstarch, and salt. Cook over medium heat, whisking constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Stir in the melted butter and vanilla extract, if using.",
+    "Let the pudding cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, top the pudding with the crushed Oreo cream biscuits.",
+    "Serve chilled and enjoy!",
+    "If desired, garnish with additional crushed biscuits or whipped cream.",
+    "Note: You can also make this pudding in individual cups or ramekins for a fun presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "dessert",
+    "low-fat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "jumbo-canadian-oreo-cream-biscuits-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-canadian-oreo-cream-biscuits-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:33:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "oreo cream biscuits",
+    "descriptor": "Jumbo",
+    "dishForm": "Pudding"
+  }
+}
