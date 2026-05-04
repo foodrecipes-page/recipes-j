@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Silky American Banana Skillet",
+  "description": "A silky, one-pot American dish featuring dehydrated bananas, perfect for a rajasic-friendly meal. This recipe combines the natural sweetness of bananas with the warmth of spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4 large",
+      "notes": "dehydrated overnight"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat, adding the coconut oil and ghee to melt.",
+    "Add the ground cinnamon, ground ginger, and turmeric powder to the skillet, stirring for 1 minute to combine.",
+    "Add the dehydrated bananas to the skillet, stirring gently to coat with the spice mixture.",
+    "Cook the banana mixture for 5 minutes, stirring occasionally, until the bananas start to soften.",
+    "Add the honey and almond milk to the skillet, stirring to combine, and cook for an additional 2 minutes.",
+    "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally, until the liquid has thickened and the bananas are silky.",
+    "Taste and adjust the sweetness and spice level as needed.",
+    "Serve the skillet warm, topped with chopped walnuts if desired.",
+    "Let the skillet cool slightly before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-style",
+    "breakfast-ideas",
+    "gluten-free",
+    "healthy-snacks",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-silky-american-banana-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-silky-american-banana-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:34:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "bananas",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bananas",
+    "descriptor": "jubilant silky",
+    "dishForm": "Skillet"
+  }
+}
