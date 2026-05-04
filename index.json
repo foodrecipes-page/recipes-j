@@ -788,6 +788,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-spanish-rice-paella",
+    "title": "Jazzy Spanish Rice Paella",
+    "tags": [
+      "andesan",
+      "low-calorie",
+      "one-pot",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-syrian-dates-wrap",
     "title": "Jazzy Syrian Dates Wrap",
     "tags": [
@@ -3394,6 +3408,22 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-russian-bread-toast",
+    "title": "Juicy Russian Bread Toast",
+    "tags": [
+      "kid-friendly",
+      "plant-based",
+      "russian-cuisine",
+      "snack-time",
+      "toasted-bread",
+      "vegan-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {

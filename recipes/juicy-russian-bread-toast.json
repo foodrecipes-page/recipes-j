@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Russian Bread Toast",
+  "description": "A kid-friendly Russian dish featuring toasted bread topped with a plant-based mixture of sauerkraut and vegetables, perfect for a quick snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russian black bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the Russian black bread into 1-inch thick slices and toast until lightly browned.",
+    "In a large bowl, mix together the sauerkraut, carrots, onions, vegan mayonnaise, dill, salt, and black pepper.",
+    "Brush the toasted bread slices with olive oil.",
+    "Top each toasted bread slice with a spoonful of the sauerkraut mixture.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Reheat the toast in the oven at 300 degrees Fahrenheit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "plant-based",
+    "russian-cuisine",
+    "snack-time",
+    "toasted-bread",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "juicy-russian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-russian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:07:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "brine-dry",
+    "primaryIngredient": "toast",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread",
+    "descriptor": "juicy tender",
+    "dishForm": "Toast"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Jazzy Spanish Rice Paella",
+  "description": "A light Andalusian black rice paella with a malty kick, crisp texture, Szechuan peppercorn heat, and a nimono-inspired gentle simmer.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black rice",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 2 tbsp warm water"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried seaweed strips",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 stalk",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a deep pan over medium heat.",
+    "Add black rice and toast until lightly golden and fragrant.",
+    "Stir in Szechuan peppercorns and sauté for 30 seconds.",
+    "Add tomato puree and smoked paprika, cooking until the mixture coats the rice.",
+    "Pour in vegetable broth and add the saffron infusion, stirring to combine.",
+    "Bring the liquid to a gentle boil, then reduce heat to low and cover the pan.",
+    "Simmer the rice for about 25 minutes, checking for tenderness and absorbing liquid.",
+    "Fold in sliced shiitake mushrooms and seaweed strips, allowing them to heat through.",
+    "Season with soy sauce, rice vinegar, salt, and black pepper, mixing well.",
+    "Squeeze fresh lemon juice over the rice and scatter thinly sliced scallions on top.",
+    "Remove from heat, let the paella rest for 5 minutes, then serve warm.",
+    "Enjoy the jazzy flavor explosion of this low-calorie Andalusian paella."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andesan",
+    "low-calorie",
+    "one-pot",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "jazzy-spanish-rice-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-spanish-rice-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:06:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "low-calorie",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Jazzy",
+    "dishForm": "Paella"
+  }
+}
