@@ -1,0 +1,103 @@
+{
+  "title": "Jazzy Korean Sausage Bowl",
+  "description": "A festive, umami-packed bowl that blends smoky Korean pork sausage, tender spinach, and savory bonito flakes for a springy, satisfying lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean pork sausage",
+      "amount": "200g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Short-grain cooked rice",
+      "amount": "200g",
+      "notes": "1 cup, pre-cooked"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "70g",
+      "notes": "2 cups"
+    },
+    {
+      "name": "Scallions",
+      "amount": "10g",
+      "notes": "2 stalks, sliced"
+    },
+    {
+      "name": "Gochujang sauce",
+      "amount": "30g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "15g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "5g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "5g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "5g",
+      "notes": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil the pre-cooked rice according to package instructions if not already cooked, or reheat until steaming.",
+    "Cut the Korean pork sausage into bite-sized pieces and sear them in a hot skillet until browned and cooked through, about 5 minutes.",
+    "Toss the spinach in the same skillet for 1 minute until just wilted, then remove and set aside.",
+    "In a small bowl, whisk together gochujang, soy sauce, and a splash of sesame oil to make the sauce.",
+    "Assemble the bowl by placing a generous scoop of rice at the bottom, then topping with the cooked sausage and wilted spinach.",
+    "Drizzle the sauce over the ingredients, then sprinkle with sliced scallions, bonito flakes, and sesame seeds.",
+    "Gently stir the bowl to combine flavors, keeping the sausage pieces intact for a springy bite.",
+    "Serve immediately, optionally adding a raw egg yolk on top for extra richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento",
+    "high-protein",
+    "korean",
+    "quick",
+    "sausage",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "jazzy-korean-sausage-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-korean-sausage-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:05:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sausages",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Sausage",
+    "descriptor": "Jazzy",
+    "dishForm": "Bowl"
+  }
+}
