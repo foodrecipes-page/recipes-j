@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Slovakian Cheese Bake",
+  "description": "A traditional Slovakian dish featuring fermented cheese and shortcrust pastry, wrapped in a ti leaf and baked to perfection, this ovo-vegetarian friendly recipe is a delight to indulge in. It combines the richness of cheese with the crunch of pastry and the unique flavor of fermented ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "fermented cheese",
+      "amount": "1 cup",
+      "notes": "such as feta or goat cheese"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the fermented cheese, eggs, sour cream, chopped fresh dill, salt, and black pepper until well combined.",
+    "Place the cheese mixture in the center of the pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with a little water.",
+    "Fold the pastry over the cheese mixture, pressing the edges to seal.",
+    "Wrap the pastry in a ti leaf, making sure to cover it completely.",
+    "Place the wrapped pastry on a baking sheet lined with parchment paper.",
+    "Bake for 35 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "comfort-food",
+    "ovo-vegetarian",
+    "slovakian",
+    "ti-leaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jubilant-slovakian-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-slovakian-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:45:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "jubilant indulgent",
+    "dishForm": "Bake"
+  }
+}
