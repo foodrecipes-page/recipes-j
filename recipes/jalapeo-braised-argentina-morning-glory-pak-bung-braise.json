@@ -1,0 +1,98 @@
+{
+  "title": "Jalapeño Braised Morning-Glory-Pak-Bung Braise",
+  "description": "A light and savory Argentine dish featuring morning-glory-pak-bung, perfect for a quick-fix meal. This flexitarian-friendly recipe is a great way to enjoy a delicious meal in no time.",
+  "cuisine": "Argentine",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morning-glory-pak-bung",
+      "amount": "2 lbs",
+      "notes": "trimmed and cleaned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "jalapeño peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in an earthenware bowl over medium heat.",
+    "Sauté chopped onion and garlic until softened.",
+    "Add sliced jalapeño peppers and cook for an additional 2 minutes.",
+    "Add trimmed morning-glory-pak-bung and cook until lightly browned.",
+    "Add white wine, chicken broth, tomato paste, and thyme. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven at 300°F (150°C) for 25 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "flexitarian",
+    "morning-glory-pak-bung",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "jalapeo-braised-argentina-morning-glory-pak-bung-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeo-braised-argentina-morning-glory-pak-bung-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentina",
+    "mainIngredient": "morning-glory-pak-bung",
+    "descriptor": "Jalapeo Braised",
+    "dishForm": "Braise"
+  }
+}

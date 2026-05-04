@@ -353,6 +353,19 @@
     "shard": "j"
   },
   {
+    "slug": "jalapeo-braised-argentina-morning-glory-pak-bung-braise",
+    "title": "Jalapeño Braised Morning-Glory-Pak-Bung Braise",
+    "tags": [
+      "argentine",
+      "flexitarian",
+      "morning-glory-pak-bung",
+      "quick-fix"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jamaican-jerk-cheese-casserole",
     "title": "Jamaican Jerk Cheese Casserole",
     "tags": [
@@ -4461,6 +4474,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani",
+    "title": "Juicy Pungent Brazilian Vegetables Biryani",
+    "tags": [
+      "brazilian",
+      "high-carb",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {
