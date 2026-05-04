@@ -1667,6 +1667,17 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-norwegian-cod-broth",
+    "title": "Jubilant Norwegian Cod Broth",
+    "tags": [
+      "norwegian",
+      "lunch"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-polish-basil-tagine",
     "title": "Jubilant Polish Basil Tagine",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Jubilant Norwegian Cod Broth",
+  "description": "A floral glassy broth with a hint of annatto, perfect for a sick day and diabetic‑friendly diet.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "500 g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 L",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "1 tsp",
+      "notes": "for color and mild flavor"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "500 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar substitute (stevia)",
+      "amount": "1/8 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Dice the onion and mince the garlic and grate the ginger.",
+    "Heat a pot over medium heat and add a splash of oil, then sauté the onion, garlic, ginger, and ground annatto for 3 minutes until fragrant.",
+    "Pour in the fish stock, water, sea salt, pepper, and sugar substitute, and bring to a gentle simmer.",
+    "Add the cod fillets and let the broth simmer for 6 minutes until the fish is cooked through.",
+    "Stir in fresh dill and lemon juice, then reduce heat to low and allow the broth to rest for 2 minutes.",
+    "Strain the broth through a fine sieve to remove solids, creating a clear glassy consistency.",
+    "Serve the broth warm, garnished with a sprinkle of dill, and enjoy the floral aroma."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "lunch"
+  ],
+  "slug": "jubilant-norwegian-cod-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-norwegian-cod-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:37:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "ground annatto",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "Jubilant",
+    "dishForm": "Broth"
+  }
+}
