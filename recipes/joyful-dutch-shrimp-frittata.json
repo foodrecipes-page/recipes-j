@@ -1,0 +1,108 @@
+{
+  "title": "Joyful Dutch Shrimp Frittata",
+  "description": "A fluffy, romantic frittata that balances umami shrimp stock with creamy eggs and a touch of Dutch flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large eggs"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup heavy cream"
+    },
+    {
+      "name": "shredded gouda cheese",
+      "amount": "1 cup shredded gouda cheese"
+    },
+    {
+      "name": "browned butter",
+      "amount": "1/4 cup browned butter"
+    },
+    {
+      "name": "dried shrimp stock powder",
+      "amount": "2 tbsp dried shrimp stock powder"
+    },
+    {
+      "name": "spinach",
+      "amount": "1/2 cup chopped spinach"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup diced red onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced garlic"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp smoked paprika"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp freshly ground black pepper"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp chopped fresh parsley",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Whisk eggs, heavy cream, sea salt, black pepper, and dried shrimp stock powder until smooth.",
+    "In a skillet, melt the browned butter over medium heat and sauté the diced red onion and minced garlic until translucent.",
+    "Add the chopped spinach to the skillet and cook until wilted, then remove from heat.",
+    "Stir the sautéed mixture into the egg mixture and fold in shredded gouda cheese and smoked paprika.",
+    "Pour the filling into a greased 9-inch pie dish or oven-safe skillet.",
+    "Bake for 12-15 minutes until the frittata is set and the top is lightly golden.",
+    "Let cool for a few minutes, garnish with fresh parsley, slice, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "fluffy",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 47
+  },
+  "slug": "joyful-dutch-shrimp-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-dutch-shrimp-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:13:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "shrimp stock",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "shrimp",
+    "descriptor": "Joyful",
+    "dishForm": "Frittata"
+  }
+}
