@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Slovakian Cheese Pie",
+  "description": "A fermented, gooey midnight craving cheese pie with puff pastry and double-fry, balanced for macrobiotic-friendly snacking.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet (120g)",
+      "notes": "thawed"
+    },
+    {
+      "name": "fermented cheddar cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh mozzarella",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "240ml"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Heat oil in a skillet to 150°C and fry puff pastry squares for 2 minutes.",
+    "Increase oil temperature to 180°C, fry squares another 2 minutes, then drain on paper towels.",
+    "In a bowl combine shredded cheeses, oat milk, soy sauce, vinegar, sugar, pepper, and oregano.",
+    "Place the cheese mixture onto the fried pastry squares, leaving a 2 cm border.",
+    "Fold the edges over the filling and seal the seams.",
+    "Bake the assembled pies for 15 minutes until golden brown.",
+    "Slice and serve warm as a midnight craving treat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "double-fry",
+    "macrobiotic-friendly",
+    "midnight-craving",
+    "puff-pastry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 18,
+    "carbs": 21,
+    "fat": 22
+  },
+  "slug": "jubilant-slovakian-cheese-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-slovakian-cheese-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:18:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "puff pastry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Jubilant",
+    "dishForm": "Pie"
+  }
+}
