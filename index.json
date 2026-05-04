@@ -292,6 +292,17 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-french-olive-broth",
+    "title": "Jazzy French Olive Broth",
+    "tags": [
+      "french",
+      "lunch"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-greek-rice-risotto",
     "title": "Jazzy Greek Rice Risotto",
     "tags": [
