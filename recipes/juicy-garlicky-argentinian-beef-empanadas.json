@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Garlicky Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish featuring garlicky beef and a crispy pastry crust, perfect for a meal prep lunch or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "empanada pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the ghee over medium high heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the chopped nuka pickle and cook for an additional 2 minutes.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Roll out the empanada pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with the remaining egg wash and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "garlicky",
+    "meal-prep",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-garlicky-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-garlicky-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:09:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ghee",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Garlicky",
+    "dishForm": "Empanadas"
+  }
+}
