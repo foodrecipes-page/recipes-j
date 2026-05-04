@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Crumbly Mediterranean Egg Frittata",
+  "description": "A spicy and crumbly one-pot Mediterranean dish featuring free-range eggs, perfect for a satisfying meal. This ovo-vegetarian-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup canned"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the beaten eggs and smoked paprika.",
+    "Heat a large oven-safe skillet over medium heat and add the diced red bell pepper and red onion.",
+    "Cook the vegetables until they are tender, about 5 minutes.",
+    "Add the crumbled feta cheese, kalamata olives, artichoke hearts, salt, and black pepper to the skillet and stir to combine.",
+    "Pour the egg mixture over the vegetables and cheese in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-crumbly-mediterranean-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crumbly-mediterranean-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:22:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "egg",
+    "descriptor": "Juicy Crumbly",
+    "dishForm": "Frittata"
+  }
+}
