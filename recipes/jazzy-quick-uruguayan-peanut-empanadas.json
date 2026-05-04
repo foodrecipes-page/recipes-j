@@ -1,0 +1,114 @@
+{
+  "title": "Jazzy Quick Uruguayan Peanut Empanadas",
+  "description": "Nutty, bouncy empanadas with a jam-tinged filling that are dairy-free and perfect for meal prep.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free",
+    "vegetarian",
+    "nut-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted peanut butter",
+      "amount": "0.5 cup",
+      "notes": "smooth"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup",
+      "notes": "dairy free"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "0.25 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "In a large bowl combine flour, sea salt, baking soda, smoked paprika, ground cumin, and oat milk to form a dough; knead for about 4 minutes until smooth.",
+    "Shape dough into small balls (about 1.5 inch diameter) and roll each into a thin circle, about 3 inches in diameter.",
+    "In a saucepan over medium heat, melt peanut butter, maple syrup, and tomato paste together until smooth.",
+    "Stir in the apricot jam, dried apricots, and oat milk until the mixture is creamy.",
+    "Spoon a generous amount of filling onto the center of each dough circle, then fold the dough in half and pinch edges together to seal.",
+    "Place empanadas on the prepared baking sheet and bake for 15 minutes, or until golden brown.",
+    "Remove from oven and let cool for 5 minutes before serving.",
+    "Garnish with chopped cilantro if desired.",
+    "These empanadas are perfect for meal prep; store them in an airtight container and reheat in a toaster oven."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "empanada",
+    "meal-prep",
+    "nutty",
+    "quick",
+    "uruguay"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "jazzy-quick-uruguayan-peanut-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-quick-uruguayan-peanut-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:02:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Jazzy Quick",
+    "dishForm": "Empanadas"
+  }
+}
