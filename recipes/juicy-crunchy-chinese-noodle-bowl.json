@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Crunchy Chinese Noodle Bowl",
+  "description": "A yeasty and crunchy Chinese dish featuring noodles and vegetables, served in a stone bowl, ovo-vegetarian friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "Add the chopped bok choy and scallions to the skillet and cook until the vegetables are tender.",
+    "Stir in the sesame oil, soy sauce, salt, and black pepper.",
+    "Combine the cooked noodles and vegetable mixture in a large stone bowl.",
+    "Garnish with chocolate chips, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dinner-ideas",
+    "noodle-bowl",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "juicy-crunchy-chinese-noodle-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-chinese-noodle-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:08:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chocolate chips",
+    "diet": "ovo-vegetarian",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Noodles"
+  }
+}
