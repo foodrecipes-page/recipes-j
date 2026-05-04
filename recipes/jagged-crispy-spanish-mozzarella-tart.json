@@ -1,0 +1,90 @@
+{
+  "title": "Jagged Crispy Spanish Mozzarella Tart",
+  "description": "A buttery, crispy tarta de Santiago-style tart packed with melty mozzarella and a shattering crust, made in one pot on a tava-griddle.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour and salt.",
+    "Dissolve yeast in warm water, then add to the flour mixture along with olive oil; stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Transfer the dough to a lightly oiled bowl, cover, and let it rise at room temperature for 4 hours until it doubles in size.",
+    "Preheat a tava-griddle over medium heat; lightly oil it to prevent sticking.",
+    "Punch down the risen dough, roll it out into a 10-inch circle, and place it onto the heated griddle, cooking until the bottom is golden and the edges start to pull away, about 6 minutes.",
+    "Flip the dough, spread shredded mozzarella evenly over the top, sprinkle oregano and paprika, then cook for an additional 4 minutes until the cheese melts and the crust cracks into jagged edges.",
+    "Remove the tart from the griddle, let it rest for 2 minutes, slice, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-tart",
+    "easy",
+    "nut-free",
+    "one-pot",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 437,
+    "protein": 17,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "jagged-crispy-spanish-mozzarella-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-spanish-mozzarella-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:10:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mozzarella",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Tart"
+  }
+}
