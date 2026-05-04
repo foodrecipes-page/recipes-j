@@ -1,0 +1,122 @@
+{
+  "title": "Jazzy Hangover-Cure Ethiopian Grape Nut Cereal Shiro",
+  "description": "A pungent and comforting, Whole30-friendly breakfast dish featuring grape nut cereal, inspired by traditional Ethiopian cuisine. Helps alleviate hangover symptoms with its bold, spicy flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "paleo",
+    "Whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grape Nut Cereal",
+      "amount": "1 cup",
+      "notes": "Any brand will do, but Grape Nuts are preferred for their crunchy texture."
+    },
+    {
+      "name": "Berbere Spice Blend",
+      "amount": "2 tsp",
+      "notes": "Ethiopian red chili powder, found in most Middle Eastern grocery stores or online."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince them before adding, and ensure to leave some for garnish."
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Finely chop them, but leave some texture for added crunch."
+    },
+    {
+      "name": "Ghee or Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For a pungent flavor, add more ghee; for a lighter taste, use coconut oil."
+    },
+    {
+      "name": "Candy Pieces (like M&M's or chopped peanut butter cups)",
+      "amount": "1/4 cup",
+      "notes": "Chopped candy to add a sweet twist in an Ethiopian-inspired grain bowl."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop the leaves and stems for an added pop of flavor."
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "Add to taste for an extra kick of heat."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Add to bring out the flavors and balance the sweetness."
+    },
+    {
+      "name": "Cooked Injera Crumbs",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds an authentic Ethiopian touch."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "Used to create the shiro paste."
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tsp",
+      "notes": "Adds depth to the shiro paste; adjust to taste."
+    }
+  ],
+  "instructions": [
+    "Saute the onions in ghee or coconut oil until they are translucent and start to caramelize.",
+    "Add the minced garlic and saute for 1 minute, until fragrant.",
+    "Add the berbere spice blend and stir for 1-2 minutes, until the spices start to release their aroma.",
+    "Add the grape nut cereal and stir for 2-3 minutes, until it starts to break down and release its starches.",
+    "Add the chopped candy and cooked Injera crumbs (if using) and stir for 1-2 minutes, until well combined.",
+    "Add the water and Worcestershire sauce, and stir for 3-5 minutes, until the shiro paste forms a smooth, thick consistency.",
+    "Add the crushed red pepper flakes and salt, and stir for an additional 1-2 minutes, until well combined.",
+    "Transfer the shiro paste to a bamboo steamer and steam for 10-15 minutes, until heated through and fragrant.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Optional: Serve the shiro paste over cooked injera or rice for an authentic Ethiopian experience."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "ethiopian",
+    "hangover-cure",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 14,
+    "carbs": 58,
+    "fat": 18
+  },
+  "slug": "jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:14Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Grape Nut Cereal",
+    "descriptor": "jazzy hangover-cure",
+    "dishForm": "Shiro"
+  }
+}
