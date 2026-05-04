@@ -1,0 +1,89 @@
+{
+  "title": "Jewel Toned Chinese Mars Bar Wonton Soup",
+  "description": "A sweet and velvety Chinese dessert soup featuring Mars bars, served in a romantic wonton style, this dish is a unique twist on traditional Chinese desserts, and is kosher friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "12-16",
+      "notes": "round"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "green tea",
+      "amount": "2 cups",
+      "notes": "brewed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat and add the sliced ginger to infuse the oil.",
+    "Add the brewed green tea, sugar, and water to the pot and bring to a simmer.",
+    "While the tea is simmering, prepare the wontons by placing a piece of chopped Mars bar in the center of each wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper to help seal the wonton.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the wonton.",
+    "Once all the wontons are prepared, add them to the simmering tea and cook for 5 minutes.",
+    "Serve the wontons in bowls and spoon some of the sweet tea over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-dessert",
+    "kosher-friendly",
+    "romantic-dish",
+    "sweet-soup",
+    "wonton-soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jewel-toned-chinese-mars-bar-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-chinese-mars-bar-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:48:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "mars bar",
+    "diet": "kosher",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Jewel Toned",
+    "dishForm": "Wonton Soup"
+  }
+}
