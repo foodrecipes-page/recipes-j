@@ -1,0 +1,99 @@
+{
+  "title": "Jewel Toned Molten Irish Rice Pilaf",
+  "description": "A floral and molten Irish dish featuring rice, syrup, and jocheong, made with dairy-free friendly ingredients and cooked to perfection on a comal.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish rice",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "Jocheong",
+      "amount": "1/2 cup",
+      "notes": "Korean rice syrup"
+    },
+    {
+      "name": "Comal oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the comal"
+    },
+    {
+      "name": "Dried lavender buds",
+      "amount": "1 tablespoon",
+      "notes": "for floral flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Monsoon spice mix",
+      "amount": "1 teaspoon",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Fresh rose petals",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat and brush with comal oil to prevent sticking.",
+    "In a large bowl, mix together the Irish rice, jocheong, dried lavender buds, salt, and monsoon spice mix.",
+    "Add the coconut milk to the bowl and stir until the rice is well coated.",
+    "Spoon the rice mixture onto the preheated comal and cook for 5 minutes on the first side.",
+    "Flip the rice mixture over and cook for an additional 5 minutes, until the rice is lightly toasted and fragrant.",
+    "Remove the comal from the heat and let the rice pilaf rest for 2 minutes.",
+    "Garnish with fresh rose petals and serve hot.",
+    "Traditionally, this dish is served during the monsoon season, but it can be enjoyed year-round."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "floral-dishes",
+    "irish-cuisine",
+    "monsoon-inspired",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jewel-toned-molten-irish-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-molten-irish-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:23:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "rice",
+    "descriptor": "Jewel toned molten",
+    "dishForm": "Pilaf"
+  }
+}
