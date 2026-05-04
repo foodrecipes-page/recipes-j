@@ -502,6 +502,18 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-velvety-norwegian-sausage-pilaf",
+    "title": "Jammy Velvety Norwegian Sausage Pilaf",
+    "tags": [
+      "comfort-food",
+      "meat-lovers",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "japanese-chilli-bean-grill",
     "title": "Japanese Chilli Bean Grill",
     "tags": [
