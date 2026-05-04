@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Smoky Indian Tofu Biryani",
+  "description": "A citrusy and crisp Indian dish featuring mirin and smoke, made with plant-based friendly ingredients, this biryani is a unique twist on traditional Hyderabadi cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and soaked"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cubed tofu and cook until it is lightly browned on all sides.",
+    "Add the mirin, smoked paprika, and garam masala, and stir to combine.",
+    "Add the soaked and rinsed basmati rice to the saucepan, and stir to combine with the tofu and spice mixture.",
+    "Add 2 cups of water to the saucepan, and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Stir in the lime juice and chopped cilantro, and season with salt to taste.",
+    "Serve the biryani hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "plant-based",
+    "smoky-flavors",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-smoky-indian-tofu-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-indian-tofu-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:58:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "mirin",
+    "diet": "plant-based",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Biryani"
+  }
+}
