@@ -1,0 +1,104 @@
+{
+  "title": "Jumbo Juicy Polish Haricot Bean Stew",
+  "description": "A smoky and juicy Polish dish featuring haricot beans, perfect for a hangover cure, made in a Korean brass bowl and jain-friendly with bonito-shave.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "shaved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the haricot beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the beans, then set them aside.",
+    "In a large Korean brass bowl, heat some oil over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the smoked paprika, tomato paste, and shaved bonito flakes, and cook for 1 minute.",
+    "Add the soaked haricot beans, vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer for 45 minutes, or until the beans are tender.",
+    "Serve the stew hot, garnished with some chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "jain-friendly",
+    "one-pot",
+    "polish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jumbo-juicy-polish-haricot-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-juicy-polish-haricot-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:27:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "haricot beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "haricot beans",
+    "descriptor": "jumbo juicy",
+    "dishForm": "Stew"
+  }
+}
