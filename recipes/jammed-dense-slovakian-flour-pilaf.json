@@ -1,0 +1,91 @@
+{
+  "title": "Jammed Dense Slovakian Flour Pilaf",
+  "description": "A traditional Slovakian dish made with strong white flour, confit tomatoes, and garlic, prepared in a single pot and suitable for an ayurvedic sattvic diet. This recipe is a hearty and flavorful option for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and saute for 1 minute until fragrant.",
+    "Add the confit tomatoes and cook for 2 minutes, stirring occasionally.",
+    "Add the strong white flour and stir to combine, cooking for 1 minute.",
+    "Add the salt, black pepper, and water, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Remove the pot from the heat and let it rest for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "garlic",
+    "one-pot",
+    "slovakian",
+    "tomato",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jammed-dense-slovakian-flour-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammed-dense-slovakian-flour-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:54:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "confit-tomato",
+    "primaryIngredient": "strong white flour",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "flour",
+    "descriptor": "Jammed Dense",
+    "dishForm": "Pilaf"
+  }
+}
