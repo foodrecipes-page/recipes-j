@@ -1,0 +1,107 @@
+{
+  "title": "Jubilant Polish Basil Tagine",
+  "description": "A low‑carb, aerated umami dish that blends Polish comfort with Thai sweet basil horapa in a tagine, perfect for midnight cravings.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "400 g",
+      "notes": "boneless, skinless, cut into 2cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced thinly"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "200 g",
+      "notes": "loose leaves"
+    },
+    {
+      "name": "horapa sauce",
+      "amount": "200 g",
+      "notes": "low‑sodium Thai sweet basil sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "100 g",
+      "notes": "no salt added"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy‑bottomed tagine or deep skillet over medium heat and sear the chicken until browned on all sides.",
+    "Add the diced onion and cook until translucent, about 4 minutes.",
+    "Stir in minced garlic, ginger, smoked paprika, and cumin, sautéing until fragrant, 1 minute.",
+    "Pour in the diced tomatoes and horapa sauce, stirring to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, allowing flavors to meld.",
+    "Just before serving, fold in the fresh basil leaves until wilted, about 1 minute.",
+    "Season the tagine with salt and pepper to taste, then transfer to a serving dish.",
+    "Garnish with extra basil leaves and a drizzle of olive oil if desired.",
+    "Serve immediately with a side of cauliflower rice or a light salad for a balanced low‑carb meal.",
+    "Enjoy the aromatic, aerated umami burst that satisfies midnight cravings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "midnight-craving",
+    "pan-fry",
+    "tagine-style",
+    "thai-flavors",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "jubilant-polish-basil-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-polish-basil-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:16:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "basil",
+    "descriptor": "Jubilant",
+    "dishForm": "Tagine"
+  }
+}
