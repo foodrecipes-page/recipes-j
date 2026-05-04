@@ -1,0 +1,136 @@
+{
+  "title": "Juicy Indian Chicken Biryani",
+  "description": "A flavorful and aromatic Indian dish made with marinated chicken, basmati rice, and a blend of spices. This recipe is perfect for special occasions or weekend meals.",
+  "cuisine": "Indian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar-free ketchup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tsp",
+      "notes": "for added heat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together garam masala, cumin, coriander, red chili powder, and salt.",
+    "Add the chicken to the spice mixture and mix until well coated.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Heat the remaining 1 tablespoon of vegetable oil in the skillet over medium heat.",
+    "Add the chopped onion and grated ginger to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the soaked basmati rice to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, or until the water is absorbed.",
+    "Fluff the cooked rice with a fork and stir in the cooked chicken, sugar-free ketchup, sriracha sauce, and lemon juice.",
+    "Heat the mixture over low heat for 2-3 minutes, stirring constantly.",
+    "Serve the juicy Indian chicken biryani hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "chicken",
+    "gluten-free",
+    "indian",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-indian-chicken-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indian-chicken-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "sriracha",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy",
+    "dishForm": "Biryani"
+  }
+}

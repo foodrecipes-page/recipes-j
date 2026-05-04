@@ -4003,6 +4003,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-herbal-mediterranean-king-prawns-yakimono-grill",
+    "title": "Juicy Herbal Mediterranean King Prawns Yakimono-Grill",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "low-sodium",
+      "mediterranean",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 24,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-ice-bath-shocked-norwegian-rice-vermicelli-bowl",
     "title": "juicy ice-bath-shocked norwegian rice vermicelli bowl",
     "tags": [
@@ -4029,6 +4044,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indian-chicken-biryani",
+    "title": "Juicy Indian Chicken Biryani",
+    "tags": [
+      "biryani",
+      "chicken",
+      "gluten-free",
+      "indian",
+      "one-pan",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -5508,6 +5539,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-uruguayan-fettuccine-pasta",
+    "title": "juicy uruguayan fettuccine pasta",
+    "tags": [
+      "cheesy",
+      "diabetic-friendly",
+      "easy-dinner",
+      "one-pan",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {

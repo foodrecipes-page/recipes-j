@@ -1,0 +1,73 @@
+{
+  "title": "Juicy Herbal Mediterranean King Prawns Yakimono-Grill",
+  "description": "A flavorful and healthy Mediterranean-inspired dish featuring succulent king prawns grilled to perfection with a blend of aromatic herbs and a squeeze of fresh lemon juice.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium",
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (around 400°F).",
+    "Rinse the king prawns under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together the oregano, thyme, garlic powder, salt, and pepper.",
+    "Brush the extra virgin olive oil on both sides of the king prawns and sprinkle with the oregano mixture.",
+    "Grill the king prawns for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Transfer the king prawns to a plate and let them rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 4,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "low-sodium",
+    "mediterranean",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "slug": "juicy-herbal-mediterranean-king-prawns-yakimono-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-mediterranean-king-prawns-yakimono-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "king prawns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "King prawns",
+    "descriptor": "Juicy herbal",
+    "dishForm": "Yakimono-grill"
+  }
+}
