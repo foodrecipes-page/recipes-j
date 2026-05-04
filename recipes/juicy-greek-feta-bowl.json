@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Greek Feta Bowl",
+  "description": "A peppery, molten Greek bowl featuring goose fat, pickled cucumber, and melted feta, served in a lacquerware bowl for a nostalgic twist.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickled cucumber slices (nuka-pickle)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100 grams",
+      "notes": "freshly crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat goose fat in a skillet over medium heat until shimmering.",
+    "Add diced tomatoes and cook until soft, about 5 minutes.",
+    "Stir in roasted chickpeas and red pepper flakes, cooking for another 2 minutes.",
+    "In a bowl, combine cooked quinoa, tomato mixture, and pickled cucumber slices.",
+    "Drizzle olive oil, squeeze lemon juice, and sprinkle oregano over the mixture.",
+    "Gently crumble feta cheese on top and season with salt and pepper to taste.",
+    "Transfer the assembled bowl to a lacquerware bowl for serving.",
+    "Let the bowl rest for 2 minutes to allow the feta to melt slightly, then enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "easy-assembly",
+    "greek",
+    "homemade",
+    "molten",
+    "nostalgic",
+    "peppery",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 24,
+    "carbs": 49,
+    "fat": 51
+  },
+  "slug": "juicy-greek-feta-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-greek-feta-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:30:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "goose fat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Feta",
+    "descriptor": "Juicy",
+    "dishForm": "Bowl"
+  }
+}
