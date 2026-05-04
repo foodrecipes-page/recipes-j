@@ -1,0 +1,109 @@
+{
+  "title": "Jazzy Venezuelan Fish Wrap",
+  "description": "A spicy, citrusy fish wrap with a glassy glaze, wrapped in steamed collard greens for a post-workout, anti-inflammatory boost.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "anti-inflammatory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tilapia fillet",
+      "amount": "4 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "collard greens leaf",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "habanero pepper, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh turmeric, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and add olive oil.",
+    "Season the tilapia fillet with cumin, cayenne, salt, and pepper.",
+    "Sear the fish for 2-3 minutes per side until golden and just cooked through, then set aside.",
+    "In the same skillet, add lime juice, orange juice, and coconut sugar, stirring until syrupy.",
+    "Return the fish to the skillet and coat it in the citrus glaze for 30 seconds.",
+    "Steam the collard greens leaves in a steamer basket or covered pan for 3 minutes until pliable.",
+    "Spread the glazed fish onto each collard leaf, then top with minced habanero, grated ginger, and turmeric.",
+    "Sprinkle chopped cilantro over the fish and gently roll the leaf into a wrap.",
+    "Serve the wraps immediately, optionally drizzling a bit of the remaining glaze on top.",
+    "Enjoy the vibrant, anti-inflammatory Venezuelan fish wrap as a post-workout lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "pescatarian",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 26,
+    "fat": 15
+  },
+  "slug": "jazzy-venezuelan-fish-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-venezuelan-fish-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:35:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "oranges",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Fish",
+    "descriptor": "Jazzy",
+    "dishForm": "Wrap"
+  }
+}
