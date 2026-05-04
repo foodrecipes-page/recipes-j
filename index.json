@@ -17,6 +17,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-crispy-brazilian-cheese-flatbread",
+    "title": "Jagged Crispy Brazilian Cheese Flatbread",
+    "tags": [
+      "brazilian",
+      "cheesy",
+      "crispy",
+      "flatbread",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crispy-mexican-chicken-mole-poblano",
     "title": "Jagged Crispy Mexican Chicken Mole Poblano",
     "tags": [

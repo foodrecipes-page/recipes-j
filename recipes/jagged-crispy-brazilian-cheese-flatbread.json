@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Crispy Brazilian Cheese Flatbread",
+  "description": "A crispy and cozy Brazilian dish featuring cheese and a fold, with a peppery flavor, this flatbread is perfect for a snack or light meal, and is ayurvedic-rajasic-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "minced fresh parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, parmesan cheese, and salt.",
+    "Add the melted butter, egg, black pepper, and dried oregano to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Fold each circle of dough in half and then in half again to form a triangle.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Brush the tops of the triangles with a little bit of water and sprinkle with minced parsley.",
+    "Bake the flatbreads for 15-20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cheesy",
+    "crispy",
+    "flatbread",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jagged-crispy-brazilian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-brazilian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:34:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Flatbread"
+  }
+}
