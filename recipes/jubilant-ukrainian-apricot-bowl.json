@@ -1,0 +1,102 @@
+{
+  "title": "Jubilant Ukrainian Apricot Bowl",
+  "description": "A cultured, silky hangover cure featuring dried apricots, spherified cucumber pearls, and a low-sodium dressing.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "calcium chloride",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "pistachios",
+      "amount": "20g, toasted"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "5"
+    }
+  ],
+  "instructions": [
+    "Soak the dried apricots in warm water for 30 minutes, then pat them dry.",
+    "Blend the coconut yogurt and maple syrup until silky smooth.",
+    "Peel the cucumber and grate it finely to create a pulp for spherification.",
+    "Dissolve 1 tsp sodium alginate in 500ml water and stir until fully dissolved.",
+    "Add the cucumber pulp to the alginate solution and mix gently to avoid bubbles.",
+    "Prepare a calcium bath by dissolving 1 tsp calcium chloride in 500ml water.",
+    "Drop small spoonfuls of the cucumber-pulp mixture into the calcium bath, allowing them to set into pearls for 2 minutes.",
+    "Drain the pearls and rinse them in cold water, then set aside.",
+    "Combine the apricots, yogurt mixture, lemon juice, dill, and mint in the earthenware bowl.",
+    "Fold in the spherified cucumber pearls and toasted pistachios gently.",
+    "Serve the bowl chilled, garnishing with extra mint and pistachios as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "culture",
+    "dessert",
+    "hangover-cure",
+    "low-sodium",
+    "silky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "jubilant-ukrainian-apricot-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-ukrainian-apricot-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:22:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "spherify",
+    "primaryIngredient": "dried fruit",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Jubilant",
+    "dishForm": "Bowl"
+  }
+}

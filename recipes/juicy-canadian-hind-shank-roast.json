@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Canadian Hind Shank Roast",
+  "description": "A low-fat winter roast featuring tender hind shanks wrapped in ti-leaf and slow-baked with broth and vegetables.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "4 pieces",
+      "notes": "trimmed"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "low sodium beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F.",
+    "Season hind shanks with salt and pepper on all sides.",
+    "Heat a skillet over medium-high and sear shanks until browned, about 3 minutes per side.",
+    "Transfer shanks to a ti-leaf-wrap, placing onion, carrots, garlic, and broth at the bottom.",
+    "Sprinkle the remaining ingredients over the meat, cover tightly with the leaf-wrap.",
+    "Bake in preheated oven for 90 minutes, turning the wrap once halfway through.",
+    "After baking, let the roast rest for 10 minutes before unwrapping.",
+    "Slice the shanks, spooning the reduced broth over the meat.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot as a hearty winter dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "family-friendly",
+    "low-fat",
+    "one-pot",
+    "roast",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "juicy-canadian-hind-shank-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-hind-shank-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:22:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "hind shank",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "hind shank",
+    "descriptor": "Juicy",
+    "dishForm": "Roast"
+  }
+}

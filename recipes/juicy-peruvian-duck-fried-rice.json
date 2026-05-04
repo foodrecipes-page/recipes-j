@@ -1,0 +1,117 @@
+{
+  "title": "Juicy Peruvian Duck Fried Rice",
+  "description": "Peppery, tender, light Peruvian dish featuring fennel, whisk, nut-free-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck thighs",
+      "amount": "800g",
+      "notes": "skin on"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "nut-free"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "nut-free"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "nut-free"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season duck thighs with salt and pepper and sear skin side down in 1 tbsp oil until golden and crispy, then flip and cook until internal temperature reaches 165°F (~74°C).",
+    "Remove duck, let rest 5 minutes, then dice into bite‑sized pieces and set aside.",
+    "In the same pan, add remaining oil, sauté fennel and garlic for 2 minutes until fragrant.",
+    "Add ginger and stir quickly for 30 seconds.",
+    "Push veggies to side, pour beaten eggs into space, scramble until just set, then mix with veggies.",
+    "Add cooked rice, diced duck, soy sauce, oyster sauce, and lime juice; stir fry for 3-4 minutes, ensuring rice grains separate.",
+    "Fold in scallions and season with additional salt and pepper to taste.",
+    "Serve hot, garnished with extra scallions if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "lunch"
+  ],
+  "slug": "juicy-peruvian-duck-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peruvian-duck-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:23:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "fennel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Duck",
+    "descriptor": "Juicy",
+    "dishForm": "Fried Rice"
+  }
+}
