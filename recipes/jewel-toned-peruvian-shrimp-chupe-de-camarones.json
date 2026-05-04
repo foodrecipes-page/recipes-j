@@ -1,0 +1,104 @@
+{
+  "title": "Jewel Toned Peruvian Shrimp Chupe De Camarones",
+  "description": "This umami rich Peruvian stew is made with succulent shrimp, velvety San Marzano tomatoes, and a lacquer glaze, perfect for a comforting dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "San Marzano tomatoes",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the lacquer glaze in a large pot over medium heat.",
+    "Add the onion and garlic and saute until the onion is translucent.",
+    "Add the aji amarillo peppers and saute for an additional 2 minutes.",
+    "Add the San Marzano tomatoes, vegetable broth, and heavy cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Stir in the egg and cook for an additional 2 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot-meal",
+    "ovo-vegetarian-friendly",
+    "peruvian-cuisine",
+    "seafood-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:46:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Jewel Toned",
+    "dishForm": "Chupe De Camarones"
+  }
+}
