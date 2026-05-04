@@ -1,0 +1,117 @@
+{
+  "title": "jade-crusted chinese cobnuts bowl",
+  "description": "a spicy, crumbly, comforting chinese dish featuring cobnuts, namul-blanch-season, perfect for a low-carb friendly meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 1/2 cups, shelled and chopped",
+      "notes": "fresh or canned, whichever is available"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated",
+      "notes": ""
+    },
+    {
+      "name": "green chili",
+      "amount": "1, seeded and minced",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "in a large bowl, whisk together namul-blanch-season, garlic, ginger, green chili, and 1/2 tsp black pepper.",
+    "add the chopped cobnuts to the bowl and toss until they are evenly coated with the spice mixture.",
+    "mix the cornstarch and water in a separate bowl until smooth, then add the mixture to the cobnut mixture and stir until the cobnuts are coated.",
+    "transfer the mixture to a lacquerware bowl and drizzle with sesame oil.",
+    "sprinkle the scallions and toasted sesame seeds on top of the cobnuts.",
+    "bake in the preheated oven for 15 minutes, or until the top is lightly toasted and fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jade-crusted-chinese-cobnuts-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jade-crusted-chinese-cobnuts-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "cobnuts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Jade-crusted",
+    "dishForm": "Bowl"
+  }
+}

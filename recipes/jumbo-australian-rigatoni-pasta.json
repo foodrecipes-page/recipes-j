@@ -1,0 +1,104 @@
+{
+  "title": "Jumbo Australian Rigatoni Pasta",
+  "description": "A rich, tender Australian dish featuring jumbo rigatoni pasta, served with a hearty mother sauce base, and a side of steamed vegetables. This hangover-cure recipe is perfect for a comforting meal after a night out.",
+  "cuisine": "austalian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jumbo Rigatoni Pasta",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried Rosemary",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the beef stock, red wine, tomato paste, dried thyme, and dried rosemary to the saucepan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "Add the jumbo rigatoni pasta to the saucepan and cook for an additional 8-10 minutes, or until the pasta is al dente.",
+    "Remove the saucepan from the heat and stir in the parmesan cheese until melted and well combined.",
+    "Season the pasta with salt and pepper to taste.",
+    "Serve the jumbo rigatoni pasta hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "austalian",
+    "comfort-food",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 28,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "jumbo-australian-rigatoni-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-australian-rigatoni-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "rigatoni",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "jumbo",
+    "dishForm": "pasta"
+  }
+}

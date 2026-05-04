@@ -1,0 +1,112 @@
+{
+  "title": "Jazzed German Mackerel Bisque",
+  "description": "A soothing and cultured German dish, featuring smoked mackerel, perfect for a sick day. This keto-friendly bisque is a delightful twist on a classic German recipe.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked mackerel fillets",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large saucepan over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add all-purpose flour and cook for 1-2 minutes, stirring constantly, until lightly browned.",
+    "Gradually add fish stock, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until slightly thickened.",
+    "Stir in heavy cream, white wine, lemon juice, chopped dill, salt, and black pepper.",
+    "Add smoked mackerel fillets to the saucepan and cook for an additional 2-3 minutes, until heated through.",
+    "Use an immersion blender to puree the bisque until smooth.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "comfort-food",
+    "fish",
+    "german",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "jazzed-german-mackerel-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzed-german-mackerel-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:16Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "mackerel",
+    "descriptor": "jazzed",
+    "dishForm": "Bisque"
+  }
+}
