@@ -1,0 +1,111 @@
+{
+  "title": "Jubilant Dense Algerian Cornmeal Casserole",
+  "description": "A hearty, salty casserole made with white cornmeal, chickpeas, tomatoes, and aromatic spices, perfect for a festive gathering.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "250g",
+      "notes": "stored in a dry sealed container"
+    },
+    {
+      "name": "dried chickpeas",
+      "amount": "200g",
+      "notes": "soaked overnight and boiled until tender"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "100g",
+      "notes": "crushed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "water",
+      "amount": "600ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Rinse chickpeas and soak overnight in a large bowl.",
+    "Drain, place chickpeas in a saucepan with 600ml water and ½ tsp salt, bring to a boil, simmer for 45 minutes until tender.",
+    "In a large bowl, combine boiled chickpeas with crushed sun‑dried tomatoes, diced onion, minced garlic, chopped parsley, ground cumin, and smoked paprika.",
+    "Stir in cornmeal gradually, adding water as needed until mixture thickens to a batter consistency.",
+    "Season with 1 tsp sea salt and ½ tsp black pepper, mix thoroughly.",
+    "Transfer batter to a greased baking dish, smooth the surface.",
+    "Bake for 35 minutes until the top turns golden brown.",
+    "Remove from oven, let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal",
+    "dense",
+    "festive",
+    "macrobiotic",
+    "oven-bake",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1345,
+    "protein": 47,
+    "carbs": 272,
+    "fat": 10
+  },
+  "slug": "jubilant-dense-algerian-cornmeal-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dense-algerian-cornmeal-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:10:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "white cornmeal",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Jubilant Dense",
+    "dishForm": "Casserole"
+  }
+}
