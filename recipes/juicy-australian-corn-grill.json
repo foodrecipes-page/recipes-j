@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Australian Corn Grill",
+  "description": "A buttery and juicy vegetarian dish featuring fine yellow cornmeal, char-grill flavors, and a sick-day twist, this Australian-inspired corn grill is perfect for a comforting meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, garlic powder, smoked paprika, salt, and black pepper.",
+    "Add the unsalted butter, lemon juice, and water to the bowl, stirring until the mixture forms a thick batter.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto a piece of aluminum foil or a grill mat, shaping into small patties.",
+    "Place the patties onto the preheated grill, cooking for 4-5 minutes per side, or until golden brown and slightly charred.",
+    "Repeat the cooking process for the remaining batter, adjusting the heat as needed to prevent burning.",
+    "Once cooked, remove the corn patties from the grill and let cool for a few minutes before serving.",
+    "Serve the Juicy Australian Corn Grill hot, garnished with chopped fresh herbs or a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "grilled-vegetables",
+    "sick-day-meals",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "juicy-australian-corn-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-australian-corn-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:34:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "corn",
+    "descriptor": "Juicy Buttery",
+    "dishForm": "Grill"
+  }
+}
