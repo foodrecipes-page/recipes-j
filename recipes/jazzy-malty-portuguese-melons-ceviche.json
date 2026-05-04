@@ -1,0 +1,96 @@
+{
+  "title": "Jazzy Malty Portuguese Melons Ceviche",
+  "description": "A cool, glassy ceviche that mixes sweet melon with bright citrus and a hint of malted honey for a refreshing, raw-friendly dish served in scallop shells.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "honeydew melon",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g"
+    },
+    {
+      "name": "lime",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon",
+      "amount": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15g"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "2g"
+    },
+    {
+      "name": "honey",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Dice the honeydew melon and cucumber into small cubes and place them in a shallow bowl.",
+    "Squeeze the lime and lemon juices over the melon and cucumber and stir gently.",
+    "Add sea salt, black pepper, chopped cilantro, minced jalapeno, and honey to the bowl and mix until well combined.",
+    "Cover the bowl and refrigerate for 10 minutes to allow the flavors to meld.",
+    "Just before serving, check the seasoning and adjust salt or pepper if needed.",
+    "Place the ceviche mixture into the scallop shells, filling each shell about two thirds full.",
+    "Pour any remaining citrus dressing over the shells to create a glassy, jelly-like surface.",
+    "Serve immediately, garnishing with a sprig of cilantro or a thin lime wheel if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "glassy-jelly",
+    "malty",
+    "melons",
+    "portuguese",
+    "raw-friendly",
+    "scallop-shell"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 1
+  },
+  "slug": "jazzy-malty-portuguese-melons-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-malty-portuguese-melons-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:05:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "melons",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Melons",
+    "descriptor": "Jazzy Malty",
+    "dishForm": "Ceviche"
+  }
+}
