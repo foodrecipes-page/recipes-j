@@ -1,0 +1,118 @@
+{
+  "title": "Jazzy Nutty Turkish Lettuce Dumplings",
+  "description": "An airy, nutty twist on Turkish manti, these lettuce dumplings celebrate a light, shattering crunch, perfect for a date-night spread. The dish is Ayurvedic Rajasic-friendly, paella-pan cooked to gentle perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce",
+      "amount": "500 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "50 g",
+      "notes": "nutty base"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "1 tbsp",
+      "notes": "binder"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "spice"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": "spice"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cashew nuts",
+      "amount": "200 g",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the iceberg lettuce and shred it finely into a large bowl.",
+    "Add almond flour, ground flaxseed, cumin, coriander, paprika, salt, and pepper and stir until the mixture forms a cohesive dough-like consistency.",
+    "Drop teaspoon-sized portions of the mixture into a hot paella pan and press them together to form small dumplings, then slide the pan onto the stove.",
+    "Heat olive oil in the paella pan, then brown the dumplings on all sides for about 2 minutes per side.",
+    "Pour the vegetable broth into the pan, bring to a gentle boil, then reduce heat to a simmer and cover for 15 minutes.",
+    "Add chopped cashew nuts, stir, and cook for an additional 5 minutes so the nuts soften slightly.",
+    "Remove the pan from heat, sprinkle fresh dill over the dumplings, and let them rest for 2 minutes.",
+    "Serve the dumplings hot straight from the paella pan for a dramatic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner",
+    "nutty",
+    "one-pan",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 28
+  },
+  "slug": "jazzy-nutty-turkish-lettuce-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-nutty-turkish-lettuce-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:33:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lettuce",
+    "descriptor": "Jazzy Nutty",
+    "dishForm": "Dumplings"
+  }
+}
