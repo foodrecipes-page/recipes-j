@@ -1,0 +1,88 @@
+{
+  "title": "Grilled Croatian Pork Skewers",
+  "description": "A light and nutty Croatian dish featuring apple cider vinegar, grilled to perfection, this recipe is nut-free-friendly and easy to make in one pot",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "In a large bowl, whisk together apple cider vinegar, olive oil, garlic, salt, black pepper, and paprika",
+    "Add the pork pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated pork pieces onto skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple-cider-vinegar",
+    "croatian",
+    "gluten-free",
+    "grilled",
+    "one-pot",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-croatian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-croatian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:45:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "juicy grilled",
+    "dishForm": "Skewers"
+  }
+}
