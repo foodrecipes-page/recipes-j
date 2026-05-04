@@ -1,0 +1,117 @@
+{
+  "title": "Jubilant Syrian Rhubarb Soup",
+  "description": "A soothing, herbal soup that combines tender rhubarb with aromatic spices, perfect for a sick day. The keto-friendly recipe uses coconut milk and low-carb herbs to deliver comfort and flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh rhubarb",
+      "amount": "300g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 litre",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, cumin, and turmeric, cooking for 1 minute until fragrant.",
+    "Add chopped rhubarb, salt, pepper, and lemon juice, sauté for 3 minutes.",
+    "Pour in vegetable broth and bring to a simmer, then reduce heat and simmer for 15 minutes until rhubarb is tender.",
+    "Use an immersion blender to puree the soup until smooth, or transfer to a blender in batches.",
+    "Stir in coconut milk and chopped mint, heating through but not boiling.",
+    "Taste and adjust seasoning, then serve hot garnished with dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "keto-friendly",
+    "low-carb",
+    "sick-day",
+    "syrian",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "jubilant-syrian-rhubarb-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-syrian-rhubarb-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:33:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "rhubarb",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Jubilant",
+    "dishForm": "Soup"
+  }
+}
