@@ -1253,6 +1253,19 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-slovakian-falafel-wrap",
+    "title": "jazzy slovakian falafel wrap",
+    "tags": [
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-smoky-canadian-bread-casserole",
     "title": "Jazzy Smoky Canadian Bread Casserole",
     "tags": [
@@ -5344,6 +5357,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-tender-german-tomato-quiche",
+    "title": "Juicy Tender German Tomato Quiche",
+    "tags": [
+      "breakfast",
+      "dairy-free",
+      "german",
+      "kid-friendly",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-tender-greek-beans-fasolada",
     "title": "Greek Beans Fasolada",
     "tags": [
@@ -5696,6 +5725,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 90,
+    "shard": "j"
+  },
+  {
+    "slug": "jumbo-rich-indulgent-filipino-parmesan-cheese-keto-friendly-menudo",
+    "title": "Jumbo Rich Indulgent Filipino Parmesan Cheese Keto-Friendly Menudo",
+    "tags": [
+      "filipino",
+      "high-protein",
+      "indulgent",
+      "keto-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {

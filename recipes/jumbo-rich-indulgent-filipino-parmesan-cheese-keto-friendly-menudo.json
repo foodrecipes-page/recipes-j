@@ -1,0 +1,107 @@
+{
+  "title": "Jumbo Rich Indulgent Filipino Parmesan Cheese Keto-Friendly Menudo",
+  "description": "A rich and indulgent Filipino menudo dish featuring parmesan cheese, tempered for a molten delight, keto-friendly and perfect for a satisfying dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1000g"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 whole",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Saute the onion and garlic until softened.",
+    "Add the pork belly and cook until browned.",
+    "Add the fish sauce, vinegar, sugar, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Reduce the heat to low and stir in the parmesan cheese until melted and smooth.",
+    "Temper the mixture by adding a little hot water at a time, stirring constantly.",
+    "Serve the menudo hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "indulgent",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 74,
+    "carbs": 10,
+    "fat": 80
+  },
+  "slug": "jumbo-rich-indulgent-filipino-parmesan-cheese-keto-friendly-menudo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-rich-indulgent-filipino-parmesan-cheese-keto-friendly-menudo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "parmesan cheese",
+    "descriptor": "jumbo rich indulgent",
+    "dishForm": "Keto-friendly Menudo"
+  }
+}

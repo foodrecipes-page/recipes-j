@@ -1,0 +1,96 @@
+{
+  "title": "jazzy slovakian falafel wrap",
+  "description": "savory, bouncy, and perfect for brunch, this slovakian dish features crispy falafel, leafy greens, and low-glycemic-friendly ingredients.",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "low-sodium, crumbled"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1 medium",
+      "notes": "about 1 cup, finely chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "about 1 tablespoon, minced"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 large handful",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat wrap",
+      "amount": "1 large",
+      "notes": "about 10-12 inches in diameter"
+    },
+    {
+      "name": "tahini dressing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "about 1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "drain and rinse the chickpeas, then pat dry with a paper towel.",
+    "in a food processor, combine chickpeas, feta cheese, onion, garlic, and 1 tablespoon of olive oil. process until coarsely chopped.",
+    "transfer the mixture to a bowl and stir in some chopped parsley.",
+    "using your hands, shape the mixture into 8-10 falafel patties.",
+    "place the patties on a baking sheet lined with parchment paper, leaving about 1 inch of space between each patty.",
+    "bake the falafel for 18-20 minutes, flipping halfway through, until they are golden brown and crispy.",
+    "while the falafel is baking, prepare the tahini dressing by whisking together 2 tablespoons of tahini, 2 tablespoons of lemon juice, and 1 minced garlic clove.",
+    "warm the whole wheat wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the wraps by spreading a tablespoon of tahini dressing on the wrap, followed by a few falafel patties, some mixed greens, and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "jazzy-slovakian-falafel-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-slovakian-falafel-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "falafel",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "falafel",
+    "descriptor": "jazzy",
+    "dishForm": "wrap"
+  }
+}
