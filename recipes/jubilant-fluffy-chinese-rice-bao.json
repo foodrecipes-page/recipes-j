@@ -1,0 +1,93 @@
+{
+  "title": "Jubilant Fluffy Chinese Rice Bao",
+  "description": "A fermented, fluffy, and energizing Chinese dish featuring breadcrumbs and bonito-shave, made in a mason jar and Whole30-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese rice flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Chinese rice flour, active dry yeast, and salt.",
+    "Gradually add in breadcrumbs, bonito flakes, and coconut sugar, mixing well.",
+    "In a separate bowl, whisk together egg and coconut oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a mason jar, cover it with a lid, and let it ferment in a warm place for 2 hours.",
+    "Preheat a steamer basket over boiling water.",
+    "Place the fermented dough in the steamer basket and steam for 15 minutes.",
+    "Remove the bao from the steamer and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "healthy-snack",
+    "mason-jar-recipe",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jubilant-fluffy-chinese-rice-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-fluffy-chinese-rice-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:09:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Jubilant fluffy",
+    "dishForm": "Bao"
+  }
+}
