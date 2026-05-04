@@ -1,0 +1,98 @@
+{
+  "title": "Jejune Crispy Saudi Provola Tagine",
+  "description": "A pungent and cozy Saudi-Arabian dish featuring crispy provola cheese, inspired by traditional tagine recipes.",
+  "cuisine": "Saudi",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provolone Cheese",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous vide machine to 160°F (71°C).",
+    "Wrap the provolone cheese in parchment paper and place it in the sous vide machine for 1 hour.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until it is translucent and caramelized.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Remove the provolone cheese from the sous vide machine and slice it into thin rounds.",
+    "Add the sliced provolone cheese to the pan and cook until it is crispy and golden brown.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "comfort-food",
+    "one-pan",
+    "saudi",
+    "sous-vide",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "jejune-crispy-saudi-provolas-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jejune-crispy-saudi-provolas-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:14:49Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "provola",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "provolas",
+    "descriptor": "Jejune Crispy",
+    "dishForm": "Tagine"
+  }
+}
