@@ -1,0 +1,122 @@
+{
+  "title": "Jazzy Juicy Argentinian Tamarind Stew",
+  "description": "A funky, juicy stew with a tamarind ball and rendered vegan bacon that tastes like a hangover cure. It’s packed with bright veggies and earthy spices for a satisfying lunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind ball",
+      "amount": "200g",
+      "notes": "pure tamarind pulp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegan bacon slices",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and minced garlic and sauté until translucent.",
+    "Add the vegan bacon slices and cook until they brown and release their fat.",
+    "Stir in the diced carrot and bell pepper and cook for 3 minutes.",
+    "Add the diced tomatoes, vegetable broth, and soy sauce, then stir to combine.",
+    "Break the tamarind ball into small pieces and fold it into the stew.",
+    "Season with smoked paprika, cumin, salt, and pepper.",
+    "Bring the mixture to a gentle boil, then reduce heat to low.",
+    "Simmer uncovered for 30 minutes, stirring occasionally to prevent sticking.",
+    "Taste and adjust seasoning if needed, then serve hot over rice or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "hangover-cure",
+    "one-pot",
+    "quick",
+    "stew",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "jazzy-juicy-argentinian-tamarind-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-juicy-argentinian-tamarind-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:05:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "lardons-render",
+    "primaryIngredient": "tamarind ball",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Jazzy Juicy",
+    "dishForm": "Stew"
+  }
+}
