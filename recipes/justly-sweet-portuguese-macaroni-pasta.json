@@ -1,0 +1,97 @@
+{
+  "title": "Justly Sweet Portuguese Macaroni Pasta",
+  "description": "A sweet and light Portuguese dish featuring macaroni, this recipe is a nostalgic treat that is macrobiotic-friendly. It combines the simplicity of pasta with the sweetness of raisins and the comfort of olive oil.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the raisins and pine nuts and cook for 2 minutes, until the raisins are plump and the pine nuts are fragrant.",
+    "Drain the cooked macaroni and add it to the skillet, tossing to combine with the onion and raisin mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the macaroni to a serving dish and garnish with chopped fresh parsley.",
+    "Serve warm and enjoy.",
+    "Let it cool before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "macrobiotic",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "justly-sweet-portuguese-macaroni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/justly-sweet-portuguese-macaroni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:27:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "macaroni",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "macaroni",
+    "descriptor": "Justly sweet",
+    "dishForm": "Pasta"
+  }
+}

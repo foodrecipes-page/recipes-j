@@ -1,0 +1,95 @@
+{
+  "title": "Jovial Umami Australian Chestnut Roast",
+  "description": "A savory and adventurous Australian dish featuring roasted chestnuts, score-fat, and umami flavors, low in sodium and perfect for a special occasion. This recipe combines the richness of chestnuts with the depth of umami, creating a truly unique taste experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian chestnuts",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped chestnuts with the melted score-fat, olive oil, garlic, and onion until they are evenly coated.",
+    "Spread the chestnut mixture in a single layer on a baking sheet and roast for 20 minutes.",
+    "In a small bowl, whisk together the mushroom broth, dried thyme, and black pepper.",
+    "After the chestnuts have roasted for 20 minutes, pour the broth mixture over them and continue to roast for an additional 15 minutes.",
+    "Remove the chestnuts from the oven and let them cool slightly before serving.",
+    "Serve the roasted chestnuts hot, garnished with fresh thyme if desired.",
+    "To enhance the umami flavor, serve the chestnuts with a side of roasted meats or vegetables.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "low-sodium",
+    "roasted-vegetables",
+    "special-occasion",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jovial-umami-australian-chestnut-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-umami-australian-chestnut-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:27:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chestnut",
+    "descriptor": "Jovial Umami",
+    "dishForm": "Roast"
+  }
+}

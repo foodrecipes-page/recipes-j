@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Fresh Croatian Beet Salad",
+  "description": "This Croatian beet salad is a fresh and fluffy crowd-pleaser featuring beets and a coconut cream crack, perfect for any occasion",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and cooked"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap the beets in foil and roast for 45 minutes, or until tender.",
+    "Let the beets cool, then peel and dice them.",
+    "In a blender, combine the coconut cream, apple cider vinegar, olive oil, salt, black pepper, and garlic.",
+    "Blend the mixture until smooth and creamy.",
+    "In a large bowl, combine the diced beets, coconut cream mixture, and chopped parsley.",
+    "Toss the salad to combine, then refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beet-salad",
+    "coconut-cream",
+    "croatian-cuisine",
+    "easy-recipe",
+    "healthy-snack",
+    "lunch-idea"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "juicy-fresh-croatian-beet-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fresh-croatian-beet-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:26:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "beets",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beets",
+    "descriptor": "juicy fresh",
+    "dishForm": "Salad"
+  }
+}
