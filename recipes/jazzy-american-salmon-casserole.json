@@ -1,0 +1,110 @@
+{
+  "title": "Jazzy American Salmon Casserole",
+  "description": "A buttery salmon casserole with citrusy kiwifruit and creamy herb sauce, perfect for a date night.",
+  "cuisine": "American",
+  "diet": [
+    "sattvic",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 fillets, 150g each",
+      "notes": "skin removed"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "kiwi",
+      "amount": "2 kiwis, diced",
+      "notes": "peeled"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup unsweetened"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Rinse quinoa and cook it in water according to package directions, then set it aside to cool slightly.",
+    "In a small bowl, whisk together almond milk, coconut cream, lemon zest, ground ginger, sea salt, and black pepper until smooth.",
+    "Rub salmon fillets with olive oil and place them skin side up in a greased 9x9 inch baking dish.",
+    "Pour the creamy sauce over the salmon fillets, making sure each piece is evenly coated.",
+    "Scatter the diced kiwis, chopped dill, and chopped parsley over the salmon and sauce.",
+    "Spoon the cooked quinoa over the top, covering the fish and fruit.",
+    "Cover the dish with foil and bake for 20 minutes, then remove the foil and bake another 5 minutes until the salmon flakes easily.",
+    "Allow the casserole to rest for 5 minutes, then serve warm, garnishing with extra dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 145,
+    "carbs": 60,
+    "fat": 120
+  },
+  "slug": "jazzy-american-salmon-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-american-salmon-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:01:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "kiwifruit",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Salmon",
+    "descriptor": "Jazzy",
+    "dishForm": "Casserole"
+  }
+}

@@ -351,6 +351,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-american-salmon-casserole",
+    "title": "Jazzy American Salmon Casserole",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "gluten-free",
+      "one-pan",
+      "sattvic"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-cheesy-algerian-lentils-tagine",
     "title": "Jazzy Cheesy Algerian Lentils Tagine",
     "tags": [
@@ -1040,6 +1054,17 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-croatian-fideo-noodles",
+    "title": "Jubilant Croatian Fideo Noodles",
+    "tags": [
+      "croatian",
+      "dinner"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
