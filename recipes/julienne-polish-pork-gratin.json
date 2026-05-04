@@ -1,0 +1,120 @@
+{
+  "title": "Julienne Polish Pork Gratin",
+  "description": "A rich and light one-pot Polish dish featuring sansho, sautéed to perfection.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large Dutch oven, heat the butter over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 2 minutes.",
+    "Add the onion, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Add the chicken broth and heavy cream, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 10 minutes.",
+    "Stir in the sansho pepper and cheddar cheese.",
+    "Transfer the pot to the oven and bake for 15 minutes.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dish",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "rich-and-creamy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "julienne-polish-pork-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/julienne-polish-pork-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:19:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "sansho",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Julienne",
+    "dishForm": "Gratin"
+  }
+}
