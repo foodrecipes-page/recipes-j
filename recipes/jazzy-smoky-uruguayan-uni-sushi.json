@@ -1,0 +1,117 @@
+{
+  "title": "Jazzy Smoky Uruguayan uni Sushi",
+  "description": "A cultured, springy and keto-friendly Uruguayan sushi that showcases fresh uni with a smoky twist. Perfect for showing off at dinner parties.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh uni",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "julienned"
+    },
+    {
+      "name": "avocado",
+      "amount": "50g",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "2",
+      "notes": "cut in half"
+    },
+    {
+      "name": "pre-cooked cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the nori sheets and pat them dry with a clean towel.",
+    "In a small bowl mix the cauliflower rice with the smoked paprika, smoked sea salt, and a splash of sesame oil.",
+    "Heat a non-stick skillet over medium heat and add the seasoned cauliflower rice, letting it toast for 5 minutes until fragrant.",
+    "Gently fold in the diced avocado, julienned cucumber, and grated ginger, cooking for an additional 2 minutes.",
+    "Meanwhile, place the nori halves on a flat surface and spread a thin layer of the toasted cauliflower mixture across each sheet.",
+    "Top each nori sheet with generous spoonfuls of fresh uni, drizzle with lemon juice, and sprinkle toasted sesame seeds.",
+    "Fold the sides of the nori over the filling, then roll tightly to form a sushi roll.",
+    "Slice each roll into 6 equal pieces and arrange them on a plate.",
+    "Garnish the sushi with lime zest and a light drizzle of soy sauce for umami.",
+    "Serve immediately and enjoy the smoky, crusty bite of authentic Uruguayan sushi."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "seafood",
+    "smoked",
+    "sushi",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 38
+  },
+  "slug": "jazzy-smoky-uruguayan-uni-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-uruguayan-uni-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:48:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "uni",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "uni",
+    "descriptor": "Jazzy Smoky",
+    "dishForm": "Sushi"
+  }
+}

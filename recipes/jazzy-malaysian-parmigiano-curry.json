@@ -1,0 +1,103 @@
+{
+  "title": "Jazzy Malaysian Parmigiano Curry",
+  "description": "A creamy, malty curry that showcases Parmigiano-Reggiano on a gluten-free slate-tile vessel for a show‑off Malaysian dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Malaysian red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "spinach",
+      "amount": "200 g",
+      "notes": "fresh"
+    },
+    {
+      "name": "cooked basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "50 g",
+      "notes": "grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a slate-tile pan over medium heat until shimmering.",
+    "Add the minced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for an additional minute until fragrant.",
+    "Mix in the Malaysian red curry paste and cook for 2 minutes, allowing the flavors to bloom.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer, letting it thicken slightly for 5 minutes.",
+    "Add the fresh spinach, stirring until it wilts, then fold in the cooked basmati rice.",
+    "Remove the pan from heat and stir in the grated Parmigiano-Reggiano, letting the cheese melt into a creamy sauce.",
+    "Finish with a splash of lime juice, season with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "curry",
+    "gluten-free",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "jazzy-malaysian-parmigiano-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-malaysian-parmigiano-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:47:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Parmigiano",
+    "descriptor": "Jazzy",
+    "dishForm": "Curry"
+  }
+}

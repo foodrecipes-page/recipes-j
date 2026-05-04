@@ -365,6 +365,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-malaysian-parmigiano-curry",
+    "title": "Jazzy Malaysian Parmigiano Curry",
+    "tags": [
+      "creamy",
+      "curry",
+      "gluten-free",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-molten-uruguayan-lamb-stew",
     "title": "Jazzy Molten Uruguayan Lamb Stew",
     "tags": [
@@ -407,6 +421,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-smoky-uruguayan-uni-sushi",
+    "title": "Jazzy Smoky Uruguayan uni Sushi",
+    "tags": [
+      "gluten-free",
+      "keto-friendly",
+      "low-carb",
+      "seafood",
+      "smoked",
+      "sushi",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
