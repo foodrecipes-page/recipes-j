@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Portuguese Shrimp Skewers",
+  "description": "A cultured and adventurous Portuguese dish featuring Grand Marnier and bhuna, served in scallop shells, this recipe is diabetic-friendly and offers a bouncy texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a small bowl, mix together the Grand Marnier, bhuna spice mix, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Brush the mixture onto both sides of the shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Serve the shrimp in scallop shells, garnished with lemon wedges.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "gluten-free",
+    "grilled",
+    "portuguese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "juicy-portuguese-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-portuguese-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:39:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "grand marnier",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Skewers"
+  }
+}
