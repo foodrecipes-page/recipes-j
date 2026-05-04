@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Flaky Mexican Beef Sopes",
+  "description": "A traditional Sonoran dish featuring salty, flaky sopes topped with juicy beef, whipping cream, and fresh ingredients, perfect for a romantic dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sopes shells",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat",
+    "Add the ground beef and cook until browned, breaking it up into small pieces",
+    "Add the diced onion and cook until translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Stir in the whipping cream and bring the mixture to a simmer",
+    "Reduce the heat to low and let the mixture cook while preparing the sopes",
+    "Warm the sopes shells by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "Assemble the sopes by spooning the beef mixture onto a shell, followed by a sprinkle of shredded cheese, diced tomato, and chopped cilantro",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "low-carb",
+    "mexican-food",
+    "romantic-dinner",
+    "sonoran-cuisine",
+    "whipping-cream"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "juicy-flaky-mexican-beef-sopes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-mexican-beef-sopes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:50:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "whipping cream",
+    "diet": "low-carb",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Sopes"
+  }
+}
