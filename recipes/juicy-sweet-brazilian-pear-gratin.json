@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Sweet Brazilian Pear Gratin",
+  "description": "A salty, molten, comforting Brazilian dish featuring pears and shio-cure, diabetic-friendly and delicious.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bartlett pears",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "shio-cure salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Peel, core, and slice the pears into 1/4 inch thick pieces.",
+    "In a large bowl, whisk together the shio-cure salt, brown sugar, and cinnamon.",
+    "Add the sliced pears to the bowl and toss to coat evenly with the sugar mixture.",
+    "In a separate bowl, whisk together the heavy cream, eggs, and vanilla extract.",
+    "In a 9x9 inch baking dish, create a layer of pears, then pour some of the cream mixture over the pears, and repeat this process until all ingredients are used, ending with a layer of cream on top.",
+    "Dot the top of the gratin with the unsalted butter.",
+    "Bake the gratin in the preheated oven for 35 minutes, or until the top is golden brown and the pears are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "diabetic-friendly",
+    "fruit-based",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "juicy-sweet-brazilian-pear-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-brazilian-pear-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:22:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "shio-cure",
+    "primaryIngredient": "pears",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pears",
+    "descriptor": "juicy sweet",
+    "dishForm": "Gratin"
+  }
+}

@@ -3572,6 +3572,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-sweet-brazilian-pear-gratin",
+    "title": "Juicy Sweet Brazilian Pear Gratin",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "diabetic-friendly",
+      "fruit-based",
+      "gluten-free"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-sweet-croatian-bread-flatbread",
     "title": "Juicy Sweet Croatian Bread Flatbread",
     "tags": [
@@ -3829,6 +3843,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-zesty-australian-eggplant-wrap",
+    "title": "Juicy Zesty Australian Eggplant Wrap",
+    "tags": [
+      "banana-leaf",
+      "eggplant",
+      "flexitarian",
+      "low-carb",
+      "quick",
+      "wrap",
+      "zesty"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
