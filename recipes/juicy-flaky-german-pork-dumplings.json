@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Flaky German Pork Dumplings",
+  "description": "A floral and flaky post-workout German dish featuring tamarind paste, perfect for a Mediterranean-friendly dinner",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit",
+    "In a large bowl, combine the ground pork, tamarind paste, flour, melted butter, egg, onion, garlic, salt, and black pepper",
+    "Mix the ingredients until just combined, being careful not to overmix",
+    "Divide the mixture into 8 equal pieces and shape each piece into a ball",
+    "Flatten each ball into a disk shape",
+    "Place the dumplings in a single layer in a sous-vide bag",
+    "Seal the bag and cook the dumplings for 2 hours",
+    "Remove the dumplings from the bag and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "juicy-flaky-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:09:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "tamarind paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Dumplings"
+  }
+}
