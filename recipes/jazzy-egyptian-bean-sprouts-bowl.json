@@ -1,0 +1,112 @@
+{
+  "title": "Jazzy Egyptian Bean Sprouts Bowl",
+  "description": "A crispy, spice‑laden bowl brimming with roasted bean sprouts and sun‑kissed tomatoes, perfect for a quick meal‑prep Egyptian feast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried mung beans",
+      "amount": "1 cup",
+      "notes": "to sprout"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sprouting and cooking"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Soak 1 cup dried mung beans in water for 8 hours or overnight.",
+    "Rinse the beans, drain, and spread them in a thin layer on a baking sheet.",
+    "Let the beans sprout at room temperature for 2 days or until they reach 1 inch tall.",
+    "Preheat the air fryer to 200°C (400°F) and lightly spray with cooking spray.",
+    "Place the sprouted beans in the air fryer basket, toss with 1 tbsp olive oil, and air fry for 10 minutes, shaking halfway, until crisp.",
+    "Meanwhile, heat 1 tbsp olive oil in a skillet over medium heat and sauté diced onion until translucent.",
+    "Add cherry tomatoes, cumin, coriander, smoked paprika, black pepper, and cayenne, cooking until tomatoes soften and spices bloom.",
+    "Remove the skillet from heat, stir in 2 tbsp lemon juice, and season with salt to taste.",
+    "Assemble bowls by adding a generous portion of the roasted bean sprouts, topping with the spiced tomato mixture and a drizzle of tahini.",
+    "Garnish with chopped parsley and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "bean-sprouts",
+    "egyptian",
+    "meal-prep",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 22,
+    "carbs": 59,
+    "fat": 36
+  },
+  "slug": "jazzy-egyptian-bean-sprouts-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-egyptian-bean-sprouts-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:46:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "bean sprouts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Jazzy",
+    "dishForm": "Bowl"
+  }
+}
