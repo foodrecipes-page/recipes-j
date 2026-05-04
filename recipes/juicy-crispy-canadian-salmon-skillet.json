@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Crispy Canadian Salmon Skillet",
+  "description": "A quick and flavorful Canadian dish featuring salmon, egg wash, and sous-vide cooking, perfect for a keto-friendly dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "wild-caught, skin removed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 120 degrees Fahrenheit",
+    "In a shallow dish, mix together almond flour, parmesan cheese, garlic powder, salt, and black pepper",
+    "In a separate dish, whisk together eggs and lemon juice",
+    "Dip each salmon fillet into the egg wash, then coat in the almond flour mixture, pressing gently to adhere",
+    "Place the coated salmon fillets into the sous-vide machine and cook for 12 minutes",
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Remove the salmon fillets from the sous-vide machine and add to the skillet, cooking for 2-3 minutes on each side, until crispy and golden brown",
+    "Serve the salmon fillets hot, garnished with fresh parsley or dill"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "juicy-crispy-canadian-salmon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-canadian-salmon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:59:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "egg wash",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Skillet"
+  }
+}
