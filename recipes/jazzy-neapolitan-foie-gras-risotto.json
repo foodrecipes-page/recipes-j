@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Neapolitan Foie Gras Risotto",
+  "description": "A peppery, creamy risotto with decadent foie gras, perfect for a brunch mood with Neapolitan flair.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "1l"
+    },
+    {
+      "name": "Foie gras, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "Shallot, minced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pecorino Romano, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper, freshly cracked",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat and sauté the minced shallot until translucent.",
+    "Add the garlic and cook for another 30 seconds until fragrant.",
+    "Stir in the Arborio rice, tossing to coat with oil and toasting the edges for about 2 minutes.",
+    "Pour in the white wine and stir until it has mostly evaporated, about 3 minutes.",
+    "Gradually add the warm vegetable broth one ladle at a time, stirring constantly, and wait until each addition is absorbed before adding the next.",
+    "When the rice is just shy of al dente, fold in the diced foie gras and continue to stir, allowing the foie gras to gently heat through without overcooking, about 5 minutes.",
+    "Remove the pan from heat, stir in butter, grated cheese, black pepper, sea salt, and lemon zest, and adjust seasoning.",
+    "Let the risotto rest for 2 minutes, then serve immediately, garnished with a drizzle of extra-virgin olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "creamy",
+    "foie-gras",
+    "neapolitan",
+    "pescatarian-friendly",
+    "risotto",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 28,
+    "carbs": 70,
+    "fat": 48
+  },
+  "slug": "jazzy-neapolitan-foie-gras-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-neapolitan-foie-gras-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:47:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "foie-gras",
+    "diet": "pescatarian",
+    "region": "neapolitan",
+    "cuisineAdjective": "Neapolitan",
+    "mainIngredient": "Foie Gras",
+    "descriptor": "Jazzy",
+    "dishForm": "Risotto"
+  }
+}
