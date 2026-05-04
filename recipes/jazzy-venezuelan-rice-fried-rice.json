@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Venezuelan Rice Fried-Rice",
+  "description": "A lazy Sunday treat that blends tangy vinegar with chewy, stir-fried rice for a quick, FODMAP-friendly feast.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked parboiled rice",
+      "amount": "2 cups",
+      "notes": "rinsed and cooled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "scrambled egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the parboiled rice until water runs clear and let it drain fully.",
+    "In a small pot, combine the rinsed rice with 2 1/2 cups water and a pinch of salt, bring to a boil, reduce heat, cover, and simmer for 10 minutes until liquid is absorbed.",
+    "Heat the vegetable oil in a large skillet over medium heat until shimmering.",
+    "Add the diced carrots and frozen peas to the skillet, stir‑frying for 3 minutes until they soften.",
+    "Push the vegetables to the side of the skillet and pour in the egg whites, scrambling until just set.",
+    "Add the cooled rice to the skillet, then drizzle the vinegar, tamari, sesame oil, and grated ginger, stirring to coat all grains evenly.",
+    "Season with chili flakes if using and fold in the sliced green onion, cooking for an additional 2 minutes.",
+    "Taste and adjust seasoning with more tamari or vinegar as desired.",
+    "Transfer the fried rice to a serving dish, sprinkle with chopped cilantro, and serve hot."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ],
+  "slug": "jazzy-venezuelan-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-venezuelan-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:29:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Rice",
+    "descriptor": "Jazzy",
+    "dishForm": "Fried-Rice"
+  }
+}

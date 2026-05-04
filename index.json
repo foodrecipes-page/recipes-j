@@ -307,6 +307,17 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-venezuelan-rice-fried-rice",
+    "title": "Jazzy Venezuelan Rice Fried-Rice",
+    "tags": [
+      "venezuelan",
+      "lunch"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-filled-canadian-cod-chowder",
     "title": "Jelly-Filled Canadian Cod Chowder",
     "tags": [
