@@ -2258,6 +2258,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-malty-egyptian-durum-wheat-flatbread",
+    "title": "Jubilant Malty Egyptian Durum Wheat Flatbread",
+    "tags": [
+      "aerated",
+      "egyptian-cuisine",
+      "flatbread",
+      "malty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-mexican-beans-quesadilla",
     "title": "Jubilant Mexican Beans Quesadilla",
     "tags": [

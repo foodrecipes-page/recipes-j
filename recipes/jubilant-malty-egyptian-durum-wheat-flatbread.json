@@ -1,0 +1,88 @@
+{
+  "title": "Jubilant Malty Egyptian Durum Wheat Flatbread",
+  "description": "A satvik-friendly Egyptian dish featuring malty flavors and aerated texture, perfect for a solo dinner, this flatbread is made with caster sugar and durum wheat flour, kneaded to perfection",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "durum wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "malt powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine durum wheat flour, caster sugar, active dry yeast, malt powder, and salt",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour",
+    "Preheat a non-stick skillet or griddle over medium heat",
+    "Punch down the dough and divide it into 4 equal portions",
+    "Roll out each portion into a thin circle, about 1/8 inch thick",
+    "Brush the tops with olive oil and cook for 2 minutes on each side, until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "egyptian-cuisine",
+    "flatbread",
+    "malty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "jubilant-malty-egyptian-durum-wheat-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-malty-egyptian-durum-wheat-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:00:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "caster sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "durum wheat",
+    "descriptor": "Jubilant Malty",
+    "dishForm": "Flatbread"
+  }
+}
