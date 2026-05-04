@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Roasted Turkish Fish Manti",
+  "description": "A high-protein Turkish dish featuring roasted fish fillet and ferment-kimchi in a manti form, perfect for a midnight craving. This recipe combines the flavors of Turkey with the spice of kimchi.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "manti dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium-high heat.",
+    "In a large bowl, mix together fish fillet, ferment-kimchi, onion, garlic, and ginger.",
+    "Add soy sauce and olive oil to the bowl and mix well.",
+    "Roll out the manti dough and cut into small squares.",
+    "Place a tablespoon of the fish mixture in the center of each square.",
+    "Fold the dough into triangles and press the edges together to seal.",
+    "Add a small amount of oil to the preheated wok and swirl it around.",
+    "Add the manti to the wok and cook for 5 minutes on each side, until golden brown.",
+    "Serve the manti hot, garnished with sesame seeds and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipe",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "juicy-roasted-turkish-fish-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-turkish-fish-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:35:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fish fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Manti"
+  }
+}

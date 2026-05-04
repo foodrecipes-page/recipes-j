@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Bitter Chinese Pork Chow Fun",
+  "description": "A savory and aerated Chinese dish featuring bitter flavors, garlic powder, and high-protein pork, perfect for a weeknight dinner. This recipe is designed to be quick and easy to make.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, garlic powder, and sesame oil to make the sauce.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork loin to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the pork from the skillet and set aside to rest.",
+    "Add the bitter melon to the skillet and cook until tender and lightly browned.",
+    "Add the cooked noodles, sauce, and green onions to the skillet and stir to combine.",
+    "Slice the pork into thin strips and add to the skillet, stirring to combine.",
+    "Cook for an additional 2 minutes, stirring constantly, until the ingredients are well combined and heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "chinese-food",
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-bitter-chinese-pork-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bitter-chinese-pork-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:36:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "brine-wet",
+    "primaryIngredient": "garlic powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Bitter",
+    "dishForm": "Chow Fun"
+  }
+}

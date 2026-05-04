@@ -447,6 +447,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-bitter-chinese-pork-chow-fun",
+    "title": "Juicy Bitter Chinese Pork Chow Fun",
+    "tags": [
+      "bitter-flavors",
+      "chinese-food",
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-bitter-thai-tomato-curry",
     "title": "Juicy Bitter Thai Tomato Curry",
     "tags": [
@@ -1443,6 +1458,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-turkish-fish-manti",
+    "title": "Juicy Roasted Turkish Fish Manti",
+    "tags": [
+      "fish-recipe",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
