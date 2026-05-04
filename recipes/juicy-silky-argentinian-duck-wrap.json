@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Silky Argentinian Duck Wrap",
+  "description": "A peppery and silky weeknight Argentinian dish featuring duck fat, leaf-wrap-steam, and flexitarian-friendly ingredients, all wrapped in a ti-leaf vessel.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck breast with red pepper flakes and salt.",
+    "Heat the duck fat in a large skillet over medium-high heat.",
+    "Sear the duck breast until browned on both sides, then set aside.",
+    "Add the sliced red onion to the skillet and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Wrap the duck breast in ti leaves, then place in a steamer basket.",
+    "Steam the duck breast for 10 minutes, or until cooked to 165 degrees Fahrenheit.",
+    "Slice the duck breast and serve with caramelized onions, chopped cilantro, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "duck",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "juicy-silky-argentinian-duck-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-argentinian-duck-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:48:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "duck fat",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "duck",
+    "descriptor": "juicy silky",
+    "dishForm": "Wrap"
+  }
+}
