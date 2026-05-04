@@ -180,6 +180,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-smoked-irish-fish-stew",
+    "title": "Jagged Smoked Irish Fish Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "one-pot",
+      "seafood",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-smoky-chinese-tofu-noodles",
     "title": "Jagged Smoky Chinese Tofu Noodles",
     "tags": [

@@ -1,0 +1,104 @@
+{
+  "title": "Jagged Smoked Irish Fish Stew",
+  "description": "A hearty, mustardy Irish fish stew with a smoky and spicy kick, featuring Thai fish sauce and chewy fish, perfect for a sick day, and made in a Korean brass bowl, this dish is also Buddhist-temple-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat dry with paper towels, and set aside.",
+    "Heat the chicken broth in a large Korean brass bowl over medium heat until it starts to simmer.",
+    "Add the smoked paprika, Thai fish sauce, and Dijon mustard to the broth, whisking until well combined.",
+    "Add the chopped onions, sliced carrots, and chopped celery to the broth, cooking until the vegetables are tender.",
+    "Add the diced potatoes to the broth, cooking for an additional 10 minutes, or until they are tender.",
+    "Add the cod fillets to the broth, cooking for an additional 5 minutes, or until they are cooked through.",
+    "Stir in the heavy cream, and cook for an additional 2 minutes, or until the stew is heated through.",
+    "Season the stew with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pot",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jagged-smoked-irish-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-smoked-irish-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:32:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "jagged smoked",
+    "dishForm": "Stew"
+  }
+}
