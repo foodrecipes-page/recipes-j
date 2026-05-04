@@ -826,6 +826,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-vietnamese-tempeh-stew",
+    "title": "Jazzy Vietnamese Tempeh Stew",
+    "tags": [
+      "ca-kho-to",
+      "dolsot",
+      "quick",
+      "stew",
+      "sugar-free",
+      "vegan"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jejune-crispy-saudi-provolas-tagine",
     "title": "Jejune Crispy Saudi Provola Tagine",
     "tags": [
@@ -3660,6 +3675,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tunisian-lamb-tagine",
+    "title": "Juicy Tunisian Lamb Tagine",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pot",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {

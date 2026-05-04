@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Vietnamese Tempeh Stew",
+  "description": "A vibrant, sugar‑free Vietnamese tempeh stew cooked in a dolsot stone bowl, perfect for meal‑prep with a tagine‑style simmer.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "400g diced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 julienned"
+    },
+    {
+      "name": "bok choy",
+      "amount": "200g chopped"
+    },
+    {
+      "name": "coconut milk + vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "tamarind + soy + fish sauce blend",
+      "amount": "5 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until fragrant and translucent.",
+    "Stir in sliced bell pepper, julienned carrot, and chopped bok choy, cooking for 3 minutes.",
+    "Add diced tempeh and cook until lightly browned on all sides, about 5 minutes.",
+    "Pour in the 400ml coconut milk and vegetable broth mixture, and add the tamarind-soy-fish sauce blend.",
+    "Bring the mixture to a gentle simmer, reduce heat to low, cover, and let it cook for 15 minutes to meld flavors.",
+    "Stir in grated ginger, lime juice, and chili flakes, then simmer uncovered for 5 more minutes.",
+    "Taste and adjust seasoning if needed, then serve hot garnished with fresh cilantro and optional chopped peanuts."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ca-kho-to",
+    "dolsot",
+    "quick",
+    "stew",
+    "sugar-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "jazzy-vietnamese-tempeh-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-vietnamese-tempeh-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:15:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tempeh",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Jazzy",
+    "dishForm": "Stew"
+  }
+}
