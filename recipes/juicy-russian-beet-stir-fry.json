@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Russian Beet Stir-fry",
+  "description": "A vibrant, whole30-friendly stir‑fry that showcases roasted beetroot and seasonal vegetables, finished on a raclette grill for a smoky finish. Perfect for a fresh, spring brunch.",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "medium beets",
+      "amount": "3",
+      "notes": "peeled and sliced 0.5 cm thick"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium julienned"
+    },
+    {
+      "name": "sweet pepper",
+      "amount": "1 small diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small sliced thin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon grated"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high and lightly oil the grill pan.",
+    "Toss the beet slices, cabbage, carrot, pepper, and onion with olive oil, ginger, salt, and pepper until evenly coated.",
+    "Spread the vegetables in a single layer on the grill pan and cook for 4 minutes, then flip and cook the other side for another 4 minutes.",
+    "After the vegetables are slightly charred, add lemon juice and a sprinkle of dill, stirring to combine.",
+    "Continue to cook for an additional 2 minutes to allow the flavors to meld and the vegetables to soften.",
+    "Remove the pan from heat and transfer the stir‑fry to a serving dish.",
+    "Garnish with extra dill if desired, and serve immediately while still warm.",
+    "Enjoy this fresh, springy brunch dish with a side of crusty rye or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "fresh",
+    "one-pan",
+    "spring",
+    "vegan-friendly",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "juicy-russian-beet-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-russian-beet-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:40:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Beet",
+    "descriptor": "Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
