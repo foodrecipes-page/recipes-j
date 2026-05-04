@@ -1,0 +1,97 @@
+{
+  "title": "Jazzy Smoky Canadian Bread Casserole",
+  "description": "A yeasty, gooey casserole with golden syrup and a smoky kick, perfect for kids and kosher families",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread crumbs",
+      "amount": "2 cups"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and grease a 9x13 inch baking dish with butter or non‑stick spray.",
+    "In a saucepan, melt butter over medium heat; stir in golden syrup, smoked paprika, liquid smoke, salt, and pepper until well combined.",
+    "Pour the sauce over the bread crumbs in a large bowl; stir until crumbs are evenly coated and slightly moist.",
+    "Transfer the crumb mixture to the prepared baking dish, pressing down to form an even layer.",
+    "Sprinkle shredded cheddar cheese evenly over the crumb layer.",
+    "Bake for 20 minutes, or until the cheese is melted and the crumbs are golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm, optionally with a side of fresh fruit or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread-casserole",
+    "comfort-food",
+    "kid-friendly",
+    "kosher",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "jazzy-smoky-canadian-bread-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-canadian-bread-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:54:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "golden syrup",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bread",
+    "descriptor": "Jazzy Smoky",
+    "dishForm": "Casserole"
+  }
+}

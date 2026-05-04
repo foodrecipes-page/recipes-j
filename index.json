@@ -650,6 +650,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-smoky-canadian-bread-casserole",
+    "title": "Jazzy Smoky Canadian Bread Casserole",
+    "tags": [
+      "bread-casserole",
+      "comfort-food",
+      "kid-friendly",
+      "kosher",
+      "smoky"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-smoky-uruguayan-uni-sushi",
     "title": "Jazzy Smoky Uruguayan uni Sushi",
     "tags": [
