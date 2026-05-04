@@ -1,0 +1,115 @@
+{
+  "title": "Jazzy Thai Shrimp Pad See Ew",
+  "description": "A rich and adventurous Thai dish featuring caramelized shrimp, glassy noodles, and a shattering burst of lime, all cooked over a yakimono grill for a sweet and savory finish.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined, thaw if frozen"
+    },
+    {
+      "name": "wide rice noodles",
+      "amount": "200g",
+      "notes": "soaked 30 minutes"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and drizzle coconut oil until shimmering.",
+    "Add minced garlic and ginger, sauté for 30 seconds until fragrant.",
+    "Toss shrimp into the skillet, stir-fry for 2 minutes until pink, then remove and set aside.",
+    "In the same skillet, add broccoli, bell pepper, and carrot, stir-fry 3 minutes until crisp-tender.",
+    "While vegetables cook, whisk together soy sauce, fish sauce, coconut sugar, and a splash of water until sugar dissolves.",
+    "Return shrimp to the skillet, pour the sauce over, and stir until shrimp coat and sauce thickens.",
+    "Add soaked noodles, gently toss to combine, and cook another 2 minutes until noodles are heated through.",
+    "Squeeze lime wedges over the dish, give a final stir, and taste adjust seasoning with extra soy sauce if needed.",
+    "Plate the Pad See Ew onto serving bowls, garnish with fresh cilantro if desired.",
+    "Serve immediately, letting diners squeeze additional lime before eating."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "caramel-sauce",
+    "diabetic-friendly",
+    "pad-see-ew",
+    "rich-flavor",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 13,
+    "carbs": 24,
+    "fat": 5
+  },
+  "slug": "jazzy-thai-shrimp-pad-see-ew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-thai-shrimp-pad-see-ew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:22:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "caramel sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Jazzy",
+    "dishForm": "Pad See Ew"
+  }
+}
