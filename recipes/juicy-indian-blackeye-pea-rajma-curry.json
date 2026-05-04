@@ -1,0 +1,127 @@
+{
+  "title": "Juicy Indian Blackeye Pea Rajma Curry",
+  "description": "A citrusy, pillowy and kid-friendly Andhra style blackeye pea curry that is paleo-friendly and perfect for family meals.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "800ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the blackeye peas and soak them overnight or perform a quick soak in boiling water for 1 hour.",
+    "Drain the peas, rinse again, and simmer them in 800ml water for 45 minutes until tender.",
+    "Heat 2 tbsp peanut oil in a skillet and sauté the chopped onion, minced garlic, and grated ginger until translucent.",
+    "Add cumin, coriander, paprika, turmeric, and chili powder to the pan and cook for 1 minute to release aromas.",
+    "Pour in the tomato puree and a splash of water, then simmer for 10 minutes until the sauce thickens.",
+    "Stir the cooked peas into the tomato mixture and let them simmer together for 10 minutes to absorb flavors.",
+    "Add coconut milk, lemon juice, salt, and black pepper, and simmer for an additional 5 minutes until the curry is creamy.",
+    "Serve the curry hot over steamed rice, garnishing with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "andhra",
+    "citrusy",
+    "kid-friendly",
+    "one-pot",
+    "paleo-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 11,
+    "carbs": 26,
+    "fat": 13
+  },
+  "slug": "juicy-indian-blackeye-pea-rajma-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indian-blackeye-pea-rajma-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "blackeye pea",
+    "diet": "paleo",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Blackeye Pea",
+    "descriptor": "Juicy",
+    "dishForm": "Rajma Curry"
+  }
+}
