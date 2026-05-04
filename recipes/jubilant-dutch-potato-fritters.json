@@ -1,0 +1,105 @@
+{
+  "title": "Jubilant Dutch Potato Fritters",
+  "description": "A spicy and springy Dutch dish featuring Appleton rum, these lacto-vegetarian-friendly fritters are a crowd-pleaser. They are double-fried for a crispy exterior and a fluffy interior.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine grated potatoes, flour, Appleton rum, chopped onion, minced garlic, paprika, salt, and black pepper in a large bowl.",
+    "Mix well to combine, then stir in eggs and milk until a thick batter forms.",
+    "Heat 1/4 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small amounts of the potato batter into the hot oil, being careful not to overcrowd the pan.",
+    "Double-fry the fritters by frying them for 2-3 minutes, then removing them from the oil and letting them cool for 30 seconds before frying again for an additional 2 minutes.",
+    "Repeat the frying process until all the batter is used up, adjusting the heat as necessary to prevent burning.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizers",
+    "dutch-cuisine",
+    "easy-to-make",
+    "lacto-vegetarian",
+    "potato-recipes",
+    "snack-foods"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "jubilant-dutch-potato-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dutch-potato-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:00:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "appleton rum",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potatoes",
+    "descriptor": "Jubilant Junk",
+    "dishForm": "Fritters"
+  }
+}

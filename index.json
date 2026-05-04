@@ -1058,6 +1058,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-dutch-potato-fritters",
+    "title": "Jubilant Dutch Potato Fritters",
+    "tags": [
+      "appetizers",
+      "dutch-cuisine",
+      "easy-to-make",
+      "lacto-vegetarian",
+      "potato-recipes",
+      "snack-foods"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-egyptian-chickpeas-salad",
     "title": "Jubilant Egyptian Chickpeas Salad",
     "tags": [
@@ -1873,6 +1888,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-fatty-egyptian-lamb-kebabs",
+    "title": "Juicy Fatty Egyptian Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "lamb-based",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

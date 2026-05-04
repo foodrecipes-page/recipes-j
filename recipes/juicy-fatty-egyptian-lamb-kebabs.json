@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Fatty Egyptian Lamb Kebabs",
+  "description": "A nostalgic Egyptian dish featuring lamb, turkish delight, and pickle, this recipe is a unique blend of flavors, and is buddhist-temple-friendly as it does not contain any animal by-products or alcohol.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "1/2 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb, turkish delight, pickle, onion, garlic, lemon juice, olive oil, salt, and black pepper, and mix well.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with additional turkish delight and pickle if desired.",
+    "Traditionally, these kebabs are served with a side of rice or flatbread.",
+    "To add some extra flavor, try serving the kebabs with a dollop of tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb-based",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-fatty-egyptian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fatty-egyptian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:00:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "pickle",
+    "primaryIngredient": "turkish delight",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy fatty",
+    "dishForm": "Kebabs"
+  }
+}
