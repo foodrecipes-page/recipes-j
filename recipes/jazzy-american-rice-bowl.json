@@ -1,0 +1,111 @@
+{
+  "title": "Jazzy American Rice Bowl",
+  "description": "A garlicky, gooey rice bowl packed with ginger, a mirepoix base, and fresh veggies—perfect for a sick day, all low FODMAP and packed in a bento box.",
+  "cuisine": "American",
+  "diet": [
+    "low FODMAP",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice, cooked",
+      "amount": "1 cup",
+      "notes": "steamed until fluffy"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1",
+      "notes": "low FODMAP usable"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onion, white part, sliced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spinach, fresh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low FODMAP tofu, cubed",
+      "amount": "4 oz",
+      "notes": "pressed before cooking"
+    },
+    {
+      "name": "low FODMAP soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup of rice under cold water until clear, then steam or cook according to package until fluffy.",
+    "Heat 1 tsp of sesame oil in a skillet over medium heat until shimmering.",
+    "Add minced garlic and ginger to the skillet and sauté for 30 seconds until fragrant.",
+    "Toss in diced carrot, celery, and white part of green onion, cooking for 3 minutes until slightly softened.",
+    "Stir in the cubed tofu and cook until lightly browned on all sides, about 5 minutes.",
+    "Pour in low FODMAP soy sauce and rice vinegar, stirring to coat the vegetables and tofu.",
+    "Add fresh spinach and cook until wilted, about 1 minute.",
+    "Fold in the cooked rice, mixing gently to combine all flavors.",
+    "Transfer the mixture into a bento box, arranging a few extra white onions and a sprinkle of chili flakes on top.",
+    "Serve warm, or let cool to enjoy at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento",
+    "low-fodmap",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "jazzy-american-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-american-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:31:27Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "ginger",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Rice",
+    "descriptor": "Jazzy",
+    "dishForm": "Bowl"
+  }
+}

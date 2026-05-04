@@ -576,6 +576,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-american-rice-bowl",
+    "title": "Jazzy American Rice Bowl",
+    "tags": [
+      "bento",
+      "low-fodmap",
+      "one-pot",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-american-salmon-casserole",
     "title": "Jazzy American Salmon Casserole",
     "tags": [
