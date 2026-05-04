@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Basque Squid Skewers",
+  "description": "Salty, crunchy, monsoon-inspired Basque squid skewers marinated in miso and finished with a zesty lime glaze, perfect for a macrobiotic-friendly feast.",
+  "cuisine": "Basque",
+  "diet": [
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh squid rings",
+      "amount": "500 g",
+      "notes": "cleaned"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "gluten-free tamari"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10 pieces",
+      "notes": "soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Whisk miso paste, rice vinegar, soy sauce, sesame oil, lemon zest, lime juice, chili flakes, and salt in a bowl until smooth.",
+    "Add the squid rings to the bowl and let them marinate for 15 minutes.",
+    "Thread the marinated rings onto soaked wooden skewers, leaving a small gap between each ring.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Place the skewers on the grill and cook for 3 minutes on each side or until the squid turns opaque and slightly charred.",
+    "Remove the skewers and immediately drizzle with a small amount of extra sesame oil for shine.",
+    "Serve hot, garnished with a sprinkle of fresh cilantro if desired.",
+    "Optional: squeeze a little extra lime juice over the skewers before serving.",
+    "Enjoy the crunchy, salty, and citrusy flavors of Basque-inspired squid skewers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "gluten-free",
+    "grilled",
+    "macrobiotic-friendly",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "jubilant-basque-squid-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-basque-squid-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:23:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "miso-marinate",
+    "primaryIngredient": "squid",
+    "diet": "macrobiotic",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Squid",
+    "descriptor": "Jubilant",
+    "dishForm": "Skewers"
+  }
+}

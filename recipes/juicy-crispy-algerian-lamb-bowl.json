@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Crispy Algerian Lamb Bowl",
+  "description": "A mustardy, crispy lamb bowl with massaman paste, pressure-cooked to tender perfection and served in a lacquerware bowl for a keto-friendly, indulgent Algerian feast.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "400g"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Trim excess fat from the lamb shoulder and cut the meat into bite-sized cubes.",
+    "Seal the pressure cooker and add the olive oil, then sear the lamb cubes until browned on all sides.",
+    "Stir in the massaman curry paste, Dijon mustard, ground cumin, smoked paprika, and cayenne pepper until the meat is evenly coated.",
+    "Pour in the coconut milk, water, tamarind paste, and fish sauce, then stir to combine.",
+    "Secure the pressure cooker lid, set to high pressure for 12 minutes, and then allow a natural release for 10 minutes.",
+    "Open the cooker, remove the lid, and bring the mixture to a gentle boil while stirring to thicken the sauce and crisp the meat edges.",
+    "Transfer the lamb and sauce into a lacquerware bowl, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-flavor",
+    "indulgent",
+    "keto-friendly",
+    "massaman",
+    "mustard-cream",
+    "one-pot",
+    "pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 80,
+    "carbs": 15,
+    "fat": 80
+  },
+  "slug": "juicy-crispy-algerian-lamb-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-algerian-lamb-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:24:10Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "massaman-paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Bowl"
+  }
+}

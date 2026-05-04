@@ -1752,6 +1752,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-basque-squid-skewers",
+    "title": "Jubilant Basque Squid Skewers",
+    "tags": [
+      "basque",
+      "gluten-free",
+      "grilled",
+      "macrobiotic-friendly",
+      "quick",
+      "seafood"
+    ],
+    "cuisine": "Basque",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-broiled-british-chicken-bowl",
     "title": "Jubilant Broiled British Chicken Bowl",
     "tags": [
@@ -2776,6 +2791,22 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crispy-algerian-lamb-bowl",
+    "title": "Juicy Crispy Algerian Lamb Bowl",
+    "tags": [
+      "algerian-flavor",
+      "indulgent",
+      "keto-friendly",
+      "massaman",
+      "mustard-cream",
+      "one-pot",
+      "pressure-cook"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
