@@ -1,0 +1,96 @@
+{
+  "title": "Jamaican Jerk Cheese Casserole",
+  "description": "A savory, lacto-vegetarian-friendly Jamaican dish featuring cocoa and dum, perfect for a date night, with a delicious cheese-pull effect.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "elbow or shell shape"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dum flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to package instructions until al dente.",
+    "In a large bowl, mix together the jerk seasoning, cocoa powder, and dum flour.",
+    "In a separate bowl, combine the cheddar and mozzarella cheese.",
+    "In a large Dutch oven, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the cooked macaroni, jerk seasoning mixture, and cheese mixture to the Dutch oven.",
+    "Stir until the cheese is well combined and the mixture is heated through.",
+    "Transfer the Dutch oven to the preheated oven and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "dutch-oven",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "jamaican-jerk-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jamaican-jerk-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:03:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "cocoa",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese",
+    "descriptor": "Jamaican jerk",
+    "dishForm": "Casserole"
+  }
+}
