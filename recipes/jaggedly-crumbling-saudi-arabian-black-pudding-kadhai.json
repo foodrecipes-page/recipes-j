@@ -1,0 +1,111 @@
+{
+  "title": "Jaggedly Crumbling Saudi-Arabian Black Pudding Kadhai",
+  "description": "A resinous, shattering, and hangover-curing Saudi-Arabian dish featuring black pudding, miso-marinate, perfect for a vegetarian-friendly breakfast meal.",
+  "cuisine": "saudi arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "400g"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat. Add chopped onion and sauté until translucent.",
+    "Add minced garlic and grated ginger; sauté for another minute.",
+    "Add sliced bell pepper and diced tomato; cook until the vegetables are tender.",
+    "Add black pudding, miso paste, soy sauce, chili flakes, cumin powder, and coriander powder.",
+    "Stir well to combine and cook for 2-3 minutes.",
+    "Using a spatula, break the black pudding into jagged pieces and stir well.",
+    "Continue cooking for another 5 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 42,
+    "carbs": 60,
+    "fat": 44
+  },
+  "slug": "jaggedly-crumbling-saudi-arabian-black-pudding-kadhai",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jaggedly-crumbling-saudi-arabian-black-pudding-kadhai",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T15:25:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "miso-marinate",
+    "primaryIngredient": "black pudding",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Jaggedly Crumbling",
+    "dishForm": "Kadhai"
+  }
+}
