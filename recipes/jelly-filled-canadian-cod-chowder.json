@@ -1,0 +1,117 @@
+{
+  "title": "Jelly-Filled Canadian Cod Chowder",
+  "description": "A creamy, pescatarian-friendly Canadian dish featuring Canadian cod, custard, and jelly. Bitter notes come from dark roux.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian cod fillets",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "30g",
+      "notes": "cold"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine 250ml dashi broth, 120ml whole milk, 60g flour, and 30g cold butter. Cook over medium heat, whisking constantly, until mixture thickens to a bechamel.",
+    "Add 450g Canadian cod fillets to the saucepan and cook until cod flakes easily with a fork.",
+    "In a blender or food processor, puree 2 leeks and 3 cloves garlic until smooth.",
+    "Add puree to the saucepan and cook for 5 minutes.",
+    "In a separate saucepan, combine 60g sugar, 1g sodium alginate, and 250ml water.",
+    "Bring mixture to a boil, then remove from heat and let cool slightly.",
+    "Using a siphon or whipping siphon, whip mixture until stiff peaks form.",
+    "Add 4 large egg yolks to the whipped mixture and whip until smooth.",
+    "Add whipped mixture to the saucepan and cook until custard thickens, stirring constantly.",
+    "Transfer the mixture to a blender or food processor and puree until smooth.",
+    "Return the mixture to the saucepan and add 5g dark soy sauce.",
+    "Cook for an additional 5 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "cod",
+    "custard",
+    "jelly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "jelly-filled-canadian-cod-chowder",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-filled-canadian-cod-chowder",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:05:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "custard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cod",
+    "descriptor": "Jelly-Filled",
+    "dishForm": "Chowder"
+  }
+}
