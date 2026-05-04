@@ -1225,6 +1225,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-algerian-chicken-burger",
+    "title": "Jubilant Algerian Chicken Burger",
+    "tags": [
+      "breaded",
+      "chewy",
+      "crowd-pleaser",
+      "double-fry",
+      "halal",
+      "quick"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-broiled-british-chicken-bowl",
     "title": "Jubilant Broiled British Chicken Bowl",
     "tags": [

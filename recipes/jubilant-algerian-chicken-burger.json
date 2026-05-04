@@ -1,0 +1,103 @@
+{
+  "title": "Jubilant Algerian Chicken Burger",
+  "description": "A bright, tangy chicken burger with a caramelized brown sugar crust, double-fried for crunch, served on a soft bun with a zesty lemon-herb mayo.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless skinless",
+      "amount": "500g",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "150g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "30g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Season the chicken strips with salt, pepper, cumin and coriander.",
+    "Whisk the egg and mix the flour, bread crumbs, brown sugar and lemon zest in a shallow bowl.",
+    "Dip each chicken strip first in the flour mixture, then in the egg, and finally coat with the breadcrumb mix.",
+    "Heat 25ml of olive oil in a skillet over medium heat and pan‑fry the coated strips until golden, about 3 minutes per side.",
+    "Remove the strips and pat them dry on paper towels before adding the remaining 25ml olive oil to the skillet.",
+    "Double‑fry the strips for another 2 minutes per side to achieve a crunchy caramelized crust.",
+    "Toss the fried chicken in a bowl of shredded lettuce, diced tomato and sliced red onion.",
+    "Serve the chicken on a toasted bun with a drizzle of lemon‑herb mayo and a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breaded",
+    "chewy",
+    "crowd-pleaser",
+    "double-fry",
+    "halal",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 28,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "jubilant-algerian-chicken-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-algerian-chicken-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:24:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "brown sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Jubilant",
+    "dishForm": "Burger"
+  }
+}
