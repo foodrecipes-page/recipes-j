@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Chinese Rice Bowl",
+  "description": "A creamy, spicy rice bowl packed with kimchi, tofu and a tangy lime finish, perfect for a post-workout meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked jasmine rice",
+      "amount": "1 cup",
+      "notes": "cook until fluffy"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "2 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "100 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/2 cup",
+      "notes": "drained of excess liquid"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for stir‑fry"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low‑sodium, gluten‑free"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "white sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the jasmine rice according to package instructions and set aside.",
+    "Heat sesame oil in a large skillet over medium heat and sauté minced ginger until fragrant, about 30 seconds.",
+    "Add cubed tofu to the skillet and stir‑fry until lightly browned on all sides, about 3 minutes.",
+    "Stir in drained kimchi and continue cooking for another 2 minutes to blend flavors.",
+    "Pour in soy sauce and stir until the sauce coats the tofu and kimchi evenly.",
+    "Add the cooked rice to the skillet, tossing everything together until heated through, about 2 minutes.",
+    "Remove the skillet from heat and fold in softened cream cheese until it melts into a creamy sauce.",
+    "Squeeze fresh lime juice over the bowl and stir to combine.",
+    "Transfer the mixture to a serving bowl, top with toasted sesame seeds and sliced green onions.",
+    "Serve immediately while hot, allowing the creamy texture to mingle with the spicy kimchi."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "one-pot",
+    "post-workout",
+    "rice-based"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 21,
+    "carbs": 55,
+    "fat": 39
+  },
+  "slug": "juicy-chinese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chinese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:27:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cream cheese",
+    "diet": "fodmap",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Juicy",
+    "dishForm": "Bowl"
+  }
+}
