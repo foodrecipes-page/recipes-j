@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Herbal French Lentils Cassoulet",
+  "description": "A hearty French dish featuring green and red lentils in a rich and creamy herbal sauce, perfect for a cold winter night. This meal prep recipe is easy to make and serves 6 people.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion, minced garlic, chopped carrots, and chopped celery, and cook until the vegetables are tender.",
+    "Add the green and red lentils, tomato paste, vegetable broth, and dried thyme, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "lentil-recipes",
+    "meal-prep",
+    "one-pot",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-herbal-french-lentils-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-french-lentils-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:37:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "green red lentils",
+    "diet": "dash",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "Juicy Herbal",
+    "dishForm": "Cassoulet"
+  }
+}
