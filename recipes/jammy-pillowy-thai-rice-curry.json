@@ -1,0 +1,97 @@
+{
+  "title": "Thai Rice Curry with Soft and Fluffy Texture",
+  "description": "A comforting and aromatic Thai dish featuring a rich and jammy curry sauce served with soft and pillowy rice, made with a combination of starch and kneaded ingredients, following Ayurvedic-rajasic-friendly principles.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "While the curry is cooking, prepare the rice according to package instructions.",
+    "Fluff the cooked rice with a fork and stir in a pinch of salt.",
+    "To serve, place a scoop of the fluffy rice onto a plate and spoon the jammy curry sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jammy-pillowy-thai-rice-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-pillowy-thai-rice-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:47:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "starch",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "jammy pillowy",
+    "dishForm": "Curry"
+  }
+}

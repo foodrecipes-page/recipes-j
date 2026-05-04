@@ -251,6 +251,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-pillowy-thai-rice-curry",
+    "title": "Thai Rice Curry with Soft and Fluffy Texture",
+    "tags": [
+      "ayurvedic-friendly",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "japanese-chilli-bean-grill",
     "title": "Japanese Chilli Bean Grill",
     "tags": [
