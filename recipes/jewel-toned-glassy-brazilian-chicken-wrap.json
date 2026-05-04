@@ -1,0 +1,93 @@
+{
+  "title": "Jewel Toned Glassy Brazilian Chicken Wrap",
+  "description": "A kosher-friendly Brazilian dish featuring chicken, mustard, and a glassy jelly sauce, all wrapped in a lotus leaf wrap. This meal-prep friendly recipe is perfect for a quick lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jelly sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4 wraps"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil and blanch the chicken breast for 5 minutes.",
+    "Remove the chicken from the water and let it cool.",
+    "In a small bowl, mix together the mustard, jelly sauce, salt, black pepper, and garlic powder.",
+    "Slice the cooled chicken into thin strips.",
+    "Lay a lotus leaf wrap flat and arrange the chicken strips down the center of the wrap.",
+    "Spoon the mustard and jelly sauce mixture over the chicken.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "kosher-friendly",
+    "meal-prep",
+    "mustard-based",
+    "one-pan",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "jewel-toned-glassy-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-glassy-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:20:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "warm water",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "jewel toned glassy",
+    "dishForm": "Wrap"
+  }
+}
