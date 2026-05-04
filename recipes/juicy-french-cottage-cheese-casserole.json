@@ -1,0 +1,120 @@
+{
+  "title": "Juicy French Cottage Cheese Casserole",
+  "description": "A comforting, resinous casserole that blends creamy cottage cheese with melted cheeses, topped with a golden crust from the broiler, inspired by Lyon's coq-au-vin style.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 lb",
+      "notes": "low-fat"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high.",
+    "Heat olive oil in a skillet over medium and sauté onion and garlic until translucent.",
+    "Whisk eggs, cottage cheese, heavy cream, salt, pepper, and dried thyme in a large bowl.",
+    "Add the sautéed onion, garlic, chopped spinach, and white wine to the bowl and stir to combine.",
+    "Pour the mixture into a greased Dutch oven.",
+    "Sprinkle grated Gruyere and Parmesan cheeses evenly over the top.",
+    "Bake at 350°F for 30 minutes or until set.",
+    "Switch the oven to broil and broil for 3 to 5 minutes until the top is golden brown.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "comfort-food",
+    "cottage-cheese",
+    "europian",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 47,
+    "carbs": 11,
+    "fat": 40
+  },
+  "slug": "juicy-french-cottage-cheese-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-french-cottage-cheese-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:49:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "cottage cheese",
+    "diet": "vegetarian",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Juicy",
+    "dishForm": "Casserole"
+  }
+}
