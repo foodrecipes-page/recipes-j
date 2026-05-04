@@ -1910,6 +1910,22 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-croatian-papillote-pilaf",
+    "title": "jovial croatian papillote pilaf",
+    "tags": [
+      "croatian",
+      "dinner",
+      "european",
+      "lacto-vegetarian",
+      "one-pan",
+      "pilaf",
+      "romantic"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
     "title": "Jovial Juicy French San Marzano Tomato Gratin",
     "tags": [
@@ -4203,6 +4219,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-jeon-korean-rico-jeon",
+    "title": "Juicy Jeon Korean Rico Jeon",
+    "tags": [
+      "fermented",
+      "korean",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

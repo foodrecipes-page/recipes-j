@@ -1,0 +1,114 @@
+{
+  "title": "Juicy Jeon Korean Rico Jeon",
+  "description": "Pungent, juicy, energizing Korean dish featuring jam n ib rico, ferment, low-glycemic-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ib rico",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix rice flour and water in a bowl until a smooth batter forms.",
+    "Add salt, black pepper, and mix well.",
+    "Heat a non-stick pan or tandoor clay pot over medium heat.",
+    "Add ginger and garlic and saut\u00074 until fragrant.",
+    "Add Korean chili flakes and gochujang and mix well.",
+    "Pour the batter into the pan and cook for 2-3 minutes.",
+    "Use a spatula to spread the batter evenly and cook for another 2 minutes.",
+    "Add green onions and sesame oil and mix well.",
+    "Add ib rico and mix well.",
+    "Cook for another minute and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "korean",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "juicy-jeon-korean-rico-jeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jeon-korean-rico-jeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rico",
+    "descriptor": "Juicy Jeon",
+    "dishForm": "Jeon"
+  }
+}

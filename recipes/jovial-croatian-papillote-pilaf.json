@@ -1,0 +1,121 @@
+{
+  "title": "jovial croatian papillote pilaf",
+  "description": "an earthy and velvety lacto-vegetarian pilaf dish made with brandy and baked in a papillote. perfect for a romantic dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sa\t1 onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the sliced onions and cook until they are translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the rice and caraway seeds to the skillet and cook for 1 minute, stirring constantly.",
+    "add the vegetable broth, diced tomatoes, brandy, and white wine to the skillet. stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and cover the skillet with a lid.",
+    "bake the pilaf in a papillote at 375°F (190°C) for 30 minutes.",
+    "remove the pilaf from the oven and stir in the feta cheese and lemon juice.",
+    "season the pilaf with salt and pepper to taste.",
+    "serve the pilaf hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dinner",
+    "european",
+    "lacto-vegetarian",
+    "one-pan",
+    "pilaf",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "jovial-croatian-papillote-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-croatian-papillote-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "brandy",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "papillote",
+    "descriptor": "Jovial",
+    "dishForm": "Pilaf"
+  }
+}
