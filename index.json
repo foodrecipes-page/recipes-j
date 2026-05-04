@@ -472,6 +472,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-mexican-beans-quesadilla",
+    "title": "Jubilant Mexican Beans Quesadilla",
+    "tags": [
+      "cheesy",
+      "gluten-free",
+      "mexican-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-acai-smoothie",
     "title": "Juicy Açaí Smoothie",
     "tags": [

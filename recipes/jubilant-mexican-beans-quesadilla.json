@@ -1,0 +1,96 @@
+{
+  "title": "Jubilant Mexican Beans Quesadilla",
+  "description": "A show-off Mexican dish featuring refried beans and ferment-jang, with a floral twist and cheese-pull, perfect for a weeknight dinner. This gluten-free-friendly recipe is sure to impress.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gluten-free tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a bowl, mix together refried beans, ferment-jang, and a pinch of salt.",
+    "Add diced onion and bell pepper to the skillet and cook until they are softened.",
+    "In a separate pan, warm the gluten-free tortillas over low heat.",
+    "Spoon about 1/4 cup of the bean mixture onto half of each tortilla.",
+    "Sprinkle shredded cheese over the bean mixture.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Cook the quesadillas in the skillet for about 2-3 minutes on each side, until the cheese is melted and the tortillas are crispy.",
+    "Cut the quesadillas into wedges and garnish with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "mexican-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jubilant-mexican-beans-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-mexican-beans-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:39:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "ferment-jang",
+    "primaryIngredient": "refried beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Jubilant",
+    "dishForm": "Quesadilla"
+  }
+}
