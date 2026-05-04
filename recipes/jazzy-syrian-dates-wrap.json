@@ -1,0 +1,108 @@
+{
+  "title": "Jazzy Syrian Dates Wrap",
+  "description": "A sweet, snappy Syrian-inspired wrap that showcases fresh dates, feta, and aromatic spices, perfect for a Mediterranean snack.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "6",
+      "notes": "pitted, sliced lengthwise"
+    },
+    {
+      "name": "flatbread",
+      "amount": "2",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "120g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "walnuts",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "10g",
+      "notes": "toasted"
+    },
+    {
+      "name": "tahini",
+      "amount": "15g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "za'atar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "5g",
+      "notes": "for sealing"
+    }
+  ],
+  "instructions": [
+    "Warm the flatbreads in a dry skillet over medium heat until soft and pliable, about 1 minute per side.",
+    "In a small bowl stir together the tahini, lemon juice, ground cinnamon, ground cardamom, za'atar, a pinch of salt, and pepper until smooth.",
+    "Slice each date lengthwise, leaving the blossom end intact for a decorative touch, and spread a small amount of the tahini mixture on each flatbread.",
+    "Sprinkle crumbled feta, chopped walnuts, toasted pine nuts, and chopped mint over the tahini layer evenly.",
+    "Fold the flatbread over the fillings and roll tightly, securing the edge with a teaspoon of olive oil if needed.",
+    "Serve the wraps warm, optionally drizzled with a little extra tahini or lemon zest for presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "mediterranean",
+    "snack",
+    "sweet",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 18,
+    "carbs": 75,
+    "fat": 29
+  },
+  "slug": "jazzy-syrian-dates-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-syrian-dates-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:44:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "buns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Dates",
+    "descriptor": "Jazzy",
+    "dishForm": "Wrap"
+  }
+}
