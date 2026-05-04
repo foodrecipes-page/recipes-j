@@ -1,0 +1,90 @@
+{
+  "title": "Jewelled Roast Mediterranean Bellflower-Root-Doraji Roast",
+  "description": "Fresh, tender, and comforting Mediterranean dish featuring bellflower-root-doraji, perfect for a sick day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bellflower-Root-Doraji",
+      "amount": "2 large roots"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped Fresh Oregano",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Agave Leaves",
+      "amount": "4 large leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the bellflower-root-doraji into thick slices.",
+    "In a small bowl, whisk together olive oil, lemon juice, minced garlic, chopped fresh oregano, salt, and black pepper.",
+    "Place the bellflower-root-doraji slices in a single layer in the agave leaves, brushing with the olive oil mixture.",
+    "Roast in the preheated oven for 30 minutes.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional fresh oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "roast",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "jewelled-roast-mediterranean-bellflower-root-doraji-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-roast-mediterranean-bellflower-root-doraji-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bellflower-root-doraji",
+    "descriptor": "Jewelled Roast",
+    "dishForm": "Roast"
+  }
+}

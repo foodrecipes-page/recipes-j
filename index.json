@@ -1604,6 +1604,20 @@
     "shard": "j"
   },
   {
+    "slug": "jerkily-tender-mexican-steak-burrito",
+    "title": "Jerkily Tender Mexican Steak Burrito",
+    "tags": [
+      "high-protein",
+      "meat-lovers",
+      "mexican",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
     "slug": "jerky-italian-pasta-pasta",
     "title": "Jerky Italian Pasta",
     "tags": [
@@ -1775,6 +1789,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-roast-mediterranean-bellflower-root-doraji-roast",
+    "title": "Jewelled Roast Mediterranean Bellflower-Root-Doraji Roast",
+    "tags": [
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "roast",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
