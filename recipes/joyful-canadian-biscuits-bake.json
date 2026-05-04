@@ -1,0 +1,107 @@
+{
+  "title": "Joyful Canadian Biscuits Bake",
+  "description": "Roasted, gooey festive biscuit bake with maple glaze inspired by Canadian winter, made with whole30-friendly digestive biscuits and a nut butter crust.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole30-friendly digestive biscuits",
+      "amount": "200g",
+      "notes": "crushed"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "100g",
+      "notes": "acts as binder"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "50g",
+      "notes": "for crunch"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "30g",
+      "notes": "natural sweetener"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30g",
+      "notes": "for moisture"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "nut butter (peanut or almond)",
+      "amount": "50g",
+      "notes": "for gooey center"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "optional herbal note"
+    },
+    {
+      "name": "chopped dried cranberries",
+      "amount": "20g",
+      "notes": "for color"
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven or conventional oven to 175°C (350°F).",
+    "In a bowl, mash the whole30-friendly digestive biscuits into coarse crumbs using a fork or roller.",
+    "Add the unsweetened applesauce, coconut oil, maple syrup, ground cinnamon, sea salt, and nut butter to the crumbs and mix until a moist dough forms.",
+    "Fold in the sliced almonds, chopped dried cranberries, and fresh rosemary if using.",
+    "Line a baking tray with parchment paper and press the dough mixture into an even layer about 1 cm thick.",
+    "Bake for 20 minutes or until the edges turn golden brown and the center is set.",
+    "Remove from the oven and allow to cool slightly before slicing into squares.",
+    "Drizzle additional maple syrup over each square for extra gooeyness.",
+    "Sprinkle extra sliced almonds on top for added crunch.",
+    "Serve warm and enjoy the rustic, maple-infused Canadian biscuit bake."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "maple-flavor",
+    "whole30-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1990,
+    "protein": 44,
+    "carbs": 219,
+    "fat": 122
+  },
+  "slug": "joyful-canadian-biscuits-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/joyful-canadian-biscuits-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:47:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "biscuits",
+    "descriptor": "Joyful",
+    "dishForm": "Bake"
+  }
+}
