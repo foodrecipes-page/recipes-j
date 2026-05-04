@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Portuguese Tomato Casserole",
+  "description": "A pungent and creamy Portuguese dish featuring tomato puree and soffritto base, perfect for a nostalgic meal. This ovo-vegetarian friendly recipe is cooked in a banana leaf vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onions until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, whisk together the tomato puree, eggs, salt, and black pepper.",
+    "Add the cooked onion and garlic mixture to the bowl and stir to combine.",
+    "Spoon the mixture into the center of each banana leaf, leaving a 1 inch border around the edges.",
+    "If using cheese, sprinkle it on top of the mixture.",
+    "Fold the banana leaves over the filling to form a packet and bake for 30 minutes.",
+    "Remove the packets from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "casserole",
+    "comfort-food",
+    "ovo-vegetarian",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "juicy-portuguese-tomato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-portuguese-tomato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "tomato puree",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tomato",
+    "descriptor": "Juicy Creamy",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Peruvian Cheese Pollo A La Brasa",
+  "description": "A kid-friendly Peruvian dish featuring white masarepa and a cheese-pull, made with flambe and vegetarian-friendly ingredients, in the form of pollo a la brasa.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "precooked cornmeal"
+    },
+    {
+      "name": "melted mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fatty cheese slices",
+      "amount": "8 slices"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the white masarepa, salt, black pepper, onion powder, and garlic powder.",
+    "Gradually add in the vegetable oil and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape into balls.",
+    "Flatten each ball into a disk shape and place a slice of fatty cheese in the center of each disk.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges together to seal.",
+    "Place the sealed dough pockets on a baking sheet lined with parchment paper.",
+    "Drizzle the melted mozzarella cheese over the top of each pocket.",
+    "Bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and flambe with a torch or under the broiler for 1-2 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "fatty",
+    "kid-friendly",
+    "peruvian-cuisine",
+    "pollo-a-la-brasa",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "juicy-fatty-peruvian-cheese-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fatty-peruvian-cheese-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "white masarepa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "juicy fatty",
+    "dishForm": "Pollo A La Brasa"
+  }
+}

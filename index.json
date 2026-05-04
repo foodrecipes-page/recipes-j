@@ -1876,6 +1876,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-fatty-peruvian-cheese-pollo-a-la-brasa",
+    "title": "Peruvian Cheese Pollo A La Brasa",
+    "tags": [
+      "cheese-pull",
+      "fatty",
+      "kid-friendly",
+      "peruvian-cuisine",
+      "pollo-a-la-brasa",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-fermented-free-range-low-sodium-egg-stir-fry",
     "title": "Juicy Fermented Free Range Low Sodium Egg Stir-fry",
     "tags": [
@@ -2619,6 +2634,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-portuguese-tomato-casserole",
+    "title": "Juicy Portuguese Tomato Casserole",
+    "tags": [
+      "banana-leaf",
+      "casserole",
+      "comfort-food",
+      "ovo-vegetarian",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
