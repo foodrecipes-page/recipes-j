@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Tender Slovakian Pork Skillet",
+  "description": "A peppery and tender solo dinner dish featuring cinnamon stick and lardons render, friendly for sugar free diets",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium high heat and add the diced lardons to render the fat",
+    "Once the lardons are crispy, remove them from the skillet and set aside",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant",
+    "Add the pork cubes to the skillet and cook until they are browned on all sides",
+    "Add the broken cinnamon stick, smoked paprika, black pepper, and salt to the skillet and stir to combine",
+    "Reduce the heat to medium low and simmer the mixture for 20 minutes, until the pork is tender and the sauce has thickened",
+    "Stir in the crispy lardons and serve the pork skillet hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pork-recipes",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 39
+  },
+  "slug": "juicy-tender-slovakian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-slovakian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:16:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "lardons-render",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "juicy tender",
+    "dishForm": "Skillet"
+  }
+}
