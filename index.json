@@ -577,6 +577,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-tunisian-tofu-salad",
+    "title": "Jazzy Tunisian Tofu Salad",
+    "tags": [
+      "jain-friendly",
+      "low-carb",
+      "quick",
+      "salad",
+      "tunisian",
+      "vegan"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-turkish-vermicelli-onigiri",
     "title": "Jazzy Turkish Vermicelli Onigiri",
     "tags": [

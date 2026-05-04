@@ -1,0 +1,111 @@
+{
+  "title": "Jazzy Tunisian Tofu Salad",
+  "description": "A funky, bouncy-qq, indulgent Tunisian tofu salad brimming with fresh greens, citrus, and a zesty lime-harissa dressing—jain friendly and perfect for a quick lunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "pressed and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "black olives",
+      "amount": "20g",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture.",
+    "Heat 1 tbsp olive oil in a skillet over medium heat and sear tofu slices for 3 minutes on each side until golden.",
+    "In a large bowl, combine cucumber, bell pepper, tomato, olives, and capers.",
+    "Add the seared tofu to the bowl and drizzle with the remaining olive oil, lime juice, and harissa paste.",
+    "Season with sea salt and black pepper to taste.",
+    "Toss gently to coat all ingredients evenly.",
+    "Serve immediately or chill for 10 minutes to let flavors meld.",
+    "Garnish with a sprinkle of fresh herbs if desired.",
+    "Enjoy this lively, jain-friendly salad as a satisfying lunch.",
+    "Remember to discard any leftover if not consumed within two hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "low-carb",
+    "quick",
+    "salad",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 47
+  },
+  "slug": "jazzy-tunisian-tofu-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-tunisian-tofu-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:59:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "emulsify",
+    "primaryIngredient": "lime juice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tofu",
+    "descriptor": "Jazzy",
+    "dishForm": "Salad"
+  }
+}
