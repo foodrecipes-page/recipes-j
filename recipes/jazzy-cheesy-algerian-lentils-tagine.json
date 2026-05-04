@@ -1,0 +1,111 @@
+{
+  "title": "Jazzy Cheesy Algerian Lentils Tagine",
+  "description": "A garlicky, cheese-pull crowd-pleaser Algerian tagine that pairs hearty lentils with dashi extract for depth, topped with a melty cheese blend and made egg-free.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, medium, chopped",
+      "amount": "1"
+    },
+    {
+      "name": "carrot, medium, diced",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spice mix",
+      "amount": "1 tsp",
+      "notes": "cumin 1/2 tsp, coriander 1/2 tsp, paprika 1/2 tsp, cinnamon 1/4 tsp, salt 1/4 tsp, pepper 1/4 tsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until water runs clear.",
+    "In a tagine or deep pot, heat 2 tbsp olive oil over medium heat and sauté onions, carrots, and garlic until softened, about 5 minutes.",
+    "Stir in tomato paste and dashi extract, cooking for 2 minutes to release flavors.",
+    "Add lentils, vegetable broth, and spice mix, bring to a boil, then reduce heat to low and cover, simmering until lentils are tender, about 25 minutes.",
+    "Once lentils are cooked, stir in shredded cheddar and mozzarella cheese until melted and well combined.",
+    "Transfer the mixture to a shallow oven-safe dish, top with a drizzle of olive oil, and bake at 350°F (175°C) until the cheese forms a golden crust, about 10 minutes.",
+    "Remove from oven and let rest for 5 minutes to set the cheese pull.",
+    "Serve hot, garnished with fresh herbs like parsley if desired.",
+    "Enjoy your jazzy cheesy Algerian lentils tagine, egg-free perfect for a crowd."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "crowd-pleaser",
+    "easy",
+    "egg-free",
+    "garlicky",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 2115,
+    "protein": 82,
+    "carbs": 120,
+    "fat": 116
+  },
+  "slug": "jazzy-cheesy-algerian-lentils-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-cheesy-algerian-lentils-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:05:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "dashi-extract",
+    "primaryIngredient": "lentils",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "Jazzy Cheesy",
+    "dishForm": "Tagine"
+  }
+}
