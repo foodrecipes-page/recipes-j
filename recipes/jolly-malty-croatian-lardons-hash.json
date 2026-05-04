@@ -1,0 +1,94 @@
+{
+  "title": "Jolly Malty Croatian Lardons Hash",
+  "description": "A malty, light, and quick-fix Croatian dish featuring sriracha and lardons-render, perfect for a dairy-free friendly meal. This dish is made with simple ingredients and can be prepared in no time.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "rendered and crispy"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the crispy lardons, malted barley flour, sriracha sauce, salt, and black pepper to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, stirring frequently, until the mixture is heated through.",
+    "Serve the Jolly Malty Croatian Lardons Hash hot, garnished with chopped fresh herbs if desired.",
+    "Prepare a fried or poached egg to serve on top, if desired.",
+    "Toast some crusty bread to serve on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "croatian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jolly-malty-croatian-lardons-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-malty-croatian-lardons-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:07:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "sriracha",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lardons",
+    "descriptor": "jolly malty",
+    "dishForm": "Hash"
+  }
+}
