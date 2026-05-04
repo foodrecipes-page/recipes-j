@@ -1,0 +1,106 @@
+{
+  "title": "Jumping Polish Cabbage Soup",
+  "description": "A briny and pillowy Polish cabbage soup infused with hot smoked paprika and a hint of binchotan charcoal, served in a copper mug to boost energy and flavor.",
+  "cuisine": "polish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "400g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1500 ml"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Chop the cabbage into thin shreds and set aside.",
+    "Dice the onion, mince the garlic, and finely slice the carrot and celery.",
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the onion, garlic, carrot, and celery to the pot and sauté until the vegetables are softened and fragrant.",
+    "Stir in the shredded cabbage and cook for another 3 minutes, letting it wilt slightly.",
+    "Sprinkle in the smoked paprika, salt, and black pepper, mixing thoroughly to coat all the vegetables.",
+    "Pour in the water and bring the mixture to a gentle boil, then reduce heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Just before serving, stir in the binchotan charcoal powder and let it dissolve for 2 minutes, allowing the soup to develop a subtle smoky depth.",
+    "Ladle the hot soup into a clean copper mug, ensuring the liquid stays warm.",
+    "Garnish with a pinch of freshly ground pepper and enjoy the energizing flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan",
+    "briny",
+    "copper-mug",
+    "energizing",
+    "low-glycemic",
+    "pillowy",
+    "polish-soup",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 40,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "jumping-polish-cabbage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumping-polish-cabbage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:55:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Jumping",
+    "dishForm": "Soup"
+  }
+}
