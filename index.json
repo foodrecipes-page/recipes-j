@@ -1,5 +1,19 @@
 [
   {
+    "slug": "jagged-peppery-canadian-potato-hash",
+    "title": "Jagged Peppery Canadian Potato Hash",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-smoky-chinese-tofu-noodles",
     "title": "Jagged Smoky Chinese Tofu Noodles",
     "tags": [
@@ -997,6 +1011,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 24,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-light-moroccan-taleggio-stir-fry",
+    "title": "Juicy Light Moroccan Taleggio Stir fry",
+    "tags": [
+      "cheesy",
+      "chicken-dish",
+      "keto-friendly",
+      "low-carb",
+      "moroccan-inspired",
+      "one-pan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

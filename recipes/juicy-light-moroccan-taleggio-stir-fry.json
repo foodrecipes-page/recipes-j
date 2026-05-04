@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Light Moroccan Taleggio Stir fry",
+  "description": "A winey and light Moroccan dish featuring taleggio cheese, this stir fry is a keto friendly and adventurous meal option.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened.",
+    "Add the sliced bell pepper to the skillet and cook until tender.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the sliced taleggio cheese to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the cheese and vegetables.",
+    "Cook for an additional 2 minutes or until the cheese is melted and the chicken is coated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chicken-dish",
+    "keto-friendly",
+    "low-carb",
+    "moroccan-inspired",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-light-moroccan-taleggio-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-moroccan-taleggio-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:17:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "taleggio",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Juicy Light",
+    "dishForm": "Stir-fry"
+  }
+}

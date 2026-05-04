@@ -1,0 +1,92 @@
+{
+  "title": "Jagged Peppery Canadian Potato Hash",
+  "description": "A peppery, gooey, adventurous Canadian dish featuring floury potatoes, double-fry-kfc, and raw-friendly ingredients, perfect for a snack or light meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double-fry the diced potatoes in batches until they are golden brown and crispy.",
+    "Remove the potatoes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a large bowl, mix together the fried potatoes, black pepper, salt, garlic powder, and onion powder.",
+    "In a separate pan, melt 2 tablespoons of butter over medium heat.",
+    "Add the shredded cheese to the pan and stir until it is melted and gooey.",
+    "Add the melted cheese to the bowl with the potatoes and mix until well combined.",
+    "Transfer the potato mixture to a serving dish and top with chopped scallions.",
+    "Serve the hash hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "high-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-peppery-canadian-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-peppery-canadian-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:17:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "floury potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "jagged peppery",
+    "dishForm": "Hash"
+  }
+}
