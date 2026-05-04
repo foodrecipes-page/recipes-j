@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Japanese Pork Gyoza",
+  "description": "A traditional Japanese dish featuring pan-fried dumplings filled with pork and vegetables, served with a dipping sauce. This recipe uses 00-flour for a delicate crust and is FODMAP-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "2 cups",
+      "notes": "also known as caputo flour"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, chopped cabbage, green onions, soy sauce, sesame oil, ginger, salt, and black pepper, and mix well with your hands until just combined.",
+    "In a separate bowl, whisk together the 00-flour and a pinch of salt.",
+    "Gradually add water to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the pork filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the gyoza.",
+    "Heat a large skillet with a small amount of oil over medium-high heat and pan-fry the gyoza until they are golden brown on the bottom.",
+    "Add a small amount of water to the skillet and cover with a lid to steam the gyoza until they are cooked through.",
+    "Serve the gyoza hot with a dipping sauce made from soy sauce and sesame oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "dumplings",
+    "homemade",
+    "japanese-cuisine",
+    "pan-fried",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-japanese-pork-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-japanese-pork-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:24:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "00-flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Bouncy",
+    "dishForm": "Gyoza"
+  }
+}
