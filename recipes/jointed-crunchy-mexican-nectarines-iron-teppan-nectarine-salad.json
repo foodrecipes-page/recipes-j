@@ -1,0 +1,87 @@
+{
+  "title": "Jointed Crunchy Mexican Nectarines Iron-Teppan Salad",
+  "description": "A festive mexican dish featuring nectarines, papillote, and a lacto-vegetarian-friendly topping on an iron-teppan plate for a salty, crunchy meal.",
+  "cuisine": "mexican (chiapan)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 fresh nectarine",
+      "amount": "medium"
+    },
+    {
+      "name": "1 cup baby kale",
+      "amount": "packed"
+    },
+    {
+      "name": "1/4 cup finely chopped red onion",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup slivered almonds",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Slice the nectarine into quarters, removing seeds.",
+    "Core the baby kale leaves and wash them thoroughly under running water.",
+    "In a small bowl, mix together lime juice, olive oil, salt, and pepper. Set aside.",
+    "Tear or cut the papillote into pieces to serve as a topping.",
+    "On your iron-teppan plate, start by laying out the sliced nectarine quarters in an artistic pattern.",
+    "Top each quarter with a few baby kale leaves and some of the finely chopped red onion.",
+    "Sprinkle on the slivered almonds for added crunch and texture.",
+    "Drizzle the lime dressing over all ingredients.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 5",
+    "totalTimeMin: 25",
+    "servings: 4",
+    "difficulty: medium",
+    "tags: lacto-vegetarian, iron-teppan, festive-christmas-dish, crisp-fingerling-tomato-side",
+    "nutrition: {calories: 130, protein: 2, carbs: 15, fat: 8}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican-chiapan",
+    "lunch"
+  ],
+  "slug": "jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:24:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "nectarines",
+    "diet": "lacto-vegetarian",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Nectarines",
+    "descriptor": "Jointed Crunchy",
+    "dishForm": "Iron-Teppan Nectarine Salad"
+  }
+}
