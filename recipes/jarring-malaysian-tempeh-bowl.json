@@ -1,0 +1,115 @@
+{
+  "title": "Jarring Malaysian Tempeh Bowl",
+  "description": "A spicy, herbal tempeh bowl that packs protein and flavor in a single pot, perfect for a solo dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "150g"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lime wedge",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add a splash of oil.",
+    "Add the diced tempeh and cook until golden brown, about 6 minutes.",
+    "Stir in the minced garlic, bell pepper, carrot, and broccoli, and cook for another 4 minutes.",
+    "Pour in the coconut milk and soy sauce, and bring the mixture to a simmer.",
+    "Add the sriracha sauce, lime juice, and red chili flakes, stirring to combine.",
+    "Reduce heat to low and let the sauce thicken for 5 minutes, stirring occasionally.",
+    "Taste and adjust seasoning with more lime juice or sriracha if desired.",
+    "Remove from heat and fold in fresh cilantro.",
+    "Serve the tempeh mixture over steamed jasmine rice or cauliflower rice for a low-carb option.",
+    "Garnish with a wedge of lime and extra cilantro, and enjoy a flavorful solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian",
+    "one-pot",
+    "quick",
+    "solo-dinner",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "jarring-malaysian-tempeh-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jarring-malaysian-tempeh-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:30:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "sriracha",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Jarring",
+    "dishForm": "Bowl"
+  }
+}
