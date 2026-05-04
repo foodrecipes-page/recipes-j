@@ -1,0 +1,101 @@
+{
+  "title": "Jazzy Catalan Quinoa Jamon Iberico",
+  "description": "A malty, silky quinoa dish with caramelized onions, crispy chickpeas, and shaved Jamon Iberico, perfect for a hangover cure.",
+  "cuisine": "Catalan Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "100 g"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "80 g"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "50 g"
+    },
+    {
+      "name": "Jamon Iberico slices",
+      "amount": "30 g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until water runs clear.",
+    "In a medium saucepan, bring 200 ml water and a pinch of salt to a boil.",
+    "Add rinsed quinoa, reduce heat, cover, and simmer for 15 minutes until liquid is absorbed.",
+    "Remove from heat, fluff quinoa with a fork, and set aside to cool slightly.",
+    "In a skillet, heat 1 tbsp olive oil over medium heat until shimmering.",
+    "Add sliced onions, cook until caramelized and golden, about 8 minutes, stirring occasionally.",
+    "Stir in cooked quinoa, smoked paprika, thyme, and salt, cooking for 2 minutes to toast the grains.",
+    "Fold in roasted chickpeas, and cook another minute, letting the flavors meld.",
+    "Transfer mixture to a serving dish, top with thin slices of Jamon Iberico, fresh parsley, and a drizzle of lemon juice.",
+    "Serve immediately, or keep in the fridge for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "quinoa",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 26,
+    "fat": 11
+  },
+  "slug": "jazzy-catalan-quinoa-jamon-iberico",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-catalan-quinoa-jamon-iberico",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:12:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "quinoa",
+    "diet": "vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "quinoa",
+    "descriptor": "Jazzy",
+    "dishForm": "Jamon Iberico"
+  }
+}
