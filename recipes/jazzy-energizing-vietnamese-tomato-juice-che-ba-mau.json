@@ -1,0 +1,97 @@
+{
+  "title": "Jazzy Energizing Vietnamese Tomato Juice Che Ba Mau",
+  "description": "Funky, crumbly, energizing Vietnamese dish featuring tomato juice, caramelized onions, and a dairy-free-friendly twist on traditional che ba mau.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tomato juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine tomato juice, caramelized onions, coconut sugar, palm sugar, coconut cream, ginger, and lime juice.",
+    "Blend the mixture until smooth and creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with a sprinkle of cinnamon and a few slices of lime, if desired.",
+    "Optional: top with toasted coconut flakes or chopped fresh herbs for added texture and flavor.",
+    "Enjoy as a refreshing and energizing breakfast treat.",
+    "Note: You can also make this recipe ahead of time and store it in the refrigerator for up to 24 hours.",
+    "When ready to serve, give the mixture a good stir and garnish with additional lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "dairy-free-friendly",
+    "high-energy",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jazzy-energizing-vietnamese-tomato-juice-che-ba-mau",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-energizing-vietnamese-tomato-juice-che-ba-mau",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "tomato juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tomato juice",
+    "descriptor": "Jazzy energizing",
+    "dishForm": "Che Ba Mau"
+  }
+}
