@@ -2560,6 +2560,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-argentinian-duck-cassoulet",
+    "title": "Argentinian Duck Cassoulet",
+    "tags": [
+      "argentinian",
+      "casserole",
+      "cassoulet",
+      "comfort-food",
+      "duck",
+      "low-glycemic",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-australian-chicken-stir-fry",
     "title": "Juicy Australian Chicken Stir-fry",
     "tags": [
