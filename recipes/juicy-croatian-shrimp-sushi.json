@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Croatian Shrimp Sushi",
+  "description": "A Croatian twist on traditional sushi, featuring succulent shrimp and flavorful sushi rice, all cooked to perfection on a tava griddle.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice thoroughly and cook according to package instructions.",
+    "Heat the olive oil on the tava griddle over medium-high heat.",
+    "Add the shrimp to the griddle and cook for 2-3 minutes per side, until pink and fully cooked.",
+    "In a small bowl, whisk together the soy sauce, date syrup, and sesame seeds.",
+    "Brush the cooked shrimp with the soy sauce mixture.",
+    "Fluff the cooked sushi rice with a fork and season with salt and black pepper.",
+    "To assemble the sushi, place a small amount of sushi rice onto the griddle and top with a cooked shrimp.",
+    "Use the griddle to shape the sushi into a rectangular shape.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "date-night",
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "juicy-croatian-shrimp-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-croatian-shrimp-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:34:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "sushi rice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "juicy glassy",
+    "dishForm": "Sushi"
+  }
+}
