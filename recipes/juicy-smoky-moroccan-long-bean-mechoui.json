@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Smoky Moroccan Long Bean Mechoui",
+  "description": "A fatty and molten Moroccan dish featuring long beans, smoke, and ayurvedic-tamasic-friendly ingredients, served in a mechoui form. This dish is perfect for a special occasion or a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, ground cumin, ground coriander, cayenne pepper, salt, and black pepper.",
+    "Add the long beans to the bowl and toss to coat with the spice mixture.",
+    "Transfer the beans to a large baking dish and roast in the oven for 20 minutes.",
+    "Remove the beans from the oven and stir in lemon juice.",
+    "Return the beans to the oven and continue roasting for an additional 10 minutes, or until tender and lightly browned.",
+    "Remove the beans from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the mechoui hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "moroccan-food",
+    "smoky-flavors",
+    "special-occasion",
+    "vegetarian-dishes",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "juicy-smoky-moroccan-long-bean-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-moroccan-long-bean-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:16:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "smoke",
+    "primaryIngredient": "long-bean",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "long bean",
+    "descriptor": "juicy smoky",
+    "dishForm": "Mechoui"
+  }
+}
