@@ -1,0 +1,100 @@
+{
+  "title": "Jazzy Malaysian Fish Curry",
+  "description": "A briny, velvety fish curry that blends dark brown sugar, shio cure, and aromatic spices into a crowd-pleasing, egg-free-friendly dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "500g"
+    },
+    {
+      "name": "Shio cure salt",
+      "amount": "6g"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "10g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "10g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "10ml",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Season the fish fillets with shio cure salt and let them sit for 15 minutes to lightly cure.",
+    "Pat the fillets dry with paper towels and set aside.",
+    "Heat vegetable oil in a deep pan over medium heat.",
+    "Add the red curry paste to the pan and sauté for 1 minute until fragrant.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer.",
+    "Stir in the dark brown sugar, fish sauce, tamarind paste, and lime juice, and simmer for 3 minutes to marry the flavors.",
+    "Carefully slide the fish fillets into the curry, cover, and cook for 5 minutes until the fish is opaque and flakes easily.",
+    "Remove the pan from heat and scatter the fresh coriander leaves over the curry.",
+    "Serve the curry over steamed jasmine rice, optionally drizzling a little coconut cream for extra velvety richness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "curry",
+    "egg-free",
+    "one-pan",
+    "pescatarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "jazzy-malaysian-fish-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-malaysian-fish-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:07:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Fish",
+    "descriptor": "Jazzy",
+    "dishForm": "Curry"
+  }
+}
