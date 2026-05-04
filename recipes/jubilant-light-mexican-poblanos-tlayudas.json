@@ -1,0 +1,95 @@
+{
+  "title": "Jubilant Light Mexican Poblanos Tlayudas",
+  "description": "A cultured and chewy Mexican dish featuring mint and poblano peppers, served on toasted tlayudas, this recipe is a twist on traditional Mexican cuisine, with a light and refreshing flavor profile.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6",
+      "notes": "tlayudas style"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel off the skin and chop into small pieces.",
+    "Toast the tlayudas in a copper pot over medium heat for 2 minutes on each side.",
+    "In a bowl, mix together the roasted poblano peppers, chopped mint leaves, lime juice, and olive oil.",
+    "Spread a layer of the pepper mixture onto each toasted tlayuda.",
+    "Top each tlayuda with crumbled queso fresco and thinly sliced red onion.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "light-meal",
+    "mexican-cuisine",
+    "refreshing",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jubilant-light-mexican-poblanos-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-light-mexican-poblanos-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:46:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "mint",
+    "diet": "dash",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Jubilant Light",
+    "dishForm": "Tlayudas"
+  }
+}
