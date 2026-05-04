@@ -1,0 +1,116 @@
+{
+  "title": "Juicy Mexican Morbier Mole Poblano",
+  "description": "A nutty, aerated romantic dish that blends Morbier cheese with a tandoor-roasted poblano mole, perfect for a diabetic-friendly dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "200 g"
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Almonds",
+      "amount": "50 g",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "Dark chocolate",
+      "amount": "20 g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "200 g"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low sodium chicken broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1 small"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and roast the poblano peppers until charred, then peel and seed them.",
+    "In a dry skillet, toast the almonds until lightly golden and set aside to cool.",
+    "Blend the roasted peppers, tomatoes, onion, garlic, toasted almonds, chocolate, cumin, coriander, cinnamon, and a splash of broth until smooth.",
+    "Return the mixture to the pan, stir in the Morbier cheese cubes and continue cooking over medium heat until the cheese melts and the sauce thickens.",
+    "Season with salt and pepper, then remove from heat and fold in fresh cilantro.",
+    "Serve the mole over a bed of steamed cauliflower rice for a low-carb option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "diabetic-friendly",
+    "mole",
+    "norteno",
+    "nutty",
+    "romantic",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "juicy-mexican-morbier-mole-poblano",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-morbier-mole-poblano",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:38:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "morbier",
+    "diet": "diabetic-friendly",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Morbier",
+    "descriptor": "Juicy",
+    "dishForm": "Mole Poblano"
+  }
+}
