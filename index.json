@@ -509,6 +509,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-american-strawberry-cobbler",
+    "title": "Juicy American Strawberry Cobbler",
+    "tags": [
+      "american-dessert",
+      "keto-friendly",
+      "lazy-sunday",
+      "low-carb",
+      "strawberry-cobbler"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-australian-chicken-stir-fry",
     "title": "Juicy Australian Chicken Stir-fry",
     "tags": [

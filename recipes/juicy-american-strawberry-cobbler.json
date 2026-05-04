@@ -1,0 +1,92 @@
+{
+  "title": "Juicy American Strawberry Cobbler",
+  "description": "A salty and juicy American dessert featuring strawberries and a keto-friendly twist, perfect for a lazy Sunday afternoon. This recipe combines the sweetness of strawberries with a crunchy bhuna-inspired topping.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "3 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced strawberries and granulated sweetener.",
+    "In a separate bowl, whisk together the almond flour, melted butter, eggs, vanilla extract, bhuna spice mix, and salt.",
+    "Add the dry ingredients to the strawberry mixture and stir until just combined.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 40 minutes or until the topping is golden brown and the fruit is bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-dessert",
+    "keto-friendly",
+    "lazy-sunday",
+    "low-carb",
+    "strawberry-cobbler"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "juicy-american-strawberry-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-american-strawberry-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:11:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "strawberries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "strawberries",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Cobbler"
+  }
+}
