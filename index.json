@@ -1110,6 +1110,20 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-crunchy-american-popcorn-bowl",
+    "title": "Jolly Crunchy American Popcorn Bowl",
+    "tags": [
+      "deep-fry",
+      "popcorn",
+      "quick",
+      "snack",
+      "whole30-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 33,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-malty-croatian-lardons-hash",
     "title": "Jolly Malty Croatian Lardons Hash",
     "tags": [

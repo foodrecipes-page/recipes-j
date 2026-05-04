@@ -1,0 +1,107 @@
+{
+  "title": "Jolly Crunchy American Popcorn Bowl",
+  "description": "Roasted, crispy popcorn coated with maple toffee and spicy seasonings, topped with deep-fried pickled cucumber and pumpkin seeds, served in a rustic earthenware bowl.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "amount": "1 cup",
+      "notes": "for popping"
+    },
+    {
+      "name": "coconut oil (for popping)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cucumber",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt (for pickling)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup toasted"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp coconut oil in a large pot over medium until shimmering.",
+    "Add 1 cup popcorn kernels, cover, and shake when popping starts; remove from heat when popping slows.",
+    "Transfer popped kernels to a large bowl and coat with 1 tsp sea salt, 1 tsp smoked paprika, and 1/2 tsp chili powder.",
+    "Drizzle 3 tbsp maple syrup and 1/4 tsp vanilla extract over the popcorn, tossing until evenly coated.",
+    "Spread the coated popcorn on a parchment-lined baking sheet and roast in a 300°F oven for 15 minutes, stirring once, until crisp.",
+    "While the popcorn roasts, combine 1 cup sliced cucumber, 2 tbsp rice vinegar, 1/4 tsp salt, and a pinch of cayenne pepper in a bowl and let sit for 5 minutes to pickle.",
+    "Heat 1 tbsp coconut oil in a small skillet over medium-high; add the pickled cucumber slices and fry 2–3 minutes until browned and crisp, then drain on paper towels.",
+    "Sprinkle 1/4 cup toasted pumpkin seeds over the roasted popcorn, top with the deep-fried pickled cucumber, and drizzle any remaining maple syrup if desired.",
+    "Serve immediately in an earthenware bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fry",
+    "popcorn",
+    "quick",
+    "snack",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 880,
+    "protein": 13,
+    "carbs": 84,
+    "fat": 57
+  },
+  "slug": "jolly-crunchy-american-popcorn-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-crunchy-american-popcorn-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:11:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "popcorn",
+    "descriptor": "Jolly Crunchy",
+    "dishForm": "Bowl"
+  }
+}
