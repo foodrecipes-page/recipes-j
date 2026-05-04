@@ -1,0 +1,103 @@
+{
+  "title": "Jazzy Norwegian Banana Bowl",
+  "description": "A tangy, cheese-pull post-workout Norwegian dish featuring banana, confit tomato, and shojin-friendly ingredients served in a lacquerware bowl.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "shojin-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Banana, ripe",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Norske Havarti cheese",
+      "amount": "50g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "from 1/2 lemon"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place the sliced banana at the bottom of a lacquerware bowl.",
+    "Heat the olive oil in a small skillet over medium heat until shimmering.",
+    "Add the diced confit tomato to the skillet and sauté for 2 minutes until heated through.",
+    "Pour the sautéed tomato over the banana slices in the bowl.",
+    "Sprinkle the cubed Norske Havarti cheese over the tomato layer.",
+    "Drizzle maple syrup evenly across the cheese for a subtle sweetness.",
+    "Sprinkle lemon zest, chopped dill, salt, and pepper over the bowl.",
+    "Cover the bowl with a tight-fitting lid and let the cheese melt for 2-3 minutes by the residual heat.",
+    "Serve immediately, enjoying the tangy, cheese-pull texture, ideal for a post-workout snack."
+  ],
+  "prepTimeMin": 7,
+  "cookTimeMin": 3,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "norwegian",
+    "post-workout",
+    "quick",
+    "shojin-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "jazzy-norwegian-banana-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-norwegian-banana-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:12:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "banana",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Banana",
+    "descriptor": "Jazzy",
+    "dishForm": "Bowl"
+  }
+}
