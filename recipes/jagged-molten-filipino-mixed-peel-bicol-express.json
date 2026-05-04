@@ -1,0 +1,104 @@
+{
+  "title": "Jagged Molten Filipino Mixed Peel Bicol Express",
+  "description": "A spicy and savory Filipino dish featuring mixed peel and binchotan-charcoal, designed to cure hangovers with its herbal and ayurvedic properties, served in a copper mug. This Bicol Express variation is a unique and flavorful twist on the classic recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed peel",
+      "amount": "1 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "long green chili",
+      "amount": "4 pieces",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a saucepan over medium heat until it starts to simmer.",
+    "Add the grated ginger, minced garlic, and sliced long green chili to the saucepan and stir well.",
+    "Add the diced pork shoulder to the saucepan and cook until it is browned on all sides.",
+    "Add the fish sauce and lime juice to the saucepan and stir well.",
+    "Add the chopped mixed peel to the saucepan and stir well.",
+    "Use the binchotan charcoal to smoke the mixture for 5 minutes.",
+    "Serve the Jagged Molten Filipino Mixed Peel Bicol Express in a copper mug.",
+    "Garnish with additional chopped mixed peel and sliced long green chili if desired.",
+    "Serve immediately and enjoy.",
+    "Be careful when handling the hot copper mug.",
+    "Consider serving with a side of steamed rice to help cool down the palate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "filipino-cuisine",
+    "hangover-cure",
+    "one-pot",
+    "spicy-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jagged-molten-filipino-mixed-peel-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-molten-filipino-mixed-peel-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:36:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "mixed peel",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mixed peel",
+    "descriptor": "Jagged Molten",
+    "dishForm": "Bicol Express"
+  }
+}
