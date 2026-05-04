@@ -1,0 +1,101 @@
+{
+  "title": "Jaw Dropping Smoky Moroccan Ground Poppy Seeds Seffa",
+  "description": "A traditional Moroccan dish with a smoky twist, featuring ground poppy seeds and a blend of spices, this seffa is perfect for special occasions, this smoky moroccan seffa is a show stopping dish",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the ground poppy seeds, smoked paprika, ground cumin, ground coriander, cayenne pepper, salt, and black pepper.",
+    "Add the cooked onion and garlic to the bowl and stir until everything is well combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the seffa from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "moroccan",
+    "smoky",
+    "special-occasion",
+    "spicy",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "jaw-dropping-smoky-moroccan-ground-poppy-seeds-seffa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jaw-dropping-smoky-moroccan-ground-poppy-seeds-seffa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:01:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "ground poppy seeds",
+    "descriptor": "Jaw Dropping Smoky",
+    "dishForm": "Seffa"
+  }
+}
