@@ -1,0 +1,89 @@
+{
+  "title": "Jaunty Argentinian Cheese Frittata",
+  "description": "A vibrant brunch frittata featuring creamy fromage blanc, grilled tomatoes, and aromatic basil, served straight from a wooden board for an authentic Argentinian touch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "fromage blanc",
+      "amount": "150 g"
+    },
+    {
+      "name": "grilled tomato",
+      "amount": "200 g",
+      "notes": "yakimono-grill"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and lightly oil a sliced wooden board.",
+    "Whisk the eggs, fromage blanc, salt, pepper, and olive oil in a bowl until blended.",
+    "Spread the grilled tomatoes evenly across the wooden board and pour the egg mixture over them.",
+    "Sprinkle goat cheese and fresh basil over the top.",
+    "Bake for 12 minutes, or until the edges set and the center is slightly firm.",
+    "Remove the board from the oven and let rest for 2 minutes to firm up.",
+    "Slice into wedges and serve warm straight from the wooden board.",
+    "Garnish with extra basil leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 45
+  },
+  "slug": "jaunty-argentinian-cheese-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jaunty-argentinian-cheese-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:42:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Jaunty",
+    "dishForm": "Frittata"
+  }
+}
