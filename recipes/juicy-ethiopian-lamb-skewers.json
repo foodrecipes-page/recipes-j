@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Ethiopian Lamb Skewers",
+  "description": "Buttery and aerated Ethiopian dish featuring Asian chive and yuzu cure, perfect for a low carb friendly meal",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Asian chive",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together yuzu juice, butter, garlic, ginger, black pepper, and salt",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube",
+    "Brush the skewers with olive oil and sprinkle with chopped Asian chive",
+    "Place the skewers on the raclette grill and cook for 10 minutes per side",
+    "Serve the skewers hot, garnished with additional Asian chive if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "grilled-meat",
+    "lamb-recipes",
+    "low-carb",
+    "raclette-grill",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "juicy-ethiopian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-ethiopian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:28:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy buttery",
+    "dishForm": "Skewers"
+  }
+}
