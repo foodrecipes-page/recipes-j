@@ -1,0 +1,120 @@
+{
+  "title": "Jammy Solo Mediterranean Custard Pudding",
+  "description": "A pillowy, solo dinner Mediterranean dish featuring custard powder, steam, and a Buddhist-temple-friendly approach. Perfect for a relaxing evening meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk or a non-dairy alternative"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "almond butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "5",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine the water, milk, custard powder, sugar, lemon zest, and salt. Heat over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and honey. Let it cool slightly.",
+    "Place a piece of phyllo dough in a ramekin, cutting it to fit the bottom and sides.",
+    "Brush the phyllo with a little water and place a second piece on top, brushing with more water. Repeat this process until all the phyllo is used, ending with a layer of phyllo on top.",
+    "Pour the cooled custard mixture into the phyllo-lined ramekin, leaving a 1-inch border around the edges.",
+    "Dot the top of the custard with almond butter.",
+    "Bake the pudding for 20-25 minutes, or until the phyllo is golden brown and the custard is set.",
+    "Remove the pudding from the oven and sprinkle with dried thyme. Let it cool slightly.",
+    "Garnish with fresh mint leaves and serve warm.",
+    "Serve with a side of fruit or a mixed green salad for a light and satisfying dinner.",
+    "For a vegan version, replace the honey with maple syrup or another sweetener of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy",
+    "low-calorie",
+    "mediterranean",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "jammy-solo-mediterranean-custard-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-solo-mediterranean-custard-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "custard powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "custard",
+    "descriptor": "jammy solo",
+    "dishForm": "pudding"
+  }
+}

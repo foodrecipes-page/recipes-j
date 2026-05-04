@@ -459,6 +459,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-solo-mediterranean-custard-pudding",
+    "title": "Jammy Solo Mediterranean Custard Pudding",
+    "tags": [
+      "dinner",
+      "easy",
+      "low-calorie",
+      "mediterranean",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "japanese-chilli-bean-grill",
     "title": "Japanese Chilli Bean Grill",
     "tags": [
