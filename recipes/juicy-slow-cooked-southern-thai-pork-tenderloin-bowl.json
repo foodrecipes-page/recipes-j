@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Slow-Cooked Southern-Thai Pork Tenderloin Bowl",
+  "description": "A light and tangy Southern-Thai inspired dish featuring slow-cooked pork tenderloin with a hint of lemongrass and galangal, served in a crispy rice bowl with fresh herbs and pickled carrots.",
+  "cuisine": "Southern-Thai",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "2 tbsp",
+      "notes": "available at most Asian grocery stores or online"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup",
+      "notes": "for coating pork"
+    }
+  ],
+  "instructions": [
+    "Preheat a kazan or large Dutch oven to 300°F (150°C).",
+    "Mix the shio-koji cure, fish sauce, brown sugar, and rice vinegar in a small bowl to make the marinade.",
+    "Coat the pork tenderloin with the rice flour, shaking off any excess.",
+    "Slow cook the pork in the preheated kazan for 3 hours, or until tender and juicy.",
+    "Meanwhile, peel and slice the lemongrass and galangal, and add to the kazan for the last 30 minutes of cooking.",
+    "In a separate pot, heat some oil over medium heat and fry an egg until cooked through.",
+    "Cook the rice according to package instructions and let cool.",
+    "Pickled carrots can be made by slicing carrots thinly and soaking in a mixture of rice vinegar and sugar for at least 30 minutes.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom, followed by a slice of pork, a fried egg, and a handful of pickled carrots.",
+    "Garnish with fresh herbs like cilantro or scallions, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "southern-thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juicy-slow-cooked-southern-thai-pork-tenderloin-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slow-cooked-southern-thai-pork-tenderloin-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "ovo-vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "southern-thai",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "juicy slow-cooked",
+    "dishForm": "bowl"
+  }
+}
