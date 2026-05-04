@@ -942,6 +942,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-filipino-chicken-bowl",
+    "title": "Juicy Filipino Chicken Bowl",
+    "tags": [
+      "chicken-recipes",
+      "dolsot-bowl",
+      "filipino-food",
+      "gluten-free",
+      "one-pot",
+      "paleo-diet"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-flaky-german-pork-dumplings",
     "title": "Juicy Flaky German Pork Dumplings",
     "tags": [

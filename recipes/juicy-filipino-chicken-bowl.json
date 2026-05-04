@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Filipino Chicken Bowl",
+  "description": "A paleo-friendly Filipino dish featuring chicken cooked in a creamy sauce, served in a hot dolsot stone bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic and chopped onion to the skillet and cook until the onion is translucent.",
+    "Pour in the single cream and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and stir in the fish sauce, salt, and black pepper.",
+    "Reduce the heat to low and let the chicken simmer in the creamy sauce for 10 minutes.",
+    "Stir in the chopped cilantro and cook for an additional 2 minutes.",
+    "Serve the chicken and sauce in a hot dolsot stone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dolsot-bowl",
+    "filipino-food",
+    "gluten-free",
+    "one-pot",
+    "paleo-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "juicy-filipino-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-filipino-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:21:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "single cream",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy buttery",
+    "dishForm": "Bowl"
+  }
+}
