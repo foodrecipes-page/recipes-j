@@ -1,0 +1,101 @@
+{
+  "title": "Jubilant Turkish Beans Stew",
+  "description": "A buttery, creamy stew of black beans with fragrant allspice, slow‑cooked in a copper pot for a festive flavor.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kuru fasulye (dry black beans)",
+      "amount": "500g"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tbsp",
+      "notes": "Melt then use to sauté"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "Dice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried black beans under cold water and soak them in a large bowl of water overnight, or for at least 8 hours.",
+    "Drain the soaked beans and set aside.",
+    "In a copper pot, melt the butter over medium heat until foamy.",
+    "Add the diced onions and sauté until translucent, about 4 minutes.",
+    "Stir in the minced garlic and cook for another 1 minute until fragrant.",
+    "Sprinkle the ground allspice and smoked paprika over the onion mixture and stir to coat.",
+    "Add the drained beans, vegetable broth, water, and salt, and bring the mixture to a gentle simmer.",
+    "Cover the pot and simmer on low heat for 45 minutes, stirring occasionally, until the beans are tender and the stew has thickened.",
+    "Remove from heat, stir in the chopped parsley, and serve hot with a squeeze of lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beans",
+    "buttery",
+    "copper-pot",
+    "creamy",
+    "festive",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 111,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "jubilant-turkish-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-turkish-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:48:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "ground allspice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Beans",
+    "descriptor": "Jubilant",
+    "dishForm": "Stew"
+  }
+}

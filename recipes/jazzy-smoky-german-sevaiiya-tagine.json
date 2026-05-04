@@ -1,0 +1,106 @@
+{
+  "title": "Jazzy Smoky German Sevaiiya Tagine",
+  "description": "A smoky, silky, energizing German dish featuring sevaiiya and sashimi-cut cucumber, all cooked in a tagine pot for a satisfying one-pot meal.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya",
+      "amount": "200 g"
+    },
+    {
+      "name": "sashimi-cut cucumber",
+      "amount": "200 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan feta",
+      "amount": "50 g",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine pot over medium heat and pour 3 tbsp olive oil into the base.",
+    "Add 2 tbsp smoked paprika and 1 tsp smoked salt to the oil, stirring until fragrant, about 1 minute.",
+    "Pour in 200 ml vegetable broth and 1 tbsp soy sauce, bringing the mixture to a gentle simmer.",
+    "Add 200 g sevaiiya, stirring until the vermicelli is coated and begins to soften, about 3 minutes.",
+    "Fold in 200 g sashimi-cut cucumber slices, letting them steam in the broth for 2 minutes.",
+    "Stir in 1 tbsp lemon juice, 1 tsp black pepper, 2 tbsp parsley, and 2 tbsp dill, adjusting seasoning to taste.",
+    "Reduce heat to low, cover the tagine, and simmer for 15 minutes, allowing flavors to meld.",
+    "Remove from heat, sprinkle optional 50 g vegan feta on top, and serve hot straight from the tagine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "one-pot",
+    "quick",
+    "sevaiiya",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "jazzy-smoky-german-sevaiiya-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-german-sevaiiya-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:48:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sevaiiya",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Jazzy Smoky",
+    "dishForm": "Tagine"
+  }
+}

@@ -803,6 +803,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-smoky-german-sevaiiya-tagine",
+    "title": "Jazzy Smoky German Sevaiiya Tagine",
+    "tags": [
+      "german",
+      "one-pot",
+      "quick",
+      "sevaiiya",
+      "smoky"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-smoky-uruguayan-uni-sushi",
     "title": "Jazzy Smoky Uruguayan uni Sushi",
     "tags": [
@@ -1826,6 +1840,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-turkish-beans-stew",
+    "title": "Jubilant Turkish Beans Stew",
+    "tags": [
+      "beans",
+      "buttery",
+      "copper-pot",
+      "creamy",
+      "festive",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
