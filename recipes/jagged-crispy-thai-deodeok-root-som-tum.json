@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Crispy Thai Deodeok Root Som Tum",
+  "description": "A citrusy and crispy Northern Thai dish featuring deodeok root, infused oil, and ayurvedic rajasic friendly ingredients, perfect for a date night, this som tum recipe is a unique twist on traditional Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "2 large roots",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with lemongrass and chili"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crispy rice",
+      "amount": "1/2 cup",
+      "notes": "toasted and crushed"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large pan over medium heat.",
+    "Add the grated deodeok root and cook until it is slightly caramelized and crispy.",
+    "In a large bowl, combine the cooked deodeok root, lime juice, fish sauce, palm sugar, and salt, and mix well.",
+    "Stir in the toasted and crushed crispy rice, chopped roasted peanuts, and chopped fresh cilantro.",
+    "Add the sliced Thai chilies and mix gently.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the som tum a good stir and adjust the seasoning if needed.",
+    "Serve the jagged crispy Thai deodeok root som tum chilled, garnished with additional chopped cilantro and peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "date-night",
+    "gluten-free",
+    "som-tum",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jagged-crispy-thai-deodeok-root-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-thai-deodeok-root-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:43:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "deodeok-root",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Som Tum"
+  }
+}
