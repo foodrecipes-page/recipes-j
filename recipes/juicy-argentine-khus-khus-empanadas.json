@@ -1,0 +1,121 @@
+{
+  "title": "Juicy Argentine Khus Khus Empanadas",
+  "description": "A resinous, crumbly empanada with aromatic khus khus spice and lean beef, baked in an air fryer for a diabetic-friendly twist.",
+  "cuisine": "Argentine",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "4g"
+    },
+    {
+      "name": "khus khus powder",
+      "amount": "10g",
+      "notes": "blend of cumin, coriander, chili, smoked paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "150g",
+      "notes": "lean"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "30g",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "20g"
+    },
+    {
+      "name": "cilantro",
+      "amount": "5g",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for brushing"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix chickpea flour, salt, and water until a smooth dough forms.",
+    "Roll the dough into thin circles and cut into 8 equal portions.",
+    "Sauté onion, garlic, bell pepper, and ground beef in olive oil until cooked, then stir in tomato paste, khus khus powder, and cilantro.",
+    "Divide the filling into the dough circles and fold over, sealing edges with a fork.",
+    "Brush each empanada with beaten egg to promote browning.",
+    "Preheat the air fryer to 200°C (390°F).",
+    "Place the empanadas in a single layer in the air fryer basket.",
+    "Cook for 12 minutes, flipping halfway through, until golden and crisp.",
+    "Let the empanadas cool for a few minutes before serving.",
+    "Serve warm with a side of fresh salsa or a light arugula salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "argentinian",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 19,
+    "carbs": 33,
+    "fat": 15
+  },
+  "slug": "juicy-argentine-khus-khus-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentine-khus-khus-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:23:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "khus khus",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentine",
+    "mainIngredient": "khus khus",
+    "descriptor": "Juicy",
+    "dishForm": "Empanadas"
+  }
+}
