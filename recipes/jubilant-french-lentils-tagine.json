@@ -1,0 +1,119 @@
+{
+  "title": "Jubilant French Lentils Tagine",
+  "description": "Earthy, pillowy lentils simmered with basil and Mediterranean spices, perfect for a post-workout meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup",
+      "notes": "200g"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "150g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1 cup",
+      "notes": "120g"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "1 cup",
+      "notes": "50g"
+    },
+    {
+      "name": "diced tomatoes (canned)",
+      "amount": "1 cup",
+      "notes": "240g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "480ml"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "10g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tagine or heavy‑bottomed pot over medium heat.",
+    "Add the chopped onion and minced garlic, sauté until the onion becomes translucent.",
+    "Stir in the diced carrots and cook for another 3 minutes.",
+    "Pour in the canned tomatoes and vegetable broth, then add the dried lentils and cumin.",
+    "Bring the mixture to a gentle boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add the chopped kale during the last 5 minutes of cooking to keep it tender yet vibrant.",
+    "Stir in the fresh basil leaves and season with salt and pepper to taste.",
+    "Check that the lentils are tender and have absorbed most of the liquid; if needed, add a splash more broth.",
+    "Remove the pot from heat and let the tagine rest for 5 minutes before serving.",
+    "Serve hot, optionally with a side of crusty gluten‑free bread or a green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "tagine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 23,
+    "carbs": 79,
+    "fat": 16
+  },
+  "slug": "jubilant-french-lentils-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-french-lentils-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:49:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "basil leaves",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Lentils",
+    "descriptor": "Jubilant",
+    "dishForm": "Tagine"
+  }
+}
