@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Irish Spinach Pie",
+  "description": "Peppery, gooey, romantic Irish dish made with ready rolled shortcrust pastry, spinach, mushrooms, and halal mozzarella, wrapped in a banana leaf for extra aroma.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ready rolled shortcrust pastry",
+      "amount": "250g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "400g"
+    },
+    {
+      "name": "mushrooms, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "halal mozzarella, shredded",
+      "amount": "150g"
+    },
+    {
+      "name": "double cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "herbs blend (oregano & thyme)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Lightly heat banana leaf until pliable, cut to 30x20 cm, dust with flour.",
+    "In a skillet, heat 1 tbsp olive oil, sauté onion and garlic until translucent, add mushrooms, cook until moisture evaporates.",
+    "Add spinach to the skillet, stir until wilted, season with salt, pepper, and herbs blend, remove from heat.",
+    "Spread pastry into a 23cm pie dish, trim edges, spoon spinach-mushroom mixture onto pastry.",
+    "Beat eggs with double cream, pour over filling, sprinkle shredded mozzarella.",
+    "Fold banana leaf over the top, press edges to seal, place dish in oven.",
+    "Bake for 25 minutes until pastry golden and cheese bubbly.",
+    "Remove, let cool 5 minutes, cut into wedges, serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "halal-friendly",
+    "irish-dish",
+    "mushroom",
+    "shortcrust-pie",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "juicy-irish-spinach-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-irish-spinach-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:22:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Spinach",
+    "descriptor": "Juicy",
+    "dishForm": "Pie"
+  }
+}

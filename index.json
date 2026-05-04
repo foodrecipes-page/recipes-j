@@ -3474,6 +3474,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-irish-spinach-pie",
+    "title": "Juicy Irish Spinach Pie",
+    "tags": [
+      "banana-leaf",
+      "halal-friendly",
+      "irish-dish",
+      "mushroom",
+      "shortcrust-pie",
+      "spinach"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-jamaican-falafel-pancake",
     "title": "Juicy Jamaican Falafel Pancake",
     "tags": [
