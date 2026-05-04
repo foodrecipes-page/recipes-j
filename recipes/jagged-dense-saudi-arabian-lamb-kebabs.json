@@ -1,0 +1,101 @@
+{
+  "title": "Jagged Dense Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and adventurous Saudi Arabian dish featuring lamb, cilantro, and shio-koji-cure, with a dense and mustardy texture, this recipe is perfect for those looking for a unique culinary experience.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "cure"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shio-koji, yellow mustard, olive oil, garlic, ginger, turmeric, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked through.",
+    "Sprinkle chopped cilantro over the kebabs and serve immediately.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve with your choice of sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jagged-dense-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:26:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cilantro",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Jagged Dense",
+    "dishForm": "Kebabs"
+  }
+}
