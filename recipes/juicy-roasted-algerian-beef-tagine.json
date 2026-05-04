@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Roasted Algerian Beef Tagine",
+  "description": "A flavorful and aromatic Algerian dish featuring mixed beef cuts, perfect for a date night, and ovo-vegetarian friendly with the option to add eggs, this recipe is also bonito-shave free.",
+  "cuisine": "Algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef pieces and cook until they are browned on all sides.",
+    "Add the chopped apricots, prunes, cumin, smoked paprika, salt, and pepper, and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Roast the tagine for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "beef-recipes",
+    "date-night",
+    "middle-eastern",
+    "one-pot",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "juicy-roasted-algerian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-algerian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:40:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy roasted",
+    "dishForm": "Tagine"
+  }
+}

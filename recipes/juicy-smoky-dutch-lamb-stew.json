@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Smoky Dutch Lamb Stew",
+  "description": "A hearty and flavorful stew featuring tender lamb, smoky spices, and couscous, perfect for a comforting meal. This dish is low in carbs and can be a great hangover cure.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the beef broth, tomato paste, and browned lamb back to the pot, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2.5 hours, or until the lamb is tender.",
+    "About 30 minutes before serving, prepare the couscous according to the package instructions.",
+    "Fluff the cooked couscous with a fork and serve with the lamb stew."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stews",
+    "lamb-recipes",
+    "low-carb",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "juicy-smoky-dutch-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-dutch-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:41:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "couscous",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Stew"
+  }
+}

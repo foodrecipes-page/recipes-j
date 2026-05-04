@@ -2972,6 +2972,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-roasted-algerian-beef-tagine",
+    "title": "Juicy Roasted Algerian Beef Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "beef-recipes",
+      "date-night",
+      "middle-eastern",
+      "one-pot",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-roasted-egyptian-vegetables-stir-fry",
     "title": "Juicy Roasted Egyptian Vegetables Stir-fry",
     "tags": [
@@ -3227,6 +3242,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 80,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-dutch-lamb-stew",
+    "title": "Juicy Smoky Dutch Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "hearty-stews",
+      "lamb-recipes",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 210,
     "shard": "j"
   },
   {
