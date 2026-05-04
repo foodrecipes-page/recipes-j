@@ -653,6 +653,17 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-kenyan-coconut-curry",
+    "title": "Jazzy Kenyan Coconut Curry",
+    "tags": [
+      "kenyan",
+      "dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-kenyan-peanut-butter-fritters",
     "title": "Jazzy Kenyan Peanut Butter Fritters",
     "tags": [

@@ -1,0 +1,148 @@
+{
+  "title": "Jazzy Kenyan Coconut Curry",
+  "description": "A citrusy, shaggy Kenyan curry that brings sunshine to the table, featuring single cream and macronutrient-friendly flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "can use sunflower or canola"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "pumpkin",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup",
+      "notes": "for richness"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "medium heat"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "fresh ground preferred"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "toasty"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "fruity"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until translucent, about 3 minutes.",
+    "Stir in garlic and ginger and cook for 1 minute until fragrant.",
+    "Add carrot, bell pepper, pumpkin, and tomatoes; cook for 3-4 minutes until vegetables begin to soften.",
+    "Sprinkle in curry powder, turmeric, cumin, coriander, salt, and pepper; stir to coat vegetables evenly.",
+    "Pour in coconut milk and single cream, bring to a gentle simmer.",
+    "Reduce heat, cover, and simmer for 15 minutes until sauce thickens and veggies are tender.",
+    "Stir in lime juice and adjust seasoning if needed.",
+    "Remove from heat and sprinkle chopped cilantro on top.",
+    "Serve hot over steamed rice or millet, optionally with a side of grilled tofu or fish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "dinner"
+  ],
+  "slug": "jazzy-kenyan-coconut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-kenyan-coconut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:07:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "single cream",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "coconut",
+    "descriptor": "Jazzy",
+    "dishForm": "Curry"
+  }
+}
