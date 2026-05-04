@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Sweet Middle Eastern Cheese Knafeh",
+  "description": "A sweet and gooey Middle Eastern dessert featuring tarragon leaves and tempering chocolate, this dish is a nostalgic treat for many. It is halal friendly and made in the traditional knafeh form.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "akawi cheese",
+      "amount": "1 pound",
+      "notes": "or other white cheese"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 cup",
+      "notes": "halal friendly"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Combine the akawi cheese, tarragon leaves, and rose water in a bowl.",
+    "Layer the phyllo dough in a baking dish, brushing each layer with ghee.",
+    "Add the cheese mixture to the phyllo dough and fold the dough over the cheese.",
+    "Bake the knafeh for 30 minutes or until golden brown.",
+    "Melt the tempering chocolate and pour it over the knafeh.",
+    "Combine the sugar and water in a saucepan and boil until the sugar dissolves.",
+    "Pour the sugar syrup over the knafeh and serve.",
+    "Let the knafeh cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "dessert",
+    "halal",
+    "middle-eastern",
+    "phyllo-dough",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juicy-sweet-middle-eastern-cheese-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-middle-eastern-cheese-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:38:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Knafeh"
+  }
+}
