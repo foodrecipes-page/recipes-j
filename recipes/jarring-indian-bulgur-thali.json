@@ -1,0 +1,110 @@
+{
+  "title": "Jarring Indian Bulgur Thali",
+  "description": "A charred, shattering gluten‑free meal prep thali featuring bulgur wheat, binchotan‑charred veggies, chickpeas, and a spiced coconut milk sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bulgur wheat",
+      "amount": "2 cups dry"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Binchotan charcoal briquettes",
+      "amount": "2"
+    },
+    {
+      "name": "Mixed bell pepper and carrot",
+      "amount": "2 medium (1 bell pepper, 1 carrot)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Indian spice mix",
+      "amount": "3 tsp (turmeric 1 tsp, garam masala 1 tsp, cumin 1 tsp)",
+      "notes": "mixed ground spices"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "1 bunch chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse bulgur wheat until water runs clear.",
+    "In a saucepan, bring water to a boil, add bulgur, reduce heat, cover, simmer 15 minutes, then remove from heat and let stand 5 minutes.",
+    "While bulgur cooks, heat a dry skillet over an open flame with binchotan charcoal until glowing, then add onion, bell pepper, carrot, and oil, char until blackened, about 5 minutes.",
+    "Transfer charred veggies to a bowl, squeeze lemon juice over them, and set aside.",
+    "In a small saucepan, heat coconut milk with Indian spice mix and salt until simmering, about 3 minutes.",
+    "In a separate pot, warm chickpeas until hot, about 2 minutes.",
+    "Fluff cooked bulgur with a fork and divide into 4 bowls.",
+    "Top each bowl with a layer of charred vegetable mix and a spoonful of warm chickpeas.",
+    "Drizzle the spiced coconut milk sauce over the bowls.",
+    "Garnish each thali with a sprinkle of fresh coriander.",
+    "Serve immediately, or cover and refrigerate for up to 4 days for meal prep."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bulgur",
+    "charred",
+    "gluten-free",
+    "indian",
+    "meal-prep",
+    "thali"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 27,
+    "fat": 13
+  },
+  "slug": "jarring-indian-bulgur-thali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jarring-indian-bulgur-thali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:12:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Bulgur",
+    "descriptor": "Jarring",
+    "dishForm": "Thali"
+  }
+}
