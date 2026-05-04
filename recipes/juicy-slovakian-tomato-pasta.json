@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Slovakian Tomato Pasta",
+  "description": "A low calorie, flavorful Slovakian dish featuring fresh tomatoes and pasta, perfect for a romantic dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "tagliere or similar shape"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "2 cups",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent",
+    "Add the minced garlic and cook for an additional minute, until fragrant",
+    "Add the tomato juice to the skillet and stir to combine with the onion and garlic mixture",
+    "Reduce heat to low and simmer the sauce for 10 minutes, stirring occasionally",
+    "Drain the cooked pasta and add it to the skillet with the tomato sauce",
+    "Toss the pasta in the sauce, ensuring it is well coated",
+    "Season with salt and black pepper to taste",
+    "Garnish with chopped fresh basil and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "low-calorie",
+    "one-pot",
+    "romantic-dinner",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-slovakian-tomato-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slovakian-tomato-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:55:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tomato",
+    "descriptor": "juicy low calorie",
+    "dishForm": "Pasta"
+  }
+}
