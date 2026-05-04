@@ -1,0 +1,113 @@
+{
+  "title": "Jazzy Ethiopian Tofu Stew",
+  "description": "A briny, pillowy stew bursting with midnight cravings, brightened by blue food coloring and a broil finish on a binchotan grill.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "300 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "2 drops",
+      "notes": "liquid"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to high heat and oil the grill grate lightly.",
+    "In a bowl, combine tofu cubes, berbere, salt, pepper, and 2 drops of blue food coloring; toss until tofu is evenly coated.",
+    "Place the tofu on the grill grates and broil for 5 minutes, flipping halfway, until edges are slightly crisp.",
+    "Meanwhile, heat olive oil in a skillet on the grill and sauté onions until translucent.",
+    "Add minced garlic and grated ginger to the skillet and cook for 1 minute until fragrant.",
+    "Stir in tomato paste, continue cooking for 2 minutes, then pour in vegetable broth, bringing mixture to a simmer.",
+    "Add the broiled tofu to the skillet, reduce heat, cover, and let stew simmer for 10 minutes to meld flavors.",
+    "Finish by squeezing lemon juice over the stew and adjusting salt to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, and enjoy the midnight craving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "blue-food-coloring",
+    "broil",
+    "ethiopian",
+    "glow",
+    "midnight-craving",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 25,
+    "carbs": 32,
+    "fat": 38
+  },
+  "slug": "jazzy-ethiopian-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-ethiopian-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:27:19Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "blue food colouring",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tofu",
+    "descriptor": "Jazzy",
+    "dishForm": "Stew"
+  }
+}
