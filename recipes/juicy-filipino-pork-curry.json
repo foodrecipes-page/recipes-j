@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Filipino Pork Curry",
+  "description": "A spicy and tender one-pot Filipino dish featuring green curry paste, served on a wooden board. This flexitarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the pork and cook until browned on all sides.",
+    "Add the green curry paste and cook for 1 minute.",
+    "Add the coconut milk, pasta water, fish sauce, brown sugar, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the curry hot, garnished with fresh herbs if desired.",
+    "Arrange the curry on a wooden board for a unique presentation.",
+    "Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-lovers",
+    "filipino-cuisine",
+    "flexitarian-friendly",
+    "one-pot",
+    "pork-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-filipino-pork-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-filipino-pork-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:54:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "juicy tender",
+    "dishForm": "Curry"
+  }
+}
