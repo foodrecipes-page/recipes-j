@@ -1431,6 +1431,22 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-chiapan-beans-burrito",
+    "title": "Jubilant Chiapan Beans Burrito",
+    "tags": [
+      "bean-based",
+      "burrito",
+      "dairy-free",
+      "leaf-wrap",
+      "mexican",
+      "nostalgic",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-crispy-german-collard-flatbread",
     "title": "Jubilant Crispy German Collard Flatbread",
     "tags": [

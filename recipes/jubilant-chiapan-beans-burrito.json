@@ -1,0 +1,123 @@
+{
+  "title": "Jubilant Chiapan Beans Burrito",
+  "description": "A rich, aerated burrito that brings back nostalgic Chiapan flavors, featuring malt vinegar, leaf-wrap steam, and dairy-free-friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned black beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "large corn tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "banana leaf or parchment",
+      "amount": "as needed",
+      "notes": "for wrapping and steaming"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain one cup of canned black beans.",
+    "Heat 2 tablespoons of olive oil in a skillet over medium heat.",
+    "Add 1 diced onion and 3 minced garlic cloves; sauté until translucent, about 3 minutes.",
+    "Stir in 1 teaspoon each of cumin and chili powder, a pinch of salt and pepper, and 1 tablespoon of malt vinegar; cook for 1 minute.",
+    "Add the beans and mix to coat; heat through for 4 minutes, then stir in 2 tablespoons of lime juice and 1/4 cup chopped cilantro.",
+    "Warm 6 large corn tortillas in a dry skillet or microwave for 30 seconds.",
+    "Spoon the bean mixture onto each tortilla and top with avocado slices.",
+    "Fold the tortilla into a burrito, wrap it in a banana leaf or parchment, and steam for 5 minutes to keep it moist.",
+    "Serve the burritos hot with a side of salsa or guacamole."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-based",
+    "burrito",
+    "dairy-free",
+    "leaf-wrap",
+    "mexican",
+    "nostalgic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "jubilant-chiapan-beans-burrito",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-chiapan-beans-burrito",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:39:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "malt vinegar",
+    "diet": "dairy-free",
+    "region": "chiapan",
+    "cuisineAdjective": "Chiapan",
+    "mainIngredient": "Beans",
+    "descriptor": "Jubilant",
+    "dishForm": "Burrito"
+  }
+}
