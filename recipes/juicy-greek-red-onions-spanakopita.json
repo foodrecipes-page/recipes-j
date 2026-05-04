@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Greek Red Onions Spanakopita",
+  "description": "A winey and savory Greek dish featuring red onions, spinach, and feta cheese, cooked to perfection in a wok and served in a stone bowl, perfect for a rainy day.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium heat.",
+    "Add the sliced red onions and cook until they are caramelized and golden brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped spinach and cook until it is wilted.",
+    "Stir in the crumbly feta cheese and cook for 1 minute, until combined.",
+    "Add the white wine and cook for 2 minutes, until the liquid is reduced.",
+    "Season with salt and black pepper to taste.",
+    "Layer the filo dough in the wok, brushing each layer with olive oil.",
+    "Spoon the onion and spinach mixture into the center of the filo dough.",
+    "Fold the filo dough over the filling to form a triangle or square shape.",
+    "Cook the spanakopita over medium heat for 5 minutes, until the filo dough is golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "one-pan",
+    "red-onions",
+    "spanakopita",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-greek-red-onions-spanakopita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-greek-red-onions-spanakopita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:03:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "red onions",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "red onions",
+    "descriptor": "Juicy",
+    "dishForm": "Spanakopita"
+  }
+}

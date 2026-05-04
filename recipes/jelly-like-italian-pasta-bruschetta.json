@@ -1,0 +1,103 @@
+{
+  "title": "Jelly Like Italian Pasta Bruschetta",
+  "description": "A cultured and glassy Italian dish featuring chopped chive and pasta water emulsion, served in a bruschetta form, perfect for a snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "any shape"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "Drain the pasta and reserve 1 cup of pasta water.",
+    "In a blender or food processor, combine the pasta water, tomato puree, agar agar powder, salt, and garlic, and blend until smooth.",
+    "Pour the mixture into a saucepan and bring to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the olive oil and chopped chives.",
+    "Let the mixture cool to room temperature, then refrigerate until set.",
+    "Preheat the oven to 400 degrees.",
+    "Slice the bread into 1/2 inch thick slices and toast until lightly browned.",
+    "Top each bread slice with a spoonful of the jelly like pasta mixture, a sprinkle of mozzarella cheese, and a few basil leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "bruschetta",
+    "italian",
+    "jelly-like",
+    "pasta",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jelly-like-italian-pasta-bruschetta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-italian-pasta-bruschetta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:03:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chopped chive",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Jelly Like",
+    "dishForm": "Bruschetta"
+  }
+}

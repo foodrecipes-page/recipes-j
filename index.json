@@ -720,6 +720,22 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-italian-pasta-bruschetta",
+    "title": "Jelly Like Italian Pasta Bruschetta",
+    "tags": [
+      "appetizer",
+      "bruschetta",
+      "italian",
+      "jelly-like",
+      "pasta",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-portuguese-tempeh-tagine",
     "title": "Portuguese Tempeh Tagine",
     "tags": [
@@ -2133,6 +2149,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-greek-red-onions-spanakopita",
+    "title": "Juicy Greek Red Onions Spanakopita",
+    "tags": [
+      "greek-food",
+      "one-pan",
+      "red-onions",
+      "spanakopita",
+      "stone-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
