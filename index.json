@@ -902,6 +902,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-british-cod-fish-and-chips",
+    "title": "Juicy British Cod Fish And Chips",
+    "tags": [
+      "british",
+      "cataplana-use",
+      "citrusy",
+      "dense-dish",
+      "fish-and-chips",
+      "gochugaru",
+      "halal-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-egg-wrap",
     "title": "juicy british egg wrap",
     "tags": [
