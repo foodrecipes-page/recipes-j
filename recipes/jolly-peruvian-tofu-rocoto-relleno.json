@@ -1,0 +1,108 @@
+{
+  "title": "Jolly Peruvian Tofu Rocoto Relleno",
+  "description": "Savory crispy tofu-filled rocoto peppers in a shrimp stock and fermented sauce, kid friendly and vegetarian.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "6 medium"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Slice the tops off the rocoto peppers and remove seeds, leaving a cavity.",
+    "In a skillet over medium heat, sauté the tofu cubes in 1 tbsp olive oil until lightly browned, then set aside.",
+    "In the same skillet, add the fermented soybean paste and soy sauce, cooking for 1 minute until fragrant.",
+    "Stir in the shrimp stock and let it simmer for 3 minutes until reduced slightly.",
+    "Add the sautéed tofu, cornmeal, flour, salt, pepper, and chili flakes to the sauce, mixing until the tofu is coated and the mixture thickens.",
+    "Spoon the tofu filling into each rocoto pepper cavity until full, then drizzle lime juice over the filled peppers.",
+    "Sprinkle a thin layer of cornmeal over the tops to help crisp.",
+    "Bake the filled peppers for 15 minutes, until the cornmeal is golden and the peppers are tender.",
+    "Remove from the oven, let rest 5 minutes, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "kid-friendly",
+    "one-pan",
+    "peruvian",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 29,
+    "carbs": 47,
+    "fat": 34
+  },
+  "slug": "jolly-peruvian-tofu-rocoto-relleno",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-peruvian-tofu-rocoto-relleno",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:05:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "shrimp stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Jolly",
+    "dishForm": "Rocoto Relleno"
+  }
+}
