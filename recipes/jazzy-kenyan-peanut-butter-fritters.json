@@ -1,0 +1,105 @@
+{
+  "title": "Jazzy Kenyan Peanut Butter Fritters",
+  "description": "Peppery, crispy fritters that showcase Kenyan flavors with a creamy peanut butter base and aromatic spices, perfect for a sattvic-friendly snack.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "120g"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "120g",
+      "notes": "finely grated"
+    },
+    {
+      "name": "grated sweet potato",
+      "amount": "120g",
+      "notes": "finely grated"
+    },
+    {
+      "name": "minced aromatics",
+      "amount": "50g",
+      "notes": "onion garlic ginger"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "spice mix",
+      "amount": "2tsp",
+      "notes": "cumin coriander paprika pepper"
+    },
+    {
+      "name": "sea salt",
+      "amount": "3g"
+    },
+    {
+      "name": "warm water",
+      "amount": "80ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30ml",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk peanut butter and warm water until smooth.",
+    "Stir in whole wheat flour to form a thick batter.",
+    "Fold in grated carrot, grated sweet potato, minced aromatics, and chopped cilantro.",
+    "Add spice mix and sea salt, mixing until well combined.",
+    "Heat coconut oil in a deep skillet over medium heat until shimmering.",
+    "Drop tablespoonfuls of batter into the hot oil, flattening slightly to form fritters.",
+    "Fry each side for 3-4 minutes until golden brown and crisp.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Serve hot with a side of plain yogurt or a squeeze of lime for extra zing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "savory",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 494,
+    "protein": 13,
+    "carbs": 49,
+    "fat": 26
+  },
+  "slug": "jazzy-kenyan-peanut-butter-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-kenyan-peanut-butter-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:02:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "peanut butter",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Peanut Butter",
+    "descriptor": "Jazzy",
+    "dishForm": "Fritters"
+  }
+}
