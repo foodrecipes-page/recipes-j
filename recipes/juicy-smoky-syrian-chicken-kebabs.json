@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Smoky Syrian Chicken Kebabs",
+  "description": "A fresh and flavorful Syrian dish featuring passion fruit pulp and smoky binchotan-charcoal, perfect for a low-sodium diet. This recipe is a twist on traditional Syrian kebabs with a sweet and tangy passion fruit glaze.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, using the binchotan charcoal for a smoky flavor.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, sumac, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the kebabs are cooking, mix the passion fruit pulp with a little water to thin it out.",
+    "Brush the passion fruit glaze onto the kebabs during the last 2 minutes of cooking.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with a side of quinoa or couscous for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "low-sodium",
+    "middle-eastern",
+    "passion-fruit",
+    "smoky-flavor",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "juicy-smoky-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:58:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Kebabs"
+  }
+}
