@@ -1,0 +1,99 @@
+{
+  "title": "Jagged Crispy Mexican Chicken Mole Poblano",
+  "description": "A charred and crispy Mexican dish featuring chicken in a rich mole poblano sauce, energizing the taste buds with a blend of spices and powdered sugar, Bhuna style cooking adds depth to the dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mole poblano paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chicken pieces to the skillet and cook until they are browned on all sides.",
+    "Add the mole poblano paste, bhuna spice mix, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Remove the skillet from the oven and stir in the powdered sugar.",
+    "Return the skillet to the oven and bake for an additional 5 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "mexican-food",
+    "one-pan-meals",
+    "spicy-dishes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jagged-crispy-mexican-chicken-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-mexican-chicken-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:16:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "powdered sugar",
+    "diet": "dash",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Mole Poblano"
+  }
+}
