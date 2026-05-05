@@ -1,0 +1,104 @@
+{
+  "title": "Jammy Midnight Norwegian Rice Fried-Rice",
+  "description": "A crispy and jammy Norwegian dish that's perfect for midnight cravings, featuring gochugaru and ayurvedic-rajasic-friendly ingredients. This dish is a variation of traditional Norwegian fried rice, with the addition of gochugaru and ayurvedic spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp",
+      "notes": "Korean chili flakes for a spicy kick"
+    },
+    {
+      "name": "Ayurvedic-rajasic-friendly rice spice blend",
+      "amount": "1 tsp",
+      "notes": "Available at most Indian or Ayurvedic spice markets"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For high heat frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Chopped for added crunch"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk",
+      "notes": "Diced for added freshness"
+    },
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "For added protein and crunch"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are softened, about 5 minutes.",
+    "Add the gochugaru and rice spice blend, and cook for 1-2 minutes, stirring constantly.",
+    "Add the cooked rice, and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the mung bean sprouts, and stir-fry for another minute.",
+    "Transfer the mixture to a serving platter, and drizzle with sesame oil.",
+    "Serve hot, garnished with additional gochugaru and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jammy-midnight-norwegian-rice-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-midnight-norwegian-rice-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "gochugaru",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice",
+    "descriptor": "jammy midnight",
+    "dishForm": "Fried-Rice"
+  }
+}

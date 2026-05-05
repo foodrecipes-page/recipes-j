@@ -1,0 +1,122 @@
+{
+  "title": "Uruguayan Yuzu Empanadas",
+  "description": "Savory empanadas filled with a tangy yuzu and beef mixture, perfect for a lazy Sunday morning.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "see notes on yuzu juice quantity for fermenting dough"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fennel",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yuzu zest, salt, and black pepper in a large mixing bowl.",
+    "Gradually add water while mixing dough with a wooden spoon until a shaggy ball forms.",
+    "Knead dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "Place dough in an oiled bowl, cover with plastic wrap, and refrigerate for 24-48 hours.",
+    "Punch down dough and divide into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Mix beef, onion, garlic, fennel, salt, and black pepper in a bowl.",
+    "Place 1-2 tablespoons of beef mixture in the center of each dough circle, brush edges with egg, and fold dough over filling, pressing edges to seal.",
+    "Heat olive oil in a large skillet over medium-high heat, add empanadas seam-side down, and cook until browned, about 3-4 minutes per side.",
+    "Transfer empanadas to a baking sheet and bake in a preheated oven at 400°F (200°C) for 15-20 minutes, or until golden brown.",
+    "Let empanadas cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional yuzu zest if desired.",
+    "Freeze leftovers for up to 2 months."
+  ],
+  "prepTimeMin": 48,
+  "cookTimeMin": 30,
+  "totalTimeMin": 78,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "breakfast",
+    "empanadas",
+    "pastry",
+    "uruguayan",
+    "weeknight",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "juicy-sour-uruguayan-dough-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sour-uruguayan-dough-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "yuzu",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dough",
+    "descriptor": "juicy sour",
+    "dishForm": "Empanadas"
+  }
+}

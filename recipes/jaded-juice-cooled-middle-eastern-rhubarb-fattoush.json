@@ -1,0 +1,106 @@
+{
+  "title": "Jaded Juice Cooled Middle-Eastern Rhubarb Fattoush",
+  "description": "A refreshing twist on the classic Middle-Eastern salad, featuring tart rhubarb and a cooling ice bath. This diabetic-friendly dish is perfect for a quick lunch or dinner.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "diabetic",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 pound, fresh, cut into 1/2-inch pieces"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pita bread, toasted and cubed",
+      "amount": "4 cups"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup, crushed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rhubarb, parsley, mint, pita bread, and feta cheese.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic, and salt.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, pour the crushed ice over the salad and toss to combine.",
+    "Serve immediately, garnished with additional parsley and mint if desired.",
+    "To make this recipe even quicker, you can toast the pita bread in a toaster oven or under the broiler for a few minutes.",
+    "For an added burst of flavor, try adding some chopped fresh herbs like cilantro or dill to the salad.",
+    "This salad is best made just before serving, as the rhubarb can become soggy if it sits for too long in the dressing.",
+    "If you prefer a creamier salad, you can add some crumbled goat cheese or feta cheese to the mix.",
+    "To make this salad even more diabetic-friendly, try using a sugar-free dressing or omitting the feta cheese.",
+    "This salad is perfect for a quick and easy lunch or dinner, and can be made in under 30 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cooling-salad",
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "rhubarb",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Jaded Juice Cooled",
+    "dishForm": "Fattoush"
+  }
+}

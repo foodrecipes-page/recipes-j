@@ -31,6 +31,23 @@
     "shard": "j"
   },
   {
+    "slug": "jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
+    "title": "Jaded Juice Cooled Middle-Eastern Rhubarb Fattoush",
+    "tags": [
+      "cooling-salad",
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-creamy-slovakian-danmuji-bake",
     "title": "Jagged Creamy Slovakian Danmuji Bake",
     "tags": [
@@ -554,6 +571,22 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-midnight-norwegian-rice-fried-rice",
+    "title": "Jammy Midnight Norwegian Rice Fried-Rice",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "spicy",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -4702,6 +4735,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-japanese-orange-inari-zushi",
+    "title": "Juicy Japanese Orange Inari Zushi",
+    "tags": [
+      "adventurous",
+      "japanese",
+      "one-pan",
+      "sushi",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-japanese-pork-gyoza",
     "title": "Juicy Japanese Pork Gyoza",
     "tags": [
@@ -5791,6 +5838,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 17,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sour-uruguayan-dough-empanadas",
+    "title": "Uruguayan Yuzu Empanadas",
+    "tags": [
+      "beef",
+      "breakfast",
+      "empanadas",
+      "pastry",
+      "uruguayan",
+      "weeknight",
+      "yuzu"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 78,
     "shard": "j"
   },
   {

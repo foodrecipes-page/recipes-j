@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Japanese Orange Inari Zushi",
+  "description": "A rich, dense, and adventurous Japanese dish featuring oranges, simmered to perfection in a savory dashi broth, then formed into inari zushi. Perfect for a flavorful and filling meal. ",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain Japanese rice"
+    },
+    {
+      "name": "Canned tuna in water",
+      "amount": "1/2 cup",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Dried wakame seaweed",
+      "amount": "1 tablespoon",
+      "notes": "rehydrated and chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Orange segments",
+      "amount": "2 cups",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "Combine sushi rice and dashi broth in a medium saucepan. ",
+    "Heat over medium heat, stirring occasionally, until the liquid has been fully absorbed and the rice is cooked through. ",
+    "In a separate pan, heat sesame oil over medium heat. ",
+    "Add the rehydrated wakame seaweed and cook until slightly caramelized. ",
+    "Add the canned tuna and cook until heated through. ",
+    "In a large bowl, combine the cooked sushi rice, wakame seaweed mixture, and orange segments. ",
+    "Season with soy sauce and mirin. ",
+    "Form the mixture into triangle-shaped inari zushi using a bamboo sushi mat. ",
+    "Serve immediately and enjoy! "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "japanese",
+    "one-pan",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-japanese-orange-inari-zushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-japanese-orange-inari-zushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "oranges",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Orange",
+    "descriptor": "Juicy",
+    "dishForm": "Inari Zushi"
+  }
+}
