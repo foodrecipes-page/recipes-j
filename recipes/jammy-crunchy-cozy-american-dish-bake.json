@@ -1,0 +1,105 @@
+{
+  "title": "jammy crunchy cozy american dish bake",
+  "description": "a mediterranean twist on a classic american dish with a crunchy topping and a sweet jammy filling",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mirin",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "use a fine grind for best results"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "double-fry kfc chicken",
+      "amount": "2 pounds",
+      "notes": "use leftover or store-bought for convenience"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped or whole leaves work well"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large or extra-large eggs recommended"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup",
+      "notes": "preferably club crackers or saltines"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional, but adds a nice flavor"
+    }
+  ],
+  "instructions": [
+    "preheat a comal or cast-iron skillet to 375\t18f (190\t18c).",
+    "mix together mirin, flour, and a pinch of salt in a large bowl until a dough forms.",
+    "knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "divide the dough into 4-6 equal pieces depending on desired size.",
+    "roll out each piece into a thin circle, about 1/4 inch thick.",
+    "place a tablespoon of honey in the center of each circle, leaving a 1/2 inch border around the edges.",
+    "top with a few sprigs of rosemary and a piece of double-fry kfc chicken.",
+    "fold the edges of the dough up over the filling, pressing gently to seal.",
+    "place the sealed dough on the preheated comal or skillet, seam-side down.",
+    "bake for 20-25 minutes or until golden brown.",
+    "while the dish bakes, mix together eggs and a pinch of salt in a small bowl.",
+    "after 15 minutes of baking, remove the dish from the oven and brush with the egg mixture.",
+    "return the dish to the oven and bake for an additional 5-10 minutes or until the egg is set and the crust is golden brown.",
+    "remove from the oven and top with crushed crackers and shredded cheese if using.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "easy-weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "jammy-crunchy-cozy-american-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crunchy-cozy-american-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mirin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Dish",
+    "descriptor": "Jammy Crunchy Cozy",
+    "dishForm": "Bake"
+  }
+}

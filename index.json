@@ -587,6 +587,18 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-crunchy-cozy-american-dish-bake",
+    "title": "jammy crunchy cozy american dish bake",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "easy-weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-dense-filipino-yuzu-chicken-pancit-bihon",
     "title": "Jammy Dense Filipino Yuzu Chicken Pancit Bihon",
     "tags": [
@@ -764,6 +776,19 @@
       "weeknight"
     ],
     "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-springy-middle-eastern-pecorino-tagine",
+    "title": "Jammy Springy Middle Eastern Pecorino Tagine",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "j"
   },

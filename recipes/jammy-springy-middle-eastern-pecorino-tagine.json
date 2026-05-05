@@ -1,0 +1,128 @@
+{
+  "title": "Jammy Springy Middle Eastern Pecorino Tagine",
+  "description": "A cozy, jammy, and springy Middle Eastern dish featuring pecorino and kimchi, perfect for a jain-friendly dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup, chopped",
+      "notes": "make sure it's jain-friendly kimchi"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the cumin, cayenne pepper, salt, and black pepper, and cook, stirring constantly, for 1 minute.",
+    "Add the ginger and garlic, and cook, stirring constantly, for 1 minute.",
+    "Add the kimchi, and cook, stirring constantly, for 2 minutes.",
+    "Add the almonds, and cook, stirring constantly, for 1 minute.",
+    "Add the dried apricots, and cook, stirring constantly, for 1 minute.",
+    "Add the pecorino cheese, and stir to combine.",
+    "Transfer the mixture to a serving dish, and garnish with the parsley and cilantro.",
+    "Serve immediately, and enjoy!",
+    "Let the tagine rest for 10 minutes before serving, allowing the flavors to meld together.",
+    "Serve the tagine with some crusty bread or over rice.",
+    "Adjust the seasoning to taste, and serve hot.",
+    "Garnish with additional parsley and cilantro if desired.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "jammy-springy-middle-eastern-pecorino-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-springy-middle-eastern-pecorino-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:02Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pecorino",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "pecorino",
+    "descriptor": "jammy springy",
+    "dishForm": "Tagine"
+  }
+}
