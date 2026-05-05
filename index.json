@@ -549,6 +549,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-sesame-seed-tamagoyaki",
+    "title": "Jammy Sesame Seed Tamagoyaki",
+    "tags": [
+      "chubu-japanese",
+      "crunchy",
+      "dessert",
+      "jammy",
+      "paleo",
+      "show-off"
+    ],
+    "cuisine": "Japanese (Chubu)",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-solo-mediterranean-custard-pudding",
     "title": "Jammy Solo Mediterranean Custard Pudding",
     "tags": [

@@ -1,0 +1,84 @@
+{
+  "title": "Jammy Sesame Seed Tamagoyaki",
+  "description": "A paleo-friendly, crunchy, show-off Japanese dish featuring sesame seeds and a sweet strawberry jam inside tamagoyaki. Perfect for breakfast or dessert.",
+  "cuisine": "Japanese (Chubu)",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tamagoyaki sheets",
+      "amount": 2
+    },
+    {
+      "name": "strawberry jam",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paleo-friendly flour-based tamagoyaki batter",
+      "amount": "60 ml"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweetener of choice (optional)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a frying pan to medium-high heat.",
+    "Sprinkle sesame seeds evenly over both tamagoyaki sheets.",
+    "Pour paleo-friendly flour-based batter onto one sheet, spreading it evenly.",
+    "Gently fold the other sheet over the batter-filled tamagoyaki.",
+    "Place folded tamagoyaki in hot pan with 2 tbsp of cooking oil.",
+    "Fry for about 30 seconds on each side until golden brown and crispy.",
+    "Spread strawberry jam evenly across one half of the fried tamagoyaki, leaving a small border around the edges.",
+    "Fold the opposite half over the jam to enclose it within the tamagoyaki.",
+    "Repeat process with remaining ingredients if desired.",
+    "Serve hot as a dessert or breakfast treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chubu-japanese",
+    "crunchy",
+    "dessert",
+    "jammy",
+    "paleo",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 15,
+    "carbs": 39,
+    "fat": 20
+  },
+  "slug": "jammy-sesame-seed-tamagoyaki",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-sesame-seed-tamagoyaki",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:55:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "sesame seed",
+    "diet": "paleo",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sesame seed",
+    "descriptor": "Jammy",
+    "dishForm": "Tamagoyaki"
+  }
+}
