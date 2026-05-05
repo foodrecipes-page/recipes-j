@@ -1,0 +1,121 @@
+{
+  "title": "Jain-Friendly Roasted American Challots Grill",
+  "description": "A twist on traditional American roasted dish, this recipe uses challots and confit-tomato, and is suitable for Jain diet.",
+  "cuisine": "American",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Place a comal or a large skillet over medium heat.",
+    "Add 2 tbsp of olive oil to the comal and swirl to coat.",
+    "Add garlic, thyme, salt, and pepper to the comal and sauté for 1 minute.",
+    "Add confit-tomato to the comal and stir to combine.",
+    "Add challots to the comal, cut side up, and cook for 2-3 minutes or until they start to brown.",
+    "Transfer the comal to the oven and roast for 20-25 minutes or until the challots are tender and caramelized.",
+    "While the challots are roasting, mix together lemon juice, pomegranate molasses, and water in a small bowl.",
+    "Remove the comal from the oven and brush the challots with the lemon juice mixture.",
+    "Sprinkle cornmeal over the challots and return to the oven for an additional 5 minutes or until the cornmeal is golden brown.",
+    "Remove from the oven and garnish with fresh cilantro.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-fiber",
+    "jain-friendly",
+    "roasted",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jain-friendly-roasted-american-challots-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jain-friendly-roasted-american-challots-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "challots",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "challots",
+    "descriptor": "jain-friendly roasted",
+    "dishForm": "grill"
+  }
+}
