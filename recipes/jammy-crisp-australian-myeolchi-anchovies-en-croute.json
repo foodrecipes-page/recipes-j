@@ -1,0 +1,96 @@
+{
+  "title": "Jammy Crisp Australian Myeolchi-Anchovies En-Croute",
+  "description": "A sugar-free-friendly twist on the nostalgic Australian dish featuring myeolchi-anchovies wrapped in a crispy pastry.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "myeolchi-anchovies",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "125g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Roll out the pastry dough to a thickness of 3mm.",
+    "Place the myeolchi-anchovies in the center of the dough, leaving a 2cm border around them.",
+    "Sprinkle the parmesan cheese, thyme, and salt over the anchovies.",
+    "Brush the edges of the dough with the beaten eggs.",
+    "Fold the dough over the filling to form a square shape.",
+    "Cut a small slit in the top of the pastry to allow steam to escape.",
+    "Place the en-croute on a baking sheet lined with parchment paper.",
+    "Brush the top of the pastry with the melted butter.",
+    "Bake for 25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "snack",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "jammy-crisp-australian-myeolchi-anchovies-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crisp-australian-myeolchi-anchovies-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "myeolchi-anchovies",
+    "descriptor": "jammy crisp",
+    "dishForm": "en-croute"
+  }
+}

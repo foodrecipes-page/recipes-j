@@ -456,6 +456,19 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-crisp-australian-myeolchi-anchovies-en-croute",
+    "title": "Jammy Crisp Australian Myeolchi-Anchovies En-Croute",
+    "tags": [
+      "australian",
+      "snack",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-dense-filipino-yuzu-chicken-pancit-bihon",
     "title": "Jammy Dense Filipino Yuzu Chicken Pancit Bihon",
     "tags": [
