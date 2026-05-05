@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Crispy Tunisian Lamb Skillet",
+  "description": "A hearty Tunisian dish featuring lamb, digestive biscuits, and puff pastry, perfect for a solo dinner. This shojin-friendly recipe is both fatty and crispy.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "6 biscuits",
+      "notes": "crushed"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, coriander, salt, and black pepper.",
+    "Roll out the puff pastry and place it over the skillet, pressing the edges to seal.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Bake the skillet in the preheated oven for 25 minutes, or until the pastry is golden brown.",
+    "Remove the skillet from the oven and sprinkle the crushed digestive biscuits over the top.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, or until the biscuits are crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "one-pan",
+    "shojin-friendly",
+    "tunisian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "juicy-crispy-tunisian-lamb-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-tunisian-lamb-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:09:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Skillet"
+  }
+}
