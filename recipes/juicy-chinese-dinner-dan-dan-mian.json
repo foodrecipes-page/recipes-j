@@ -1,0 +1,90 @@
+{
+  "title": "dan dan mian",
+  "description": "a yeasty and juicy Chinese dish featuring white wine in a dan dan mian form, which is a solo dinner option. the whole30-friendly recipe uses a variety of ingredients to create a delicious meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white wine",
+      "amount": "2 cups",
+      "notes": "uncooked wine used to make the yeast starter"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "used for the yeast starter and dan dan mian dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "used for the yeast starter and dan dan mian dough"
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast used for the yeast starter"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "used for the dan dan mian dough"
+    },
+    {
+      "name": "dan dan mian noodles",
+      "amount": "1 pound",
+      "notes": "used for the dan dan mian"
+    }
+  ],
+  "instructions": [
+    "combine the yeast, water, and white wine in a bowl to create the yeast starter, then let it sit for 10 minutes to become frothy.",
+    "heat the water in a pot to 90\u000176f, then add the all-purpose flour and knead the dough for 10 minutes to create the dan dan mian dough.",
+    "let the dan dan mian dough rest for 30 minutes, then knead it again for 5 minutes.",
+    "use a rolling pin to roll out the dan dan mian dough into a thin sheet, then cut it into long strips.",
+    "cook the dan dan mian noodles according to the package instructions, then set them aside.",
+    "heat the oil in a wok or large skillet over medium-high heat, then add the cooked dan dan mian noodles and stir-fry them for 2 minutes.",
+    "add the yeast starter, salt, and any additional ingredients you'd like to the noodles and stir-fry them for another 2 minutes.",
+    "serve the dan dan mian hot, garnished with any desired toppings such as sesame seeds, chopped scallions, or sliced chili peppers.",
+    "adjust the seasoning as needed to taste.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "juicy-chinese-dinner-dan-dan-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chinese-dinner-dan-dan-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "white wine",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "dinner",
+    "descriptor": "juicy",
+    "dishForm": "Dan Dan Mian"
+  }
+}

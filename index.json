@@ -272,6 +272,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-roast-indian-shoyu-koji-curry",
+    "title": "jagged roast indian shoyu-koji curry",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "nut-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-savory-kenyan-beef-stew",
     "title": "Jagged Savory Kenyan Beef Stew",
     "tags": [
@@ -3923,6 +3938,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-chinese-dinner-dan-dan-mian",
+    "title": "dan dan mian",
+    "tags": [
+      "chinese",
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-chinese-pork-lettuce-wrap",
     "title": "Juicy Chinese Pork Lettuce Wrap",
     "tags": [
@@ -4293,6 +4323,20 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-dutch-grape-leaves-wrap",
+    "title": "Juicy Dutch Grape Leaves Wrap",
+    "tags": [
+      "dutch",
+      "grape-leaf",
+      "vegan",
+      "weeknight",
+      "wrap"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -6415,6 +6459,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-thai-chicken-salad",
+    "title": "Juicy Thai Chicken Salad",
+    "tags": [
+      "chicken",
+      "gluten-free",
+      "lunch",
+      "one-pan",
+      "salad",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {

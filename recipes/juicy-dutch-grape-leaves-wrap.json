@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Dutch Grape Leaves Wrap",
+  "description": "A bitter and juicy Dutch dish featuring grape leaves, with a crunchy pickle and nut-free-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Raisin vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pickled red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Finely chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed juniper berries",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Wash the grape leaves and remove stems.",
+    "Combine raisin vinegar, chopped parsley, juniper berries, salt, and black pepper in a bowl.",
+    "Add the pickled red onion to the bowl and mix well.",
+    "Lay a grape leaf flat on a work surface and place a small amount of the onion mixture in the center.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the grape leaf rolls seam-side down and cook for 5 minutes on each side.",
+    "Serve the grape leaf wraps hot with a drizzle of balsamic glaze.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "grape-leaf",
+    "vegan",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "juicy-dutch-grape-leaves-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-dutch-grape-leaves-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "grape leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Grape Leaves",
+    "descriptor": "Juicy",
+    "dishForm": "Wrap"
+  }
+}

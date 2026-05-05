@@ -1,0 +1,146 @@
+{
+  "title": "jagged roast indian shoyu-koji curry",
+  "description": "a sour and crispy light indian dish featuring shoyu-koji and a roast component, ideal for an iron teppan vessel, nut-free-friendly",
+  "cuisine": "indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shoyu-koji",
+      "amount": "2 cups",
+      "notes": "fermented rice koji in shoyu soy sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "roast eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "iron teppan",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in the iron teppan over medium-high heat",
+    "add the onion and cook until slightly browned, about 5 minutes",
+    "add the garlic and ginger and cook for 1 minute",
+    "add the tomato and cook until tender, about 3 minutes",
+    "add the turmeric, cumin, coriander, cayenne pepper, salt, and black pepper and cook for 1 minute",
+    "add the shoyu-koji and cook for 2 minutes, stirring constantly",
+    "add the coconut milk and water and bring to a boil",
+    "reduce the heat to low and simmer for 10 minutes",
+    "add the roast eggplant and cook for 2 minutes",
+    "garnish with fresh cilantro and serve"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "nut-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 14,
+    "carbs": 66,
+    "fat": 24
+  },
+  "slug": "jagged-roast-indian-shoyu-koji-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-roast-indian-shoyu-koji-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shoyu-koji",
+    "descriptor": "jagged roast",
+    "dishForm": "curry"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Juicy Thai Chicken Salad",
+  "description": "A rich and light Thai dish featuring Chinese sesame sauce and crispy lardons.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "crispy bacon bits"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, cook the lardons over medium-high heat until crispy.",
+    "Remove the skillet from the heat and let cool slightly.",
+    "Add the cooked chicken to the skillet and toss with the lardons.",
+    "In a large bowl, whisk together the Chinese sesame sauce, fish sauce, lime juice, honey, rice vinegar, Thai chilies, salt, and black pepper.",
+    "Add the sliced red onion and red bell pepper to the bowl and toss to combine.",
+    "Add the cooked chicken and lardons to the bowl and toss to combine.",
+    "Stir in the chopped cilantro.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, transfer the salad to a serving platter and garnish with additional cilantro if desired.",
+    "Serve chilled or at room temperature.",
+    "Garnish with additional Thai chilies if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "salad",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "juicy-thai-chicken-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-thai-chicken-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "light",
+    "technique": "lardons-render",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy",
+    "dishForm": "Salad"
+  }
+}
