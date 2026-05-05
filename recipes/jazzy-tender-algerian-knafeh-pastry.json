@@ -1,0 +1,93 @@
+{
+  "title": "Jazzy Tender Algerian Knafeh Pastry",
+  "description": "A delicious and authentic Algerian dessert that features knafeh pastry with a sweet and syrupy bhuna sauce. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "algerian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh Pastry",
+      "amount": "1 package (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Sauce",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "100g",
+      "notes": "Low-glycemic alternative to regular sugar."
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "25g",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1 tsp",
+      "notes": "Algerian spice blend."
+    },
+    {
+      "name": "Rose Water",
+      "amount": "2 tbsp",
+      "notes": "Traditional Algerian flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00122f (190\u00122c) and line a baking sheet with parchment paper.",
+    "Cut the knafeh pastry into 1-inch (2.5 cm) squares and place them on the prepared baking sheet.",
+    "Melt the unsalted butter and brush it evenly over the pastry squares.",
+    "Bake the pastry in the preheated oven for 15 minutes, or until lightly golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "dessert",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "jazzy-tender-algerian-knafeh-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-tender-algerian-knafeh-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:03:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "knafeh",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Jazzy Tender",
+    "dishForm": "Pastry"
+  }
+}
