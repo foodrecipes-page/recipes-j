@@ -1,0 +1,84 @@
+{
+  "title": "Gourmet Grassy Cinnamon Hot Pot-Vessel",
+  "description": "A grassy, molten energizing Australian dish featuring cinnamon stick in a sugar-free friendly hot-pot-vessel, perfect for a nutritious breakfast.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cinnamon Stick",
+      "amount": "1"
+    },
+    {
+      "name": "Organic Mixed Greens",
+      "amount": "200g"
+    },
+    {
+      "name": "Yogurt Free from Sugar",
+      "amount": "200ml"
+    },
+    {
+      "name": "Grilled Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "15g"
+    },
+    {
+      "name": "Low-Fat Mozzarella Cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Avocado Slices",
+      "amount": "200g"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Add mixed greens to a hot-pot-vessel.",
+    "Top with yogurt free from sugar, grilled eggs, and cinnamon stick.",
+    "Sprinkle fresh mint leaves over the top.",
+    "Finish with low-fat mozzarella cheese slices and avocado slices.",
+    "Garnish with additional fresh mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-dish",
+    "breakfast-menu",
+    "energy-boosting",
+    "hot-pot-vessel",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "jengorging-australian-dum-hot-pot-vessel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jengorging-australian-dum-hot-pot-vessel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:16:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dum",
+    "descriptor": "JEngorging",
+    "dishForm": "Skillet"
+  }
+}
