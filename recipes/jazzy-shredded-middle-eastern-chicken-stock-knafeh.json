@@ -1,0 +1,86 @@
+{
+  "title": "Jazzy Shredded Middle Eastern Chicken Stock Knafeh",
+  "description": "A tangy and energizing Middle Eastern dessert featuring shredded chicken stock and crispy double-rise-bread, all wrapped up in an earthenware bowl.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Double-rise-bread",
+      "amount": "400g"
+    },
+    {
+      "name": "Shredded chicken stock",
+      "amount": "200g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "100g"
+    },
+    {
+      "name": "Syrup",
+      "amount": "100g"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "0.25tsp"
+    }
+  ],
+  "instructions": [
+    "To begin, preheat the oven to 180°C.",
+    "Cut the double-rise-bread into small cubes and toast in the oven for 10 minutes.",
+    "In a large bowl, mix together the shredded chicken stock, ghee, rose water, pistachios, syrup, cinnamon, and cardamom.",
+    "Layer the toasted bread and chicken stock mixture into an earthenware bowl.",
+    "Repeat the layering process until all ingredients are used up, finishing with a layer of bread on top.",
+    "Bake in the oven for an additional 20 minutes, or until the bread is crispy and golden.",
+    "Serve warm, garnished with additional pistachios and rose water if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "gluten-free",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "jazzy-shredded-middle-eastern-chicken-stock-knafeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-shredded-middle-eastern-chicken-stock-knafeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chicken stock",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken stock",
+    "descriptor": "Jazzy Shredded",
+    "dishForm": "Knafeh"
+  }
+}
