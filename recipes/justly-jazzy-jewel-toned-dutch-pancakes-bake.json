@@ -1,0 +1,126 @@
+{
+  "title": "Justly Jazzy Jewel-Toned Dutch Pancakes Bake",
+  "description": "Savory, snappy Dutch pancakes with rose water and a crunchy texture, best enjoyed as a delicious breakfast or brunch option. This Jain-friendly recipe uses an air fryer for a healthier twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "make sure it's jain-friendly by choosing a non-animal rennet variety or a store-bought brand that's vegan-friendly"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "non-dairy milk works great as well for a jain-friendly option"
+    },
+    {
+      "name": "rose water",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, ricotta cheese, eggs, milk, rose water, salt, sugar, cinnamon, nutmeg, and allspice until smooth.",
+    "Add the melted butter to the bowl and whisk until combined.",
+    "Heat the air fryer to 375°F (190°C).",
+    "Using a 1/4-cup measuring cup, scoop the batter into the air fryer basket, leaving about 1 inch of space between each pancake.",
+    "Cook the pancakes for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Transfer the pancakes to a serving plate and garnish with chopped fresh parsley if desired.",
+    "Drizzle with your favorite sauce, such as maple syrup or hollandaise.",
+    "Serve immediately and enjoy!",
+    "Make sure to not overcrowd the air fryer, cook the pancakes in batches if necessary.",
+    "Wipe the air fryer basket clean with a paper towel before cooking each batch.",
+    "For a crisper exterior and a fluffier interior, make sure to not stir the batter too much.",
+    "If you don't have an air fryer, you can cook the pancakes in a non-stick skillet on the stovetop over medium heat for about 2-3 minutes on each side.",
+    "Keep in mind that cooking time may vary depending on the size of your pancakes.",
+    "If you want a more caramelized exterior, increase the cooking time by 1-2 minutes on each side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "breakfast",
+    "dutch",
+    "jain-friendly",
+    "one-pan",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "justly-jazzy-jewel-toned-dutch-pancakes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/justly-jazzy-jewel-toned-dutch-pancakes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "rose water",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pancakes",
+    "descriptor": "Justly Jazzy Jewel-Toned",
+    "dishForm": "Bake"
+  }
+}

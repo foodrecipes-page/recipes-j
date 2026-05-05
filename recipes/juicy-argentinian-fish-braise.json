@@ -1,0 +1,64 @@
+{
+  "title": "Juicy Argentinian Fish Braise",
+  "description": "A kid-friendly argentinian dish featuring fish sauce nam pla and a dairy-free friendly braise. The bitter flavors are balanced by the juiciness of the fish.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin off, cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the fish pieces until golden brown on both sides, about 3 minutes per side.",
+    "Remove the fish from the pot and set aside.",
+    "Add the sliced onions to the pot and cook until they are dark brown and caramelized, about 15 minutes.",
+    "Add the sliced bell peppers to the pot and cook for another 5 minutes.",
+    "Add the fish sauce nam pla, beer, and diced tomatoes to the pot. Stir to combine.",
+    "Return the fish to the pot, cover, and transfer to the oven.",
+    "Bake at 375°F (190°C) for 12-15 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Season with salt and pepper to taste.",
+    "Serve the fish hot, garnished with fresh parsley and a sprinkle of chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "braise",
+    "dairy-free",
+    "fish",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "juicy-argentinian-fish-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-fish-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "juicy",
+    "dishForm": "braise"
+  }
+}
