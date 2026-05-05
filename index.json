@@ -456,6 +456,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-chewy-energizing-vietnamese-tarragon-bun-rieu",
+    "title": "Jammy Chewy Energizing Vietnamese Tarragon Bun Rieu",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "onion-free",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-crisp-australian-myeolchi-anchovies-en-croute",
     "title": "Jammy Crisp Australian Myeolchi-Anchovies En-Croute",
     "tags": [
@@ -544,6 +558,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-peruvian-potatoes-stew",
+    "title": "jammy Peruvian potatoes stew",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "peruvian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

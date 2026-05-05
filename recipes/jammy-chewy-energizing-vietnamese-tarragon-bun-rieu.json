@@ -1,0 +1,121 @@
+{
+  "title": "Jammy Chewy Energizing Vietnamese Tarragon Bun Rieu",
+  "description": "A unique, energizing twist on the classic Vietnamese noodle soup, featuring long-fermentation-dough and fresh tarragon leaves. Perfect for a snack or dessert.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tarragon leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Long-fermentation-dough",
+      "amount": "500g",
+      "notes": "Homemade or store-bought, fermented for at least 24 hours."
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2L",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 eggs",
+      "notes": "Separated from yolks."
+    },
+    {
+      "name": "Fermented tofu",
+      "amount": "200g",
+      "notes": "Optional, add for extra umami."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "2 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine vegetable broth, ginger, and garlic. Bring to a boil, then reduce heat to a simmer.",
+    "Add palm sugar, coconut oil, and egg whites to the pot. Whisk until palm sugar dissolves.",
+    "Add long-fermentation-dough to the pot and cook for 10 minutes, or until dough is fully cooked.",
+    "Add tarragon leaves, fermented tofu, scallions, and cilantro to the pot. Stir to combine.",
+    "Cook for an additional 2 minutes, or until leaves are wilted.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with pickled ginger.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat when ready to serve.",
+    "Portion into individual servings and serve immediately.",
+    "Use leftover dough to make fresh bun rieu for snacking or dessert."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "onion-free",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "jammy-chewy-energizing-vietnamese-tarragon-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-chewy-energizing-vietnamese-tarragon-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "tarragon",
+    "descriptor": "jammy chewy energizing",
+    "dishForm": "Bun Rieu"
+  }
+}
