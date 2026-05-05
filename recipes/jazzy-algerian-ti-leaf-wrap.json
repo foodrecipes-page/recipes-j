@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Algerian Ti-Leaf Wrap",
+  "description": "A comforting Algerian dish featuring a flaky ti-leaf wrap filled with a rich egg yolk mixture, perfect for a weeknight dinner. This flexitarian-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "algerian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "notes": null,
+      "},{": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together egg yolks, olive oil, garlic, ginger, cumin, paprika, and salt until smooth.",
+    "Add the warm water to the egg yolk mixture and mix until well combined.",
+    "Heat a ti-leaf wrap in a dry skillet over medium heat for 30 seconds on each side.",
+    "Place the ti-leaf wrap on a flat surface and spread the egg yolk mixture evenly over the center of the wrap.",
+    "Fold the bottom half of the ti-leaf wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients and serve hot.",
+    "Serve immediately, garnished with chopped fresh herbs if desired.",
+    "This recipe makes 4-6 wraps, depending on serving size.",
+    "You can also add other fillings such as crumbled feta cheese or chopped cooked vegetables to the egg yolk mixture for added flavor.",
+    "Be sure to handle the egg yolks gently to avoid scrambling them.",
+    "If you prefer a crisper wrap, you can cook the ti-leaf wraps in a dry skillet for an additional 1-2 minutes on each side prior to filling and rolling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "jazzy-algerian-ti-leaf-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-algerian-ti-leaf-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "egg yolks",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Jazzy comforting",
+    "dishForm": null
+  }
+}
