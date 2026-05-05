@@ -1,0 +1,88 @@
+{
+  "title": "Jazzy Sweet Saudi-Arabian Milk Bake",
+  "description": "A rich and decadent Saudi-Arabian milk bake perfect for brunch, featuring sweetened condensed milk and a crispy gluten-free crust.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can (14 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, whisk together almond flour, granulated sugar, and ground cardamom.",
+    "Add the unsalted butter and mix until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom of a 9x9-inch baking dish.",
+    "Bake for 20 minutes, or until the crust is lightly golden brown.",
+    "In a separate bowl, whisk together sweetened condensed milk and eggs.",
+    "Pour the milk mixture over the baked crust.",
+    "Return the dish to the oven and bake for an additional 25-30 minutes, or until the top is lightly golden brown and the center is set.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Slice into squares and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert",
+    "high-calorie",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 48
+  },
+  "slug": "jazzy-sweet-saudi-arabian-milk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-sweet-saudi-arabian-milk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "milk",
+    "descriptor": "jazzy sweet",
+    "dishForm": "bake"
+  }
+}
