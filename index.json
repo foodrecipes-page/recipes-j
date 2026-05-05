@@ -374,6 +374,19 @@
     "shard": "j"
   },
   {
+    "slug": "jain-friendly-kenyan-meal-prep-bake",
+    "title": "Jain-Friendly Kenyan Meal-Prep Bake",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "vegan-options",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jain-friendly-roasted-american-challots-grill",
     "title": "Jain-Friendly Roasted American Challots Grill",
     "tags": [
@@ -2290,6 +2303,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-light-roasted-canadian-aubergine-gratin",
+    "title": "Jewelled Light Roasted Canadian Aubergine Gratin",
+    "tags": [
+      "aubergine",
+      "canadian",
+      "cheese",
+      "easy-weeknight",
+      "gratin",
+      "milk",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -6589,6 +6618,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-umami-kenyan-meat-tagliere",
+    "title": "Juicy Umami Kenyan Meat Tagliere",
+    "tags": [
+      "date-night",
+      "grass-fed-beef",
+      "kenyan-italian",
+      "umami",
+      "whole30-friendly"
+    ],
+    "cuisine": "kenyan italian",
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {

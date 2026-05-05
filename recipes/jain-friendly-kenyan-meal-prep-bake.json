@@ -1,0 +1,112 @@
+{
+  "title": "Jain-Friendly Kenyan Meal-Prep Bake",
+  "description": "A flavorful, crispy, and nutritious Kenyan-inspired meal-prep dish featuring dried apricots and lamination-puff, suitable for Jain dietary preferences.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "yellow potatoes",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Mix the grated carrots, diced potatoes, ground turmeric, ground garam masala, salt, and black pepper in a bowl.",
+    "Add the chopped onion, chopped green chilies, and thawed lamination puff to the bowl and mix well.",
+    "Arrange the dried apricots on the prepared baking sheet.",
+    "Drizzle the coconut oil over the apricots and spread the carrot-potato mixture evenly over the top.",
+    "Bake for 30 minutes or until the top is crispy and golden brown.",
+    "Remove from the oven and let cool completely before portioning into individual servings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jain-friendly-kenyan-meal-prep-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jain-friendly-kenyan-meal-prep-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "lamination-puff",
+    "primaryIngredient": "dried apricots",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "meal-prep",
+    "descriptor": "jain-friendly",
+    "dishForm": "bake"
+  }
+}

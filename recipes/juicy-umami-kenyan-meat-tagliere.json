@@ -1,0 +1,67 @@
+{
+  "title": "Juicy Umami Kenyan Meat Tagliere",
+  "description": "A date-night dish featuring the bold flavors of Italy and Kenya, served on a rustic tagliere.",
+  "cuisine": "kenyan italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "8 oz",
+      "notes": "Cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef strips with Italian seasoning, salt, and black pepper.",
+    "Sear the beef strips in coconut oil until browned on both sides, about 5 minutes per side.",
+    "Transfer the beef to a baking sheet and roast for 8 minutes.",
+    "Meanwhile, roast the beef bones in the oven for 5 minutes to enhance the broth.",
+    "In a large Dutch oven, cook the chopped onion, ginger, and lemongrass in a little coconut oil until softened, about 5 minutes.",
+    "Add the cooked beef strips and bones to the pot, along with the beef broth and red wine vinegar.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the ghee and maple syrup to the pot, stirring to combine.",
+    "Simmer the mixture for an additional 5 minutes, then season with salt to taste.",
+    "Garnish with fresh parsley and thyme, and serve on a rustic tagliere.",
+    "Deglaze the pan with a little red wine vinegar and ghee, then serve immediately.",
+    "Serve at once, garnished with additional parsley and thyme if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "grass-fed-beef",
+    "kenyan-italian",
+    "umami",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 654,
+    "protein": 51,
+    "carbs": 5,
+    "fat": 43
+  },
+  "slug": "juicy-umami-kenyan-meat-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-umami-kenyan-meat-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "italian seasoning",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "juicy umami",
+    "dishForm": "tagliere"
+  }
+}
