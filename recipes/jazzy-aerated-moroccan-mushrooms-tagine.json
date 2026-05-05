@@ -1,0 +1,123 @@
+{
+  "title": "Jazzy Aerated Moroccan Mushrooms Tagine",
+  "description": "A rich and aromatic Moroccan dish featuring wild mushrooms and a touch of char-grilled spices. Perfect for adventurous palates and cozy evenings.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grilled chicken stock",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium-low heat.",
+    "Add the onion and cook, stirring occasionally, until it's softened and lightly browned, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the wild mushrooms, cumin, coriander, paprika, kosher salt, and black pepper. Cook, stirring occasionally, until the mushrooms release their liquid and start to brown, about 5 minutes.",
+    "Add the lemon juice and cook, stirring to combine, for 1 minute.",
+    "Add the grilled chicken stock and bring the mixture to a simmer.",
+    "Transfer the tagine to the oven and braise the mixture, covered, for 20 minutes, or until the mushrooms are tender and the liquid has thickened slightly.",
+    "Stir in the chopped parsley and serve the tagine hot, garnished with additional parsley if desired.",
+    "Serve with crusty bread or over couscous for a filling meal.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together.",
+    "If desired, add some grilled chicken or lamb to the tagine for added protein and flavor.",
+    "Adjust the seasoning as needed before serving the tagine.",
+    "Garnish with additional parsley and serve hot, making sure to get a little bit of the crispy crust on each bite.",
+    "Garnish the tagine with some toasted almonds or pine nuts for added crunch and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "easy-gourmet",
+    "kosher-friendly",
+    "moroccan",
+    "one-pan",
+    "weeknight",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "jazzy-aerated-moroccan-mushrooms-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-aerated-moroccan-mushrooms-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "mushrooms",
+    "descriptor": "jazzy aerated",
+    "dishForm": "Tagine"
+  }
+}
