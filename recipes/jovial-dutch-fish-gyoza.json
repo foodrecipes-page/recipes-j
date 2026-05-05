@@ -1,0 +1,99 @@
+{
+  "title": "Jovial Dutch Fish Gyoza",
+  "description": "A Dutch take on the traditional Asian gyoza, featuring a crispy fish filling and a tangy pico de gallo sauce. This dish is a delightful twist on a classic recipe.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (cod or haddock)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "100g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine fish, cabbage, onion, garlic, and egg in a bowl and mix well.",
+    "Add panko breadcrumbs, soy sauce, sesame oil, and Dutch mustard to the bowl and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Divide the mixture into 12 equal portions and shape each portion into a small ball.",
+    "Roll out each ball into a thin circle, about 3 inches in diameter.",
+    "Place a small spoonful of the fish mixture in the center of each circle and fold the dough over to form a half-moon shape, pressing the edges together to seal the gyoza."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "fish",
+    "gyoza",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "jovial-dutch-fish-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-dutch-fish-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Jovial",
+    "dishForm": "Gyoza"
+  }
+}

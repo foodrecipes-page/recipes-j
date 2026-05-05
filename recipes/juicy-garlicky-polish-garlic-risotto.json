@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Polish Garlic Risotto",
+  "description": "A hearty, garlicky Polish dish featuring seasoned rice vinegar, pasta-water emulsion, and ayurvedic-tamasic-friendly ingredients. Perfect for adventurous eaters seeking a vessel-friendly meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked Arborio rice",
+      "amount": "250g",
+      "notes": "Medium-grain rice suitable for risotto."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Use high-quality, fresh garlic for the best flavor."
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1 cup",
+      "notes": "Reserved from cooking pasta, used for emulsion."
+    },
+    {
+      "name": "Seasoned rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade vinegar seasoned with spices and herbs."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Unrefined, pure salt for added flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil for added richness."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ramekin over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add Arborio rice and cook, stirring constantly, for 1 minute.",
+    "Add seasoned rice vinegar and pasta water, stirring constantly, until liquid is absorbed.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "russian-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "juicy-garlicky-polish-garlic-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-garlicky-polish-garlic-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:54Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "garlic",
+    "descriptor": "juicy, garlicky",
+    "dishForm": "Risotto"
+  }
+}

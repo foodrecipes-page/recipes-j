@@ -2218,6 +2218,20 @@
     "shard": "j"
   },
   {
+    "slug": "jiggly-polish-bun-pierogi",
+    "title": "Jiggly Polish Bun Pierogi",
+    "tags": [
+      "breakfast-for-dinner",
+      "kosher",
+      "pierogi",
+      "polish",
+      "solo-dinner"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
     "title": "Jointed Crunchy Mexican Nectarines Iron-Teppan Salad",
     "tags": [
@@ -2345,6 +2359,21 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-dutch-fish-gyoza",
+    "title": "Jovial Dutch Fish Gyoza",
+    "tags": [
+      "dutch",
+      "fish",
+      "gyoza",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -4466,6 +4495,21 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-garlicky-polish-garlic-risotto",
+    "title": "Juicy Polish Garlic Risotto",
+    "tags": [
+      "adventurous",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "russian-inspired",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

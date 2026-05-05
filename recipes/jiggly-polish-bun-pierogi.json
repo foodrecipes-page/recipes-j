@@ -1,0 +1,118 @@
+{
+  "title": "Jiggly Polish Bun Pierogi",
+  "description": "A savory, molten Polish dish featuring crispy bun and tandoor-seared pierogi, served as a solo dinner option, and is kosher-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "instructions": [
+    "Heat the tandoor oven to 450°F.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles using a cookie cutter or a glass.",
+    "Place a tablespoon of filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the pierogi.",
+    "Fry the pierogi in hot oil until golden brown.",
+    "Drain on paper towels, then serve hot with melted butter and chopped chives.",
+    "Split the bun in half horizontally and toast until lightly browned.",
+    "Assemble the pierogi by placing them on top of the bun, then spooning melted butter over the top.",
+    "Serve immediately, garnished with chopped chives if desired.",
+    "Prepare the filling by mixing together cottage cheese, egg, salt, and pepper.",
+    "Add chopped chives and grated cheese to the filling for extra flavor.",
+    "Adjust the seasoning as needed to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-for-dinner",
+    "kosher",
+    "pierogi",
+    "polish",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 28
+  },
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "To make the dough, use a mix of all-purpose flour and a small amount of potato starch for a crispy texture."
+    },
+    {
+      "name": "Potato starch",
+      "amount": "2 tablespoons",
+      "notes": "Helps to create a crispy exterior on the pierogi."
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "Blends smoothly with egg for a creamy filling."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beats well to create a smooth filling."
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1 tablespoon",
+      "notes": "Adds a fresh and oniony flavor to the filling."
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1/2 cup",
+      "notes": "Adds a tangy and creamy element to the filling."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Enhances the overall flavor of the filling."
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adds a touch of warmth to the filling."
+    },
+    {
+      "name": "Tandoor oil",
+      "amount": "1 cup",
+      "notes": "Fries the pierogi until crispy and golden."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melts over the top of the pierogi for a rich and creamy topping."
+    },
+    {
+      "name": "Bun",
+      "amount": "1",
+      "notes": "Crispy and soft bun, split horizontally for serving."
+    }
+  ],
+  "slug": "jiggly-polish-bun-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jiggly-polish-bun-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "bun",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bun",
+    "descriptor": "jiggly",
+    "dishForm": "Pierogi"
+  }
+}
