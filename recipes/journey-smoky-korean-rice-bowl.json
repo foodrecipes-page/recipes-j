@@ -1,0 +1,115 @@
+{
+  "title": "Journey-smoky Korean rice bowl",
+  "description": "Funky, cheese-pull, monsoon polish dish featuring digestive biscuits, smoke-cold, flexitarian-friendly, vessel=dolsot-stone-bowl",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Gouda",
+      "amount": "3 oz",
+      "notes": ""
+    },
+    {
+      "name": "Digestive biscuits",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "for spice"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sliced toasted sesame seeds",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Dolsot stone bowl",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brush the dolsot stone bowl with sesame oil and place on a baking sheet.",
+    "In a small saucepan, combine miso paste, gochujang, rice vinegar, and 1 tsp of water to make a dressing.",
+    "Add the crushed digestive biscuits to the saucepan and stir to combine.",
+    "Add the brown rice to the saucepan and stir to combine.",
+    "Transfer the saucepan mixture to the dolsot stone bowl and smooth the top.",
+    "Sprinkle the smoked Gouda over the top of the rice mixture.",
+    "Place the dolsot stone bowl in the oven and cook for 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dolsot stone bowl from the oven and sprinkle with Korean chili flakes.",
+    "Garnish with sliced green onions and toasted sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "flexitarian",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "journey-smoky-korean-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/journey-smoky-korean-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Journey-smoky",
+    "dishForm": "Bowl"
+  }
+}

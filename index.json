@@ -1005,6 +1005,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-char-grilled-pork-hash",
+    "title": "Jazzy Char-Grilled Pork Hash",
+    "tags": [
+      "char-grilled",
+      "german",
+      "low-carb",
+      "one-pan",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-cheesy-algerian-lentils-tagine",
     "title": "Jazzy Cheesy Algerian Lentils Tagine",
     "tags": [
@@ -2404,6 +2419,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "journey-smoky-korean-rice-bowl",
+    "title": "Journey-smoky Korean rice bowl",
+    "tags": [
+      "cheese-pull",
+      "flexitarian",
+      "korean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {

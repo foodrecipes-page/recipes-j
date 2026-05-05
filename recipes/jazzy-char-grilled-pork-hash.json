@@ -1,0 +1,102 @@
+{
+  "title": "Jazzy Char-Grilled Pork Hash",
+  "description": "Savory, one-pot dish featuring char-grilled pork, rhubarb, and a hint of German flair, all cooked to crispy perfection in a scallop-shell vessel.",
+  "cuisine": "german",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Forced rhubarb",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with paprika, salt, and pepper, and sear it in a hot skillet over medium-high heat until browned on all sides.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the forced rhubarb to the skillet and stir to combine with the onion and garlic.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the pork is cooked through and the rhubarb is tender.",
+    "While the pork is cooking, heat the scallop shells in the oven until hot and fragrant.",
+    "To serve, place a portion of the pork and rhubarb mixture in each scallop shell, drizzle with olive oil, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "german",
+    "low-carb",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "jazzy-char-grilled-pork-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-char-grilled-pork-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:55Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "forced-rhubarb",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pork",
+    "descriptor": "Jazzy Char-Grilled",
+    "dishForm": "Hash"
+  }
+}
