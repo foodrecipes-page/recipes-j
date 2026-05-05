@@ -1,0 +1,107 @@
+{
+  "title": "Jumbo Chewy Dutch Knead Pudding",
+  "description": "Pungent and chewy Dutch dish featuring raisins and kneaded dough, suitable for a date night.",
+  "cuisine": "Dutch",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raisins",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "6g",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine raisins, flour, sugar-free sweetener, and yeast in a large bowl, then add warm water to form a dough.",
+    "Knead the dough with a wooden spoon or stand mixer for about 10 minutes, until smooth.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Roll the dough out into a thick circle and transfer it to a greased baking sheet.",
+    "Dust the dough with cinnamon and dot with butter.",
+    "Bake for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Let the pudding cool for 10 minutes before slicing and serving.",
+    "Serve warm, topped with additional cinnamon and sugar-free sweetener if desired.",
+    "Enjoy your delicious Jumbo Chewy Dutch Knead Pudding!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "dessert",
+    "high-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 24,
+    "carbs": 360,
+    "fat": 60
+  },
+  "slug": "jumbo-chewy-dutch-knead-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-chewy-dutch-knead-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:59Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "raisins",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Knead",
+    "descriptor": "Jumbo Chewy",
+    "dishForm": "Pudding"
+  }
+}

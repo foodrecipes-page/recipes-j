@@ -1693,6 +1693,23 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-turkish-fettuccine-kazandibi",
+    "title": "Kazandibi Fettuccine",
+    "tags": [
+      "creamy",
+      "dessert",
+      "fettuccine",
+      "kazandibi",
+      "keto",
+      "low-carb",
+      "rose-water",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jengorging-australian-dum-hot-pot-vessel",
     "title": "Gourmet Grassy Cinnamon Hot Pot-Vessel",
     "tags": [
@@ -6066,6 +6083,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jumbo-chewy-dutch-knead-pudding",
+    "title": "Jumbo Chewy Dutch Knead Pudding",
+    "tags": [
+      "date-night",
+      "dessert",
+      "high-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {

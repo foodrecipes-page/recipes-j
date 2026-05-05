@@ -1,0 +1,61 @@
+{
+  "title": "Kazandibi Fettuccine",
+  "description": "A deliciously simple Turkish dessert featuring delicate fettuccine, creamy milk, and a hint of rose water, reminiscent of traditional Kazandibi. Enjoy warm or chilled, as your heart desires.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz (340g)"
+    }
+  ],
+  "instructions": [
+    "Combine milk, cream, and vanilla extract in a medium saucepan. Bring to a boil over medium heat, then reduce to low heat and simmer for 5 minutes.",
+    "Stir in rose water and sugar. Continue to simmer for another 2 minutes, or until the mixture thickens slightly.",
+    "Add the cooked fettuccine to the saucepan and toss to coat with the creamy mixture.",
+    "Transfer the fettuccine mixture to a serving dish and let cool to room temperature.",
+    "Refrigerate for at least 2 hours or overnight to allow the flavors to meld together.",
+    "Just before serving, garnish with chopped pistachios and a drizzle of honey, if desired.",
+    "Serve chilled or warm, topped with a dollop of whipped cream or a sprinkle of cinnamon, if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "dessert",
+    "fettuccine",
+    "kazandibi",
+    "keto",
+    "low-carb",
+    "rose-water",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "jelly-like-turkish-fettuccine-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-turkish-fettuccine-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "brine-wet",
+    "primaryIngredient": "fettuccine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Jelly-like",
+    "dishForm": "Kazandibi"
+  }
+}
