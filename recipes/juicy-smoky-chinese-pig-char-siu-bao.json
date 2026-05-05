@@ -1,0 +1,78 @@
+{
+  "title": "Juicy-Smoky Chinese Pig CharSiu Bao",
+  "description": "A buttery, juicy showcase of soy sauce and binchotan charcoal cooking in a char-bao form, suitable for those who prefer to avoid onions and garlic.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": 1
+    },
+    {
+      "name": "binchotan charcoal briquettes",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oregano (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Season the pork shoulder with salt, sugar, and five spice powder.",
+    "Wrap the seasoned pork in plastic wrap to prevent sticking and cook on a charcoal grill until internal temperature reaches 145°F.",
+    "Mix soy sauce, oregano (if using), and a pinch of salt together for glaze. Glaze the cooked pork shoulder with this mixture before serving.",
+    "Divide the cooked pork into small portions, wrap in sheets of dough, and steam or bake until golden brown and cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "char-bao",
+    "juicy",
+    "no-onion-no-garlic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "juicy-smoky-chinese-pig-char-siu-bao",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-chinese-pig-char-siu-bao",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:49:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "soy sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pig",
+    "descriptor": "Juicy-Smoky",
+    "dishForm": "CharSiuBao"
+  }
+}

@@ -5253,6 +5253,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-smoky-chinese-pig-char-siu-bao",
+    "title": "Juicy-Smoky Chinese Pig CharSiu Bao",
+    "tags": [
+      "char-bao",
+      "juicy",
+      "no-onion-no-garlic",
+      "smoky"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 150,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-smoky-dutch-lamb-stew",
     "title": "Juicy Smoky Dutch Lamb Stew",
     "tags": [
