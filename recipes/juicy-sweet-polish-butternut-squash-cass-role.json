@@ -1,0 +1,97 @@
+{
+  "title": "juicy sweet polish butternut squash cass-role",
+  "description": "a winey, juicy, kid-friendly polish dish featuring butternut squash, nuka-pickle, and ayurvedic-tamasic-friendly ingredients",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "brown rice flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00023ing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u00110f",
+    "saute the onion and garlic in olive oil until softened",
+    "add the cubed butternut squash and cook until tender",
+    "stir in the chopped nuka-pickle, brown rice flour, and apple cider vinegar",
+    "transfer the mixture to a baking dish and top with a drizzle of maple syrup",
+    "bake for 20 minutes or until the cass-role is golden brown",
+    "serve hot and garnish with chopped fresh herbs"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "polish-cuisine",
+    "vegetarian-main-course"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-sweet-polish-butternut-squash-cass-role",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-polish-butternut-squash-cass-role",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "butternut squash",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "butternut squash",
+    "descriptor": "juicy sweet",
+    "dishForm": "cass-role"
+  }
+}
