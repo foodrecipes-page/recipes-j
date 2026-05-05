@@ -1,0 +1,124 @@
+{
+  "title": "Jewel-like Peruvian Rocoto Relleno",
+  "description": "A comforting Peruvian dish featuring raisins and nimono-simmer, all wrapped up in a crispy rocoto pepper shell.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Medium rocoto peppers",
+      "amount": "4",
+      "notes": "Any type of sweet pepper can be used as substitute."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying."
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "For flavor and crunch."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Nimono broth",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade."
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/2 cup",
+      "notes": "Soaked in warm water for 10 minutes."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko."
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Queso fresco or Monterey Jack."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For basting."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Soak the raisins in warm water for 10 minutes, then drain and set aside.",
+    "Cut off the tops of the rocoto peppers and remove the seeds and membranes.",
+    "Fill each pepper with a mixture of butter, breadcrumbs, cheese, cilantro, salt, and black pepper.",
+    "Place the stuffed peppers in the skillet and baste with water.",
+    "Transfer the skillet to the oven and bake at 375°F for 20-25 minutes, or until the peppers are tender and the filling is golden brown.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "lacto-vegetarian",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jewel-like-peruvian-rocoto-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-like-peruvian-rocoto-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "raisins",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Rocoto",
+    "descriptor": "Jewel-like",
+    "dishForm": "Relleno"
+  }
+}

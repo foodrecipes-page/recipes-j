@@ -1,0 +1,106 @@
+{
+  "title": "Jucy Uruguayan Butter Stew",
+  "description": "A rich and creamy stew originating from Uruguay, featuring a balance of flavors from dill and butter, perfect for a cold evening meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 sticks",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 moderate",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium heat.",
+    "Add the olive oil and sauté the onion, garlic, potatoes, carrots, and celery until the vegetables are tender.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the potatoes are cooked through.",
+    "Stir in the dill and cook for an additional 5 minutes.",
+    "Gradually add the milk, stirring constantly to prevent the mixture from breaking.",
+    "Increase the heat to medium and cook, stirring frequently, until the stew has thickened and the sauce has reduced slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "low-carb",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "jucy-uruguayan-butter-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-uruguayan-butter-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "dill",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "butter",
+    "descriptor": "jucy",
+    "dishForm": "Stew"
+  }
+}

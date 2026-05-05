@@ -1531,6 +1531,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina",
+    "title": "Jazzy Snappy Peruvian Potato Papas a la Huancaina",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "potatoes",
+      "south-american",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-sour-saudi-broccoli-wrap",
     "title": "Jazzy Sour Saudi Broccoli Wrap",
     "tags": [
@@ -1922,6 +1937,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-like-peruvian-rocoto-relleno",
+    "title": "Jewel-like Peruvian Rocoto Relleno",
+    "tags": [
+      "comfort-food",
+      "high-fiber",
+      "lacto-vegetarian",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -3172,6 +3202,20 @@
     "shard": "j"
   },
   {
+    "slug": "jucy-uruguayan-butter-stew",
+    "title": "Jucy Uruguayan Butter Stew",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "low-carb",
+      "one-pot",
+      "winter"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-acai-smoothie",
     "title": "Juicy Açaí Smoothie",
     "tags": [
@@ -3222,6 +3266,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-algerian-crustaceans-tagine",
+    "title": "juicy Algerian crustaceans Tagine",
+    "tags": [
+      "algerian",
+      "easy-to-make",
+      "low-calorie",
+      "mediterranean",
+      "one-pan",
+      "seafood",
+      "tagine"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

@@ -1,0 +1,128 @@
+{
+  "title": "juicy Algerian crustaceans Tagine",
+  "description": "a refreshing, flavorful meal from Algeria featuring crustaceans in a fragrant, herby sauce",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large, head-on shrimp (or prawns)"
+    },
+    {
+      "name": "clams",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mussels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large Dutch oven over medium heat",
+    "add the garlic and cook for 1 minute, stirring occasionally",
+    "add the fish sauce and cook for 1 minute, stirring occasionally",
+    "add the chopped herbs and cook for 1 minute, stirring occasionally",
+    "add the shrimp, clams, and mussels, and stir to combine",
+    "add the lemon juice and water, and bring to a boil",
+    "reduce the heat to low and simmer, covered, for 8 minutes",
+    "season with salt and black pepper to taste",
+    "serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "easy-to-make",
+    "low-calorie",
+    "mediterranean",
+    "one-pan",
+    "seafood",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 32,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "juicy-algerian-crustaceans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-algerian-crustaceans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "crustaceans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "juicy",
+    "dishForm": "Tagine"
+  }
+}
