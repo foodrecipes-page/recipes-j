@@ -1,0 +1,57 @@
+{
+  "title": "Juicy Energizing Thai Noodles",
+  "description": "A refreshing and flavorful Thai dish featuring boat noodles, perfect for a quick and energizing meal. This dish is full of aromatic flavors and textures.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large pan over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "high-protein",
+    "stir-fry",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "juicy-energizing-thai-noodles-boat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-energizing-thai-noodles-boat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "seasoning",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "juicy energizing",
+    "dishForm": "boat noodles"
+  }
+}

@@ -545,6 +545,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-croatian-grape-leaves-dolma",
+    "title": "Jammy Croatian Grape Leaves Dolma",
+    "tags": [
+      "croatian",
+      "egg-free",
+      "grape-leaves",
+      "low-carb",
+      "vegetarian"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-dense-filipino-yuzu-chicken-pancit-bihon",
     "title": "Jammy Dense Filipino Yuzu Chicken Pancit Bihon",
     "tags": [
@@ -570,6 +584,20 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-dutch-cake-bake",
+    "title": "Jammy Dutch Cake Bake",
+    "tags": [
+      "diabetic-friendly",
+      "high-fat",
+      "low-carb",
+      "rich-desserts",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -4264,6 +4292,19 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-energizing-thai-noodles-boat-noodles",
+    "title": "Juicy Energizing Thai Noodles",
+    "tags": [
+      "boat-noodles",
+      "high-protein",
+      "stir-fry",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

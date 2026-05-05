@@ -1,0 +1,110 @@
+{
+  "title": "Jammy Dutch Cake Bake",
+  "description": "A cozy, dense Dutch dessert featuring cocoa powder, perfect for a diabetes-friendly treat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "granulated sweetener (such as Swerve or Erythritol)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "jam (such as strawberry or raspberry)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit (175 degrees Celsius).",
+    "Grease a 9-inch (23-centimeter) round cake pan and set aside.",
+    "In a large mixing bowl, whisk together almond flour, cocoa powder, salt, and baking powder.",
+    "In a separate bowl, cream together butter and granulated sweetener until light and fluffy.",
+    "Beat in eggs one at a time, followed by vanilla extract.",
+    "Gradually add dry ingredients to wet ingredients, mixing until a smooth batter forms.",
+    "Fold in Greek yogurt until well combined.",
+    "Pour batter into prepared cake pan and smooth top.",
+    "Dot the top of the cake with jam.",
+    "Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "diabetic-friendly",
+    "high-fat",
+    "low-carb",
+    "rich-desserts",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "jammy-dutch-cake-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-dutch-cake-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "cocoa powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Cake",
+    "descriptor": "Jammy",
+    "dishForm": "Bake"
+  }
+}
