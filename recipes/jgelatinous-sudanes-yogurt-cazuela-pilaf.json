@@ -1,0 +1,87 @@
+{
+  "title": "JGelatinous Sudanes Yogurt Cazuela Pilaf",
+  "description": "A light and savory saudi-arabian dish featuring a glassy-jelly base made from instant yeast and mirepoix, served in cazuela as a yogurt coddle.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Instant Yeast",
+      "amount": 1
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "Celery Stalk",
+      "amount": "1"
+    },
+    {
+      "name": "Pepper Corns (whole)",
+      "amount": "6"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Heat a cazuela over medium heat.",
+    "Add chopped onion, garlic, carrot, and celery to the cazuela.",
+    "Stir in pepper corns and saffron threads with yogurt.",
+    "Let it simmer until thickened. Stir occasionally.",
+    "Fold in instant yeast until dissolved.",
+    "Simmer for another 10 minutes.",
+    "Season with salt if needed.",
+    "Serve hot as a dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "instant-yeast",
+    "kosher-friendly",
+    "sausage-pilaf",
+    "yogurt-coddle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "jgelatinous-sudanes-yogurt-cazuela-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jgelatinous-sudanes-yogurt-cazuela-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:01:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "instant yeast",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Sudanese",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Gelatinous",
+    "dishForm": "Pilaf"
+  }
+}
