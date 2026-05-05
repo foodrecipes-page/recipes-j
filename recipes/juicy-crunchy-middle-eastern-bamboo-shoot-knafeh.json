@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Crunchy Middle Eastern Bamboo Shoot Knafeh",
+  "description": "A sour, crunchy twist on traditional Middle Eastern knafeh, featuring blanched bamboo shoots as a main ingredient. This flexitarian-friendly dish is perfect for a crowd-pleasing lunch or dinner.",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Nabulsi cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded phyllo ",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u00048F (190\rC).",
+    "Blanch the bamboo shoots in boiling water for 3-4 minutes, then drain and set aside.",
+    "In a mixing bowl, combine the Nabulsi cheese, sugar, and rose water, and mix until well combined.",
+    "Spread a layer of shredded phyllo in the bottom of a 9x13 inch baking dish, followed by a layer of the cheese mixture, and then a layer of blanched bamboo shoots."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "flexitarian",
+    "knafeh",
+    "lunch",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "juicy-crunchy-middle-eastern-bamboo-shoot-knafeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-middle-eastern-bamboo-shoot-knafeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Bamboo Shoot",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Knafeh"
+  }
+}
