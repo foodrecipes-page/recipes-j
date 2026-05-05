@@ -1,0 +1,104 @@
+{
+  "title": "Jammy Dense Ukrainian Toffee Popcorn Stir-Fry",
+  "description": "A decadent and rich Ukrainian-inspired stir-fry featuring toffee popcorn, perfect for a special occasion or indulgent dessert.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "toffee popcorn",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed hazelnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add unsalted butter and let melt, then add toffee popcorn and stir until well coated.",
+    "In a small bowl, whisk together cocoa powder, brown sugar, and kosher salt. Add to the skillet and stir to combine.",
+    "Add crushed hazelnuts and pomegranate seeds, and stir until well mixed.",
+    "Pour in heavy cream and vanilla extract, and stir until a jammy sauce forms.",
+    "Cook for an additional 2 minutes, stirring constantly, until the sauce thickens slightly.",
+    "Transfer the mixture to a serving dish and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "indulgent",
+    "stir-fry",
+    "toffee-popcorn",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 4,
+    "carbs": 80,
+    "fat": 34
+  },
+  "slug": "jammy-dense-ukrainian-toffee-popcorn-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-dense-ukrainian-toffee-popcorn-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "jammy dense",
+    "dishForm": "Stir-fry"
+  }
+}

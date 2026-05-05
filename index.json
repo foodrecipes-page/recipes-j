@@ -497,6 +497,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-dense-ukrainian-toffee-popcorn-stir-fry",
+    "title": "Jammy Dense Ukrainian Toffee Popcorn Stir-Fry",
+    "tags": [
+      "dessert",
+      "indulgent",
+      "stir-fry",
+      "toffee-popcorn",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-fluffy-turkish-lentil-stew",
     "title": "Jammy Fluffy Turkish Lentil Stew",
     "tags": [
