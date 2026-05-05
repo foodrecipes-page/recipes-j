@@ -1,0 +1,141 @@
+{
+  "title": "Polish Rye Bread Flatbread",
+  "description": "A light and fluffy Polish rye bread flatbread perfect for breakfast or lunch. This recipe features a sour dough flavor and is egg-free friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Wheat flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Sourdough starter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Grated onion",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rye flour, wheat flour, salt, sugar, sourdough starter, yeast in a mixing bowl.",
+    "Gradually add water while mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Place the dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 180°C.",
+    "Punch down the dough and divide into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Deep-fry the flatbreads for 2-3 minutes on each side, until golden brown.",
+    "Drain the flatbreads on paper towels.",
+    "Brush the flatbreads with olive oil, sprinkle with chopped fresh dill, black pepper, caraway seeds, sesame seeds, grated onion, garlic, and fennel seeds.",
+    "Serve the Polish Rye Bread Flatbread hot or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "breakfast",
+    "egg-free",
+    "flatbread",
+    "lunch",
+    "one-pan",
+    "polish",
+    "rye",
+    "sour",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 48,
+    "carbs": 40,
+    "fat": 100
+  },
+  "slug": "jucy-polish-rye-bread-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-polish-rye-bread-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "rye bread",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "rye bread",
+    "descriptor": "jucy",
+    "dishForm": "Flatbread"
+  }
+}
