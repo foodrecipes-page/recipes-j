@@ -1,0 +1,96 @@
+{
+  "title": "julius aerated american ground sugar bake",
+  "description": "umami, aerated, one-pot american dish featuring ground sugar and ferment-kimchi, low-sodium-friendly, a unique twist on traditional american fare",
+  "cuisine": "american",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "copper mug",
+      "amount": "1",
+      "notes": "used as a vessel"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "in a copper mug, whisk together ground sugar, ferment-kimchi, eggs, buttermilk, unsalted butter, salt-free seasoning blend, and baking powder until smooth.",
+    "place the mug in the oven and bake for 25 minutes.",
+    "after 25 minutes, carefully remove the mug from the oven and let it cool for 5 minutes.",
+    "run a knife around the edges of the mug to loosen the bake, then invert onto a plate.",
+    "serve warm, garnished with additional ferment-kimchi if desired.",
+    "let the bake cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "breakfast",
+    "ferment-kimchi",
+    "one-pot",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "julius-aerated-american-ground-sugar-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/julius-aerated-american-ground-sugar-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "ground sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "ground sugar",
+    "descriptor": "julius aerated",
+    "dishForm": "bake"
+  }
+}
