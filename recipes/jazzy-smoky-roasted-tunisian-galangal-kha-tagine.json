@@ -1,0 +1,64 @@
+{
+  "title": "Jazzy Smoky Roasted Tunisian Galangal-Kha Tagine",
+  "description": "Savory Smoky Tunisian dish fit for any occasion, made with galangal-kha and satvik-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galangal-Kha",
+      "amount": "2 medium-sized pieces",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tandoor over medium heat.",
+    "Add sliced galangal-kha and cook until slightly caramelized, about 5 minutes.",
+    "Add diced chicken, garlic, ginger, cumin, paprika and cook until chicken is browned on all sides.",
+    "Add sliced onion and cook until it starts to soften.",
+    "Add salt and black pepper to taste, stir well.",
+    "Add lemon juice and stir well.",
+    "Cover the tandoor and cook on low heat for 15 minutes, or until the chicken is cooked through.",
+    "Garnish with dried cilantro and serve hot.",
+    "Let stand for a few minutes to allow the juices to redistribute, then serve hot, garnished with additional cilantro if desired.",
+    "Tagine can be served with rice or naan bread, or enjoyed on its own for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galangal-kha",
+    "high-protein",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jazzy-smoky-roasted-tunisian-galangal-kha-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-roasted-tunisian-galangal-kha-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "galangal-kha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "galangal-kha",
+    "descriptor": "Jazzy Smoky Roasted",
+    "dishForm": "Tagine"
+  }
+}
