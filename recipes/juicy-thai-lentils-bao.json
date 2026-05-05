@@ -1,0 +1,118 @@
+{
+  "title": "Juicy Thai Lentils Bao",
+  "description": "A light, post-workout Thai dish featuring brown lentils, perfect for fitness enthusiasts. This recipe is anti-inflammatory-friendly and easy to make.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish-Free Sauce (or Tamari)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bao Buns",
+      "amount": "4-6",
+      "notes": "Soft and fluffy"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger, cook for another minute, until fragrant.",
+    "Add the brown lentils, tomato paste, fish-free sauce, and Thai red curry paste, stir until the lentils are well coated with the spice mixture.",
+    "Add the water and bring the mixture to a boil. Reduce the heat to low, cover, and simmer for 20 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, warm the bao buns by steaming them in a steamer basket for 5 minutes.",
+    "Once the lentils are cooked, fluff them with a fork and season with salt to taste.",
+    "Assemble the bao by spooning the lentils into the warmed buns, and garnishing with chopped fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Repeat the process with the remaining lentil mixture and buns.",
+    "Store any leftover bao in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "gluten-free",
+    "lentils",
+    "one-pan",
+    "post-workout",
+    "thaifood",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "slug": "juicy-thai-lentils-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-thai-lentils-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "brown lentils",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lentils",
+    "descriptor": "juicy",
+    "dishForm": "Bao"
+  }
+}
