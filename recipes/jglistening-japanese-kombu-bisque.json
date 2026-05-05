@@ -1,0 +1,67 @@
+{
+  "title": "JGlistening Japanese Kombu Bisque",
+  "description": "A cultured and glassy-jelly-like dish featuring kombu without onions or garlic, perfect for adventurous Syrian cuisine.",
+  "cuisine": "Japanese (inspired by Syrian)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g dried Japanese Kombu",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 liter water",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp soy sauce (or tamari for gluten-free option)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup bonito flakes (optional, for flavoring)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the kombu pieces thoroughly under cold running water.",
+    "Place the rinsed kombu in a pot of boiling water and poach until softened, about 20 minutes. Stir occasionally to prevent sticking.",
+    "Strain the kombu out of the broth, leaving only the flavorful water behind.",
+    "In another pot, bring the remaining broth to a simmer and add soy sauce (and bonito flakes if using).",
+    "Reduce the liquid by half to concentrate the flavor, about 10 minutes. Do not let it boil dry.",
+    "Serve immediately over steamed rice or noodles as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic-free",
+    "gluten-free",
+    "onion-free"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 0
+  },
+  "slug": "jglistening-japanese-kombu-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jglistening-japanese-kombu-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:58:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "kombu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Kombu",
+    "descriptor": "Glistening",
+    "dishForm": "Bisque"
+  }
+}
