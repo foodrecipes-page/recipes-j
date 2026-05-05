@@ -1,0 +1,113 @@
+{
+  "title": "Jewelled, Crisp Romantic Polish Dish Tagine",
+  "description": "A flavorful and crispy Polish-inspired tagine dish made with a variety of vegetables and a crunchy topping.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay tagine or large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chopped carrots, sliced zucchini, and sliced red bell pepper. Cook for 10-12 minutes, or until the vegetables are tender.",
+    "Stir in the ground cumin and paprika. Cook for 1 minute, until fragrant.",
+    "Add the salt and black pepper to taste. Stir to combine.",
+    "Cover the tagine and transfer it to the oven. Bake at 400°F (200°C) for 20-25 minutes, or until the vegetables are cooked through and the liquid has reduced.",
+    "Remove the tagine from the oven and top with chopped pine nuts. ",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "one-pan",
+    "polish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jewelled-crisp-romantic-polish-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-crisp-romantic-polish-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "olive oil",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "romantic",
+    "mainIngredient": "polish dish",
+    "descriptor": "jewelled, crisp",
+    "dishForm": "tagine"
+  }
+}

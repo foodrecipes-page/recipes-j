@@ -2072,6 +2072,20 @@
     "shard": "j"
   },
   {
+    "slug": "jewelled-crisp-romantic-polish-dish-tagine",
+    "title": "Jewelled, Crisp Romantic Polish Dish Tagine",
+    "tags": [
+      "dairy-free",
+      "one-pan",
+      "polish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jewelled-roast-mediterranean-bellflower-root-doraji-roast",
     "title": "Jewelled Roast Mediterranean Bellflower-Root-Doraji Roast",
     "tags": [
@@ -3460,6 +3474,19 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-british-sausage-sausage-in-hole",
+    "title": "Juicy British Sausage Sausage In Hole",
+    "tags": [
+      "british",
+      "comfort-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 65,
     "shard": "j"
   },
   {
@@ -5226,6 +5253,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-quick-french-alsatian-bread-croissant",
+    "title": "Juicy Quick French (Alsatian) Bread Croissant",
+    "tags": [
+      "breakfast",
+      "easy",
+      "kid-friendly",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

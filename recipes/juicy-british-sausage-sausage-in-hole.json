@@ -1,0 +1,88 @@
+{
+  "title": "Juicy British Sausage Sausage In Hole",
+  "description": "A comforting, spicy, light British dish featuring truffle oil, steam, and a nut-free-friendly twist on the classic toad-in-the-hole. Perfect for a quick weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 British sausages (e.g., Cumberland or Lincolnshire)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp truffle oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "chopped, about 1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the flour, eggs, and milk to make the batter.",
+    "Add the chopped onion and mix well.",
+    "Pour the batter into a 9x13 inch baking dish or a 12-cup muffin tin, leaving a 1/2 inch space between each cup.",
+    "Arrange the sausages in the batter, making sure they are fully covered.",
+    "Drizzle the truffle oil over the sausages.",
+    "Cover the baking dish or muffin tin with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the sausages are cooked through and the batter is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 70,
+    "fat": 38
+  },
+  "slug": "juicy-british-sausage-sausage-in-hole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-sausage-sausage-in-hole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "truffle oil",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sausage",
+    "descriptor": "Juicy",
+    "dishForm": "Sausage In Hole"
+  }
+}

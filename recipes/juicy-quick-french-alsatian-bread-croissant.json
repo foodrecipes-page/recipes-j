@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Quick French (Alsatian) Bread Croissant",
+  "description": "Funky, juicy, kid-friendly French (Alsatian) dish featuring vegetable oil and a sweet glaze, perfect for a quick breakfast or snack. This recipe is anti-inflammatory-friendly and easy to make.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "anti-inflammatory-friendly"
+    }
+  ],
+  "instructions": [
+    "Activate yeast in warm milk for 5 minutes.",
+    "In a large mixing bowl, combine yeast mixture, almond flour, granulated sugar, and salt.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough into a large rectangle.",
+    "Spread unsalted butter and honey evenly over the dough.",
+    "Roll the dough into a tight log and cut into 12 equal pieces.",
+    "Place the croissants on a baking sheet lined with parchment paper, leaving 1 inch of space between each croissant.",
+    "Bake in the preheated oven for 15-20 minutes or until golden brown.",
+    "Let cool for 5 minutes before glazing.",
+    "Glaze with honey and serve warm."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "kid-friendly",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "juicy-quick-french-alsatian-bread-croissant",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-quick-french-alsatian-bread-croissant",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "glaze",
+    "primaryIngredient": "vegetable oil",
+    "diet": "anti-inflammatory",
+    "region": "alsace",
+    "cuisineAdjective": "French (Alsatian)",
+    "mainIngredient": "Bread",
+    "descriptor": "Juicy Quick",
+    "dishForm": "Croissant"
+  }
+}
