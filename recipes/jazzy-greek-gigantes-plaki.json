@@ -1,0 +1,117 @@
+{
+  "title": "Jazzy Greek Gigantes Plaki",
+  "description": "A hearty, easy-to-make Greek dish featuring large butter beans in a rich tomato sauce, perfect for a lazy Sunday. Sugar snap peas add a burst of freshness and color.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large butter beans",
+      "amount": "1 can (16 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "no salt added"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-low heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and translucent, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the tomato paste and cook for 1-2 minutes, until fragrant.",
+    "Add the canned diced tomatoes, salt, and black pepper. Stir to combine.",
+    "Bring the sauce to a simmer and cook, stirring occasionally, for 15-20 minutes, until the sauce has thickened and the flavors have melded together.",
+    "Stir in the lemon juice and cook for an additional 2-3 minutes.",
+    "Add the sugar snap peas to the sauce and cook, stirring occasionally, until tender but still crisp, about 5 minutes.",
+    "Stir in the cooked butter beans and cook for an additional 2-3 minutes, until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the gigantes plaki hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "greek",
+    "healthy",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jazzy-greek-gigantes-plaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-greek-gigantes-plaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "gigantes",
+    "descriptor": "Jazzy",
+    "dishForm": "Plaki"
+  }
+}

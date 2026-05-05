@@ -1146,6 +1146,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-greek-gigantes-plaki",
+    "title": "Jazzy Greek Gigantes Plaki",
+    "tags": [
+      "easy-dinner",
+      "greek",
+      "healthy",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-greek-lentil-pilaf",
     "title": "Jazzy Greek Lentil Pilaf",
     "tags": [
@@ -1262,6 +1277,37 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-light-indian-shrimp-curry",
+    "title": "Jazzy Light Indian Shrimp Curry",
+    "tags": [
+      "curry",
+      "high-protein",
+      "indian",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-light-peruvian-carrots-risotto",
+    "title": "Jazzy Light Peruvian Carrots Risotto",
+    "tags": [
+      "aj-amarillo",
+      "comforting",
+      "fermented",
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

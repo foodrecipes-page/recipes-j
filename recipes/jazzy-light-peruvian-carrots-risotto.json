@@ -1,0 +1,120 @@
+{
+  "title": "Jazzy Light Peruvian Carrots Risotto",
+  "description": "A light and comforting Peruvian dish featuring fermented carrots and fried rice, perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "khao khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fermented carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a raclette grill over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add ginger and sauté for 1 minute.",
+    "Add carrots and cook until tender.",
+    "Add khao khua and rice and stir to combine.",
+    "Add fermented carrots and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and a slice of ají amarillo pepper.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aj-amarillo",
+    "comforting",
+    "fermented",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "jazzy-light-peruvian-carrots-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-light-peruvian-carrots-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:33Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "carrots",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "carrots",
+    "descriptor": "Jazzy Light",
+    "dishForm": "Risotto"
+  }
+}
