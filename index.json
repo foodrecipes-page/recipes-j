@@ -3595,6 +3595,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-crispy-savory-vietnamese-provola-bun-thit-nuong",
+    "title": "Juicy, Crispy, Savory Vietnamese Provolone Bun Thit Nuong",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "midnight-cravings",
+      "protein-rich",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-crispy-tunisian-lamb-skillet",
     "title": "Juicy Crispy Tunisian Lamb Skillet",
     "tags": [
@@ -4502,6 +4516,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-malaysian-cheese-pull-bao",
+    "title": "Juicy Malaysian Cheese-Pull Bao",
+    "tags": [
+      "breakfast",
+      "malaysian",
+      "sattvic",
+      "vegetarian",
+      "weekend"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-malaysian-tofu-curry",
     "title": "Juicy Malaysian Tofu Curry",
     "tags": [
@@ -5247,6 +5275,22 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-slovakian-sea-bass-tagine",
+    "title": "Juicy Slovakian Sea Bass Tagine",
+    "tags": [
+      "date-night",
+      "easy-to-make",
+      "fish",
+      "one-pan",
+      "slovakian",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

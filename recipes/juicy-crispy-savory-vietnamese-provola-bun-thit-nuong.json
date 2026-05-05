@@ -1,0 +1,123 @@
+{
+  "title": "Juicy, Crispy, Savory Vietnamese Provolone Bun Thit Nuong",
+  "description": "A savory, crunchy, midnight-craving Vietnamese dish featuring provolone, inspired by the flavors of Hue.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provolone cheese",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1 pound",
+      "notes": "preferably a Hue-style sausage"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": null,
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": null,
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat a bain-marie to 375°F (190°C).",
+    "Place the pork sausage on bamboo skewers, if using, leaving a small space between each piece.",
+    "Grill the pork sausage for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, hoisin sauce, grated ginger, garlic, and black pepper.",
+    "Toss the cooked noodles with the sauce mixture, to taste.",
+    "Slice the cooked pork sausage into thin rounds.",
+    "Arrange the noodles, pork sausage, and provolone cheese in an earthenware bowl.",
+    "Garnish with chopped cilantro and serve with a lime wedge on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "midnight-cravings",
+    "protein-rich",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "juicy-crispy-savory-vietnamese-provola-bun-thit-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-savory-vietnamese-provola-bun-thit-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "bain-marie",
+    "primaryIngredient": "provola",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "provola",
+    "descriptor": "Juicy, Crispy, Savory",
+    "dishForm": "Bun Thit Nuong"
+  }
+}

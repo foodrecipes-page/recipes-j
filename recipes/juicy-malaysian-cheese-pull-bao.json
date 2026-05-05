@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Malaysian Cheese-Pull Bao",
+  "description": "A funky, cheese-pull, show-off Malaysian dish featuring salsa, broil, and Ayurvedic-sattvic-friendly ingredients. This breakfast dish is perfect for a weekend treat.",
+  "cuisine": "malaysian",
+  "diet": [
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Malaysian Bao Buns",
+      "amount": "8",
+      "notes ": "soft and fluffy buns"
+    },
+    {
+      "name": "Sattvic Salsa",
+      "amount": "2 cups",
+      "notes ": "mix of diced mango, red onion, cilantro, lime juice, and salt"
+    },
+    {
+      "name": "Ayurvedic Cheese",
+      "amount": "8 oz",
+      "notes ": "made from sheep's milk, rich and creamy"
+    },
+    {
+      "name": "Cashew Cream",
+      "amount": "1 cup",
+      "notes ": "soaked cashews blended with water"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes ": "chopped for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes ": "for marinating"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes ": "for brushing buns"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes ": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 500°F (260°C).",
+    "Place the Malaysian Bao Buns on a baking sheet and brush with olive oil.",
+    "Broil the buns for 2-3 minutes on each side, or until golden brown.",
+    "Meanwhile, mix the Sattvic Salsa ingredients in a bowl.",
+    "Spread a layer of Cashew Cream on each bun.",
+    "Top with a slice of Ayurvedic Cheese and a spoonful of Sattvic Salsa.",
+    "Garnish with chopped Fresh Cilantro and a squeeze of Lime Juice.",
+    "Serve immediately and enjoy!",
+    "Repeat with the remaining ingredients to make more buns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "sattvic",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-malaysian-cheese-pull-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-malaysian-cheese-pull-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "salsa",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Juicy",
+    "dishForm": "Bao"
+  }
+}
