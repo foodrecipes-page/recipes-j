@@ -1061,6 +1061,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-french-chicken-bouillon",
+    "title": "Jazzy French Chicken Bouillon",
+    "tags": [
+      "bouillon",
+      "chicken",
+      "french",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-french-olive-broth",
     "title": "Jazzy French Olive Broth",
     "tags": [

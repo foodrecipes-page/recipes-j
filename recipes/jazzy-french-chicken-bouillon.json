@@ -1,0 +1,111 @@
+{
+  "title": "Jazzy French Chicken Bouillon",
+  "description": "A silky, show-off polish dish featuring rich flavors and tender chicken. Serve with crusty bread on the side for dipping into the broth.",
+  "cuisine": "french",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add flour and cook, whisking constantly, for 2 minutes.",
+    "Gradually pour in white wine, whisking continuously, and cook until the liquid is almost completely reduced, about 5 minutes.",
+    "Add chicken bouillon powder and whisk to combine.",
+    "Add chicken thighs and cook until browned on all sides, about 5-6 minutes.",
+    "Pour in heavy cream and bring to a simmer.",
+    "Reduce heat to low and let cook, covered, until the chicken is cooked through and the sauce has thickened slightly, about 10-12 minutes.",
+    "Stir in thyme, salt, and pepper.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with parsley and serve hot with crusty bread on the side.",
+    "Let the bouillon rest for a few minutes before serving to allow the flavors to mature.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouillon",
+    "chicken",
+    "french",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "jazzy-french-chicken-bouillon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-french-chicken-bouillon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:08:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Jazzy",
+    "dishForm": "Bouillon"
+  }
+}
