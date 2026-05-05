@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Turkish Feta Kazandibi",
+  "description": "A savory, cheese-pull Turkish dish featuring cubed feta cheese, served as a meal prep option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block (250g)",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "200g",
+      "notes": "see notes below"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": "about 1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grinds",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the cubed feta cheese and nuka-pickle.",
+    "Drizzle with olive oil and sprinkle with minced garlic, dried thyme, salt, and black pepper. Mix well until the feta is evenly coated.",
+    "Transfer the mixture to a baking dish and cover with foil. Bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-12 minutes, or until the top is lightly golden brown.",
+    "Remove from the oven and let cool slightly.",
+    "Garnish with chopped fresh parsley and a drizzle of lemon juice, if desired.",
+    "Serve warm, or refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "easy-to-make",
+    "high-protein",
+    "meal-prep",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "juicy-turkish-feta-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-feta-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Feta",
+    "descriptor": "Juicy",
+    "dishForm": "Kazandibi"
+  }
+}
