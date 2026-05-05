@@ -1,0 +1,82 @@
+{
+  "title": "Juicy Chinese Pork Lettuce Wrap",
+  "description": "A bitter and juicy hunan-style dish featuring twice-cooked pork wrapped in iceberg lettuce leaves. Egg-free-friendly.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": 4
+    },
+    {
+      "name": "twice-cooked pork",
+      "amount": 200,
+      "notes": "Use a mix of ground meat and fat for juiciness"
+    },
+    {
+      "name": "salt",
+      "amount": null
+    },
+    {
+      "name": "sugar",
+      "amount": null
+    },
+    {
+      "name": "vinegar",
+      "amount": 1
+    },
+    {
+      "name": "soy sauce",
+      "amount": 1
+    },
+    {
+      "name": "peanut oil",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Prepare the pork by mixing with salt, sugar, vinegar, and soy sauce. Let it marinate for at least an hour.",
+    "Heat peanut oil in a pan over medium heat. Add marinated pork and cook until fully cooked, about 15 minutes.",
+    "Wash and cut iceberg lettuce leaves to size for the wraps.",
+    "Divide twice-cooked pork into equal portions and stuff each lettuce leaf with meat.",
+    "Serve hot as a light lunch dish.",
+    "Optional garnish: add crushed red pepper flakes or scallions on top of the wraps."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-lettuce-wrap",
+    "egg-free",
+    "hunan-style",
+    "juicy-pork",
+    "twice-cooked-pork"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "juicy-chinese-pork-lettuce-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chinese-pork-lettuce-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:31:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "egg-free",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Juicy",
+    "dishForm": "Jjigae Twice-Cooked Pork Lettuce Wrap"
+  }
+}

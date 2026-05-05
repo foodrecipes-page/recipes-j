@@ -3306,6 +3306,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-chinese-pork-lettuce-wrap",
+    "title": "Juicy Chinese Pork Lettuce Wrap",
+    "tags": [
+      "chinese-lettuce-wrap",
+      "egg-free",
+      "hunan-style",
+      "juicy-pork",
+      "twice-cooked-pork"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-chinese-pork-stir-fry",
     "title": "Juicy Chinese Pork Stir-fry",
     "tags": [
