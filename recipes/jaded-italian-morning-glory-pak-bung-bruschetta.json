@@ -1,0 +1,64 @@
+{
+  "title": "Jaded Italian Morning-Glory-Pak-Bung Bruschetta",
+  "description": "A nostalgic Neapolitan dish featuring bitter morning-glory-pak-bung, creamy sauce, and crispy bread, perfect for a diabetic-friendly breakfast or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morning Glory Pak Bung",
+      "amount": "1 bunch",
+      "notes": "1 inch sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to medium-high heat.",
+    "Toast Italian bread slices until lightly browned.",
+    "In a skillet, melt unsalted butter over medium heat. Add sliced garlic and saut\u00101d until fragrant.",
+    "Add sliced fennel bulb to the skillet and cook until tender, about 5 minutes.",
+    "Stir in lemon juice, heavy cream, parmesan cheese, salt, and black pepper.",
+    "Add toasted bread slices to the skillet and spoon the fennel and cream sauce over the top.",
+    "Garnish with fresh parsley and basil leaves.",
+    "Transfer to a baking sheet and broil for 2-3 minutes, or until the top is lightly browned.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "diabetic",
+    "gluten-free",
+    "italian",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "jaded-italian-morning-glory-pak-bung-bruschetta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jaded-italian-morning-glory-pak-bung-bruschetta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "diabetic-friendly",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "morning-glory-pak-bung",
+    "descriptor": "Jaded",
+    "dishForm": "Bruschetta"
+  }
+}
