@@ -1,0 +1,96 @@
+{
+  "title": "Jagged Indian Paneer Rasmalai",
+  "description": "Sweet and creamy Indian rasmalai dessert featuring paneer, red chilli flakes, and a tagine-cooked twist. Perfect for a keto-friendly brunch or dessert.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Paneer (Indian Cheese)",
+      "amount": "250g",
+      "notes": "High-quality cheese is essential for a great rasmalai."
+    },
+    {
+      "name": "Milk",
+      "amount": "1L",
+      "notes": "Whole milk is recommended for the best flavor and texture."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Red onion adds a sweet and crunchy texture to the dish."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "Fresh cilantro adds a fresh and herbaceous flavor to the dish."
+    },
+    {
+      "name": "Red Chilli Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "The heat from the red chilli flakes balances the sweetness of the milk."
+    },
+    {
+      "name": "Ghee or Clarified Butter",
+      "amount": "2 tablespoons",
+      "notes": "Ghee adds a rich and creamy flavor to the dish."
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Cardamom powder adds a unique and aromatic flavor to the dish."
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g",
+      "notes": "Sugar balances the heat from the red chilli flakes."
+    }
+  ],
+  "instructions": [
+    "Combine paneer, milk, red onion, and cilantro in a blender and blend until smooth.",
+    "Strain the mixture into a bowl and add red chilli flakes, ghee, and cardamom powder.",
+    "Heat the mixture in a tagine or a large saucepan over low heat, stirring constantly.",
+    "Simmer the mixture for 10-15 minutes or until it thickens slightly.",
+    "Remove from heat and let it cool to room temperature.",
+    "Chill the rasmalai in the refrigerator for at least 2 hours.",
+    "Serve the rasmalai cold, garnished with fresh cilantro and a drizzle of honey if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "dessert",
+    "indian",
+    "keto-friendly",
+    "paneer",
+    "rasmalai",
+    "tagine-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "jagged-indian-paneer-rasmalai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-indian-paneer-rasmalai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Jagged",
+    "dishForm": "Rasmalai"
+  }
+}

@@ -154,6 +154,22 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-indian-paneer-rasmalai",
+    "title": "Jagged Indian Paneer Rasmalai",
+    "tags": [
+      "brunch",
+      "dessert",
+      "indian",
+      "keto-friendly",
+      "paneer",
+      "rasmalai",
+      "tagine-cooked"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-korean-duck-stir-fry",
     "title": "Jagged Korean Duck Stir-fry",
     "tags": [
@@ -2404,6 +2420,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-indian-kidney-beans-jjigae",
+    "title": "Jovial Indian Kidney Beans Jjigae",
+    "tags": [
+      "creamy",
+      "indian",
+      "kidney-beans",
+      "mustardy",
+      "no-onion-no-garlic"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

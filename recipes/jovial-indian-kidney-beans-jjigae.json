@@ -1,0 +1,121 @@
+{
+  "title": "Jovial Indian Kidney Beans Jjigae",
+  "description": "A creamy, mustardy Kashmiri dish featuring boiling water and clay-pot-cook methods, suitable for no-onion-no-garlic diets. This recipe showcases the flavors of Indian 'rajma' cuisine.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "250g",
+      "notes": "dried"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "250g",
+      "notes": "crushed"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "200ml",
+      "notes": "boiling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a clay pot over medium heat.",
+    "Add 1 tsp of mustard seeds and let them sizzle for a few seconds.",
+    "Add 1 tsp of ground cumin and 1/2 tsp of red chili powder; sauté for 1 minute.",
+    "Add the crushed tomatoes, cumin powder, coriander powder, and garam masala; sauté for 5 minutes.",
+    "Add the kidney beans, 200ml of boiling water, and salt to taste. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the heavy cream and stir well. Let it simmer for another 5 minutes.",
+    "Serve the Jjigae hot, garnished with a squeeze of lemon juice.",
+    "Serve with naan bread or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "indian",
+    "kidney-beans",
+    "mustardy",
+    "no-onion-no-garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jovial-indian-kidney-beans-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-indian-kidney-beans-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "boiling water",
+    "diet": "no-onion-no-garlic",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "jovial",
+    "dishForm": "Jjigae"
+  }
+}
