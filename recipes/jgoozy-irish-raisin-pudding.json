@@ -1,0 +1,88 @@
+{
+  "title": "JGoozy Irish Raisin Pudding",
+  "description": "A floral, molten Irish dish featuring dried fruit, double-rise bread, and a low-fat-friendly twist.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": 60
+    },
+    {
+      "name": "heavy cream",
+      "amount": 120
+    },
+    {
+      "name": "whole milk",
+      "amount": 300
+    },
+    {
+      "name": "Irish whiskey",
+      "amount": 50
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": 100
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": 3
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C (350F).",
+    "Grease a 9x9 inch baking dish.",
+    "In a saucepan, combine butter and cream over medium heat until butter is melted.",
+    "Add milk, whisking constantly. Bring to a simmer but do not boil.",
+    "Remove from heat and stir in whiskey, cocoa powder, and salt. Let cool slightly.",
+    "Beat eggs into the chocolate mixture thoroughly.",
+    "Pour mixture into prepared dish. Cover with foil and bake for 25 minutes.",
+    "Uncover and continue baking until firm to touch, about another 10-15 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "cocoa",
+    "dessert",
+    "irish",
+    "low-fat",
+    "whiskey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "jgoozy-irish-raisin-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jgoozy-irish-raisin-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T07:19:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "dried fruit",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "raisins",
+    "descriptor": "Goozy",
+    "dishForm": "Pudding"
+  }
+}
