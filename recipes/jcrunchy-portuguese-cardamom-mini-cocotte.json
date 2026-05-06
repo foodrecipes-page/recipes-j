@@ -1,0 +1,82 @@
+{
+  "title": "JCrunchy Portuguese Cardamom Mini-Cocotte",
+  "description": "A sour and crunchy solo-dinner portuguese dish featuring cardamom, with a macrobiotic-friendly twist in individual-mini-cocotte vessels.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sour cherry tomatoes",
+      "amount": 12
+    },
+    {
+      "name": "toasted hazelnuts",
+      "amount": "3 tbl"
+    },
+    {
+      "name": "ginger",
+      "amount": 1.5
+    },
+    {
+      "name": "cardamom pods",
+      "amount": 4
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "30 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "6 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the cherry tomatoes into small pieces.",
+    "Toast the hazelnuts and macadamia nuts until golden brown.",
+    "Grind the ginger, cardamom pods, and toasted nuts together in a mortar and pestle or blender for a smooth paste.",
+    "Mix the ground spice mixture with cherry tomato pieces and coconut milk in a mini-cocotte vessel.",
+    "Drizzle lime juice over the top just before serving.",
+    "Serve immediately as a healthy, crunchy accompaniment to any savory main dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cardamom-recipe",
+    "crunchy-portuguese",
+    "macrobiotic-friendly",
+    "mini-cocotte-dish",
+    "single-serving",
+    "sour-cherry-tomato"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "jcrunchy-portuguese-cardamom-mini-cocotte",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jcrunchy-portuguese-cardamom-mini-cocotte",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:59:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "cardamom",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cardamom",
+    "descriptor": "JCrunchy",
+    "dishForm": "Mini-Cocotte Portobello"
+  }
+}
