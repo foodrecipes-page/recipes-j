@@ -1,0 +1,135 @@
+{
+  "title": "Jazzy Glassy-Jelly Moroccan Lamb Msemen",
+  "description": "Earthy, glassy-jelly Moroccan dish featuring extra virgin olive oil, namul-blanch-season, macrobiotic-friendly.\nThis msemen is perfect for meal prep with its versatility and nutritional balance.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Namul-Blanch-Season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Wheat Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glassy-Jelly",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine lamb, Namul-Blanch-Season, Salt, and Black Pepper in a bowl and mix well.",
+    "Heat 60ml of Extra Virgin Olive Oil in a pan over medium heat.",
+    "Add chopped Garlic and Ginger to the pan and saut\u00129 for 2 minutes.",
+    "Mix in glassy-jelly and cook for 3 minutes, until heated through.",
+    "Combine Wheat Flour and Water in a separate bowl to form a dough.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 6 equal portions and shape into msemen.",
+    "Heat 60ml of Extra Virgin Olive Oil in a non-stick pan over medium heat.",
+    "Cook msemen for 2-3 minutes on each side, until golden brown.",
+    "Repeat the cooking process for the remaining dough portions.",
+    "Cut the cooked msemen into wedges and garnish with Chopped Fresh Mint and Chopped Fresh Cilantro.",
+    "Serve hot with your favorite accompaniments.",
+    "Transfer the cooked msemen to a lazy-susan-spinner for easy serving and meal prep.",
+    "Refrigerate or freeze the msemen for up to 3 days or 2 months respectively.",
+    "Reheat the msemen in the microwave or a non-stick pan before serving.",
+    "Assemble the msemen with glassy-jelly, lamb, and herbs for a delicious and nutritious meal.",
+    "Store the assembled msemen in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "Thaw frozen msemen overnight in the refrigerator before reheating.",
+    "Always handle the msemen with care and serve hot for optimal flavor and texture.",
+    "Use a food thermometer to ensure the lamb reaches a safe minimum internal temperature of 63\u00178C (145\u00176F)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "herbs",
+    "lamb",
+    "macrobiotic",
+    "meal-prep",
+    "moroccan",
+    "msemen",
+    "olive-oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "jazzy-glassy-jelly-moroccan-lamb-msemen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-glassy-jelly-moroccan-lamb-msemen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:52:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Jazzy Glassy-Jelly",
+    "dishForm": "Msemen"
+  }
+}
