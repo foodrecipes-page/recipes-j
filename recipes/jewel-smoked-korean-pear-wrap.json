@@ -1,0 +1,81 @@
+{
+  "title": "Jewel-Smoked Korean Pear Wrap",
+  "description": "A kid-friendly greek dish featuring a savory pear wrap wrapped in leaf and smoked for a smoky, flaky texture. Perfect as a light meal or snack.",
+  "cuisine": "korean-greek fusion",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean Pear",
+      "amount": 2
+    },
+    {
+      "name": "Leaf Wrapping Vegetables (e.g. Bibb lettuce, endive)",
+      "amount": 4
+    },
+    {
+      "name": "Dried Sesame Seeds",
+      "amount": 10
+    },
+    {
+      "name": "Fermented Black Beans",
+      "amount": 1
+    },
+    {
+      "name": "Korean Red Pepper Flakes",
+      "amount": 2
+    },
+    {
+      "name": "Mild Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C.",
+    "Core the pears and remove any stems. Rinse them and dry thoroughly.",
+    "Wash leaf vegetables, trim ends, and place in a bowl of water to clean and rinse again.",
+    "Dress pears with oil, black beans, red pepper flakes, salt, and pepper; lightly massage the dressing into pear flesh with your hands.",
+    "Place each dressed pear core-side down onto each leaf. Tuck leaves around pears and secure with toothpicks if needed.",
+    "Transfer pear-leaf wraps to a baking tray lined with parchment paper or a silicone mat, and bake for 10 minutes.",
+    "After 10 mins, remove from oven, sprinkle sesame seeds over each wrap, then return to oven for an additional 4-5 mins until crisp and tender but not burnt.",
+    "Serve hot as a snack with a side of yogurt or dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 19,
+  "totalTimeMin": 39,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly-greek-dish",
+    "smoky-pear-wrap",
+    "vegan-egg-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "jewel-smoked-korean-pear-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-smoked-korean-pear-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:56:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "korean-pear",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pear",
+    "descriptor": "Jewel-Smoked",
+    "dishForm": "Wrap"
+  }
+}
