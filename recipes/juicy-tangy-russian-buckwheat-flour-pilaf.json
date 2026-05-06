@@ -1,0 +1,85 @@
+{
+  "title": "Juicy Tangy Russian Buckwheat Flour Pilaf",
+  "description": "A traditional Russian dish made with buckwheat flour, featuring tangy and juicy flavors, perfect for a quick and energizing meal.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "375ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium pan over medium heat.",
+    "Add the diced onion and saut\u00119 until it is translucent and slightly caramelized.",
+    "Add the buckwheat flour and cook for 1 minute, stirring constantly.",
+    "Slowly pour in the vegetable broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes or until the buckwheat is al dente.",
+    "Season with smoked salt and chopped parsley to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "easy-vegan",
+    "gluten-free",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-tangy-russian-buckwheat-flour-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tangy-russian-buckwheat-flour-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "buckwheat flour",
+    "descriptor": "juicy tangy",
+    "dishForm": "pilaf"
+  }
+}
