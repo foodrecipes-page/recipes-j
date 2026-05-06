@@ -1,0 +1,101 @@
+{
+  "title": "Joltin' Shaggy Miso-Marinated Stir-Fry on Salt-Block",
+  "description": "An energizing Spanish dish featuring a miso-marinate to add umami and richness to the stir-fry. Perfect for a mid-day meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": 200
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp fresh, grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "salt block",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Combine miso paste, mirin, soy sauce, rice vinegar, sesame oil, ginger, and garlic in a bowl to make the marinade. Marinate shrimp for at least an hour.",
+    "Prepare vegetables by slicing the green and red bell peppers into thin strips, zucchini into half-moons.",
+    "Heat salt block on stovetop until it gets nice and warm (be careful).",
+    "Add marinated shrimp to hot salt block and cook for 1-2 minutes per side, or until opaque.",
+    "Sear vegetables in a wok with a bit of oil. Stir-fry until slightly charred but still crisp.",
+    "Mix together the stir-fried vegetables and cooked shrimp. Serve immediately over rice if desired.",
+    "Enjoy your energizing Spanish dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-setup-cooking",
+    "energizing",
+    "spanish-stir-fry",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "joltin-shaggy-miso-marinated-stir-fry-on-salt-block",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/joltin-shaggy-miso-marinated-stir-fry-on-salt-block",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:12:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "mirin",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Miso",
+    "descriptor": "Joltin'",
+    "dishForm": "Stir-fry"
+  }
+}
