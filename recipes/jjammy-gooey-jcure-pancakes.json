@@ -1,0 +1,80 @@
+{
+  "title": "JJammy Gooey JCure Pancakes",
+  "description": "These dark soft brown sugar and shio-koji-cured salmon pancakes are perfect for a solo dinner and served on a hot-stone plate.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dark soft brown sugar",
+      "amount": 100
+    },
+    {
+      "name": "shio-koji-cure salmon, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-carb-friendly flour",
+      "amount": "100 grams"
+    },
+    {
+      "name": "egg(s)",
+      "amount": 2
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil for frying",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Mix dark soft brown sugar and shio-koji-cure salmon in a bowl.",
+    "Add flour, egg(s), salt to the mixture and stir until smooth.",
+    "Heat oil in a pan over medium heat.",
+    "Pour batter into hot pan and cook on each side for about 2 minutes or until golden brown.",
+    "Serve warm on a hot-stone plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dark-brown-sugar",
+    "hot-stone-plate",
+    "jjammy-gooey",
+    "low-carb-friendly",
+    "salmon",
+    "shio-koji-cure",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "jjammy-gooey-jcure-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jjammy-gooey-jcure-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:03:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jovial",
+    "mainIngredient": "jammy",
+    "descriptor": "Gooey Jammy",
+    "dishForm": "Pancakes"
+  }
+}
