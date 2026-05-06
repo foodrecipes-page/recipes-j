@@ -1467,6 +1467,22 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-lazy-american-plant-based-casserole",
+    "title": "Jazzy Lazy American Plant-Based Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "plant-based",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-light-indian-shrimp-curry",
     "title": "Jazzy Light Indian Shrimp Curry",
     "tags": [
@@ -5204,6 +5220,21 @@
       "spinach"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-italian-egg-suppl-1",
+    "title": "juicy italian egg supplì",
+    "tags": [
+      "cheesy",
+      "egg-noodle",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "j"
   },

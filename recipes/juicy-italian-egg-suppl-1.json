@@ -1,0 +1,111 @@
+{
+  "title": "juicy italian egg supplì",
+  "description": "an italian dish featuring egg noodles, steam, and a touch of wine. perfect for a solo dinner.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cook the egg noodles according to package instructions until al dente.",
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "add the white wine and cook until the liquid is almost completely reduced.",
+    "add the parmesan and mozzarella cheese and stir until melted.",
+    "add the cooked egg noodles and toss with the cheese sauce.",
+    "season with salt and black pepper to taste.",
+    "transfer the noodles to a serving dish and top with additional parmesan cheese if desired.",
+    "in a separate bowl, beat the eggs and season with salt and black pepper.",
+    "pour the egg mixture over the noodles and sprinkle with grated mozzarella cheese.",
+    "transfer the egg supplì to a baking dish and bake at 375f for 15-20 minutes until set and golden brown.",
+    "remove from the oven and let cool for a few minutes before serving.",
+    "sprinkle with additional fresh basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "egg-noodle",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "juicy-italian-egg-suppl-1",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-italian-egg-suppl-1",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:51:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "egg",
+    "descriptor": "juicy",
+    "dishForm": "Suppl\u00071"
+  }
+}
