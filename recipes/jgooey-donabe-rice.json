@@ -1,0 +1,86 @@
+{
+  "title": "JGooey Donabe Rice",
+  "description": "A herbal, gooey Jamaican dish featuring dried white beans and served in a donabe vessel for date-night enjoyment. Gluten-free-friendly.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white beans",
+      "amount": 1
+    },
+    {
+      "name": "rice",
+      "amount": 2
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "as needed"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "herbs (bay leaves, thyme, oregano)",
+      "amount": "few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water or broth",
+      "amount": 3
+    }
+  ],
+  "instructions": [
+    "Rinse the white beans and soak them in water overnight.",
+    "Heat a donabe vessel with a bit of oil over medium heat.",
+    "Add onion, garlic, and herbs to the vessel; sauté until fragrant.",
+    "Add soaked white beans and enough water or broth to cover. Bring to a boil.",
+    "Reduce heat to low and simmer for about 1 hour or until al dente.",
+    "Season with salt and pepper as desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "goosey",
+    "herbal",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 47,
+    "fat": 9
+  },
+  "slug": "jgooey-donabe-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jgooey-donabe-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T07:44:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "dried white beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Dried White Beans",
+    "descriptor": "Gooey",
+    "dishForm": "Donabe Rice"
+  }
+}
