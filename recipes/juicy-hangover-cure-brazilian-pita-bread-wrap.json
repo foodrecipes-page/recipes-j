@@ -1,0 +1,61 @@
+{
+  "title": "Hangover-Cure Brazilian Pita Bread Wrap",
+  "description": "A sweet and savory Brazilian-inspired pita bread wrap to cure your hangover. It's Whole30-friendly, with a perfect cheese pull and a blast of flavor to start your day.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Chicken",
+      "amount": "1 pound",
+      "notes": "cooked to 165F"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350F",
+    "Prepare Brazilian Cheesecake Spread by mixing 1/4 cup cream cheese, 1/2 cup melted coconut oil, and 1 tablespoon honey in a blender until smooth",
+    "Slice pita bread in half lengthwise and toast until lightly browned",
+    "Grill chicken breast to 165F and slice into thin strips"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "breakfast",
+    "cheese-pull",
+    "hangover-cure",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "juicy-hangover-cure-brazilian-pita-bread-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-hangover-cure-brazilian-pita-bread-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "pita bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pita bread",
+    "descriptor": "juicy hangover-cure",
+    "dishForm": "Wrap"
+  }
+}

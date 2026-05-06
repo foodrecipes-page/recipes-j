@@ -1,0 +1,115 @@
+{
+  "title": "Juicy Malaysian Chicken Noodles",
+  "description": "Rich and flavorful dish featuring juicy chicken and crunchy vegetables, all in a low-glycemic and pressure-cooked sauce. A perfect weeknight dinner option.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "linguine noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "low-glycemic alternative to regular sugar"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the fish sauce, light soy sauce, and brown sugar to the skillet, stirring to combine.",
+    "Return the chicken to the skillet and cook until coated in the sauce, about 2 minutes.",
+    "Add the noodles, water chestnuts, and green onions to the skillet, stirring to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are heated through.",
+    "Stir in the parmesan cheese.",
+    "Serve immediately and enjoy!",
+    "Remove the noodles from the heat and let rest for 5 minutes before serving.",
+    "Slice the chicken into thin strips and serve on top of the noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "juicy-malaysian-chicken-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-malaysian-chicken-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "parmesan",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy",
+    "dishForm": "Noodles"
+  }
+}

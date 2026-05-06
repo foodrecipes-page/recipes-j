@@ -5107,6 +5107,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-hangover-cure-brazilian-pita-bread-wrap",
+    "title": "Hangover-Cure Brazilian Pita Bread Wrap",
+    "tags": [
+      "brazilian",
+      "breakfast",
+      "cheese-pull",
+      "hangover-cure",
+      "whole30-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-herbal-canadian-steak-kebabs",
     "title": "Juicy Herbal Canadian Steak Kebabs",
     "tags": [
@@ -5428,6 +5442,19 @@
       "sattvic",
       "vegetarian",
       "weekend"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-malaysian-chicken-noodles",
+    "title": "Juicy Malaysian Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 25,
