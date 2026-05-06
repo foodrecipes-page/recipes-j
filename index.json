@@ -4001,6 +4001,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-british-meat-sunday-roast",
+    "title": "Juicy British Meat Sunday Roast",
+    "tags": [
+      "british",
+      "comfort-food",
+      "family-dinner",
+      "high-protein",
+      "sunday-roast"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 240,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-british-russet-potato-gratin",
     "title": "Juicy British Russet Potato Gratin",
     "tags": [
@@ -5638,6 +5652,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-nostalgic-algerian-rest-meat-tagine",
+    "title": "juicy nostalgic Algerian rest-meat Tagine",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "slow-cooker",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 95,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-nostalgic-croatian-pepper-stir-fry",
     "title": "Juicy Nostalgic Croatian Pepper Stir-fry",
     "tags": [
@@ -6935,6 +6963,21 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-venezuelan-lentils-dumplings",
+    "title": "Venezuelan Lentil Dumplings",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {

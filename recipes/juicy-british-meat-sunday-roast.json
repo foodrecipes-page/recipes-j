@@ -1,0 +1,131 @@
+{
+  "title": "Juicy British Meat Sunday Roast",
+  "description": "A traditional British Sunday roast featuring slow-cooked tender meat, crispy crackling, and a hint of yellow curry paste. Perfect for a comforting family dinner.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braising pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "Look for a boneless pork shoulder with a good layer of fat."
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tsp",
+      "notes": "Use a high-quality curry paste for the best flavor."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "Use a neutral-tasting oil with a high smoke point."
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Choose sweet onions for the best flavor."
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Use a mix of orange and purple carrots for a pop of color."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "Choose high-starch potatoes for the fluffiest roast potatoes."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for the best flavor."
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Use fresh thyme for the best flavor."
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Use fresh or dried bay leaves for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Crispy deep-fry potatoes",
+      "amount": "1 cup",
+      "notes": "Use leftover potatoes for a crispy snack."
+    },
+    {
+      "name": "Gravy granules",
+      "amount": "2 tsp",
+      "notes": "Use homemade or store-bought gravy granules for the best flavor."
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Use low-sodium beef broth for the best flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the pork shoulder with salt and black pepper, then rub with yellow curry paste.",
+    "Heat 2 tablespoons of vegetable oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the remaining 6 tablespoons of vegetable oil to the Dutch oven, then add the sliced onions and cook until caramelized, about 10 minutes.",
+    "Add the sliced carrots and cook until tender, about 5 minutes.",
+    "Add the sliced potatoes and cook until tender, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the thyme sprigs and bay leaves to the Dutch oven, then add the beef broth and bring to a boil.",
+    "Return the pork shoulder to the Dutch oven and transfer to the preheated oven.",
+    "Roast the pork for 2-3 hours, or until tender and falling apart."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "comfort-food",
+    "family-dinner",
+    "high-protein",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 60,
+    "fat": 70
+  },
+  "slug": "juicy-british-meat-sunday-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-meat-sunday-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "meat",
+    "descriptor": "juicy",
+    "dishForm": "Sunday Roast"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "juicy nostalgic Algerian rest-meat Tagine",
+  "description": "a traditional North African stew featuring slow-cooked rest-meat in a flavorful sauce with salted butter",
+  "cuisine": "Algerian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "salted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large Dutch oven over medium heat.",
+    "add onion and cook until softened, about 5 minutes.",
+    "add garlic and ginger and cook for 1 minute.",
+    "add rest-meat and cook until browned, breaking into small pieces as it cooks.",
+    "add cumin, coriander, paprika, salt, and black pepper.",
+    "stir in salted butter until melted.",
+    "add 1 cup of water and bring to a boil.",
+    "reduce heat to low and simmer, covered, for 1 hour and 15 minutes.",
+    "stir in chopped parsley.",
+    "serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "slow-cooker",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 46,
+    "carbs": 30,
+    "fat": 36
+  },
+  "slug": "juicy-nostalgic-algerian-rest-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-algerian-rest-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "salted butter",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "juicy nostalgic",
+    "dishForm": "Tagine"
+  }
+}
