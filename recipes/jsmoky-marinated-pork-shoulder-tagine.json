@@ -1,0 +1,83 @@
+{
+  "title": "JSmoky Marinated Pork Shoulder Tagine",
+  "description": "A buttery, shattering dish featuring pork shoulder cooked in a tandoor clay pot with smoke and Jain-friendly spices. Perfect for an evening meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1kg"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "ginger, fresh",
+      "amount": "2cm"
+    },
+    {
+      "name": "salt",
+      "amount": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2-3"
+    },
+    {
+      "name": "jalapeno seeds",
+      "amount": null
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Mix minced garlic, fresh ginger, brown sugar, jalapenos, and jalapeno seeds in a mixing bowl. Season with salt.",
+    "Heat cooking oil in a tandoor clay pot over medium heat. Add marinated pork shoulder to the pot, turning to ensure it's coated evenly.",
+    "Cover the pot and cook on low heat for 1 hour per kg of meat, or until the internal temperature reaches at least 74°C (165°F).",
+    "Remove from heat and let cool before slicing. Serve hot with your favorite side dish.",
+    "Enjoy this one-pot slovakian dish that's perfect for an evening meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "slovenian",
+    "smoky",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "jsmoky-marinated-pork-shoulder-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jsmoky-marinated-pork-shoulder-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:08:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "pork shoulder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Smoke-Marinated",
+    "dishForm": "Tagine"
+  }
+}
