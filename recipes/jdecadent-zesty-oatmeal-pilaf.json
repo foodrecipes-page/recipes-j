@@ -1,0 +1,76 @@
+{
+  "title": "JDecadent Zesty Oatmeal Pilaf",
+  "description": "A buttery, dense, monsoon Venezuelan dish featuring oatmeal, dehydrated ingredients for a low-fat-friendly meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oatmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dehydrated bell peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dehydrated onions",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "dehydrated tomatoes",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix oatmeal with all ingredients and distribute evenly on a baking sheet.",
+    "Bake for 25 minutes or until edges are golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dehydrated-ingredients",
+    "low-fat-friendly",
+    "monsoon-dish",
+    "oatmeal-pilaf"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 6,
+    "carbs": 31,
+    "fat": 14
+  },
+  "slug": "jdecadent-zesty-oatmeal-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jdecadent-zesty-oatmeal-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:54:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "oatmeal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Dense",
+    "dishForm": "Pilaf"
+  }
+}
