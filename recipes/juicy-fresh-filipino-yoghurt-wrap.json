@@ -1,0 +1,125 @@
+{
+  "title": "Juicy Fresh Filipino Yoghurt Wrap",
+  "description": "A mediterranean-friendly Filipino dish featuring natural yoghurt and ferment-kimchi, wrapped in a lotus leaf.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Naan Breads",
+      "amount": "2",
+      "notes": "Lotus leaf wraps can be used as a substitute"
+    },
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Natural Yoghurt",
+      "amount": "1/4 cup",
+      "notes": "Unflavored"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crushed Garlic",
+      "amount": "1 clove",
+      "notes": "Mince for better flavor"
+    },
+    {
+      "name": "Juicy Pineapple",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "1 tablespoon",
+      "notes": "Gluten-free soy sauce"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh Lemongrass",
+      "amount": "1 stalk",
+      "notes": "Mince for better flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the lotus leaf wraps by brushing with coconut aminos and honey.",
+    "In a separate bowl, mix together the fermented kimchi, natural yoghurt, and crushed garlic.",
+    "Add the chopped mint leaves, cilantro leaves, lemongrass, salt, and black pepper to the bowl and mix well.",
+    "Stir in the diced pineapple and mix well.",
+    "To assemble the wrap, place the kimchi-yoghurt mixture on the center of a lotus leaf wrap.",
+    "Add the chopped fresh basil leaves on top of the mixture.",
+    "Fold the lotus leaf wrap over the filling, making sure to seal the edges.",
+    "Cook in a steamer for 5-7 minutes or until the leaves are tender.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "juicy-fresh-filipino-yoghurt-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fresh-filipino-yoghurt-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "yoghurt",
+    "descriptor": "juicy fresh",
+    "dishForm": "wrap"
+  }
+}
