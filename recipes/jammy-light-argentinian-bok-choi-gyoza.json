@@ -1,0 +1,123 @@
+{
+  "title": "Jammy Light Argentinian Bok Choi Gyoza",
+  "description": "A crispy and light Argentinian dish featuring bok choi, perfect for a raw-friendly twist on traditional gyoza.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "wheat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the bok choi into thin strands.",
+    "In a large bowl, whisk together the flour, eggs, salt, and pepper.",
+    "Add the garlic, olive oil, soy sauce, and rice vinegar to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball of dough into a thin circle using a rolling pin or your hands.",
+    "Place a small amount of bok choi in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the gyoza.",
+    "Heat a large skillet or wok over medium-high heat and add a small amount of sesame oil.",
+    "When the oil is hot, add the gyoza to the skillet and cook for 2-3 minutes on each side until crispy and golden brown.",
+    "Serve the gyoza hot with green onions and a drizzle of sesame oil.",
+    "Garnish with sesame seeds if desired.",
+    "Note: For a raw-friendly twist, serve the gyoza without cooking them."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "jammy-light-argentinian-bok-choi-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-light-argentinian-bok-choi-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:55Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bok choi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bok choi",
+    "descriptor": "jammy light",
+    "dishForm": "Gyoza"
+  }
+}

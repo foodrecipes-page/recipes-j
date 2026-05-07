@@ -673,6 +673,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-light-argentinian-bok-choi-gyoza",
+    "title": "Jammy Light Argentinian Bok Choi Gyoza",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-midnight-norwegian-rice-fried-rice",
     "title": "Jammy Midnight Norwegian Rice Fried-Rice",
     "tags": [
@@ -5366,6 +5380,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-jalapeno-peruvian-rocoto-relleno",
+    "title": "Juicy Jalapeño Peruvian Rocoto Relleno",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "peruvian",
+      "rocoto-relleno",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {

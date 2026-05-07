@@ -1,0 +1,70 @@
+{
+  "title": "Juicy Jalapeño Peruvian Rocoto Relleno",
+  "description": "A vegan-friendly twist on the classic Peruvian dish, featuring pita bread and a snappy rocoto pepper.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeño peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the jalapeños and scoop out the seeds.",
+    "In a pan, heat 2 tablespoons of oil over medium heat.",
+    "Sauté the breadcrumbs until golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "peruvian",
+    "rocoto-relleno",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-jalapeno-peruvian-rocoto-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jalapeno-peruvian-rocoto-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "pita bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rocoto",
+    "descriptor": "Juicy Jalapeño",
+    "dishForm": "Relleno"
+  }
+}
