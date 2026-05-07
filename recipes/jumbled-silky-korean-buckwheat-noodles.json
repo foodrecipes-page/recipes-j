@@ -1,0 +1,98 @@
+{
+  "title": "jumbled silky Korean buckwheat noodles",
+  "description": "pungent, silky, comforting Korean dish featuring buckwheat, pickle, and a hint of spice. Inspired by jeolla province, this recipe is free from common FODMAP ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fodmap",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "200g",
+      "notes": "preferably fresh, or high-quality dried noodles"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "100g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, omit for vegan version"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "100g",
+      "notes": "chopped, green and white parts separated"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cook buckwheat noodles according to package instructions, rinsing thoroughly with cold water.",
+    "set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "low-fodmap",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jumbled-silky-korean-buckwheat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbled-silky-korean-buckwheat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "buckwheat",
+    "diet": "fodmap",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "buckwheat",
+    "descriptor": "jumbled silky",
+    "dishForm": "Noodles"
+  }
+}
