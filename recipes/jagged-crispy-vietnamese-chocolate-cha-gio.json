@@ -1,0 +1,86 @@
+{
+  "title": "Jagged Crispy Vietnamese Chocolate Cha Gio",
+  "description": "A monsoon-inspired twist on traditional Vietnamese spring rolls, featuring crispy rice noodles, savory meat, and a rich chocolate glaze.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Plain rice noodles",
+      "amount": "250g",
+      "notes": "preferably day-old noodles"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "500g",
+      "notes": "you can also use ground beef or a combination of the two"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1L",
+      "notes": "for frying"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chocolate chips",
+      "amount": "200g",
+      "notes": "at least 70% cocoa, chopped into small pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan to 180°C for frying the cha gio.",
+    "Cut the rice noodles into shorter lengths and set aside.",
+    "In a large mixing bowl, combine the ground pork, egg, salt, and pepper. Mix well until just combined.",
+    "Divide the pork mixture among the rice noodle sheets, placing a tablespoon or two in the center of each sheet."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "fancy-dessert",
+    "monsoon",
+    "spring-rolls",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 60
+  },
+  "slug": "jagged-crispy-vietnamese-chocolate-cha-gio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-vietnamese-chocolate-cha-gio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "plain chocolate",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "chocolate",
+    "descriptor": "jagged crispy",
+    "dishForm": "cha gio"
+  }
+}
