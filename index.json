@@ -818,6 +818,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-wholesome-tacos-taco-shells",
+    "title": "Jammy Wholesome Tacos Taco Shells",
+    "tags": [
+      "filipino",
+      "health-conscious",
+      "jammy-tacos",
+      "light-lavish",
+      "shojin-style",
+      "wholesome"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "japanese-chilli-bean-grill",
     "title": "Japanese Chilli Bean Grill",
     "tags": [

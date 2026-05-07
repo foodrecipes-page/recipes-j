@@ -1,0 +1,86 @@
+{
+  "title": "Jammy Wholesome Tacos Taco Shells",
+  "description": "A velvety and adventurous Filipino dish featuring hard taco shells cut into katsuramuki-shape, prepared shojin-style for a wholesome meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 tsp sea salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup tahini sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1 egg, lightly beaten",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 can coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "2 tbsp apple cider vinegar",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees F (175 degrees C).",
+    "Mix almond flour, sea salt, nutritional yeast, and tahini sauce until smooth.",
+    "Add beaten egg and cayenne pepper. Mix well until no lumps remain.",
+    "Stir in coconut milk and apple cider vinegar. Mix thoroughly.",
+    "Pour mixture into a lined baking dish and bake for 30 minutes or until set.",
+    "Serve with desired toppings such as salsa, guacamole, sour cream, etc."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "health-conscious",
+    "jammy-tacos",
+    "light-lavish",
+    "shojin-style",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "jammy-wholesome-tacos-taco-shells",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-wholesome-tacos-taco-shells",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:21:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "hard taco shells",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Taco Shells",
+    "descriptor": "Jammy",
+    "dishForm": "Wrap"
+  }
+}
