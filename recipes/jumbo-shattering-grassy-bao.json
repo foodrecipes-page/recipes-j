@@ -1,0 +1,110 @@
+{
+  "title": "Jumbo Shattering Grassy Bao",
+  "description": "Cozy Canadian dish featuring cider-glazed sweet potatoes, crunchy candy-glazed pecans, and fragrant grassy herbs, all served in a traditional Korean dolsot stone bowl. Perfect for a shojin-inspired meal.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cider-glazed sweet potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Candy melts",
+      "amount": "1 cup",
+      "notes": "any colour",
+      "},{": [
+        [
+          {
+            "name": "Grass-whittled rosemary sprigs",
+            "amount": "4",
+            "notes": ""
+          },
+          {
+            "name": "Black sesame seeds",
+            "amount": "1/4 cup",
+            "notes": ""
+          },
+          {
+            "name": "Dolsot stone bowl",
+            "amount": "1",
+            "notes": "available at Asian grocery stores"
+          }
+        ]
+      ],
+      "prepTimeMin": 25,
+      "cookTimeMin": 30,
+      "totalTimeMin": 55,
+      "servings": 4,
+      "difficulty": "medium",
+      "tags": [
+        "shojin",
+        "comfort-food",
+        "weeknight",
+        "canadian",
+        "grassy",
+        "candy"
+      ],
+      "nutrition": {
+        "calories": 800,
+        "protein": 15,
+        "carbs": 60,
+        "fat": 45
+      }
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\t10F (200\t15C). ",
+    "In a large bowl, mix together the sweet potatoes and 2 tablespoons of sugar. ",
+    "Bake the sweet potatoes in the oven for 20 minutes, or until tender. ",
+    "While the sweet potatoes are baking, melt the candy melts in a double boiler. ",
+    "Coat the pecans in the melted candy and bake for an additional 5-7 minutes, or until caramelized. ",
+    "Mix together the rosemary sprigs and black sesame seeds. ",
+    "Bake the rosemary sprigs in the oven for an additional 2-3 minutes, or until fragrant. ",
+    "To assemble the dish, place the sweet potatoes in the dolsot stone bowl and top with the pecans and rosemary sprigs. "
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "dinner"
+  ],
+  "slug": "jumbo-shattering-grassy-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-shattering-grassy-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "cider",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "bacon",
+    "descriptor": "jumbo shattering",
+    "dishForm": "bao"
+  }
+}
