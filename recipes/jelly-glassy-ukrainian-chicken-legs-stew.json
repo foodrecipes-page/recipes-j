@@ -1,0 +1,125 @@
+{
+  "title": "Jelly Glassy Ukrainian Chicken Legs Stew",
+  "description": "A hearty, winey stew featuring chicken legs in a glassy-jelly sauce, served with crusty bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, full-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "ketchup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "copper-mug",
+      "amount": null,
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a ttukbaegi or heavy pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the caraway seeds and allspice and cook for 1 minute.",
+    "Add the chicken legs and cook until browned, about 5 minutes.",
+    "Add the wine, broth, ketchup, vinegar, sugar, parsley, black pepper, and salt.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, until the chicken is cooked through, about 30 minutes.",
+    "Serve hot, with crusty bread and a side of saut\b6rd potatoes, if desired.",
+    "Strain the sauce and discard the solids, if desired.",
+    "Serve the sauce over the chicken and enjoy!",
+    "Serve in copper-mugs for a unique presentation, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "jelly-glassy-ukrainian-chicken-legs-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-glassy-ukrainian-chicken-legs-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:26:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chicken legs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "jelly glassy",
+    "dishForm": "stew"
+  }
+}
