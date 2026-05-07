@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Molten Peruvian Chicken Skillet",
+  "description": "A lazy Sunday Peruvian dish featuring chicken cooked in a citrusy marsala wine sauce with a soffritto base, served in a skillet. This gluten-free friendly recipe is perfect for a relaxing day at home.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Add the marsala wine to the skillet and stir to deglaze, scraping up any browned bits from the bottom.",
+    "Add the chopped red bell pepper and cook until tender, about 3-4 minutes.",
+    "Stir in the diced tomatoes, lime juice, salt, and black pepper.",
+    "Transfer the skillet to the preheated oven and bake at 400 degrees for 20-25 minutes, or until the chicken is cooked through and the sauce is molten and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Serve the chicken and sauce hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "lazy-sunday",
+    "marsala-wine",
+    "one-pan",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "juicy-molten-peruvian-chicken-skillet",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-molten-peruvian-chicken-skillet",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "marsala-wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Molten",
+    "dishForm": "Skillet"
+  }
+}
