@@ -1,0 +1,76 @@
+{
+  "title": "JFestive Bacon Lardon Wrap Cazuela",
+  "description": "A festive turkish dish featuring buttery, crumbly bacon lardon wrapped in a sam- wrap and served in cazuela for a low-glycemic-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon Lardon",
+      "amount": 200
+    },
+    {
+      "name": "Ssam Wrap Leaves",
+      "amount": "as needed"
+    },
+    {
+      "name": "Low-Glycemic Ingredients Mix",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": 50
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat cazuela to 375°F (190°C).",
+    "Slice bacon lardon into thin strips and lightly season with salt and pepper.",
+    "Heat a skillet over medium heat and add butter. Add bacon lardons and cook until crispy, about 4 minutes per side.",
+    "Remove bacon from pan and let cool slightly before wrapping in sam- wrap leaves.",
+    "Place wraps in cazuela and top each with a small amount of low-glycemic ingredients mix to taste.",
+    "Bake for 15 minutes or until the wraps are heated through and golden brown on top.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-lardon",
+    "low-glycemic-friendly",
+    "sam-wrap"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "jfestive-bacon-lardon-wrap-cazuela",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jfestive-bacon-lardon-wrap-cazuela",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T06:46:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "bacon lardon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Festive",
+    "dishForm": "Wrap"
+  }
+}
