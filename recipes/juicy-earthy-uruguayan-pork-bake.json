@@ -1,0 +1,115 @@
+{
+  "title": "Uruguayan Pork Bake",
+  "description": "A hearty, earthy, and juicy Uruguayan-inspired dish featuring minced pork, perfect for a weeknight dinner. This recipe is also pescatarian-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the minced pork, onion, garlic, cilantro, cumin, paprika, salt, and pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Add the egg to the bowl and mix until the mixture is just holding together.",
+    "Transfer the mixture to a ttukbaegi (Korean earthenware pot) or a similar heat-proof dish and smooth the top.",
+    "Bake the mixture in the preheated oven for 25 minutes, or until lightly browned on the bottom.",
+    "Remove the dish from the oven and top with grated cheddar cheese and Korean chili flakes.",
+    "Return the dish to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it rest for 5 minutes before serving.",
+    "Slice the Uruguayan Pork Bake into wedges and serve hot.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 37
+  },
+  "slug": "juicy-earthy-uruguayan-pork-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-earthy-uruguayan-pork-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "minced pork",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork",
+    "descriptor": "juicy earthy",
+    "dishForm": "Bake"
+  }
+}

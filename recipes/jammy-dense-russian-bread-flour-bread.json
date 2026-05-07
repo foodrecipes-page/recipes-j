@@ -1,0 +1,90 @@
+{
+  "title": "Jammy Dense Russian Bread",
+  "description": "A hearty, low-carb-friendly Russian bread featuring strong white bread flour and a jammy crust.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and yeast in a large mixing bowl. Mix in warm water until a shaggy dough forms.",
+    "Add sugar, egg, jam, and butter to the dough. Mix until a sticky ball forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Punch down the dough and shape into a round loaf.",
+    "Place the loaf in a steamy oven or a steam-injected oven for 25 minutes at 375°F.",
+    "Remove the bread from the oven and let cool on a wire rack for 10 minutes.",
+    "Transfer the bread to a plate or cutting board and let cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "low-carb",
+    "russian",
+    "steam-baked",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "jammy-dense-russian-bread-flour-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-dense-russian-bread-flour-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread flour",
+    "descriptor": "jammy dense",
+    "dishForm": "Bread"
+  }
+}

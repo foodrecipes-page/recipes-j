@@ -613,6 +613,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-dense-russian-bread-flour-bread",
+    "title": "Jammy Dense Russian Bread",
+    "tags": [
+      "bread",
+      "breakfast",
+      "low-carb",
+      "russian",
+      "steam-baked",
+      "yeast"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-dense-ukrainian-toffee-popcorn-stir-fry",
     "title": "Jammy Dense Ukrainian Toffee Popcorn Stir-Fry",
     "tags": [
@@ -4689,6 +4704,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-earthy-uruguayan-pork-bake",
+    "title": "Uruguayan Pork Bake",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "latin-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
