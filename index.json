@@ -7341,5 +7341,21 @@
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jvanilla-spiced-ancho-chile-quesadilla",
+    "title": "JVanilla Spiced Ancho Chile Quesadilla",
+    "tags": [
+      "adventurous",
+      "mexican-poblano",
+      "resinous",
+      "springy",
+      "tandoor",
+      "vanilla",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "mexican (poblano)",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
