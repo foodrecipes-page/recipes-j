@@ -1,0 +1,100 @@
+{
+  "title": "juicy show-off jamaican cheese bake",
+  "description": "a show-stopping jamaican dish featuring stilton cheese and a mirepoix base, perfect for a special occasion or dinner party.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "8 ounces",
+      "notes": "crumbly"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the pork and cook until browned, about 5 minutes. Remove the pork from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, allspice, and thyme to the skillet and cook for 1 minute, stirring constantly.",
+    "In a large bowl, combine the cooked pork, cooked vegetables, and Stilton cheese. Mix well to combine.",
+    "Transfer the mixture to a 9x13-inch baking dish and top with chopped green onions and cilantro.",
+    "Bake the cheese bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve the cheese bake hot, garnished with additional chopped green onions and cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "juicy-show-off-jamaican-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-show-off-jamaican-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "stilton cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese",
+    "descriptor": "juicy show-off",
+    "dishForm": "Bake"
+  }
+}
