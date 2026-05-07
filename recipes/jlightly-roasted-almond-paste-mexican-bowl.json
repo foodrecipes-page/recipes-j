@@ -1,0 +1,82 @@
+{
+  "title": "JLightlyRoasted Almond Paste Mexican Bowl",
+  "description": "A light and kid-friendly polish dish featuring roasted almond paste, perfect for a snack or dessert. Halal-friendly.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Paste",
+      "amount": "150g"
+    },
+    {
+      "name": "Agave Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "3/4 tsp"
+    },
+    {
+      "name": "Chopped Fresh Mint Leaves",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°F (95°C).",
+    "Mix almond paste, agave syrup, water, vanilla extract, cayenne pepper, and salt in a bowl until smooth.",
+    "Transfer mixture to a baking sheet lined with parchment paper.",
+    "Bake for about 30 minutes or until golden brown on top.",
+    "Once done, stir in chopped mint leaves if using.",
+    "Serve warm as a snack or dessert accompaniment."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 180,
+  "totalTimeMin": 205,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "kids-friendly",
+    "lightly-roasted",
+    "mexican-dish",
+    "paste-based",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 5
+  },
+  "slug": "jlightly-roasted-almond-paste-mexican-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jlightly-roasted-almond-paste-mexican-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T02:32:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "almond paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "almonds",
+    "descriptor": "JLightlyRoasted",
+    "dishForm": "Bowl"
+  }
+}
