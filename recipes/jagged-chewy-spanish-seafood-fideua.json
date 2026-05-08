@@ -1,0 +1,90 @@
+{
+  "title": "Jagged Chewy Spanish Seafood Fideua",
+  "description": "A charred and chewy Spanish dish featuring seafood and gelatine leafs, perfect for a hangover cure. This pescatarian friendly fideua is made with a unique tadka spice blend.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideua noodles",
+      "amount": "1 cup",
+      "notes": "preferably Spanish imports"
+    },
+    {
+      "name": "gelatine leafs",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the gelatine leafs in cold water for 5 minutes before draining and setting aside.",
+    "Heat the olive oil in a large skillet over medium heat and add the tadka spice blend.",
+    "Add the shrimp, mussels, and clams to the skillet and cook until the seafood is lightly browned.",
+    "Add the fideua noodles to the skillet and stir to combine with the seafood and spice blend.",
+    "Add the smoked paprika and cook for an additional 2 minutes.",
+    "Add the soaked gelatine leafs to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and bake in a preheated oven at 400 degrees for 20 minutes.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fideua",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jagged-chewy-spanish-seafood-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-chewy-spanish-seafood-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:47:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "Jagged Chewy",
+    "dishForm": "Fideua"
+  }
+}
