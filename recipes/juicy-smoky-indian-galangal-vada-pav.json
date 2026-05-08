@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Smoky Indian Galangal Vada Pav",
+  "description": "A smoky and fluffy Indian dish featuring galangal, perfect for a midnight craving, this satvik-friendly vada pav is a must try. It combines the flavors of galangal and spices with a crispy exterior and a soft interior.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "2 large",
+      "notes": "mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and turmeric"
+    },
+    {
+      "name": "bread buns",
+      "amount": "4"
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Grate the galangal and soak it in ice water for 30 minutes to remove excess heat.",
+    "Drain the galangal and mix it with mashed potatoes, chopped onion, minced garlic, and grated ginger.",
+    "Add gram flour, yogurt, and spices to the mixture and mix well.",
+    "Divide the mixture into 4 equal parts and shape each part into a round patty.",
+    "Heat oil in a deep frying pan and fry the patties until they are golden brown and crispy.",
+    "Drain the patties on paper towels and serve them in bread buns.",
+    "Toast the bread buns on a pan or in a toaster before serving.",
+    "Assemble the vada pav by placing a patty in each bread bun and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-street-food",
+    "midnight-cravings",
+    "satvik-recipes",
+    "smoky-flavors",
+    "vegetarian-delights"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-smoky-indian-galangal-vada-pav",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-indian-galangal-vada-pav",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:15:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "galangal-kha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "galangal",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Vada Pav"
+  }
+}
