@@ -1,0 +1,95 @@
+{
+  "title": "Jazzy Garlicky Norwegian Fish Skillet",
+  "description": "A quick and flavorful Norwegian dish featuring garlicky fish, aerated with a hint of Shaoxing wine, served on a lazy-susan-spinner for a fun dining experience. This macrobiotic-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the cod fillets and cook for 2 minutes on each side.",
+    "Add the Shaoxing wine to the skillet and deglaze, scraping up any browned bits.",
+    "Transfer the skillet to the preheated oven and bake for 8 minutes, until the fish is cooked through.",
+    "Remove the skillet from the oven and stir in the lemon juice and parsley.",
+    "Serve the fish and sauce on a lazy-susan-spinner, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-recipes",
+    "macrobiotic-friendly",
+    "norwegian-cuisine",
+    "one-pan",
+    "seafood-lovers",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "jazzy-garlicky-norwegian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-garlicky-norwegian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Jazzy Garlicky",
+    "dishForm": "Skillet"
+  }
+}
