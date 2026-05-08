@@ -1,0 +1,89 @@
+{
+  "title": "Jellylike Earthy Malaysian Gelatin Pudding",
+  "description": "A traditional Malaysian dessert featuring unflavored gelatin and earthy flavors, perfect for a date night, this ayurvedic-tamasic-friendly pudding is both chewy and delicious, with a unique texture that will leave you wanting more.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "use high quality gelatin for best results"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the palm sugar, coconut milk, and 1 3/4 cups of water, and heat over medium heat, stirring until the sugar is dissolved.",
+    "Add the softened gelatin to the saucepan and stir until it is fully dissolved.",
+    "Remove the saucepan from the heat and stir in the pandan extract and grated ginger.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 3 hours, or until set.",
+    "Just before serving, sprinkle the sesame seeds over the top of the pudding.",
+    "Cut the pudding into small cubes and serve chilled.",
+    "Garnish with additional sesame seeds and grated ginger, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "date-night",
+    "gluten-free",
+    "malaysian-dessert",
+    "tamasic",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "jellylike-earthy-malaysian-gelatin-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jellylike-earthy-malaysian-gelatin-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:01:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "gelatin",
+    "descriptor": "Jellylike Earthy",
+    "dishForm": "Pudding"
+  }
+}
