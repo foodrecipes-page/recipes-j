@@ -1,0 +1,108 @@
+{
+  "title": "Jazzy Spanish Tortilla Quesadilla",
+  "description": "A nutty and light Spanish dish featuring tortillas, perfect for a solo dinner, made in an iron teppan with a flexitarian twist",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "4 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "monterey jack"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium heat",
+    "Add olive oil and saute the diced onion until translucent",
+    "Add minced garlic and cook for 1 minute",
+    "Add smoked paprika and cook for 30 seconds",
+    "In a large bowl whisk the eggs and season with salt and pepper",
+    "Pour the egg mixture over the onion mixture in the teppan",
+    "Cook until the eggs start to set",
+    "Place a tortilla in the teppan and sprinkle shredded cheese on half of the tortilla",
+    "Fold the tortilla in half to enclose the cheese",
+    "Cook for 2 minutes and flip the quesadilla",
+    "Cook for an additional 2 minutes and slice into wedges",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-dinner",
+    "flexitarian",
+    "one-pan",
+    "spanish-food",
+    "tortilla-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jazzy-spanish-tortilla-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-spanish-tortilla-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "tortillas",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tortillas",
+    "descriptor": "jazzy nutty",
+    "dishForm": "Quesadilla"
+  }
+}
