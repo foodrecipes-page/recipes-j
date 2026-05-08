@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Solo-Dinner Brazilian Kielbasa Tagine",
+  "description": "A savory and snappy solo-dinner dish featuring Brazilian kielbasa in a low-fat-friendly lacquer-glaze, cooked in a traditional clay tajine vessel.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "one pound Brazilian kielbasa",
+      "amount": "2 pieces",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "one large onion",
+      "amount": "1 piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "two cloves garlic",
+      "amount": "3-4 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "one red bell pepper",
+      "amount": "1 piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "four cups chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "two tablespoons tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "dissolved in two tablespoons water"
+    },
+    {
+      "name": "two tablespoons brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the lacquer glaze"
+    },
+    {
+      "name": "two tablespoons honey",
+      "amount": "1 tablespoon",
+      "notes": "for the lacquer glaze"
+    },
+    {
+      "name": "one teaspoon cumin",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "one teaspoon smoked paprika",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "two tablespoons all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the clay tajine over medium-high heat. Add sliced kielbasa and sear until browned, about 3-4 minutes on each side. Set aside. Add chopped onion to the tajine and cook until softened, about 5 minutes. Add minced garlic and cook for an additional 1 minute. Add chopped red bell pepper and cook for 2 minutes. Stir in dissolved tomato paste and cook for 1 minute. Add chicken broth, brown sugar, honey, cumin, smoked paprika, salt, and pepper. Stir to combine. Return kielbasa to the tajine and simmer for 15 minutes. Mix in flour to thicken the sauce. Brush the lacquer glaze on the kielbasa during the last minute of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian-cuisine",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "juicy-solo-dinner-brazilian-kielbasa-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-solo-dinner-brazilian-kielbasa-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "kielbasa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Juicy Solo-Dinner",
+    "dishForm": "Tagine"
+  }
+}
