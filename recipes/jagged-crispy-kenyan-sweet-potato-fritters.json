@@ -1,0 +1,91 @@
+{
+  "title": "Jagged Crispy Kenyan Sweet Potato Fritters",
+  "description": "Crispy fritters filled with sweet potatoes and spices, deep-fried to perfection, served in individual mini cocottes.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated sweet potatoes, coco sugar, yeast, flour, salt, and black pepper.",
+    "Mix well until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rise in a warm place for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, use a spoon to drop small balls of the dough into the oil, making sure not to overcrowd the pan.",
+    "Fry the fritters until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot in individual mini cocottes.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "crispy",
+    "deep-fried",
+    "gluten-free",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jagged-crispy-kenyan-sweet-potato-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-kenyan-sweet-potato-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "coco sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "jagged crispy",
+    "dishForm": "Fritters"
+  }
+}

@@ -108,6 +108,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-crispy-kenyan-sweet-potato-fritters",
+    "title": "Jagged Crispy Kenyan Sweet Potato Fritters",
+    "tags": [
+      "african",
+      "crispy",
+      "deep-fried",
+      "gluten-free",
+      "sweet-potato",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crispy-mexican-chicken-mole-poblano",
     "title": "Jagged Crispy Mexican Chicken Mole Poblano",
     "tags": [
@@ -6757,6 +6772,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-molten-slovakian-pork-stew",
+    "title": "Juicy Molten Slovakian Pork Stew",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "one-pot",
+      "pork-recipes",
+      "slovakian-cuisine",
+      "slow-cooked"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {

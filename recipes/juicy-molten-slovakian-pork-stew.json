@@ -1,0 +1,110 @@
+{
+  "title": "Juicy Molten Slovakian Pork Stew",
+  "description": "A savory and molten one-pot Slovakian dish featuring pork, miniature marshmallows, and a lacquer glaze, made diabetic friendly, cooked in a fondue pot. This stew is a unique and delicious twist on traditional Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot to 300 degrees Fahrenheit.",
+    "Add the pork shoulder to the fondue pot and cook until browned on all sides.",
+    "Add the chopped onion to the fondue pot and cook until softened.",
+    "Add the minced garlic to the fondue pot and cook for 1 minute.",
+    "Add the chicken broth, carrots, potatoes, paprika, salt, and black pepper to the fondue pot.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to 200 degrees Fahrenheit and simmer for 2 hours.",
+    "Add the miniature marshmallows to the fondue pot and cook for an additional 30 minutes.",
+    "Brush the lacquer glaze over the pork and vegetables.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pot",
+    "pork-recipes",
+    "slovakian-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "juicy-molten-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-molten-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:26:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Molten",
+    "dishForm": "Stew"
+  }
+}
