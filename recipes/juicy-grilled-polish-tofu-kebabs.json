@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Grilled Polish Tofu Kebabs",
+  "description": "A festive Polish dish featuring herbal and creamy flavors with a char-grilled twist, perfect for plant-based diets, this recipe combines the brightness of orange blossom water with the savory depth of traditional Polish cuisine, all on a stick.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, orange blossom water, garlic powder, smoked paprika, salt, and black pepper.",
+    "Add the chopped parsley and dill to the bowl and stir to combine.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tofu onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the tofu is golden brown and slightly charred.",
+    "Remove the skewers from the grill and let them rest for a few minutes before serving.",
+    "Serve the kebabs hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "grilled",
+    "herbal",
+    "kebabs",
+    "orange-blossom",
+    "plant-based",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-polish-tofu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-polish-tofu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "orange blossom water",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Kebabs"
+  }
+}
