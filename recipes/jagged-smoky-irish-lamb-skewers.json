@@ -1,0 +1,93 @@
+{
+  "title": "Jagged Smoky Irish Lamb Skewers",
+  "description": "A smoky and dense Irish dish featuring lamb skewers, perfect for a weeknight dinner, with a hint of rice vinegar and a low-carb friendly profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, rice vinegar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the lamb reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with a side of roasted vegetables or a salad for a low-carb friendly meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled-meat",
+    "irish-food",
+    "low-carb",
+    "smoky-flavors",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "jagged-smoky-irish-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-smoky-irish-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:41:42Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "rice vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Jagged Smoky",
+    "dishForm": "Skewers"
+  }
+}
