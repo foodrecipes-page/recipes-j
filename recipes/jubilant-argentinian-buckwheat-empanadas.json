@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Argentinian Buckwheat Empanadas",
+  "description": "A romantic Argentinian dish featuring buckwheat flour and double-rise bread, perfect for a lazy Sunday evening, this vegetarian-friendly recipe is a floral and creamy delight.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the buckwheat flour, warm water, yeast, salt, and sugar, stirring to form a shaggy dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and roll it out into a large circle, about 1/4 inch thick.",
+    "In a separate bowl, mix the ricotta cheese, melted butter, dried oregano, and beaten egg.",
+    "Spread the cheese mixture evenly over the center of the dough circle, leaving a 1 inch border around the edges.",
+    "Sprinkle the chopped parsley over the cheese mixture.",
+    "Fold the edges of the dough over the filling, forming a triangle or square shape, and press the edges together to seal the empanada.",
+    "Place the empanada on a lazy susan spinner and bake in a preheated oven at 375 degrees for 25 minutes.",
+    "Remove the empanada from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "buckwheat",
+    "empanadas",
+    "lazy-susan",
+    "romantic-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jubilant-argentinian-buckwheat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-argentinian-buckwheat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:10:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Jubilant Creamy",
+    "dishForm": "Empanadas"
+  }
+}
