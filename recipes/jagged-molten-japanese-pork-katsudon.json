@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Molten Japanese Pork Katsudon",
+  "description": "A spicy and molten Japanese dish featuring cranberry juice and dairy-free friendly ingredients, perfect for a hangover cure. This katsudon recipe combines the crispy texture of pork cutlet with a sweet and spicy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlet",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Dredge the pork cutlet in the flour, shaking off excess.",
+    "Add the pork cutlet to the skillet and cook until browned and crispy, about 3-4 minutes per side.",
+    "Transfer the pork cutlet to a plate and set aside.",
+    "In the same skillet, add the cranberry juice, soy sauce, rice vinegar, and Gochujang.",
+    "Bring the sauce to a boil and cook until reduced by half, stirring occasionally.",
+    "Add the puff pastry to the skillet, breaking it up into small pieces as it cooks.",
+    "Continue cooking the pastry until it is golden brown and crispy.",
+    "To assemble the katsudon, place a scoop of steamed rice in a bowl, followed by a piece of the pork cutlet, and finally the molten sauce and pastry.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "hangover-cure",
+    "japanese-cuisine",
+    "pork-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "jagged-molten-japanese-pork-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-molten-japanese-pork-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:39:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cranberry juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Jagged Molten",
+    "dishForm": "Katsudon"
+  }
+}
