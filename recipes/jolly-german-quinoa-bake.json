@@ -1,0 +1,104 @@
+{
+  "title": "Jolly German Quinoa Bake",
+  "description": "A comforting German dish featuring quinoa, perfect for a sick day, with a bitter and pillowy texture. This nut-free-friendly bake is a great option for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bitter kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "german beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "swiss cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, bring the quinoa and water to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "In a large skillet, saute the onion and garlic until softened.",
+    "Add the caraway seeds, bitter kale, salt, and pepper to the skillet and cook until the kale is wilted.",
+    "In a large bowl, combine the cooked quinoa, skillet mixture, and german beer.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with swiss cheese.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pan",
+    "quinoa-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jolly-german-quinoa-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-german-quinoa-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:19:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "quinoa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "quinoa",
+    "descriptor": "jolly pillowy",
+    "dishForm": "Bake"
+  }
+}
