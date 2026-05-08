@@ -3701,6 +3701,21 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-juicy-canadian-bread-stew",
+    "title": "Jovial Juicy Canadian Bread Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "one-pot",
+      "winter-meal"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
     "title": "Jovial Juicy French San Marzano Tomato Gratin",
     "tags": [
