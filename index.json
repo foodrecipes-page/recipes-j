@@ -1247,6 +1247,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-velvety-slovakian-pork-pie",
+    "title": "Slovakian Pork Pie",
+    "tags": [
+      "comfort-food",
+      "european",
+      "high-protein",
+      "meat-pie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-wholesome-tacos-taco-shells",
     "title": "Jammy Wholesome Tacos Taco Shells",
     "tags": [
@@ -9488,6 +9503,20 @@
     ],
     "cuisine": "polish",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-russian-blackberry-cobbler",
+    "title": "Juicy Sweet Russian Blackberry Cobbler",
+    "tags": [
+      "fruit-based",
+      "kosher-friendly",
+      "lazy-sunday",
+      "one-pan",
+      "traditional-russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Sweet Russian Blackberry Cobbler",
+  "description": "Rich and snappy Russian dessert featuring blackberries, cooked to perfection in ttukbaegi earthenware, kosher friendly",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the blackberries and sugar.",
+    "In a separate bowl, whisk together the flour, baking powder, and salt.",
+    "Add the melted butter, eggs, and vanilla extract to the dry ingredients and mix until just combined.",
+    "Pour the blackberry mixture into a ttukbaegi earthenware dish.",
+    "Drop the batter by spoonfuls onto the blackberry mixture.",
+    "Bake for 40 minutes, or until the cobbler is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fruit-based",
+    "kosher-friendly",
+    "lazy-sunday",
+    "one-pan",
+    "traditional-russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 14
+  },
+  "slug": "juicy-sweet-russian-blackberry-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-russian-blackberry-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:06:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "blackberries",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "blackberries",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Cobbler"
+  }
+}
