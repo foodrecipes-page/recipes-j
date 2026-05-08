@@ -1,0 +1,108 @@
+{
+  "title": "Jagged Crunchy Moroccan Peanuts Tagine",
+  "description": "A charred, crunchy, one-pot Moroccan dish featuring peanuts, cooked to perfection on a yakimono-grill, perfect for a plant-based friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained, rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Toast the peanuts on the grill for 5 minutes, or until fragrant and lightly charred.",
+    "Grill the onion, garlic, and ginger for 3 minutes, or until the onion is translucent.",
+    "Add the cumin, paprika, salt, and black pepper to the grill and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas to the grill and cook for 2 minutes, stirring occasionally.",
+    "Add the toasted peanuts to the grill and stir to combine with the chickpeas and spices.",
+    "Reduce heat to medium-low, about 300 degrees Fahrenheit, and simmer for 10 minutes, stirring occasionally.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Let the tagine rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "moroccan-cuisine",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "jagged-crunchy-moroccan-peanuts-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crunchy-moroccan-peanuts-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:58:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "peanuts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Jagged crunchy",
+    "dishForm": "Tagine"
+  }
+}
