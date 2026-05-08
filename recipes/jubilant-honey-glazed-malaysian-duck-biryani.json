@@ -1,0 +1,113 @@
+{
+  "title": "jubilant honey-glazed malaysian duck biryani",
+  "description": "a festive and flavorful malaysian dish featuring tandoor-cooked duck in a malty, velvety honey glaze, served atop a fragrant basmati rice biryani.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "tandoor clay oven or grill",
+      "amount": "",
+      "notes": "for tandoor-style grilling"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted cashews",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat the tandoor clay oven or grill to 400°f.",
+    "season the duck breast with salt and black pepper.",
+    "brush the honey mixture onto the duck breast and cook in the tandoor clay oven or grill for 10-12 minutes, or until the internal temperature reaches 165°f.",
+    "meanwhile, cook the basmati rice according to package instructions.",
+    "in a large skillet, heat the vegetable oil over medium heat.",
+    "add the ginger paste and lemongrass paste and cook for 1 minute.",
+    "add the chicken broth and bring to a simmer.",
+    "reduce the heat to low and cook for 5-7 minutes, or until the liquid has been absorbed.",
+    "fluff the cooked basmati rice with a fork and stir in the chopped scallions, toasted cashews, and salt.",
+    "to assemble the biryani, place a scoop of the basmati rice mixture in a bowl, top with a piece of the duck breast, and serve immediately.",
+    "garnish with additional chopped scallions and toasted cashews if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "duck-biryani",
+    "glazed-meat",
+    "high-protein",
+    "indian-inspired",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "jubilant-honey-glazed-malaysian-duck-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-honey-glazed-malaysian-duck-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:25:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "honey",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Duck",
+    "descriptor": "Jubilant Honey-Glazed",
+    "dishForm": "Biryani"
+  }
+}
