@@ -1,0 +1,95 @@
+{
+  "title": "Justifiably Juicy Malaysian Tofu Curry",
+  "description": "Savory and comforting Malaysian dish featuring crispy double-fry tofu in a rich and creamy curry sauce, made with soda water for added depth of flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double-fry the tofu by frying it until golden brown, then letting it cool and frying it again until crispy.",
+    "In a separate pan, mix the curry powder and garam masala and heat over low heat for 1 minute.",
+    "Add the soda water to the spice mixture and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Add the double-fry tofu to the curry sauce and simmer for 10 minutes.",
+    "Mix the potato starch with a small amount of water to make a slurry, then add it to the curry sauce and stir to combine.",
+    "Season the curry with salt to taste.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "curry-dishes",
+    "malaysian-cuisine",
+    "one-pot",
+    "plant-based",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "justifiably-juicy-malaysian-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/justifiably-juicy-malaysian-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "soda water",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Justifiably juicy",
+    "dishForm": "Curry"
+  }
+}
