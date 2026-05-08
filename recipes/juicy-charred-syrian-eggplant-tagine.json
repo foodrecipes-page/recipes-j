@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Charred Syrian Eggplant Tagine",
+  "description": "A lacto-vegetarian friendly Syrian dish featuring charred eggplant, golden syrup, and bonito shave, perfect for a date night.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "preferably Italian or Japanese"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplants in half lengthwise and score the flesh in a crisscross pattern.",
+    "Brush the eggplants with olive oil and season with salt and black pepper.",
+    "Place the eggplants on a baking sheet and roast for 30 minutes or until charred.",
+    "Remove the eggplants from the oven and let them cool.",
+    "Scoop out the flesh of the eggplants and chop it into small pieces.",
+    "In a large skillet, heat some olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the chopped eggplant, golden syrup, bonito flakes, salt, and black pepper to the skillet and stir well.",
+    "Reduce heat to low and simmer the mixture for 10 minutes or until the flavors have melded together.",
+    "Stir in the yogurt and lemon juice.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "syrian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-charred-syrian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-charred-syrian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:43:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "golden syrup",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Juicy Charred",
+    "dishForm": "Tagine"
+  }
+}
