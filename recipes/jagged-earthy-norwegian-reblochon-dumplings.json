@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Earthy Norwegian Reblochon Dumplings",
+  "description": "A light and earthy Norwegian dish featuring reblochon cheese, these dumplings are paleo-friendly and have a shattering texture, with a mix of earthy mushrooms and fresh herbs. They are perfect for a dinner or lunch option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "earthily flavored"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, salt, and black pepper.",
+    "In a separate bowl, mix the crumbled reblochon cheese, chopped parsley, and earthy mushrooms.",
+    "Add the egg to the cheese mixture and mix until well combined.",
+    "Slowly add the dry ingredients to the cheese mixture and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape into dumplings.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Drizzle the coconut oil over the dumplings.",
+    "Bake the dumplings in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "dumplings",
+    "earth-y",
+    "mushroom-based",
+    "norwegian-cuisine",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "jagged-earthy-norwegian-reblochon-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-earthy-norwegian-reblochon-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:52:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "reblochon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Jagged Earthy",
+    "dishForm": "Dumplings"
+  }
+}
