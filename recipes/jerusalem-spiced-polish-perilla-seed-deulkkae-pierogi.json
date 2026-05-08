@@ -1,0 +1,103 @@
+{
+  "title": "Jerusalem-Spiced Polish Perilla-Seed-Deulkkae Pierogi",
+  "description": "A unique, springy Polish dish featuring the distinct flavors of perilla seeds and deulkkae, finished with a smoky Jerusalem spice blend.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla seeds",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Deulkkae",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jerusalem spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water, and knead for 5 minutes to form a dough.",
+    "Divide the dough into 12 equal pieces, and roll each piece into a thin circle.",
+    "Place a tablespoon of roasted deulkkae mixture onto the center of each dough circle, leaving a 1-inch border around the edges.",
+    "Fold the dough over the filling, and press the edges together to seal the pierogi.",
+    "Heat a large skillet over medium heat, and add a tablespoon of vegetable oil.",
+    "When the oil is hot, add a few pierogi to the skillet, and cook for 2-3 minutes on each side, or until golden brown.",
+    "Remove the cooked pierogi from the skillet, and transfer them to a serving plate.",
+    "Repeat the cooking process with the remaining pierogi, and serve hot with a sprinkle of Jerusalem spice blend.",
+    "Garnish with chopped onion and a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deulkkae",
+    "dinner",
+    "perilla-seed",
+    "polish",
+    "spring",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jerusalem-spiced-polish-perilla-seed-deulkkae-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jerusalem-spiced-polish-perilla-seed-deulkkae-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:11:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "perilla-seed-deulkkae",
+    "descriptor": "Jerusalem-spiced",
+    "dishForm": "Pierogi"
+  }
+}
