@@ -1,0 +1,100 @@
+{
+  "title": "Jiggly Fried Galician Eggs Fritters",
+  "description": "A traditional Galician breakfast dish featuring earthy, fried egg rolls. These Galician fritters are perfect for hangover cures due to their rich, savory flavor and satisfying crunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix eggs in a large bowl and season with salt and black pepper.",
+    "In a separate bowl, combine flour and bread crumbs.",
+    "Add the dry mixture to the eggs and mix until just combined.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the egg mixture into the skillet.",
+    "Use a spatula to shape the egg mixture into a round and flat shape.",
+    "Cook the fritters for 2-3 minutes on each side, until golden brown and cooked through.",
+    "Transfer the fritters to a paper towel-lined plate to drain excess oil.",
+    "Sprinkle with garlic and parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "galician",
+    "hangover-cure",
+    "spanish",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "jiggly-fried-galician-eggs-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jiggly-fried-galician-eggs-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "egg rolls",
+    "diet": "halal",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Eggs",
+    "descriptor": "Jiggly Fried",
+    "dishForm": "Fritters"
+  }
+}
