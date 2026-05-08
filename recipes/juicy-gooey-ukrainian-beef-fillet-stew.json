@@ -1,0 +1,102 @@
+{
+  "title": "Ukrainian Beef Fillet Stew",
+  "description": "A rich and savory stew featuring beef fillet, perfect for a solo dinner, with a winey and gooey texture, dairy-free friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef fillet cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom.",
+    "Add the beef broth, tomato paste, paprika, salt, and black pepper to the pot and stir to combine.",
+    "Return the beef to the pot and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "dairy-free",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "juicy-gooey-ukrainian-beef-fillet-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-gooey-ukrainian-beef-fillet-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "beef fillet",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Juicy gooey",
+    "dishForm": "Stew"
+  }
+}
