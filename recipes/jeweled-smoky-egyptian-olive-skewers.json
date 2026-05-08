@@ -1,0 +1,101 @@
+{
+  "title": "Jeweled Smoky Egyptian Olive Skewers",
+  "description": "Rich and crunchy Egyptian dish featuring castelvetrano olives, smoke cold, and whole30 friendly ingredients, perfect for a special occasion or gathering",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "castelvetrano olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes before starting to prepare the dish.",
+    "In a large bowl, whisk together smoked paprika, garlic, lemon juice, olive oil, salt, and black pepper to make the marinade.",
+    "Add the pitted castelvetrano olives to the marinade and toss to coat.",
+    "Thread 2-3 olives onto each bamboo skewer, leaving a small space between each olive.",
+    "Heat a large wok over medium-high heat and add a small amount of olive oil to the pan.",
+    "Add the skewers to the wok and cook for 2-3 minutes on each side, or until the olives are slightly charred.",
+    "Remove the skewers from the wok and garnish with chopped fresh parsley.",
+    "Serve the skewers immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "olive-based",
+    "paleo-diet",
+    "quick-snack",
+    "smoky",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "jeweled-smoky-egyptian-olive-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-smoky-egyptian-olive-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:53:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "olives",
+    "descriptor": "Jeweled Smoky",
+    "dishForm": "Skewers"
+  }
+}
