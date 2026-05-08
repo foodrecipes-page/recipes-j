@@ -1,0 +1,110 @@
+{
+  "title": "Jazzy Cheese Canadian Cheese Pizza",
+  "description": "A festive Canadian dish featuring pico de gallo sauce, perfect for a wood-fired bake. This recipe is halal-friendly and has a beautiful briny, cheese-pull.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal",
+    "canadian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pizza dough",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pico de gallo sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "6 slices",
+      "notes": "Canadian bacon or regular bacon."
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz",
+      "notes": "Extra creamy for the best cheese-pull."
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "8 oz",
+      "notes": "Tasty and melty."
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "The star of the show!"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tsp",
+      "notes": "For a tangy twist."
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 450°F (230°C).",
+    "Roll out the pizza dough to a thickness of about 1/4 inch.",
+    "Spread the pico de gallo sauce evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the bacon bits, cottage cheese, cheddar cheese, and mozzarella cheese over the sauce.",
+    "Season with sea salt and black pepper to taste.",
+    "Drizzle the lemon juice over the cheese for an extra burst of flavor.",
+    "Transfer the pizza to the preheated oven and cook for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pizza from the oven and sprinkle with chopped cilantro for garnish.",
+    "Let the pizza cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "canadian",
+    "cheese-pull",
+    "halal",
+    "pacific-northwest",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 45,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "jazzy-cheese-canadian-cheese-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-cheese-canadian-cheese-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "jazzy cheese",
+    "dishForm": "pizza"
+  }
+}

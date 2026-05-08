@@ -982,6 +982,22 @@
     "shard": "j"
   },
   {
+    "slug": "jarring-miso-portuguese-burrata-fondue",
+    "title": "Jarring Miso Portuguese Burrata Fondue",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "portuguese-food",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jasmine-green-salsa-baked-dish",
     "title": "Jasmine Green Salsa Baked Dish",
     "tags": [
@@ -1186,6 +1202,21 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-cheese-canadian-cheese-pizza",
+    "title": "Jazzy Cheese Canadian Cheese Pizza",
+    "tags": [
+      "briny",
+      "canadian",
+      "cheese-pull",
+      "halal",
+      "pacific-northwest",
+      "wood-fired"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -6569,6 +6600,23 @@
     ],
     "cuisine": "roman italian",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoked-russian-beef-skewers",
+    "title": "Juicy Smoked Russian Beef Skewers",
+    "tags": [
+      "beef",
+      "high-protein",
+      "nut-free",
+      "robata-grill",
+      "russian",
+      "skewers",
+      "smoked",
+      "special-occasion"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {

@@ -1,0 +1,126 @@
+{
+  "title": "Juicy Smoked Russian Beef Skewers",
+  "description": "A show-off dish featuring red-curry-paste, peppery beef, and a nut-free-friendly robata-grill. This recipe is best served as a main course for a special occasion.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Smoking chips (such as alder or beechwood)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt or sour cream (optional)",
+      "amount": "100g",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 190°C (375°F).",
+    "Soak the wooden skewers in water for at least 30 minutes.",
+    "In a large bowl, mix together the beef strips, red curry paste, garlic powder, paprika, Korean chili flakes, black pepper, and salt.",
+    "Thread the beef mixture onto the prepared skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on the preheated robata-grill.",
+    "Close the grill lid and smoke the skewers for 2 hours, or until the beef is cooked to your liking.",
+    "During the last 10 minutes of cooking, brush the skewers with lime juice and sprinkle with chopped cilantro.",
+    "Remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve the skewers hot with yogurt or sour cream on the side (if using).",
+    "Discard any remaining smoking chips and clean the grill before using it again.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "high-protein",
+    "nut-free",
+    "robata-grill",
+    "russian",
+    "skewers",
+    "smoked",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 864,
+    "protein": 72,
+    "carbs": 4,
+    "fat": 64
+  },
+  "slug": "juicy-smoked-russian-beef-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoked-russian-beef-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:50:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Beef",
+    "descriptor": "Juicy Smoked",
+    "dishForm": "Skewers"
+  }
+}
