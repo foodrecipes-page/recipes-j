@@ -1742,6 +1742,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-jamaican-chicken-bowl",
+    "title": "Jazzy Jamaican Chicken Bowl",
+    "tags": [
+      "chicken-recipes",
+      "double-fry",
+      "gluten-free",
+      "jamaican-cuisine",
+      "spicy-food",
+      "stone-bowl"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-juicy-argentinian-tamarind-stew",
     "title": "Jazzy Juicy Argentinian Tamarind Stew",
     "tags": [
