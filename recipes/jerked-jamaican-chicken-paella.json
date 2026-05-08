@@ -1,0 +1,103 @@
+{
+  "title": "Jerked Jamaican Chicken Paella",
+  "description": "A low-glycemic, earthy, and velvety Jamaican dish featuring chicken and spices, cooked to perfection in a paella pan with rapeseed oil and lardons-render.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a large paella pan over medium-high heat.",
+    "Add the diced lardons and cook until crispy, then set aside.",
+    "Add the chicken to the paella pan and cook until browned, about 5 minutes.",
+    "Add the jerk seasoning, smoked paprika, salt, and black pepper to the chicken and stir to combine.",
+    "Add the Arborio rice to the paella pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth to the paella pan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the chopped scallions and cooked lardons.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dinner-ideas",
+    "jamaican-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "paella-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jerked-jamaican-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jerked-jamaican-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Jerked earthy",
+    "dishForm": "Paella"
+  }
+}
