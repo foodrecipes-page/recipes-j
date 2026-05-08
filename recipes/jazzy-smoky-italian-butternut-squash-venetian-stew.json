@@ -1,0 +1,104 @@
+{
+  "title": "Jazzy Smoky Italian Butternut Squash Venetian Stew",
+  "description": "Warm and comforting stew from the Venetian region of Italy, featuring roasted butternut squash, smoky confit tomatoes, and aromatic herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut squash (1.5 kg)",
+      "amount": "1",
+      "notes": "peeled, seeded, and cubed"
+    },
+    {
+      "name": "Confit tomatoes (1 can, 28 oz)",
+      "amount": "1",
+      "notes": "preferably San Marzano"
+    },
+    {
+      "name": "Olive oil (60 ml)",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Basil (fresh, 1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thyme (dried, 1 tsp)",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "Black pepper (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Toss the cubed butternut squash with 2 tbsp olive oil, salt, and black pepper on a baking sheet. Roast for 45 minutes, or until tender and lightly caramelized.",
+    "In a large Dutch oven, cook the chopped onion over medium heat until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the can of confit tomatoes, chopped basil, and dried thyme to the Dutch oven. Stir to combine.",
+    "Add the roasted butternut squash to the Dutch oven and stir to combine.",
+    "Reduce heat to low and simmer, uncovered, for 20-25 minutes, or until the flavors have melded together and the stew has reached your desired consistency.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fall-winter",
+    "italian",
+    "one-pan",
+    "stew",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "jazzy-smoky-italian-butternut-squash-venetian-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-italian-butternut-squash-venetian-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:06:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "butternut squash",
+    "diet": "egg-free",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Jazzy Smoky",
+    "dishForm": "Venetian Stew"
+  }
+}
