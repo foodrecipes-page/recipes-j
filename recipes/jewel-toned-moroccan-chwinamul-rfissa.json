@@ -1,0 +1,109 @@
+{
+  "title": "Jewel Toned Moroccan Chwinamul Rfissa",
+  "description": "A cultured and chewy Moroccan dish featuring chwinamul, braised in a flavorful broth, served in a copper mug, low in calories and rich in nutrients, perfect for a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chwinamul",
+      "amount": "1 cup",
+      "notes": "Korean aster leaf"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin and coriander and cook for 1 minute, stirring constantly.",
+    "Add the chwinamul, vegetable broth, lemon juice, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the rfissa in a copper mug, garnished with fresh herbs, if desired.",
+    "Let it cool slightly before serving.",
+    "Serve with crusty bread or over rice, if desired.",
+    "Garnish with a sprinkle of cumin and coriander, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "low-calorie",
+    "moroccan-food",
+    "rfissa",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jewel-toned-moroccan-chwinamul-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-moroccan-chwinamul-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:34:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "chwinamul",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Jewel toned",
+    "dishForm": "Rfissa"
+  }
+}
