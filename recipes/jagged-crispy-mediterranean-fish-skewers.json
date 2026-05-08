@@ -1,0 +1,102 @@
+{
+  "title": "Jagged Crispy Mediterranean Fish Skewers",
+  "description": "A briny and crispy Mediterranean dish featuring Thai fish sauce and a sweet twist, perfect for a monsoon evening, this egg-free friendly recipe is sure to delight.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "egg-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm white fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed candy canes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together Thai fish sauce, lemon juice, and olive oil.",
+    "Add the fish pieces to the bowl and marinate for 15 minutes.",
+    "Thread the marinated fish pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Sprinkle the pomegranate seeds, parsley, crushed candy canes, salt, and pepper over the fish.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 12 minutes, or until cooked through.",
+    "Increase the oven temperature to broil and cook for an additional 2 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-food",
+    "egg-free-recipes",
+    "fish-recipes",
+    "mediterranean-cuisine",
+    "monsoon-meals",
+    "pescatarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "jagged-crispy-mediterranean-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-mediterranean-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:43:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Skewers"
+  }
+}
