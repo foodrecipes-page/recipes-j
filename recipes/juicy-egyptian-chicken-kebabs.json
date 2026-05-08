@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Egyptian Chicken Kebabs",
+  "description": "Quick-fix Egyptian dish featuring chicken, floral notes, and a crunchy graham cracker crust, served in a copper mug. This double-fry KFC style recipe is egg-free friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together graham cracker crumbs, salt, and black pepper.",
+    "Dip each piece of chicken into the graham cracker mixture, coating evenly.",
+    "Double-fry the chicken by first frying at 325 degrees Fahrenheit for 5 minutes, then increasing the temperature to 375 degrees Fahrenheit and frying for an additional 5 minutes.",
+    "In a separate pan, heat 1 tablespoon of vegetable oil over medium heat and saute the chopped onion and minced garlic until softened.",
+    "Add rose water and lemon juice to the pan and stir to combine.",
+    "Add the double-fried chicken to the pan and toss to coat with the floral sauce.",
+    "Serve the chicken kebabs in a copper mug.",
+    "Garnish with additional rose water and lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Gooey",
+    "dishForm": "Kebabs"
+  }
+}
