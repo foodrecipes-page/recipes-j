@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Grilled Greek Morcilla Horiatiki",
+  "description": "A rich and comforting Greek dish featuring morcilla, grilled to perfection and served in a hot pot vessel, sugar free friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Slice the morcilla into 1 inch thick rounds.",
+    "Grill the morcilla for 5 minutes per side, or until nicely charred.",
+    "In a large bowl, combine the diced tomatoes, sliced red onion, and sliced cucumber.",
+    "In a small bowl, whisk together the red wine vinegar and extra virgin olive oil.",
+    "Pour the dressing over the tomato mixture and toss to combine.",
+    "To assemble the horiatiki, place a few slices of the grilled morcilla in the bottom of a hot pot vessel.",
+    "Top the morcilla with a spoonful of the tomato mixture, followed by a sprinkle of crumbly feta cheese and a few kalamata olives.",
+    "Repeat the layers until all ingredients are used, finishing with a layer of cheese and olives on top.",
+    "Serve the horiatiki hot, straight from the hot pot vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "grilled-meat",
+    "mediterranean-diet",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-grilled-greek-morcilla-horiatiki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-greek-morcilla-horiatiki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "morcilla",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "morcilla",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Horiatiki"
+  }
+}
