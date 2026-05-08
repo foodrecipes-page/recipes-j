@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Kenyan Raspberry Braise",
+  "description": "A pungent and crunchy Kenyan dish featuring raspberries in a flavorful braise, perfect for the monsoon season, this recipe is low in calories and rich in nutrients. It combines the sweetness of raspberries with the heartiness of a braise.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the ground cumin, coriander, and turmeric, and stir well.",
+    "Add the raspberries, salt, and black pepper, and stir gently.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir occasionally to prevent the raspberries from sticking to the pan.",
+    "Serve the braise hot, garnished with fresh raspberries and herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "low-calorie",
+    "monsoon-season",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "juicy-kenyan-raspberry-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-kenyan-raspberry-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:08:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "raspberries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "raspberries",
+    "descriptor": "juicy pungent",
+    "dishForm": "Braise"
+  }
+}
