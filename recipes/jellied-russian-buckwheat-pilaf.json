@@ -1,0 +1,110 @@
+{
+  "title": "Jellied Russian Buckwheat Pilaf",
+  "description": "A traditional Russian dish featuring buckwheat, dried fruit, and a tangy nuka-pickle sauce, perfect for a brunch mood.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": "medium grit"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "nuka-pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine buckwheat groats and water; bring to a boil over high heat.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "While buckwheat cooks, melt butter in a small saucepan over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in nuka-pickle juice, honey, apple cider vinegar, and ground ginger; bring to a simmer.",
+    "Cook for 2-3 minutes or until sauce thickens slightly.",
+    "Fluff cooked buckwheat with a fork and stir in chopped dried apricots and cranberries.",
+    "Pour sauce over buckwheat mixture and stir to combine.",
+    "Transfer pilaf to a serving dish and refrigerate for at least 2 hours or overnight.",
+    "To serve, slice into squares and garnish with additional dried fruit, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "brunch",
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "jellied-russian-buckwheat-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jellied-russian-buckwheat-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T19:35:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dried fruit",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Jellied",
+    "dishForm": "Pilaf"
+  }
+}

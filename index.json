@@ -2772,6 +2772,20 @@
     "shard": "j"
   },
   {
+    "slug": "jellied-russian-buckwheat-pilaf",
+    "title": "Jellied Russian Buckwheat Pilaf",
+    "tags": [
+      "anti-inflammatory",
+      "brunch",
+      "comfort-food",
+      "easy-to-make",
+      "gluten-free"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-filled-canadian-cod-chowder",
     "title": "Jelly-Filled Canadian Cod Chowder",
     "tags": [
@@ -6403,6 +6417,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-crisp-greek-haricot-beans-saganaki",
+    "title": "Juicy Crisp Greek Haricot Beans Saganaki",
+    "tags": [
+      "crispy",
+      "greek-cuisine",
+      "grilled",
+      "lazy-sunday",
+      "ovo-vegetarian",
+      "saganaki",
+      "spicy"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-crisp-spanish-chicken-tagine",
     "title": "Juicy Crisp Spanish Chicken Tagine",
     "tags": [
@@ -9134,6 +9164,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-savory-peruvian-sirloin-steak-tips-lomo-saltado",
+    "title": "Juicy Savory Peruvian Sirloin Steak Tips Lomo Saltado",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "peruvian-cuisine",
+      "steak-recipes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {

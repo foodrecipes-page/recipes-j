@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Crisp Greek Haricot Beans Saganaki",
+  "description": "A spicy and crispy Greek dish featuring haricot beans, perfect for a lazy Sunday, this ovo-vegetarian friendly saganaki is a delicious and satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, toss the haricot beans with olive oil, salt, and black pepper until they are evenly coated.",
+    "Add the chopped onion and minced garlic to the bowl and toss until the beans are well combined with the onion and garlic.",
+    "Transfer the bean mixture to a grill-safe skillet or saganaki dish.",
+    "Top the bean mixture with diced tomato and crumbly feta cheese.",
+    "Sprinkle the red pepper flakes over the top of the cheese.",
+    "Place the skillet or saganaki dish on the grill and cook for 10-12 minutes, or until the cheese is melted and the beans are crispy.",
+    "Remove the skillet or saganaki dish from the grill and sprinkle with chopped fresh parsley.",
+    "Serve the Juicy Crisp Greek Haricot Beans Saganaki hot, straight from the grill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "greek-cuisine",
+    "grilled",
+    "lazy-sunday",
+    "ovo-vegetarian",
+    "saganaki",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "juicy-crisp-greek-haricot-beans-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-greek-haricot-beans-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "haricot beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "haricot beans",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Saganaki"
+  }
+}

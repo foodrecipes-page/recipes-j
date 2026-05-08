@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Savory Peruvian Sirloin Steak Tips Lomo Saltado",
+  "description": "A paleo-friendly Peruvian dish featuring sirloin steak tips, inspired by traditional lomo saltado, with umami flavors and a light nostalgic touch",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Add the sirloin steak tips and cook until browned, about 3 minutes",
+    "Remove the steak tips from the skillet and set aside",
+    "Add the sliced onion to the skillet and cook until softened, about 3 minutes",
+    "Add the diced tomato and minced garlic to the skillet and cook for an additional 2 minutes",
+    "In a small bowl, whisk together the soy sauce and vinegar",
+    "Pour the soy sauce mixture over the onion and tomato mixture in the skillet",
+    "Return the steak tips to the skillet and stir to combine with the sauce",
+    "Season with salt and black pepper to taste",
+    "Garnish with chopped parsley and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "peruvian-cuisine",
+    "steak-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "juicy-savory-peruvian-sirloin-steak-tips-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-peruvian-sirloin-steak-tips-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Juicy Savory",
+    "dishForm": "Lomo Saltado"
+  }
+}
