@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Indian White Fish Fillets Pakora",
+  "description": "A sour and crunchy Indian dish featuring white fish fillets in a pakora form, made with bhuna spices and cooked on a tava griddle, suitable for halal diets.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "4 pieces",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the gram flour, bhuna spice mix, and salt.",
+    "Add the lemon juice and water to the bowl and stir until a smooth batter forms.",
+    "Cut the white fish fillets into small pieces and add them to the batter, mixing until they are fully coated.",
+    "Heat the ghee or oil in a large tava griddle over medium heat.",
+    "Using a spoon, drop small amounts of the fish batter onto the griddle and flatten slightly.",
+    "Cook the pakora for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the pakora from the griddle and place them on a paper towel-lined plate to drain excess oil.",
+    "Garnish the pakora with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "halal-recipes",
+    "indian-snacks",
+    "pakora-recipes",
+    "tava-griddle-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "juicy-indian-white-fish-fillets-pakora",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indian-white-fish-fillets-pakora",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "white fish fillets",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "white fish fillets",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Pakora"
+  }
+}

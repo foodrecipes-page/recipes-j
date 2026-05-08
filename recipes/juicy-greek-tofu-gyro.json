@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Greek Tofu Gyro",
+  "description": "A lacto-vegetarian friendly Greek dish featuring yeasty and pillowy pita bread filled with juicy tofu and fish seasoning, served in a gyro form.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into thin strips"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces",
+      "notes": "yeasty and pillowy"
+    },
+    {
+      "name": "Fish seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap the pita bread in foil and warm it in the oven for 5 minutes.",
+    "In a large bowl, whisk together the fish seasoning, lemon juice, and olive oil.",
+    "Add the tofu strips to the bowl and marinate for at least 10 minutes.",
+    "Grill or saute the tofu strips until they are golden brown and crispy.",
+    "Assemble the gyro by spreading a layer of feta cheese on the pita bread, followed by a few strips of tofu, some diced tomato, sliced red onion, and sliced cucumber.",
+    "Drizzle the remaining marinade over the top of the gyro and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy.",
+    "Boil some water and blanch the sliced cucumber for 30 seconds to remove excess moisture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-seasoning",
+    "greek-cuisine",
+    "gyro",
+    "lacto-vegetarian",
+    "pita-bread",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "juicy-greek-tofu-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-greek-tofu-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "boil",
+    "primaryIngredient": "fish seasoning",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "juicy pillowy",
+    "dishForm": "Gyro"
+  }
+}

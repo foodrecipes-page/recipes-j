@@ -8199,6 +8199,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-greek-tofu-gyro",
+    "title": "Juicy Greek Tofu Gyro",
+    "tags": [
+      "fish-seasoning",
+      "greek-cuisine",
+      "gyro",
+      "lacto-vegetarian",
+      "pita-bread",
+      "tofu"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-grilled-british-salmon-wrap",
     "title": "Juicy Grilled British Salmon Wrap",
     "tags": [
@@ -8461,6 +8476,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indian-white-fish-fillets-pakora",
+    "title": "Juicy Indian White Fish Fillets Pakora",
+    "tags": [
+      "fish-recipes",
+      "halal-recipes",
+      "indian-snacks",
+      "pakora-recipes",
+      "tava-griddle-recipes"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
