@@ -4669,6 +4669,20 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-ukrainian-sauerkraut-dumplings",
+    "title": "Jovial Ukrainian Sauerkraut Dumplings",
+    "tags": [
+      "comfort-food",
+      "homemade",
+      "meal-prep",
+      "one-pot",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-umami-australian-chestnut-roast",
     "title": "Jovial Umami Australian Chestnut Roast",
     "tags": [
@@ -8588,6 +8602,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 24,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-herbal-syrian-lamb-burger",
+    "title": "Juicy Herbal Syrian Lamb Burger",
+    "tags": [
+      "copper-pot",
+      "herbal",
+      "lamb-recipes",
+      "middle-eastern",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

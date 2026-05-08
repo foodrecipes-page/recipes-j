@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Herbal Syrian Lamb Burger",
+  "description": "A flavorful Syrian dish featuring lamb burgers seasoned with herbs and spices, served on sesame seed buns, cooked in a copper pot with tadka for added flavor, this halal friendly meal is sure to impress",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "sesame seed buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper pot over medium heat and add tadka oil for cooking",
+    "Add the chopped onion to the copper pot and cook until it is translucent",
+    "Add the ground cumin and coriander to the copper pot and cook for 1 minute",
+    "Add the ground lamb to the copper pot, breaking it up with a spoon as it cooks",
+    "Season the lamb with salt and black pepper to taste",
+    "Stir in the chopped parsley and cook for an additional 2 minutes",
+    "Form the lamb mixture into 4 patties and cook for 4 minutes per side",
+    "Toast the sesame seed buns in the copper pot for 1 minute",
+    "Assemble the burgers with the cooked lamb patties, lemon juice, and any desired toppings",
+    "Serve the burgers immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "herbal",
+    "lamb-recipes",
+    "middle-eastern",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "juicy-herbal-syrian-lamb-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-syrian-lamb-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:58:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Herbal",
+    "dishForm": "Burger"
+  }
+}
