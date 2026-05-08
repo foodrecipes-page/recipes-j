@@ -3766,6 +3766,20 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-briny-german-marzipan-casserole",
+    "title": "Jolly Briny German Marzipan Casserole",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "halal-friendly",
+      "homestyle",
+      "one-pan"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-crunchy-american-popcorn-bowl",
     "title": "Jolly Crunchy American Popcorn Bowl",
     "tags": [
@@ -6522,6 +6536,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crispy-uruguayan-beef-skewers",
+    "title": "Juicy Crispy Uruguayan Beef Skewers",
+    "tags": [
+      "beef",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

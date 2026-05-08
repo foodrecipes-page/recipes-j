@@ -1,0 +1,93 @@
+{
+  "title": "Jolly Briny German Marzipan Casserole",
+  "description": "A traditional German dish featuring marzipan and a pasta water emulsion, perfect for a sick day. This halal friendly recipe is made in a cazuela vessel.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "marzipan",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any shape"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the pasta according to package directions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the cooked pasta, marzipan, sea salt, and black pepper.",
+    "In a small bowl, whisk together the pasta water and a little bit of olive oil to create an emulsion.",
+    "Add the emulsion to the pasta mixture and stir until combined.",
+    "Transfer the mixture to a cazuela vessel and bake for 25 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "halal-friendly",
+    "homestyle",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "jolly-briny-german-marzipan-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-briny-german-marzipan-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:35Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "marzipan",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "marzipan",
+    "descriptor": "Jolly Briny",
+    "dishForm": "Casserole"
+  }
+}

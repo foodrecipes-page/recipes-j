@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Crispy Uruguayan Beef Skewers",
+  "description": "A funky and crispy Uruguayan dish featuring balsamic vinegar and score-fat, perfect for a date night, and friendly to egg-free diets.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "scored with fat for extra flavor"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the beef strips onto the skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together the balsamic vinegar, olive oil, garlic powder, salt, black pepper, paprika, and onion powder.",
+    "Brush the mixture onto both sides of the beef strips.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to the desired level of doneness.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-crispy-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "juicy crispy",
+    "dishForm": "Skewers"
+  }
+}
