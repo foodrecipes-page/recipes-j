@@ -1,0 +1,93 @@
+{
+  "title": "Jelly Glazed Dutch Chicken Skewers",
+  "description": "A high protein weeknight Dutch dish featuring shaoxing wine and binchotan charcoal, resulting in charred and glassy jelly glazed chicken skewers.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok over high heat with 1 tablespoon of vegetable oil until it starts to smoke.",
+    "Add the chicken to the wok and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil, then add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the shaoxing wine, honey, soy sauce, and rice vinegar to the wok and cook until the sauce thickens and turns into a glassy jelly, about 5 minutes.",
+    "Return the chicken to the wok and toss to coat with the jelly glaze.",
+    "Thread the glazed chicken onto skewers.",
+    "Hold the skewers over the binchotan charcoal to achieve a charred exterior.",
+    "Serve the jelly glazed Dutch chicken skewers hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charcoal-cooked",
+    "dutch-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jelly-glazed-dutch-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-glazed-dutch-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:02:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Jelly glazed",
+    "dishForm": "Skewers"
+  }
+}
