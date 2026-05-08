@@ -1,0 +1,96 @@
+{
+  "title": "Juicy British Sausages Full English Breakfast",
+  "description": "A hearty and adventurous British dish featuring scallions and deep-fried toast, wrapped in a banana leaf. This high-protein friendly meal is perfect for a filling breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "4",
+      "notes": "preferably pork and sage"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap each sausage in a banana leaf and bake for 20 minutes.",
+    "Deep-fry the bread slices in hot oil until golden brown and crispy.",
+    "Fry the chopped scallions and mushrooms in a pan with a little oil until softened.",
+    "Cook the eggs in the same pan to desired doneness.",
+    "Heat the baked beans in a saucepan over low heat.",
+    "Assemble the full English breakfast by placing a sausage, some eggs, mushrooms, scallions, and baked beans on each plate.",
+    "Serve with deep-fried toast on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "banana-leaf",
+    "chewy",
+    "deep-fry",
+    "fatty",
+    "full-english",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "juicy-british-sausages-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-sausages-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:17:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "scallions",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Juicy Chewy",
+    "dishForm": "Full English Breakfast"
+  }
+}
