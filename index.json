@@ -4194,6 +4194,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-bitter-dutch-vegetable-grill",
+    "title": "Juicy Bitter Dutch Vegetable Grill",
+    "tags": [
+      "cozy-dinner",
+      "dutch-cuisine",
+      "grilled-vegetables",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight-meal"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-bitter-thai-tomato-curry",
     "title": "Juicy Bitter Thai Tomato Curry",
     "tags": [

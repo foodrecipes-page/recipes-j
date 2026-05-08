@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Bitter Dutch Vegetable Grill",
+  "description": "A hearty ovo-vegetarian Dutch dish featuring roasted vegetables and birds-eye chillies, perfect for a cozy evening meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Birds-eye chillies",
+      "amount": "4-6",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, toss the Brussels sprouts, red onion, birds-eye chillies, red bell pepper, and zucchini with olive oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Grill the vegetables for about 20 minutes, or until they are tender and lightly charred, flipping them halfway through.",
+    "While the vegetables are grilling, slice the hard-boiled eggs into wedges.",
+    "Once the vegetables are done, remove them from the grill and let them cool for a few minutes.",
+    "To assemble the dish, place the grilled vegetables on a large platter or individual plates, then top with sliced eggs.",
+    "Serve the dish hot, garnished with additional sliced birds-eye chillies if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "dutch-cuisine",
+    "grilled-vegetables",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-bitter-dutch-vegetable-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bitter-dutch-vegetable-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:10:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "juicy bitter",
+    "dishForm": "Grill"
+  }
+}
