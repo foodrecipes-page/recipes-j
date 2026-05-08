@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Crispy Italian Bun Flatbread",
+  "description": "A crispy Italian flatbread filled with a juicy stir-fry, perfect for a midnight craving. This lacto-vegetarian friendly dish is a twist on traditional Ligurian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian bread buns",
+      "amount": "4",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the Italian bread buns in half and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and toast in the oven for 5 minutes.",
+    "In a large skillet, saute the onion, bell pepper, and mushrooms over medium heat until tender.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Spoon the stir-fry mixture over the toasted bread halves.",
+    "Top each bread half with shredded mozzarella cheese.",
+    "Return the bread to the oven and bake until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped fresh basil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "italian",
+    "lacto-vegetarian",
+    "midnight-craving",
+    "snack",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "juicy-crispy-italian-bun-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-italian-bun-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "bun",
+    "diet": "lacto-vegetarian",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bun",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Flatbread"
+  }
+}
