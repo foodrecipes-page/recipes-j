@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Malaysian Lamb Curry",
+  "description": "A peppery and tender Malaysian dish featuring lamb shanks cooked in a clay pot, perfect for a brunch mood. This dish is a dash-friendly recipe that combines the flavors of Malaysia with the comfort of a hearty curry.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pieces",
+      "notes": "about 1 pound each"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the clay pot over medium heat.",
+    "Add the onions and cook until they are softened and lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the lamb shanks and cook until they are browned on all sides.",
+    "Add the coconut milk, salt, and pepper, and stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Serve the curry hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "curry-recipes",
+    "high-protein",
+    "lamb-recipes",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "juicy-malaysian-lamb-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-malaysian-lamb-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:21:25Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "lamb shanks",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy tender",
+    "dishForm": "Curry"
+  }
+}
