@@ -1,0 +1,99 @@
+{
+  "title": "Jubilant Fluffy Uruguayan Rice Fried Rice",
+  "description": "A kid-friendly Uruguayan dish featuring dark chocolate chips and halal-friendly ingredients, this charred and fluffy fried rice is a unique twist on traditional fried rice recipes. It is made with fry-grind-rice-khao-khua and is perfect for a quick snack or meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2"
+    },
+    {
+      "name": "khao khuat",
+      "amount": "1 tablespoon",
+      "notes": "toasted and ground"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the toasted and ground khao khuat, salt, and pepper, and cook for 2-3 minutes, until the rice is well coated.",
+    "Push the rice mixture to one side of the skillet or wok, then add a little more oil if necessary and scramble in the eggs until they are cooked through.",
+    "Mix the eggs into the rice mixture, then stir in the dark chocolate chips.",
+    "Cook for an additional 2 minutes, until the chocolate is melted and the rice is heated through.",
+    "Serve the jubilant fluffy Uruguayan rice fried rice hot, garnished with additional dark chocolate chips if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lovers",
+    "halal-friendly",
+    "kid-friendly",
+    "one-pan",
+    "quick-snack",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "jubilant-fluffy-uruguayan-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-fluffy-uruguayan-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rice",
+    "descriptor": "jubilant fluffy",
+    "dishForm": "Fried-Rice"
+  }
+}
