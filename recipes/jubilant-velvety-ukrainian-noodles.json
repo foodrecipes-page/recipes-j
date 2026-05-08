@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Velvety Ukrainian Noodles",
+  "description": "A tangy and velvety Ukrainian dish featuring noodles, served in a stone bowl and wrapped in a corn husk, perfect for a midnight craving. This flexitarian-friendly dish is a unique and delicious treat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": "8 oz",
+      "notes": "preferably homemade or high quality store bought"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Corn Husks",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the mushrooms until they release their moisture and start to brown.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the paprika, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked noodles, mushroom mixture, and sour cream, and toss until the noodles are well coated.",
+    "Stir in the chopped fresh dill and adjust the seasoning as needed.",
+    "To serve, place a portion of the noodles into a stone bowl, and wrap the bowl in a corn husk, tying with a piece of twine if needed.",
+    "Serve immediately and enjoy.",
+    "To add an extra layer of flavor, serve with a side of toasted bread or crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "one-pot",
+    "snack-ideas",
+    "stone-bowl-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-velvety-ukrainian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-velvety-ukrainian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:12:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "noodles",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "noodles",
+    "descriptor": "jubilant velvety",
+    "dishForm": "Noodles"
+  }
+}

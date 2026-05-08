@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Shaggy Dutch Beef Stew",
+  "description": "A hearty and flavorful Dutch stew featuring tender beef, buttery sauce, and a hint of cider vinegar, made with dashi extract for added depth, this dish is kosher friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pot and melt.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the cider vinegar, dashi extract, beef broth, salt, and pepper to the pot and stir to combine.",
+    "Return the browned beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stew",
+    "kosher-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "juicy-shaggy-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-shaggy-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:12:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cider vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "juicy shaggy",
+    "dishForm": "Stew"
+  }
+}

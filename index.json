@@ -4187,6 +4187,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-velvety-ukrainian-noodles",
+    "title": "Jubilant Velvety Ukrainian Noodles",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "one-pot",
+      "snack-ideas",
+      "stone-bowl-recipes",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-venezuelan-bread-stew",
     "title": "Jubilant Venezuelan Bread Stew",
     "tags": [
@@ -7075,6 +7090,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-shaggy-dutch-beef-stew",
+    "title": "Juicy Shaggy Dutch Beef Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "hearty-stew",
+      "kosher-friendly",
+      "one-pot"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
