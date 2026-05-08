@@ -5366,6 +5366,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-tender-mexican-beef-birria",
+    "title": "Jubilant Tender Mexican Beef Birria",
+    "tags": [
+      "beef-recipes",
+      "curry-based",
+      "festive-dishes",
+      "mexican-cuisine",
+      "slow-cooked"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-tunisian-parma-ham-flatbread",
     "title": "Jubilant Tunisian Parma Ham Flatbread",
     "tags": [
