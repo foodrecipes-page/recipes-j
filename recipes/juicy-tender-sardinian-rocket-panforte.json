@@ -1,0 +1,93 @@
+{
+  "title": "Sardinian Rocket Panforte",
+  "description": "A salty and tender Sardinian dish featuring rocket, served in a bamboo tray, perfect for a brunch mood. This halal-friendly panforte is made with stone-bowl-dolsot cooked ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocket leaves",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone-bowl-dolsot to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the rocket leaves to the bowl and toss to coat with the dressing.",
+    "Transfer the rocket mixture to the preheated stone-bowl-dolsot and cook for 10 minutes.",
+    "While the rocket is cooking, prepare the bamboo tray by lining it with parchment paper.",
+    "Remove the rocket from the stone-bowl-dolsot and transfer it to the bamboo tray.",
+    "Top the rocket with shaved Grana padano cheese and chopped pistachios.",
+    "Serve the Sardinian Rocket Panforte hot, straight from the bamboo tray."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "brunch-recipe",
+    "halal-friendly",
+    "italian-cuisine",
+    "sardinian-recipe",
+    "stone-bowl-dolsot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "juicy-tender-sardinian-rocket-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-sardinian-rocket-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:54:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rocket",
+    "diet": "halal",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "rocket",
+    "descriptor": "Juicy Tender",
+    "dishForm": "Panforte"
+  }
+}
