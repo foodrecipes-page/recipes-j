@@ -1,0 +1,97 @@
+{
+  "title": "Jubilant French Ground Pork Casseroles",
+  "description": "A hearty French dish featuring ground pork and kombu cold extract, perfect for a post-workout meal, this casserole is high in protein and cooked to perfection in a Dutch oven.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the kombu cold extract, tomato paste, and chicken broth, and bring the mixture to a simmer.",
+    "In a large bowl, combine the cooked quinoa, shredded cheese, and the pork and mushroom mixture.",
+    "Transfer the mixture to a Dutch oven and cover with a lid.",
+    "Bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jubilant-french-ground-pork-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-french-ground-pork-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ground pork",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "ground pork",
+    "descriptor": "Jubilant Hearty",
+    "dishForm": "Casseroles"
+  }
+}
