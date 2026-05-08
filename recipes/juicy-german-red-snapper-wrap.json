@@ -1,0 +1,101 @@
+{
+  "title": "Juicy German Red Snapper Wrap",
+  "description": "A savory and springy German dish featuring red snapper, shio-cure, and Mediterranean-friendly flavors, wrapped in a corn husk.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "shio cure mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large husks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio cure mix, salt, black pepper, garlic powder, and paprika.",
+    "Place the red snapper fillets on a flat surface and sprinkle the shio cure mix evenly over both sides of the fillets.",
+    "Drizzle the olive oil over the fillets, making sure they are well coated.",
+    "Squeeze the lemon juice over the fillets, then sprinkle the chopped parsley over the top.",
+    "Wrap each fillet in a corn husk, making sure to seal the edges tightly.",
+    "Place the wrapped fillets on a baking sheet and bake for 12 minutes.",
+    "Remove the fillets from the oven and let them rest for 2 minutes before serving.",
+    "Serve the fillets hot, still wrapped in the corn husks."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk-recipes",
+    "german-cuisine",
+    "lazy-sunday",
+    "mediterranean-inspired",
+    "seafood",
+    "shio-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "juicy-german-red-snapper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-german-red-snapper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "red snapper",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "red snapper",
+    "descriptor": "juicy shio cured",
+    "dishForm": "Wrap"
+  }
+}
