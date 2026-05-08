@@ -1,0 +1,95 @@
+{
+  "title": "Jubilant Juicy Indian Lamb Biryani",
+  "description": "A salty, cheesy, and aromatic Kashmiri dish featuring ground nutmeg, this lamb biryani is perfect for a monsoon evening. It is a kosher-friendly recipe that serves 6 people.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and soaked for 30 minutes"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee in a large pan over medium heat and saute the chopped onion until it is translucent.",
+    "Add the ground lamb to the pan and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the ground nutmeg, salt, and black pepper to the pan and stir to combine.",
+    "In a large bowl, combine the soaked and drained basmati rice, the cooked lamb mixture, and the shredded mozzarella cheese, and mix well.",
+    "In a large saucepan, combine 4 cups of water and 1 tablespoon of ghee, and bring to a boil.",
+    "Add the rice and lamb mixture to the saucepan, cover, and reduce the heat to low.",
+    "Simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Turn off the heat and let the biryani rest, covered, for 5 minutes.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "kosher-friendly",
+    "lamb-recipes",
+    "monsoon-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "jubilant-juicy-indian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-juicy-indian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "kosher",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Jubilant Juicy",
+    "dishForm": "Biryani"
+  }
+}
