@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Turkish Portobello Mushrooms Adana Kebap",
+  "description": "A flavorful and crunchy Turkish dish featuring pecorino and plant-based friendly ingredients, served in a lazy susan spinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced mushrooms to the bowl and toss to coat with the marinade.",
+    "Let the mushrooms marinate for at least 30 minutes.",
+    "Thread the marinated mushrooms onto skewers, if using.",
+    "Grill the mushrooms for 3-4 minutes per side, or until they are tender and slightly charred.",
+    "Transfer the grilled mushrooms to a serving platter or lazy susan spinner.",
+    "Sprinkle the crumbled pecorino cheese over the top of the mushrooms.",
+    "Garnish with chopped fresh parsley and dill.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebap-style",
+    "lazy-susan-spinner",
+    "plant-based",
+    "portobello-mushrooms",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-turkish-portobello-mushrooms-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-portobello-mushrooms-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:24:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "pecorino",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Adana Kebap"
+  }
+}
