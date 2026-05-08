@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Spicy Tunisian Chicken Tagine",
+  "description": "A spicy and pillowy Tunisian dish featuring chicken cooked in a flavorful sauce with custard powder, perfect for a quick-fix dinner. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, smoked paprika, and cayenne pepper to the skillet and cook for 1 minute.",
+    "Stir in the custard powder and cook for 1 minute.",
+    "Add the chicken broth, diced tomatoes, salt, and black pepper to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Serve the chicken and sauce over couscous or rice.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "one-pot-meal",
+    "quick-dinner",
+    "spicy-food",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "juicy-spicy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:53:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "custard powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Tagine"
+  }
+}
