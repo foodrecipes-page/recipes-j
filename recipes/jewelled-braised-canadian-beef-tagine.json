@@ -1,0 +1,124 @@
+{
+  "title": "Jewelled Braised Canadian Beef Tagine",
+  "description": "A rich, slow-cooked beef tagine recipe featuring tender chunks of Canadian beef, creme fraiche, and sweet, dried fruits. Perfect for a cold winter's night.",
+  "cuisine": "canadian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef chuck",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "Stir in at the end"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the bottom of the ceramic tagine over medium-high heat.",
+    "Brown the beef cubes in batches until browned all over, about 5 minutes. Remove from the tagine and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the tagine, then add the ground ginger and ground cinnamon.",
+    "Cook for 1 minute, until fragrant.",
+    "Add the beef broth, honey, and apple cider vinegar to the tagine.",
+    "Bring the mixture to a boil, then cover the tagine and transfer it to the preheated oven.",
+    "Braise the beef in the oven for 2 1/2 hours, or until tender and falling apart.",
+    "Add the browned beef back to the tagine, along with the dried cranberries and dried apricots.",
+    "Return the tagine to the oven and braise for an additional 30 minutes.",
+    "Stir in the creme fraiche and cook for an additional 5 minutes, until heated through.",
+    "Season with kosher salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised-beef",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "special-occasion",
+    "weeknight",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 40,
+    "fat": 52
+  },
+  "slug": "jewelled-braised-canadian-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-braised-canadian-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:18:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "creme fraiche",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Jewelled Braised",
+    "dishForm": "Tagine"
+  }
+}
