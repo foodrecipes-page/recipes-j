@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Grilled Malaysian Sausages Skewers",
+  "description": "A cultured and crumbly Malaysian dish featuring sausages with a yuzu-cure, perfect for a date night, with Mediterranean-friendly flavors. This recipe combines the spices of Malaysia with the brightness of yuzu for a unique taste experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malaysian sausages",
+      "amount": "12 sausages",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, olive oil, garlic, ginger, lemon zest, salt, and black pepper.",
+    "Add the Malaysian sausages to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated sausages onto skewers, leaving a small space between each sausage.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the sausages are cooked through.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Serve with a side of quinoa or roasted vegetables for a complete meal.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat cooked sausages in the microwave or oven until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "malaysian",
+    "mediterranean-friendly",
+    "sausages",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-malaysian-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-malaysian-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:18:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sausages",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausages",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Skewers"
+  }
+}

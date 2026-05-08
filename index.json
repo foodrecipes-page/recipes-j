@@ -4952,6 +4952,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-syrian-lentil-wrap",
+    "title": "Jubilant Syrian Lentil Wrap",
+    "tags": [
+      "hangover-cure",
+      "lentil-recipes",
+      "mason-jar-meals",
+      "syrian-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-syrian-rhubarb-soup",
     "title": "Jubilant Syrian Rhubarb Soup",
     "tags": [
@@ -7040,6 +7054,21 @@
       "satvik-friendly"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-grilled-malaysian-sausages-skewers",
+    "title": "Juicy Grilled Malaysian Sausages Skewers",
+    "tags": [
+      "date-night",
+      "grilled",
+      "malaysian",
+      "mediterranean-friendly",
+      "sausages",
+      "yuzu"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 32,
     "shard": "j"
   },
