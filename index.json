@@ -2525,6 +2525,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-spicy-mexican-chicken-tacos",
+    "title": "Jazzy Spicy Mexican Chicken Tacos",
+    "tags": [
+      "chicken",
+      "mexican",
+      "pressure-cooker",
+      "spicy",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-sweet-saudi-arabian-milk-bake",
     "title": "Jazzy Sweet Saudi-Arabian Milk Bake",
     "tags": [
@@ -7322,6 +7337,21 @@
       "yuzu"
     ],
     "cuisine": "Malaysian",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-grilled-venezuelan-chicken-skewers",
+    "title": "Juicy Grilled Venezuelan Chicken Skewers",
+    "tags": [
+      "banana-leaf",
+      "flambe",
+      "fodmap-friendly",
+      "grilled-chicken",
+      "nutty-flavor",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 32,
     "shard": "j"
   },

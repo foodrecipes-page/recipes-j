@@ -1,0 +1,105 @@
+{
+  "title": "Jazzy Spicy Mexican Chicken Tacos",
+  "description": "A crowd-pleasing Mexican dish featuring chicken cooked in a spicy tomato sauce with a hint of dijon mustard, served in tacos with fresh toppings, this Veracruzan-inspired recipe is a bitter and snappy twist on traditional tacos. It's a pressure-cook and dash-friendly recipe perfect for weeknights.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced avocado",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the chicken to the pressure cooker and cook until it's browned on all sides, about 5 minutes.",
+    "Add the diced tomatoes, dijon mustard, and taco seasoning to the pressure cooker, stirring to combine.",
+    "Close the lid of the pressure cooker and set the valve to sealing, then cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Shred the chicken with two forks and stir to combine with the sauce.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with shredded lettuce, diced avocado, and any other desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "pressure-cooker",
+    "spicy",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jazzy-spicy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-spicy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dijon mustard",
+    "diet": "dash",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Jazzy Spicy",
+    "dishForm": "Tacos"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Grilled Venezuelan Chicken Skewers",
+  "description": "A flavorful and light Venezuelan dish featuring chicken skewers grilled to perfection in a banana leaf vessel, infused with the aroma of lime leaves and a touch of nutty flavor, all while being FODMAP friendly. This solo dinner dish is sure to delight.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic-infused oil, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread 3-4 pieces of chicken onto each skewer, leaving a small space between each piece.",
+    "Wrap each skewer in a banana leaf, making sure to cover the entire piece of chicken.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "After 8 minutes of cooking, flambe the skewers with a small amount of rum, if desired.",
+    "Remove the skewers from the grill and let rest for 2 minutes before serving.",
+    "Garnish with fresh lime leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "flambe",
+    "fodmap-friendly",
+    "grilled-chicken",
+    "nutty-flavor",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "juicy-grilled-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:22:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "flambe",
+    "primaryIngredient": "lime leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy grilled",
+    "dishForm": "Skewers"
+  }
+}
