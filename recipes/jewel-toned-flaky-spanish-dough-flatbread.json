@@ -1,0 +1,96 @@
+{
+  "title": "Jewel Toned Flaky Spanish Dough Flatbread",
+  "description": "Rich, flaky Catalan flatbread with a long fermentation time, featuring peppercorns and suitable for a Buddhist temple gathering, this dish is perfect for a brunch mood.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms.",
+    "Add olive oil and continue mixing until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment in a cool place for 12 hours.",
+    "Preheat the oven to 400 degrees.",
+    "Punch down the dough and roll it out into a large rectangle, about 1/4 inch thick.",
+    "Sprinkle the coarsely ground black peppercorns and chopped rosemary evenly over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the filling to form a crust, and press the edges to seal.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 25 minutes, until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "flatbread",
+    "long-fermentation",
+    "spanish-cuisine",
+    "vegan-option",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jewel-toned-flaky-spanish-dough-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-flaky-spanish-dough-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:08:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "peppercorns",
+    "diet": "buddhist-temple",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "dough",
+    "descriptor": "Jewel Toned Flaky",
+    "dishForm": "Flatbread"
+  }
+}

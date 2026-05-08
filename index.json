@@ -3210,6 +3210,21 @@
     "shard": "j"
   },
   {
+    "slug": "jewel-toned-flaky-spanish-dough-flatbread",
+    "title": "Jewel Toned Flaky Spanish Dough Flatbread",
+    "tags": [
+      "brunch-recipe",
+      "flatbread",
+      "long-fermentation",
+      "spanish-cuisine",
+      "vegan-option",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jewel-toned-glassy-brazilian-chicken-wrap",
     "title": "Jewel Toned Glassy Brazilian Chicken Wrap",
     "tags": [
@@ -6239,6 +6254,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 29,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crispy-dutch-fish-fritters",
+    "title": "Juicy Crispy Dutch Fish Fritters",
+    "tags": [
+      "banana-leaf",
+      "dutch-cuisine",
+      "fried-food",
+      "kid-friendly",
+      "pescatarian",
+      "seafood"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

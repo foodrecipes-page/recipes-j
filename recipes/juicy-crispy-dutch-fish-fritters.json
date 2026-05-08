@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Crispy Dutch Fish Fritters",
+  "description": "A kid-friendly Dutch dish featuring fish, single cream, and a hint of mustard, wrapped in banana leaves and fried to a crispy golden brown. This pescatarian-friendly snack is perfect for any occasion.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "single cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, single cream, whole milk, Dijon mustard, and eggs to make the batter.",
+    "Add the cut cod pieces to the batter and mix until they are fully coated.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small amounts of the battered cod into the hot oil and fry until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Wrap each fritter in a banana leaf and serve immediately.",
+    "To make the fritters extra crispy, you can fry them twice, once at 325 degrees Fahrenheit and again at 375 degrees Fahrenheit.",
+    "Serve the fritters hot and enjoy.",
+    "If desired, serve with a side of lemon wedges or tartar sauce.",
+    "To store leftovers, wrap the fritters in plastic wrap or aluminum foil and refrigerate for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "dutch-cuisine",
+    "fried-food",
+    "kid-friendly",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-crispy-dutch-fish-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-dutch-fish-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:09:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "single cream",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "juicy crispy",
+    "dishForm": "Fritters"
+  }
+}
