@@ -1,0 +1,94 @@
+{
+  "title": "Jazzy Spanish English Muffins Fideua",
+  "description": "A spicy and springy Spanish dish featuring English muffins, this recipe is a unique twist on traditional fideua, energizing and full of flavor. It is made with a bain-marie and is dash-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "6",
+      "notes": "toasted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Toast the English muffins and cut them into small pieces.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and smoked paprika to the skillet and cook for 1 minute.",
+    "Add the red pepper flakes and salt to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Add the toasted English muffin pieces to the bowl and stir to combine.",
+    "Pour the egg mixture into a baking dish and place the skillet on top.",
+    "Place the baking dish in a larger dish and add hot water to come halfway up the side.",
+    "Bake for 25 minutes or until the eggs are set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "easy-meal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "jazzy-spanish-english-muffins-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-spanish-english-muffins-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "english muffins",
+    "diet": "dash",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "english muffins",
+    "descriptor": "Jazzy Spicy",
+    "dishForm": "Fideua"
+  }
+}
