@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Silky Argentinian Beef Skewers",
+  "description": "A weeknight Argentinian dish featuring redcurrants and a robata grill, this recipe is macrobiotic friendly and full of umami flavor. The silky texture of the beef is achieved with a special marinade.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, soy sauce, honey, and black pepper to make the marinade.",
+    "Add the beef cubes to the marinade and mix well to coat.",
+    "Let the beef marinate for at least 30 minutes.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to 135 degrees Fahrenheit.",
+    "While the beef is cooking, brush the redcurrants with a little olive oil and season with salt.",
+    "Grill the redcurrants for 2-3 minutes, until they start to burst.",
+    "Serve the beef skewers with the grilled redcurrants and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "macrobiotic",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "juicy-silky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:24:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "redcurrants",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "juicy silky",
+    "dishForm": "Skewers"
+  }
+}
