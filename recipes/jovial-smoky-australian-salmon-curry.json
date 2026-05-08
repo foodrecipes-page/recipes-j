@@ -1,0 +1,96 @@
+{
+  "title": "Jovial Smoky Australian Salmon Curry",
+  "description": "A smoky and dense Australian dish featuring salmon, cooked in a tandoor clay pot with a macrobiotic twist, kid friendly and delicious.",
+  "cuisine": "Australian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild caught"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "Season the salmon fillets with smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in the tandoor clay pot and sear the salmon fillets for 2 minutes on each side.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring to a simmer.",
+    "Reduce the heat to 350 degrees Fahrenheit and cook for 10 minutes, covered with a papillote.",
+    "Fluff the brown rice with a fork and serve alongside the salmon curry.",
+    "Drizzle with lemon juice and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "kid-friendly",
+    "macrobiotic",
+    "one-pot",
+    "smoky",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jovial-smoky-australian-salmon-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-smoky-australian-salmon-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:04:54Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "papillote",
+    "primaryIngredient": "salmon",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "salmon",
+    "descriptor": "Jovial Smoky",
+    "dishForm": "Curry"
+  }
+}
