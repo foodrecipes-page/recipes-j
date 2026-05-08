@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Chinese Pork Dumplings",
+  "description": "A traditional Xinjiang dish featuring minced pork and steam cooked to perfection, this recipe is gluten-free friendly and offers a deliciously fermented flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat"
+    },
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "round wonton wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the minced pork, chopped Chinese cabbage, grated ginger, and minced garlic, and mix well until just combined.",
+    "Add the sesame oil, soy sauce, and salt to the pork mixture and mix until the ingredients are evenly distributed.",
+    "Lay a wonton wrapper on a clean surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wonton wrapper.",
+    "Fold the wonton wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wonton wrappers and pork mixture.",
+    "In a large pot with a steamer basket, bring 2 inches of water to a boil over high heat.",
+    "Reduce the heat to medium-low and place the dumplings in the steamer basket, leaving some space between each dumpling.",
+    "Cover the pot with a lid and steam the dumplings for 15 minutes, or until they are cooked through and the wrappers are tender.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dumplings",
+    "gluten-free",
+    "one-pot",
+    "pork-recipes",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "minced pork",
+    "diet": "gluten-free",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "juicy pillowy",
+    "dishForm": "Dumplings"
+  }
+}
