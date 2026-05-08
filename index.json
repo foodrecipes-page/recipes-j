@@ -301,6 +301,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-flaky-mexican-manchego-pozole",
+    "title": "Jagged Flaky Mexican Manchego Pozole",
+    "tags": [
+      "comfort-food",
+      "mexican",
+      "one-pot",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-garlicky-uruguayan-fideo-noodles",
     "title": "Jagged Garlicky Uruguayan Fideo Noodles",
     "tags": [

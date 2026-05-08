@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Flaky Mexican Manchego Pozole",
+  "description": "A briny and flaky Mexican dish featuring Manchego cheese, perfect for a weeknight dinner, with a pescatarian-friendly twist in the form of a hearty pozole.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup shredded",
+      "notes": "preferably aged"
+    },
+    {
+      "name": "hominy",
+      "amount": "2 cups dried",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound peeled and deveined"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the hominy, chicken broth, and dried oregano, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the shredded Manchego cheese and stir until melted.",
+    "Add the peeled and deveined shrimp and cook until pink.",
+    "Season with salt and lime juice to taste.",
+    "Serve hot, garnished with additional Manchego cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican",
+    "one-pot",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jagged-flaky-mexican-manchego-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-flaky-mexican-manchego-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:48:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "lamination-puff",
+    "primaryIngredient": "manchego",
+    "diet": "pescatarian",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "manchego",
+    "descriptor": "Jagged Flaky",
+    "dishForm": "Pozole"
+  }
+}
