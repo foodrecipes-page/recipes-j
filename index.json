@@ -508,6 +508,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-sweet-vietnamese-chicken-wrap",
+    "title": "Jagged Sweet Vietnamese Chicken Wrap",
+    "tags": [
+      "bamboo-tray",
+      "high-protein",
+      "lazy-sunday",
+      "ssam-wrap",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-tangy-portuguese-chicken-skewers",
     "title": "Jagged Tangy Portuguese Chicken Skewers",
     "tags": [
@@ -9073,6 +9087,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 13,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-vietnamese-pancetta-noodles",
+    "title": "Juicy Vietnamese Pancetta Noodles",
+    "tags": [
+      "brunch-recipe",
+      "noodle-dish",
+      "pancetta-recipe",
+      "pescatarian-friendly",
+      "vietnamese-cuisine",
+      "yeasty-flavors"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

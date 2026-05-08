@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Vietnamese Pancetta Noodles",
+  "description": "A yeasty and velvety Vietnamese dish featuring pancetta, perfect for a brunch mood, this pescatarian-friendly recipe combines the savory flavors of pancetta with the freshness of Vietnamese ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the rice noodles for 3-5 minutes, then drain and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat and cook the diced pancetta until crispy, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional minute, stirring constantly.",
+    "In a small bowl, whisk together the fish sauce and lime juice, then pour the mixture over the pancetta and garlic in the skillet.",
+    "Add the chopped scallions to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked noodles, pancetta mixture, and yeast, tossing to coat the noodles evenly.",
+    "Season the noodle mixture with salt and pepper to taste, then serve immediately.",
+    "Garnish with additional chopped scallions and a wedge of lime, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "noodle-dish",
+    "pancetta-recipe",
+    "pescatarian-friendly",
+    "vietnamese-cuisine",
+    "yeasty-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "juicy-vietnamese-pancetta-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-vietnamese-pancetta-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "pancetta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pancetta",
+    "descriptor": "juicy velvety",
+    "dishForm": "Noodles"
+  }
+}

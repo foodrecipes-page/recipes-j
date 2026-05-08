@@ -1,0 +1,95 @@
+{
+  "title": "Jagged Sweet Vietnamese Chicken Wrap",
+  "description": "A peppery and shattering Vietnamese dish featuring sugar and ssam-wrap, perfect for a lazy Sunday, served on a bamboo tray.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sugar, fish sauce, and lime juice.",
+    "Add the chicken to the bowl and marinate for 10 minutes.",
+    "Grill the chicken for 5 minutes per side, or until cooked through.",
+    " Warm the ssam wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing the chicken on the ssam wrap, followed by pickled carrots, cucumber, and mint leaves.",
+    "Season with pepper to taste.",
+    "Serve immediately on a bamboo tray."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "high-protein",
+    "lazy-sunday",
+    "ssam-wrap",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jagged-sweet-vietnamese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-sweet-vietnamese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "jagged sweet",
+    "dishForm": "Wrap"
+  }
+}
