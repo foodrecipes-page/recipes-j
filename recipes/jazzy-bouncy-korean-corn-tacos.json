@@ -1,0 +1,88 @@
+{
+  "title": "Jazzy Bouncy Korean Corn Tacos",
+  "description": "A pungent and bouncy post-workout Korean dish featuring corn arepa filled with mozzarella cheese, infused with ayurvedic-tamasic friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with Korean chili flakes"
+    },
+    {
+      "name": "ayurvedic tamasic spices",
+      "amount": "1 tsp",
+      "notes": "including cumin and coriander"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, mix together cornmeal, salt, and ayurvedic tamasic spices.",
+    "Gradually add warm water to the bowl, stirring with a fork until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 4-6 equal pieces, depending on desired arepa size.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat the infused oil in the preheated skillet and cook the arepas for 4-5 minutes on each side, until crispy and golden.",
+    "Once the arepas are cooked, fill them with shredded mozzarella cheese and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "korean-fusion",
+    "post-workout",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jazzy-bouncy-korean-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-bouncy-korean-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:17:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "infuse-oil",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "corn",
+    "descriptor": "jazzy bouncy",
+    "dishForm": "Tacos"
+  }
+}
