@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Crunchy Italian Vegetable Salad",
+  "description": "A refreshing Italian salad featuring marinated vegetables, perfect for a light lunch or dinner. This dish is macrobiotic-friendly and showcases the flavors of Italy.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced zucchini, bell peppers, cherry tomatoes, and red onion.",
+    "In a small bowl, whisk together olive oil, apple cider vinegar, salt, and black pepper to make the marinade.",
+    "Pour the marinade over the vegetables and toss to coat.",
+    "Let the vegetables marinate in the refrigerator for at least 30 minutes.",
+    "Just before serving, stir in chopped fresh basil.",
+    "Serve the salad chilled, garnished with additional basil if desired.",
+    "This salad can be made ahead of time and stored in the refrigerator for up to 24 hours.",
+    "Before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad as a light lunch or dinner, or as a side dish for a larger meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "italian-food",
+    "macrobiotic",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "juicy-crunchy-italian-vegetable-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-italian-vegetable-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:14Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "cold water",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Salad"
+  }
+}
