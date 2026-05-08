@@ -1,0 +1,110 @@
+{
+  "title": "Jammy Peruvian Katsuobushi Stew",
+  "description": "A hearty and flavorful Peruvian stew featuring katsuobushi, perfect for a cozy evening meal. This paleo-friendly dish is simmered to perfection in an earthenware bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi",
+      "amount": "1 cup",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the earthenware bowl over medium heat on the stovetop.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced aji amarillo peppers and cook for 2 minutes, until they start to soften.",
+    "Add the cubed sweet potatoes, chicken broth, and coconut milk, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook for 20 minutes, or until the sweet potatoes are tender.",
+    "Stir in the katsuobushi and cook for an additional 5 minutes, until the flavors have melded together and the stew has thickened slightly.",
+    "Season the stew with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "peruvian-cuisine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "jammy-peruvian-katsuobushi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-peruvian-katsuobushi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "katsuobushi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "jammy pillowy",
+    "dishForm": "Stew"
+  }
+}
