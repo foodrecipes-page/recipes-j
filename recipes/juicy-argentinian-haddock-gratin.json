@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Argentinian Haddock Gratin",
+  "description": "A winey, cheese-pull, lazy-sunday argentinian dish featuring haddock, cooked in a bain-marie for a pescatarian-friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the white wine, butter, lemon juice, garlic powder, salt, and black pepper, and bring to a simmer over medium heat.",
+    "Reduce the heat to low and place a heatproof dish containing the haddock fillets into the saucepan, making sure the fish is covered with the wine mixture.",
+    "Cover the saucepan with a lid and cook for 8 minutes, or until the fish is cooked through.",
+    "While the fish is cooking, mix the grated cheddar cheese and chopped parsley in a small bowl.",
+    "Remove the fish from the wine mixture and place it in a baking dish.",
+    "Spoon the cheese and parsley mixture evenly over the top of the haddock fillets.",
+    "Place the baking dish under the broiler and cook for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "bain-marie",
+    "cheesy",
+    "lazy-sunday",
+    "pescatarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-argentinian-haddock-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-haddock-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:10:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "haddock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "haddock",
+    "descriptor": "Juicy",
+    "dishForm": "Gratin"
+  }
+}
