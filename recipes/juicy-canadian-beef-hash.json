@@ -1,0 +1,147 @@
+{
+  "title": "Juicy Canadian Beef Hash",
+  "description": "A classic Canadian dish featuring crispy hash browns, tender beef, and a hint of dark rum. Perfect for a lazy Sunday breakfast or brunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Choose a lean cut, such as sirloin or ribeye."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Diced."
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "Diced."
+    },
+    {
+      "name": "Dark Rum",
+      "amount": "2 tablespoons",
+      "notes": "Optional, but adds a rich flavor."
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "for garnish",
+      "notes": "Optional."
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "optional",
+      "notes": "For an extra crispy topping."
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "For cooking the hash."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Dice the beef into 1-inch cubes and season with salt, pepper, and garlic powder.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat. Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the diced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the cooked beef back into the skillet and stir in the dark rum (if using).",
+    "Transfer the beef mixture to a large bowl and set aside.",
+    "Grate the potatoes and onions in a separate bowl.",
+    "Squeeze out excess moisture using cheesecloth or a clean dish towel.",
+    "Divide the grated potatoes and onions into 6 equal portions and shape each portion into a patty.",
+    "Heat the remaining 1 tablespoon of butter in the same skillet over medium heat. Add 2 patties of the potato mixture and cook until golden brown and crispy, about 4-5 minutes per side.",
+    "Transfer the cooked patties to a plate and repeat with the remaining potato mixture.",
+    "In the same skillet, add the bacon slices and cook until crispy. Remove from heat and set aside.",
+    "Add the cooked beef mixture to the same skillet and stir in the beef broth.",
+    "Bring the mixture to a simmer and cook until heated through, about 5 minutes.",
+    "To assemble the hash, place a cooked patty of potatoes on a plate, followed by a spoonful of the beef mixture, a fried egg, and a sprinkle of chopped chives (if using).",
+    "Garnish with additional chives and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "beef",
+    "breakfast",
+    "brunch",
+    "canadian",
+    "eggs",
+    "hash",
+    "potatoes",
+    "rum",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 26
+  },
+  "slug": "juicy-canadian-beef-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-beef-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "dark rum",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "juicy",
+    "dishForm": "Hash"
+  }
+}

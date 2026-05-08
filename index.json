@@ -6737,6 +6737,25 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-canadian-beef-hash",
+    "title": "Juicy Canadian Beef Hash",
+    "tags": [
+      "bacon",
+      "beef",
+      "breakfast",
+      "brunch",
+      "canadian",
+      "eggs",
+      "hash",
+      "potatoes",
+      "rum",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-canadian-hind-shank-roast",
     "title": "Juicy Canadian Hind Shank Roast",
     "tags": [
