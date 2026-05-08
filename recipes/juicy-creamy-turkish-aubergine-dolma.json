@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Creamy Turkish Aubergine Dolma",
+  "description": "A fresh and creamy Turkish dish featuring aubergine and double-rise-bread, perfect for a cozy meal, and is FODMAP-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "crumbs only"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped aubergine and cook until tender, about 10 minutes.",
+    "In a large bowl, combine the cooked aubergine mixture, double-rise-bread crumbs, garlic-free seasoning, salt, and black pepper.",
+    "Stuff each aubergine shell with the bread mixture and place in a baking dish.",
+    "In a small bowl, mix the plain yogurt, chopped parsley, and lemon juice.",
+    "Pour the yogurt mixture over the stuffed aubergine and bake for 25 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinners",
+    "healthy-meals",
+    "turkish-cuisine",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-creamy-turkish-aubergine-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-creamy-turkish-aubergine-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:04:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "aubergine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "aubergine",
+    "descriptor": "Juicy Creamy",
+    "dishForm": "Dolma"
+  }
+}

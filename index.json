@@ -4393,6 +4393,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-springy-ukrainian-lamb-skewers",
+    "title": "Jubilant Springy Ukrainian Lamb Skewers",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "lamb-dishes",
+      "spring-recipes",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-sweet-mediterranean-filo-pastry-pie",
     "title": "Jubilant Sweet Mediterranean Filo Pastry Pie",
     "tags": [
@@ -5267,6 +5281,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma",
+    "title": "Juicy Creamy Turkish Aubergine Dolma",
+    "tags": [
+      "comfort-food",
+      "easy-dinners",
+      "healthy-meals",
+      "turkish-cuisine",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
