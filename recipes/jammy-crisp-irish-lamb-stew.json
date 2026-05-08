@@ -1,0 +1,100 @@
+{
+  "title": "Jammy Crisp Irish Lamb Stew",
+  "description": "A comforting Irish dish featuring tender lamb, sweet and tangy flavors from tamarind pulp and yuzu-cure, all in a low-calorie friendly package.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions, carrots, potatoes, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the tamarind pulp, yuzu-cure, and low-sodium chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then cover the Dutch oven and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the stew from the oven and let it cool slightly before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lamb-recipes",
+    "low-calorie",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jammy-crisp-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crisp-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:02:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "jammy crisp",
+    "dishForm": "Stew"
+  }
+}
