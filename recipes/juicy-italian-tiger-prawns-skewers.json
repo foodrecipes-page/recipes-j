@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Italian Tiger Prawns Skewers",
+  "description": "A resinous and creamy Italian dish featuring tiger prawns grilled on a cedar plank, inspired by Roman cuisine and ayurvedic-rajasic friendly principles.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, lemon zest, lemon juice, salt, and black pepper.",
+    "Add the tiger prawns to the bowl and toss to coat with the marinade.",
+    "Thread 3 prawns onto each cedar plank, leaving a small space between each prawn.",
+    "Sprinkle the grana padano cheese and chopped parsley over the prawns.",
+    "Place the cedar planks on the grill and cook for 2-3 minutes per side, or until the prawns are pink and cooked through.",
+    "Remove the planks from the grill and let cool for 1 minute.",
+    "Serve the prawns hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "grilled",
+    "high-protein",
+    "italian-cuisine",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "juicy-italian-tiger-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-italian-tiger-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:35:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "tiger prawns",
+    "diet": "ayurvedic-rajasic",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Skewers"
+  }
+}

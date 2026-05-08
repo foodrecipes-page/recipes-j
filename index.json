@@ -2339,6 +2339,21 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-australian-fish-bake",
+    "title": "Australian Chillied Fish Bake",
+    "tags": [
+      "australian-dish",
+      "comfort-food",
+      "one-pan",
+      "pescatarian-friendly",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-italian-pasta-bruschetta",
     "title": "Jelly Like Italian Pasta Bruschetta",
     "tags": [
@@ -5848,6 +5863,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-italian-tiger-prawns-skewers",
+    "title": "Juicy Italian Tiger Prawns Skewers",
+    "tags": [
+      "cedar-plank",
+      "grilled",
+      "high-protein",
+      "italian-cuisine",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 28,
     "shard": "j"
   },
   {

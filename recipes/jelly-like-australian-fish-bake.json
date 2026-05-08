@@ -1,0 +1,103 @@
+{
+  "title": "Australian Chillied Fish Bake",
+  "description": "A spicy, comforting Australian dish featuring dried red chillies, served with a glassy-jelly like sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "2",
+      "notes": "skin removed"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "4",
+      "notes": "seeded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "lemon myrtle",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "brine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the snapper fillets with lemon myrtle and lemon juice.",
+    "Heat olive oil in a hot skillet over high heat. Sear snapper for 2 minutes on each side.",
+    "Transfer the skillet to the oven and bake for 8 minutes.",
+    "Meanwhile, combine chillies, garlic, ginger, and fish sauce in a blender. Blend until smooth.",
+    "Strain the chilli sauce through a fine mesh sieve into a bowl, pressing on solids to extract liquid.",
+    "Add the brine and water to the bowl, whisking until combined.",
+    "Remove the skillet from the oven and place the snapper on a salt block.",
+    "Pour the chilli sauce over the snapper, then return to oven and bake for an additional 4 minutes.",
+    "Remove the skillet from the oven and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dish",
+    "comfort-food",
+    "one-pan",
+    "pescatarian-friendly",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "jelly-like-australian-fish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-australian-fish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:35:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "dried red chillies",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "jelly-like",
+    "dishForm": "Bake"
+  }
+}
