@@ -8699,6 +8699,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-rich-mediterranean-chicken-tagine",
+    "title": "Juicy Rich Mediterranean Chicken Tagine",
+    "tags": [
+      "chicken-recipe",
+      "gluten-free",
+      "low-calorie",
+      "meal-prep",
+      "mediterranean",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-roasted-algerian-beef-tagine",
     "title": "Juicy Roasted Algerian Beef Tagine",
     "tags": [
@@ -9518,6 +9533,21 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 78,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-spanish-chicken-paella-valenciana",
+    "title": "Juicy Spanish Chicken Paella Valenciana",
+    "tags": [
+      "brunch-ideas",
+      "chicken-recipes",
+      "one-pan",
+      "paella-recipes",
+      "spanish-cuisine",
+      "valenciana-style"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
