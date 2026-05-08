@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Crisp Vietnamese Tofu Bun Cha",
+  "description": "A winey and crisp Vietnamese dish featuring oregano, perfect for a brunch mood, this ovo-vegetarian-friendly recipe is made with tofu and served in a bun cha form, grilled to perfection on a binchotan grill.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bun cha noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the binchotan grill by heating it to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, and vegetable oil to make the marinade.",
+    "Add the tofu cubes to the marinade and let it sit for at least 30 minutes.",
+    "Remove the tofu from the marinade and pat it dry with paper towels.",
+    "Grill the tofu on the binchotan grill for 3-4 minutes per side, or until it is golden brown and crispy.",
+    "Shock the grilled tofu in an ice bath to stop the cooking process.",
+    "Cook the bun cha noodles according to the package instructions and set aside.",
+    "In a small bowl, mix together chopped oregano, minced garlic, and grated ginger.",
+    "Assemble the dish by placing the grilled tofu on top of the noodles, and garnishing with the oregano mixture, pickled carrots, and sliced cucumber.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "brunch-recipe",
+    "bun-cha",
+    "grilled-tofu",
+    "ovo-vegetarian",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "juicy-crisp-vietnamese-tofu-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-vietnamese-tofu-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "oregano",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Bun Cha"
+  }
+}
