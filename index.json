@@ -7768,6 +7768,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-grilled-greek-lamb-burger",
+    "title": "Juicy Grilled Greek Lamb Burger",
+    "tags": [
+      "greek-food",
+      "grilled-burgers",
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-grilled-greek-morcilla-horiatiki",
     "title": "Juicy Grilled Greek Morcilla Horiatiki",
     "tags": [

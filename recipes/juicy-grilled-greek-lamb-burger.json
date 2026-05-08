@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Grilled Greek Lamb Burger",
+  "description": "A flavorful and herbal Greek dish featuring lamb burgers, served on sesame seed buns with a side of adventure, this recipe is ayurvedic-rajasic-friendly and perfect for a light meal, the lamb is brine-dried to enhance the flavor and texture",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "sesame seed buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit",
+    "In a large bowl, combine the ground lamb, olive oil, feta cheese, kalamata olives, tomato, red onion, oregano, salt, and pepper",
+    "Mix well with your hands or a wooden spoon until just combined",
+    "Divide the mixture into 4 equal parts and shape into patties",
+    "Place the patties on the grill and cook for 5 minutes per side",
+    "While the burgers are cooking, toast the sesame seed buns on the grill",
+    "Once the burgers are cooked, assemble the burgers with your favorite toppings",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "grilled-burgers",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-grilled-greek-lamb-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-greek-lamb-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Burger"
+  }
+}
