@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Thai Chicken Noodles",
+  "description": "A kid-friendly Southern Thai dish featuring lardons and a cheese-pull, made with macrobiotic-friendly ingredients and a hint of white vinegar.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "rendered"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the rendered lardons.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "In a small bowl, whisk together the fish sauce, palm sugar, and white vinegar.",
+    "Pour the sauce over the chicken and lardons, and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and sauce.",
+    "Transfer the noodles to a serving platter and top with chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions if desired.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "macrobiotic",
+    "noodle-dish",
+    "one-pan",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-thai-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-thai-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:52:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "white vinegar",
+    "diet": "macrobiotic",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy",
+    "dishForm": "Noodles"
+  }
+}

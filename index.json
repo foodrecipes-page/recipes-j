@@ -7903,6 +7903,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-thai-chicken-noodles",
+    "title": "Juicy Thai Chicken Noodles",
+    "tags": [
+      "kid-friendly",
+      "macrobiotic",
+      "noodle-dish",
+      "one-pan",
+      "thai-inspired"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-thai-chicken-salad",
     "title": "Juicy Thai Chicken Salad",
     "tags": [
