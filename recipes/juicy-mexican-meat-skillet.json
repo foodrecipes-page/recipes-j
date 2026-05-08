@@ -1,0 +1,120 @@
+{
+  "title": "Juicy Mexican Meat Skillet",
+  "description": "A rich, flavorful dish from Chiapas, Mexico, featuring a mixture of spices and a shio-koji cure.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large skillet over medium-high heat until shimmering.",
+    "Add the pork cubes and sear until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside. Reduce heat to medium.",
+    "Add the diced onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Stir in the chili powder, mixture powder, shio-koji cure, cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add the browned pork back into the skillet and stir to coat with the spice mixture.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the dish simmer, covered, for 15 minutes or until the pork is tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "mexican",
+    "mild-spicy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "juicy-mexican-meat-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-meat-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:33:31Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mixture powder",
+    "diet": "keto",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "meat",
+    "descriptor": "Juicy",
+    "dishForm": "Skillet"
+  }
+}
