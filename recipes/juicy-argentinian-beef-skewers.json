@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Argentinian Beef Skewers",
+  "description": "Tender beef skewers with a mustardy flavor, featuring oranges and a cheese-pull, perfect for a date-night dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dairy-free cheese shreds",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to high heat",
+    "In a large bowl, whisk together olive oil, Dijon mustard, garlic powder, salt, and black pepper",
+    "Add the beef cubes to the bowl and toss to coat with the marinade",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece",
+    "Close the pressure cooker lid and set the valve to sealing",
+    "Cook the beef skewers for 10 minutes, then quick-release the pressure",
+    "Brush the beef skewers with orange marmalade during the last 2 minutes of cooking",
+    "Remove the skewers from the pressure cooker and top with dairy-free cheese shreds",
+    "Serve immediately, garnished with orange slices"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dairy-free",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "oranges",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy",
+    "dishForm": "Skewers"
+  }
+}
