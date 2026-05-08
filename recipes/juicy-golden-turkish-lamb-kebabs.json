@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Golden Turkish Lamb Kebabs",
+  "description": "A traditional Turkish dish featuring tender lamb, earthy spices, and a silky rice wine sauce, served in a unique agave leaf vessel. This keto-friendly recipe is perfect for a solo dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice wine, olive oil, garlic, paprika, cumin, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the lamb is cooking, heat a large skillet over medium-high heat and add a small amount of oil.",
+    "Remove the lamb from the oven and sear in the skillet for 2-3 minutes on each side.",
+    "Serve the lamb kebabs in agave leaf vessels, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "middle-eastern",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "juicy-golden-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-golden-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "rice wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Golden",
+    "dishForm": "Kebabs"
+  }
+}
