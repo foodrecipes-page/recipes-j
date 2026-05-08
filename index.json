@@ -751,6 +751,22 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-crisp-vietnamese-lamb-banh-mi",
+    "title": "Jammy Crisp Vietnamese Lamb Banh Mi",
+    "tags": [
+      "banh-mi",
+      "chocolate",
+      "gluten-free",
+      "lamb",
+      "low-glycemic",
+      "meal-prep",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-croatian-grape-leaves-dolma",
     "title": "Jammy Croatian Grape Leaves Dolma",
     "tags": [
@@ -1797,6 +1813,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-jamaican-chickpea-curry",
+    "title": "Jazzy Jamaican Chickpea Curry",
+    "tags": [
+      "chickpea-recipes",
+      "curry-dishes",
+      "gluten-free-options",
+      "jamaican-cuisine",
+      "vegetarian-meals"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Jammy Crisp Vietnamese Lamb Banh Mi",
+  "description": "A low-glycemic-friendly Vietnamese dish featuring lamb, tempering-chocolate, and a jammy crisp texture, all in a convenient banh mi form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, sliced into thin strips"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 ounce",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "low-glycemic banh mi bread",
+      "amount": "4 loaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, lime juice, and grated ginger.",
+    "Add the sliced lamb to the bowl and marinate for at least 30 minutes.",
+    "Remove the lamb from the marinade and cook in the oven for 20 minutes.",
+    "Melt the dark chocolate chips in a double boiler.",
+    "Temper the melted chocolate by cooling it to around 82 degrees Fahrenheit.",
+    "Spread a layer of the tempered chocolate on each banh mi loaf.",
+    "Top the chocolate with a few slices of the cooked lamb, some pickled carrots, and sliced cucumber.",
+    "Serve immediately and store any leftovers in an airtight container in the refrigerator.",
+    "Reheat the banh mi in the oven at 350 degrees Fahrenheit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "chocolate",
+    "gluten-free",
+    "lamb",
+    "low-glycemic",
+    "meal-prep",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "jammy-crisp-vietnamese-lamb-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crisp-vietnamese-lamb-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "lamb",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lamb",
+    "descriptor": "jammy crisp",
+    "dishForm": "Banh Mi"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Jazzy Jamaican Chickpea Curry",
+  "description": "A nutty and crispy Jamaican dish featuring parmigiano-reggiano, this curry is a cozy and delicious meal option, cooked to perfection in an agave leaf vessel and made with ayurvedic-rajasic friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "parmigiano-reggiano",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the agave leaf vessel over medium heat.",
+    "Add the chopped onion and saute until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Stir in the jamaican curry powder and cook for 1 minute.",
+    "Add the chickpeas, agave nectar, salt, and black pepper, and stir to combine.",
+    "Pressure cook the mixture for 10 minutes.",
+    "Stir in the grated parmigiano-reggiano.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "curry-dishes",
+    "gluten-free-options",
+    "jamaican-cuisine",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jazzy-jamaican-chickpea-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-jamaican-chickpea-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:32:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chickpeas",
+    "descriptor": "jazzy nutty",
+    "dishForm": "Curry"
+  }
+}
