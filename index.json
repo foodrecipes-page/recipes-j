@@ -462,6 +462,22 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-peppery-mexican-grains-flan",
+    "title": "Jagged Peppery Mexican Grains Flan",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "mexican-inspired",
+      "midnight-cravings",
+      "one-pan",
+      "peppery",
+      "unique-desserts"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peruvian-white-bread-rocoto-relleno",
     "title": "Jagged Peruvian White Bread Rocoto Relleno",
     "tags": [
@@ -562,6 +578,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-spicy-egyptian-red-snapper-bowl",
+    "title": "Jagged Spicy Egyptian Red Snapper Bowl",
+    "tags": [
+      "egyptian-cuisine",
+      "indulgent",
+      "seafood",
+      "shojin-friendly",
+      "spicy",
+      "stone-bowl"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Jagged Peppery Mexican Grains Flan",
+  "description": "A peppery, molten Mexican dish featuring mixed grain, perfect for midnight cravings, this flan is a unique twist on traditional desserts. It is also FODMAP friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mixed grain cereal",
+      "amount": "2 cups",
+      "notes": "gluten free"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "pepper jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "lactose free"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "FODMAP friendly"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "make sure it is gluten free"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "use a FODMAP friendly salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mixed grain cereal, eggs, pepper jack cheese, milk, granulated sugar, vanilla extract, ground black pepper, and salt.",
+    "Pour the mixture into 6 ramekins or small cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, run a knife around the edges of each ramekin to release the flan.",
+    "Place a plate over each ramekin and invert onto the plate.",
+    "Serve the flan chilled, garnished with a sprinkle of ground black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "mexican-inspired",
+    "midnight-cravings",
+    "one-pan",
+    "peppery",
+    "unique-desserts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jagged-peppery-mexican-grains-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-peppery-mexican-grains-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:09:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "mixed grain",
+    "diet": "fodmap",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "grains",
+    "descriptor": "Jagged Peppery",
+    "dishForm": "Flan"
+  }
+}
