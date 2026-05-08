@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Roasted Moroccan Chicken Rfissa",
+  "description": "A velvety and light Moroccan dish featuring roasted chicken in a rich and creamy sauce, served in a traditional ceramic tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar, pound the onion, garlic, and ginger until well combined and slightly smooth.",
+    "In a large bowl, mix together the pounded onion mixture, paprika, cumin, coriander, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat evenly with the spice mixture.",
+    "Transfer the chicken to a ceramic tagine or a large Dutch oven with a tight-fitting lid.",
+    "Pour the single cream over the chicken and cover the tagine or Dutch oven with the lid.",
+    "Roast the chicken in the preheated oven for 45 minutes.",
+    "Remove the lid and continue roasting for an additional 20 minutes, or until the chicken is cooked through and the sauce is lightly browned.",
+    "Remove the tagine or Dutch oven from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pot",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-roasted-moroccan-chicken-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-moroccan-chicken-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:43:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "single cream",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Rfissa"
+  }
+}
