@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Korean Sujebi Noodles",
+  "description": "Umami-rich, tender, and crowd-pleasing Korean noodles featuring turmeric and long-fermentation-dough. A low-carb-friendly twist on traditional sujebi.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turmeric long-fermentation dough (homemade or store-bought)",
+      "amount": "1 kg",
+      "notes": "homemade dough recipe: combine 1 cup warm water, 2 tsp sugar, 1 tsp active dry yeast, 3 cups all-purpose flour, and 1 tsp salt; let ferment for 24 hours"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds (optional)",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Knead the turmeric long-fermentation dough for 5 minutes until smooth.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin sheet.",
+    "Cut the dough sheet into 1-inch wide noodles.",
+    "Heat 2 tablespoons of sesame oil in a large skillet over medium heat.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the Korean chili flakes and gochujang to the skillet and cook for 1 minute.",
+    "Add the noodles to the skillet and cook for 3-4 minutes or until slightly tender.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes or until the noodles are fully cooked.",
+    "Stir in the fish sauce (if using) and chopped green onions.",
+    "Serve the sujebi noodles hot, garnished with toasted sesame seeds (if desired).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-dough",
+    "korean-cuisine",
+    "low-carb",
+    "one-pan",
+    "turmeric",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "juicy-tender-korean-noodles-sujebi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-korean-noodles-sujebi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:48:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "turmeric",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Juicy, Tender",
+    "dishForm": "Sujebi"
+  }
+}
