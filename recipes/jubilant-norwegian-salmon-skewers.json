@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Norwegian Salmon Skewers",
+  "description": "A sweet and snappy Norwegian dish featuring miso-marinated salmon, perfect for a date night, served in a ramekin with a side of rice wine sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, rice wine, honey, soy sauce, and sesame oil to make the marinade.",
+    "Add the salmon pieces to the marinade and mix well to coat.",
+    "Thread the marinated salmon pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the salmon is cooked through.",
+    "Meanwhile, mix the minced garlic and grated ginger in a small bowl.",
+    "Brush the garlic-ginger mixture onto the skewers during the last minute of grilling.",
+    "Serve the skewers in a ramekin with a side of rice wine sauce, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled",
+    "healthy",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "jubilant-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:22:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "rice wine",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "jubilant miso glazed",
+    "dishForm": "Skewers"
+  }
+}

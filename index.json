@@ -3780,6 +3780,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-norwegian-salmon-skewers",
+    "title": "Jubilant Norwegian Salmon Skewers",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "grilled",
+      "healthy",
+      "norwegian-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl",
     "title": "Jubilant Nutty Venezuelan Brown Lentil Bowl",
     "tags": [
@@ -7393,6 +7408,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-turkish-cherry-pilaf",
+    "title": "Juicy Turkish Cherry Pilaf",
+    "tags": [
+      "healthy",
+      "low-calorie",
+      "one-pot",
+      "turkish-cuisine",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
