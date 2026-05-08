@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Marinated Polish Tofu Bowl",
+  "description": "A fermented and juicy Polish dish featuring marinated tofu, perfect for meal prep, and egg-free friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite sized pieces"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "marinade sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together marinade sauce, salt, and black pepper.",
+    "Add the tofu to the marinade and mix well to coat, then refrigerate for at least 30 minutes.",
+    "In a large pot, boil the diced potatoes until they are tender, then drain and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat and sauté the chopped onion and minced garlic until softened.",
+    "Add the grated carrots to the pan and cook until they start to soften.",
+    "Add the sauerkraut to the pan and cook until heated through.",
+    "Remove the tofu from the marinade and add to the pan, cooking until the tofu is lightly browned on all sides.",
+    "To assemble the bowls, divide the boiled potatoes, carrot and sauerkraut mixture, and marinated tofu among four bowls.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "one-pot",
+    "polish-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juicy-marinated-polish-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-marinated-polish-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:58:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "marinated tofu",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Marinated",
+    "dishForm": "Bowl"
+  }
+}
