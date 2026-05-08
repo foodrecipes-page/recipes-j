@@ -1,0 +1,106 @@
+{
+  "title": "Jazzy Dehydrated Polish Bryndza Cheese Tagine",
+  "description": "A crunchy, savory tagine featuring dehydrated bryndza cheese, ideal for romantic evenings. This halal-friendly dish combines the rich flavors of Poland with the romance of clay cooking.",
+  "cuisine": "Polish",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the clay tagine to 160°C. Sear the onion and garlic until caramelized. Add the bryndza cheese and stir until melted. Add the cumin, coriander, paprika, salt, and pepper. Mix well and stir in the parsley. Cook for 10 minutes. Prepare the dehydration setting on the tagine and dry the mixture for 30 minutes. Stir in the thyme. Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal",
+    "high-protein",
+    "one-pan",
+    "polish",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "jazzy-dehydrated-polish-bryndza-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-dehydrated-polish-bryndza-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Jazzy Dehydrated",
+    "dishForm": "Tagine"
+  }
+}
