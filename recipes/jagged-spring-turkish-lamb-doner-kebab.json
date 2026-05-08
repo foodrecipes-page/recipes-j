@@ -1,0 +1,114 @@
+{
+  "title": "Jagged Spring Turkish Lamb Doner Kebab",
+  "description": "A festive Turkish dish featuring the vibrant flavors of spring, perfect for a light and refreshing meal.",
+  "cuisine": "turkish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spring onions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a small bowl, mix together coriander, cumin, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a large bowl and sprinkle the flour over it.",
+    "Toss the lamb shoulder to coat it evenly with the flour.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until it is browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook the lamb for 20 minutes.",
+    "Remove the skillet from the oven and let it cool slightly.",
+    "Slice the lamb shoulder into thin strips against the grain.",
+    "In a small bowl, mix together the chopped spring onions and parsley.",
+    "Serve the lamb doner kebab with the yogurt sauce and garnish with the spring onion and parsley mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mains",
+    "one-pan",
+    "spring",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "jagged-spring-turkish-lamb-doner-kebab",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-spring-turkish-lamb-doner-kebab",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:39:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "orange zest",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Jagged Spring",
+    "dishForm": "Doner Kebab"
+  }
+}
