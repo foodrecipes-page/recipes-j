@@ -1,0 +1,93 @@
+{
+  "title": "Jubilant Sweet Brazilian Kabocha Crumble",
+  "description": "A sweet and crumbly Brazilian dish featuring kabocha, kombu-cold-extract, and low-carb-friendly ingredients, cooked to perfection in a copper pot. This energizing dessert is perfect for any occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large copper pot, combine the cubed kabocha squash and kombu-cold-extract, and cook over medium heat for 10 minutes.",
+    "In a separate bowl, mix together the almond flour, coconut sugar, and shredded coconut.",
+    "Add the melted unsalted butter, large eggs, and vanilla extract to the bowl, and mix until well combined.",
+    "Add the cooked kabocha squash mixture to the bowl, and mix until a crumbly mixture forms.",
+    "Transfer the mixture to a baking dish, and bake for 25 minutes.",
+    "Remove the dish from the oven, and let it cool for 10 minutes.",
+    "Serve the Jubilant Sweet Brazilian Kabocha Crumble warm, garnished with additional shredded coconut if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "copper-pot",
+    "crumbly-dish",
+    "gluten-free",
+    "kabocha-squash",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "jubilant-sweet-brazilian-kabocha-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-sweet-brazilian-kabocha-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "kabocha",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kabocha",
+    "descriptor": "jubilant sweet",
+    "dishForm": "Crumble"
+  }
+}

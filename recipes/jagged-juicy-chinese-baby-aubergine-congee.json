@@ -1,0 +1,97 @@
+{
+  "title": "Jagged Juicy Chinese Baby Aubergine Congee",
+  "description": "A paleo-friendly Chinese dish featuring marinated baby aubergine in a flavorful congee, with a mix of mustardy and shaggy textures, perfect for a romantic dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Chinese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the Chinese rice and soak it in water for 30 minutes",
+    "Heat the coconut oil in a large pot over medium heat",
+    "Add the mustard paste, ginger paste, and garlic and stir for 1 minute",
+    "Add the baby aubergine and stir for 2 minutes",
+    "Add the soaked rice, water, and salt to the pot and bring to a boil",
+    "Reduce the heat to low and simmer for 20 minutes or until the congee is cooked",
+    "Stir in the chopped scallions",
+    "Serve the congee hot with additional scallions on top if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-recipes",
+    "comfort-food",
+    "one-pot",
+    "paleo-friendly",
+    "romantic-dinners",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-juicy-chinese-baby-aubergine-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-juicy-chinese-baby-aubergine-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "baby aubergine",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "jagged juicy",
+    "dishForm": "Congee"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Roasted Slovakian Chicken Pilaf",
+  "description": "A hearty roasted chicken and rice dish inspired by Slovakian cuisine, perfect for a post-workout meal",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together chicken broth, olive oil, paprika, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat and cook the chicken until browned",
+    "In a separate pot, bring 2 cups of water to a boil and cook the basmati rice according to package instructions",
+    "In a large roasting pan, combine the cooked rice, onion, carrots, and peas",
+    "Add the cooked chicken to the roasting pan and stir to combine",
+    "Roast in the preheated oven for 25 minutes or until the chicken is cooked through and the top is crispy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "roasted-chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-roasted-slovakian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-slovakian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:19:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "basmati rice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Pilaf"
+  }
+}

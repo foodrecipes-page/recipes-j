@@ -359,6 +359,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-juicy-chinese-baby-aubergine-congee",
+    "title": "Jagged Juicy Chinese Baby Aubergine Congee",
+    "tags": [
+      "chinese-recipes",
+      "comfort-food",
+      "one-pot",
+      "paleo-friendly",
+      "romantic-dinners",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-korean-duck-stir-fry",
     "title": "Jagged Korean Duck Stir-fry",
     "tags": [
@@ -5617,6 +5632,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-sweet-brazilian-kabocha-crumble",
+    "title": "Jubilant Sweet Brazilian Kabocha Crumble",
+    "tags": [
+      "brazilian-cuisine",
+      "copper-pot",
+      "crumbly-dish",
+      "gluten-free",
+      "kabocha-squash",
+      "low-carb"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-sweet-mediterranean-filo-pastry-pie",
     "title": "Jubilant Sweet Mediterranean Filo Pastry Pie",
     "tags": [
@@ -9433,6 +9463,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-slovakian-chicken-pilaf",
+    "title": "Juicy Roasted Slovakian Chicken Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "roasted-chicken",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
