@@ -1,0 +1,100 @@
+{
+  "title": "Jelly Jaded Turkish Apples Manti",
+  "description": "A silky, umami twist on traditional Turkish manti, featuring bramley apples and score-fat. Perfect for a romantic date-night dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bramley Apples",
+      "amount": "2"
+    },
+    {
+      "name": "Crispy Bulgur",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Score-fat (beef tallow or lamb fat)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground lamb, crispy bulgur, chopped onion, minced garlic, salt, and black pepper. Mix well with your hands until just combined.",
+    "Heat the score-fat in a large skillet over medium-high heat. Add the lamb mixture and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Add the beef broth to the skillet and bring to a simmer. Reduce the heat to low and cook for 5 minutes.",
+    "Meanwhile, peel and core the Bramley apples. Cut them into 1-inch wedges.",
+    "To assemble the manti, place a tablespoon of the lamb mixture onto the center of each dumpling wrapper. Top with a Bramley apple wedge and a sprinkle of parsley. Fold the wrapper over the filling and press the edges together to seal.",
+    "Cook the manti in the skillet with the lamb fat for 2-3 minutes on each side, until golden brown.",
+    "Serve the manti hot with additional parsley and a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "high-protein",
+    "homemade",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "jelly-jaded-turkish-apples-manti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-jaded-turkish-apples-manti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:55:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "bramley apples",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "apples",
+    "descriptor": "Jelly Jaded",
+    "dishForm": "Manti"
+  }
+}

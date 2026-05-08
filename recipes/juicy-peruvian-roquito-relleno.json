@@ -1,0 +1,121 @@
+{
+  "title": "Juicy Peruvian Roquito Relleno",
+  "description": "A Peruvian dish featuring a crunchy romano pepper exterior and a flavorful beef and rice filling. A comforting and satisfying meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "romano peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "rendered beef fat",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tops off the romano peppers and scoop out the seeds and membranes.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cooked rice, beef broth, salt, and black pepper. Bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "Stuff each romano pepper with the beef and rice mixture, filling them as full as possible.",
+    "Place the stuffed peppers in a baking dish and cover with aluminum foil.",
+    "Bake the peppers for 25 minutes, then remove the foil and top each pepper with shredded cheese.",
+    "Return the peppers to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve the peppers hot, garnished with chopped fresh cilantro if desired.",
+    "If using, drizzle the rendered beef fat over the top of each pepper before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "cheese",
+    "comfort-food",
+    "dinner",
+    "main-course",
+    "peruvian",
+    "rice",
+    "romano-pepper"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "juicy-peruvian-roquito-relleno",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peruvian-roquito-relleno",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:56:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "render-fat",
+    "primaryIngredient": "romano pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Roquito",
+    "descriptor": "Juicy",
+    "dishForm": "Relleno"
+  }
+}

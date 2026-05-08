@@ -2231,6 +2231,22 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-jaded-turkish-apples-manti",
+    "title": "Jelly Jaded Turkish Apples Manti",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "high-protein",
+      "homemade",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-italian-pasta-bruschetta",
     "title": "Jelly Like Italian Pasta Bruschetta",
     "tags": [
@@ -6215,6 +6231,23 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-peruvian-roquito-relleno",
+    "title": "Juicy Peruvian Roquito Relleno",
+    "tags": [
+      "beef",
+      "cheese",
+      "comfort-food",
+      "dinner",
+      "main-course",
+      "peruvian",
+      "rice",
+      "romano-pepper"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
