@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Roasted Korean Beef Jeon",
+  "description": "A monsoon Korean dish featuring roasted beef, infused with oil for a snappy texture, and low sodium content, formed into a jeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, sesame oil, garlic, and ginger.",
+    "Add the sliced beef to the bowl and marinate for at least 30 minutes.",
+    "In a separate bowl, mix together flour, eggs, salt, and black pepper.",
+    "Add the marinated beef to the flour mixture and mix until the beef is well coated.",
+    "Heat about 1/2 inch of oil in a large skillet over medium high heat.",
+    "Add the coated beef to the skillet and cook until browned on both sides, about 3-4 minutes per side.",
+    "Transfer the beef to a baking sheet and roast in the preheated oven for 15 minutes.",
+    "Remove the beef from the oven and let it rest for a few minutes before slicing into thin strips.",
+    "Serve the beef jeon hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "korean-food",
+    "low-sodium",
+    "monsoon",
+    "roasted",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "juicy-roasted-korean-beef-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-korean-beef-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "beef",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Jeon"
+  }
+}
