@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Crisp Egyptian Creme Patissiere Fritters",
+  "description": "A low-fat Egyptian dessert featuring creme patissiere, with a crispy exterior and a soft interior, perfect for a hangover cure, infused with herbal flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried mint leaves",
+      "amount": "1 tablespoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the flour, cornstarch, and baking powder.",
+    "In a large bowl, whisk together the sugar, eggs, milk, vanilla extract, crushed mint leaves, and salt.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a piping bag or a spoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "To make the creme patissiere, whisk together the milk, sugar, and eggs in a medium saucepan.",
+    "Cook the creme patissiere over medium heat, stirring constantly, until it thickens and coats the back of a spoon.",
+    "Fill the fritters with the creme patissiere and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "creme-patissiere",
+    "dessert",
+    "egyptian",
+    "fritters",
+    "herbal",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jubilant-crisp-egyptian-creme-patissiere-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crisp-egyptian-creme-patissiere-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "creme patissiere",
+    "descriptor": "Jubilant Crisp",
+    "dishForm": "Fritters"
+  }
+}
