@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Golden Dutch Cheese Casserole",
+  "description": "A kid-friendly Dutch dish featuring maple syrup and a winey cheese pull, made in a copper pot with render fat for a rich flavor, halal friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "2 cups shredded",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup",
+      "notes": "beef or mutton"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "macaroni or shells"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Cook pasta according to package directions until al dente, then set aside.",
+    "In a copper pot, heat the render fat over medium heat until melted.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add white wine and cook until reduced by half, about 2 minutes.",
+    "In a large bowl, combine cooked pasta, shredded cheese, milk, maple syrup, salt, and pepper, and stir until well combined.",
+    "Add the pasta mixture to the copper pot and stir until the cheese is melted and the mixture is heated through.",
+    "Transfer the copper pot to the preheated oven and bake for 20 minutes, or until the top is golden brown.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "copper-pot",
+    "dutch-cuisine",
+    "halal-friendly",
+    "kid-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jubilant-golden-dutch-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-golden-dutch-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:32Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "render-fat",
+    "primaryIngredient": "maple syrup",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Jubilant golden",
+    "dishForm": "Casserole"
+  }
+}
