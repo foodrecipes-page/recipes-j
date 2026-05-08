@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Crispy Saudi Arabian Lamb Skillet",
+  "description": "A tangy and crispy one-pot Saudi Arabian dish featuring pomegranate molasses, deep-fry-tod, and paleo-friendly ingredients, served in a dolsot stone bowl.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large dolsot stone bowl over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the pomegranate molasses, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Reduce the heat to medium low and simmer, covered, for 20 minutes.",
+    "Increase the heat to medium high and cook, uncovered, for an additional 5 minutes, or until the lamb is crispy and caramelized.",
+    "Serve the lamb skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "paleo-friendly",
+    "pomegranate",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-crispy-saudi-arabian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-saudi-arabian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:41:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Skillet"
+  }
+}
