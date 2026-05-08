@@ -1,0 +1,109 @@
+{
+  "title": "Jammed Dense Korean Kale Curry",
+  "description": "A pungent and dense Korean curry dish featuring kale, made in a kadhai and inspired by Gyeongsang cuisine, with a Mediterranean twist",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kadhai over medium heat",
+    "Add the onion and cook until it is translucent and starting to caramelize",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly",
+    "Add the gochujang, soy sauce, and curry powder, and cook for 1 minute, stirring constantly",
+    "Add the kale and cook until it is wilted, stirring occasionally",
+    "Pour in the coconut milk and bring the mixture to a simmer",
+    "Reduce the heat to low and cook, covered, for 10 minutes, stirring occasionally",
+    "Season the curry with salt and black pepper to taste",
+    "Serve the curry hot, garnished with chopped green onions or cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-curry",
+    "mediterranean-inspired",
+    "one-pot-meal",
+    "vegetarian-option",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "jammed-dense-korean-kale-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammed-dense-korean-kale-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "kale",
+    "diet": "mediterranean",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "kale",
+    "descriptor": "Jammed Dense",
+    "dishForm": "Curry"
+  }
+}

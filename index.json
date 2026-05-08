@@ -856,6 +856,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammed-dense-korean-kale-curry",
+    "title": "Jammed Dense Korean Kale Curry",
+    "tags": [
+      "gluten-free",
+      "korean-curry",
+      "mediterranean-inspired",
+      "one-pot-meal",
+      "vegetarian-option",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jammed-dense-slovakian-flour-pilaf",
     "title": "Jammed Dense Slovakian Flour Pilaf",
     "tags": [
@@ -8228,6 +8243,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-light-brazilian-sea-bass-skewers",
+    "title": "Juicy Light Brazilian Sea Bass Skewers",
+    "tags": [
+      "brazilian-food",
+      "easy-dinner",
+      "fodmap-friendly",
+      "grilled",
+      "healthy",
+      "seafood"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

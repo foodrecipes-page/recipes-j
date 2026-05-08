@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Light Brazilian Sea Bass Skewers",
+  "description": "A flavorful and light Brazilian dish featuring sea bass, yuzu cure, and a blend of spices, perfect for a cozy dinner, and is also FODMAP friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, olive oil, garlic infused oil, salt, black pepper, and paprika.",
+    "Add the sea bass cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated sea bass cubes onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "Serve the skewers hot, garnished with fresh parsley and lemon wedges.",
+    "Arrange the skewers on a lazy Susan spinner for easy serving.",
+    "Spin the lazy Susan to distribute the skewers evenly among the guests."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "easy-dinner",
+    "fodmap-friendly",
+    "grilled",
+    "healthy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "juicy-light-brazilian-sea-bass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-brazilian-sea-bass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sea bass",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Juicy Light",
+    "dishForm": "Skewers"
+  }
+}
