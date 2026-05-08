@@ -478,6 +478,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-smoky-moroccan-sloe-berries-briouat",
+    "title": "Jagged Smoky Moroccan Sloe Berries Briouat",
+    "tags": [
+      "almond-flour",
+      "moroccan-food",
+      "sloe-berries",
+      "smoky-flavors",
+      "vegetarian-desserts"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-spring-turkish-lamb-doner-kebab",
     "title": "Jagged Spring Turkish Lamb Doner Kebab",
     "tags": [
@@ -6927,6 +6941,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-kenyan-chicken-stew",
+    "title": "Juicy Kenyan Chicken Stew",
+    "tags": [
+      "chicken-recipe",
+      "comfort-food",
+      "creamy-stew",
+      "kenyan-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
