@@ -1,0 +1,103 @@
+{
+  "title": "Quick Spanish Beans Fabada Asturiana",
+  "description": "A rich and light Spanish dish from the Galician region, featuring sesame seed oil and nuka-pickle, this recipe is a quick-fix and gluten-free-friendly version of the traditional fabada asturiana.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality oil"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned butter beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame seed oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped nuka-pickle, canned butter beans, chicken broth, and tomato paste, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the fabada asturiana hot, garnished with chopped fresh parsley if desired.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "quick-fix",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jubilant-quick-spanish-beans-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-quick-spanish-beans-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:42:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "gluten-free",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "Jubilant Quick",
+    "dishForm": "Fabada Asturiana"
+  }
+}
