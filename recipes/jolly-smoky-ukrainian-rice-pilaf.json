@@ -1,0 +1,99 @@
+{
+  "title": "Jolly Smoky Ukrainian Rice Pilaf",
+  "description": "A malty, springy, kid-friendly Ukrainian dish featuring rice, smoke, and low-calorie ingredients, served in an earthenware bowl.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed into smaller pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the grated carrots and cook for an additional 2 minutes.",
+    "In a large earthenware bowl, combine the cooked onions and carrots, crushed Rice Krispies, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, whisk together the chicken broth and malt syrup.",
+    "Pour the broth mixture over the Rice Krispies mixture and stir until everything is well combined.",
+    "Cover the bowl with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly toasted."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "low-calorie",
+    "one-pot",
+    "smoky",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "jolly-smoky-ukrainian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-smoky-ukrainian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "rice krispies",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "rice",
+    "descriptor": "jolly smoky",
+    "dishForm": "Pilaf"
+  }
+}

@@ -3452,6 +3452,21 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-smoky-ukrainian-rice-pilaf",
+    "title": "Jolly Smoky Ukrainian Rice Pilaf",
+    "tags": [
+      "kid-friendly",
+      "low-calorie",
+      "one-pot",
+      "smoky",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-snappy-russian-lemongrass-bake",
     "title": "Jolly Snappy Russian Lemongrass Bake",
     "tags": [
@@ -6176,6 +6191,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 165,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-fluffy-algerian-cheese-tagine",
+    "title": "Algerian Cheese Tagine",
+    "tags": [
+      "cheese-lover",
+      "fluffy",
+      "north-african",
+      "one-pan",
+      "plant-based",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
