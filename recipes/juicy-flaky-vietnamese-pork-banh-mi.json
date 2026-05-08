@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Flaky Vietnamese Pork Banh Mi",
+  "description": "A cultured and flaky Vietnamese dish featuring pork, pickled vegetables, and a crispy baguette, made with fast action yeast and pasta water emulsion, and cooked in a tagine pot.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chop"
+    },
+    {
+      "name": "crispy baguette",
+      "amount": "1",
+      "notes": "slice in half"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine pork shoulder, fast action yeast, and pasta water, and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a tagine pot, cover with a lid, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the tagine pot in the oven and bake for 20 minutes.",
+    "While the pork is baking, prepare the pickled vegetables by slicing them into thin strips.",
+    "Assemble the banh mi by spreading mayonnaise on the crispy baguette, then adding the baked pork, pickled vegetables, cucumber, and cilantro.",
+    "Drizzle sriracha on top of the banh mi and serve immediately.",
+    "Let the banh mi cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "pork-recipes",
+    "street-food",
+    "tagine-pot",
+    "vietnamese-cuisine",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juicy-flaky-vietnamese-pork-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-vietnamese-pork-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:51:21Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fast action yeast",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Banh Mi"
+  }
+}
