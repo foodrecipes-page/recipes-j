@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Smoky French Beetroot Gratin",
+  "description": "A savory French dish featuring cooked beetroot, smoke, and crunchy texture, perfect for a kid-friendly dinner. This ovo-vegetarian friendly gratin is a delicious and healthy meal option.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced beetroot with smoked paprika, garlic, olive oil, salt, and black pepper until they are evenly coated.",
+    "In a large skillet, saute the chopped onion until it is softened and translucent.",
+    "In a greased 9x13 inch baking dish, create a layer of sauteed onion.",
+    "Add a layer of beetroot slices on top of the onion layer.",
+    "Sprinkle a third of the shredded gruyere cheese and a third of the bread crumbs over the beetroot layer.",
+    "Repeat the layers two more times, ending with a layer of cheese and bread crumbs on top.",
+    "Drizzle the beaten eggs over the top layer of cheese and bread crumbs.",
+    "Bake the gratin in the preheated oven for 45 minutes, or until the top is golden brown and the beetroot is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-recipe",
+    "french-cuisine",
+    "gratin",
+    "kid-friendly",
+    "ovo-vegetarian",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "juicy-smoky-french-beetroot-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-french-beetroot-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:53:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beetroot",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Gratin"
+  }
+}
