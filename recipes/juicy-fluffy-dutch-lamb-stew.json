@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Fluffy Dutch Lamb Stew",
+  "description": "A traditional Dutch dish made with lamb, featuring a grassy and fluffy texture, perfect for festive occasions, using unwaxed lime for added flavor, and cooked to perfection in a kazan cauldron using a pressure cooker for a paleo friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the lamb pieces to brown on all sides.",
+    "Add the chopped onion, carrots, and celery to the cauldron and cook until the vegetables are tender.",
+    "Add the minced garlic, dried thyme, salt, and black pepper to the cauldron and cook for 1 minute.",
+    "Add the lamb broth and unwaxed lime juice to the cauldron and bring to a boil.",
+    "Reduce the heat to low, cover the cauldron, and simmer for 1.5 hours or use a pressure cooker to cook for 30 minutes.",
+    "Remove the cauldron from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Refrigerate or freeze the stew for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "lamb-recipes",
+    "paleo-friendly",
+    "pressure-cooker",
+    "stew-recipes",
+    "traditional-dishes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "juicy-fluffy-dutch-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fluffy-dutch-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:34:38Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy fluffy",
+    "dishForm": "Stew"
+  }
+}
