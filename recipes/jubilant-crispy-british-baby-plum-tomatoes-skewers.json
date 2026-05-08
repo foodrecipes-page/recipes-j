@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Crispy British Baby Plum Tomatoes Skewers",
+  "description": "A festive British dish featuring crispy fried baby plum tomatoes, served in a cazuela, perfect for a snack or light meal. This ayurvedic-rajasic-friendly recipe combines grassy and aerated elements for a delightful experience.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, cornstarch, and a pinch of salt.",
+    "In a separate dish, beat the eggs until well combined.",
+    "Dip each tomato half into the flour mixture, then the eggs, and finally the flour mixture again, coating evenly.",
+    "Carefully place the coated tomato halves into the hot oil and fry until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fried tomatoes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Thread 2-3 fried tomato halves onto each skewer, leaving a small space between each tomato.",
+    "Drizzle the melted butter over the tomato skewers and sprinkle with chopped parsley.",
+    "Serve the crispy tomato skewers in a cazuela with a side of lemon wedges.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "crispy",
+    "fried",
+    "gluten-free",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "jubilant-crispy-british-baby-plum-tomatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crispy-british-baby-plum-tomatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:08:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "baby plum tomatoes",
+    "descriptor": "Jubilant Crispy",
+    "dishForm": "Skewers"
+  }
+}
