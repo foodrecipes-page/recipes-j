@@ -1,0 +1,96 @@
+{
+  "title": "Juicy French Bramley Apples Canele",
+  "description": "A resinous and gooey French dessert featuring Bramley apples in a laminated puff pastry canele, perfect for a date night, served in a lacquerware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced Bramley apples, granulated sugar, and salt, and mix until the apples are evenly coated.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Brush the melted unsalted butter evenly over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Arrange the apple mixture in a spiral pattern over the butter, leaving a small border around the edges.",
+    "Fold the edges of the pastry up over the apples to form a canele shape, and press the edges to seal.",
+    "Place the canele in a lacquerware bowl and brush the tops with the beaten eggs.",
+    "Bake the canele in the preheated oven for 35 minutes, or until golden brown.",
+    "Remove the canele from the oven and let it cool for 10 minutes before dusting with confectioners sugar.",
+    "Serve the canele warm, garnished with additional sliced apples if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bramley-apples",
+    "canele",
+    "date-night",
+    "french-dessert",
+    "lacquerware-bowl",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 64,
+    "fat": 20
+  },
+  "slug": "juicy-french-bramley-apples-canele",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-french-bramley-apples-canele",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "lamination-puff",
+    "primaryIngredient": "bramley apples",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Bramley apples",
+    "descriptor": "Juicy resinous",
+    "dishForm": "Canele"
+  }
+}
