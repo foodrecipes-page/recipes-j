@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Tunisian Parma Ham Flatbread",
+  "description": "A tangy and crumbly festive Tunisian dish featuring parma ham, this air-fry flatbread is perfect for a snack or light meal, and is ayurvedic-sattvic-friendly",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Roll out the flatbread to a thickness of about 1/4 inch.",
+    "Brush the flatbread with olive oil and season with salt, black pepper, and sumac.",
+    "Air fry the flatbread for 5 minutes, or until crispy and golden brown.",
+    "Top the flatbread with parma ham, garlic, and lemon juice.",
+    "Sprinkle chopped parsley over the top of the flatbread.",
+    "Return the flatbread to the air fryer and cook for an additional 2 minutes, or until the parma ham is crispy.",
+    "Remove the flatbread from the air fryer and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer-recipes",
+    "easy-appetizers",
+    "gluten-free-snacks",
+    "sattvic-diet",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jubilant-tunisian-parma-ham-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-tunisian-parma-ham-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:29:31Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "parma ham",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "parma ham",
+    "descriptor": "Jubilant Crumbly",
+    "dishForm": "Flatbread"
+  }
+}

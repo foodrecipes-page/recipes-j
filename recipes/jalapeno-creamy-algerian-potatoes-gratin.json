@@ -1,0 +1,106 @@
+{
+  "title": "jalapeno creamy algerian potatoes gratin",
+  "description": "a rich and creamy gratin featuring red potatoes, jalapenos, and a hint of floral notes from preserved lemon and fresh herbs.",
+  "cuisine": "algerian",
+  "diet": [
+    "dairy-free-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "vegan cream cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat your air fryer to 400°F (200°C).",
+    "in a large bowl, toss the sliced potatoes with the olive oil, minced garlic, and a pinch of salt until they're evenly coated.",
+    "spread half of the potato mixture in the air fryer basket and top with sliced jalapenos.",
+    "repeat the layer with the remaining potatoes and jalapenos.",
+    "bake for 20 minutes or until the potatoes are tender and the top is golden brown.",
+    "in a blender or food processor, combine the almond milk, vegan cream cheese, and preserved lemon. Blend until smooth and creamy.",
+    "pour the cream sauce over the potato and jalapeno layers in the air fryer basket.",
+    "return the air fryer to the oven and bake for an additional 10-15 minutes or until the sauce is bubbly and the potatoes are golden brown on top.",
+    "garnish with chopped parsley and cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "north-african",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jalapeno-creamy-algerian-potatoes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeno-creamy-algerian-potatoes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:29:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "red potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Jalapeno Creamy",
+    "dishForm": "Gratin"
+  }
+}

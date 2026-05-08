@@ -462,6 +462,22 @@
     "shard": "j"
   },
   {
+    "slug": "jalapeno-creamy-algerian-potatoes-gratin",
+    "title": "jalapeno creamy algerian potatoes gratin",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "north-african",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jalapeno-julienne-mexican-soy-milk-fried-shoyu-empanadas",
     "title": "Jalapeno Julienne Mexican Soy Milk Fried-Shoyu Empanadas",
     "tags": [
@@ -3941,6 +3957,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-tunisian-parma-ham-flatbread",
+    "title": "Jubilant Tunisian Parma Ham Flatbread",
+    "tags": [
+      "air-fryer-recipes",
+      "easy-appetizers",
+      "gluten-free-snacks",
+      "sattvic-diet",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 17,
     "shard": "j"
   },
   {
