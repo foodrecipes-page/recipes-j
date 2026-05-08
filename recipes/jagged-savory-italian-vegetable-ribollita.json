@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Savory Italian Vegetable Ribollita",
+  "description": "A savory and adventurous Italian dish featuring Branston pickle, tandoor spices, and ayurvedic-rajasic friendly ingredients in a hearty ribollita form, with a shattering crunch from toasted bread",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned diced tomatoes",
+      "amount": "2 cups",
+      "notes": "san marzano preferred"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Toss the cubed bread with olive oil and toast in the oven for 10 minutes",
+    "In a large pot, heat the olive oil over medium heat and saute the diced celery and carrots for 5 minutes",
+    "Add the chopped kale and cook until wilted",
+    "Add the diced zucchini and cook for an additional 2 minutes",
+    "Add the canned diced tomatoes, tandoor spice mix, and chopped Branston pickle to the pot",
+    "Pour in the vegetable broth and bring the mixture to a boil",
+    "Reduce the heat to low and simmer the ribollita for 20 minutes",
+    "Stir in the toasted bread cubes and cook for an additional 2 minutes",
+    "Serve the ribollita hot, garnished with additional toasted bread cubes if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-eating",
+    "italian-food",
+    "one-pot",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-savory-italian-vegetable-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-savory-italian-vegetable-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "branston-pickle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Jagged Savory",
+    "dishForm": "Ribollita"
+  }
+}
