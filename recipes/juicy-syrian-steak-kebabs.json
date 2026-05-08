@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Syrian Steak Kebabs",
+  "description": "A Mediterranean-inspired dish featuring sirloin steak tips marinated in a fermented mixture, resulting in a velvety texture and a crowd-pleasing flavor, with an al-dente finish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the sirloin steak tips to the marinade and mix well to coat, then cover the bowl with plastic wrap.",
+    "Refrigerate the steak mixture for at least 2 hours or overnight to allow the meat to ferment and absorb the flavors.",
+    "Preheat a grill or grill pan to medium-high heat, threading the marinated steak tips onto skewers if using wooden skewers, soak them in water for 30 minutes beforehand.",
+    "Grill the steak kebabs for 8-10 minutes, turning occasionally, until they reach an internal temperature of 130 degrees Fahrenheit for medium-rare.",
+    "Let the steak kebabs rest for 5 minutes before serving, garnished with chopped parsley.",
+    "Serve the steak kebabs hot, accompanied by your choice of sides such as roasted vegetables, quinoa, or pita bread.",
+    "Leftover steak kebabs can be stored in an airtight container in the refrigerator for up to 3 days, reheating them in the microwave or oven when needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "juicy-syrian-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-syrian-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:20:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "steak",
+    "descriptor": "Juicy Tender",
+    "dishForm": "Kebabs"
+  }
+}

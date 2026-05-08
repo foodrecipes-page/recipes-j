@@ -1906,6 +1906,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-portuguese-tofu-paella",
+    "title": "jazzy portuguese tofu paella",
+    "tags": [
+      "easy-to-make",
+      "meal-prep",
+      "one-pan",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-quick-jamaican-almond-skillet",
     "title": "Jazzy Quick Jamaican Almond Skillet",
     "tags": [
@@ -7378,6 +7393,21 @@
     ],
     "cuisine": "Philippine",
     "totalTimeMin": 245,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-syrian-steak-kebabs",
+    "title": "Juicy Syrian Steak Kebabs",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {

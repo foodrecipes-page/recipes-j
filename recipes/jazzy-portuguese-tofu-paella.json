@@ -1,0 +1,121 @@
+{
+  "title": "jazzy portuguese tofu paella",
+  "description": "a citrusy, aerated, meal-prep portuguese dish featuring red-curry-paste and sauteed tofu.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 14 oz block",
+      "notes": "extra-firm, drained, and cut into 1-inch pieces"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably cold-pressed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "short-grain, uncooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the sliced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the red curry paste and cook for 1-2 minutes, stirring constantly.",
+    "add the tofu and cook until golden brown, about 5 minutes.",
+    "add the chickpeas, vegetable broth, rice, salt, and black pepper. Stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to low and cover the skillet.",
+    "simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "stir in the lemon juice and cook for an additional minute.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "meal-prep",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "jazzy-portuguese-tofu-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-portuguese-tofu-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:20:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Jazzy",
+    "dishForm": "Paella"
+  }
+}
