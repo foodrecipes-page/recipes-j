@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Spicy Dutch Chicken Kebabs",
+  "description": "A spicy and silky monsoon Dutch dish featuring sunflower oil and tandoor flavors, this recipe is onion and garlic free, and the kebabs are wrapped in corn husks.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the sunflower oil, tandoor spice mix, lemon juice, salt, black pepper, and cayenne pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Soak the corn husks in water for 30 minutes.",
+    "Remove the chicken from the marinade and thread 3-4 pieces onto each corn husk.",
+    "Wrap the corn husks around the chicken and secure with a toothpick if needed.",
+    "Place the kebabs in the tandoor or oven and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve the kebabs hot with a side of yogurt sauce.",
+    "To make the yogurt sauce, mix together the yogurt and a pinch of salt and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "kebabs",
+    "low-carb",
+    "spicy-food",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "juicy-spicy-dutch-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-dutch-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:37:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "sunflower oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy spicy",
+    "dishForm": "Kebabs"
+  }
+}
