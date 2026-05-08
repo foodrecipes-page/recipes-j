@@ -1,0 +1,99 @@
+{
+  "title": "Jagged Crisp Croatian Pork Lasagna",
+  "description": "A macrobiotic-friendly Croatian dish featuring lasagna sheets and steam, ideal for hangover cure, with bitter and crisp flavors.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Steam the kale until tender.",
+    "Cook the lasagna sheets according to package instructions.",
+    "In a pan, heat the olive oil and cook the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork shoulder and cook until browned.",
+    "In a large bowl, combine the cooked lasagna sheets, steamed kale, and pork mixture.",
+    "Season with paprika, salt, and black pepper.",
+    "Assemble the lasagna in a baking dish and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jagged-crisp-croatian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crisp-croatian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:04:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Jagged Crisp",
+    "dishForm": "Lasagna"
+  }
+}
