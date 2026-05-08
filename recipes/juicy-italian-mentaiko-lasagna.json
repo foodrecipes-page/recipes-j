@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Italian Mentaiko Lasagna",
+  "description": "A rich and crumbly Italian dish featuring mentaiko, lamination-puff, and raw-friendly ingredients, inspired by Neapolitan cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "mentaiko",
+      "amount": "1 cup",
+      "notes": "spicy pollock roe"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "Roll out the lamination puff pastry to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the ricotta cheese, parmesan cheese, and chopped basil.",
+    "Add the mentaiko to the cheese mixture and stir until well combined.",
+    "Spread a layer of the cheese mixture on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the cheese mixture.",
+    "Spread another layer of the cheese mixture on top of the noodles.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Roll out the puff pastry to fit the top of the baking dish and place it on top of the lasagna.",
+    "Brush the puff pastry with olive oil and sprinkle with salt and black pepper."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "lasagna",
+    "mentaiko",
+    "puff-pastry",
+    "raw-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-italian-mentaiko-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-italian-mentaiko-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mentaiko",
+    "diet": "raw",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mentaiko",
+    "descriptor": "Juicy",
+    "dishForm": "Lasagna"
+  }
+}
