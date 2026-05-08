@@ -1,0 +1,94 @@
+{
+  "title": "Jazzy Fluffy Kenyan Milk Pancakes",
+  "description": "Fluffy and kid-friendly Kenyan pancakes made with semi-skimmed milk and a hint of char-grill flavor, perfect for a tasty breakfast or snack. This recipe is jain-friendly and features a unique blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "char-grill yang powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, salt, baking powder, and char-grill yang powder.",
+    "In a separate bowl, whisk together the semi-skimmed milk, eggs, and melted butter.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined, being careful not to overmix.",
+    "The batter should still be slightly lumpy, with a few streaks of flour remaining.",
+    "Heat a non-stick skillet or griddle over medium heat and grease with a small amount of oil or cooking spray.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as fresh fruit, whipped cream, or maple syrup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "fluffy-pancakes",
+    "jain-recipes",
+    "kid-friendly",
+    "milk-based",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jazzy-fluffy-kenyan-milk-pancakes",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-fluffy-kenyan-milk-pancakes",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:47:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "milk",
+    "descriptor": "jazzy fluffy",
+    "dishForm": "Pancakes"
+  }
+}

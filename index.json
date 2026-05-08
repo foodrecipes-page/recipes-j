@@ -1354,6 +1354,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-fluffy-kenyan-milk-pancakes",
+    "title": "Jazzy Fluffy Kenyan Milk Pancakes",
+    "tags": [
+      "breakfast-ideas",
+      "fluffy-pancakes",
+      "jain-recipes",
+      "kid-friendly",
+      "milk-based",
+      "vegetarian-options"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-french-chicken-bouillon",
     "title": "Jazzy French Chicken Bouillon",
     "tags": [
@@ -2261,6 +2276,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jelly-like-ukrainian-honey-cake-kulich",
+    "title": "Ukrainian Honey Cake Kulich",
+    "tags": [
+      "breakfast",
+      "cake",
+      "dessert",
+      "honey",
+      "traditional",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {

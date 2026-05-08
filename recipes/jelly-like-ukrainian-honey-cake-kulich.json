@@ -1,0 +1,100 @@
+{
+  "title": "Ukrainian Honey Cake Kulich",
+  "description": "A traditional Ukrainian honey cake featuring sesame seeds and a char-grilled flavor, perfect for a breakfast or dessert.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 9-inch (23cm) round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt. Set aside.",
+    "In a large mixing bowl, use an electric mixer to beat the eggs and sugars until light and fluffy, about 3 minutes.",
+    "Add the honey and vanilla extract to the egg mixture and beat until well combined.",
+    "With the mixer on low speed, gradually add the flour mixture to the egg mixture and mix until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove the cakes from the oven and let them cool in the pans for 5 minutes.",
+    "Transfer the cakes to a wire rack to cool completely.",
+    "To make the glaze, whisk together the honey and powdered sugar until smooth.",
+    "Drizzle the glaze over the cooled cakes and sprinkle with sesame seeds.",
+    "Char-grill the cakes over medium heat for 2-3 minutes on each side, or until nicely browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cake",
+    "dessert",
+    "honey",
+    "traditional",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jelly-like-ukrainian-honey-cake-kulich",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-ukrainian-honey-cake-kulich",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sesame seed",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "honey cake",
+    "descriptor": "Jelly-Like",
+    "dishForm": "Kulich"
+  }
+}
