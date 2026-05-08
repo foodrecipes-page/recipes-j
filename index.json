@@ -1581,6 +1581,21 @@
     "shard": "j"
   },
   {
+    "slug": "jarring-sichuan-spiced-algerian-sick-day-dish-tagine",
+    "title": "Jarring Sichuan-spiced Algerian Sick-day Tagine",
+    "tags": [
+      "algerian",
+      "dinner",
+      "high-protein",
+      "one-pot",
+      "sick-day",
+      "whole30"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jasmine-green-salsa-baked-dish",
     "title": "Jasmine Green Salsa Baked Dish",
     "tags": [
@@ -2451,6 +2466,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 195,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-monsoon-kenyan-haggis-skewers",
+    "title": "Jazzy Monsoon Kenyan Haggis Skewers",
+    "tags": [
+      "high-protein",
+      "kenyan",
+      "monsoon",
+      "one-pan",
+      "skewer",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -6490,6 +6521,21 @@
     ],
     "cuisine": "brazilian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-brazilian-minari-burger",
+    "title": "Brazilian Minari Burger",
+    "tags": [
+      "brazilian",
+      "burgers",
+      "meat-alternative",
+      "minari",
+      "vegan",
+      "veggie"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -11568,6 +11614,22 @@
     ],
     "cuisine": "kenyan italian",
     "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-uruguayan-asado-skewers",
+    "title": "Juicy Uruguayan Asado Skewers",
+    "tags": [
+      "asado",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "sattvic",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

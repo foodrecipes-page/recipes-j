@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Uruguayan Asado Skewers",
+  "description": "Buttery, juicy, festive Uruguayan dish featuring white chocolate chips and sashimi-cut beef, suitable for Ayurvedic Sattvic diet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium ",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium ",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium ",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Cut the flank steak into 1-inch cubes.",
+    "Cut the onion, bell pepper, and tomato into 1-inch pieces.",
+    "Thread the beef, onion, bell pepper, and tomato onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to your liking.",
+    "Transfer the skewers to a serving platter and garnish with white chocolate chips, parsley, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asado",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 26
+  },
+  "slug": "juicy-uruguayan-asado-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-uruguayan-asado-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "asado",
+    "descriptor": "juicy",
+    "dishForm": "Skewers"
+  }
+}

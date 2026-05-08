@@ -1,0 +1,116 @@
+{
+  "title": "Brazilian Minari Burger",
+  "description": "A savory and juicy burger featuring minari, rest-meat, and a variety of textures.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "rest-meat",
+      "amount": "150g",
+      "notes": "ground beef or turkey alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "1 slice",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine minari, rest-meat, onion, garlic, cumin, coriander, salt, and pepper in a large bowl.",
+    "Mix well with your hands until just combined.",
+    "Divide the mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a patty.",
+    "Dip each patty in breadcrumbs, pressing gently to coat.",
+    "Heat a large skillet over medium-high heat.",
+    "Cook the patties for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, toast the buns on the grill or in the oven.",
+    "Assemble the burgers with cheese, lettuce, tomato, and your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "burgers",
+    "meat-alternative",
+    "minari",
+    "vegan",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 38,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "juicy-brazilian-minari-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-brazilian-minari-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "rest-meat",
+    "primaryIngredient": "minari",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "minari",
+    "descriptor": "juicy",
+    "dishForm": "Burger"
+  }
+}

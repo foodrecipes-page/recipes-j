@@ -1,0 +1,117 @@
+{
+  "title": "Jazzy Monsoon Kenyan Haggis Skewers",
+  "description": "A flavorful, herbal twist on traditional haggis, perfectly suited for a rainy day in Monsoon-affected Kenya. Pair with a refreshing hot-stone-plate serving experience.\n\n",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Haggis",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan honey",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine haggis, cilantro, dill, mint, ginger paste, garlic paste in a large bowl.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Add lime juice, Kenyan honey, salt, and black pepper. Mix until just combined.",
+    "Heat a small amount of coconut oil in a skillet over medium heat.",
+    "Using skewers, thread 4-5 pieces of the haggis mixture onto each skewer.",
+    "Cook the skewers for 4 minutes per side, or until lightly browned.",
+    "Serve immediately on a hot-stone-plate.",
+    "Garnish with additional cilantro and dill if desired.",
+    "Serve with a side of your favorite Kenyan flatbread for dipping in the flavorful sauce.",
+    "Be sure to cook the skewers to an internal temperature of at least 165F (74C).\n\n",
+    "Repeat as needed for additional servings.",
+    "Keep leftovers refrigerated for up to 3 days.",
+    "Reheat by grilling for 1-2 minutes per side, or until lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "monsoon",
+    "one-pan",
+    "skewer",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "jazzy-monsoon-kenyan-haggis-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-monsoon-kenyan-haggis-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "haggis",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "haggis",
+    "descriptor": "jazzy monsoon",
+    "dishForm": "skewers"
+  }
+}
