@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Slow Cooked Vietnamese Barramundi Curry",
+  "description": "A resinous and velvety Vietnamese dish featuring slow-cooked barramundi, this curry is a show-off recipe that is also macrobiotic-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the curry powder and cook for 1 minute, stirring constantly, until the spices are fragrant.",
+    "Add the barramundi fillets and cook for 2 minutes on each side, until they are browned and cooked through.",
+    "Add the fish sauce, coconut milk, bruised lemongrass, salt, and black pepper, and stir to combine.",
+    "Transfer the mixture to a slow cooker and cook on low for 2 hours, until the sauce has thickened and the fish is tender.",
+    "Remove the lemongrass stalks and serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "healthy",
+    "seafood",
+    "slow-cooked",
+    "spicy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-slow-cooked-vietnamese-barramundi-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slow-cooked-vietnamese-barramundi-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "barramundi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "barramundi",
+    "descriptor": "juicy slow cooked",
+    "dishForm": "Curry"
+  }
+}

@@ -3313,6 +3313,20 @@
     "shard": "j"
   },
   {
+    "slug": "jeweled-jellylike-ukrainian-dumplings",
+    "title": "Jeweled Jellylike Ukrainian Dumplings",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "one-pan",
+      "raw-friendly",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jeweled-savory-norwegian-lamb-stew",
     "title": "Jeweled Savory Norwegian Lamb Stew",
     "tags": [
@@ -8820,6 +8834,21 @@
     ],
     "cuisine": "Southern-Thai",
     "totalTimeMin": 210,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-slow-cooked-vietnamese-barramundi-curry",
+    "title": "Juicy Slow Cooked Vietnamese Barramundi Curry",
+    "tags": [
+      "coconut-based",
+      "healthy",
+      "seafood",
+      "slow-cooked",
+      "spicy",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {

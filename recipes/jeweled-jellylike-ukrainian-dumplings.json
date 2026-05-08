@@ -1,0 +1,93 @@
+{
+  "title": "Jeweled Jellylike Ukrainian Dumplings",
+  "description": "A salty, glassy-jelly Ukrainian dish featuring dried oregano, perfect for a date night, this recipe is raw-friendly and cooked in a kadhai.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "raw",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together potato starch and salt.",
+    "Gradually add in water, whisking continuously to avoid lumps.",
+    "Add dried oregano, black pepper, and minced garlic to the mixture and stir well.",
+    "Heat olive oil in a kadhai over medium heat.",
+    "Using a spoon, drop small amounts of the potato starch mixture into the kadhai.",
+    "Cook the dumplings for 5 minutes on each side, until they are translucent and jelly-like.",
+    "Remove the dumplings from the kadhai and garnish with dried parsley.",
+    "Serve the Jeweled Jellylike Ukrainian Dumplings hot.",
+    "Repeat the cooking process for the remaining potato starch mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "raw-friendly",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "jeweled-jellylike-ukrainian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-jellylike-ukrainian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:12Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "dried oregano",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dumplings",
+    "descriptor": "jeweled jellylike",
+    "dishForm": "Dumplings"
+  }
+}
