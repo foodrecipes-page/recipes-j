@@ -1,0 +1,94 @@
+{
+  "title": "Jewel Toned Crispy Algerian Vegetable Tagine",
+  "description": "A charred and crispy lacto-vegetarian friendly Algerian dish featuring mixed peel and tadka, served in a tagliere vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the carrots, zucchini, and red bell pepper with olive oil, tadka spice blend, and garlic until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 20 minutes.",
+    "Remove the baking sheet from the oven and stir in the mixed peel.",
+    "Return the baking sheet to the oven and continue roasting for an additional 10 minutes, or until the vegetables are tender and lightly charred.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes.",
+    "Stir in the yogurt and season with salt to taste.",
+    "Transfer the vegetable mixture to a tagliere vessel and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jewel-toned-crispy-algerian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-crispy-algerian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "mixed peel",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Jewel toned crispy",
+    "dishForm": "Tagine"
+  }
+}
