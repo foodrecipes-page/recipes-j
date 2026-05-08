@@ -1,0 +1,97 @@
+{
+  "title": "Silky Uruguayan Gouda Cheese Frittata",
+  "description": "A nutty and silky solo dinner dish featuring Uruguayan Gouda cheese, perfect for a quiet evening, this frittata is also ayurvedic tamasic friendly as it is easy to digest and promotes relaxation.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Gouda cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "for poaching"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt until well combined.",
+    "Add the shredded Uruguayan Gouda cheese to the bowl and stir until the cheese is evenly distributed.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Pour the egg and cheese mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the frittata is almost set.",
+    "Remove the skillet from the oven and use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Return the skillet to the stovetop over low heat and add the water to the skillet, then cover the skillet with a lid to create a steamy environment for poaching.",
+    "Poach the frittata for an additional 2 minutes or until it is cooked through and silky in texture.",
+    "Remove the skillet from the heat and sprinkle the chopped parsley over the top of the frittata if desired.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "one-pan",
+    "uruguayan-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "just-silky-uruguayan-gouda-cheese-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/just-silky-uruguayan-gouda-cheese-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:32:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "gouda cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Gouda cheese",
+    "descriptor": "Just silky",
+    "dishForm": "Frittata"
+  }
+}
