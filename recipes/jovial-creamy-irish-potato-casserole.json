@@ -1,0 +1,97 @@
+{
+  "title": "Jovial Creamy Irish Potato Casserole",
+  "description": "A fermented, creamy, and cozy Irish dish featuring kosher salt and a sweet glaze, perfect for a plant-based friendly meal. This casserole is made with tender potatoes and a rich cashew cream.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and kosher salt, tossing to coat.",
+    "In a blender or food processor, combine the soaked cashews, nutritional yeast, lemon juice, and 1/4 cup of water, blending until smooth and creamy.",
+    "In a separate bowl, whisk together the olive oil, maple syrup, and apple cider vinegar to make the glaze.",
+    "In a 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the cashew cream, and then a drizzle of the glaze.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Drizzle the remaining glaze over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "fermented",
+    "gluten-free",
+    "irish-food",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jovial-creamy-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-creamy-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:37:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "kosher salt",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Jovial Creamy",
+    "dishForm": "Casserole"
+  }
+}
