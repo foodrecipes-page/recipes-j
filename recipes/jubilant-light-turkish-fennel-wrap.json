@@ -1,0 +1,94 @@
+{
+  "title": "Jubilant Light Turkish Fennel Wrap",
+  "description": "A nutty and light Turkish dish featuring fennel, perfect for a monsoon day, wrapped in a pandan leaf wrap, making it a great shojin-friendly option. This wrap is filled with the flavors of Turkey and the freshness of fennel.",
+  "cuisine": "Turkish",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "1 large bulb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the pandan leaves for wrapping by cleaning and drying them.",
+    "In a large bowl, combine the sliced fennel, chickpeas, red onion, and chopped walnuts.",
+    "In a small bowl, whisk together the sumac, lemon juice, and olive oil to make the dressing.",
+    "Pour the dressing over the fennel mixture and toss to combine.",
+    "Spoon about 1/2 cup of the fennel mixture onto the center of a pandan leaf.",
+    "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps immediately and enjoy.",
+    "You can store any leftovers in an airtight container in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon-recipe",
+    "pandan-leaf-wrap",
+    "shojin-friendly",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-light-turkish-fennel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-light-turkish-fennel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:05:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "fennel",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fennel",
+    "descriptor": "jubilant light",
+    "dishForm": "Wrap"
+  }
+}
