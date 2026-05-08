@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Mexican Corn Elote",
+  "description": "A delicious and earthy post-workout Mexican dish featuring coconut cream and score-fat, sugar-free-friendly, wrapped in a banana leaf.",
+  "cuisine": "Mexican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375 degrees Fahrenheit.",
+    "Husk the corn and remove the silk.",
+    "In a large bowl, mix together coconut cream, score-fat, lime juice, salt, pepper, and garlic powder.",
+    "Brush the mixture onto each ear of corn.",
+    "Wrap each ear of corn in a banana leaf.",
+    "Grill the corn for 20 minutes, turning every 5 minutes.",
+    "Remove the corn from the grill and let it cool for 5 minutes.",
+    "Serve the corn hot, still wrapped in the banana leaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "mexican",
+    "post-workout",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-mexican-corn-elote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-corn-elote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "score-fat",
+    "primaryIngredient": "coconut cream",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "juicy pillowy",
+    "dishForm": "Elote"
+  }
+}
