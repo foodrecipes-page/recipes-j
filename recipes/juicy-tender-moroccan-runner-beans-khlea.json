@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Tender Moroccan Runner Beans Khlea",
+  "description": "A rich and tender Moroccan dish featuring runner beans, sashimi-cut and cooked to perfection in a bamboo steamer, halal-friendly and full of energizing flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "runner beans",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with 2 inches of water and bring to a boil.",
+    "Reduce the heat to a simmer and place a bamboo steamer over the pot.",
+    "In a large bowl, whisk together olive oil, onion, garlic, cumin, smoked paprika, salt, and black pepper.",
+    "Add the sashimi-cut runner beans to the bowl and toss to coat with the marinade.",
+    "Place the runner beans in the bamboo steamer, leaving some space between each bean for even cooking.",
+    "Cover the steamer with a lid and steam the runner beans for 10 minutes, or until tender.",
+    "Remove the runner beans from the steamer and place them on a serving platter.",
+    "Drizzle the lemon juice over the runner beans and sprinkle with chopped parsley.",
+    "Serve the Moroccan runner beans khlea hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful-side-dish",
+    "halal-friendly",
+    "healthy-dinner",
+    "moroccan-cuisine",
+    "steamed-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "juicy-tender-moroccan-runner-beans-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-moroccan-runner-beans-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:52:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "runner beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "runner beans",
+    "descriptor": "Juicy Tender",
+    "dishForm": "Khlea"
+  }
+}
