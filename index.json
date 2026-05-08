@@ -3848,6 +3848,20 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-light-british-suet-spotted-dick",
+    "title": "Jubilant Light British Suet Spotted Dick",
+    "tags": [
+      "comfort-food",
+      "easy-dessert",
+      "lazy-sunday",
+      "traditional-british",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 80,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-light-mexican-poblanos-tlayudas",
     "title": "Jubilant Light Mexican Poblanos Tlayudas",
     "tags": [
@@ -6712,6 +6726,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-dutch-couscous-gratin",
+    "title": "Juicy Roasted Dutch Couscous Gratin",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "macrobiotic",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

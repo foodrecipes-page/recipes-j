@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Roasted Dutch Couscous Gratin",
+  "description": "A kid-friendly, macrobiotic-friendly Dutch dish featuring roasted vegetables and a crispy couscous topping.",
+  "cuisine": "Dutch",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "4 cups",
+      "notes": "Use a mix of carrots, zucchini, bell peppers, and onions."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Toss the roasted vegetables with olive oil, lemon juice, garlic, salt, and pepper.",
+    "In a separate pot, combine the chicken broth and couscous.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Let the couscous cook for 5 minutes, or until it has absorbed most of the liquid.",
+    "Fluff the couscous with a fork and stir in the feta cheese.",
+    "Transfer the roasted vegetables to a 9x13 inch baking dish.",
+    "Top the vegetables with the couscous mixture and smooth the top.",
+    "Bake for 25-30 minutes, or until the top is golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "juicy-roasted-dutch-couscous-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-dutch-couscous-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:43:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "couscous",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "couscous",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Jubilant Light British Suet Spotted Dick",
+  "description": "A traditional British dessert with a light and grassy twist, featuring suet and sesame seed oil, perfect for a lazy Sunday afternoon.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "shredded suet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried currants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, suet, sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and sesame seed oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the dried currants and lemon zest.",
+    "Transfer the mixture to a greased 9x5 inch loaf pan.",
+    "Bake for 45 minutes, then deglaze with an additional 1 tablespoon of sesame seed oil.",
+    "Continue baking for an additional 15 minutes, or until the spotted dick is golden brown and firm to the touch.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-dessert",
+    "lazy-sunday",
+    "traditional-british",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "jubilant-light-british-suet-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-light-british-suet-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "suet",
+    "descriptor": "Jubilant Light",
+    "dishForm": "Spotted Dick"
+  }
+}
