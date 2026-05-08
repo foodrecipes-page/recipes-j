@@ -1,0 +1,107 @@
+{
+  "title": "Jeweled Crispy Syrian Tripe Stew",
+  "description": "A winey, crispy, one-pot Syrian dish featuring tripe, poached to perfection with anti-inflammatory friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cleaned and cut tripe to the pot, stirring to combine with the onion and garlic mixture.",
+    "Pour in the red wine, beef broth, turmeric, paprika, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "Remove the lid and continue to simmer for an additional 30 minutes, or until the tripe is crispy and the liquid has reduced slightly.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-tripe",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "syrian-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jeweled-crispy-syrian-tripe-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-crispy-syrian-tripe-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:20:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "tripe",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tripe",
+    "descriptor": "Jeweled Crispy",
+    "dishForm": "Stew"
+  }
+}
