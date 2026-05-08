@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Grilled Mediterranean Lamb Kebabs",
+  "description": "A flavorful and healthy Mediterranean dish featuring lamb kebabs with a sweet and tangy glaze, perfect for a quick dinner or meal prep, this recipe is shojin-friendly and does not include any animal products except for the lamb, the ketchup used is a special shojin-friendly version.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup",
+      "notes": "shojin-friendly version"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, ketchup, garlic, oregano, thyme, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Brush the kebabs with the remaining marinade during the last 2 minutes of cooking.",
+    "Remove the kebabs from the grill and let them rest for 5 minutes before serving.",
+    "Garnish with fresh bay leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "lamb",
+    "meal-prep",
+    "mediterranean",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "glaze",
+    "primaryIngredient": "ketchup",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Kebabs"
+  }
+}

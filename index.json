@@ -4508,6 +4508,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-citrusy-norwegian-sloe-berry-crumble",
+    "title": "Jubilant Citrusy Norwegian Sloe Berry Crumble",
+    "tags": [
+      "citrusy",
+      "crumble",
+      "fruit-based",
+      "lacto-vegetarian",
+      "norwegian-cuisine",
+      "winter-dessert"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-crisp-uruguayan-oreo-pilaf",
     "title": "Jubilant Crisp Uruguayan Oreo Pilaf",
     "tags": [
@@ -7498,6 +7513,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-grilled-mediterranean-lamb-kebabs",
+    "title": "Juicy Grilled Mediterranean Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "kebabs",
+      "lamb",
+      "meal-prep",
+      "mediterranean",
+      "shojin-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {

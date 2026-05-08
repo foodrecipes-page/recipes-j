@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Citrusy Norwegian Sloe Berry Crumble",
+  "description": "A festive and citrusy Norwegian dessert featuring sloe berries, this lacto-vegetarian-friendly crumble is perfect for special occasions. The combination of sloe berries, orange zest, and lemon juice creates a unique and delicious flavor profile.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the sloe berries, granulated sugar, and lemon juice.",
+    "In a separate bowl, combine the flour, rolled oats, and brown sugar.",
+    "Add the melted butter to the dry ingredients and mix until crumbly.",
+    "Stir in the orange zest and beaten eggs.",
+    "Pour the sloe berry mixture into a 9x9 inch baking dish.",
+    "Top the sloe berry mixture with the crumbly mixture.",
+    "Bake for 40 minutes, or until the topping is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crumble",
+    "fruit-based",
+    "lacto-vegetarian",
+    "norwegian-cuisine",
+    "winter-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "jubilant-citrusy-norwegian-sloe-berry-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-citrusy-norwegian-sloe-berry-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "sloe-berries",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sloe berries",
+    "descriptor": "jubilant citrusy",
+    "dishForm": "Crumble"
+  }
+}
