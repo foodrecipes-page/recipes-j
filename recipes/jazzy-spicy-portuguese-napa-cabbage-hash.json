@@ -1,0 +1,104 @@
+{
+  "title": "Jazzy Spicy Portuguese Napa Cabbage Hash",
+  "description": "A spicy and crunchy Portuguese dish featuring napa cabbage, perfect for a brunch mood, made with dashi extract and shojin friendly ingredients. This recipe combines the flavors of Portugal with the simplicity of a hash.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shredded napa cabbage and cook until it starts to wilt, about 3 minutes.",
+    "Add the sliced portuguese sausage and cook until browned, about 5 minutes.",
+    "Add the dashi extract, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for an additional 2 minutes, until the flavors are combined.",
+    "Squeeze the lemon juice over the top and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "easy-meals",
+    "portuguese-cuisine",
+    "shojin-friendly",
+    "spicy-food",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jazzy-spicy-portuguese-napa-cabbage-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-spicy-portuguese-napa-cabbage-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "napa cabbage",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Jazzy spicy",
+    "dishForm": "Hash"
+  }
+}
