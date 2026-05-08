@@ -1,0 +1,108 @@
+{
+  "title": "Jammy Crisp Dutch Cheese Fritters",
+  "description": "A date-night Dutch dish featuring shredded Mexican cheese and tadka, crispy on the outside and jammy on the inside. Perfect for a romantic evening treat.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free flour substitute recommended for stricter dietary requirements"
+    },
+    {
+      "name": "grated Mexican cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tadka oil",
+      "amount": "1/4 cup",
+      "notes": "a mixture of vegetable oil and spices, traditionally used in Indian cuisine"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for dusting the fritters before frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "balances the savory flavors of the cheese"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, cornstarch, salt, black pepper, and spices until well combined.",
+    "Add the grated cheese and mix until the cheese is evenly distributed throughout the flour mixture.",
+    "Gradually add the tadka oil to the cheese mixture, stirring until the dough comes together in a ball.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Heat about 1/2 inch of tadka oil in a large non-stick skillet over medium-high heat.",
+    "When the oil is hot, add a few of the dough circles to the skillet and fry until they are golden brown and crispy, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels and dust with cornstarch before serving.",
+    "Repeat the frying process with the remaining dough circles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dutch",
+    "fritters",
+    "high-protein",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "jammy-crisp-dutch-cheese-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crisp-dutch-cheese-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "jammy crisp",
+    "dishForm": "fritters"
+  }
+}

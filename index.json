@@ -377,6 +377,23 @@
     "shard": "j"
   },
   {
+    "slug": "jaggedly-sweet-british-christmas-pudding-trifle",
+    "title": "Jaggedly Sweet British Christmas Pudding Trifle",
+    "tags": [
+      "british",
+      "caramel",
+      "dessert",
+      "ginger",
+      "holiday",
+      "pudding",
+      "sweet",
+      "trifle"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jain-friendly-crispy-mexican-sea-bass-stir-fry",
     "title": "Jain-Friendly Crispy Mexican Sea Bass Stir-fry",
     "tags": [
@@ -584,6 +601,20 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-crisp-dutch-cheese-fritters",
+    "title": "Jammy Crisp Dutch Cheese Fritters",
+    "tags": [
+      "dutch",
+      "fritters",
+      "high-protein",
+      "one-pan",
+      "romantic"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -3947,6 +3978,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-algerian-celeriac-tagine",
+    "title": "Juicy Algerian Celeriac Tagine",
+    "tags": [
+      "algerian",
+      "fall",
+      "gluten-free-option",
+      "one-pan",
+      "vegan-option",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {

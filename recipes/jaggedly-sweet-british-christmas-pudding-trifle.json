@@ -1,0 +1,126 @@
+{
+  "title": "Jaggedly Sweet British Christmas Pudding Trifle",
+  "description": "A unique twist on the classic British Christmas pudding trifle, featuring a tangy and crumbly texture. Perfect for a special occasion or holiday meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas Pudding",
+      "amount": "1 (14 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ginger Syrup",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup (240 ml)",
+      "notes": "chilled"
+    },
+    {
+      "name": "Caramel Sauce",
+      "amount": "1/4 cup (60 ml)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Candied Ginger",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup (30g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1/2 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Wok Seared Caramelized Pineapple",
+      "amount": "1 cup (120g)",
+      "notes": "see notes for instructions"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup (120g)",
+      "notes": "assorted"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 325°F (160°C).",
+    "Cut the Christmas pudding into 1-inch (2.5 cm) cubes and place them on a baking sheet lined with parchment paper.",
+    "Bake the pudding for 15-20 minutes, or until it's lightly toasted and crispy.",
+    "While the pudding is baking, combine the ginger syrup, heavy cream, and caramel sauce in a small saucepan.",
+    "Heat the mixture over low heat, stirring occasionally, until it's warm and fragrant.",
+    "Remove the pudding from the oven and let it cool slightly.",
+    "Arrange a layer of pudding cubes in the bottom of a large serving dish or individual glasses.",
+    "Drizzle the warm ginger syrup mixture over the pudding.",
+    "Repeat the layers, finishing with a layer of pudding on top.",
+    "Sprinkle the candied ginger, almonds, and dark chocolate chips over the top of the pudding.",
+    "Place the serving dish or glasses in the refrigerator to chill for at least 2 hours.",
+    "Just before serving, sprinkle the brown sugar and wok-seared caramelized pineapple over the top of the pudding.",
+    "Garnish with fresh mint leaves and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "caramel",
+    "dessert",
+    "ginger",
+    "holiday",
+    "pudding",
+    "sweet",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 20
+  },
+  "slug": "jaggedly-sweet-british-christmas-pudding-trifle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jaggedly-sweet-british-christmas-pudding-trifle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:53:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "christmas pudding",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "Jaggedly sweet",
+    "dishForm": "Trifle"
+  }
+}
