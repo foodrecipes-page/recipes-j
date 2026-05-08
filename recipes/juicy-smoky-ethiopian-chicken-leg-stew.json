@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Smoky Ethiopian Chicken Leg Stew",
+  "description": "A smoky and indulgent Ethiopian dish featuring chicken legs, cooked in a cataplana vessel to perfection, with a satvik-friendly twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6 legs",
+      "notes": "skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the cataplana vessel over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add berbere spice and cook for 1 minute, stirring constantly.",
+    "Add chicken legs and cook until browned on all sides, about 5-7 minutes.",
+    "Add tomato paste and chicken broth, stirring to combine.",
+    "Bring the stew to a boil, then reduce heat to low and simmer, covered, for 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "ethiopian",
+    "one-pot",
+    "smoky",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-smoky-ethiopian-chicken-leg-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-ethiopian-chicken-leg-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:57:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chicken legs",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "juicy smoky",
+    "dishForm": "Stew"
+  }
+}

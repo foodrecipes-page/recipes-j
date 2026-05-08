@@ -7888,6 +7888,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-portuguese-chicken-stew",
+    "title": "Juicy Portuguese Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "clay-pot-recipes",
+      "mediterranean-diet",
+      "portuguese-cuisine",
+      "post-workout-meals",
+      "tahini-recipes"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-portuguese-lentils-bowl",
     "title": "Juicy Portuguese Lentils Bowl",
     "tags": [
@@ -8572,6 +8587,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 210,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-ethiopian-chicken-leg-stew",
+    "title": "Juicy Smoky Ethiopian Chicken Leg Stew",
+    "tags": [
+      "chicken",
+      "ethiopian",
+      "one-pot",
+      "smoky",
+      "spicy",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
