@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Indian Cherry Tomatoes Skewers",
+  "description": "Buttery and snappy, these Indian cherry tomatoes skewers are a delicious monsoon Indian dish, featuring cherry tomatoes steamed in a leaf wrap and grilled to perfection on a robata grill.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Banana Leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread 3-4 cherry tomato halves onto each skewer.",
+    "In a small bowl, mix together the melted butter, ghee, garam masala, cilantro, lemon juice, and salt.",
+    "Brush the mixture onto both sides of the cherry tomatoes.",
+    "Wrap each skewer in a banana leaf, making sure to seal the edges.",
+    "Place the skewers on the robata grill and cook for 5-7 minutes, turning occasionally.",
+    "Steam the skewers for an additional 2-3 minutes, or until the cherry tomatoes are tender.",
+    "Serve the skewers hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-vegetables",
+    "indian-cuisine",
+    "kosher-friendly",
+    "monsoon-recipes",
+    "quick-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "juicy-indian-cherry-tomatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indian-cherry-tomatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:51:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "kosher",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "juicy snappy",
+    "dishForm": "Skewers"
+  }
+}

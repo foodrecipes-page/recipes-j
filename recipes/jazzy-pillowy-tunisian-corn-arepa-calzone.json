@@ -1,0 +1,102 @@
+{
+  "title": "Jazzy Pillowy Tunisian Corn Arepa Calzone",
+  "description": "Earthy, pillowy, indulgent Tunisian dish featuring corn arepa filled with mozzarella cheese, mirepoix-base, raw-friendly in a terracotta dish.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn arepa",
+      "amount": "4"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion, garlic, carrot, and celery, and cook until the vegetables are tender, about 5-7 minutes.",
+    "Add the ground cumin and cook for 1 minute.",
+    "Add the chopped parsley and cook for 1 minute.",
+    "In a separate pan or griddle, cook the corn arepas until they are lightly browned and puffed, about 2-3 minutes per side.",
+    "Place a cooked arepa on a flat surface and spoon some of the mirepoix base onto the center of the arepa.",
+    "Place a slice of mozzarella cheese on top of the mirepoix base.",
+    "Fold the arepa in half to form a calzone and press the edges together to seal.",
+    "Place the calzone in the preheated oven and bake for 10-12 minutes, or until the cheese is melted and the arepa is crispy.",
+    "Remove the calzone from the oven and let it cool for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calzone-recipe",
+    "corn-arepa-recipe",
+    "indulgent-recipe",
+    "lunch-recipe",
+    "mirepoix-base-recipe",
+    "one-pan-recipe",
+    "tunisian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "jazzy-pillowy-tunisian-corn-arepa-calzone",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-pillowy-tunisian-corn-arepa-calzone",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:52:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Corn Arepa",
+    "descriptor": "Jazzy Pillowy",
+    "dishForm": "Calzone"
+  }
+}

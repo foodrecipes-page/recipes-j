@@ -1906,6 +1906,23 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-pillowy-tunisian-corn-arepa-calzone",
+    "title": "Jazzy Pillowy Tunisian Corn Arepa Calzone",
+    "tags": [
+      "calzone-recipe",
+      "corn-arepa-recipe",
+      "indulgent-recipe",
+      "lunch-recipe",
+      "mirepoix-base-recipe",
+      "one-pan-recipe",
+      "tunisian-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-portuguese-tofu-paella",
     "title": "jazzy portuguese tofu paella",
     "tags": [
@@ -5775,6 +5792,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indian-cherry-tomatoes-skewers",
+    "title": "Juicy Indian Cherry Tomatoes Skewers",
+    "tags": [
+      "grilled-vegetables",
+      "indian-cuisine",
+      "kosher-friendly",
+      "monsoon-recipes",
+      "quick-snacks"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
