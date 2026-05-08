@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Bouncy Egyptian Chicken Kebabs",
+  "description": "High protein Egyptian dish featuring coconut cream and confit tomato, perfect for a post workout meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together coconut cream, olive oil, lemon juice, garlic, cumin, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "While the chicken is cooking, heat the confit tomato in a saucepan over low heat.",
+    "Serve the chicken kebabs with the warmed confit tomato spooned over the top.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "egyptian-cuisine",
+    "grilled-chicken",
+    "high-protein",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-bouncy-egyptian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bouncy-egyptian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:07:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "coconut cream",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy bouncy",
+    "dishForm": "Kebabs"
+  }
+}
