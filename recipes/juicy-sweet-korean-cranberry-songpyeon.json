@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Sweet Korean Cranberry Songpyeon",
+  "description": "A funky and snappy Korean dish featuring cranberry juice, perfect for a lazy Sunday, this recipe is ayurvedic-tamasic-friendly and formed into songpyeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cranberry juice",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Deep-fry-tod oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, sugar, and salt.",
+    "Gradually add in cranberry juice, sesame oil, and water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls and flatten each into a disk shape.",
+    "Place a few dried cranberries in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat the deep-fry-tod oil in a deep frying pan to 350 degrees.",
+    "Fry the songpyeon until they are golden brown, about 2-3 minutes on each side.",
+    "Drain the songpyeon on paper towels and serve warm.",
+    "Mix cornstarch and egg in a small bowl to make a glaze and brush over the songpyeon before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "deep-fried",
+    "korean-snack",
+    "lazy-sunday",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "juicy-sweet-korean-cranberry-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-korean-cranberry-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:22:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "cranberry juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cranberries",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Songpyeon"
+  }
+}
