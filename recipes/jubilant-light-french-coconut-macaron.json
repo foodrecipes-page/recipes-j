@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Light French Coconut Macaron",
+  "description": "A peppery and light French macaron featuring coconut cream and baking powder, perfect as a post-workout snack. This recipe is designed to be anti-inflammatory friendly.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "In a medium bowl, sift together the almond flour, confectioners sugar, and baking powder.",
+    "In a large bowl, whip the egg whites and granulated sugar until stiff peaks form.",
+    "Add the black pepper and salt to the egg mixture and whip until combined.",
+    "Fold the dry ingredients into the egg mixture until well combined.",
+    "Transfer the mixture to a piping bag and pipe small circles onto the prepared baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles and allow the macarons to sit at room temperature for 30 minutes to form a skin.",
+    "Bake the macarons for 15 minutes, then allow them to cool completely on the baking sheet.",
+    "To assemble the macarons, pair up the shells by size and shape, then spoon a small amount of chilled coconut cream onto one half of each pair.",
+    "Top with the other half of the macaron and garnish with unsweetened shredded coconut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "coconut-cream",
+    "french-pastry",
+    "gluten-free",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "jubilant-light-french-coconut-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-light-french-coconut-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:56:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "baking powder",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "coconut",
+    "descriptor": "Jubilant Light",
+    "dishForm": "Macaron"
+  }
+}

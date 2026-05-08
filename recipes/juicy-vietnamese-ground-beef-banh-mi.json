@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Vietnamese Ground Beef Banh Mi",
+  "description": "A crowd-pleasing Vietnamese dish featuring ground beef and served in a banh mi, this recipe is a umami-rich and diabetic-friendly option, with a glassy-jelly texture from the pickled vegetables. It is made with agemono-deep-fry techniques for added crunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "banh mi bread",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the fish sauce and soy sauce to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the liquid has been absorbed.",
+    "In a small bowl, mix together the mayonnaise and sriracha.",
+    "Spread the mayonnaise mixture onto the toasted banh mi bread.",
+    "Top the bread with the cooked ground beef, pickled carrots, pickled daikon, cucumber, and cilantro.",
+    "Serve immediately and enjoy.",
+    "For added crunch, deep-fry the cooked ground beef in hot oil at 350 degrees Fahrenheit for 2-3 minutes, until crispy.",
+    "Drain the deep-fried ground beef on paper towels before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "deep-fry",
+    "diabetic-friendly",
+    "gluten-free",
+    "ground-beef",
+    "lunch-ideas",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-vietnamese-ground-beef-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-vietnamese-ground-beef-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:55:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "ground beef",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ground beef",
+    "descriptor": "Juicy Glassy",
+    "dishForm": "Banh Mi"
+  }
+}

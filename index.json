@@ -4823,6 +4823,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-light-french-coconut-macaron",
+    "title": "Jubilant Light French Coconut Macaron",
+    "tags": [
+      "anti-inflammatory",
+      "coconut-cream",
+      "french-pastry",
+      "gluten-free",
+      "post-workout",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 65,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-light-mexican-poblanos-tlayudas",
     "title": "Jubilant Light Mexican Poblanos Tlayudas",
     "tags": [
@@ -10066,6 +10081,22 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-vietnamese-ground-beef-banh-mi",
+    "title": "Juicy Vietnamese Ground Beef Banh Mi",
+    "tags": [
+      "banh-mi",
+      "deep-fry",
+      "diabetic-friendly",
+      "gluten-free",
+      "ground-beef",
+      "lunch-ideas",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
