@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Velvety Canadian Thai Eggplant Bowl",
+  "description": "A vegetarian dish featuring Thai eggplant and Canadian flavors, with a velvety texture and energizing taste. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Canadian Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Cut the Thai eggplant into 1-inch pieces and place them in the air fryer basket.",
+    "Drizzle the canola oil over the eggplant and cook for 10 minutes, shaking the basket halfway through.",
+    "In a large skillet, heat 1 tablespoon of canola oil over medium heat and saute the onion and garlic until softened.",
+    "In a small bowl, whisk together the soy sauce, maple syrup, and rice vinegar.",
+    "Pour the sauce over the onion and garlic mixture and bring to a simmer.",
+    "Add the cooked eggplant to the skillet and stir to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve the eggplant mixture over cooked rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "healthy",
+    "one-pan",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-velvety-canadian-thai-eggplant-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-velvety-canadian-thai-eggplant-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian Thai",
+    "mainIngredient": "thai eggplant",
+    "descriptor": "Juicy Velvety",
+    "dishForm": "Bowl"
+  }
+}
