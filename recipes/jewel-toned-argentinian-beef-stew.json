@@ -1,0 +1,99 @@
+{
+  "title": "Jewel Toned Argentinian Beef Stew",
+  "description": "A resinous and flavorful Argentinian beef stew featuring star anise, perfect for a weeknight dinner, this sugar-free-friendly dish is simmered in a nimono-style broth",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "ground into a fine powder"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and brown the beef pieces on all sides",
+    "Remove the browned beef from the pot and set it aside, then add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning",
+    "Add the chopped red bell pepper and cook until it begins to soften",
+    "Add the ground star anise, tomato paste, beef broth, salt, and black pepper to the pot, stirring to combine",
+    "Return the browned beef to the pot and bring the stew to a boil",
+    "Reduce the heat to low and simmer the stew, covered, for 2 1/2 hours, or until the beef is tender",
+    "Remove the pot from the heat and let the stew cool slightly before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-stew",
+    "one-pot",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "jewel-toned-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:06:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "star anise",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "jewel toned",
+    "dishForm": "Stew"
+  }
+}
