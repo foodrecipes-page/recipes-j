@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Norwegian Galangal Skewers",
+  "description": "A Whole30-friendly Norwegian dish featuring galangal and a mustardy flavor, perfect for a crowd, this recipe uses spherification to add a unique aerated texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium roots",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a blender, combine chopped galangal, coconut milk, yellow mustard, salt, and black pepper, and blend until smooth.",
+    "Thread the beef cubes onto skewers, leaving a small space between each cube.",
+    "Brush the galangal mixture onto the beef cubes.",
+    "In a small bowl, mix the sodium alginate with water to create a spherification bath.",
+    "Drop the skewers into the spherification bath and let them sit for 30 seconds to create a unique aerated texture.",
+    "Remove the skewers from the bath and place them on the grill.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the beef is cooked through.",
+    "Brush the coconut oil onto the skewers during the last minute of grilling.",
+    "Serve the skewers hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "norwegian-cuisine",
+    "paleo",
+    "skewers",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jubilant-norwegian-galangal-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-norwegian-galangal-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:23:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "spherify",
+    "primaryIngredient": "galangal-kha",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "galangal",
+    "descriptor": "jubilant mustardy",
+    "dishForm": "Skewers"
+  }
+}
