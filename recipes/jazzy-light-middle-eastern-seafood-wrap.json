@@ -1,0 +1,102 @@
+{
+  "title": "Jazzy Light Middle Eastern Seafood Wrap",
+  "description": "A sour and light Middle Eastern dish featuring seafood stock, cooked in a ttukbaegi earthenware and wrapped in a corn husk, high in protein and perfect for a quick fix. This dish combines the flavors of the Middle East with the freshness of seafood.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped mint",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware over medium heat.",
+    "Add the olive oil, garlic, sumac, and paprika to the earthenware and cook for 1 minute.",
+    "Add the shrimp to the earthenware and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the seafood stock and lemon juice to the earthenware and bring to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 5 minutes.",
+    " Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the seafood mixture onto a corn husk and topping with parsley and mint.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "middle-eastern",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "jazzy-light-middle-eastern-seafood-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-light-middle-eastern-seafood-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "seafood stock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "seafood",
+    "descriptor": "Jazzy Light",
+    "dishForm": "Wrap"
+  }
+}
