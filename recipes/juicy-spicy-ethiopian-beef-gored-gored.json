@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Spicy Ethiopian Beef Gored Gored",
+  "description": "A spicy and chewy Ethiopian dish featuring white bread mix and a sweet glaze, served on a salt block. This festive dish is perfect for special occasions and is anti-inflammatory friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "white bread mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the white bread mix, berbere spice, and salt.",
+    "Add the beef cubes to the bowl and toss to coat with the bread mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the beef until browned on all sides.",
+    "In a small bowl, whisk together the honey, garlic, and ginger to make the glaze.",
+    "Brush the glaze over the cooked beef and place on a preheated salt block.",
+    "Bake the beef in the preheated oven for 10 minutes to caramelize the glaze.",
+    "Remove the beef from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ethiopian",
+    "gluten-free",
+    "salt-block",
+    "special-occasion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-spicy-ethiopian-beef-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-ethiopian-beef-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:37:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "white bread mix",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Gored Gored"
+  }
+}
