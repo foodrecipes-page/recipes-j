@@ -1,0 +1,89 @@
+{
+  "title": "Turkish Cheese Kunefe",
+  "description": "A traditional Turkish dessert featuring melted cheese between crunchy phyllo dough, flavored with white wine and baked to perfection in a wood-fired oven. It is a Mediterranean-friendly dish perfect for a weeknight treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "white cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with melted butter.",
+    "Mix the crumbled white cheese with sugar, rose water, and salt.",
+    "Place the cheese mixture in the center of the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the cheese, brushing the edges with water to seal.",
+    "Bake the kunefe in the preheated oven for 25 minutes, or until golden brown.",
+    "Remove the kunefe from the oven and let it cool for 5 minutes.",
+    "Drizzle the white wine over the kunefe and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-dessert",
+    "crunchy",
+    "mediterranean-friendly",
+    "turkish-dish",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "juicy-crunchy-turkish-cheese-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-turkish-cheese-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:24:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "white wine",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Kunefe"
+  }
+}

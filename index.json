@@ -7622,6 +7622,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-crunchy-turkish-cheese-kunefe",
+    "title": "Turkish Cheese Kunefe",
+    "tags": [
+      "cheese-dessert",
+      "crunchy",
+      "mediterranean-friendly",
+      "turkish-dish",
+      "weeknight",
+      "wood-fired"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-date-night-tunisian-passion-fruit-tagine",
     "title": "Juicy Date-Night Tunisian Passion Fruit Tagine",
     "tags": [
@@ -11822,6 +11837,21 @@
     ],
     "cuisine": "Canadian Thai",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-velvety-turkish-lamb-kofte",
+    "title": "Juicy Velvety Turkish Lamb Kofte",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "hangover-cure",
+      "lamb-recipes",
+      "ssam-wraps",
+      "turkish-food"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Velvety Turkish Lamb Kofte",
+  "description": "A traditional Turkish dish featuring lamb kofte with a velvety texture and earthy flavors, perfect for a hangover cure. This recipe uses coco sugar and is egg-free friendly, served in a ssam-wrap style.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4-6",
+      "notes": "depending on size"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, coco sugar, chopped onion, minced garlic, salt, black pepper, and paprika.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Do not overmix the meat mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, remove the meat mixture from the refrigerator and let it sit at room temperature for 10 minutes.",
+    "Use your hands to shape the meat mixture into small cylindrical kofte, about 1 1/2 inches long and 1 inch in diameter.",
+    "Place the kofte on a baking sheet lined with parchment paper, leaving a little space between each kofte to allow for even cooking.",
+    "Bake the kofte in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the kofte are cooking, warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the kofte are done, remove them from the oven and let them cool for a few minutes.",
+    "Serve the kofte in the warmed ssam wraps, garnished with your choice of toppings such as chopped fresh herbs or sliced vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "hangover-cure",
+    "lamb-recipes",
+    "ssam-wraps",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "juicy-velvety-turkish-lamb-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-velvety-turkish-lamb-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:24:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "coco sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Velvety",
+    "dishForm": "Kofte"
+  }
+}
