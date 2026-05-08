@@ -1,0 +1,91 @@
+{
+  "title": "Jagged Garlicky Uruguayan Fideo Noodles",
+  "description": "A pescatarian-friendly Uruguayan dish featuring fideo noodles, garlic, and seafood, inspired by the monsoon season.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "8 oz",
+      "notes": "preferably jagged cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pint"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the fish broth to a boil in a large pot.",
+    "Add the fideo noodles and cook until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and saute until fragrant.",
+    "Add the shrimp and mussels to the skillet and cook until the seafood is opaque and the mussels are open.",
+    "Add the white wine to the skillet and stir to deglaze.",
+    "Combine the cooked noodles, seafood mixture, and chopped parsley in a large serving dish.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "monsoon-inspired",
+    "noodle-dish",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jagged-garlicky-uruguayan-fideo-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-garlicky-uruguayan-fideo-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:58:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "fideo",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fideo",
+    "descriptor": "jagged garlicky",
+    "dishForm": "Noodles"
+  }
+}

@@ -213,6 +213,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-garlicky-uruguayan-fideo-noodles",
+    "title": "Jagged Garlicky Uruguayan Fideo Noodles",
+    "tags": [
+      "latin-american",
+      "monsoon-inspired",
+      "noodle-dish",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-indian-paneer-rasmalai",
     "title": "Jagged Indian Paneer Rasmalai",
     "tags": [
