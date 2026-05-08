@@ -1,0 +1,107 @@
+{
+  "title": "Jazzy Japanese Pork Tan Tan Udon",
+  "description": "A citrusy and creamy Japanese dish featuring minced pork and binchotan-charcoal, with anti-inflammatory friendly ingredients, served as a tan-tan-udon.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably pastured"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces",
+      "notes": "for smoking"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "for anti-inflammatory benefits"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with lemon juice"
+    }
+  ],
+  "instructions": [
+    "Start by smoking the binchotan charcoal until it is covered in a thin layer of ash.",
+    "In a large pan, heat the sesame oil over medium heat and add the grated ginger and minced garlic.",
+    "Cook the ginger and garlic for 2 minutes, stirring constantly, until fragrant.",
+    "Add the minced pork to the pan, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Add the turmeric, soy sauce, and yuzu juice to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes, stirring occasionally.",
+    "While the pork mixture is cooking, cook the udon noodles according to the package instructions.",
+    "To serve, place the cooked noodles in a bowl, top with the pork mixture, and garnish with thinly sliced green onions.",
+    "Use the smoked binchotan charcoal to add a smoky flavor to the dish, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "japanese-cuisine",
+    "noodle-dishes",
+    "pork-recipes",
+    "smoked-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "jazzy-japanese-pork-tan-tan-udon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-japanese-pork-tan-tan-udon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:00:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "minced pork",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Jazzy Creamy",
+    "dishForm": "Tan Tan Udon"
+  }
+}
