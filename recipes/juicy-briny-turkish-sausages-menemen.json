@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Briny Turkish Sausages Menemen",
+  "description": "A light Turkish dish featuring German sausages, served in a tandoor clay pot, perfect for a snack or lunch",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "preferably with a high meat content"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot over medium heat",
+    "Add the olive oil and cook the sliced onions until they are translucent",
+    "Add the sliced bell peppers and cook until they are tender",
+    "Add the diced tomatoes and cook until they start to break down",
+    "Add the German sausages and cook until they are browned on all sides",
+    "Add the beaten eggs and stir gently to combine with the vegetables and sausages",
+    "Add the crumbly feta cheese and stir gently to combine",
+    "Season with salt, black pepper, and paprika to taste",
+    "Cover the tandoor clay pot and cook for an additional 5 minutes",
+    "Serve the menemen hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meat-based",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-briny-turkish-sausages-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-briny-turkish-sausages-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "german sausages",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sausages",
+    "descriptor": "Juicy Briny",
+    "dishForm": "Menemen"
+  }
+}
