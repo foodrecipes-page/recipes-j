@@ -70,8 +70,7 @@
     "lazy-sunday",
     "malaysian-cuisine",
     "noodle-dish",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -96,5 +95,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Jovial Lazy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

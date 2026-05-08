@@ -3,7 +3,6 @@
   "description": "A garlicky, cheese-pull crowd-pleaser Algerian tagine that pairs hearty lentils with dashi extract for depth, topped with a melty cheese blend and made egg-free.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "dinner",
@@ -81,8 +80,7 @@
     "easy",
     "egg-free",
     "garlicky",
-    "tagine",
-    "vegetarian"
+    "tagine"
   ],
   "nutrition": {
     "calories": 2115,
@@ -107,5 +105,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Jazzy Cheesy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

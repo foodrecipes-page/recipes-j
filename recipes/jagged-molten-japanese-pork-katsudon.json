@@ -3,8 +3,7 @@
   "description": "A spicy and molten Japanese dish featuring cranberry juice and dairy-free friendly ingredients, perfect for a hangover cure. This katsudon recipe combines the crispy texture of pork cutlet with a sweet and spicy sauce.",
   "cuisine": "Japanese",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "hangover-cure",
     "japanese-cuisine",
     "pork-recipes",
@@ -96,5 +94,9 @@
     "mainIngredient": "pork",
     "descriptor": "Jagged Molten",
     "dishForm": "Katsudon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

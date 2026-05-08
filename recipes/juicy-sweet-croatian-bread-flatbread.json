@@ -3,7 +3,6 @@
   "description": "A warm, fermented flatbread bursting with caramelized sugar and tender crumb, perfect as a sweet snack or dessert.",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "fermented",
-    "gluten-free",
     "croatian",
     "flatbread",
     "sweet",
@@ -94,5 +92,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Juicy Sweet",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -63,7 +63,8 @@
     "Drizzle olive oil, squeeze lemon juice, and sprinkle oregano over the mixture.",
     "Gently crumble feta cheese on top and season with salt and pepper to taste.",
     "Transfer the assembled bowl to a lacquerware bowl for serving.",
-    "Let the bowl rest for 2 minutes to allow the feta to melt slightly, then enjoy."
+    "Let the bowl rest for 2 minutes to allow the feta to melt slightly, then enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -102,5 +103,9 @@
     "mainIngredient": "Feta",
     "descriptor": "Juicy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

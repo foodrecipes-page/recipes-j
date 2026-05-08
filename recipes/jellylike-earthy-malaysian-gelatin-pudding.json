@@ -3,7 +3,6 @@
   "description": "A traditional Malaysian dessert featuring unflavored gelatin and earthy flavors, perfect for a date night, this ayurvedic-tamasic-friendly pudding is both chewy and delicious, with a unique texture that will leave you wanting more.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -85,5 +84,9 @@
     "mainIngredient": "gelatin",
     "descriptor": "Jellylike Earthy",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

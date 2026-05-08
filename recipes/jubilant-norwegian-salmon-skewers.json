@@ -3,7 +3,6 @@
   "description": "A sweet and snappy Norwegian dish featuring miso-marinated salmon, perfect for a date night, served in a ramekin with a side of rice wine sauce.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "grilled",
     "healthy",
     "norwegian-cuisine",
@@ -100,5 +98,9 @@
     "mainIngredient": "salmon",
     "descriptor": "jubilant miso glazed",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

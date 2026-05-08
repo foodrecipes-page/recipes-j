@@ -3,8 +3,6 @@
   "description": "A mediterranean-friendly Filipino dish featuring natural yoghurt and ferment-kimchi, wrapped in a lotus leaf.",
   "cuisine": "Filipino",
   "diet": [
-    "vegan",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -92,7 +90,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-carb",
     "one-pan",
     "vegan-friendly",
@@ -121,5 +118,10 @@
     "mainIngredient": "yoghurt",
     "descriptor": "juicy fresh",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

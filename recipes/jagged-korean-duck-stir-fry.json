@@ -63,7 +63,8 @@
     "Pour 1 tablespoon rice vinegar, stir, cooking until duck is evenly coated and heated through ~3-4 minutes.",
     "Sprinkle with a pinch of white pepper and toss with toasted sesame seeds.",
     "Reduce heat to low, cover, and let the flavors meld for 2 minutes.",
-    "Plate hot and serve immediately."
+    "Plate hot and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "duck",
     "descriptor": "Jagged",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

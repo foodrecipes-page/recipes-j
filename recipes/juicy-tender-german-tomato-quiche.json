@@ -54,7 +54,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "dairy-free",
     "german",
     "kid-friendly",
     "one-pan",
@@ -84,5 +83,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "juicy tender",
     "dishForm": "quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

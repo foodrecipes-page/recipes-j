@@ -52,7 +52,8 @@
     "Reduce the heat to low and let the mixture cook while preparing the sopes",
     "Warm the sopes shells by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
     "Assemble the sopes by spooning the beef mixture onto a shell, followed by a sprinkle of shredded cheese, diced tomato, and chopped cilantro",
-    "Serve immediately and enjoy"
+    "Serve immediately and enjoy",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "Juicy Flaky",
     "dishForm": "Sopes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

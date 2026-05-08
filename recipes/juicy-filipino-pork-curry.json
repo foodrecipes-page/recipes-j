@@ -53,7 +53,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Serve the curry hot, garnished with fresh herbs if desired.",
     "Arrange the curry on a wooden board for a unique presentation.",
-    "Serve with steamed rice or noodles for a filling meal."
+    "Serve with steamed rice or noodles for a filling meal.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "juicy tender",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

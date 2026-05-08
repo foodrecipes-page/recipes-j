@@ -2,9 +2,7 @@
   "title": "Jubilant Juicy Indian Lamb Biryani",
   "description": "A salty, cheesy, and aromatic Kashmiri dish featuring ground nutmeg, this lamb biryani is perfect for a monsoon evening. It is a kosher-friendly recipe that serves 6 people.",
   "cuisine": "Indian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Jubilant Juicy",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

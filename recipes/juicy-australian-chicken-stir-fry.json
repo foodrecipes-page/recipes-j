@@ -51,7 +51,8 @@
     "Push chicken to one side of the pan and add diced tomatoes to the other side. Let cook for about 2 minutes, then mix everything together.",
     "Pour in the sauce mixture and bring to a boil.",
     "Reduce heat to low and simmer for an additional 3-5 minutes until the sauce thickens slightly and everything is heated through.",
-    "Serve hot with steamed rice or noodles."
+    "Serve hot with steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

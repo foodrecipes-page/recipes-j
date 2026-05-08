@@ -60,7 +60,8 @@
     "Remove chicken from pan and set aside. In the same pan, add a bit of oil if needed, then add minced ginger, scallions, chili garlic sauce, and oyster sauce (if using). Stir-fry for about 30 seconds until fragrant.",
     "Deglaze the pan with white vinegar, scraping up any browned bits from the bottom. Bring to a simmer, letting it bubble for about 1 minute to release flavors.",
     "Add cooked chicken back into the pan and stir to coat evenly in the sauce. Add mixed vegetables and soy sauce (low-sodium option). Stir-fry until just tender, approximately 2-3 minutes.",
-    "Serve hot with steamed jasmine rice or noodles."
+    "Serve hot with steamed jasmine rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Juicy Savory Low-Fat",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

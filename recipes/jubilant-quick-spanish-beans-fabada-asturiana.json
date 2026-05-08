@@ -62,7 +62,9 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Serve the fabada asturiana hot, garnished with chopped fresh parsley if desired.",
     "Let the dish rest for 5 minutes before serving.",
-    "Serve with crusty bread or over rice."
+    "Serve with crusty bread or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +101,10 @@
     "mainIngredient": "beans",
     "descriptor": "Jubilant Quick",
     "dishForm": "Fabada Asturiana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

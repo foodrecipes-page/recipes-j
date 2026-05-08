@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful Syrian dish featuring lamb, pickle, and low-glycemic-friendly ingredients, perfect for a hangover cure.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -70,7 +69,8 @@
     "Bring to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
     "Uncover and continue to cook for another 30 minutes, or until the sauce has thickened and the lamb is tender.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 240,
@@ -109,5 +109,10 @@
     "mainIngredient": "Lamb",
     "descriptor": "Jarring Malty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

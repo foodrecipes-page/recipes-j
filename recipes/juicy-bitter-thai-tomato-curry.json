@@ -2,9 +2,7 @@
   "title": "Juicy Bitter Thai Tomato Curry",
   "description": "A midnightcraving Thai dish that balances the bitterness of tomatoes with caramelized aromatics and a lowsodium kick.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -34,10 +32,10 @@
     {
       "name": "Thai red curry paste",
       "amount": "1 tablespoon (15g)",
-      "notes": "low\u2011sodium"
+      "notes": "low‑sodium"
     },
     {
-      "name": "low\u2011sodium vegetable broth",
+      "name": "low‑sodium vegetable broth",
       "amount": "1 cup (250ml)"
     },
     {
@@ -54,7 +52,7 @@
       "notes": "optional, for balance"
     },
     {
-      "name": "low\u2011sodium fish sauce",
+      "name": "low‑sodium fish sauce",
       "amount": "1 teaspoon (5ml)"
     },
     {
@@ -64,8 +62,8 @@
     }
   ],
   "instructions": [
-    "Heat sesame oil in a large skillet over medium\u2011high heat. Add sliced onions and cook until translucent, about 3\u20114 minutes.",
-    "Stir in minced garlic and grated ginger, saut\u00e9ing for 30 seconds until fragrant.",
+    "Heat sesame oil in a large skillet over medium‑high heat. Add sliced onions and cook until translucent, about 3‑4 minutes.",
+    "Stir in minced garlic and grated ginger, sautéing for 30 seconds until fragrant.",
     "Add Thai red curry paste, cooking for one more minute and stirring to coat the aromatics.",
     "Pour in diced tomatoes and cook for 5 minutes, letting them soften and release juices.",
     "Add vegetable broth and coconut milk, stirring to combine. Bring to a gentle simmer.",
@@ -82,7 +80,6 @@
     "thai",
     "tomato-curry",
     "low-sodium",
-    "vegetarian",
     "quick"
   ],
   "nutrition": {
@@ -108,5 +105,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Juicy Bitter",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

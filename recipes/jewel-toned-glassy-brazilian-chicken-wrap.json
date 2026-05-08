@@ -50,7 +50,8 @@
     "Spoon the mustard and jelly sauce mixture over the chicken.",
     "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
     "Repeat with the remaining ingredients.",
-    "Serve the wraps warm or at room temperature."
+    "Serve the wraps warm or at room temperature.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "jewel toned glassy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

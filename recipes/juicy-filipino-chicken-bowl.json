@@ -58,7 +58,8 @@
     "Return the chicken to the skillet and stir in the fish sauce, salt, and black pepper.",
     "Reduce the heat to low and let the chicken simmer in the creamy sauce for 10 minutes.",
     "Stir in the chopped cilantro and cook for an additional 2 minutes.",
-    "Serve the chicken and sauce in a hot dolsot stone bowl."
+    "Serve the chicken and sauce in a hot dolsot stone bowl.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "juicy buttery",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

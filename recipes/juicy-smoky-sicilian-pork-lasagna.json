@@ -3,7 +3,6 @@
   "description": "A smoky and savory one-pot Italian dish featuring pork, lasagna noodles, and a blend of cheeses, cooked to perfection in an air fryer.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -71,7 +70,8 @@
     "Spread half of the ricotta cheese mixture over the noodles, followed by half of the cooked pork mixture.",
     "Repeat the layers, starting with the noodles, then the marinara sauce, then the remaining ricotta cheese mixture, and finally the remaining pork mixture.",
     "Top the lasagna with the remaining shredded mozzarella cheese.",
-    "Cook the lasagna in the air fryer for 20 minutes, or until the cheese is melted and bubbly."
+    "Cook the lasagna in the air fryer for 20 minutes, or until the cheese is melted and bubbly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -110,5 +110,10 @@
     "mainIngredient": "pork",
     "descriptor": "Juicy Smoky",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

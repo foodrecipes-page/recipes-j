@@ -2,9 +2,7 @@
   "title": "Jagged Flaky Mexican Manchego Pozole",
   "description": "A briny and flaky Mexican dish featuring Manchego cheese, perfect for a weeknight dinner, with a pescatarian-friendly twist in the form of a hearty pozole.",
   "cuisine": "Mexican",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "Add the shredded Manchego cheese and stir until melted.",
     "Add the peeled and deveined shrimp and cook until pink.",
     "Season with salt and lime juice to taste.",
-    "Serve hot, garnished with additional Manchego cheese if desired."
+    "Serve hot, garnished with additional Manchego cheese if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -70,7 +69,6 @@
     "comfort-food",
     "mexican",
     "one-pot",
-    "pescatarian",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +94,10 @@
     "mainIngredient": "manchego",
     "descriptor": "Jagged Flaky",
     "dishForm": "Pozole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and tangy Southern-Thai inspired dish featuring slow-cooked pork tenderloin with a hint of lemongrass and galangal, served in a crispy rice bowl with fresh herbs and pickled carrots.",
   "cuisine": "Southern-Thai",
   "diet": [
-    "ovo-vegetarian",
-    "gluten-free"
+    "ovo-vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "pork tenderloin",
     "descriptor": "juicy slow-cooked",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

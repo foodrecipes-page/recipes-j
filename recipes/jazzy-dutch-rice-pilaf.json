@@ -3,8 +3,6 @@
   "description": "A resinous, aerated pilaf dish made with Arabic rice, poached to perfection in a halal-friendly broth. Perfect for a lazy Sunday afternoon.",
   "cuisine": "Dutch, Middle Eastern",
   "diet": [
-    "halal",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -112,7 +110,8 @@
     "To serve, fluff the rice with a fork and stir in the pomegranate molasses mixture, pine nuts, chopped parsley, crumbled sumac, and chopped cilantro.",
     "Garnish with pomegranate seeds and serve warm.",
     "Let the pilaf rest for 10 minutes before serving to allow the flavors to meld together.",
-    "Serve hot, garnished with additional sumac and pine nuts if desired."
+    "Serve hot, garnished with additional sumac and pine nuts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -122,10 +121,8 @@
   "tags": [
     "dutch",
     "gluten-free",
-    "halal",
     "middle-eastern",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -151,5 +148,11 @@
     "mainIngredient": "rice",
     "descriptor": "jazzy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

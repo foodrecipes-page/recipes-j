@@ -2,9 +2,7 @@
   "title": "juicy Turkish fish İmam Bayildi",
   "description": "a resinous, juicy, monsoon Turkish dish featuring white fish",
   "cuisine": "Turkish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "tags": [
     "fish",
     "one-pan",
-    "pescatarian",
     "turkish",
     "weeknight"
   ],
@@ -102,5 +99,9 @@
     "mainIngredient": "fish",
     "descriptor": "juicy",
     "dishForm": "İmam Bayildi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

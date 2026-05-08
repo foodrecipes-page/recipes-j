@@ -3,7 +3,6 @@
   "description": "A creamy, spicy rice bowl packed with kimchi, tofu and a tangy lime finish, perfect for a post-workout meal.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "rice",
     "descriptor": "Juicy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

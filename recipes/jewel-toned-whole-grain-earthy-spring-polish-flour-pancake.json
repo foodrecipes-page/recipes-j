@@ -54,7 +54,6 @@
   "difficulty": "medium",
   "tags": [
     "ayurvedic",
-    "gluten-free",
     "high-fiber",
     "spring-veggies",
     "whole-grain"
@@ -82,5 +81,9 @@
     "mainIngredient": "polish flour",
     "descriptor": "jewel-toned whole grain",
     "dishForm": "pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -57,7 +57,8 @@
     "In a separate bowl, whisk together the chicken broth and malt syrup.",
     "Pour the broth mixture over the Rice Krispies mixture and stir until everything is well combined.",
     "Cover the bowl with a lid and bake for 25 minutes.",
-    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly toasted."
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly toasted.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -95,5 +96,9 @@
     "mainIngredient": "rice",
     "descriptor": "jolly smoky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

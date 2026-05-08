@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing Mexican dish featuring chicken cooked in a spicy tomato sauce with a hint of dijon mustard, served in tacos with fresh toppings, this Veracruzan-inspired recipe is a bitter and snappy twist on traditional tacos. It's a pressure-cook and dash-friendly recipe perfect for weeknights.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,8 @@
     "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
     "Shred the chicken with two forks and stir to combine with the sauce.",
     "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with shredded lettuce, diced avocado, and any other desired toppings."
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla and topping with shredded lettuce, diced avocado, and any other desired toppings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -101,5 +101,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Jazzy Spicy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

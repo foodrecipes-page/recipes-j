@@ -2,9 +2,7 @@
   "title": "Jazzy Chewy Mediterranean Herbal Tagine",
   "description": "A festive and aromatic Mediterranean dish made with claypot and featuring Marsala-wine and yuzu-cure. This herb-infused stew is perfect for a cold winter night.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Season the chicken with salt and pepper in a small bowl.",
     "Heat 1 tablespoon of olive oil in the claypot over medium-high heat.",
     "Sear the chicken until browned on all sides, about 5 minutes. Remove and set aside.",
-    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the claypot."
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the claypot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -93,5 +92,10 @@
     "mainIngredient": "herbal dish",
     "descriptor": "jazzy chewy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A herbal and crispy Thai dish featuring salsa and slow-cooked chicken, perfect for adventurous eaters, this recipe is also raw-friendly and can be served as a snack or appetizer.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "appetizer",
-    "dairy-free",
     "gluten-free",
     "raw-friendly",
     "snack",
@@ -97,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Jazzy Crispy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

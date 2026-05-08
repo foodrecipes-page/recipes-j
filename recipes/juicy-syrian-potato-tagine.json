@@ -56,7 +56,8 @@
     "Pour in the chicken broth and bring the mixture to a simmer.",
     "Cover the claypot with a lid and transfer it to the preheated oven.",
     "Bake for 30 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 20 minutes.",
-    "Remove the claypot from the oven and let it cool for a few minutes before serving."
+    "Remove the claypot from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -93,5 +94,9 @@
     "mainIngredient": "Yukon gold potatoes",
     "descriptor": "Juicy tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

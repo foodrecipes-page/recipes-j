@@ -3,7 +3,6 @@
   "description": "A fresh and crisp British dish featuring asparagus, perfect for a brunch mood, and friendly to dairy-free diets. This skillet is made with brine-wet asparagus and other tasty ingredients.",
   "cuisine": "British",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -59,7 +58,6 @@
   "difficulty": "easy",
   "tags": [
     "brunch",
-    "dairy-free",
     "one-pan",
     "quick",
     "vegetarian"
@@ -87,5 +85,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "Juicy Fresh",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

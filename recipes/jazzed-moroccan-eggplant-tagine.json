@@ -3,8 +3,6 @@
   "description": "herbal, shaggy, festive moroccan dish featuring prosciutto, yakimono-grill, dash-friendly, form=zaalouk",
   "cuisine": "moroccan",
   "diet": [
-    "vegan",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -94,8 +92,7 @@
     "lamb-free",
     "moroccan",
     "prosciutto",
-    "tagine",
-    "vegetarian"
+    "tagine"
   ],
   "nutrition": {
     "calories": 340,
@@ -120,5 +117,10 @@
     "mainIngredient": "Eggplant",
     "descriptor": "Jazzed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

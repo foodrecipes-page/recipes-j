@@ -4,7 +4,6 @@
   "cuisine": "Canadian",
   "diet": [
     "vegan-friendly",
-    "gluten-free",
     "meat-lovers"
   ],
   "meal": "breakfast",
@@ -137,11 +136,16 @@
     "mood": "lazy-sunday",
     "technique": "brine-dry",
     "primaryIngredient": "dark rum",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "beef",
     "descriptor": "juicy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

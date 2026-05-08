@@ -3,8 +3,7 @@
   "description": "A malty, juicy, post-workout Jamaican dish featuring red-curry-paste, nimono-simmer, and Buddhist-temple-friendly ingredients.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -84,7 +83,6 @@
     "one-pan",
     "post-workout",
     "quick-meal",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -110,5 +108,9 @@
     "mainIngredient": "sweet potato",
     "descriptor": "juicy post-workout",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

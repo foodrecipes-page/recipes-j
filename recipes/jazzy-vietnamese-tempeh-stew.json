@@ -3,8 +3,7 @@
   "description": "A vibrant, sugar‑free Vietnamese tempeh stew cooked in a dolsot stone bowl, perfect for meal‑prep with a tagine‑style simmer.",
   "cuisine": "Vietnamese",
   "diet": [
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,8 +76,7 @@
     "dolsot",
     "quick",
     "stew",
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "nutrition": {
     "calories": 120,
@@ -103,5 +101,9 @@
     "mainIngredient": "Tempeh",
     "descriptor": "Jazzy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -58,7 +58,8 @@
     "Transfer the skillet to the preheated oven and bake for 20 minutes.",
     "Remove the skillet from the oven and stir in the powdered sugar.",
     "Return the skillet to the oven and bake for an additional 5 minutes.",
-    "Remove the skillet from the oven and let it cool for a few minutes."
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Jagged Crispy",
     "dishForm": "Mole Poblano"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

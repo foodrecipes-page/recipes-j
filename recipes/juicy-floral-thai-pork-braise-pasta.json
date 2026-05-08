@@ -3,7 +3,6 @@
   "description": "A sweet and savory Thai-inspired pasta dish featuring paccheri pasta, slow-cooked pork, and fragrant floral notes.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "sugar-free",
     "pork"
   ],
@@ -67,10 +66,11 @@
     "Add onion to pot, cooking until softened. Add garlic and cook 1 minute.",
     "Add curry paste and cook 1 minute, stirring constantly.",
     "Add fish sauce, lemon juice, and honey. Bring to a simmer.",
-    "Add pork back to pot, cover, and transfer to oven (375\u00b0F / 190\u00b0C). Braise 2 hours or until tender.",
+    "Add pork back to pot, cover, and transfer to oven (375°F / 190°C). Braise 2 hours or until tender.",
     "Add paccheri pasta to the pot, tossing to coat with braising liquid.",
     "Stir in Thai basil and Kaffir lime leaves. Season with salt.",
-    "Serve hot, garnished with additional Thai basil if desired."
+    "Serve hot, garnished with additional Thai basil if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 150,
@@ -109,5 +109,10 @@
     "mainIngredient": "pork",
     "descriptor": "juicy floral",
     "dishForm": "braise pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

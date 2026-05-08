@@ -52,7 +52,8 @@
     "Bring a large pot of water to a boil, and cook the dumplings for 10-15 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon, and serve in a Korean brass bowl.",
     "To achieve the jelly-like texture, cook the dumplings in the water for an additional 5 minutes, then remove and let cool.",
-    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "jelly like",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

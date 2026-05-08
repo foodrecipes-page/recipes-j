@@ -2,9 +2,7 @@
   "title": "Jolly Gooey Chinese Guanciale Dumplings",
   "description": "Malty, gooey dumplings wrapped in banana leaf, featuring crispy guanciale and a double-fry finish. Kid-friendly and sattvic-friendly.",
   "cuisine": "Chinese (Shandong)",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "tags": [
     "banana-leaf",
     "double-fry",
-    "gluten-free",
     "kid-friendly",
     "sattvic",
     "shandong-style"
@@ -104,5 +101,9 @@
     "mainIngredient": "guanciale",
     "descriptor": "Jolly Gooey",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

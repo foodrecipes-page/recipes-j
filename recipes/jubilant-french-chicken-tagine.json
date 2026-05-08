@@ -64,7 +64,8 @@
     "Serve the chicken and sauce hot, garnished with fresh herbs if desired.",
     "Cook the tagine for an additional 10 minutes if the sauce needs to thicken.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the Jubilant French Chicken Tagine hot and enjoy."
+    "Serve the Jubilant French Chicken Tagine hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Jubilant Beer Braised",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

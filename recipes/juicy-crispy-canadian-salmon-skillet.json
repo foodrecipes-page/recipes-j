@@ -4,8 +4,7 @@
   "cuisine": "Canadian",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "keto-friendly",
     "low-carb",
@@ -96,5 +94,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Juicy Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

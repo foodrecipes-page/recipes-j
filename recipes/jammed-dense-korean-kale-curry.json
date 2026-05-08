@@ -3,8 +3,7 @@
   "description": "A pungent and dense Korean curry dish featuring kale, made in a kadhai and inspired by Gyeongsang cuisine, with a Mediterranean twist",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean-curry",
     "mediterranean-inspired",
     "one-pot-meal",
@@ -105,5 +103,9 @@
     "mainIngredient": "kale",
     "descriptor": "Jammed Dense",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

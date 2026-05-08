@@ -43,7 +43,8 @@
     "Add onions, finely chopped garlic, and bell peppers. Stir fry until the vegetables are slightly tender.",
     "Stir in massaman curry paste, salt to taste, and tahini sauce.",
     "Pour in chicken broth or water, stir again, bring to a simmer, then cover and let cook for about 10 minutes until thickened.",
-    "Add soy sauce (or tamari) just before serving for extra umami flavor."
+    "Add soy sauce (or tamari) just before serving for extra umami flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -78,5 +79,9 @@
     "mainIngredient": "Peppers",
     "descriptor": "Juicy Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

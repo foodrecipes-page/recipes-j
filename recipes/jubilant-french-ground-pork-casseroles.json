@@ -55,7 +55,9 @@
     "In a large bowl, combine the cooked quinoa, shredded cheese, and the pork and mushroom mixture.",
     "Transfer the mixture to a Dutch oven and cover with a lid.",
     "Bake the casserole in the preheated oven for 25 minutes.",
-    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned."
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -93,5 +95,10 @@
     "mainIngredient": "ground pork",
     "descriptor": "Jubilant Hearty",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

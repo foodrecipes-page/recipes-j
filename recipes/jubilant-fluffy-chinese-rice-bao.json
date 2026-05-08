@@ -3,8 +3,7 @@
   "description": "A fermented, fluffy, and energizing Chinese dish featuring breadcrumbs and bonito-shave, made in a mason jar and Whole30-friendly.",
   "cuisine": "Chinese",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -61,7 +60,6 @@
   "tags": [
     "chinese-cuisine",
     "fermented-food",
-    "gluten-free",
     "healthy-snack",
     "mason-jar-recipe",
     "whole30-friendly"
@@ -89,5 +87,9 @@
     "mainIngredient": "rice",
     "descriptor": "Jubilant fluffy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

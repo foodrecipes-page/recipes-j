@@ -61,7 +61,8 @@
     "Shred the pork with two forks and stir to coat with the cooking juices.",
     "Add the little gem lettuce leaves to the wok and cook, stirring frequently, until wilted, about 2 minutes.",
     "Stir in the pickled onions and cook for an additional minute.",
-    "Serve the cochinita pibil hot, garnished with additional pickled onions and little gem lettuce leaves if desired."
+    "Serve the cochinita pibil hot, garnished with additional pickled onions and little gem lettuce leaves if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -99,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Jewel Toned",
     "dishForm": "Cochinita Pibil"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

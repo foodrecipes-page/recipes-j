@@ -3,8 +3,7 @@
   "description": "Funky, juicy, kid-friendly French (Alsatian) dish featuring vegetable oil and a sweet glaze, perfect for a quick breakfast or snack. This recipe is anti-inflammatory-friendly and easy to make.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Juicy Quick",
     "dishForm": "Croissant"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

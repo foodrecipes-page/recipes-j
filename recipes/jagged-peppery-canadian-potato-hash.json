@@ -3,7 +3,6 @@
   "description": "A peppery, gooey, adventurous Canadian dish featuring floury potatoes, double-fry-kfc, and raw-friendly ingredients, perfect for a snack or light meal.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -88,5 +87,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "jagged peppery",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

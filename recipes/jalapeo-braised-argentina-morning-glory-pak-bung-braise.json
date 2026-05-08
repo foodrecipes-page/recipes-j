@@ -58,7 +58,8 @@
     "Add trimmed morning-glory-pak-bung and cook until lightly browned.",
     "Add white wine, chicken broth, tomato paste, and thyme. Stir to combine.",
     "Bring to a boil, then cover and transfer to the oven at 300°F (150°C) for 25 minutes.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -94,5 +95,9 @@
     "mainIngredient": "morning-glory-pak-bung",
     "descriptor": "Jalapeo Braised",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

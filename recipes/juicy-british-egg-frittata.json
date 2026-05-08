@@ -51,7 +51,8 @@
     "Pour the egg mixture over the cooked pickles in the skillet.",
     "Transfer the skillet to the preheated oven and bake for 20 minutes.",
     "Remove the skillet from the oven and sprinkle the chopped parsley on top.",
-    "Let the frittata cool for a few minutes before slicing and serving."
+    "Let the frittata cool for a few minutes before slicing and serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "eggs",
     "descriptor": "juicy fluffy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

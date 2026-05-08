@@ -3,7 +3,6 @@
   "description": "This vegan-friendly dish features a floral and juicy Canadian squid dish made using sous-vide cooking method to create a gentle heat treatment for the delicate texture.",
   "cuisine": "Canadian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -85,5 +84,9 @@
     "mainIngredient": "Squid",
     "descriptor": "Juicy",
     "dishForm": "Sous-vide"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

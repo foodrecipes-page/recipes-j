@@ -3,8 +3,7 @@
   "description": "A silky, umami twist on traditional Turkish manti, featuring bramley apples and score-fat. Perfect for a romantic date-night dinner.",
   "cuisine": "Turkish",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "apples",
     "descriptor": "Jelly Jaded",
     "dishForm": "Manti"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

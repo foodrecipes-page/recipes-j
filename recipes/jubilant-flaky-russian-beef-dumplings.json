@@ -55,7 +55,8 @@
     "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
     "Heat coconut oil in a large skillet over medium heat and cook the dumplings for 5 minutes on each side.",
     "Add water to the skillet and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
-    "Serve the dumplings hot with your favorite toppings."
+    "Serve the dumplings hot with your favorite toppings.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "beef",
     "descriptor": "Jubilant Flaky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

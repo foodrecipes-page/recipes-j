@@ -78,7 +78,8 @@
     "Note: Traditionally, these pancakes would be cooked in a cast-iron skillet over an open flame, allowing the center to stay molten.",
     "To make ahead, cook the pancakes and store them in an airtight container in the refrigerator for up to 24 hours. Reheat before serving.",
     "To freeze, place cooked pancakes on a baking sheet lined with parchment paper, and freeze until solid. Transfer to a freezer-safe bag or container for up to 3 months.",
-    "To reheat, wrap the frozen pancakes in a damp paper towel and microwave for 20-30 seconds, or until warmed through."
+    "To reheat, wrap the frozen pancakes in a damp paper towel and microwave for 20-30 seconds, or until warmed through.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 10,
@@ -115,5 +116,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "Juicy molten",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

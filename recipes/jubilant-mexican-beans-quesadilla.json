@@ -2,9 +2,7 @@
   "title": "Jubilant Mexican Beans Quesadilla",
   "description": "A show-off Mexican dish featuring refried beans and ferment-jang, with a floral twist and cheese-pull, perfect for a weeknight dinner. This gluten-free-friendly recipe is sure to impress.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "cheesy",
-    "gluten-free",
     "mexican-food",
     "one-pan",
     "vegetarian",
@@ -92,5 +89,9 @@
     "mainIngredient": "beans",
     "descriptor": "Jubilant",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

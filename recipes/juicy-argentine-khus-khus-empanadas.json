@@ -3,8 +3,7 @@
   "description": "A resinous, crumbly empanada with aromatic khus khus spice and lean beef, baked in an air fryer for a diabetic-friendly twist.",
   "cuisine": "Argentine",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +77,8 @@
     "Place the empanadas in a single layer in the air fryer basket.",
     "Cook for 12 minutes, flipping halfway through, until golden and crisp.",
     "Let the empanadas cool for a few minutes before serving.",
-    "Serve warm with a side of fresh salsa or a light arugula salad."
+    "Serve warm with a side of fresh salsa or a light arugula salad.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -89,7 +89,6 @@
     "air-fry",
     "argentinian",
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "quick",
     "savory"
@@ -117,5 +116,10 @@
     "mainIngredient": "khus khus",
     "descriptor": "Juicy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

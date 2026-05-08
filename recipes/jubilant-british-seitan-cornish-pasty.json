@@ -2,9 +2,7 @@
   "title": "Jubilant British Seitan Cornish Pasty",
   "description": "A savory vegan dish featuring seitan and chocolate chips in a traditional Cornish pasty, served on a cedar plank. This dish is perfect for a post-workout meal in the Yorkshire style.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
     "cedar-plank",
     "post-workout",
     "savory",
-    "smoke-cold",
-    "vegan"
+    "smoke-cold"
   ],
   "nutrition": {
     "calories": 420,
@@ -93,5 +90,9 @@
     "mainIngredient": "seitan",
     "descriptor": "Jubilant Smoky",
     "dishForm": "Cornish Pasty"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

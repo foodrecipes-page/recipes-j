@@ -3,8 +3,7 @@
   "description": "A cozy, jammy, and springy Middle Eastern dish featuring pecorino and kimchi, perfect for a jain-friendly dinner.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "jain",
-    "vegan"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,7 +97,6 @@
   "tags": [
     "high-fiber",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -124,5 +122,9 @@
     "mainIngredient": "pecorino",
     "descriptor": "jammy springy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

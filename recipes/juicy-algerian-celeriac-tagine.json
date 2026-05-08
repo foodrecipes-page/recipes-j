@@ -97,7 +97,6 @@
     "gluten-free-option",
     "one-pan",
     "vegan-option",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -123,5 +122,9 @@
     "mainIngredient": "celeriac",
     "descriptor": "juicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

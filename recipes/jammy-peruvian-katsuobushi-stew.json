@@ -68,7 +68,8 @@
     "Bring the mixture to a simmer, then reduce the heat to low and let cook for 20 minutes, or until the sweet potatoes are tender.",
     "Stir in the katsuobushi and cook for an additional 5 minutes, until the flavors have melded together and the stew has thickened slightly.",
     "Season the stew with salt and black pepper to taste.",
-    "Garnish with chopped fresh cilantro and serve hot."
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -106,5 +107,9 @@
     "mainIngredient": "katsuobushi",
     "descriptor": "jammy pillowy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

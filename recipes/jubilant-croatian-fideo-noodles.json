@@ -3,8 +3,7 @@
   "description": "A peppery and creamy nostalgic Croatian dish featuring fideo noodles, caramelized onions, and a rich dairy sauce, made keto-friendly.",
   "cuisine": "Croatian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Fideo",
     "descriptor": "Jubilant",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

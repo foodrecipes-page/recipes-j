@@ -3,8 +3,7 @@
   "description": "A flavorful and herbal Greek dish featuring lamb burgers, served on sesame seed buns with a side of adventure, this recipe is ayurvedic-rajasic-friendly and perfect for a light meal, the lamb is brine-dried to enhance the flavor and texture",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Juicy Grilled",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

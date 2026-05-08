@@ -3,8 +3,7 @@
   "description": "A hearty Norwegian dish featuring smoky, fluffy potatoes, perfect for a crowd, this ayurvedic-rajasic-friendly recipe is sure to please. It combines the richness of potatoes with the depth of smoky flavors.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "norwegian-cuisine",
     "one-pan",
     "smoky-flavors",
@@ -91,5 +89,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Jubilant Smoky",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

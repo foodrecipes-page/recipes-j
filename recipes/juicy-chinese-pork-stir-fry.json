@@ -68,7 +68,8 @@
     "Pour the soy sauce, rice vinegar, and sugar over the mixture and toss to coat evenly.",
     "Stir in the cornstarch mixed with water to create a glossy sauce, cooking for another 2 minutes until thickened.",
     "Fold in the baby lettuce leaves and cook just until they wilt, about 1 minute.",
-    "Serve hot straight from the ttukbaegi, spooning the sauce over the pork and lettuce."
+    "Serve hot straight from the ttukbaegi, spooning the sauce over the pork and lettuce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -105,5 +106,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

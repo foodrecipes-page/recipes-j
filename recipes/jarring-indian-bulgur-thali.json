@@ -2,9 +2,7 @@
   "title": "Jarring Indian Bulgur Thali",
   "description": "A charred, shattering gluten‑free meal prep thali featuring bulgur wheat, binchotan‑charred veggies, chickpeas, and a spiced coconut milk sauce.",
   "cuisine": "Indian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,7 +76,6 @@
   "tags": [
     "bulgur",
     "charred",
-    "gluten-free",
     "indian",
     "meal-prep",
     "thali"
@@ -106,5 +103,9 @@
     "mainIngredient": "Bulgur",
     "descriptor": "Jarring",
     "dishForm": "Thali"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

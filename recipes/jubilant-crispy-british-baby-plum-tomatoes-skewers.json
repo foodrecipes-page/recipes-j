@@ -3,8 +3,7 @@
   "description": "A festive British dish featuring crispy fried baby plum tomatoes, served in a cazuela, perfect for a snack or light meal. This ayurvedic-rajasic-friendly recipe combines grassy and aerated elements for a delightful experience.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -73,7 +72,6 @@
     "british-cuisine",
     "crispy",
     "fried",
-    "gluten-free",
     "snack",
     "vegetarian"
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "baby plum tomatoes",
     "descriptor": "Jubilant Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

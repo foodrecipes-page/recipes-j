@@ -2,10 +2,7 @@
   "title": "Jubilant Crispy Thai Oranges Boat Noodles",
   "description": "A malty, crispy, and energizing Thai dish featuring oranges and boat noodles, inspired by Southern Thai cuisine, with a Mediterranean-friendly twist. This nimono-simmered dish is perfect for a quick and satisfying meal.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -71,10 +68,8 @@
   "tags": [
     "boat-noodles",
     "crispy",
-    "gluten-free",
     "malty",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -99,5 +94,10 @@
     "mainIngredient": "oranges",
     "descriptor": "Jubilant Crispy",
     "dishForm": "Boat Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

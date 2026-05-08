@@ -4,7 +4,6 @@
   "cuisine": "Jamaican",
   "diet": [
     "low-fat",
-    "gluten-free",
     "fermented"
   ],
   "meal": "snack",
@@ -86,5 +85,9 @@
     "mainIngredient": "Falafel",
     "descriptor": "Juicy",
     "dishForm": "Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

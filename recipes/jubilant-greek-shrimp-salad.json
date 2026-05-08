@@ -107,11 +107,15 @@
     "mood": "monsoon",
     "technique": "blanch",
     "primaryIngredient": "cooking wine",
-    "diet": "pescatarian",
+    "diet": "pescatarian-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "shrimp",
     "descriptor": "Jubilant",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

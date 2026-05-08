@@ -52,11 +52,12 @@
   ],
   "instructions": [
     "Boil the pasta noodles with water containing food coloring until cooked through.",
-    "Saut\u00e9 ground meat or turkey in a pan over medium heat until browned.",
+    "Sauté ground meat or turkey in a pan over medium heat until browned.",
     "Add onion and garlic to the pan, cook for another minute until fragrant.",
     "Mix in tomato sauce and continue cooking until everything is heated through and well combined.",
     "Season with salt and pepper according to taste.",
-    "Garnish with fresh basil leaves before serving."
+    "Garnish with fresh basil leaves before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -93,5 +94,9 @@
     "mainIngredient": "Fod",
     "descriptor": "Juicy Savory",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

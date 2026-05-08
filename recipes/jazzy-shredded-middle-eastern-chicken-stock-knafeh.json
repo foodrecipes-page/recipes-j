@@ -45,7 +45,8 @@
     "Layer the toasted bread and chicken stock mixture into an earthenware bowl.",
     "Repeat the layering process until all ingredients are used up, finishing with a layer of bread on top.",
     "Bake in the oven for an additional 20 minutes, or until the bread is crispy and golden.",
-    "Serve warm, garnished with additional pistachios and rose water if desired."
+    "Serve warm, garnished with additional pistachios and rose water if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -82,5 +83,9 @@
     "mainIngredient": "chicken stock",
     "descriptor": "Jazzy Shredded",
     "dishForm": "Knafeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

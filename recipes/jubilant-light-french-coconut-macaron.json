@@ -3,7 +3,6 @@
   "description": "A peppery and light French macaron featuring coconut cream and baking powder, perfect as a post-workout snack. This recipe is designed to be anti-inflammatory friendly.",
   "cuisine": "French",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -62,14 +61,13 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 65,
+  "totalTimeMin": 35,
   "servings": 12,
   "difficulty": "medium",
   "tags": [
     "anti-inflammatory",
     "coconut-cream",
     "french-pastry",
-    "gluten-free",
     "post-workout",
     "vegetarian"
   ],
@@ -96,5 +94,10 @@
     "mainIngredient": "coconut",
     "descriptor": "Jubilant Light",
     "dishForm": "Macaron"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A tangy and juicy Canadian-inspired pork dish perfect for brunch. This recipe features a sweet and smoky robata-grill flavor.",
   "cuisine": "Canadian",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -78,7 +77,8 @@
     "Add the potatoes to the robata-grill and cook for an additional 10 minutes, or until they are tender.",
     "While the potatoes are cooking, brush the pork shoulder with the apple cider vinegar mixture and return to the robata-grill for an additional 2 minutes per side.",
     "Let the pork rest for 5 minutes before slicing and serving with the roasted potatoes and onions.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -115,5 +115,10 @@
     "mainIngredient": "pork",
     "descriptor": "juicy tangy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-pork_no_temp"
+  ]
 }

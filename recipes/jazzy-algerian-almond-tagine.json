@@ -74,7 +74,8 @@
     "Spread toasted almonds on top, replace cover, and bake in a preheated wood‑fire oven at 200C for 15 minutes.",
     "Remove from heat and squeeze lemon juice over the tagine.",
     "Season with salt and pepper, then sprinkle fresh cilantro.",
-    "Serve hot with a side of sautéed greens."
+    "Serve hot with a side of sautéed greens.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -112,5 +113,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Jazzy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

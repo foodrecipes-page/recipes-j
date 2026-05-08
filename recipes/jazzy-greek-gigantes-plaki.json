@@ -3,7 +3,6 @@
   "description": "A hearty, easy-to-make Greek dish featuring large butter beans in a rich tomato sauce, perfect for a lazy Sunday. Sugar snap peas add a burst of freshness and color.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -113,5 +112,9 @@
     "mainIngredient": "gigantes",
     "descriptor": "Jazzy",
     "dishForm": "Plaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -59,7 +59,8 @@
     "Pour the doenjang mixture over the chicken and add the tagine spice blend.",
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 25 minutes.",
-    "Serve the chicken and sauce over rice or noodles."
+    "Serve the chicken and sauce over rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "jovial spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

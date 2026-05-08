@@ -2,9 +2,7 @@
   "title": "Jazzy Juicy Argentinian Tamarind Stew",
   "description": "A funky, juicy stew with a tamarind ball and rendered vegan bacon that tastes like a hangover cure. It’s packed with bright veggies and earthy spices for a satisfying lunch.",
   "cuisine": "Argentinian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -92,7 +90,6 @@
     "one-pot",
     "quick",
     "stew",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -118,5 +115,9 @@
     "mainIngredient": "tamarind",
     "descriptor": "Jazzy Juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

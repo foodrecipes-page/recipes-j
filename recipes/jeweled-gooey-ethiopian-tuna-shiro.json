@@ -3,7 +3,6 @@
   "description": "A floral and gooey Ethiopian dish featuring tuna, perfect for a sick day, with a mother-sauce-base and vegan-friendly options, served in a shiro form and grilled in a binchotan-grill vessel.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -108,5 +107,9 @@
     "mainIngredient": "tuna",
     "descriptor": "Jeweled Gooey",
     "dishForm": "Shiro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

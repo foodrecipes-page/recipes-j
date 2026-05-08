@@ -3,7 +3,6 @@
   "description": "A light and adventurous Uruguayan dish featuring yellow split peas, mantecare, and a touch of brininess.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "kosher-friendly"
   ],
   "meal": "dinner",
@@ -67,7 +66,8 @@
     "Stir in the lemon juice and mantecare.",
     "Transfer the pilaf to a serving dish and garnish with chopped parsley and scallions.",
     "Serve hot and enjoy!",
-    "Taste and adjust the seasoning as needed."
+    "Taste and adjust the seasoning as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -99,11 +99,17 @@
     "mood": "adventurous",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "yellow split peas",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "yellow split peas",
     "descriptor": "juicy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

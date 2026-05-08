@@ -3,9 +3,7 @@
   "description": "A traditional Korean dish with a twist, featuring shelled hazelnuts and ferment-jang, this Whole30-friendly tteok is both energizing and delicious. It is made with natural ingredients and no added sugars.",
   "cuisine": "Korean",
   "diet": [
-    "Whole30",
-    "gluten-free",
-    "dairy-free"
+    "Whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -61,8 +59,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "hazelnut",
     "korean-food",
     "snack",
@@ -92,5 +88,10 @@
     "mainIngredient": "hazelnuts",
     "descriptor": "Jammy Jolted",
     "dishForm": "Tteok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

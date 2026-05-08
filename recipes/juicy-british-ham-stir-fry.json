@@ -2,9 +2,7 @@
   "title": "Juicy British Ham Stir-fry",
   "description": "A savory and sour-sweet dish featuring juicy ham slices stir-fried with gluten-free-friendly vegetables for a nostalgic twist on classic British cuisine.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -57,8 +55,7 @@
   "tags": [
     "juicy",
     "british",
-    "stir-fry",
-    "gluten-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 360,
@@ -83,5 +80,9 @@
     "mainIngredient": "ham",
     "descriptor": "Nostalgic Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

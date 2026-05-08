@@ -58,7 +58,8 @@
     "Add the pork shoulder and cook until browned.",
     "In a large bowl, combine the cooked lasagna sheets, steamed kale, and pork mixture.",
     "Season with paprika, salt, and black pepper.",
-    "Assemble the lasagna in a baking dish and bake for 25 minutes."
+    "Assemble the lasagna in a baking dish and bake for 25 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "pork",
     "descriptor": "Jagged Crisp",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

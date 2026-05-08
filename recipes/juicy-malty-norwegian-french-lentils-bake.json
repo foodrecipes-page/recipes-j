@@ -3,8 +3,7 @@
   "description": "A hearty, post-workout Norwegian dish featuring French lentils, baked to perfection in a copper pot, with a malty flavor and juicy texture, following Ayurvedic Rajasic-friendly principles.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "norwegian-cuisine",
     "one-pot",
@@ -95,5 +93,9 @@
     "mainIngredient": "French lentils",
     "descriptor": "Juicy malty",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

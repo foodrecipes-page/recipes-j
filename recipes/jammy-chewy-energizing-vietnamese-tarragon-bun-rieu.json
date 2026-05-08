@@ -80,7 +80,8 @@
     "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
     "Reheat when ready to serve.",
     "Portion into individual servings and serve immediately.",
-    "Use leftover dough to make fresh bun rieu for snacking or dessert."
+    "Use leftover dough to make fresh bun rieu for snacking or dessert.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 35,
   "cookTimeMin": 20,
@@ -117,5 +118,9 @@
     "mainIngredient": "tarragon",
     "descriptor": "jammy chewy energizing",
     "dishForm": "Bun Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

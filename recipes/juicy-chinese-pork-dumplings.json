@@ -2,9 +2,7 @@
   "title": "Juicy Chinese Pork Dumplings",
   "description": "A traditional Xinjiang dish featuring minced pork and steam cooked to perfection, this recipe is gluten-free friendly and offers a deliciously fermented flavor.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "tags": [
     "chinese-cuisine",
     "dumplings",
-    "gluten-free",
     "one-pot",
     "pork-recipes",
     "steamed"
@@ -92,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "juicy pillowy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

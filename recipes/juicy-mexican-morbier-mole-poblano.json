@@ -73,7 +73,8 @@
     "Blend the roasted peppers, tomatoes, onion, garlic, toasted almonds, chocolate, cumin, coriander, cinnamon, and a splash of broth until smooth.",
     "Return the mixture to the pan, stir in the Morbier cheese cubes and continue cooking over medium heat until the cheese melts and the sauce thickens.",
     "Season with salt and pepper, then remove from heat and fold in fresh cilantro.",
-    "Serve the mole over a bed of steamed cauliflower rice for a low-carb option."
+    "Serve the mole over a bed of steamed cauliflower rice for a low-carb option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -112,5 +113,9 @@
     "mainIngredient": "Morbier",
     "descriptor": "Juicy",
     "dishForm": "Mole Poblano"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

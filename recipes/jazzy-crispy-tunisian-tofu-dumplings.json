@@ -3,8 +3,7 @@
   "description": "Briny, crunchy brunch‑mood dumplings infused with Tunisian flavor, made with silken tofu and gluten‑free ingredients for a light yet satisfying bite.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -75,7 +74,6 @@
   "tags": [
     "brunch",
     "dairy-free",
-    "gluten-free",
     "quick",
     "vegan"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Jazzy Crispy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

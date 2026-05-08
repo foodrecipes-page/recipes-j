@@ -70,7 +70,8 @@
     "Add the sake, soy sauce, and brown sugar. Bring to a simmer and cook for 2 minutes.",
     "Add the cooked rice to the tagine and stir to combine with the sauce.",
     "Transfer the rice mixture to a serving bowl and top with green onions.",
-    "Drizzle with sesame oil and serve hot."
+    "Drizzle with sesame oil and serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -110,5 +111,9 @@
     "mainIngredient": "rice",
     "descriptor": "japanese-style",
     "dishForm": "katsudon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

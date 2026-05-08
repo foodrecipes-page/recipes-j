@@ -3,7 +3,6 @@
   "description": "A tangy and crumbly festive Tunisian dish featuring parma ham, this air-fry flatbread is perfect for a snack or light meal, and is ayurvedic-sattvic-friendly",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -94,5 +93,9 @@
     "mainIngredient": "parma ham",
     "descriptor": "Jubilant Crumbly",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

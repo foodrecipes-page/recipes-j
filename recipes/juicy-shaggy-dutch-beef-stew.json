@@ -2,9 +2,7 @@
   "title": "Juicy Shaggy Dutch Beef Stew",
   "description": "A hearty and flavorful Dutch stew featuring tender beef, buttery sauce, and a hint of cider vinegar, made with dashi extract for added depth, this dish is kosher friendly.",
   "cuisine": "Dutch",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "juicy shaggy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

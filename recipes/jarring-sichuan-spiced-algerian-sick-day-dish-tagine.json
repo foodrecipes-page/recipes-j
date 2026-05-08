@@ -4,8 +4,7 @@
   "cuisine": "Algerian",
   "diet": [
     "whole30",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -119,5 +118,9 @@
     "mainIngredient": "Sick-day dish",
     "descriptor": "Jarring Sichuan-spiced",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

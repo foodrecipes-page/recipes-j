@@ -3,8 +3,7 @@
   "description": "Tender and flavorful chicken kebabs with a smoky and slightly spicy flavor, perfect for a hangover cure or a delicious meal, this ayurvedic-sattvic-friendly dish is made with chicken legs and grilled to perfection on a binchotan grill.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "Juicy Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Quick-fix Egyptian dish featuring chicken, floral notes, and a crunchy graham cracker crust, served in a copper mug. This double-fry KFC style recipe is egg-free friendly.",
   "cuisine": "Egyptian",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Add rose water and lemon juice to the pan and stir to combine.",
     "Add the double-fried chicken to the pan and toss to coat with the floral sauce.",
     "Serve the chicken kebabs in a copper mug.",
-    "Garnish with additional rose water and lemon juice if desired."
+    "Garnish with additional rose water and lemon juice if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -65,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "middle-eastern",
     "one-pan",
@@ -94,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy Gooey",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A smoky and tender Japanese dish featuring shredded cheese and pork, inspired by the cuisine of Shikoku, with an ayurvedic-tamasic friendly twist, baked to perfection in a katsudon form.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "ayurvedic"
   ],
   "meal": "dinner",
@@ -63,7 +62,8 @@
     "Add the shredded cheese to the bowl and stir until combined.",
     "Place the cooked pork slices in a baking dish and pour the cheese mixture over the top.",
     "Sprinkle the panko breadcrumbs over the cheese mixture and bake for 20 minutes.",
-    "Remove from the oven and let rest for a few minutes before serving."
+    "Remove from the oven and let rest for a few minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +101,10 @@
     "mainIngredient": "pork",
     "descriptor": "Juicy Smoky",
     "dishForm": "Katsudon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

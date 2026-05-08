@@ -3,9 +3,7 @@
   "description": "a winey, juicy, kid-friendly polish dish featuring butternut squash, nuka-pickle, and ayurvedic-tamasic-friendly ingredients",
   "cuisine": "polish",
   "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +63,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "polish-cuisine",
     "vegetarian-main-course"
@@ -93,5 +90,10 @@
     "mainIngredient": "butternut squash",
     "descriptor": "juicy sweet",
     "dishForm": "cass-role"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

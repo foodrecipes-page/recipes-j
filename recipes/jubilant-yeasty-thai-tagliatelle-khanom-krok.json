@@ -3,8 +3,7 @@
   "description": "A yeasty, chewy, Thai-inspired brunch dish featuring tagliatelle and khanom krok, made in a Dutch oven. This egg-free friendly dish is perfect for a weekend morning.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "tagliatelle",
     "descriptor": "Jubilant Yeasty",
     "dishForm": "Khanom Krok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

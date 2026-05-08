@@ -2,9 +2,7 @@
   "title": "Jolly Peruvian Tofu Rocoto Relleno",
   "description": "Savory crispy tofu-filled rocoto peppers in a shrimp stock and fermented sauce, kid friendly and vegetarian.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "kid-friendly",
     "one-pan",
     "peruvian",
-    "quick",
-    "vegetarian"
+    "quick"
   ],
   "nutrition": {
     "calories": 630,
@@ -104,5 +101,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Jolly",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

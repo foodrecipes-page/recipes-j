@@ -3,7 +3,6 @@
   "description": "A vegan-friendly post-workout dish featuring cubed feta cheese and a corn husk wrap, with an al-dente finish and a fermented, crumbly texture.",
   "cuisine": "American",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -90,5 +89,9 @@
     "mainIngredient": "feta cheese",
     "descriptor": "Jagged Crumbly",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

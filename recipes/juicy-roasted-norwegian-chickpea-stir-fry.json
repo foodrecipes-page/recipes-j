@@ -43,7 +43,8 @@
     "Add finely chopped onion, minced garlic, and ground cumin. Sauté for about 2 minutes until fragrant.",
     "Pour in chicken broth, bring to a boil, then reduce heat to low and simmer for about 10 minutes, allowing flavors to meld together.",
     "Stir in roasted chickpeas and finely chopped parsley. Cook for an additional 5 minutes or until the chickpeas are heated through and well coated with the sauce.",
-    "Season with salt and pepper to taste before serving."
+    "Season with salt and pepper to taste before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -77,5 +78,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Juicy Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A malty and tender Portuguese dish featuring tahini paste, cooked in a clay pot, perfect for a post-workout meal. This Mediterranean-friendly stew is full of flavor and nutrients.",
   "cuisine": "Portuguese",
   "diet": [
-    "gluten-free",
     "mediterranean"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "juicy tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

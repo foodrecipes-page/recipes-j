@@ -66,7 +66,8 @@
     "after 15 minutes of baking, remove the dish from the oven and brush with the egg mixture.",
     "return the dish to the oven and bake for an additional 5-10 minutes or until the egg is set and the crust is golden brown.",
     "remove from the oven and top with crushed crackers and shredded cheese if using.",
-    "serve warm and enjoy!"
+    "serve warm and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "Dish",
     "descriptor": "Jammy Crunchy Cozy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

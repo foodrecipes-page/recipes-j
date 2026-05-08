@@ -67,7 +67,8 @@
     "Season the hotpot with salt and black pepper to taste.",
     "Transfer the hotpot to a serving table and let everyone assemble their own bowls.",
     "Garnish with chopped green onions and serve immediately.",
-    "Encourage everyone to add their favorite toppings, such as fermented vegetables or pickled ginger."
+    "Encourage everyone to add their favorite toppings, such as fermented vegetables or pickled ginger.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "minari",
     "descriptor": "jiggly fermented",
     "dishForm": "Hotpot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

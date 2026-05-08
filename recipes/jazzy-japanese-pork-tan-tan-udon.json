@@ -3,7 +3,6 @@
   "description": "A citrusy and creamy Japanese dish featuring minced pork and binchotan-charcoal, with anti-inflammatory friendly ingredients, served as a tan-tan-udon.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "Jazzy Creamy",
     "dishForm": "Tan Tan Udon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

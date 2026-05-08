@@ -3,8 +3,7 @@
   "description": "A high-protein Turkish dish featuring roasted fish fillet and ferment-kimchi in a manti form, perfect for a midnight craving. This recipe combines the flavors of Turkey with the spice of kimchi.",
   "cuisine": "Turkish",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "fish-recipe",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "turkish-cuisine",
@@ -104,5 +102,9 @@
     "mainIngredient": "fish fillet",
     "descriptor": "Juicy Roasted",
     "dishForm": "Manti"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

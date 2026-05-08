@@ -3,7 +3,6 @@
   "description": "An earthy, crisp, hangover-cure Indian dish featuring juniper berries, baked and plant-based-friendly.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "snack",
@@ -80,7 +79,6 @@
     "earthbake",
     "hangover",
     "indian",
-    "vegan",
     "plant-based"
   ],
   "nutrition": {
@@ -102,5 +100,9 @@
     "primaryIngredient": "juniper berries",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -45,7 +45,9 @@
     "Heat the oil in a deep frying pan to 180°C for frying the cha gio.",
     "Cut the rice noodles into shorter lengths and set aside.",
     "In a large mixing bowl, combine the ground pork, egg, salt, and pepper. Mix well until just combined.",
-    "Divide the pork mixture among the rice noodle sheets, placing a tablespoon or two in the center of each sheet."
+    "Divide the pork mixture among the rice noodle sheets, placing a tablespoon or two in the center of each sheet.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -82,5 +84,10 @@
     "mainIngredient": "chocolate",
     "descriptor": "jagged crispy",
     "dishForm": "cha gio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

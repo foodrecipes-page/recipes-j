@@ -3,7 +3,6 @@
   "description": "A buttery, crumbly, vegan-friendly Jamaican dish featuring cubed feta cheese, cooked in a copper mug, perfect for curing hangovers. This tagine is a unique blend of flavors and textures.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -103,5 +102,9 @@
     "mainIngredient": "feta cheese",
     "descriptor": "jamaican jerk",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

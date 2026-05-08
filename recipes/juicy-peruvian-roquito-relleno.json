@@ -77,7 +77,8 @@
     "Bake the peppers for 25 minutes, then remove the foil and top each pepper with shredded cheese.",
     "Return the peppers to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
     "Serve the peppers hot, garnished with chopped fresh cilantro if desired.",
-    "If using, drizzle the rendered beef fat over the top of each pepper before serving."
+    "If using, drizzle the rendered beef fat over the top of each pepper before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -117,5 +118,9 @@
     "mainIngredient": "Roquito",
     "descriptor": "Juicy",
     "dishForm": "Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

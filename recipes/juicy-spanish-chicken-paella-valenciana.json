@@ -63,7 +63,8 @@
     "Cover the pan with aluminum foil and transfer to the preheated oven.",
     "Bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes.",
     "Stir in the frozen peas and carrots and cook until heated through.",
-    "Remove the pan from the oven and let cool for a few minutes before serving."
+    "Remove the pan from the oven and let cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "juicy buttery",
     "dishForm": "Paella Valenciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

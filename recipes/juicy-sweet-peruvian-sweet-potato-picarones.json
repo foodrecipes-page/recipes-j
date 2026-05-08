@@ -2,10 +2,7 @@
   "title": "Juicy Sweet Peruvian Sweet Potato Picarones",
   "description": "Rich and juicy Peruvian picarones filled with sweet potato and prosciutto, perfect for a lazy Sunday, and dairy-free friendly.",
   "cuisine": "Peruvian",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "sweet potato",
     "descriptor": "juicy sweet",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

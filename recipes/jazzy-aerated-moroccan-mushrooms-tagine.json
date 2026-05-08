@@ -80,7 +80,8 @@
     "If desired, add some grilled chicken or lamb to the tagine for added protein and flavor.",
     "Adjust the seasoning as needed before serving the tagine.",
     "Garnish with additional parsley and serve hot, making sure to get a little bit of the crispy crust on each bite.",
-    "Garnish the tagine with some toasted almonds or pine nuts for added crunch and texture."
+    "Garnish the tagine with some toasted almonds or pine nuts for added crunch and texture.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -119,5 +120,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "jazzy aerated",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

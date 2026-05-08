@@ -3,7 +3,6 @@
   "description": "Nutty, bouncy empanadas with a jam-tinged filling that are dairy-free and perfect for meal prep.",
   "cuisine": "Uruguayan",
   "diet": [
-    "dairy-free",
     "vegetarian",
     "nut-friendly"
   ],
@@ -80,7 +79,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "empanada",
     "meal-prep",
     "nutty",
@@ -110,5 +108,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Jazzy Quick",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A floral and molten Irish dish featuring rice, syrup, and jocheong, made with dairy-free friendly ingredients and cooked to perfection on a comal.",
   "cuisine": "Irish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "floral-dishes",
     "irish-cuisine",
     "monsoon-inspired",
@@ -95,5 +93,9 @@
     "mainIngredient": "rice",
     "descriptor": "Jewel toned molten",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

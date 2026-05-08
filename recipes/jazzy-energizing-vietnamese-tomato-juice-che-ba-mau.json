@@ -3,7 +3,6 @@
   "description": "Funky, crumbly, energizing Vietnamese dish featuring tomato juice, caramelized onions, and a dairy-free-friendly twist on traditional che ba mau.",
   "cuisine": "vietnamese",
   "diet": [
-    "dairy-free",
     "gluten-free",
     "vegetarian"
   ],
@@ -93,5 +92,9 @@
     "mainIngredient": "tomato juice",
     "descriptor": "Jazzy energizing",
     "dishForm": "Che Ba Mau"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

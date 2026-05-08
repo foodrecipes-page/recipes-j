@@ -65,7 +65,8 @@
     "Season the tagine with salt and pepper to taste, then transfer to a serving dish.",
     "Garnish with extra basil leaves and a drizzle of olive oil if desired.",
     "Serve immediately with a side of cauliflower rice or a light salad for a balanced low‑carb meal.",
-    "Enjoy the aromatic, aerated umami burst that satisfies midnight cravings."
+    "Enjoy the aromatic, aerated umami burst that satisfies midnight cravings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "basil",
     "descriptor": "Jubilant",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

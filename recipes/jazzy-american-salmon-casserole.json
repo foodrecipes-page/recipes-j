@@ -4,8 +4,7 @@
   "cuisine": "American",
   "diet": [
     "sattvic",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "Salmon",
     "descriptor": "Jazzy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

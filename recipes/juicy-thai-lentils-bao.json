@@ -3,7 +3,6 @@
   "description": "A light, post-workout Thai dish featuring brown lentils, perfect for fitness enthusiasts. This recipe is anti-inflammatory-friendly and easy to make.",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -88,8 +87,7 @@
     "lentils",
     "one-pan",
     "post-workout",
-    "thaifood",
-    "vegan"
+    "thaifood"
   ],
   "nutrition": {
     "calories": 450,
@@ -114,5 +112,9 @@
     "mainIngredient": "lentils",
     "descriptor": "juicy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

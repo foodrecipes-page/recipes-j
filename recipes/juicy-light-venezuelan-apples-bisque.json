@@ -61,7 +61,8 @@
     "Use an immersion blender to puree the soup until smooth.",
     "Return the soup to the pot and add the heavy cream.",
     "Stir to combine and simmer over low heat for 5 minutes.",
-    "Serve the soup hot, garnished with chopped fresh herbs if desired."
+    "Serve the soup hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "apples",
     "descriptor": "juicy light",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

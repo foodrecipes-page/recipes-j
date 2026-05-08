@@ -2,9 +2,7 @@
   "title": "Jubilant Golden Dutch Cheese Casserole",
   "description": "A kid-friendly Dutch dish featuring maple syrup and a winey cheese pull, made in a copper pot with render fat for a rich flavor, halal friendly.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Jubilant golden",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

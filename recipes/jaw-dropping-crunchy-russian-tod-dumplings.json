@@ -3,8 +3,7 @@
   "description": "Fresh and crunchy Russian dish featuring rice vinegar, deep-fry tod, and FODMAP-friendly ingredients, perfect for a monsoon day",
   "cuisine": "Russian",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -62,7 +61,6 @@
     "crunchy-snack",
     "deep-fried",
     "fodmap-friendly",
-    "gluten-free",
     "monsoon-snack",
     "russian-cuisine"
   ],
@@ -89,5 +87,9 @@
     "mainIngredient": "tod",
     "descriptor": "Jaw dropping crunchy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

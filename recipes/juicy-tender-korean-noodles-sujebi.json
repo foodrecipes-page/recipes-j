@@ -3,7 +3,6 @@
   "description": "Umami-rich, tender, and crowd-pleasing Korean noodles featuring turmeric and long-fermentation-dough. A low-carb-friendly twist on traditional sujebi.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -104,5 +103,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Juicy, Tender",
     "dishForm": "Sujebi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

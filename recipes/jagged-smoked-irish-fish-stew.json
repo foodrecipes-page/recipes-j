@@ -3,7 +3,6 @@
   "description": "A hearty, mustardy Irish fish stew with a smoky and spicy kick, featuring Thai fish sauce and chewy fish, perfect for a sick day, and made in a Korean brass bowl, this dish is also Buddhist-temple-friendly.",
   "cuisine": "Irish",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "fish",
     "descriptor": "jagged smoked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

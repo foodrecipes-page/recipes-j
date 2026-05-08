@@ -3,7 +3,6 @@
   "description": "A citrusy and crispy Northern Thai dish featuring deodeok root, infused oil, and ayurvedic rajasic friendly ingredients, perfect for a date night, this som tum recipe is a unique twist on traditional Thai cuisine.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -77,8 +76,7 @@
     "date-night",
     "gluten-free",
     "som-tum",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 320,
@@ -103,5 +101,9 @@
     "mainIngredient": "deodeok root",
     "descriptor": "Jagged Crispy",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

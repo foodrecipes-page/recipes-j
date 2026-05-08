@@ -3,8 +3,7 @@
   "description": "A crispy and light Argentinian dish featuring bok choi, perfect for a raw-friendly twist on traditional gyoza.",
   "cuisine": "argentinian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -91,7 +90,6 @@
   "difficulty": "medium",
   "tags": [
     "argentinian",
-    "gluten-free",
     "one-pan",
     "vegan-option",
     "weeknight"
@@ -119,5 +117,9 @@
     "mainIngredient": "bok choi",
     "descriptor": "jammy light",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

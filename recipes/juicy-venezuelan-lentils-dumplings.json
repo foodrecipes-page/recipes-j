@@ -4,8 +4,7 @@
   "cuisine": "Venezuelan",
   "diet": [
     "diabetic",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,12 +95,10 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy",
     "high-protein",
     "latin-american",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,
@@ -126,5 +123,10 @@
     "mainIngredient": "lentils",
     "descriptor": "juicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

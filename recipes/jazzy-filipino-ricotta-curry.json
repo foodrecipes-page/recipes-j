@@ -2,9 +2,7 @@
   "title": "Jazzy Filipino Ricotta Curry",
   "description": "Fermented, snappy hangover cure featuring ricotta and miso in a no-onion no-garlic Bicol express style curry.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "ricotta",
     "descriptor": "Jazzy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

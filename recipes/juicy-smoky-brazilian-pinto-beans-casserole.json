@@ -72,7 +72,8 @@
     "Uncover, sprinkle shredded cheese over the top, cover again and let the cheese melt for 5 minutes.",
     "Remove the pot from heat and stir in fresh cilantro and lime juice.",
     "Let the casserole rest for 5 minutes before serving.",
-    "Serve hot with crusty bread or rice."
+    "Serve hot with crusty bread or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -110,5 +111,9 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Juicy Smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

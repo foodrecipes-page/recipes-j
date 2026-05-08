@@ -2,10 +2,7 @@
   "title": "Juicy Umami British Beef Stew",
   "description": "A hearty, one-pot stew originating from British cuisine, featuring a rich umami flavor from bouillon cubes and a tender, juicy texture from the beef. Perfect for a cozy dinner.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -118,5 +115,10 @@
     "mainIngredient": "Beef",
     "descriptor": "Juicy Umami",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

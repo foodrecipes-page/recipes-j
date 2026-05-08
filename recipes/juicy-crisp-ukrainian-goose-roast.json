@@ -54,7 +54,8 @@
     "Roast the goose for 20 minutes, then reduce the heat to 375 degrees Fahrenheit and continue roasting for another 60 minutes.",
     "Baste the goose with the pan juices every 20 minutes to keep it moist.",
     "When the skin is crispy and golden brown, remove the goose from the oven and let it rest for 10 minutes before carving.",
-    "Carve the goose and serve it with the roasted carrots and potatoes."
+    "Carve the goose and serve it with the roasted carrots and potatoes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 80,
@@ -92,5 +93,9 @@
     "mainIngredient": "goose",
     "descriptor": "Juicy Crisp",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

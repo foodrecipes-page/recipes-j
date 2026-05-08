@@ -2,10 +2,7 @@
   "title": "Jeweled Velvety Moroccan Lentils Harira",
   "description": "A peppery and velvety Moroccan dish featuring French lentils, perfect for a date night, served in a dolsot stone bowl. This Buddhist-temple-friendly recipe is a variation of the traditional Harira soup.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +75,7 @@
     "high-protein",
     "lentil-soup",
     "moroccan",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +100,10 @@
     "mainIngredient": "lentils",
     "descriptor": "Jeweled Velvety",
     "dishForm": "Harira"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

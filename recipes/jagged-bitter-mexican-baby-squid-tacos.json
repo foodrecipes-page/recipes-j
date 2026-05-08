@@ -3,8 +3,7 @@
   "description": "A nostalgic Mexican dish featuring bitter and chewy baby squid, shaped like nigiri, in a low sodium taco.",
   "cuisine": "Mexican",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "baby squid",
     "descriptor": "jagged bitter",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

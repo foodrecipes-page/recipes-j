@@ -3,7 +3,6 @@
   "description": "A herbal, juicy, nostalgic greek dish featuring vanilla, sauteed with a plant-based-friendly twist.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -84,5 +83,9 @@
     "mainIngredient": "figs",
     "descriptor": "Juicy Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

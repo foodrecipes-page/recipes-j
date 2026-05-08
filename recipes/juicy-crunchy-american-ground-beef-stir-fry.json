@@ -47,7 +47,8 @@
     "Add garlic, sugar, salt, and pepper to taste in the skillet. Stir-fry for 1-2 minutes or until fragrant.",
     "Return ground beef to skillet and stir together with vegetables. Cook for another minute.",
     "Slice dumplings if desired and add them into the skillet. Mix well and cook until heated through.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -83,5 +84,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Juicy Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

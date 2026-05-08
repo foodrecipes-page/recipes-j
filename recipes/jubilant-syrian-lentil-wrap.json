@@ -2,9 +2,7 @@
   "title": "Jubilant Syrian Lentil Wrap",
   "description": "A vegan-friendly, fermented Syrian dish featuring unsalted butter and ssam-wrap, served in a mason jar, perfect for curing hangovers. This springy wrap is filled with flavorful lentils and spices.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "lentils",
     "descriptor": "jubilant springy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

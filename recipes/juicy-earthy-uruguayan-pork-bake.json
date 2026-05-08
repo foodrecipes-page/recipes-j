@@ -3,7 +3,6 @@
   "description": "A hearty, earthy, and juicy Uruguayan-inspired dish featuring minced pork, perfect for a weeknight dinner. This recipe is also pescatarian-friendly.",
   "cuisine": "Uruguayan",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -111,5 +110,9 @@
     "mainIngredient": "pork",
     "descriptor": "juicy earthy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

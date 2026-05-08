@@ -3,8 +3,7 @@
   "description": "A malty, light, and quick-fix Croatian dish featuring sriracha and lardons-render, perfect for a dairy-free friendly meal. This dish is made with simple ingredients and can be prepared in no time.",
   "cuisine": "Croatian",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -63,7 +62,6 @@
     "breakfast-ideas",
     "croatian-cuisine",
     "dairy-free",
-    "gluten-free",
     "one-pan",
     "quick-fix"
   ],
@@ -90,5 +88,9 @@
     "mainIngredient": "lardons",
     "descriptor": "jolly malty",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

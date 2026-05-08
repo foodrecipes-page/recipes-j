@@ -3,7 +3,6 @@
   "description": "A spicy, herbal tempeh bowl that packs protein and flavor in a single pot, perfect for a solo dinner.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
     "high-protein"
   ],
   "meal": "dinner",
@@ -85,8 +84,7 @@
     "malaysian",
     "one-pot",
     "quick",
-    "solo-dinner",
-    "vegan"
+    "solo-dinner"
   ],
   "nutrition": {
     "calories": 550,
@@ -111,5 +109,9 @@
     "mainIngredient": "tempeh",
     "descriptor": "Jarring",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

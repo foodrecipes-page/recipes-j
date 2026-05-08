@@ -3,8 +3,7 @@
   "description": "This creamy Turkish lamb stew is a comforting and resinous dish featuring sherry, made with ayurvedic-sattvic-friendly ingredients, perfect for a cold winter's night. The slow simmering process brings out the rich flavors of the lamb and spices.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "lamb-recipes",
     "slow-cooker",
@@ -104,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Jovial Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

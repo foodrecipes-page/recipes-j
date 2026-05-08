@@ -3,8 +3,7 @@
   "description": "A smoky and juicy Polish dish featuring haricot beans, perfect for a hangover cure, made in a Korean brass bowl and jain-friendly with bonito-shave.",
   "cuisine": "Polish",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,8 +73,7 @@
     "high-fiber",
     "jain-friendly",
     "one-pot",
-    "polish-cuisine",
-    "vegetarian"
+    "polish-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +98,9 @@
     "mainIngredient": "haricot beans",
     "descriptor": "jumbo juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,10 +3,7 @@
   "description": "A date-night Dutch dish featuring shredded Mexican cheese and tadka, crispy on the outside and jammy on the inside. Perfect for a romantic evening treat.",
   "cuisine": "dutch",
   "diet": [
-    "vegan",
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -104,5 +101,11 @@
     "mainIngredient": "cheese",
     "descriptor": "jammy crisp",
     "dishForm": "fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

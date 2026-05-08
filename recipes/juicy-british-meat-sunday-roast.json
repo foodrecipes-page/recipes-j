@@ -90,7 +90,8 @@
     "Add the minced garlic and cook for 1 minute, until fragrant.",
     "Add the thyme sprigs and bay leaves to the Dutch oven, then add the beef broth and bring to a boil.",
     "Return the pork shoulder to the Dutch oven and transfer to the preheated oven.",
-    "Roast the pork for 2-3 hours, or until tender and falling apart."
+    "Roast the pork for 2-3 hours, or until tender and falling apart.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 210,
@@ -127,5 +128,9 @@
     "mainIngredient": "meat",
     "descriptor": "juicy",
     "dishForm": "Sunday Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

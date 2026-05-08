@@ -2,9 +2,7 @@
   "title": "Jazzy Korean Sausage Bowl",
   "description": "A festive, umami-packed bowl that blends smoky Korean pork sausage, tender spinach, and savory bonito flakes for a springy, satisfying lunch.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Jazzy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

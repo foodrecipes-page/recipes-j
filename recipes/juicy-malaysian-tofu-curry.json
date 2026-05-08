@@ -3,7 +3,6 @@
   "description": "A flavorful and spicy Malaysian curry dish featuring tofu and iceberg lettuce, perfect for a solo dinner, and is vegan-friendly.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -93,5 +92,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

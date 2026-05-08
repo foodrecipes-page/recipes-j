@@ -54,7 +54,8 @@
     "Heat sesame oil in a wok or frying pan over medium-high heat.",
     "Add green cardamom pods and ginger to the pan; cook for about 30 seconds until fragrant.",
     "Stir in tomatoes, soy sauce, rice vinegar, salt, pepper, and optional chicken broth. Cook until tomatoes are soft and juices have thickened slightly.",
-    "Fold in scallions and fresh cilantro. Serve hot with steamed jasmine rice or as a side dish."
+    "Fold in scallions and fresh cilantro. Serve hot with steamed jasmine rice or as a side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Juicy Spiced",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

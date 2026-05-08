@@ -2,9 +2,7 @@
   "title": "Juicy Fermented Greek Turkey Neck Dolmades",
   "description": "A pescatarian-friendly Greek dish featuring turkey neck, served in a fermented and juicy dolmade form, perfect for crowds. This recipe combines the flavors of Greece with the tenderness of turkey neck.",
   "cuisine": "Greek",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
     "Repeat with the remaining grape leaves and turkey mixture.",
     "Place the dolmades in a large serving dish, seam-side down, and serve.",
-    "Let the dolmades ferment at room temperature for at least 24 hours before serving."
+    "Let the dolmades ferment at room temperature for at least 24 hours before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 60,
   "cookTimeMin": 120,
@@ -100,5 +99,10 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Juicy Fermented",
     "dishForm": "Dolmades"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

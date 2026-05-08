@@ -2,9 +2,7 @@
   "title": "Jazzy Molten Uruguayan Lamb Stew",
   "description": "A funky, molten lamb stew that blends Uruguayan flavors, stout beer, and halal-friendly braising for a comforting dinner.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,7 +79,6 @@
   "tags": [
     "braised",
     "comfort-food",
-    "halal",
     "molten",
     "stout",
     "uruguayan",
@@ -110,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Jazzy Molten",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

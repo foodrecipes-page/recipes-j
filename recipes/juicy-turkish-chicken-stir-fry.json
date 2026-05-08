@@ -63,7 +63,9 @@
     "In a small bowl, whisk together pickle juice, Dijon mustard, and soy sauce until smooth.",
     "Pour the sauce over the chicken and vegetables, stirring to coat evenly and simmer for 2–3 minutes until the sauce thickens slightly.",
     "Remove from heat, taste and adjust seasoning if needed, and let the stir‑fry rest for 2 minutes before serving.",
-    "Divide the dish into four airtight containers for meal prep, storing in the fridge for up to 4 days."
+    "Divide the dish into four airtight containers for meal prep, storing in the fridge for up to 4 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -101,5 +103,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

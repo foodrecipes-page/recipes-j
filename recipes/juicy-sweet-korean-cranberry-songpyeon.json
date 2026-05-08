@@ -3,8 +3,7 @@
   "description": "A funky and snappy Korean dish featuring cranberry juice, perfect for a lazy Sunday, this recipe is ayurvedic-tamasic-friendly and formed into songpyeon.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "cranberries",
     "descriptor": "Juicy Sweet",
     "dishForm": "Songpyeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Jazzy Jamaican Chicken Bowl",
   "description": "A flavorful and spicy Jamaican dish featuring sun-dried tomatoes and double-fry KFC style chicken, served in a dolsot stone bowl.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "In a separate pan, heat the Jamaican jerk seasoning over medium heat for 1 minute, or until fragrant.",
     "Add the chopped sun-dried tomatoes to the pan with the jerk seasoning and stir to combine.",
     "To assemble the bowls, place a portion of the double-fry chicken in the bottom of a dolsot stone bowl, followed by a spoonful of the sun-dried tomato and jerk seasoning mixture.",
-    "Serve the Jazzy Jamaican Chicken Bowl hot, garnished with chopped fresh herbs if desired."
+    "Serve the Jazzy Jamaican Chicken Bowl hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -68,7 +67,6 @@
   "tags": [
     "chicken-recipes",
     "double-fry",
-    "gluten-free",
     "jamaican-cuisine",
     "spicy-food",
     "stone-bowl"
@@ -96,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Jazzy Double Fried",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

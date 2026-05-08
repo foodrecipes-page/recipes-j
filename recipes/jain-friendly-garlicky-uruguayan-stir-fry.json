@@ -3,7 +3,6 @@
   "description": "A chewy and flavorful weeknight dish featuring garlic, sour cream, and chives, crafted to be jain-friendly without compromising on taste.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -82,5 +81,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Jain-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

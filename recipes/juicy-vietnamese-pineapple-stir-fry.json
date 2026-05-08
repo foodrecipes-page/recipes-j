@@ -3,8 +3,7 @@
   "description": "A low-carb-friendly post-workout dish featuring juicy pineapple and other aromatic ingredients that provide umami flavor.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,5 +69,9 @@
     "mainIngredient": "Pineapple",
     "descriptor": "Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

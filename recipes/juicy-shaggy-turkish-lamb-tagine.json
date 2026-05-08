@@ -63,7 +63,8 @@
     "Add the ground cumin, paprika, salt, and black pepper, and stir to combine.",
     "Add the dried cranberries and chicken broth, and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
-    "Serve the lamb and sauce over whole wheat toast."
+    "Serve the lamb and sauce over whole wheat toast.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -100,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "juicy shaggy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

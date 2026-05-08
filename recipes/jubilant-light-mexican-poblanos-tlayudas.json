@@ -3,8 +3,7 @@
   "description": "A cultured and chewy Mexican dish featuring mint and poblano peppers, served on toasted tlayudas, this recipe is a twist on traditional Mexican cuisine, with a light and refreshing flavor profile.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,7 +61,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "light-meal",
     "mexican-cuisine",
     "refreshing",
@@ -91,5 +89,9 @@
     "mainIngredient": "poblanos",
     "descriptor": "Jubilant Light",
     "dishForm": "Tlayudas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

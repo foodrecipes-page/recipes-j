@@ -3,8 +3,7 @@
   "description": "A kid-friendly Russian dish featuring toasted bread topped with a plant-based mixture of sauerkraut and vegetables, perfect for a quick snack.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "bread",
     "descriptor": "juicy tender",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A spicy and crunchy Portuguese dish featuring napa cabbage, perfect for a brunch mood, made with dashi extract and shojin friendly ingredients. This recipe combines the flavors of Portugal with the simplicity of a hash.",
   "cuisine": "Portuguese",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "breakfast",
@@ -100,5 +99,9 @@
     "mainIngredient": "napa cabbage",
     "descriptor": "Jazzy spicy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

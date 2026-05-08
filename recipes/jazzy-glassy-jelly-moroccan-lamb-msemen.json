@@ -4,9 +4,7 @@
   "cuisine": "Moroccan",
   "diet": [
     "macrobiotic",
-    "gluten-free",
-    "dairy-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -95,7 +93,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
-  "totalTimeMin": 120,
+  "totalTimeMin": 75,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -131,5 +129,11 @@
     "mainIngredient": "lamb",
     "descriptor": "Jazzy Glassy-Jelly",
     "dishForm": "Msemen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

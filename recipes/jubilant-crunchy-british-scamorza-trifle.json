@@ -3,8 +3,7 @@
   "description": "A sweet and crunchy British dessert featuring scamorza, perfect for crowds, with a keto-friendly twist. It combines the flavors of Yorkshire with the creaminess of scamorza.",
   "cuisine": "British",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -59,7 +58,6 @@
     "british-dessert",
     "crowd-pleaser",
     "crunchy",
-    "gluten-free",
     "keto-friendly",
     "scamorza-recipe"
   ],
@@ -86,5 +84,9 @@
     "mainIngredient": "scamorza",
     "descriptor": "jubilant crunchy",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

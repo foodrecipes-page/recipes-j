@@ -66,7 +66,8 @@
     "Add the cooked noodles to the tagine and stir to combine with the chicken and sauce.",
     "Reduce heat to low and simmer for 10 minutes.",
     "Season with salt and black pepper to taste.",
-    "Serve hot in the ceramic tagine."
+    "Serve hot in the ceramic tagine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "yuzu chicken",
     "descriptor": "Jammy Dense",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

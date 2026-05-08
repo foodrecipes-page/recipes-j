@@ -61,7 +61,8 @@
     "Remove the strips and pat them dry on paper towels before adding the remaining 25ml olive oil to the skillet.",
     "Double‑fry the strips for another 2 minutes per side to achieve a crunchy caramelized crust.",
     "Toss the fried chicken in a bowl of shredded lettuce, diced tomato and sliced red onion.",
-    "Serve the chicken on a toasted bun with a drizzle of lemon‑herb mayo and a squeeze of fresh lemon juice."
+    "Serve the chicken on a toasted bun with a drizzle of lemon‑herb mayo and a squeeze of fresh lemon juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Jubilant",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

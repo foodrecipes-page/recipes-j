@@ -3,7 +3,6 @@
   "description": "A light and energizing British dish featuring molasses, this dairy-free-friendly Yorkshire pudding is perfect for a satisfying meal, slow-cooked to perfection with a rich umami flavor.",
   "cuisine": "British",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -56,7 +55,6 @@
   "tags": [
     "british-classic",
     "comfort-food",
-    "dairy-free",
     "slow-cooked",
     "umami-rich",
     "vegetarian"
@@ -84,5 +82,9 @@
     "mainIngredient": "molasses",
     "descriptor": "Jubilant Light",
     "dishForm": "Yorkshire Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

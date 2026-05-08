@@ -3,8 +3,7 @@
   "description": "A sweet and crumbly Brazilian dish featuring kabocha, kombu-cold-extract, and low-carb-friendly ingredients, cooked to perfection in a copper pot. This energizing dessert is perfect for any occasion.",
   "cuisine": "Brazilian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -62,7 +61,6 @@
     "brazilian-cuisine",
     "copper-pot",
     "crumbly-dish",
-    "gluten-free",
     "kabocha-squash",
     "low-carb"
   ],
@@ -89,5 +87,9 @@
     "mainIngredient": "kabocha",
     "descriptor": "jubilant sweet",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

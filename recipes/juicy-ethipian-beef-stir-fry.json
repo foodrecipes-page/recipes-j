@@ -2,9 +2,7 @@
   "title": "Vegan Earthy Ethiopian Beef Stir-fry",
   "description": "This vegan-friendly stir-fry features unsalted beef stock and sous-vide cooking for an earthy, juicy dish that's kid-friendly.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "stir-fry",
     "earthly",
     "juicy",
@@ -97,5 +94,9 @@
     "mainIngredient": "beef",
     "descriptor": "Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

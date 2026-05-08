@@ -73,7 +73,8 @@
     "Remove the pot from the oven, take out the knuckle, and allow it to rest for 10 minutes before slicing.",
     "Return the sliced pork to the pot, adjust seasoning with pepper if needed, and simmer uncovered for 15 minutes.",
     "Stir in fresh parsley before serving, ensuring the stew is hot and fragrant.",
-    "Serve the stew hot, accompanied by crusty baguette or boiled potatoes if desired."
+    "Serve the stew hot, accompanied by crusty baguette or boiled potatoes if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -111,5 +112,9 @@
     "mainIngredient": "Pork Knuckle",
     "descriptor": "Jubilant Herbal",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

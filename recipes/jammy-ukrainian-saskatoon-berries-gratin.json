@@ -61,7 +61,6 @@
   "tags": [
     "clay-pot-cook",
     "dessert",
-    "gluten-free",
     "kid-friendly"
   ],
   "nutrition": {
@@ -87,5 +86,9 @@
     "mainIngredient": "Saskatoon berries",
     "descriptor": "jammy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

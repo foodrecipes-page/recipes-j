@@ -2,9 +2,7 @@
   "title": "Juicy Sweet Japanese Apple Salad",
   "description": "A lazy Sunday dish featuring sweet and juicy apples in a cider vinegar dressing, perfect for a light lunch or snack.",
   "cuisine": "Japanese",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -85,5 +83,9 @@
     "mainIngredient": "apple",
     "descriptor": "Juicy Sweet",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

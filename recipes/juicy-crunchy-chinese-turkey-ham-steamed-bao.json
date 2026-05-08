@@ -3,7 +3,6 @@
   "description": "Tangy, crunchy, crowd-pleaser Chinese (Hakka) dish featuring turkey ham, nuka-pickle, egg-free-friendly, form = dim-sum.",
   "cuisine": "Chinese",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "lunch",
@@ -58,7 +57,9 @@
     "Combine nuka-pickle ingredients in a bowl and set aside.",
     "Cut the turkey ham into thin strips and set aside.",
     "Roll out the bao dough into thin circles.",
-    "Heat a small pan over medium-high heat and add vegetable oil."
+    "Heat a small pan over medium-high heat and add vegetable oil.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -95,5 +96,11 @@
     "mainIngredient": "Turkey Ham",
     "descriptor": "Juicy Crunchy",
     "dishForm": "Steamed Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

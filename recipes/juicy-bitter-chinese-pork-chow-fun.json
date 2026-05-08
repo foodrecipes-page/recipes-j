@@ -3,7 +3,6 @@
   "description": "A savory and aerated Chinese dish featuring bitter flavors, garlic powder, and high-protein pork, perfect for a weeknight dinner. This recipe is designed to be quick and easy to make.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -90,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "Juicy Bitter",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

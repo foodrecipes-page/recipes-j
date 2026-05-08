@@ -53,7 +53,8 @@
     "Add tomato paste and chicken broth, stirring to combine.",
     "Bring the stew to a boil, then reduce heat to low and simmer, covered, for 25-30 minutes.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped fresh cilantro, if desired."
+    "Serve hot, garnished with chopped fresh cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "juicy smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

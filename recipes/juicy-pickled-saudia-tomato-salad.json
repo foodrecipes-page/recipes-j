@@ -49,7 +49,8 @@
     "In a large bowl, mix the chopped onions, halved tomatoes with seeds removed, diced bell peppers, and pickled jalapeños.",
     "Add the leached juice of 1 lemon to the salad mixture. Season with salt to taste.",
     "Peel and thinly slice the eggs. Mix them into the prepared salad.",
-    "Serve chilled or at room temperature as a side dish for breakfast."
+    "Serve chilled or at room temperature as a side dish for breakfast.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -85,5 +86,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Juicy Pickled",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

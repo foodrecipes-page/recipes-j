@@ -3,7 +3,6 @@
   "description": "A vibrant, anti-inflammatory French broth with olives, coconut cream, and fresh herbs, served warm from a bamboo steamer.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "anti-inflammatory-friendly"
   ],
   "meal": "lunch",
@@ -99,5 +98,9 @@
     "mainIngredient": "olive",
     "descriptor": "Jazzy",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

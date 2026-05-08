@@ -3,7 +3,6 @@
   "description": "A peppery, crisp stir‑fry featuring tender Chinese broccoli tossed in a savory mother‑sauce base, perfect for a quick Canadian‑friendly lunch or dinner.",
   "cuisine": "Canadian Chinese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly",
     "vegetarian"
   ],
@@ -71,7 +70,6 @@
   "tags": [
     "crisp",
     "fodmap-friendly",
-    "gluten-free",
     "one-pan",
     "quick",
     "weeknight"
@@ -99,5 +97,9 @@
     "mainIngredient": "Chinese broccoli",
     "descriptor": "Jazzy Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -44,7 +44,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Place phyllo sheets on a clean surface and cover with a damp cloth.",
     "Mix minced garlic, roasted red bell pepper, heavy cream, lemon juice, and salt in a bowl. Set aside.",
     "Carefully unfold a sheet of phyllo dough and place it on a flat serving plate.",
@@ -84,11 +84,15 @@
     "mood": "crowd-pleaser",
     "technique": "roast",
     "primaryIngredient": "filo pastry",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "Filo Pastry",
     "descriptor": "Juicy",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

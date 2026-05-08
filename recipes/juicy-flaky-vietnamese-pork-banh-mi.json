@@ -3,7 +3,6 @@
   "description": "A cultured and flaky Vietnamese dish featuring pork, pickled vegetables, and a crispy baguette, made with fast action yeast and pasta water emulsion, and cooked in a tagine pot.",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -64,7 +63,9 @@
     "While the pork is baking, prepare the pickled vegetables by slicing them into thin strips.",
     "Assemble the banh mi by spreading mayonnaise on the crispy baguette, then adding the baked pork, pickled vegetables, cucumber, and cilantro.",
     "Drizzle sriracha on top of the banh mi and serve immediately.",
-    "Let the banh mi cool for a few minutes before serving."
+    "Let the banh mi cool for a few minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -102,5 +103,11 @@
     "mainIngredient": "pork",
     "descriptor": "Juicy Flaky",
     "dishForm": "Banh Mi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

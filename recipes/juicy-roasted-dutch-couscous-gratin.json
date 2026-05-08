@@ -3,9 +3,7 @@
   "description": "A kid-friendly, macrobiotic-friendly Dutch dish featuring roasted vegetables and a crispy couscous topping.",
   "cuisine": "Dutch",
   "diet": [
-    "macrobiotic",
-    "gluten-free",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +57,8 @@
     "Transfer the roasted vegetables to a 9x13 inch baking dish.",
     "Top the vegetables with the couscous mixture and smooth the top.",
     "Bake for 25-30 minutes, or until the top is golden brown and crispy.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -67,11 +66,9 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "kid-friendly",
     "macrobiotic",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -97,5 +94,11 @@
     "mainIngredient": "couscous",
     "descriptor": "Juicy Roasted",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

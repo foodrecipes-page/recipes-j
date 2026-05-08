@@ -2,9 +2,7 @@
   "title": "Juicy Crisp Greek Cheese Saganaki",
   "description": "A lazy Sunday Greek dish featuring garlicky, crisp cheese, this saganaki is perfect for a relaxing meal, it is kosher friendly and uses dashi extract for added flavor.",
   "cuisine": "Greek",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Juicy Crisp",
     "dishForm": "Saganaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

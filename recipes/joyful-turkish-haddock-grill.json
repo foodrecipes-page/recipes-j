@@ -4,8 +4,7 @@
   "cuisine": "Turkish",
   "diet": [
     "low-sodium",
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "haddock",
     "descriptor": "Joyful",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

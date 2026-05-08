@@ -3,8 +3,7 @@
   "description": "A Croatian twist on traditional sushi, featuring succulent shrimp and flavorful sushi rice, all cooked to perfection on a tava griddle.",
   "cuisine": "Croatian",
   "diet": [
-    "low-fodmap",
-    "gluten-free"
+    "low-fodmap"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "croatian-cuisine",
     "date-night",
-    "gluten-free",
     "low-fodmap",
     "one-pan",
     "seafood"
@@ -91,5 +89,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "juicy glassy",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A spicy and energizing Filipino dish featuring asparagus, this kaldereta is a crumbly and flavorful meal that combines the best of Filipino cuisine with the freshness of asparagus. It is a raw-friendly and saute-based dish that is perfect for any meal.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "Jagged Spicy",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

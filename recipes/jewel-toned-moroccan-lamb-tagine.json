@@ -63,7 +63,8 @@
     "Cover the Dutch oven and transfer to the preheated oven.",
     "Braise the tagine for 2 1/2 hours, or until the lamb is tender.",
     "Remove the tagine from the oven and let it cool slightly.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -101,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Jewel toned",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

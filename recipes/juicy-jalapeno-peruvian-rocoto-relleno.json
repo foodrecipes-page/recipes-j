@@ -3,8 +3,7 @@
   "description": "A vegan-friendly twist on the classic Peruvian dish, featuring pita bread and a snappy rocoto pepper.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -37,7 +36,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "peruvian",
     "rocoto-relleno",
     "snack",
@@ -66,5 +64,9 @@
     "mainIngredient": "rocoto",
     "descriptor": "Juicy Jalapeño",
     "dishForm": "Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

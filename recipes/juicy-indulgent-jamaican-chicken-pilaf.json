@@ -60,7 +60,8 @@
     "Add the jasmine rice to the saucepan and cook for 1-2 minutes, stirring constantly.",
     "Add the marinade to the saucepan and bring to a boil.",
     "Cover the saucepan with a tight-fitting lid and transfer to the preheated oven.",
-    "Bake for 25-30 minutes, or until the liquid is absorbed and the rice is tender."
+    "Bake for 25-30 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy Indulgent",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

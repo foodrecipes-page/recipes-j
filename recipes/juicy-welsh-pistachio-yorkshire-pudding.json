@@ -83,7 +83,8 @@
     "Drop the batter by 1/4 cupfuls onto the skillet and cook for 2-3 minutes or until the bottoms are golden brown.",
     "Flip the Yorkshire puddings and cook for an additional 2-3 minutes or until golden brown on both sides.",
     "Transfer the Yorkshire puddings to a baking sheet and top each with a spoonful of shredded chicken, mashed sweet potatoes, chopped herbs, and grated cheese.",
-    "Drizzle with additional melted butter and serve hot."
+    "Drizzle with additional melted butter and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -121,5 +122,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "juicy",
     "dishForm": "Yorkshire Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

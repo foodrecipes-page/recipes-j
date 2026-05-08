@@ -83,7 +83,8 @@
     "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
     "Just before serving, transfer the salad to a serving platter and garnish with additional cilantro if desired.",
     "Serve chilled or at room temperature.",
-    "Garnish with additional Thai chilies if desired."
+    "Garnish with additional Thai chilies if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -122,5 +123,9 @@
     "mainIngredient": "chicken",
     "descriptor": "juicy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

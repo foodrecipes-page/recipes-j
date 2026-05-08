@@ -57,7 +57,8 @@
     "Remove the lid and continue to simmer for an additional 10 minutes, or until the beetroot is tender.",
     "Serve the tagine hot, garnished with fresh herbs if desired.",
     "Let the tagine cool completely before refrigerating or freezing.",
-    "Reheat the tagine over low heat, stirring occasionally, until warmed through."
+    "Reheat the tagine over low heat, stirring occasionally, until warmed through.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -94,5 +95,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "jewel toned",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

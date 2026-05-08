@@ -93,7 +93,8 @@
     "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, or until the water is absorbed.",
     "Fluff the cooked rice with a fork and stir in the cooked chicken, sugar-free ketchup, sriracha sauce, and lemon juice.",
     "Heat the mixture over low heat for 2-3 minutes, stirring constantly.",
-    "Serve the juicy Indian chicken biryani hot, garnished with fresh cilantro, if desired."
+    "Serve the juicy Indian chicken biryani hot, garnished with fresh cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -132,5 +133,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

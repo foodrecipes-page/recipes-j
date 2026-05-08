@@ -3,8 +3,7 @@
   "description": "A savory Ethiopian cheese dish featuring chopped chive and toast, perfect for a solo dinner, this ayurvedic-tamasic-friendly azifa is a delicious and satisfying meal.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
     "ayurvedic-friendly",
     "cheese-pull",
     "ethiopian-cuisine",
-    "gluten-free",
     "savory",
     "solo-dinner",
     "vegetarian"
@@ -96,5 +94,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Jagged Savory",
     "dishForm": "Azifa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

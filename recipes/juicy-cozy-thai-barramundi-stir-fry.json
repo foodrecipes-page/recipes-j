@@ -2,9 +2,7 @@
   "title": "Juicy Cozy Thai Barramundi Stir-fry",
   "description": "A floral, juicy, cozy Thai dish featuring barramundi with a touch of tandoor spices that complements the halal-friendly meal.",
   "cuisine": "Thai",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -37,11 +35,11 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C). Season barramundi with tandoori masala and garlic.",
+    "Preheat your oven to 350°F (175°C). Season barramundi with tandoori masala and garlic.",
     "In a separate bowl, mix lime juice, chopped Thai basil leaves, minced garlic cloves, ginger slices, and red bell pepper.",
     "Place the seasoned barramundi on a baking sheet. Drizzle over the marinade mixture evenly.",
     "Bake in preheated oven for 20 minutes or until fish is fully cooked and flakes easily with a fork.",
-    "Saut\u00e9 the red bell pepper and basil leaves gently until fragrant, adding to the dish just before serving."
+    "Sauté the red bell pepper and basil leaves gently until fragrant, adding to the dish just before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -77,5 +75,9 @@
     "mainIngredient": "Barramundi",
     "descriptor": "Juicy Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

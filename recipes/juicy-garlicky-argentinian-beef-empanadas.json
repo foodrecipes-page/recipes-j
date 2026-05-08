@@ -2,9 +2,7 @@
   "title": "Juicy Garlicky Argentinian Beef Empanadas",
   "description": "A traditional Argentinian dish featuring garlicky beef and a crispy pastry crust, perfect for a meal prep lunch or dinner.",
   "cuisine": "Argentinian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -56,7 +54,9 @@
     "Place a tablespoon of the beef mixture onto the center of each dough circle.",
     "Brush the edges of the dough with the beaten egg for a golden glaze.",
     "Fold the dough in half over the filling and press the edges together to seal.",
-    "Brush the tops of the empanadas with the remaining egg wash and bake for 20 minutes, or until golden brown."
+    "Brush the tops of the empanadas with the remaining egg wash and bake for 20 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -94,5 +94,11 @@
     "mainIngredient": "beef",
     "descriptor": "Juicy Garlicky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

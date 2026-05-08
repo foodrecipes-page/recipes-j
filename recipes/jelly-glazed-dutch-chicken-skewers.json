@@ -52,7 +52,8 @@
     "Return the chicken to the wok and toss to coat with the jelly glaze.",
     "Thread the glazed chicken onto skewers.",
     "Hold the skewers over the binchotan charcoal to achieve a charred exterior.",
-    "Serve the jelly glazed Dutch chicken skewers hot."
+    "Serve the jelly glazed Dutch chicken skewers hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Jelly glazed",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

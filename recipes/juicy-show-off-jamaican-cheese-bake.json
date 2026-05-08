@@ -59,7 +59,8 @@
     "In a large bowl, combine the cooked pork, cooked vegetables, and Stilton cheese. Mix well to combine.",
     "Transfer the mixture to a 9x13-inch baking dish and top with chopped green onions and cilantro.",
     "Bake the cheese bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
-    "Serve the cheese bake hot, garnished with additional chopped green onions and cilantro if desired."
+    "Serve the cheese bake hot, garnished with additional chopped green onions and cilantro if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "cheese",
     "descriptor": "juicy show-off",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

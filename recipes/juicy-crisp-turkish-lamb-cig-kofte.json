@@ -3,8 +3,7 @@
   "description": "A traditional Turkish dish featuring lamb and spices, this recipe is a macrobiotic-friendly hangover cure with a crispy exterior and juicy interior, made with caster sugar and wood-fired baked in a copper pot.",
   "cuisine": "Turkish",
   "diet": [
-    "macrobiotic",
-    "gluten-free"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Juicy Crisp",
     "dishForm": "Cig Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

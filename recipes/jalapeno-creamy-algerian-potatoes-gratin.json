@@ -63,7 +63,8 @@
     "in a blender or food processor, combine the almond milk, vegan cream cheese, and preserved lemon. Blend until smooth and creamy.",
     "pour the cream sauce over the potato and jalapeno layers in the air fryer basket.",
     "return the air fryer to the oven and bake for an additional 10-15 minutes or until the sauce is bubbly and the potatoes are golden brown on top.",
-    "garnish with chopped parsley and cilantro before serving."
+    "garnish with chopped parsley and cilantro before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -72,11 +73,9 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "gluten-free",
     "north-african",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -102,5 +101,11 @@
     "mainIngredient": "potatoes",
     "descriptor": "Jalapeno Creamy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

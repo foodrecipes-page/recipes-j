@@ -3,7 +3,6 @@
   "description": "A quick, umami-packed tofu curry with coriander seed tempering, ideal for a weeknight Australian dinner.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -11,7 +10,7 @@
     {
       "name": "firm tofu",
       "amount": "800 g",
-      "notes": "cut into 1\u2011cm cubes"
+      "notes": "cut into 1‑cm cubes"
     },
     {
       "name": "coconut milk",
@@ -43,7 +42,7 @@
     },
     {
       "name": "fenugreek seeds",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "turmeric powder",
@@ -76,7 +75,6 @@
   "difficulty": "easy",
   "tags": [
     "jain-friendly",
-    "vegan",
     "indian",
     "tofu",
     "curry",
@@ -106,5 +104,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Juicy Umami",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

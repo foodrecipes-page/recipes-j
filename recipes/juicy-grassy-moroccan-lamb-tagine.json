@@ -3,8 +3,7 @@
   "description": "A traditional Moroccan dish featuring lamb, raspberries, and a blend of spices, resulting in a crumbly and grassy flavor profile, made shojin-friendly by using plant-based ingredients and emulsification techniques to enhance the dish's texture and flavor.",
   "cuisine": "Moroccan",
   "diet": [
-    "shojin",
-    "halal"
+    "shojin"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Juicy Grassy",
     "dishForm": "Tagine Lamb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

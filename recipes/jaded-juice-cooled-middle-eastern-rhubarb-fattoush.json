@@ -4,8 +4,7 @@
   "cuisine": "middle eastern",
   "diet": [
     "diabetic",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -72,7 +71,6 @@
   "tags": [
     "cooling-salad",
     "diabetic-friendly",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -102,5 +100,9 @@
     "mainIngredient": "Rhubarb",
     "descriptor": "Jaded Juice Cooled",
     "dishForm": "Fattoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

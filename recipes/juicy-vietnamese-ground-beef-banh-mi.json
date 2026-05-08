@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Vietnamese dish featuring ground beef and served in a banh mi, this recipe is a umami-rich and diabetic-friendly option, with a glassy-jelly texture from the pickled vegetables. It is made with agemono-deep-fry techniques for added crunch.",
   "cuisine": "Vietnamese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -63,7 +62,9 @@
     "Top the bread with the cooked ground beef, pickled carrots, pickled daikon, cucumber, and cilantro.",
     "Serve immediately and enjoy.",
     "For added crunch, deep-fry the cooked ground beef in hot oil at 350 degrees Fahrenheit for 2-3 minutes, until crispy.",
-    "Drain the deep-fried ground beef on paper towels before serving."
+    "Drain the deep-fried ground beef on paper towels before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -74,7 +75,6 @@
     "banh-mi",
     "deep-fry",
     "diabetic-friendly",
-    "gluten-free",
     "ground-beef",
     "lunch-ideas",
     "vietnamese-cuisine"
@@ -102,5 +102,11 @@
     "mainIngredient": "ground beef",
     "descriptor": "Juicy Glassy",
     "dishForm": "Banh Mi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

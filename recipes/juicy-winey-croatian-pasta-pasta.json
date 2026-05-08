@@ -63,7 +63,8 @@
     "Add saucepan mixture to the bowl with spaghetti and eggs, tossing until well combined.",
     "Season with salt and black pepper to taste.",
     "Serve hot, garnished with chopped fresh parsley.",
-    "If desired, add additional grated ginger or parmesan cheese on top of each serving."
+    "If desired, add additional grated ginger or parmesan cheese on top of each serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "pasta",
     "descriptor": "juicy winey",
     "dishForm": "pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

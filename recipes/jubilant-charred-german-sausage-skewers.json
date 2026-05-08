@@ -2,9 +2,7 @@
   "title": "Jubilant Charred German Sausage Skewers",
   "description": "A kosher-friendly German dish featuring charred sausage and rice krispies, served with a side of ferment-jang sauce, grilled to perfection on a robata-grill.",
   "cuisine": "German",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Jubilant Charred",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sweet and velvety Canadian dish featuring duck, bread flour, and a hint of maple syrup, perfect for a romantic dinner.",
   "cuisine": "Canadian",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,7 +78,8 @@
     "Return the duck breast to the kazan-cauldron and bring the mixture to a boil.",
     "Cover the kazan-cauldron with the lid and transfer it to the oven.",
     "Bake the duck bouilli for 25 minutes, or until the meat is tender and the sauce has thickened.",
-    "Remove the duck bouilli from the oven and let it cool slightly before serving."
+    "Remove the duck bouilli from the oven and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -116,5 +116,10 @@
     "mainIngredient": "Duck",
     "descriptor": "Jubilant, Velvety",
     "dishForm": "Bouilli"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

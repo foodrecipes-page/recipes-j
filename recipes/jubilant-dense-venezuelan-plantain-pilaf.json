@@ -3,8 +3,7 @@
   "description": "A pungent and energizing Venezuelan dish featuring mirin and plantains, this pilaf is jain-friendly and perfect for a weeknight dinner.",
   "cuisine": "Venezuelan",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,6 @@
     "latin-american",
     "one-pot",
     "plantain-based",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +98,9 @@
     "mainIngredient": "plantains",
     "descriptor": "Jubilant Dense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

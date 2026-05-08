@@ -2,9 +2,7 @@
   "title": "Juicy Vietnamese Pancetta Noodles",
   "description": "A yeasty and velvety Vietnamese dish featuring pancetta, perfect for a brunch mood, this pescatarian-friendly recipe combines the savory flavors of pancetta with the freshness of Vietnamese ingredients.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "pancetta",
     "descriptor": "juicy velvety",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

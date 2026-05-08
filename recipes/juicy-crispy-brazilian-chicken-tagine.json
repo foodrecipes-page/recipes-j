@@ -62,7 +62,8 @@
     "Remove the lid and continue baking for an additional 20 minutes, or until the chicken is crispy and golden brown.",
     "Garnish with chopped fresh cilantro and serve hot.",
     "Let the chicken rest for 5 minutes before serving.",
-    "Serve with your choice of sides, such as rice or roasted vegetables."
+    "Serve with your choice of sides, such as rice or roasted vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

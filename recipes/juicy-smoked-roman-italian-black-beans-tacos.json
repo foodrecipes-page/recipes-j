@@ -3,8 +3,7 @@
   "description": "A vibrant and earthy Italian-inspired dish featuring char-grilled black beans, perfect for a quick and energizing lunch or dinner.",
   "cuisine": "roman italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "roman-italian",
@@ -98,5 +96,9 @@
     "mainIngredient": "black beans",
     "descriptor": "Juicy Smoked",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

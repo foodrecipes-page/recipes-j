@@ -3,7 +3,6 @@
   "description": "Tangy and velvety Thai dish featuring chili powder and gluten-free-friendly sauce, ideal for a solo dinner.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "vegetarian-options"
   ],
   "meal": "dinner",
@@ -81,7 +80,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -109,5 +107,9 @@
     "mainIngredient": "pork",
     "descriptor": "Jolly Juicy",
     "dishForm": "Pad See Ew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

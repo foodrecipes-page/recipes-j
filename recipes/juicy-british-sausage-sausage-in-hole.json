@@ -3,7 +3,6 @@
   "description": "A comforting, spicy, light British dish featuring truffle oil, steam, and a nut-free-friendly twist on the classic toad-in-the-hole. Perfect for a quick weeknight dinner.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "vegetarian-option"
   ],
   "meal": "dinner",
@@ -78,11 +77,16 @@
     "mood": "comforting",
     "technique": "steam",
     "primaryIngredient": "truffle oil",
-    "diet": "nut-free",
+    "diet": "vegetarian-option",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "Sausage",
     "descriptor": "Juicy",
     "dishForm": "Sausage In Hole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

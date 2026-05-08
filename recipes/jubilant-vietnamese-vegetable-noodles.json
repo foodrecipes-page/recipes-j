@@ -69,7 +69,8 @@
     "Stir in the chopped scallions and sesame seeds, and cook for an additional minute.",
     "To assemble the dish, place the cooked noodles in a lacquerware bowl, and top with the vegetable and tofu mixture.",
     "Serve immediately, garnished with additional scallions and sesame seeds if desired.",
-    "Allow each guest to customize their own bowl with their choice of toppings, such as pickled ginger or sliced avocado."
+    "Allow each guest to customize their own bowl with their choice of toppings, such as pickled ginger or sliced avocado.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -107,5 +108,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "jubilant crunchy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

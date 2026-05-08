@@ -2,10 +2,7 @@
   "title": "jagged roast indian shoyu-koji curry",
   "description": "a sour and crispy light indian dish featuring shoyu-koji and a roast component, ideal for an iron teppan vessel, nut-free-friendly",
   "cuisine": "indian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -112,11 +109,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indian",
     "nut-free",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -142,5 +137,10 @@
     "mainIngredient": "shoyu-koji",
     "descriptor": "jagged roast",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

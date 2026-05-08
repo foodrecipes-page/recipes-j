@@ -82,7 +82,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "keto-friendly",
     "low-carb",
     "seafood",
@@ -107,11 +106,16 @@
     "mood": "show-off",
     "technique": "smoke-hot",
     "primaryIngredient": "uni",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "uni",
     "descriptor": "Jazzy Smoky",
     "dishForm": "Sushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

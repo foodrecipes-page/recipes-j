@@ -58,7 +58,8 @@
     "Reduce the heat to low and simmer for 20 minutes.",
     "Stir in the shredded cheddar cheese until it is melted and the stew is heated through.",
     "Serve hot.",
-    "Garnish with chopped fresh herbs, if desired."
+    "Garnish with chopped fresh herbs, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "Jagged Savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

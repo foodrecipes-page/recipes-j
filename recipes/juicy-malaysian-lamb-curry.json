@@ -3,8 +3,7 @@
   "description": "A peppery and tender Malaysian dish featuring lamb shanks cooked in a clay pot, perfect for a brunch mood. This dish is a dash-friendly recipe that combines the flavors of Malaysia with the comfort of a hearty curry.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "juicy tender",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

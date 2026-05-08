@@ -3,8 +3,6 @@
   "description": "A rich, shaggy, lazy-sunday American dish featuring madras paste, soffritto-base, and plant-based-friendly goodness. This hearty casserole is perfect for a relaxing Sunday afternoon.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -111,7 +109,8 @@
     "Bake the casserole for 25-30 minutes, or until the cheese is melted and bubbly.",
     "While the casserole is baking, prepare the cashew sour cream by blending 1 cup of cashews with 1 tablespoon of lemon juice and 1/4 cup of water until smooth and creamy.",
     "Remove the casserole from the oven and top with a dollop of cashew sour cream and some chopped parsley and cilantro.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -150,5 +149,11 @@
     "mainIngredient": "plant-based",
     "descriptor": "Jazzy Lazy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

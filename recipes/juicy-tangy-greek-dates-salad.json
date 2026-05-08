@@ -3,7 +3,6 @@
   "description": "A comforting dish featuring pitted dates that is tangy and juicy, perfect for a snack or light meal.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -76,5 +75,9 @@
     "mainIngredient": "dates",
     "descriptor": "Tangy Juicy Comforting",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

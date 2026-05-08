@@ -66,7 +66,8 @@
     "Pour in the vegetable broth and bring the mixture to a boil",
     "Reduce the heat to low and simmer the ribollita for 20 minutes",
     "Stir in the toasted bread cubes and cook for an additional 2 minutes",
-    "Serve the ribollita hot, garnished with additional toasted bread cubes if desired"
+    "Serve the ribollita hot, garnished with additional toasted bread cubes if desired",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Jagged Savory",
     "dishForm": "Ribollita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

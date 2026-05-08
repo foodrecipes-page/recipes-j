@@ -3,8 +3,7 @@
   "description": "A citrusy and dense one-pot Middle Eastern dish featuring peanut butter and score-fat, made with ayurvedic-tamasic-friendly ingredients",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Add the peanut butter, score-fat, cumin, coriander, lemon juice, and chicken broth, and stir to combine",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25 minutes",
     "Season the tagine with salt and pepper to taste",
-    "Serve the tagine hot, garnished with chopped fresh herbs if desired"
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -77,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken",
-    "dairy-free",
     "gluten-free",
     "middle-eastern",
     "one-pot",
@@ -107,5 +106,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Juicy Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -76,7 +76,8 @@
     "Return the lamb to the pot and bring to a simmer.",
     "Transfer the pot to the oven and cook until the lamb is tender, about 2 1/2 hours.",
     "Season the stew with salt and pepper to taste.",
-    "Serve the stew hot, garnished with fresh thyme."
+    "Serve the stew hot, garnished with fresh thyme.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -116,5 +117,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Jacked Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

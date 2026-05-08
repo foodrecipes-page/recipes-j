@@ -4,7 +4,6 @@
   "cuisine": "Malaysian",
   "diet": [
     "vegetarian",
-    "vegan",
     "plant-based"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Justifiably juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

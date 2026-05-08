@@ -3,7 +3,6 @@
   "description": "A festive Canadian dish featuring pico de gallo sauce, perfect for a wood-fired bake. This recipe is halal-friendly and has a beautiful briny, cheese-pull.",
   "cuisine": "Canadian",
   "diet": [
-    "halal",
     "canadian-friendly"
   ],
   "meal": "lunch",
@@ -79,7 +78,6 @@
     "briny",
     "canadian",
     "cheese-pull",
-    "halal",
     "pacific-northwest",
     "wood-fired"
   ],
@@ -106,5 +104,9 @@
     "mainIngredient": "cheese",
     "descriptor": "jazzy cheese",
     "dishForm": "pizza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

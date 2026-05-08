@@ -3,7 +3,6 @@
   "description": "A savory and juicy burger featuring minari, rest-meat, and a variety of textures.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -74,7 +73,8 @@
     "Cook the patties for 4-5 minutes per side, or until cooked through.",
     "Meanwhile, toast the buns on the grill or in the oven.",
     "Assemble the burgers with cheese, lettuce, tomato, and your favorite toppings.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -86,7 +86,6 @@
     "burgers",
     "meat-alternative",
     "minari",
-    "vegan",
     "veggie"
   ],
   "nutrition": {
@@ -112,5 +111,11 @@
     "mainIngredient": "minari",
     "descriptor": "juicy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

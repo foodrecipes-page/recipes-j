@@ -59,7 +59,8 @@
     "Reduce the heat to low and simmer, covered, for 20 minutes.",
     "Stir in the chopped dried apricots and cook for an additional 5 minutes.",
     "Season with salt and pepper to taste.",
-    "Serve the tagine in scallop shells, garnished with fresh parsley."
+    "Serve the tagine in scallop shells, garnished with fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "juicy velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A lazy-sunday Australian dish featuring mixed grain, shio-koji-cure, and a hint of sweetness. Perfect for a laid-back breakfast or brunch.",
   "cuisine": "australian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "breakfast",
@@ -114,5 +113,9 @@
     "mainIngredient": "mixed grain",
     "descriptor": "jammy crumbly",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

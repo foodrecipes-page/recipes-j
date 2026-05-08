@@ -3,8 +3,7 @@
   "description": "A cultured, silky hangover cure featuring dried apricots, spherified cucumber pearls, and a low-sodium dressing.",
   "cuisine": "Ukrainian",
   "diet": [
-    "low-sodium",
-    "vegan"
+    "low-sodium"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -72,8 +71,7 @@
     "dessert",
     "hangover-cure",
     "low-sodium",
-    "silky",
-    "vegan"
+    "silky"
   ],
   "nutrition": {
     "calories": 250,
@@ -98,5 +96,9 @@
     "mainIngredient": "Apricot",
     "descriptor": "Jubilant",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

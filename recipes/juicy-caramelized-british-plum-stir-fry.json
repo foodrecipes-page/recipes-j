@@ -64,11 +64,15 @@
     "mood": "post-workout",
     "technique": "caramelize",
     "primaryIngredient": "plum jam",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "Plum",
     "descriptor": "Juicy Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

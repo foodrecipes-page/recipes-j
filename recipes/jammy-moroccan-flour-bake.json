@@ -3,7 +3,6 @@
   "description": "A comforting, flavorful bake perfect for brunch with a rich jammy topping and a crunchy bonito topping",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
     "nut-free"
   ],
   "meal": "breakfast",
@@ -116,5 +115,9 @@
     "mainIngredient": "Flour",
     "descriptor": "Jammy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

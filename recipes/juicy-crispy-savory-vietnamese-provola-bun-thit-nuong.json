@@ -2,9 +2,7 @@
   "title": "Juicy, Crispy, Savory Vietnamese Provolone Bun Thit Nuong",
   "description": "A savory, crunchy, midnight-craving Vietnamese dish featuring provolone, inspired by the flavors of Hue.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,7 +88,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled",
     "midnight-cravings",
     "protein-rich",
@@ -119,5 +116,9 @@
     "mainIngredient": "provola",
     "descriptor": "Juicy, Crispy, Savory",
     "dishForm": "Bun Thit Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

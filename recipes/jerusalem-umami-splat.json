@@ -2,9 +2,7 @@
   "title": "Jerusalem Umami Splat",
   "description": "This comforting and chewy vegetarian-friendly dish features Jerusalem artichokes with dumplings for a satisfying meal.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "primaryIngredient": "jerusalem artichokes",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }
