@@ -3238,6 +3238,20 @@
     "shard": "j"
   },
   {
+    "slug": "jeweled-crunchy-turkish-chicken-pilaf",
+    "title": "Jeweled Crunchy Turkish Chicken Pilaf",
+    "tags": [
+      "crunchy-texture",
+      "gluten-free",
+      "one-pot",
+      "turkish-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jeweled-earthy-polish-rice-pilaf",
     "title": "Jeweled Earthy Polish Rice Pilaf",
     "tags": [
@@ -6889,6 +6903,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-german-blueberry-cobbler",
+    "title": "Juicy German Blueberry Cobbler",
+    "tags": [
+      "blueberry-cobbler",
+      "easy-dessert",
+      "fruit-based",
+      "german-dish",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {

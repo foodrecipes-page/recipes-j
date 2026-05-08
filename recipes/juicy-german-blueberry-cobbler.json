@@ -1,0 +1,90 @@
+{
+  "title": "Juicy German Blueberry Cobbler",
+  "description": "A traditional German dessert featuring fresh blueberries and a crumbly crust, perfect for any occasion. This pescatarian-friendly recipe is easy to make and serves as a great alternative to classic cobblers.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh blueberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and cinnamon.",
+    "Add the cold butter to the bowl and use a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gently fold in the blueberries.",
+    "Pour the mixture into a 9x9 inch baking dish and bake for 40 minutes.",
+    "Remove the cobbler from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry-cobbler",
+    "easy-dessert",
+    "fruit-based",
+    "german-dish",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "juicy-german-blueberry-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-german-blueberry-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:22:51Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "blueberries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "blueberries",
+    "descriptor": "juicy sweet",
+    "dishForm": "Cobbler"
+  }
+}
