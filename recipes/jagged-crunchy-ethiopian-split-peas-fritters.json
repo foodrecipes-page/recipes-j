@@ -1,0 +1,97 @@
+{
+  "title": "Jagged Crunchy Ethiopian Split Peas Fritters",
+  "description": "A crunchy and energizing Ethiopian dish featuring split peas, these fritters are deep-fried to perfection and offer a rich umami flavor. They are egg-free and friendly to various diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the split peas and soak them in water for 4 hours.",
+    "Drain and mash the split peas using a fork or a potato masher.",
+    "Heat 1 tablespoon of oil in a pan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "In a large bowl, combine the mashed split peas, sauteed onion mixture, berbere spice, salt, and black pepper.",
+    "Mix well to form a thick batter.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil and fry until golden brown.",
+    "Remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "jagged-crunchy-ethiopian-split-peas-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crunchy-ethiopian-split-peas-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:33:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "split peas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "split peas",
+    "descriptor": "Jagged Crunchy",
+    "dishForm": "Fritters"
+  }
+}
