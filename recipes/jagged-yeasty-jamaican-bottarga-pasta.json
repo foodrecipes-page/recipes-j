@@ -1,0 +1,104 @@
+{
+  "title": "Jagged Yeasty Jamaican Bottarga Pasta",
+  "description": "A yeasty and crumbly Jamaican dish featuring bottarga and a pasta water emulsion, perfect for a solo dinner, dairy-free friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "bottarga",
+      "amount": "2 oz",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a small bowl, mix together the grated bottarga, active dry yeast, and jamaican jerk seasoning.",
+    "In a large skillet, heat the olive oil over medium heat and add the diced scotch bonnet peppers, cooking until fragrant.",
+    "Add the cooked pasta to the skillet, tossing to combine with the peppers and oil.",
+    "Add the pasta water to the skillet, stirring to create a creamy emulsion.",
+    "Stir in the bottarga and yeast mixture, cooking for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with nutritional yeast if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bottarga",
+    "caribbean-inspired",
+    "dairy-free",
+    "jamaican-cuisine",
+    "one-pot",
+    "seafood-pasta",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jagged-yeasty-jamaican-bottarga-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-yeasty-jamaican-bottarga-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:55:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bottarga",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bottarga",
+    "descriptor": "jagged yeasty",
+    "dishForm": "Pasta"
+  }
+}
