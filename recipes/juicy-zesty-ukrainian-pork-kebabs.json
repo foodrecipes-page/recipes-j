@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Zesty Ukrainian Pork Kebabs",
+  "description": "Fresh, juicy, and energizing Ukrainian dish featuring mustard seeds and shio-koji-cure, keto-friendly. Perfect for a quick weeknight dinner or a potluck gathering.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": "Whole or ground"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "1 tablespoon",
+      "notes": "See notes"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together lemon juice, garlic, mustard seeds, and shio-koji cure. Set aside.",
+    "In a large bowl, combine pork cubes, parsley, salt, and black pepper. Toss to coat.",
+    "Add the lemon-mustard mixture to the pork and toss to coat.",
+    "Thread the pork onto skewers, leaving a small space between each piece.",
+    "Heat the olive oil in a large grill pan or grill over medium-high heat.",
+    "Add the skewers to the grill pan or grill and cook for 8-10 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grill",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "juicy-zesty-ukrainian-pork-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-zesty-ukrainian-pork-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:34:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mustard seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Zesty",
+    "dishForm": "Kebabs"
+  }
+}
