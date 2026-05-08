@@ -1,0 +1,94 @@
+{
+  "title": "Jazzy Middle Eastern Eggplant Baba Ganoush",
+  "description": "A malty, crumbly, quick-fix Middle Eastern dish featuring mustard seeds and beurre-monte, made with ayurvedic-sattvic-friendly ingredients in the form of baba ganoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "roasted"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the eggplant for 30 minutes, or until it is tender and collapsed.",
+    "Let the eggplant cool, then scoop out the flesh and transfer it to a blender.",
+    "Add the mustard seeds, beurre-monte, lemon juice, garlic, salt, and black pepper to the blender.",
+    "Blend the mixture until it is smooth and creamy.",
+    "Stir in the tahini.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ganoush to a serving bowl and garnish with parsley or cilantro.",
+    "Serve the baba ganoush with pita bread or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-snack",
+    "middle-eastern",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "jazzy-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:03:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Jazzy Malty",
+    "dishForm": "Baba Ganoush"
+  }
+}

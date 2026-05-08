@@ -2483,6 +2483,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-middle-eastern-eggplant-baba-ganoush",
+    "title": "Jazzy Middle Eastern Eggplant Baba Ganoush",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "healthy-snack",
+      "middle-eastern",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-molten-uruguayan-lamb-stew",
     "title": "Jazzy Molten Uruguayan Lamb Stew",
     "tags": [
@@ -3982,6 +3997,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-korean-date-jorim",
+    "title": "Jewelled Korean Date Jorim",
+    "tags": [
+      "date-night",
+      "easy-dessert",
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "korean-food",
+      "vegan-option"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
