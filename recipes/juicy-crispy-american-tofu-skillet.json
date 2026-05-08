@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Crispy American Tofu Skillet",
+  "description": "A pungent and crispy one-pot American dish featuring dill and marinated tofu, perfect for a vegan-friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the tofu to the skillet and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the chopped dill, garlic powder, onion powder, smoked paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Add the marinara sauce to the skillet and stir to combine.",
+    "Return the tofu to the skillet and cook until the sauce has thickened and the tofu is coated, about 5 minutes.",
+    "Serve the tofu hot, garnished with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "crispy-tofu",
+    "dill-based",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-crispy-american-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-american-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:51:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "dill",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Skillet"
+  }
+}
