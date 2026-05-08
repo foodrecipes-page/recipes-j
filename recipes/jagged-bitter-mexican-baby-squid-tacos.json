@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Bitter Mexican Baby Squid Tacos",
+  "description": "A nostalgic Mexican dish featuring bitter and chewy baby squid, shaped like nigiri, in a low sodium taco.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Rinse the baby squid under cold water and pat dry with paper towels.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, oregano, cumin, and salt-free seasoning blend.",
+    "Add the baby squid to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the squid from the marinade and shape into small nigiri-like pieces.",
+    "Grill the squid for 2-3 minutes per side, or until slightly charred.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few pieces of grilled squid onto a tortilla, followed by a sprinkle of chopped cilantro, sliced radishes, and diced bitter melon.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "grilled",
+    "low-sodium",
+    "mexican-food",
+    "seafood",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jagged-bitter-mexican-baby-squid-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-bitter-mexican-baby-squid-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:52:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "baby squid",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "baby squid",
+    "descriptor": "jagged bitter",
+    "dishForm": "Tacos"
+  }
+}

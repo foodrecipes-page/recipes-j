@@ -63,6 +63,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-bitter-mexican-baby-squid-tacos",
+    "title": "Jagged Bitter Mexican Baby Squid Tacos",
+    "tags": [
+      "bitter-flavors",
+      "grilled",
+      "low-sodium",
+      "mexican-food",
+      "seafood",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-creamy-slovakian-danmuji-bake",
     "title": "Jagged Creamy Slovakian Danmuji Bake",
     "tags": [
@@ -461,6 +476,21 @@
     ],
     "cuisine": "turkish",
     "totalTimeMin": 70,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-springy-egyptian-chicken-skewers",
+    "title": "Jagged Springy Egyptian Chicken Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Jagged Springy Egyptian Chicken Skewers",
+  "description": "Charred and springy Egyptian dish featuring birds-eye chillies and soffritto-base, perfect for midnight cravings. This raw-friendly recipe is sure to satisfy your taste buds.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "4-6",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soffritto-base",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soffritto-base, olive oil, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and mix until well combined.",
+    "Add the chicken pieces to the bowl and toss to coat with the soffritto mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "While the chicken is cooking, slice the birds-eye chillies into thin rings.",
+    "Once the chicken is done, brush the chilli rings onto the skewers.",
+    "Serve the skewers hot, garnished with additional chilli rings if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "jagged-springy-egyptian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-springy-egyptian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "soffritto-base",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Jagged Springy",
+    "dishForm": "Skewers"
+  }
+}
