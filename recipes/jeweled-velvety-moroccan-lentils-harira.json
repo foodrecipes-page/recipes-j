@@ -1,0 +1,108 @@
+{
+  "title": "Jeweled Velvety Moroccan Lentils Harira",
+  "description": "A peppery and velvety Moroccan dish featuring French lentils, perfect for a date night, served in a dolsot stone bowl. This Buddhist-temple-friendly recipe is a variation of the traditional Harira soup.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered lardons in a large pot over medium heat until crispy.",
+    "Add the chopped onion to the pot and cook until translucent.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the ground cumin and smoked paprika to the pot and cook for 1 minute.",
+    "Add the French lentils, tomato paste, and vegetable broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer the mixture for 30 minutes or until the lentils are tender.",
+    "Stir in the pitted dates and cook for an additional 5 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "Serve the Harira in a dolsot stone bowl and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "lentil-soup",
+    "moroccan",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jeweled-velvety-moroccan-lentils-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-velvety-moroccan-lentils-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:26:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "french lentils",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Jeweled Velvety",
+    "dishForm": "Harira"
+  }
+}
