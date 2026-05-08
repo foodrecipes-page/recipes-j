@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Crispy Brazilian Chicken Tagine",
+  "description": "A flavorful and crispy Brazilian dish featuring passion fruit pulp, cooked to perfection in a claypot tagine, perfect for a weeknight dinner. This herbal and aromatic recipe is a twist on traditional Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Place the chicken thighs in the claypot tagine and brush the oil mixture evenly over both sides of the chicken.",
+    "Spoon the passion fruit pulp over the chicken thighs.",
+    "Cover the claypot tagine with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the chicken is crispy and golden brown.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Serve with your choice of sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "claypot-cooking",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-crispy-brazilian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-brazilian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "tagine-cook",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Tagine"
+  }
+}
