@@ -1,0 +1,102 @@
+{
+  "title": "Jewel Toned Jamaican Snow Peas Curry",
+  "description": "A rich and silky Jamaican curry featuring snow peas, made with diabetic-friendly ingredients and cooked to perfection using sous-vide, resulting in a dish that is both indulgent and healthy.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a saucepan over medium heat until it starts to simmer.",
+    "Add the curry powder, onion, garlic, ginger, and scotch bonnet pepper to the saucepan and stir to combine.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Add the snow peas to the saucepan and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the mixture in a sous-vide water bath at 180 degrees for 30 minutes.",
+    "Remove the bag from the water bath and let it cool to room temperature.",
+    "Serve the curry hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "diabetic-friendly",
+    "gluten-free",
+    "jamaican-cuisine",
+    "snow-peas",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "jewel-toned-jamaican-snow-peas-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-jamaican-snow-peas-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:20:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "snow peas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "snow peas",
+    "descriptor": "jewel toned",
+    "dishForm": "Curry"
+  }
+}

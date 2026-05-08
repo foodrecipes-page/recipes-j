@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Mexican Bellflower Root Doraji Tacos",
+  "description": "A cultured and cozy Mexican dish featuring bellflower root doraji in a mother sauce base, wrapped in a ti leaf and high in protein. This dish is perfect for a dinner gathering.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bellflower root doraji",
+      "amount": "1 pound",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the mother sauce in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced bellflower root doraji and cook until tender.",
+    "Warm the ti leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the doraji mixture onto a ti leaf and topping with queso fresco and cilantro.",
+    "Drizzle with lime juice and serve immediately.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "doraji",
+    "high-protein",
+    "mexican",
+    "mother-sauce",
+    "ti-leaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-mexican-bellflower-root-doraji-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-bellflower-root-doraji-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:20:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "high-protein",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "bellflower root doraji",
+    "descriptor": "juicy gooey",
+    "dishForm": "Tacos"
+  }
+}

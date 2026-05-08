@@ -2588,6 +2588,21 @@
     "shard": "j"
   },
   {
+    "slug": "jewel-toned-jamaican-snow-peas-curry",
+    "title": "Jewel Toned Jamaican Snow Peas Curry",
+    "tags": [
+      "curry",
+      "diabetic-friendly",
+      "gluten-free",
+      "jamaican-cuisine",
+      "snow-peas",
+      "sous-vide"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jewel-toned-light-algerian-avocado-tagine",
     "title": "Jewel Toned Light Algerian Avocado Tagine",
     "tags": [
@@ -5941,6 +5956,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-mexican-bellflower-root-doraji-tacos",
+    "title": "Juicy Mexican Bellflower Root Doraji Tacos",
+    "tags": [
+      "doraji",
+      "high-protein",
+      "mexican",
+      "mother-sauce",
+      "ti-leaf",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
