@@ -3461,6 +3461,21 @@
     "shard": "j"
   },
   {
+    "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai",
+    "title": "Jeweled Velvety Northern Thai Chicken Kao Mun Gai",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "paleo-friendly",
+      "spicy",
+      "thai-inspired",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Northern Thai",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jewelled-braised-canadian-beef-tagine",
     "title": "Jewelled Braised Canadian Beef Tagine",
     "tags": [
@@ -5083,6 +5098,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-roasted-german-pork-roast",
+    "title": "Jubilant Roasted German Pork Roast",
+    "tags": [
+      "cataplana-recipe",
+      "festive-dinner",
+      "german-cuisine",
+      "roasted-meat",
+      "shojin-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 100,
     "shard": "j"
   },
   {

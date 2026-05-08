@@ -1,0 +1,91 @@
+{
+  "title": "Jubilant Roasted German Pork Roast",
+  "description": "A traditional German dish featuring a roasted pork roast with a sweet and sticky glaze, cooked to perfection in a cataplana vessel. This shojin-friendly recipe is perfect for a festive dinner.",
+  "cuisine": "German",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, whisk together the dark brown sugar, apple cider vinegar, water, caraway seeds, salt, and black pepper.",
+    "Place the pork roast in a cataplana vessel and brush the sugar mixture evenly over the roast.",
+    "Add the chopped onion to the vessel and cover with a lid.",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Strain the juices from the vessel and serve alongside the pork.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipe",
+    "festive-dinner",
+    "german-cuisine",
+    "roasted-meat",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "jubilant-roasted-german-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-roasted-german-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Jubilant Roasted",
+    "dishForm": "Roast"
+  }
+}
