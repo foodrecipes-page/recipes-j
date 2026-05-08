@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Slovakian Sweetcorn Wrap",
+  "description": "A weeknight Slovakian dish featuring sweetcorn and mustard in a crunchy ti leaf wrap, low in fat and perfect for a quick dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6"
+    },
+    {
+      "name": "low-fat mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "Mix together sweetcorn, mayonnaise, Dijon mustard, chopped onion, shredded carrot, salt, and pepper in a bowl",
+    "Lay a ti leaf flat and place 1/4 of the sweetcorn mixture in the center",
+    "Fold the ti leaf over the filling to form a triangle or square shape and press the edges together to seal",
+    "Repeat with the remaining ti leaves and filling",
+    "Place the wraps on a baking sheet lined with parchment paper and bake for 15-20 minutes",
+    "Serve hot and enjoy",
+    "Let cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "low-fat",
+    "slovakian",
+    "ti-leaf-wrap",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-slovakian-sweetcorn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slovakian-sweetcorn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "juicy crunchy",
+    "dishForm": "Wrap"
+  }
+}
