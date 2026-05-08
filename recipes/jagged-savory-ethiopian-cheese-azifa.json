@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Savory Ethiopian Cheese Azifa",
+  "description": "A savory Ethiopian cheese dish featuring chopped chive and toast, perfect for a solo dinner, this ayurvedic-tamasic-friendly azifa is a delicious and satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nabulsi cheese",
+      "amount": "1 cup",
+      "notes": "crumbly white cheese"
+    },
+    {
+      "name": "chopped chive",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Crumble the nabulsi cheese into a bowl and set aside.",
+    "Toast the whole wheat bread until it is lightly browned and crispy.",
+    "Heat the ghee in a pan over medium heat and add the berbere spice.",
+    "Add the chopped chive to the pan and cook until it is lightly wilted.",
+    "Add the crumbled cheese to the pan and stir until it is well combined with the chive and spice mixture.",
+    "Squeeze the lemon juice over the cheese mixture and stir to combine.",
+    "Season the cheese mixture with salt and black pepper to taste.",
+    "Serve the cheese mixture over the toasted bread and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "cheese-pull",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "savory",
+    "solo-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jagged-savory-ethiopian-cheese-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-savory-ethiopian-cheese-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:51:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "chopped chive",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cheese",
+    "descriptor": "Jagged Savory",
+    "dishForm": "Azifa"
+  }
+}
