@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Silky Ukrainian Cheese Pasta",
+  "description": "A citrusy and silky Ukrainian dish featuring cheddar cheese, this pasta is a show-off recipe that combines flavors and textures in a unique way, with sashimi-cut elements and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the chopped fresh dill to the skillet and cook for an additional 30 seconds.",
+    "In a large bowl, whisk together the lemon juice, salt, and black pepper.",
+    "Add the cooked pasta to the bowl and toss to combine with the lemon juice mixture.",
+    "In the same skillet used for the garlic and dill, add the shredded cheddar cheese and cook over low heat, stirring constantly, until the cheese is melted and silky.",
+    "Add the sour cream to the skillet and stir to combine with the cheese sauce.",
+    "Add the cheese sauce to the pasta and toss to combine.",
+    "Stir in the halved cherry tomatoes and cook for an additional 2 minutes until heated through.",
+    "Serve the pasta hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "juicy-silky-ukrainian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-ukrainian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:40:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Juicy Silky",
+    "dishForm": "Pasta"
+  }
+}
