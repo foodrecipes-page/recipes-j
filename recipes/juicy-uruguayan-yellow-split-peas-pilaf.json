@@ -1,0 +1,109 @@
+{
+  "title": "Uruguayan Yellow Split Peas Pilaf",
+  "description": "A light and adventurous Uruguayan dish featuring yellow split peas, mantecare, and a touch of brininess.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mantecare",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomatoes, chicken bouillon, salt, and black pepper. Stir to combine.",
+    "Add the yellow split peas, cover the saucepan, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the peas are tender.",
+    "Stir in the lemon juice and mantecare.",
+    "Transfer the pilaf to a serving dish and garnish with chopped parsley and scallions.",
+    "Serve hot and enjoy!",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "uruguayan-cuisine",
+    "vegetarian-friendly",
+    "weeknight",
+    "yellow-split-peas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "juicy-uruguayan-yellow-split-peas-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-uruguayan-yellow-split-peas-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:06:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "yellow split peas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "juicy",
+    "dishForm": "Pilaf"
+  }
+}
