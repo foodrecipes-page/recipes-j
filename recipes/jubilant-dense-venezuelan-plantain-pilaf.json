@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Dense Venezuelan Plantain Pilaf",
+  "description": "A pungent and energizing Venezuelan dish featuring mirin and plantains, this pilaf is jain-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "green or unripe"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hon dashi",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cumin, paprika, salt, and pepper, and stir to combine.",
+    "Add the hon dashi and mirin, and bring the mixture to a boil.",
+    "Reduce the heat to low and add the sliced plantains to the saucepan.",
+    "Cover the saucepan with a tight-fitting lid and steam the plantains for 20 minutes, or until they are tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "latin-american",
+    "one-pot",
+    "plantain-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-dense-venezuelan-plantain-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dense-venezuelan-plantain-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:45:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "mirin-hon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Jubilant Dense",
+    "dishForm": "Pilaf"
+  }
+}
