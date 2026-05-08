@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Syrian Potato Tagine",
+  "description": "A sour and tender Syrian dish featuring yukon gold potatoes in a miso marinade, perfect for a weeknight dinner. This paleo-friendly recipe is cooked to perfection in a claypot.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, lemon juice, and olive oil to make the marinade.",
+    "Add the cubed potatoes to the marinade and toss to coat.",
+    "Heat the claypot over medium heat and add the minced garlic, cooking for 1 minute.",
+    "Add the marinated potatoes to the claypot, stirring to combine with the garlic.",
+    "Add the salt, black pepper, and sumac to the claypot, stirring to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Cover the claypot with a lid and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the claypot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-recipe",
+    "paleo-friendly",
+    "potato-recipe",
+    "syrian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-syrian-potato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-syrian-potato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Juicy tender",
+    "dishForm": "Tagine"
+  }
+}
