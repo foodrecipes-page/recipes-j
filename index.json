@@ -950,6 +950,23 @@
     "shard": "j"
   },
   {
+    "slug": "japanese-style-japanese-rice-katsudon",
+    "title": "Japanese-Style Katsudon",
+    "tags": [
+      "japanese",
+      "kansai",
+      "katsudon",
+      "one-pan",
+      "onion",
+      "pork",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jarring-indian-bulgur-thali",
     "title": "Jarring Indian Bulgur Thali",
     "tags": [
