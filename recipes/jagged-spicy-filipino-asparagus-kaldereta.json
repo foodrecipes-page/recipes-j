@@ -1,0 +1,104 @@
+{
+  "title": "Jagged Spicy Filipino Asparagus Kaldereta",
+  "description": "A spicy and energizing Filipino dish featuring asparagus, this kaldereta is a crumbly and flavorful meal that combines the best of Filipino cuisine with the freshness of asparagus. It is a raw-friendly and saute-based dish that is perfect for any meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and saute until softened.",
+    "Add the minced garlic and saute for another minute.",
+    "Add the diced tomato and saute until the mixture is well combined.",
+    "Add the sliced chili peppers and saute for 2 minutes.",
+    "Add the asparagus and saute until tender.",
+    "Add the fish sauce, vinegar, salt, and black pepper, and stir well.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipes",
+    "filipino-food",
+    "gluten-free-recipes",
+    "spicy-dishes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jagged-spicy-filipino-asparagus-kaldereta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-spicy-filipino-asparagus-kaldereta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "asparagus",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "asparagus",
+    "descriptor": "Jagged Spicy",
+    "dishForm": "Kaldereta"
+  }
+}
