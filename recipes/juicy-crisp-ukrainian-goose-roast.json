@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Crisp Ukrainian Goose Roast",
+  "description": "A traditional Ukrainian dish featuring a crispy skin and juicy meat, made with goose fat and salt-bake method, perfect for special occasions.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose",
+      "amount": "1 whole",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Rinse the goose and pat it dry with paper towels.",
+    "In a small bowl, mix together the melted goose fat, salt, black pepper, garlic powder, and onion powder.",
+    "Rub the mixture all over the goose, making sure to get some under the skin as well.",
+    "Stuff the chopped carrots and potatoes into the cavity of the goose.",
+    "Place the goose in a roasting pan and put it in the oven.",
+    "Roast the goose for 20 minutes, then reduce the heat to 375 degrees Fahrenheit and continue roasting for another 60 minutes.",
+    "Baste the goose with the pan juices every 20 minutes to keep it moist.",
+    "When the skin is crispy and golden brown, remove the goose from the oven and let it rest for 10 minutes before carving.",
+    "Carve the goose and serve it with the roasted carrots and potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indulgent",
+    "roasted-meats",
+    "special-occasion",
+    "traditional-ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-crisp-ukrainian-goose-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-ukrainian-goose-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:03:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "goose fat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "goose",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Roast"
+  }
+}
