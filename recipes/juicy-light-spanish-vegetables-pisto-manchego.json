@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Light Spanish Vegetables Pisto Manchego",
+  "description": "A floral and light Spanish dish featuring tamarind paste, score-fat, and keto-friendly ingredients, perfect for a crowd-pleaser, this Pisto Manchego recipe is a must-try for any vegetable lover.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the melted score-fat in a large skillet over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the sliced zucchini and bell peppers, and cook until they are tender and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the tamarind paste mixture, smoked paprika, and salt.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, until the vegetables are very tender.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "juicy-light-spanish-vegetables-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-spanish-vegetables-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "tamarind paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Light",
+    "dishForm": "Pisto Manchego"
+  }
+}

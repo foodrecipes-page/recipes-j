@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Smoky Middle Eastern Chicken Kebabs",
+  "description": "Tender and flavorful chicken kebabs with a smoky and slightly spicy flavor, perfect for a hangover cure or a delicious meal, this ayurvedic-sattvic-friendly dish is made with chicken legs and grilled to perfection on a binchotan grill.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, olive oil, Dijon mustard, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the chicken legs to the bowl and toss to coat evenly with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the binchotan grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Thread the chicken legs onto skewers, if using, and brush with a little bit of olive oil.",
+    "Grill the chicken for 20-25 minutes, turning occasionally, until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Serve the chicken kebabs hot, garnished with fresh herbs and pita bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "juicy-smoky-middle-eastern-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-middle-eastern-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "chicken legs",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Kebabs"
+  }
+}

@@ -6570,6 +6570,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-light-spanish-vegetables-pisto-manchego",
+    "title": "Juicy Light Spanish Vegetables Pisto Manchego",
+    "tags": [
+      "gluten-free",
+      "keto-friendly",
+      "one-pan",
+      "spanish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-light-venezuelan-apples-bisque",
     "title": "Juicy Light Venezuelan Apple Bisque",
     "tags": [
@@ -7834,6 +7849,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-middle-eastern-chicken-kebabs",
+    "title": "Juicy Smoky Middle Eastern Chicken Kebabs",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
