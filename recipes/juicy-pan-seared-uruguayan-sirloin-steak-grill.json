@@ -1,0 +1,103 @@
+{
+  "title": "Uruguayan Sirloin Steak Grill",
+  "description": "A hearty Uruguayan dish featuring a katsuramuki-cut sirloin steak, seasoned with Uruguayan spices, and seared to perfection in a kadhai. This recipe is perfect for a solo dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1",
+      "notes": "katsuramuki-cut, 1-inch thick"
+    },
+    {
+      "name": "Uruguayan chimichurri mix",
+      "amount": "2 tsp",
+      "notes": "available at most Latin American grocery stores"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the kadhai"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium-high heat for 5 minutes.",
+    "Add the olive oil to the kadhai and brush it evenly to prevent sticking.",
+    "Season the sirloin steak with salt, black pepper, garlic powder, paprika, and red pepper flakes.",
+    "Sear the sirloin steak in the kadhai for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the sirloin steak to a plate and let it rest for 5 minutes.",
+    "Stir the Uruguayan chimichurri mix into the remaining juices in the kadhai.",
+    "Serve the sirloin steak with the chimichurri sauce spooned over the top and garnished with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "solo-dinner",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 24
+  },
+  "slug": "juicy-pan-seared-uruguayan-sirloin-steak-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-pan-seared-uruguayan-sirloin-steak-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "sirloin steak",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Sirloin steak",
+    "descriptor": "Juicy pan-seared",
+    "dishForm": "Grill"
+  }
+}
