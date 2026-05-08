@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Fermented Greek Turkey Neck Dolmades",
+  "description": "A pescatarian-friendly Greek dish featuring turkey neck, served in a fermented and juicy dolmade form, perfect for crowds. This recipe combines the flavors of Greece with the tenderness of turkey neck.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey necks",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the turkey necks and place them in a large pot with the water, white wine, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 2 hours, or until the turkey is tender.",
+    "Remove the turkey from the pot and let it cool, then shred it into bite-sized pieces.",
+    "Meanwhile, prepare the grape leaves by blanching them in boiling water for 30 seconds, then rinsing them in cold water.",
+    "In a large bowl, combine the shredded turkey, olive oil, lemon juice, garlic, and chopped fresh dill.",
+    "Layout a grape leaf on a flat surface, with the stem end facing you, and place about 1 tablespoon of the turkey mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and turkey mixture.",
+    "Place the dolmades in a large serving dish, seam-side down, and serve.",
+    "Let the dolmades ferment at room temperature for at least 24 hours before serving."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 120,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dolmades-recipe",
+    "fermented-food",
+    "greek-cuisine",
+    "juicy-turkey",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-fermented-greek-turkey-neck-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fermented-greek-turkey-neck-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:39:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "turkey neck",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Juicy Fermented",
+    "dishForm": "Dolmades"
+  }
+}
