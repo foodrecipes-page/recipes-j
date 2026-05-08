@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Mediterranean Prawn Ceviche",
+  "description": "A refreshing and light Mediterranean dish featuring raw tiger prawns, perfect for a lazy Sunday, with a sour and aerated twist from the shio cure and citrus juices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "shio cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together the shio cure, lemon juice, and lime juice.",
+    "Add the garlic, red onion, and parsley to the bowl and stir to combine.",
+    "Add the prawns to the bowl and toss to coat with the shio cure mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the prawns to cure.",
+    "After 30 minutes, remove the bowl from the refrigerator and stir in the olive oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl again and refrigerate for an additional 10 minutes to allow the flavors to meld.",
+    "Serve the ceviche chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "low-calorie",
+    "mediterranean",
+    "refreshing",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "juicy-mediterranean-prawn-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterranean-prawn-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "prawns",
+    "descriptor": "Juicy",
+    "dishForm": "Ceviche"
+  }
+}
