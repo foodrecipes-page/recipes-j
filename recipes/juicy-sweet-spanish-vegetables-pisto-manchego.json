@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Sweet Spanish Vegetables Pisto Manchego",
+  "description": "A funky and fluffy Spanish dish featuring dark brown sugar, perfect for a brunch mood, made with score fat and diabetic friendly ingredients, in the form of Pisto Manchego.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned and crushed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced zucchini and bell peppers, cooking until they start to soften.",
+    "Add the dark brown sugar, score fat, and crushed tomatoes, stirring to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "diabetic-friendly",
+    "one-pan-meals",
+    "spanish-cuisine",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-sweet-spanish-vegetables-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-spanish-vegetables-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:54:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Pisto Manchego"
+  }
+}

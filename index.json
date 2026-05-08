@@ -4034,6 +4034,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-british-seitan-cornish-pasty",
+    "title": "Jubilant British Seitan Cornish Pasty",
+    "tags": [
+      "british",
+      "cedar-plank",
+      "post-workout",
+      "savory",
+      "smoke-cold",
+      "vegan"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-broiled-british-chicken-bowl",
     "title": "Jubilant Broiled British Chicken Bowl",
     "tags": [
@@ -4783,6 +4798,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-uruguayan-red-onion-bowl",
+    "title": "Jubilant Uruguayan Red Onion Bowl",
+    "tags": [
+      "dolsot-stone-bowl",
+      "festive",
+      "satvik-friendly",
+      "uruguayan-cuisine",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -8668,6 +8698,20 @@
       "vegetarian-main-course"
     ],
     "cuisine": "polish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-spanish-vegetables-pisto-manchego",
+    "title": "Juicy Sweet Spanish Vegetables Pisto Manchego",
+    "tags": [
+      "brunch-ideas",
+      "diabetic-friendly",
+      "one-pan-meals",
+      "spanish-cuisine",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "j"
   },

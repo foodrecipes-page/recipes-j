@@ -1,0 +1,96 @@
+{
+  "title": "Jubilant Uruguayan Red Onion Bowl",
+  "description": "A floral and silky Uruguayan dish featuring red onions and nuka-pickle, served in a dolsot stone bowl. This satvik-friendly recipe is perfect for a festive occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "edamame",
+      "amount": "1 cup",
+      "notes": "steamed"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chimichurri, lemon juice, and olive oil.",
+    "Add the sliced red onions to the bowl and toss to coat with the chimichurri mixture.",
+    "Spread the onions on a baking sheet and roast in the oven for 20 minutes.",
+    "In a small bowl, mix together nuka-pickle and dried oregano.",
+    "To assemble the bowls, place a scoop of cooked quinoa in the bottom of a dolsot stone bowl.",
+    "Add a spoonful of steamed edamame on top of the quinoa.",
+    "Spoon the roasted onions over the edamame.",
+    "Drizzle the nuka-pickle mixture over the onions.",
+    "Serve immediately and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dolsot-stone-bowl",
+    "festive",
+    "satvik-friendly",
+    "uruguayan-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-uruguayan-red-onion-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-uruguayan-red-onion-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:54:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "red onions",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "red onions",
+    "descriptor": "jubilant floral",
+    "dishForm": "Bowl"
+  }
+}

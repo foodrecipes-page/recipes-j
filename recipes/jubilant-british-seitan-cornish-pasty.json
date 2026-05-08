@@ -1,0 +1,97 @@
+{
+  "title": "Jubilant British Seitan Cornish Pasty",
+  "description": "A savory vegan dish featuring seitan and chocolate chips in a traditional Cornish pasty, served on a cedar plank. This dish is perfect for a post-workout meal in the Yorkshire style.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold-smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "swede",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, seitan, smoked tofu, chocolate chips, and melted vegan butter.",
+    "Add the chopped onion, diced potato, and diced swede to the bowl and mix until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Use a plate or a pastry cutter to cut out circles of dough.",
+    "Place a spoonful of the seitan and vegetable mixture onto one half of each dough circle.",
+    "Fold the other half of the dough circle over the filling to form a pasty, and press the edges together to seal.",
+    "Place the pasties on a cedar plank lined with parchment paper.",
+    "Bake the pasties in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cedar-plank",
+    "post-workout",
+    "savory",
+    "smoke-cold",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jubilant-british-seitan-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-british-seitan-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:54:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chocolate chips",
+    "diet": "vegan",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "seitan",
+    "descriptor": "Jubilant Smoky",
+    "dishForm": "Cornish Pasty"
+  }
+}
