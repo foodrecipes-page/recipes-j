@@ -1,0 +1,93 @@
+{
+  "title": "Jubilant Yeasty Thai Tagliatelle Khanom Krok",
+  "description": "A yeasty, chewy, Thai-inspired brunch dish featuring tagliatelle and khanom krok, made in a Dutch oven. This egg-free friendly dish is perfect for a weekend morning.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "khanom krok molds",
+      "amount": "12"
+    },
+    {
+      "name": "sashimi-cut vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and zucchini"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the yeast, palm sugar, and warm water, stirring to dissolve the yeast.",
+    "Add the coconut milk, vegetable oil, and salt to the bowl, stirring to combine.",
+    "Gradually add the tagliatelle to the bowl, stirring to coat the pasta evenly with the yeast mixture.",
+    "Cover the bowl with a damp cloth and let the mixture rest in a warm place for 1 hour, or until the yeast is activated and the mixture is bubbly.",
+    "Preheat the Dutch oven over medium heat, adding a small amount of oil to the bottom.",
+    "Add the khanom krok molds to the Dutch oven, filling each mold with the tagliatelle mixture and topping with sashimi-cut vegetables.",
+    "Cover the Dutch oven with a lid and cook for 10 minutes, or until the khanom krok are cooked through and the tagliatelle is tender.",
+    "Remove the khanom krok from the molds and serve hot, garnished with additional sashimi-cut vegetables if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dutch-oven",
+    "one-pot",
+    "thai-inspired",
+    "vegan-friendly",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-yeasty-thai-tagliatelle-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-yeasty-thai-tagliatelle-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "tagliatelle",
+    "diet": "egg-free",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Jubilant Yeasty",
+    "dishForm": "Khanom Krok"
+  }
+}
