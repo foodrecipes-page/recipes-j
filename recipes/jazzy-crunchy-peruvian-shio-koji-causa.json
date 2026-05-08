@@ -1,0 +1,105 @@
+{
+  "title": "Jazzy Crunchy Peruvian Shio-Koji Causa",
+  "description": "A comforting Peruvian dish that combines the flavors of shio-koji, crunchy bread, and creamy avocado. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Double-rise bread",
+      "amount": "1 loaf",
+      "notes": "crusty on the outside and fluffy on the inside"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice vinegar, used to marinate the bread"
+    },
+    {
+      "name": "Canned tuna",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Hard-boiled egg",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for toasting bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    " Toast the bread until crispy and golden brown.",
+    "In a blender or food processor, combine shio-koji, lime juice, and olive oil. Blend until smooth and creamy.",
+    "In a large bowl, combine tuna, red onion, hard-boiled egg, avocado, and chopped cilantro. Mix well.",
+    "Add the toasted bread to the bowl and toss until the bread is evenly coated with the tuna mixture.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a serving dish and top with the shio-koji dressing.",
+    " Refrigerate for at least 30 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "jazzy-crunchy-peruvian-shio-koji-causa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crunchy-peruvian-shio-koji-causa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shio-koji",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shio-koji",
+    "descriptor": "jazzy crunchy",
+    "dishForm": "Causa"
+  }
+}
