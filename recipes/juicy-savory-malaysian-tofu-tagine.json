@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Savory Malaysian Tofu Tagine",
+  "description": "A savory and light Malaysian dish featuring tofu in a rich tomato sauce, cooked to perfection in a tagine and wrapped in lotus leaf, perfect for a festive occasion. This plant-based friendly recipe is a delight to the senses.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat some oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and ginger to the pan and cook for another minute, stirring constantly.",
+    "Add the cumin and coriander to the pan and cook for 1 minute, stirring constantly.",
+    "Add the tomato sauce to the pan and bring to a simmer.",
+    "Add the tofu to the pan and stir gently to combine with the sauce.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Prepare the lotus leaves by washing and drying them, then cutting out the stem and any thick veins.",
+    "Spoon the tofu and sauce mixture onto the center of each lotus leaf, then fold the leaves over the filling to form a tight packet.",
+    "Place the packets in a tagine or a large Dutch oven and cover with a lid.",
+    "Bake the tagine in the preheated oven for 30 minutes, or until the sauce is bubbly and the lotus leaves are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-recipes",
+    "lotus-leaf-recipes",
+    "malaysian-cuisine",
+    "plant-based",
+    "tagine-cooking",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-savory-malaysian-tofu-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-malaysian-tofu-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:56:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tomato sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Juicy Savory",
+    "dishForm": "Tagine"
+  }
+}
