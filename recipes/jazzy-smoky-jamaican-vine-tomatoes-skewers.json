@@ -1,0 +1,100 @@
+{
+  "title": "Jazzy Smoky Jamaican Vine Tomatoes Skewers",
+  "description": "A romantic Jamaican dish featuring smoky vine tomatoes, perfect for a special occasion. This satvik-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the vine tomatoes, scotch bonnet peppers, onion, and garlic onto skewers.",
+    "In a small bowl, mix together the thyme, allspice, and smoked paprika.",
+    "Brush the skewers with olive oil and sprinkle with the spice mixture.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Serve the skewers hot on a tagliere.",
+    "Garnish with fresh thyme and scotch bonnet peppers.",
+    "Enjoy your delicious Jazzy Smoky Jamaican Vine Tomatoes Skewers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "jamaican",
+    "romantic",
+    "smoky",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "jazzy-smoky-jamaican-vine-tomatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-jamaican-vine-tomatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:23:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "jazzy smoky",
+    "dishForm": "Skewers"
+  }
+}
