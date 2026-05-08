@@ -1,0 +1,129 @@
+{
+  "title": "Jazzy Moroccan Lemon Kebabs",
+  "description": "Spicy, crunchy, and monsoon-inspired Moroccan dish featuring unwaxed lemons and a unique kneading technique, perfect for diabetic-friendly meals served on a hot stone plate.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Unwaxed Lemons",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kneaded Spicy Meat Mix",
+      "amount": "1 pound",
+      "notes": "Use store-bought or homemade mix of lamb, beef, and spices."
+    },
+    {
+      "name": "Bulghur Wheat",
+      "amount": "1 cup",
+      "notes": "Use fine or medium grind bulghur."
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground pepper recommended."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Hot Harissa",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "type": "optional"
+    }
+  ],
+  "instructions": [
+    "Mix together chopped cilantro, crushed red pepper flakes, paprika, garlic powder, cumin powder, and garam masala in a small bowl.",
+    "In a large bowl, combine the kneaded spicy meat mix, bulghur wheat, salt, black pepper, and mixed spice blend. Mix well with your hands until just combined, being careful not to overmix.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the meat mixture and cook, breaking it up with a spoon, until browned and cooked through, about 8-10 minutes.",
+    "While the meat is cooking, prepare the hot stone plate by placing it under the broiler for 5-7 minutes, or until it reaches 500°F (260°C).",
+    "Transfer the cooked meat mixture to a serving vessel, and arrange the sliced unwaxed lemons on top.",
+    "Drizzle with remaining 1 tablespoon of olive oil and sprinkle with chopped cilantro.",
+    "Serve immediately on the hot stone plate, garnished with a sprinkle of hot harissa, if using.",
+    "Repeat as desired for additional servings, ensuring to adjust cooking time and temperature as needed for a consistent result."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "hot-stone-plate",
+    "kebabs",
+    "moroccan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jazzy-moroccan-lemon-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-moroccan-lemon-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lemon",
+    "descriptor": "Jazzy Spicy",
+    "dishForm": null
+  }
+}
