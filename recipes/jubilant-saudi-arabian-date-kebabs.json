@@ -1,0 +1,88 @@
+{
+  "title": "Jubilant Saudi Arabian Date Kebabs",
+  "description": "A pungent and snappy Saudi Arabian dish featuring candied peel, this festive recipe is perfect for any occasion, and is satvik-friendly to boot.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/2 cup",
+      "notes": "orange or lemon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the dates in water for 30 minutes to rehydrate them.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a blender or food processor, blend the dates, candied peel, almond flour, cardamom powder, and salt until a smooth paste forms.",
+    "Using your hands, shape the paste into small kebab-like shapes.",
+    "Brush the coconut oil onto the kebabs to prevent sticking.",
+    "Place the kebabs on the preheated skillet or griddle and cook for 2-3 minutes per side, until lightly browned.",
+    "Serve the kebabs hot in a copper mug, garnished with additional candied peel if desired.",
+    "Allow the kebabs to rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "festive",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "jubilant-saudi-arabian-date-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-saudi-arabian-date-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "candied peel",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "jubilant snappy",
+    "dishForm": "Kebabs"
+  }
+}
