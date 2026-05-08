@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Italian Cocoa Tiramisu",
+  "description": "A creamy and rich Italian dessert made with custard powder and cocoa powder. This is a no-onion-no-garlic-friendly version of the classic Tiramisu.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Dip the ladyfingers into the coffee and cocoa mixture for about 3-5 seconds on each side.",
+    "Place a layer of ladyfingers in the bottom of a serving dish.",
+    "In a separate bowl, mix together the granulated sugar, custard powder, and cocoa powder until well combined.",
+    "Pour the custard mixture over the ladyfingers in the serving dish.",
+    "Repeat the layers of ladyfingers and custard mixture until all ingredients are used, ending with a layer of custard on top.",
+    "In a separate bowl, mix together the mascarpone cheese, egg yolks, and whipped cream until well combined.",
+    "Spread the mascarpone mixture over the top layer of custard.",
+    "Melt the unsalted butter and brush it over the top of the mascarpone mixture.",
+    "Refrigerate the Tiramisu for at least 3 hours or overnight before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa",
+    "coffee",
+    "dessert",
+    "italian",
+    "mascarpone"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "juicy-italian-cocoa-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-italian-cocoa-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "custard powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cocoa",
+    "descriptor": "juicy",
+    "dishForm": "Tiramisu"
+  }
+}

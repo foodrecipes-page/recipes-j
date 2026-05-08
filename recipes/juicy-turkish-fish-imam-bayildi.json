@@ -1,0 +1,106 @@
+{
+  "title": "juicy Turkish fish İmam Bayildi",
+  "description": "a resinous, juicy, monsoon Turkish dish featuring white fish",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white fish fillet",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat",
+    "add the onion and garlic and cook, stirring occasionally, until softened, about 5 minutes",
+    "add the cherry tomatoes and cook, stirring occasionally, until they start to release their juices, about 5 minutes",
+    "add the white fish fillet and cook, stirring occasionally, until cooked through, about 5-7 minutes",
+    "season with salt and black pepper to taste",
+    "garnish with fresh parsley and a squeeze of lemon juice",
+    "serve hot, spooning some of the deglazed fond over the top"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "one-pan",
+    "pescatarian",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "juicy-turkish-fish-imam-bayildi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-fish-imam-bayildi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:14Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "white fish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "juicy",
+    "dishForm": "İmam Bayildi"
+  }
+}
