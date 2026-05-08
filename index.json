@@ -4221,6 +4221,20 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-light-dutch-mushroom-stew",
+    "title": "Jovial Light Dutch Mushroom Stew",
+    "tags": [
+      "light-dutch",
+      "mushroom-based",
+      "one-pot",
+      "weeknight",
+      "yeast-based"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-light-uruguayan-beetroot-stew",
     "title": "Jovial Light Uruguayan Beetroot Stew",
     "tags": [
