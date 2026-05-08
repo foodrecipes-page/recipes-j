@@ -1,0 +1,95 @@
+{
+  "title": "Jagged Crumbly Turkish Millet Manti",
+  "description": "A pungent and crumbly Turkish dish featuring millet, wood-fired-baked to perfection in a cazuela, perfect for meal prep and dairy-free friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the millet, onion, garlic, spinach, olive oil, salt, black pepper, and paprika.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Spoon the mixture into small manti shapes and place them in a cazuela.",
+    "Cover the cazuela with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the manti are lightly browned.",
+    "Remove the cazuela from the oven and let it cool for a few minutes.",
+    "Serve the manti hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-crumbly-turkish-millet-manti",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crumbly-turkish-millet-manti",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "millet",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "millet",
+    "descriptor": "Jagged Crumbly",
+    "dishForm": "Manti"
+  }
+}
