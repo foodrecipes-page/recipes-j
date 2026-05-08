@@ -8481,6 +8481,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-silky-croatian-milk-pudding",
+    "title": "Croatian Milk Pudding",
+    "tags": [
+      "croatian",
+      "dessert",
+      "egg-free",
+      "gluten-free",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-silky-mexican-chicken-stew",
     "title": "Juicy Silky Mexican Chicken Stew",
     "tags": [
@@ -9391,6 +9406,22 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 150,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tunisian-sausages-tagine",
+    "title": "Juicy Tunisian Sausages Tagine",
+    "tags": [
+      "couscous-dish",
+      "high-protein",
+      "north-african",
+      "one-pan",
+      "pork-dish",
+      "sausage-dish",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

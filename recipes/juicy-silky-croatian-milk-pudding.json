@@ -1,0 +1,82 @@
+{
+  "title": "Croatian Milk Pudding",
+  "description": "A rich and silky Croatian dessert featuring condensed milk, made in one pot and egg-free friendly. It is a perfect treat for any time of the day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the condensed milk, whole milk, and cornstarch.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove the saucepan from the heat and stir in the unsalted butter, vanilla extract, and salt.",
+    "Let the pudding cool to room temperature, then cover and refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "dessert",
+    "egg-free",
+    "gluten-free",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "juicy-silky-croatian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-croatian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:39:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "condensed milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "milk",
+    "descriptor": "Juicy Silky",
+    "dishForm": "Pudding"
+  }
+}
