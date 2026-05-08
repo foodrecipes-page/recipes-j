@@ -696,6 +696,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-algerian-doraji-tagine",
+    "title": "Jammy Algerian Doraji Tagine",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "dehydrated",
+      "one-pot",
+      "tagine",
+      "vegan"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-brazilian-doenjang-leaf-wrap",
     "title": "Jammy Brazilian Doenjang Leaf Wrap",
     "tags": [
