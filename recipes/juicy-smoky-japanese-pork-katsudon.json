@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Smoky Japanese Pork Katsudon",
+  "description": "A smoky and tender Japanese dish featuring shredded cheese and pork, inspired by the cuisine of Shikoku, with an ayurvedic-tamasic friendly twist, baked to perfection in a katsudon form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, smoked paprika, and a pinch of salt.",
+    "Dip each pork slice into the flour mixture, coating both sides evenly.",
+    "Heat the vegetable oil in a large skillet over medium high heat and cook the pork slices until browned on both sides.",
+    "In a separate bowl, whisk together the soy sauce and eggs.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "Add the shredded cheese to the bowl and stir until combined.",
+    "Place the cooked pork slices in a baking dish and pour the cheese mixture over the top.",
+    "Sprinkle the panko breadcrumbs over the cheese mixture and bake for 20 minutes.",
+    "Remove from the oven and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "baked-meals",
+    "cheesy-dishes",
+    "japanese-cuisine",
+    "pork-recipes",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "juicy-smoky-japanese-pork-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-japanese-pork-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:25:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Katsudon"
+  }
+}
