@@ -5250,6 +5250,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-argentinian-chicken-liver-skewers",
+    "title": "Juicy Argentinian Chicken Liver Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "low-carb"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-argentinian-duck-cassoulet",
     "title": "Argentinian Duck Cassoulet",
     "tags": [

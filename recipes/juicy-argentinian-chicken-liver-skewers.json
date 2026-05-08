@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Argentinian Chicken Liver Skewers",
+  "description": "Tender and sour chicken liver skewers with a blend of Argentinean flavors, made with namul-blanch-season method and ayurvedic-tamasic-friendly ingredients",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "Thread chicken liver pieces onto skewers",
+    "In a bowl, whisk together olive oil, lemon juice, garlic, parsley, salt, black pepper, and paprika",
+    "Brush the mixture onto the chicken liver skewers",
+    "Grill the skewers for 8-10 minutes, turning occasionally",
+    "Let the skewers rest for 2 minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "juicy-argentinian-chicken-liver-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-chicken-liver-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:08:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chicken liver",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "juicy tender",
+    "dishForm": "Skewers"
+  }
+}
