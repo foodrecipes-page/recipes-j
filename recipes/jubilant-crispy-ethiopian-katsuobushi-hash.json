@@ -1,0 +1,110 @@
+{
+  "title": "Jubilant Crispy Ethiopian Katsuobushi Hash",
+  "description": "Rich and crispy Ethiopian dish featuring katsuobushi, temper, and macrobiotic-friendly ingredients, this hash is a comforting meal for any time of day.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi",
+      "amount": "1 cup",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "temper",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the temper in a large skillet over medium heat.",
+    "Add the sliced onions and cook until they are lightly browned and crispy.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the katsuobushi and cook for 2 minutes, stirring constantly.",
+    "Add the cooked brown rice and stir to combine with the katsuobushi mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the hash to a serving platter and garnish with chopped scallions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jubilant-crispy-ethiopian-katsuobushi-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crispy-ethiopian-katsuobushi-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "katsuobushi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "Jubilant Crispy",
+    "dishForm": "Hash"
+  }
+}
