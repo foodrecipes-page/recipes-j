@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Stuffed Grapevine Leaves Dolmades",
+  "description": "Fresh grapevine leaves stuffed with a sweet and tangy filling of tamarind pulp, nuka-pickle, and spices, served in a salt block.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grapevine leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "Tamarind pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Soak grapevine leaves in water for 1 hour.",
+    "Sauté chopped onion and nuka-pickle in a pan until softened.",
+    "Add tamarind pulp, rice, chopped parsley, salt, and black pepper to the pan and stir-fry for 2 minutes.",
+    "Drain and chop grapevine leaves, then add them to the pan and stir-fry for another minute.",
+    "Wet the grapevine leaves with lemon juice and fill the center of each leaf with the tamarind mixture.",
+    "Roll the leaves into neat packages and place them seam-side down in a salt block.",
+    "Cover the salt block with a plate and weigh it down with a heavy object.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld together.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "entree",
+    "greek",
+    "low-carb",
+    "stuffed-greens",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "juicy-stuffed-grapevine-leaves-dolmades",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-stuffed-grapevine-leaves-dolmades",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:35:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Juicy Stuffed",
+    "dishForm": null
+  }
+}
