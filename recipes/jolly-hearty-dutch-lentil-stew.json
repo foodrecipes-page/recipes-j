@@ -1,0 +1,97 @@
+{
+  "title": "Jolly Hearty Dutch Lentil Stew",
+  "description": "A briny and chewy Dutch dish featuring tamarind paste and tadka, perfect for a cozy evening, this vegetarian-friendly stew is a hearty and flavorful option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "brown or green"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Heat oil in a large pot over medium heat.",
+    "Add cumin seeds and coriander seeds and let them sizzle for 1 minute.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the chopped carrots and cook for 5 minutes.",
+    "Add the tamarind paste, salt, and lentils, and stir well.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and let the stew simmer for 40 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "hearty-stew",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jolly-hearty-dutch-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-hearty-dutch-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:01:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "tamarind paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lentils",
+    "descriptor": "Jolly Hearty",
+    "dishForm": "Stew"
+  }
+}
