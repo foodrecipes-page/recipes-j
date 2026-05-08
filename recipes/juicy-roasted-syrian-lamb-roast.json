@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Roasted Syrian Lamb Roast",
+  "description": "A traditional Syrian dish featuring a yeasty, crumbly lamb roast served with a sweet and tangy plum sauce, perfect for a solo dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic, oregano, salt, and pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is roasting, mix the plum sauce with 1 tablespoon of water in a small saucepan.",
+    "Bring the plum sauce to a simmer over medium heat and let it cook for 5 minutes.",
+    "Once the lamb is done, let it rest for 10 minutes before slicing it thinly.",
+    "Serve the lamb with the plum sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "middle-eastern",
+    "roasted-meat",
+    "special-occasion",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "juicy-roasted-syrian-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-syrian-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "plum sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Roast"
+  }
+}

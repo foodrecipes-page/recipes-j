@@ -5917,6 +5917,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-grassy-moroccan-lamb-tagine",
+    "title": "Juicy Grassy Moroccan Lamb Tagine",
+    "tags": [
+      "flavorful",
+      "lamb",
+      "moroccan",
+      "one-pot",
+      "shojin",
+      "slow-cooked",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-greek-feta-bowl",
     "title": "Juicy Greek Feta Bowl",
     "tags": [
@@ -7136,6 +7152,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-syrian-lamb-roast",
+    "title": "Juicy Roasted Syrian Lamb Roast",
+    "tags": [
+      "lamb-recipes",
+      "middle-eastern",
+      "roasted-meat",
+      "special-occasion",
+      "yeasty-dishes"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 80,
     "shard": "j"
   },
   {
