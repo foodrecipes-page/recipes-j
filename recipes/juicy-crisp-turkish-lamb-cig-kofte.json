@@ -1,0 +1,102 @@
+{
+  "title": "Juicy Crisp Turkish Lamb Cig Kofte",
+  "description": "A traditional Turkish dish featuring lamb and spices, this recipe is a macrobiotic-friendly hangover cure with a crispy exterior and juicy interior, made with caster sugar and wood-fired baked in a copper pot.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 200C.",
+    "In a large copper pot, combine the lamb mince, caster sugar, onion, garlic, cumin, paprika, salt, and black pepper.",
+    "Mix the ingredients well with your hands until just combined.",
+    "Stir in the bulgur and mix until the mixture is uniform.",
+    "Cover the pot with a lid and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, remove the pot from the refrigerator and let it sit at room temperature for 15 minutes.",
+    "Divide the mixture into 8 equal pieces and shape each piece into a cigar-shaped kofte.",
+    "Place the kofte on a baking sheet lined with parchment paper and bake in the wood-fired oven for 20 minutes, or until crispy and golden brown.",
+    "Serve the kofte hot with your choice of sides.",
+    "Let the kofte rest for 5 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "high-protein",
+    "lamb-recipes",
+    "one-pan",
+    "turkish-food",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-crisp-turkish-lamb-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-turkish-lamb-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:11:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "caster sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Cig Kofte"
+  }
+}
