@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Buttery Norwegian Morcilla Pasta",
+  "description": "A midnight craving Norwegian dish featuring morcilla in a buttery and creamy sauce, with a Mediterranean twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Norwegian blood sausage"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the morcilla to the skillet and cook until browned, about 5 minutes.",
+    "Remove the morcilla from the skillet and set aside.",
+    "In the same skillet, add the olive oil, garlic, and cook for 1 minute.",
+    "Add the heavy cream to the skillet and bring to a simmer.",
+    "Reduce the cream sauce by half, stirring occasionally.",
+    "Stir in the grated parmesan cheese until melted and smooth.",
+    "Add the cooked pappardelle pasta to the skillet and toss with the cream sauce.",
+    "Slice the cooked morcilla and add to the pasta, tossing to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean-inspired",
+    "midnight-cravings",
+    "norwegian-cuisine",
+    "one-pan-meals",
+    "pasta-dishes"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 37,
+    "carbs": 64,
+    "fat": 51
+  },
+  "slug": "juicy-buttery-norwegian-morcilla-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-buttery-norwegian-morcilla-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:37:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "morcilla",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Juicy Buttery",
+    "dishForm": "Pasta"
+  }
+}
