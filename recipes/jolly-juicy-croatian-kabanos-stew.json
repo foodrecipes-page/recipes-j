@@ -1,0 +1,101 @@
+{
+  "title": "Jolly Juicy Croatian Kabanos Stew",
+  "description": "A hearty and comforting Croatian stew featuring Polish kabanos, with a mustardy and cheesy flavor profile, perfect for a sick day. This dish is also ayurvedic-sattvic-friendly and incorporates mushimono-steam cooking techniques.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish kabanos",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, low-fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the sliced kabanos and cook for an additional 2 minutes.",
+    "Add the chopped carrot and potato, and cook for 5 minutes, stirring occasionally.",
+    "Add the mustard, cheese, and vegetable broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use a steamer basket to steam the stew for an additional 10 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Let the stew cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jolly-juicy-croatian-kabanos-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-juicy-croatian-kabanos-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:00:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "polish kabanos",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "kabanos",
+    "descriptor": "jolly juicy",
+    "dishForm": "Stew"
+  }
+}
