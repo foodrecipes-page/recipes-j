@@ -1,0 +1,90 @@
+{
+  "title": "Jewel Toned Australian Onion Frittata",
+  "description": "A creamy and earthy Australian dish featuring caramelized onions and a hint of sweetness, perfect for a brunch mood. This macrobiotic-friendly frittata is made with wholesome ingredients and a touch of glaze.",
+  "cuisine": "Australian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "free range"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "Australian brown onions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced onions and cook for 20 minutes, stirring occasionally, until caramelized.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Pour the egg mixture over the cooked onions and garlic in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and brush the top with balsamic glaze.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "brunch-recipe",
+    "macrobiotic-friendly",
+    "one-pan-dish",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "jewel-toned-australian-onion-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-australian-onion-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "onion",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "onion",
+    "descriptor": "jewel toned",
+    "dishForm": "Frittata"
+  }
+}
