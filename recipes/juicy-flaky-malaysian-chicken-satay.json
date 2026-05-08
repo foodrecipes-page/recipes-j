@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Flaky Malaysian Chicken Satay",
+  "description": "A fresh and flaky post-workout Malaysian dish featuring cranberry and sous-vide cooking, friendly to low-glycemic diets",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 140 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut milk, lime juice, olive oil, salt, pepper, and garlic powder",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes",
+    "Remove the chicken from the marinade and cook in the sous-vide machine for 1 hour",
+    "Meanwhile, heat the cranberry sauce in a small saucepan over medium heat",
+    "Once the chicken is cooked, brush with the heated cranberry sauce",
+    "Serve the chicken satay hot, garnished with fresh cilantro if desired",
+    "Let the chicken rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "malaysian-cuisine",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "juicy-flaky-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:24:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "cranberry",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Satay"
+  }
+}
