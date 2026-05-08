@@ -1,0 +1,93 @@
+{
+  "title": "Jagged Flaky Egyptian Phyllo Dough Pastry",
+  "description": "A romantic Egyptian dish featuring vanilla bean paste, with a bitter and flaky texture, served on a talavera plate. This ovo-vegetarian friendly pastry is perfect for a special occasion.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "deglaze fond",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the melted butter, vanilla bean paste, and deglaze fond to the bowl and mix until a dough forms.",
+    "Roll out the phyllo dough and cut it into small squares.",
+    "Place a small spoonful of the dough mixture onto the center of each phyllo square.",
+    "Fold the phyllo into triangles and press the edges together to seal.",
+    "Brush the tops of the pastries with the beaten eggs.",
+    "Place the pastries on a talavera plate and bake for 25 minutes.",
+    "Remove the pastries from the oven and let them cool for 10 minutes.",
+    "Serve the pastries warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "european-inspired",
+    "flaky-pastry",
+    "romantic-dishes",
+    "special-occasion",
+    "vanilla-bean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "jagged-flaky-egyptian-phyllo-dough-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-flaky-egyptian-phyllo-dough-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:54:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "jagged flaky",
+    "dishForm": "Pastry"
+  }
+}
