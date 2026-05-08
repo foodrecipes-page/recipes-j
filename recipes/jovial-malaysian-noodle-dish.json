@@ -1,0 +1,100 @@
+{
+  "title": "Jovial Malaysian Noodle Dish",
+  "description": "A lazy Sunday Malaysian dish featuring a grassy flavor profile and a cheese-pull texture, made with sunflower oil and folded noodles, suitable for Jain-friendly diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grassy scented soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "100g"
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Folded wheat noodles",
+      "amount": "100g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sunflower oil in a large pan over medium heat.",
+    "Add sliced mushrooms and cook until they release their moisture and start browning.",
+    "Add grassy scented soy sauce and stir to combine.",
+    "Add rice noodles and folded wheat noodles to the pan, stirring to combine with the mushroom mixture.",
+    "Add vegan mozzarella shreds on top of the noodles and cover the pan with a lid to melt the cheese.",
+    "Remove the lid and use a spatula to gently fold the noodles and distribute the melted cheese.",
+    "Sprinkle chopped scallions, sesame seeds, salt, and black pepper over the top of the noodle dish.",
+    "Serve the jovial Malaysian noodle dish hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "lazy-sunday",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jovial-malaysian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-malaysian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:23:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "sunflower oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "noodles",
+    "descriptor": "Jovial Lazy",
+    "dishForm": "Noodles"
+  }
+}

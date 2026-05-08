@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Australian Shrimp Wrap",
+  "description": "A fresh and indulgent Australian dish featuring lime and ferment-kimchi, wrapped in a gluten-free corn husk wrap.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together lime juice, mayonnaise, salt, and pepper.",
+    "Add the Australian shrimp to the bowl and toss to coat with the lime juice mixture.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading a tablespoon of ferment-kimchi on each wrap, then topping with a grilled shrimp, a sprinkle of chopped cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional chopped cilantro and lime wedges if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-australian-shrimp-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-australian-shrimp-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:23:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "lime",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "juicy indulgent",
+    "dishForm": "Wrap"
+  }
+}

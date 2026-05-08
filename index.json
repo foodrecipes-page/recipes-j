@@ -3248,6 +3248,21 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-malaysian-noodle-dish",
+    "title": "Jovial Malaysian Noodle Dish",
+    "tags": [
+      "jain-friendly",
+      "lazy-sunday",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-smoky-slovakian-turkey-mince-kebabs",
     "title": "Jovial Smoky Slovakian Turkey Mince Kebabs",
     "tags": [
@@ -4571,6 +4586,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-australian-shrimp-wrap",
+    "title": "Juicy Australian Shrimp Wrap",
+    "tags": [
+      "australian",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
