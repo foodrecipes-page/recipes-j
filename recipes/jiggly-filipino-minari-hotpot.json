@@ -1,0 +1,109 @@
+{
+  "title": "Jiggly Filipino Minari Hotpot",
+  "description": "A funky and gooey post-workout Filipino dish featuring minari and fermented ingredients, perfect for vegetarians. This hotpot is a hearty and comforting meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "2 cups",
+      "notes": "also known as Philippine spinach"
+    },
+    {
+      "name": "fermented miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large hotpot vessel, combine vegetable broth, coconut milk, miso paste, garlic, and ginger, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and let it simmer for 10 minutes.",
+    "Add the sliced mushrooms and cook until they are tender, about 5 minutes.",
+    "Add the cubed tofu and cook until it is lightly browned, about 5 minutes.",
+    "Add the minari and cook until it is wilted, about 2 minutes.",
+    "Season the hotpot with salt and black pepper to taste.",
+    "Transfer the hotpot to a serving table and let everyone assemble their own bowls.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Encourage everyone to add their favorite toppings, such as fermented vegetables or pickled ginger."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented-food",
+    "filipino-food",
+    "hot-pot",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jiggly-filipino-minari-hotpot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jiggly-filipino-minari-hotpot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:05:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "ferment",
+    "primaryIngredient": "minari",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "minari",
+    "descriptor": "jiggly fermented",
+    "dishForm": "Hotpot"
+  }
+}
