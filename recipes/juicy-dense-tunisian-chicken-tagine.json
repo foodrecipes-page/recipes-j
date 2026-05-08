@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Dense Tunisian Chicken Tagine",
+  "description": "A buttery and dense Tunisian dish featuring szechuan peppercorns, this kid-friendly recipe is perfect for a weeknight dinner. It is also diabetic-friendly due to the use of low-carb ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "2 teaspoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken pieces and cook until they are browned on all sides.",
+    "Add the toasted and ground szechuan peppercorns, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, dried apricots, and butter, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 30 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve with couscous or rice.",
+    "Garnish with lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "kid-friendly",
+    "low-carb",
+    "north-african",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "juicy-dense-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-dense-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:11:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy dense",
+    "dishForm": "Tagine"
+  }
+}
