@@ -1,0 +1,94 @@
+{
+  "title": "Jagged American Feta Wrap",
+  "description": "A vegan-friendly post-workout dish featuring cubed feta cheese and a corn husk wrap, with an al-dente finish and a fermented, crumbly texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn husks",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup cubed",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1/2 cup cooked"
+    },
+    {
+      "name": "black beans",
+      "amount": "1/2 cup cooked"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a bowl, mix together the quinoa, black beans, diced tomatoes, and chopped cilantro.",
+    "Add the cubed feta cheese to the bowl and stir to combine.",
+    "Brush the corn husks with olive oil and place them on the grill.",
+    "Spoon the quinoa and feta mixture onto the center of each corn husk.",
+    "Fold the sides of the corn husk over the filling and roll up the wrap.",
+    "Grill the wraps for 2-3 minutes on each side, until the corn husk is lightly charred.",
+    "Serve the wraps hot with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "quick-snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "jagged-american-feta-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-american-feta-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:25:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Jagged Crumbly",
+    "dishForm": "Wrap"
+  }
+}

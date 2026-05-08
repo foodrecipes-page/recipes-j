@@ -63,6 +63,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-american-feta-wrap",
+    "title": "Jagged American Feta Wrap",
+    "tags": [
+      "american-cuisine",
+      "gluten-free",
+      "high-protein",
+      "post-workout",
+      "quick-snack",
+      "vegan-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-bitter-mexican-baby-squid-tacos",
     "title": "Jagged Bitter Mexican Baby Squid Tacos",
     "tags": [
@@ -8082,6 +8097,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 37,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-peruvian-burrata-skillet",
+    "title": "Juicy Peruvian Burrata Skillet",
+    "tags": [
+      "cast-iron",
+      "kid-friendly",
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "wine-based"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

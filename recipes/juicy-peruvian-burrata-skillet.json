@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Peruvian Burrata Skillet",
+  "description": "A winey and light Peruvian dish featuring burrata, mirepoix-base, and low-carb-friendly ingredients, cooked in a cast-iron skillet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a cast-iron skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the white wine and cook until reduced by half, about 2 minutes.",
+    "Add the halved cherry tomatoes and cook until they start to release their juices, about 3 minutes.",
+    "Add the diced aji amarillo pepper and cook for 1 minute.",
+    "Place the burrata cheese in the center of the skillet and transfer to the preheated oven.",
+    "Bake for 10-12 minutes, until the cheese is melted and the skillet is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "kid-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "juicy-peruvian-burrata-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peruvian-burrata-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:25:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "burrata",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "burrata",
+    "descriptor": "juicy light",
+    "dishForm": "Skillet"
+  }
+}
