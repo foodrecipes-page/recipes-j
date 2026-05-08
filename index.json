@@ -3328,6 +3328,21 @@
     "shard": "j"
   },
   {
+    "slug": "jewel-toned-dutch-rice-pilaf",
+    "title": "Jewel Toned Dutch Rice Pilaf",
+    "tags": [
+      "ayurvedic-friendly",
+      "dutch-cuisine",
+      "gluten-free",
+      "meal-prep",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jewel-toned-flaky-spanish-dough-flatbread",
     "title": "Jewel Toned Flaky Spanish Dough Flatbread",
     "tags": [
@@ -3577,6 +3592,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jeweled-umami-chinese-pork-hot-pot",
+    "title": "Jeweled Umami Chinese Pork Hot Pot",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "hot-pot",
+      "pork-recipes",
+      "umami",
+      "whole30"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -4158,6 +4188,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-light-uruguayan-beetroot-stew",
+    "title": "Jovial Light Uruguayan Beetroot Stew",
+    "tags": [
+      "beetroot-based",
+      "light-stew",
+      "one-pot",
+      "uruguayan-cuisine",
+      "vegan-friendly",
+      "yeasty"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

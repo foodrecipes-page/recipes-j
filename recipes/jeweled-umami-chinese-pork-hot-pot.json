@@ -1,0 +1,106 @@
+{
+  "title": "Jeweled Umami Chinese Pork Hot Pot",
+  "description": "A rich and indulgent Chinese dish featuring massaman curry paste and infused oil, served in a hot pot vessel, this Whole30-friendly recipe is perfect for a special occasion, with a depth of umami flavor and a glassy-jelly texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "such as chili oil or sesame oil"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "swiss chard",
+      "amount": "1 bunch",
+      "notes": "stems and leaves separated"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in the hot pot vessel over medium heat.",
+    "Add the massaman curry paste and cook, stirring constantly, for 1 minute.",
+    "Add the pork belly and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the coconut aminos, fish sauce, and rice vinegar, and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, for 10 minutes.",
+    "Add the swiss chard stems and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the shiitake mushrooms and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the swiss chard leaves and cook, stirring constantly, until wilted, about 1 minute.",
+    "Stir in the green onions and sesame seeds.",
+    "Serve the hot pot immediately, with additional infused oil and sesame seeds on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "hot-pot",
+    "pork-recipes",
+    "umami",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "jeweled-umami-chinese-pork-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-umami-chinese-pork-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "whole30",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Jeweled Umami",
+    "dishForm": "Hot Pot"
+  }
+}
