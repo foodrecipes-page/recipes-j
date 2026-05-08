@@ -1,0 +1,92 @@
+{
+  "title": "Jubilant Umami Russian Pasta",
+  "description": "A kid-friendly Russian dish featuring umami flavors, chewy pasta, and white chocolate chips, made with a low-calorie friendly pasta-water-emulsion sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "bow tie or penne work well"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the dried thyme, garlic powder, salt, and black pepper.",
+    "Add the mushroom broth to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes.",
+    "Stir in the white chocolate chips until melted and smooth.",
+    "Combine the cooked pasta and sauce in a large bowl and toss to coat.",
+    "Let the pasta cool for a few minutes to allow the sauce to thicken.",
+    "Serve the Jubilant Umami Russian Pasta hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "low-calorie",
+    "one-pot",
+    "pasta-lover",
+    "russian-cuisine",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-umami-russian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-umami-russian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:36:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pasta",
+    "descriptor": "Jubilant Umami",
+    "dishForm": "Pasta"
+  }
+}
