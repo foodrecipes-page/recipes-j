@@ -1,0 +1,96 @@
+{
+  "title": "Jubilant Briny Dutch Macaroni Pasta",
+  "description": "A Dutch-inspired brunch dish featuring macaroni, served in a stone bowl and wrapped in a ti leaf, with a focus on briny flavors and aerated texture, making it sugar-free-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "al dente"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pickled herring",
+      "amount": "4 oz",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated gouda cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "stone bowl dolsot",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to package instructions until al dente, then set aside.",
+    "In a large skillet, melt the butter over medium heat and saute the chopped pickled herring until lightly browned.",
+    "Add the cooked macaroni to the skillet, stirring to combine with the herring and butter mixture.",
+    "Season with sea salt to taste, then stir in the chopped parsley and grated gouda cheese until the cheese is melted and well combined.",
+    "Spoon the macaroni mixture into the stone bowl dolsot, then wrap each bowl in a ti leaf.",
+    "Bake the wrapped bowls in the preheated oven for 10 minutes, or until the ti leaves are lightly browned and the macaroni is heated through.",
+    "Remove the bowls from the oven and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "low-carb",
+    "one-pan",
+    "sugar-free",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jubilant-briny-dutch-macaroni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-briny-dutch-macaroni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:03:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "macaroni",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "macaroni",
+    "descriptor": "Jubilant Briny",
+    "dishForm": "Pasta"
+  }
+}
