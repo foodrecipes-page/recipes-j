@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Herbal Canadian Lentil Stew",
+  "description": "A hearty and comforting Canadian dish featuring a mixture of herbs and lentils in a creamy stew, perfect for a cold winter's night. This macrobiotic-friendly recipe is made with a soffritto base and a blend of aromatic herbs.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat and saute the chopped onion, carrots, and celery until the vegetables are tender.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the mixture powder, dried thyme, and dried rosemary, and cook for 1 minute, until the spices are fragrant.",
+    "Add the rinsed lentils, vegetable broth, and coconut cream to the pot, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew, covered, for 30 minutes, or until the lentils are tender.",
+    "Season the stew with salt and pepper to taste, then serve hot, garnished with fresh herbs if desired.",
+    "Let the stew cool completely before refrigerating or freezing for later use.",
+    "Reheat the stew over low heat, whisking constantly, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "herbal-remedies",
+    "lentil-stew",
+    "macrobiotic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-herbal-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-herbal-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:15:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "mixture powder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "Jubilant Herbal",
+    "dishForm": "Stew"
+  }
+}
