@@ -1,0 +1,95 @@
+{
+  "title": "Jovial Flaky Italian Tomato Pasta",
+  "description": "A peppery and flaky Italian dish featuring tomatoes, made with a mantecare emulsification method, and cooked in a wok to create a nostalgic and savory meal. This shojin-friendly recipe is perfect for those looking for a satisfying and comforting pasta dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "preferably Italian-made"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a wok, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the tomato puree to the wok and stir to combine with the garlic and oil.",
+    "Reduce heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Using a mantecare emulsification method, slowly add the grated grana padano cheese to the sauce, stirring constantly.",
+    "Add the cooked spaghetti to the wok and toss to combine with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh basil and serve immediately.",
+    "Let the pasta rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pan-meals",
+    "pasta-dishes",
+    "shojin-friendly",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jovial-flaky-italian-tomato-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-flaky-italian-tomato-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:41:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "tomato",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomato",
+    "descriptor": "jovial flaky",
+    "dishForm": "Pasta"
+  }
+}
