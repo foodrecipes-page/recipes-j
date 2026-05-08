@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Buttery Syrian V Sterbottensost Cheese Flatbread",
+  "description": "A kid-friendly Syrian dish featuring V Sterbottensost cheese, this flatbread is buttery, aerated, and FODMAP-friendly, served in a scallop shell vessel.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fodmap",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost cheese",
+      "amount": "1 cup shredded",
+      "notes": "ensure low-lactose or lactose-free for FODMAP diet"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, salt, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Brush the melted butter evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the shredded V Sterbottensost cheese over the butter.",
+    "Fold the dough over the cheese to form a triangle or use a scallop shell mold to shape the flatbread.",
+    "Place the flatbread on a baking sheet lined with parchment paper and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cheese-lover",
+    "kid-friendly",
+    "low-fodmap",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "juicy-buttery-syrian-v-sterbottensost-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-buttery-syrian-v-sterbottensost-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:37:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "lamination-puff",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "V Sterbottensost cheese",
+    "descriptor": "Juicy Buttery",
+    "dishForm": "Flatbread"
+  }
+}
