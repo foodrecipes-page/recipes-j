@@ -1,0 +1,100 @@
+{
+  "title": "Jumbo Smoky Canadian Lamb Stew",
+  "description": "A hearty and flavorful Canadian dish featuring tender lamb and a rich smoky broth, made quick and easy with the help of sous-vide cooking and a macrobiotic-friendly bouquet garni.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless and cut into large chunks"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1 bundle",
+      "notes": "containing thyme, rosemary, and bay leaves"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "Season the lamb chunks with smoked paprika and a pinch of salt.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb chunks until browned on all sides.",
+    "Transfer the lamb to a large sous-vide bag and add the chopped onions, sliced carrots, cubed potatoes, minced garlic, and bouquet garni.",
+    "Pour in the lamb broth and seal the bag, making sure to remove as much air as possible.",
+    "Submerge the bag in the preheated sous-vide machine and cook for 4 hours.",
+    "Remove the bag from the machine and let it cool slightly before opening and serving the stew hot.",
+    "Discard the bouquet garni and serve the stew in large bowls, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "macrobiotic",
+    "one-pot",
+    "smoky",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "jumbo-smoky-canadian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-smoky-canadian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:28:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "bouquet garni",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "Jumbo Smoky",
+    "dishForm": "Stew"
+  }
+}
