@@ -1,0 +1,111 @@
+{
+  "title": "Smoky British Chickpeas Scones Clotted Cream",
+  "description": "A smoky, chewy, indulgent British dish featuring hummus and robata-grilled chickpeas, served with clotted cream in a scone format, low-fat-friendly and delicious.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup",
+      "notes": "classic, low-fat"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "robata-grill oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the self-raising flour, smoked paprika, salt, and baking powder.",
+    "In a separate bowl, whisk together the eggs, milk, and hummus until smooth.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Fold in the chickpeas and knead the dough gently until they are evenly distributed.",
+    "Divide the dough into 8 equal pieces and shape each into a round scone.",
+    "Brush the tops of the scones with robata-grill oil and place them on the preheated grill.",
+    "Grill the scones for 2-3 minutes on each side, or until they are golden brown and cooked through.",
+    "Serve the scones warm with clotted cream and a side of additional hummus if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "clotted-cream",
+    "grilled",
+    "low-fat",
+    "scones",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-smoky-british-chickpeas-scones-clotted-cream",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-british-chickpeas-scones-clotted-cream",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:55:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "robata-grill",
+    "primaryIngredient": "hummus",
+    "diet": "low-fat",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Scones Clotted Cream"
+  }
+}
