@@ -3642,6 +3642,21 @@
     "shard": "j"
   },
   {
+    "slug": "jewel-toned-moroccan-lamb-tagine",
+    "title": "Jewel Toned Moroccan Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "moroccan-cuisine",
+      "one-pot",
+      "post-workout",
+      "umami-rich"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
     "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones",
     "title": "Jewel Toned Peruvian Shrimp Chupe De Camarones",
     "tags": [
@@ -4278,6 +4293,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-brazilian-bean-stew",
+    "title": "Jovial Brazilian Bean Stew",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "red-wine",
+      "vegetarian",
+      "winter-stew"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {

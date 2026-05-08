@@ -1,0 +1,105 @@
+{
+  "title": "Jewel Toned Moroccan Lamb Tagine",
+  "description": "A flavorful and nutritious Moroccan dish featuring lamb, paprika, and bonito flakes, perfect for a post-workout meal. This recipe is macrobiotic-friendly and packed with umami flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the paprika, bonito flakes, salt, and pepper.",
+    "Add the prunes and chicken broth, and bring to a boil.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Braise the tagine for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "moroccan-cuisine",
+    "one-pot",
+    "post-workout",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jewel-toned-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:24:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "bonito-shave",
+    "primaryIngredient": "paprika",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Jewel toned",
+    "dishForm": "Tagine"
+  }
+}

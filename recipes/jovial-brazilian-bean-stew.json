@@ -1,0 +1,107 @@
+{
+  "title": "Jovial Brazilian Bean Stew",
+  "description": "A briny and comforting Brazilian dish featuring red wine and a nimono-simmer, perfect for a cold evening. This ovo-vegetarian-friendly stew is made in a Dutch oven.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried black beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the Dutch oven over medium heat and saute the onion and garlic until the onion is translucent.",
+    "Add the carrots and potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the soaked and drained black beans, red wine, tomato paste, vegetable broth, dried oregano, salt, and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 hour, or until the beans are tender.",
+    "Use a potato masher to mash some of the beans and vegetables, if desired, to thicken the stew.",
+    "Simmer the stew, uncovered, for an additional 30 minutes, stirring occasionally, to reduce the liquid and intensify the flavors.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Let the stew cool, then refrigerate or freeze it for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "red-wine",
+    "vegetarian",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jovial-brazilian-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-brazilian-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:23:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "red wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "jovial springy",
+    "dishForm": "Stew"
+  }
+}
