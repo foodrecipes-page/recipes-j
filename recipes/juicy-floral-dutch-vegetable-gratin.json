@@ -1,0 +1,112 @@
+{
+  "title": "Juicy Floral Dutch Vegetable Gratin",
+  "description": "A rich and flavorful Dutch dish featuring a variety of vegetables in a floral and juicy sauce, perfect for a date night, made with melted butter and cooked to perfection using sous-vide. This vegetarian-friendly recipe is sure to impress.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lavender",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced carrots, zucchini, bell peppers, and onion.",
+    "In a small bowl, mix together the melted butter, minced garlic, chopped thyme, and dried lavender.",
+    "Pour the butter mixture over the vegetables and toss to coat.",
+    "Season the vegetables with salt and pepper to taste.",
+    "Place the vegetables in a sous-vide bag and seal.",
+    "Cook the vegetables in the sous-vide machine for 2 hours.",
+    "While the vegetables are cooking, prepare the cheese sauce by combining the shredded Gruyere cheese and whipped heavy cream in a bowl.",
+    "After the vegetables have cooked, remove them from the sous-vide bag and place them in a baking dish.",
+    "Pour the cheese sauce over the vegetables and top with additional shredded Gruyere cheese.",
+    "Place the baking dish under the broiler and cook until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-cuisine",
+    "floral",
+    "gratin",
+    "juicy",
+    "sous-vide",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "juicy-floral-dutch-vegetable-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-floral-dutch-vegetable-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "melted butter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Floral",
+    "dishForm": "Gratin"
+  }
+}

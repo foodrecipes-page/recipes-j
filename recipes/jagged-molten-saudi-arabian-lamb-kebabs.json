@@ -1,0 +1,108 @@
+{
+  "title": "Jagged Molten Saudi Arabian Lamb Kebabs",
+  "description": "Spicy and flavorful lamb kebabs grilled to perfection on a robata grill, served with a side of melted grana padano cheese, this dish is a quick fix for a delicious Saudi Arabian meal. It is whole30 friendly and cooked on a slate tile vessel.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "whole30",
+    "gluten free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Brush the mixture onto the lamb cubes.",
+    "Grill the lamb kebabs for 10 minutes, turning occasionally.",
+    "Place the shaved grana padano cheese on the slate tile vessel and melt under the broiler for 2 minutes.",
+    "Serve the lamb kebabs on top of the melted cheese.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "jagged-molten-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-molten-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:22:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "grana-padano",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Jagged Molten",
+    "dishForm": "Kebabs"
+  }
+}
