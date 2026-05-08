@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Shattering Korean Chicken",
+  "description": "A savory Korean dish featuring crispy fried chicken, cherries, and a side of spicy sauce, all cooked to perfection in a fondue pot. This shojin-friendly recipe is perfect for a dinner party.",
+  "cuisine": "Korean",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken pieces",
+      "amount": "2 pounds",
+      "notes": "legs, thighs, wings, and breasts"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat the rendered fat in a fondue pot to 375 degrees Fahrenheit.",
+    "Carefully add the coated chicken pieces to the hot fat and fry for 8 minutes, or until golden brown and cooked through.",
+    "Remove the fried chicken from the fat with a slotted spoon and place on a paper towel-lined plate to drain excess fat.",
+    "In a small bowl, whisk together soy sauce, garlic, ginger, and korean chili flakes.",
+    "Add the cherries to the bowl and toss to coat with the soy sauce mixture.",
+    "Serve the fried chicken pieces with the cherry soy sauce mixture spooned over the top.",
+    "Garnish with additional cherries and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "dinner-party",
+    "fried-chicken",
+    "korean-fried-chicken",
+    "shojin-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "juicy-shattering-korean-chicken-korean-fried-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-shattering-korean-chicken-korean-fried-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:13:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "cherries",
+    "diet": "shojin",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Juicy Shattering",
+    "dishForm": "Korean Fried Chicken"
+  }
+}
