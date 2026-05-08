@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Slovakian Tofu Dumplings",
+  "description": "A pungent and gooey Slovakian dish featuring lemon and coconut cream, perfect for a post-workout meal. This jain-friendly recipe is steamed to perfection in a bamboo steamer.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the crumbled tofu, lemon juice, garlic powder, onion powder, salt, and black pepper, and mix well.",
+    "In a separate bowl, whisk together the coconut cream and flour until smooth.",
+    "Add the flour mixture to the tofu mixture and stir until a dough forms.",
+    "Gradually add the water to the dough and knead until a sticky ball forms.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place the balls into a bamboo steamer lined with parchment paper.",
+    "Steam the dumplings over boiling water for 15 minutes.",
+    "Serve the dumplings hot with a side of coconut cream crack.",
+    "Garnish with lemon wedges and chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "jain-friendly",
+    "lemon",
+    "post-workout",
+    "slovakian",
+    "steamed",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "juicy-slovakian-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slovakian-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:47:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lemon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tofu",
+    "descriptor": "juicy pungent",
+    "dishForm": "Dumplings"
+  }
+}
