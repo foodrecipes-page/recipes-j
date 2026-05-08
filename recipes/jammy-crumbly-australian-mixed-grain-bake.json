@@ -1,0 +1,118 @@
+{
+  "title": "Jammy Crumbly Australian Mixed Grain Bake",
+  "description": "A lazy-sunday Australian dish featuring mixed grain, shio-koji-cure, and a hint of sweetness. Perfect for a laid-back breakfast or brunch.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed Grain Flours",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "1/4 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1/4 cup",
+      "notes": "grade-B, pure"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Egg Replacer",
+      "amount": "2 tsp",
+      "notes": "see package instructions"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Cranberries",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the mixed grain flours, shio-koji cure, maple syrup, coconut oil, almond milk, vegan egg replacer, baking powder, and salt.",
+    "Stir in the shredded coconut, chopped fresh mint, dried cranberries, and orange zest.",
+    "Transfer the mixture to a greased 9x9-inch baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "grain-recipe",
+    "high-fiber",
+    "morning-bun",
+    "morning-dish",
+    "vegan-breakfast"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jammy-crumbly-australian-mixed-grain-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crumbly-australian-mixed-grain-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "mixed grain",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "mixed grain",
+    "descriptor": "jammy crumbly",
+    "dishForm": "Bake"
+  }
+}

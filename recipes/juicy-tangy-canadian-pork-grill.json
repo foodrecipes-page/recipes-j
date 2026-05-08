@@ -1,0 +1,119 @@
+{
+  "title": "Juicy Tangy Canadian Pork Grill",
+  "description": "A tangy and juicy Canadian-inspired pork dish perfect for brunch. This recipe features a sweet and smoky robata-grill flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a small bowl, whisk together apple cider vinegar, honey, Dijon mustard, garlic, salt, and black pepper.",
+    "Brush the pork shoulder with olive oil and season with thyme and rosemary.",
+    "Sear the pork shoulder on the robata-grill for 2 minutes per side, then transfer to a baking sheet.",
+    "Add the sliced onions to the robata-grill and cook for 5 minutes, stirring occasionally.",
+    "Add the potatoes to the robata-grill and cook for an additional 10 minutes, or until they are tender.",
+    "While the potatoes are cooking, brush the pork shoulder with the apple cider vinegar mixture and return to the robata-grill for an additional 2 minutes per side.",
+    "Let the pork rest for 5 minutes before slicing and serving with the roasted potatoes and onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "canadian",
+    "flexitarian",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "juicy-tangy-canadian-pork-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tangy-canadian-pork-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork",
+    "descriptor": "juicy tangy",
+    "dishForm": "Grill"
+  }
+}
