@@ -1,0 +1,99 @@
+{
+  "title": "Jagged Crispy Malaysian Tempeh Satay",
+  "description": "A cultured and romantic Malaysian dish featuring crispy tempeh satay, this recipe is perfect for a quick and delicious meal. It is made with fast action yeast and air-fried to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, curry powder, salt, and pepper.",
+    "Add the tempeh skewers to the bowl and marinate for at least 30 minutes.",
+    "Remove the tempeh from the marinade and cook in the air fryer for 10 minutes.",
+    "In a small bowl, mix together fast action yeast and 1 tablespoon of water.",
+    "Brush the yeast mixture onto the tempeh skewers and cook for an additional 2 minutes.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened.",
+    "Serve the crispy tempeh satay with the onion and garlic mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jagged-crispy-malaysian-tempeh-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-malaysian-tempeh-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:53:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "fast action yeast",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Satay"
+  }
+}

@@ -167,6 +167,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-crispy-malaysian-tempeh-satay",
+    "title": "Jagged Crispy Malaysian Tempeh Satay",
+    "tags": [
+      "air-fryer",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crispy-mexican-chicken-mole-poblano",
     "title": "Jagged Crispy Mexican Chicken Mole Poblano",
     "tags": [
@@ -5663,6 +5678,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-smoky-norwegian-potatoes-roast",
+    "title": "Jubilant Smoky Norwegian Potatoes Roast",
+    "tags": [
+      "gluten-free",
+      "norwegian-cuisine",
+      "one-pan",
+      "smoky-flavors",
+      "vegetarian-dishes",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {

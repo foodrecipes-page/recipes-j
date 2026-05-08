@@ -1,0 +1,95 @@
+{
+  "title": "Jubilant Smoky Norwegian Potatoes Roast",
+  "description": "A hearty Norwegian dish featuring smoky, fluffy potatoes, perfect for a crowd, this ayurvedic-rajasic-friendly recipe is sure to please. It combines the richness of potatoes with the depth of smoky flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper for easy cleanup.",
+    "In a large bowl, toss the potatoes with olive oil, smoked paprika, garlic, salt, black pepper, and caraway seeds until they are evenly coated.",
+    "Spread the potatoes out in a single layer on the prepared baking sheet.",
+    "Roast the potatoes in the preheated oven for 30 minutes.",
+    "Remove the potatoes from the oven and toss them to redistribute.",
+    "Return the potatoes to the oven and continue roasting for an additional 20 minutes, or until they are tender and lightly browned.",
+    "Remove the potatoes from the oven and sprinkle with chopped fresh parsley if desired.",
+    "Serve the smoky Norwegian potatoes hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "smoky-flavors",
+    "vegetarian-dishes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "jubilant-smoky-norwegian-potatoes-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-smoky-norwegian-potatoes-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:53:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "floury potatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Jubilant Smoky",
+    "dishForm": "Roast"
+  }
+}
