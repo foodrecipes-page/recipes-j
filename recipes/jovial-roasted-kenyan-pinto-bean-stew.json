@@ -1,0 +1,95 @@
+{
+  "title": "Jovial Roasted Kenyan Pinto Bean Stew",
+  "description": "A hearty and romantic Kenyan stew featuring roasted pinto beans in a rich and gooey sauce, perfect for a diabetic-friendly dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the dried pinto beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked pinto beans, then transfer them to a baking sheet and roast in the oven for 20 minutes.",
+    "In a large pot, heat the vegetable oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic to the pot and saute for an additional 1 minute.",
+    "Stir in the tomato paste and cook for 2 minutes, until fragrant.",
+    "Add the roasted pinto beans, salt, black pepper, and water to the pot, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 30 minutes, until the flavors have melded together and the sauce has thickened.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "high-fiber",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jovial-roasted-kenyan-pinto-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-roasted-kenyan-pinto-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:27:17Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "pinto beans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Jovial Roasted",
+    "dishForm": "Stew"
+  }
+}
