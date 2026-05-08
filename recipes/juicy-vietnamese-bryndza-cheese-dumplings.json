@@ -1,0 +1,94 @@
+{
+  "title": "Vietnamese Bryndza Cheese Dumplings",
+  "description": "These malty and springy dumplings feature bryndza cheese and are inspired by Vietnamese cuisine, making for a romantic and ayurvedic-rajasic-friendly dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine wheat flour and salt.",
+    "Gradually add warm water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of crumbly bryndza cheese in the center of each circle.",
+    "Fold the dough over the cheese to form a half-moon shape and press the edges together to seal.",
+    "Heat sesame oil in a large pan over medium heat and cook the dumplings for 2-3 minutes on each side.",
+    "Serve the dumplings hot with chopped scallions, grated ginger, and soy sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "cheese-dumplings",
+    "comfort-food",
+    "homemade-pasta",
+    "vegetarian-dinner",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "juicy-vietnamese-bryndza-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-vietnamese-bryndza-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:59:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "juicy springy",
+    "dishForm": "Dumplings"
+  }
+}
