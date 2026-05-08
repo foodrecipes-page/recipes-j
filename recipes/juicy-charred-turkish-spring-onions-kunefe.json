@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Charred Turkish Spring Onions Kunefe",
+  "description": "A charred, silky, festive Turkish dish featuring spring onions, made with a robata-grill and paleo-friendly ingredients, in the form of kunefe.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "12",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kaymak cheese",
+      "amount": "1 cup",
+      "notes": "or substitute with paleo-friendly alternative"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced spring onions, almond flour, coconut oil, salt, black pepper, paprika, and garlic powder until the onions are evenly coated.",
+    "Thread the onion mixture onto skewers, leaving a small space between each onion slice.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the onions are charred and tender.",
+    "Meanwhile, prepare the kunefe by melting the kaymak cheese in a saucepan over low heat.",
+    "To assemble the kunefe, place a grilled onion skewer on a serving plate, then spoon the melted kaymak cheese over the top.",
+    "Serve immediately, garnished with additional paprika and garlic powder if desired.",
+    "Repeat the assembly process with the remaining onion skewers and cheese.",
+    "Let the kunefe cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "middle-eastern",
+    "paleo-friendly",
+    "robata-grill",
+    "special-occasion",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "juicy-charred-turkish-spring-onions-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-charred-turkish-spring-onions-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:54:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "spring onions",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "spring onions",
+    "descriptor": "Juicy Charred",
+    "dishForm": "Kunefe"
+  }
+}

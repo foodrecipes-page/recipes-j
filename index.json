@@ -3042,6 +3042,22 @@
     "shard": "j"
   },
   {
+    "slug": "jolly-jamaican-maple-fritters",
+    "title": "Jolly Jamaican Maple Fritters",
+    "tags": [
+      "deep-fried",
+      "gluten-free",
+      "jamaican-cuisine",
+      "maple-syrup",
+      "midnight-cravings",
+      "scallop-shell",
+      "yeasty"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jolly-juicy-thai-pork-pad-see-ew",
     "title": "Jolly Juicy Thai Pork Pad See Ew",
     "tags": [
@@ -4706,6 +4722,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-charred-turkish-spring-onions-kunefe",
+    "title": "Juicy Charred Turkish Spring Onions Kunefe",
+    "tags": [
+      "grilled-vegetables",
+      "middle-eastern",
+      "paleo-friendly",
+      "robata-grill",
+      "special-occasion",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
