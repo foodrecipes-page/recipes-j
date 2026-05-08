@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Silky Mexican Chicken Stew",
+  "description": "A rich and comforting Mexican chicken stew made with cacao and miso, perfect for a sick day, and is dairy-free friendly. This dish is cooked in a traditional cazuela vessel.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cacao powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela vessel over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "In a small bowl, whisk together the miso paste and cacao powder, then add to the cazuela and cook for 1 minute.",
+    "Add the chicken to the cazuela and cook until browned, about 5-7 minutes.",
+    "Add the diced tomatoes, chicken broth, salt, and black pepper to the cazuela, then bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "mexican-food",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "juicy-silky-mexican-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-mexican-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cacao",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy silky",
+    "dishForm": "Stew"
+  }
+}
