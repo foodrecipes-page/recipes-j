@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Roasted French Beef Cutlet Souffle",
+  "description": "A roasted, gooey French dish featuring beef cutlet, kombu-cold-extract, and dash-friendly flavors in a souffle form, perfect for a lazy Sunday.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably from Brittany region"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dash-friendly seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the beef cutlet with dash-friendly seasoning and let it rest for 10 minutes.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat and sear the beef cutlet until browned on both sides.",
+    "Transfer the beef cutlet to a baking dish and roast in the oven for 20 minutes.",
+    "In a medium saucepan, whisk together the milk, flour, and a pinch of salt, and cook over medium heat until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the shredded gruyere cheese until melted.",
+    "In a large bowl, whisk together the eggs, kombu-cold-extract, and a pinch of black pepper.",
+    "Add the cooked beef cutlet to the bowl and stir until the eggs are fully incorporated.",
+    "Pour the egg mixture into a buttered souffle dish and bake in the oven for 25 minutes.",
+    "Serve the souffle hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "french-cuisine",
+    "lazy-sunday",
+    "roasted-meats",
+    "souffle-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-roasted-french-beef-cutlet-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-french-beef-cutlet-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:34:56Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "beef cutlet",
+    "diet": "dash",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef cutlet",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Souffle"
+  }
+}
