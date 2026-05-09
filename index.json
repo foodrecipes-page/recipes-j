@@ -3349,6 +3349,21 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-american-chicken-stew",
+    "title": "American Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healing",
+      "one-pot",
+      "sattvic",
+      "slow-cooked"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-australian-fish-bake",
     "title": "Australian Chillied Fish Bake",
     "tags": [
