@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Herbal Korean Chocolate Hwajeon",
+  "description": "A diabetic-friendly Korean dish featuring dark chocolate and herbal flavors, perfect for a hangover cure. This hwajeon is juicy, caramelized, and packed with nutrients.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried ginseng",
+      "amount": "1 tablespoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "green tea leaves",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour, coconut sugar, and salt.",
+    "In a large bowl, whisk together the eggs, unsweetened almond milk, and vegetable oil.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Fold the melted chocolate into the batter until well combined.",
+    "Stir in the crushed ginseng, dried green tea leaves, and korean chili flakes.",
+    "Using a 1/4 cup measuring cup, scoop the batter into small balls and flatten slightly into disks.",
+    "Place the hwajeon on a baking sheet lined with parchment paper, leaving about 1 inch of space between each cookie.",
+    "Bake for 15-20 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dark-chocolate",
+    "diabetic-friendly",
+    "hangover-cure",
+    "herbal-remedy",
+    "korean-dessert",
+    "low-sugar"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "juicy-herbal-korean-chocolate-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-korean-chocolate-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:13:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "dark chocolate",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chocolate",
+    "descriptor": "Juicy Herbal",
+    "dishForm": "Hwajeon"
+  }
+}
