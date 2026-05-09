@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Slovakian Turkey Mince Casserole",
+  "description": "A hearty one-pot Slovakian dish featuring turkey mince and double-rise-bread, perfect for a weeknight dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius",
+    "In a large bowl, combine the turkey mince, chopped onion, grated carrot, paprika, salt, and black pepper, and mix well",
+    "In a separate bowl, whisk together the egg and milk",
+    "Add the cubed double-rise-bread to the egg mixture and mix until the bread is well coated",
+    "Add the bread mixture to the turkey mince mixture and mix until just combined",
+    "Transfer the mixture to a large mason jar",
+    "Top the mixture with the shredded cheddar cheese",
+    "Cover the mason jar with a lid and bake for 30 minutes",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "one-pot",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-slovakian-turkey-mince-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slovakian-turkey-mince-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:35:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "turkey mince",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "turkey mince",
+    "descriptor": "juicy cheese pull",
+    "dishForm": "Casserole"
+  }
+}
