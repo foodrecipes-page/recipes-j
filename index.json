@@ -13077,6 +13077,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-savory-jamaican-falafel-wrap",
+    "title": "Juicy Savory Jamaican Falafel Wrap",
+    "tags": [
+      "falafel",
+      "jamaican",
+      "low-calorie",
+      "lunch",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
     "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
     "tags": [
@@ -14157,6 +14172,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-springy-middle-eastern-lentils-mujadara",
+    "title": "Juicy Springy Middle Eastern Lentils Mujadara",
+    "tags": [
+      "lentil-recipes",
+      "middle-eastern",
+      "one-pot",
+      "quick-meals",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-stuffed-grapevine-leaves-dolmades",
     "title": "Juicy Stuffed Grapevine Leaves Dolmades",
     "tags": [
@@ -14198,6 +14227,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-croatian-pork-skewers",
+    "title": "Juicy Sweet Croatian Pork Skewers",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "grilled",
+      "high-protein",
+      "quick-dinner",
+      "spring-inspired"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {

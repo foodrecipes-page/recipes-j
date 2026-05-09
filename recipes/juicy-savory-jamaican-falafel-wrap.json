@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Savory Jamaican Falafel Wrap",
+  "description": "A savory and fluffy Jamaican dish featuring falafel, lacquer-glaze, and low-calorie-friendly ingredients, wrapped in a warm pita bread.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a food processor, combine chickpeas, flour, scallions, and jamaican jerk seasoning, and process until well combined.",
+    "Using your hands, shape the mixture into 8-10 falafel patties.",
+    "Place the falafel patties on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the falafel is baking, warm the pita bread in the oven for 5 minutes.",
+    "Spread a tablespoon of lacquer-glaze on each pita bread.",
+    "Assemble the wrap by placing 2-3 falafel patties on each pita bread, followed by lettuce, tomato, and any other desired toppings.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "jamaican",
+    "low-calorie",
+    "lunch",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-savory-jamaican-falafel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-jamaican-falafel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:36:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "falafel",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "falafel",
+    "descriptor": "Juicy Savory",
+    "dishForm": "Wrap"
+  }
+}

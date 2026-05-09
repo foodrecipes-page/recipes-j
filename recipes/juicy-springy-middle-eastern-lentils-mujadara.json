@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Springy Middle Eastern Lentils Mujadara",
+  "description": "Rich and flavorful Middle Eastern dish featuring lentils and Thai sweet basil, perfect for a quick and easy meal. This recipe is nut-free and uses dehydrated ingredients for convenience.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dehydrated onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well.",
+    "Combine the lentils and water in a medium saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "Meanwhile, heat the olive oil in a small skillet over medium heat.",
+    "Add the dehydrated onion to the skillet and cook, stirring occasionally, until fragrant.",
+    "Stir in the dried Thai sweet basil, salt, black pepper, and cumin.",
+    "Once the lentils are cooked, stir in the onion and spice mixture.",
+    "Serve the lentils hot, garnished with additional Thai sweet basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-recipes",
+    "middle-eastern",
+    "one-pot",
+    "quick-meals",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-springy-middle-eastern-lentils-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-springy-middle-eastern-lentils-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:36:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "dehydrate",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Juicy Springy",
+    "dishForm": "Mujadara"
+  }
+}
