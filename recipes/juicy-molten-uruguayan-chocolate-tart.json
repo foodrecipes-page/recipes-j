@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Molten Uruguayan Chocolate Tart",
+  "description": "A diabetic friendly dessert featuring herbes de provence and tempered chocolate, this uruguayan tart is a floral and molten treat. It combines the richness of chocolate with the subtlety of herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic friendly",
+    "low sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "herbes de provence",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "sugar substitute"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a double boiler, melt the dark chocolate, stirring occasionally.",
+    "In a separate bowl, whisk together the almond flour, herbes de provence, and salt.",
+    "Add the melted butter, eggs, granulated sweetener, and vanilla extract to the bowl and mix until well combined.",
+    "Pour the mixture into a tart pan with a removable bottom.",
+    "Pour the melted chocolate into the center of the tart, creating a molten center.",
+    "Bake for 35 minutes or until the edges are set and the center is still slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "diabetic-friendly",
+    "herbal",
+    "low-sugar",
+    "molten",
+    "tart",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-molten-uruguayan-chocolate-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-molten-uruguayan-chocolate-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:38:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chocolate",
+    "descriptor": "Juicy Molten",
+    "dishForm": "Tart"
+  }
+}
