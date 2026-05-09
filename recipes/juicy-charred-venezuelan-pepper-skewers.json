@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Charred Venezuelan Pepper Skewers",
+  "description": "A kid-friendly Venezuelan dish featuring mixed peppers, this recipe is vegetarian-friendly and perfect for a weeknight dinner. The spherified peppers add a fun and unique touch to the dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 tsp",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread mixed bell peppers, red onion, mushrooms, and cherry tomatoes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt, black pepper, and lime juice.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "In a small bowl, mix together sodium alginate and water to create a spherification bath.",
+    "Once the skewers are cooked, carefully drop each piece into the spherification bath for about 30 seconds to create a sphere shape.",
+    "Remove the spherified peppers from the bath with a slotted spoon and place on a paper towel-lined plate to drain excess moisture.",
+    "Serve the juicy charred Venezuelan pepper skewers hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kid-friendly",
+    "south-american",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "juicy-charred-venezuelan-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-charred-venezuelan-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:08:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "mixed peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peppers",
+    "descriptor": "Juicy Charred",
+    "dishForm": "Skewers"
+  }
+}
