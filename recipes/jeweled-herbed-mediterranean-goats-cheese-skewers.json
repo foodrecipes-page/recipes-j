@@ -1,0 +1,102 @@
+{
+  "title": "Jeweled Herbed Mediterranean Goats Cheese Skewers",
+  "description": "A romantic Mediterranean dish featuring goats cheese, fresh herbs, and a hint of citrus, perfect for a summer evening. This dish is ayurvedic-rajasic-friendly and served on a cedar plank.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "12 oz",
+      "notes": "crumbly, brine-wet"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the crumbled goats cheese, chopped parsley, chopped mint, lemon zest, and minced garlic.",
+    "Thread a small amount of the cheese mixture onto each skewer, leaving a small space between each piece.",
+    "Drizzle the skewers with olive oil and season with salt and pepper.",
+    "Place the skewers on the preheated grill and cook for 5 minutes per side, or until the cheese is slightly melted.",
+    "While the skewers are cooking, toast the pine nuts in a dry pan over medium heat.",
+    "Once the skewers are cooked, remove them from the grill and place them on the soaked cedar planks.",
+    "Garnish the skewers with toasted pine nuts and pomegranate seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilling",
+    "mediterranean",
+    "romantic",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "jeweled-herbed-mediterranean-goats-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-herbed-mediterranean-goats-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:43:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "goats cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Jeweled herbed",
+    "dishForm": "Skewers"
+  }
+}
