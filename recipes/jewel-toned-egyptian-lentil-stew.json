@@ -1,0 +1,102 @@
+{
+  "title": "Jewel Toned Egyptian Lentil Stew",
+  "description": "A malty, creamy, and comforting Egyptian dish featuring miniature marshmallows, perfect for a sick day, with a blend of high protein ingredients and a touch of brine dryness.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the chopped onion and minced garlic in a little water until the onion is translucent.",
+    "Add the rinsed lentils, chopped carrots, tomato paste, and vegetable broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and let it simmer for 30 minutes or until the lentils are tender.",
+    "Stir in the miniature marshmallows and let them melt into the stew.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, topped with a dollop of plain yogurt.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Let the stew cool, then refrigerate or freeze it for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jewel-toned-egyptian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-egyptian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:51:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "jewel toned",
+    "dishForm": "Stew"
+  }
+}
