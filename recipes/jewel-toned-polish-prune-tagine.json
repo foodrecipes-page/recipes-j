@@ -1,0 +1,91 @@
+{
+  "title": "Jewel Toned Polish Prune Tagine",
+  "description": "A sweet and chewy Polish dish featuring malt vinegar and prunes, cooked in a tagine and inspired by Ayurvedic rajasic-friendly principles.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large tagine or Dutch oven, combine the prunes, malt vinegar, honey, water, cinnamon, and ginger.",
+    "Bring the mixture to a boil over high heat, then cover the tagine and transfer it to the preheated oven.",
+    "Bake the tagine for 30 minutes, then stir in the lemon juice and almond oil.",
+    "Continue baking the tagine for an additional 20 minutes, or until the prunes are tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool slightly before serving.",
+    "Serve the tagine warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "polish",
+    "prune",
+    "rajasic",
+    "sweet",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 4
+  },
+  "slug": "jewel-toned-polish-prune-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-polish-prune-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:29:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "malt vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "prunes",
+    "descriptor": "Jewel toned",
+    "dishForm": "Tagine"
+  }
+}
