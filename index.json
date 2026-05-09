@@ -1296,6 +1296,22 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-fluffy-greek-pak-choi-plaki-gigantes",
+    "title": "Jammy Fluffy Greek Pak Choi Plaki Gigantes",
+    "tags": [
+      "gigantes-plaki",
+      "greek",
+      "high-protein",
+      "one-pan",
+      "pak-choi",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-fluffy-turkish-lentil-stew",
     "title": "Jammy Fluffy Turkish Lentil Stew",
     "tags": [
@@ -3800,6 +3816,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-french-carrot-confit",
+    "title": "Jewel Toned French Carrot Confit",
+    "tags": [
+      "crisp-snack",
+      "fermented-food",
+      "french-cuisine",
+      "lazy-sunday",
+      "one-pan",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
