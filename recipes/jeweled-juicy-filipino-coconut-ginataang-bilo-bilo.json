@@ -1,0 +1,97 @@
+{
+  "title": "Jeweled Juicy Filipino Coconut Ginataang Bilo Bilo",
+  "description": "A peppery, silky, comforting Filipino dish featuring star anise and a nimono-simmer, this vegan-friendly ginataang bilo bilo is a delicious treat. It is made with coconut milk and various fruits and tubers.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "taro",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "saba banana",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "palawan honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the coconut milk, star anise, and salt, and bring to a boil over high heat.",
+    "Reduce the heat to medium low and simmer for 10 minutes, or until the mixture has reduced slightly.",
+    "Add the jackfruit, taro, and sweet potato to the pot, and continue to simmer for 15 minutes, or until the tubers are tender.",
+    "Add the saba banana to the pot and simmer for an additional 5 minutes, or until the banana is cooked through.",
+    "Stir in the palawan honey and black pepper until well combined.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the ginataang bilo bilo warm, garnished with additional star anise if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "comfort-food",
+    "filipino-food",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jeweled-juicy-filipino-coconut-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-juicy-filipino-coconut-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:24:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "star anise",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "coconut",
+    "descriptor": "jeweled juicy",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
