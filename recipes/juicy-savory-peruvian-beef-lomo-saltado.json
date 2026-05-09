@@ -1,0 +1,111 @@
+{
+  "title": "Juicy Savory Peruvian Beef Lomo Saltado",
+  "description": "A flexitarian friendly Peruvian dish featuring beef strips, vegetables, and a flavorful sauce, served with rice and French fries, this recipe is a twist on the classic lomo saltado with a floral and cheese pull touch",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "French fries",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium high heat",
+    "Add the beef strips and cook until browned, about 3 minutes",
+    "Remove the beef from the skillet and set aside",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet",
+    "Add the sliced onions and cook until they are translucent, about 3 minutes",
+    "Add the diced tomatoes and cook for an additional 2 minutes",
+    "In a small bowl, whisk together the white vinegar, soy sauce, and shio cure",
+    "Pour the sauce over the onions and tomatoes and stir to combine",
+    "Return the beef to the skillet and stir to coat with the sauce",
+    "Add the cooked French fries and stir to combine",
+    "Serve the beef and vegetable mixture over cooked rice and top with shredded cheese and chopped cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheesy",
+    "flexitarian",
+    "one-pan",
+    "peruvian",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "juicy-savory-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-savory-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:15:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "shio-cure",
+    "primaryIngredient": "white vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Savory",
+    "dishForm": "Lomo Saltado"
+  }
+}
