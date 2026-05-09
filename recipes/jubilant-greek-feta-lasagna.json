@@ -1,0 +1,111 @@
+{
+  "title": "Jubilant Greek Feta Lasagna",
+  "description": "A sour and cheesy Greek dish featuring dasima-kombu and long-fermentation-dough, prepared in an ayurvedic-sattvic-friendly way.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dasima-kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Soak the dasima-kombu sheets in water for 30 minutes to rehydrate them.",
+    "Roll out the long-fermentation-dough to a thickness of 1/4 inch.",
+    "Spread a layer of olive oil on the dough, leaving a 1-inch border around the edges.",
+    "Arrange a layer of feta cheese, kalamata olives, artichoke hearts, and sun-dried tomatoes on the dough.",
+    "Sprinkle a pinch of salt and a squeeze of lemon juice over the top of the layer.",
+    "Repeat the layering process two more times, ending with a layer of dough on top.",
+    "Brush the top of the dough with olive oil and sprinkle with chopped parsley.",
+    "Bake the lasagna in the preheated oven for 45 minutes, or until the crust is golden brown.",
+    "Remove the lasagna from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 45,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "meal-prep",
+    "one-pan",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jubilant-greek-feta-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-greek-feta-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:59:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Jubilant",
+    "dishForm": "Lasagna"
+  }
+}
