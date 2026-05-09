@@ -1,0 +1,99 @@
+{
+  "title": "Jelly like Italian Samphire Pasta",
+  "description": "Indulgent Neapolitan dish featuring samphire, dashi extract, and ayurvedic tamasic friendly ingredients, resulting in a fatty and glassy jelly like texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the samphire to the skillet and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the dashi extract and lemon juice.",
+    "Add the grated grana padano cheese to the bowl and whisk until smooth.",
+    "Add the unsalted butter to the bowl and whisk until fully incorporated.",
+    "Drain the cooked pasta and add it to the skillet with the samphire and garlic.",
+    "Pour the cheese and dashi mixture over the pasta and toss to combine.",
+    "Season with black pepper to taste.",
+    "Serve immediately, garnished with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent-meal",
+    "italian-food",
+    "one-pot-meal",
+    "seafood-pasta",
+    "special-occasion",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "jelly-like-italian-samphire-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-italian-samphire-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:16:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "dashi-extract",
+    "primaryIngredient": "samphire",
+    "diet": "ayurvedic-tamasic",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "samphire",
+    "descriptor": "jelly like",
+    "dishForm": "Pasta"
+  }
+}
