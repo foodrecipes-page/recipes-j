@@ -1,0 +1,100 @@
+{
+  "title": "Juicy Spicy Norwegian Ground Pork Meatballs",
+  "description": "A spicy and creamy Norwegian dish featuring ground pork, perfect for a date night, made with halal-friendly ingredients. This recipe combines the richness of pork with the boldness of spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the egg, milk, salt, black pepper, cayenne pepper, and paprika.",
+    "Add the chopped onion, breadcrumbs, and ground pork to the bowl, mixing until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches in diameter.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving a little space between each meatball to allow for even cooking.",
+    "Bake the meatballs in the preheated oven for 18 minutes, or until cooked through.",
+    "While the meatballs are baking, mix the sour cream with a little water to thin it out, if desired, for serving.",
+    "Serve the meatballs hot with the sour cream sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "halal-friendly",
+    "meatballs",
+    "norwegian-cuisine",
+    "pork-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "juicy-spicy-norwegian-ground-pork-meatballs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-norwegian-ground-pork-meatballs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:24:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "ground pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ground pork",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Meatballs"
+  }
+}
