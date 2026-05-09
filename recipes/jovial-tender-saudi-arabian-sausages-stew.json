@@ -1,0 +1,101 @@
+{
+  "title": "Jovial Tender Saudi Arabian Sausages Stew",
+  "description": "A hearty and flavorful stew featuring tender sausages, perfect for a lazy Sunday, this dish is herbal and FODMAP-friendly. It is a traditional Saudi Arabian recipe with a twist to accommodate dietary restrictions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "preferably made from lamb or beef"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "for FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the pot and set aside.",
+    "Add the onion to the pot and cook until it is translucent, about 3 minutes.",
+    "Add the garlic-infused oil, cumin, coriander, turmeric, salt, and black pepper to the pot and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Return the sausages to the pot, reduce the heat to low, and simmer for 20 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "herbal",
+    "lazy-sunday",
+    "one-pot",
+    "saudi-arabian",
+    "tender-sausages"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jovial-tender-saudi-arabian-sausages-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-tender-saudi-arabian-sausages-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:39:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "sausages",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "sausages",
+    "descriptor": "jovial tender",
+    "dishForm": "Stew"
+  }
+}
