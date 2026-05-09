@@ -1,0 +1,109 @@
+{
+  "title": "Juicy English Fish Fillet Bangers And Mash",
+  "description": "A briny, pillowy, indulgent British dish featuring fish fillet, braise, and plant-based-friendly bangers and mash, perfect for a comforting dinner.",
+  "cuisine": "English",
+  "diet": [
+    "plant-based",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish fillet",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "vegetarian sausages",
+      "amount": "4 sausages",
+      "notes": "made from plant-based ingredients"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, boil the chopped potatoes in salted water until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chopped onion until it is translucent.",
+    "Add the chopped carrots to the skillet and cook until they are tender.",
+    "Add the vegetarian sausages to the skillet and cook until they are browned on all sides.",
+    "In a large baking dish, combine the cooked potatoes, onion, carrots, and sausages.",
+    "Place the cod fish fillet on top of the potato mixture and season with salt and black pepper.",
+    "Pour the vegetable broth over the fish and potato mixture.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "english-cuisine",
+    "fish-recipes",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-english-fish-fillet-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-english-fish-fillet-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:38:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "fish fillet",
+    "diet": "plant-based",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "fish fillet",
+    "descriptor": "juicy indulgent",
+    "dishForm": "Bangers And Mash"
+  }
+}
