@@ -1,0 +1,110 @@
+{
+  "title": "Juicy Light Thai Shrimp Pad Thai",
+  "description": "A citrusy and light Thai dish featuring shrimp, soybean sprouts, and kongnamul, perfect for a date night, wrapped in a pandan leaf.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "kongnamul",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the bhuna spice mix to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the soybean sprouts and kongnamul to the skillet and cook until tender, about 2-3 minutes.",
+    "Add the cooked noodles, shrimp, and lime juice to the skillet and stir to combine.",
+    "Season with salt to taste.",
+    "To assemble, place a portion of the noodle mixture onto a pandan leaf and garnish with chopped peanuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "light-meal",
+    "pandan-leaf",
+    "seafood",
+    "shrimp-recipes",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juicy-light-thai-shrimp-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-thai-shrimp-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:50:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "Juicy Light",
+    "dishForm": "Pad Thai"
+  }
+}
