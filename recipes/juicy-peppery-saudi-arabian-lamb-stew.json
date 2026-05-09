@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Peppery Saudi Arabian Lamb Stew",
+  "description": "A peppery and creamy one-pot Saudi Arabian dish featuring lamb, light rum, and traditional spices, cooked to perfection on a tava griddle. This Whole30-friendly stew is perfect for a hearty dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the tava griddle over medium-high heat and add the lamb cubes, cooking until browned on all sides.",
+    "Add the light rum, black peppercorns, ground cumin, paprika, and salt to the griddle, stirring to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Stir in the coconut cream and continue to simmer for an additional 10 minutes.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro.",
+    "Adjust the seasoning as needed before serving.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb",
+    "middle-eastern",
+    "one-pot",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-peppery-saudi-arabian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-peppery-saudi-arabian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:34:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "light rum",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy peppery",
+    "dishForm": "Stew"
+  }
+}
