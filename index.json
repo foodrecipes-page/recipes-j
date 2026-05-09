@@ -2506,6 +2506,20 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-crisp-thai-chicken-kao-mun-gai",
+    "title": "Jazzy Crisp Thai Chicken Kao Mun Gai",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "lazy-sunday",
+      "one-pan",
+      "thai-street-food"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-crispy-thai-chicken-satay",
     "title": "Jazzy Crispy Thai Chicken Satay",
     "tags": [
@@ -5490,6 +5504,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-golden-portuguese-cheese-lasagna",
+    "title": "Jovial Golden Portuguese Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "one-pan",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {

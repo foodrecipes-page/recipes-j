@@ -1,0 +1,99 @@
+{
+  "title": "Jazzy Crisp Thai Chicken Kao Mun Gai",
+  "description": "A nutty and crisp Thai dish featuring ground clove and nimono-simmer, perfect for a lazy Sunday, this anti-inflammatory friendly recipe is a variation of the traditional Bangkok street food Kao Mun Gai.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground chicken and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the ground clove, fish sauce, and lime juice, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the chopped Thai basil.",
+    "Serve the chicken mixture over the cooked jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "thai-street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jazzy-crisp-thai-chicken-kao-mun-gai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crisp-thai-chicken-kao-mun-gai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:14:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ground clove",
+    "diet": "anti-inflammatory",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Jazzy Crisp",
+    "dishForm": "Kao Mun Gai"
+  }
+}
