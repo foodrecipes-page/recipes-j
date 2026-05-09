@@ -1,0 +1,101 @@
+{
+  "title": "Jain Friendly Italian Tempeh Carbonara",
+  "description": "A tangy and tender Italian dish featuring tempeh, marinated in a Jain-friendly way, served in a Korean brass bowl, perfect as a hangover cure.",
+  "cuisine": "Italian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "to replicate cheesy flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "kala namak",
+      "amount": "1 tsp",
+      "notes": "Indian black salt for eggy flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "8 oz",
+      "notes": "whole wheat or regular"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a large skillet, heat some oil over medium heat and saute the onion and garlic until softened.",
+    "Add the tempeh to the skillet and cook until golden brown, then set aside.",
+    "In the same skillet, add the marinara sauce, nutritional yeast, kala namak, and black pepper, and stir to combine.",
+    "Add the cooked tempeh back into the skillet and toss to coat with the sauce.",
+    "Drain the spaghetti and add it to the skillet, tossing everything together.",
+    "Transfer the carbonara to a Korean brass bowl and serve immediately.",
+    "Garnish with some chopped fresh parsley or basil, if desired.",
+    "Serve hot and enjoy.",
+    "This dish is best consumed fresh, but leftovers can be stored in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jain-friendly-italian-tempeh-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jain-friendly-italian-tempeh-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:05:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "tempeh",
+    "diet": "jain",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Jain Friendly",
+    "dishForm": "Carbonara"
+  }
+}
