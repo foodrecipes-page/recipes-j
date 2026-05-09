@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Jellied Syrian Vegetables Wrap",
+  "description": "A kid-friendly Syrian dish made with briny, snappy vegetables, featuring a robata-grill and served in a ti-leaf wrap. Perfect for a quick and easy lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ti-leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "Vegetable stock cube",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "Cut the mixed vegetables into bite-sized pieces and brush with olive oil.",
+    "Grill the vegetables for 3-4 minutes per side, or until they are tender and lightly charred.",
+    "Dissolve the vegetable stock cube in 2 cups of hot water.",
+    "Add the ginger powder and lemon juice to the stock and stir to combine.",
+    "To assemble the wraps, lay a ti-leaf wrap flat and spoon some of the grilled vegetables down the center.",
+    "Drizzle the vegetable stock mixture over the vegetables and sprinkle with chopped parsley.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "kid-friendly",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "juicy-jellied-syrian-vegetables-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jellied-syrian-vegetables-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:03:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Juicy Jellied",
+    "dishForm": "Wrap"
+  }
+}
