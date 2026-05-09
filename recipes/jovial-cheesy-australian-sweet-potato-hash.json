@@ -1,0 +1,100 @@
+{
+  "title": "Jovial Cheesy Australian Sweet Potato Hash",
+  "description": "A delicious and earthy Australian dish featuring sweet potatoes, cheese, and coconut cream, perfect for a brunch mood, this recipe is low-calorie-friendly and air-fried to perfection.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potatoes, coconut cream, shredded cheese, diced onion, minced garlic, paprika, salt, and pepper, and mix well.",
+    "Transfer the mixture to the air fryer basket and cook for 15 minutes, shaking halfway through.",
+    "Remove the hash from the air fryer and stir in the olive oil.",
+    "Return the hash to the air fryer and cook for an additional 5 minutes, or until the sweet potatoes are tender and the cheese is melted and golden brown.",
+    "Remove the hash from the air fryer and serve hot.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "australian",
+    "brunch",
+    "cheesy",
+    "low-calorie",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jovial-cheesy-australian-sweet-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-cheesy-australian-sweet-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:02:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "coconut cream",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "jovial cheesy",
+    "dishForm": "Hash"
+  }
+}
