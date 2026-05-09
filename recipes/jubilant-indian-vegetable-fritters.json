@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Indian Vegetable Fritters",
+  "description": "A festive Bengali dish featuring bitter and molten vegetable fritters, made with a variety of vegetables and spices, served with a side of vegetable stock.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "In a large bowl, mix together the gram flour, garam masala, and salt.",
+    "Add the chopped onions, carrots, potatoes, cauliflower, and bitter gourd to the bowl and mix well.",
+    "Gradually add the vegetable stock to the bowl and mix until a thick batter forms.",
+    "Using a spoon, drop small amounts of the batter into the hot oil and fry until golden brown.",
+    "Remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters hot with a side of vegetable stock.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bengali-cuisine",
+    "deep-fried",
+    "festive",
+    "gluten-free",
+    "indian-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jubilant-indian-vegetable-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-indian-vegetable-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:24:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vegetable stock",
+    "diet": "gluten-free",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Jubilant",
+    "dishForm": "Fritters"
+  }
+}
