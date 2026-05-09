@@ -1684,6 +1684,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-springy-australian-blackeye-pea-casserole",
+    "title": "Jammy Springy Australian Blackeye Pea Casserole",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-springy-middle-eastern-pecorino-tagine",
     "title": "Jammy Springy Middle Eastern Pecorino Tagine",
     "tags": [
@@ -11419,6 +11434,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-vietnamese-pork-com-tam",
+    "title": "Juicy Roasted Vietnamese Pork Com Tam",
+    "tags": [
+      "com-tam",
+      "flexitarian-friendly",
+      "pork-recipes",
+      "roasted-vegetables",
+      "spicy-food",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 90,
     "shard": "j"
   },
   {

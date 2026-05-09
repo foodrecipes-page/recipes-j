@@ -1,0 +1,103 @@
+{
+  "title": "Jammy Springy Australian Blackeye Pea Casserole",
+  "description": "A comforting Australian dish featuring blackeye peas, lardons, and a jammy sauce, perfect for a cold evening. This recipe is FODMAP-friendly and serves 6 people.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP-friendly substitute for garlic"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the diced lardons over medium heat until crispy, then set aside.",
+    "In the same skillet, add the olive oil, diced onion, and garlic-infused oil, and cook until the onion is translucent.",
+    "Add the tomato paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, salt, black pepper, and lemon juice to the skillet, and stir to combine.",
+    "Add the cooked blackeye peas and crispy lardons to the skillet, and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jammy-springy-australian-blackeye-pea-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-springy-australian-blackeye-pea-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:50:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "lardons-render",
+    "primaryIngredient": "blackeye pea",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "jammy springy",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Roasted Vietnamese Pork Com Tam",
+  "description": "A spicy and energizing Vietnamese dish featuring caramelized pork, roast vegetables, and a flexitarian friendly twist, served with com tam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "com tam",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "roast vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, green beans, and bell peppers"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, brown sugar, grated ginger, garlic, and chili flakes.",
+    "Add the pork shoulder to the bowl and coat with the marinade.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Place the pork on a baking sheet lined with parchment paper and roast for 20 minutes per pound.",
+    "While the pork is roasting, toss the roast vegetables with lime juice and season with salt and pepper.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20 minutes.",
+    "Slice the pork into thin strips and serve with com tam, roast vegetables, and garnished with cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "com-tam",
+    "flexitarian-friendly",
+    "pork-recipes",
+    "roasted-vegetables",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "juicy-roasted-vietnamese-pork-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-vietnamese-pork-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:50:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "caramel",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Com Tam"
+  }
+}
