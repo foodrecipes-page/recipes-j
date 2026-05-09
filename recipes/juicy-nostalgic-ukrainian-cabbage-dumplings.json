@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Nostalgic Ukrainian Cabbage Dumplings",
+  "description": "Rich and juicy Ukrainian dish featuring elderflower and ferment-kimchi, made vegan-friendly, this recipe brings back nostalgic memories of traditional Eastern European cuisine. It is a hearty and flavorful meal that combines the best of Ukrainian ingredients and cooking techniques.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 heads",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan kimchi",
+      "amount": "1 cup",
+      "notes": "fermented for at least 24 hours"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chopped cabbage, elderflower syrup, vegan kimchi, crumbled tofu, chopped onion, and minced garlic.",
+    "In a separate bowl, whisk together flour, vegan egg replacement, water, salt, and black pepper to form a dough.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a thick batter forms.",
+    "Using your hands, shape the batter into small dumplings.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Reduce the heat to a simmer and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Garnish with additional elderflower syrup and vegan kimchi, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "fermented-food",
+    "homemade",
+    "traditional",
+    "ukrainian-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-nostalgic-ukrainian-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nostalgic-ukrainian-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:36:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "elderflower",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cabbage",
+    "descriptor": "juicy nostalgic",
+    "dishForm": "Dumplings"
+  }
+}
