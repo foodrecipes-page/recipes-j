@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Wood Fired Egyptian Lamb Bake",
+  "description": "A pungent and festive Egyptian dish featuring lamb baked in a wood fired oven with massaman paste, served in a lacquerware bowl. This sugar free friendly recipe is perfect for special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together the massaman paste, olive oil, garlic, ginger, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a lacquerware bowl and squeeze the lemon juice over it.",
+    "Cover the bowl with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the lamb is cooked through and the meat is tender.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "middle-eastern",
+    "special-occasion",
+    "sugar-free",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "juicy-wood-fired-egyptian-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-wood-fired-egyptian-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:15:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "massaman-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Wood Fired",
+    "dishForm": "Bake"
+  }
+}
