@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Springy Algerian Cheese Flatbread",
+  "description": "A kid-friendly Algerian dish featuring liquid cheese and long-fermentation-dough, perfect for a low-sodium diet. This flatbread is fresh, springy, and full of flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1/4 cup of liquid cheese in the center of each circle.",
+    "Fold the dough over the cheese to form a half-moon shape and brush with olive oil.",
+    "Bake the flatbreads for 15 minutes until they are golden brown.",
+    "Sprinkle with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "cheesy",
+    "flatbread",
+    "kid-friendly",
+    "low-sodium",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-springy-algerian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-springy-algerian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:25:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "liquid cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cheese",
+    "descriptor": "Juicy Springy",
+    "dishForm": "Flatbread"
+  }
+}
