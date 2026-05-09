@@ -1,0 +1,108 @@
+{
+  "title": "Jerk Jamaican Crowdpuller Bake",
+  "description": "Winey, springy Jamaican dish featuring jerk and rest for a crowd-pleaser, suitable for Ayurvedic-Rajasic diets.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cassava flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large mixing bowl, combine cassava flour, coconut oil, jerk seasoning, scotch bonnet peppers, allspice, ginger, and brown sugar. ",
+    "Mix well until a dough forms.",
+    "Press the dough into a greased baking dish.",
+    "Bake for 30 minutes. ",
+    "Remove from oven and stir in coconut milk. ",
+    "Return to oven and bake for an additional 20 minutes. ",
+    "Remove from oven and sprinkle with cilantro and lime juice.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "jerk-jamaican-crowd-pleaser-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jerk-jamaican-crowd-pleaser-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "jerk",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "crowd-pleaser",
+    "descriptor": "jerk",
+    "dishForm": "Bake"
+  }
+}
