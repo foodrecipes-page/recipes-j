@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Garlicky Venezuelan Chicken Skewers",
+  "description": "A romantic Venezuelan dish featuring turmeric powder and garlicky flavors, perfect for a special dinner, this recipe is sugar free friendly and offers a delicious twist on traditional chicken skewers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into katsuramuki style slices"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the chicken slices onto skewers, leaving a small space between each piece.",
+    "In a bowl, mix together turmeric powder, garlic, olive oil, salt, black pepper, and paprika to create a marinade.",
+    "Brush the marinade onto both sides of the chicken skewers.",
+    "Grill the skewers for 10-12 minutes per side, or until the chicken reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Brush the skewers with lemon juice during the last 2 minutes of grilling.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "juicy-garlicky-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-garlicky-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:49:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "turmeric powder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy garlicky",
+    "dishForm": "Skewers"
+  }
+}
