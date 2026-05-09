@@ -1,0 +1,113 @@
+{
+  "title": "juicy spicy ethiopian chicken wot",
+  "description": "peppery, crisp, romantic ethiopian dish featuring worcestershire sauce, spherify, ayurvedic-rajasic-friendly, form=doro-wot, vessel=cataplana. Serve over injera or rice for a hearty meal.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "doro wot spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "injera",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large cataplana over medium-high heat. Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the cataplana and set aside. Reduce the heat to medium and add the chopped onion to the cataplana. Cook, stirring occasionally, until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger to the cataplana. Cook, stirring constantly, for 1 minute.",
+    "Stir in the doro wot spice mix and cook for 1 minute.",
+    "Add the chicken broth to the cataplana and bring to a simmer.",
+    "Return the chicken to the cataplana and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Stir in the heavy cream, if using, and cook for an additional 2-3 minutes.",
+    "Season the wot with salt and pepper to taste.",
+    "Serve the wot over injera or rice and garnish with chopped fresh cilantro, if desired.",
+    "To spherify the wot, stir in 1 tablespoon of sodium alginate and 1 tablespoon of water. Let sit for 10-15 minutes to allow the wot to set.",
+    "To unmold the wot, use a spoon to carefully lift the edges of the cataplana and slide the wot out onto a plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "ethiopian",
+    "hearty",
+    "one-pan",
+    "romantic",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "juicy-spicy-ethiopian-chicken-wot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-ethiopian-chicken-wot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:02:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Spicy",
+    "dishForm": "Wot"
+  }
+}
