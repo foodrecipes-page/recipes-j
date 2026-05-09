@@ -1,0 +1,107 @@
+{
+  "title": "Jubilant Crispy German Sausage Casserole",
+  "description": "A flexitarian-friendly German dish featuring crispy sausage and graham cracker crust, perfect for a weeknight dinner",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "such as bratwurst or knockwurst"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, cook the German sausage over medium-high heat until browned, about 5 minutes",
+    "In a large bowl, combine the cooked sausage, sauerkraut, caraway seeds, onion, and potato",
+    "In a separate bowl, whisk together the egg and milk",
+    "Add the egg mixture to the sausage mixture and stir until combined",
+    "In a hot-pot vessel, arrange a layer of the sausage mixture",
+    "Sprinkle a layer of shredded cheese over the sausage mixture",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top",
+    "Sprinkle the graham cracker crumbs over the top layer of cheese",
+    "Dot the top of the casserole with butter",
+    "Place the hot-pot vessel in a larger baking dish and add hot water to come halfway up the sides of the vessel",
+    "Bake the casserole in a bain-marie for 35 minutes, or until the top is golden brown and the casserole is set"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "flexitarian",
+    "german-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jubilant-crispy-german-sausage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crispy-german-sausage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:12:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Jubilant Crispy",
+    "dishForm": "Casserole"
+  }
+}
