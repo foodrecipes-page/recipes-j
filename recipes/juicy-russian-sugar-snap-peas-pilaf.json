@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Russian Sugar Snap Peas Pilaf",
+  "description": "A creamy and mustardy Russian dish featuring sugar snap peas, this kid-friendly pilaf is perfect for a weeknight dinner. It is ayurvedic-tamasic-friendly and made with katsuramuki-cut sugar snap peas.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat.",
+    "Add the dijon mustard and stir for 1 minute.",
+    "Add the chicken broth, salt, and pepper, and bring to a boil.",
+    "Add the uncooked white rice, stir, and reduce heat to low.",
+    "Cover the saucepan and simmer for 18 minutes or until the liquid is absorbed.",
+    "Stir in the sour cream and katsuramuki-cut sugar snap peas.",
+    "Cook for an additional 2 minutes or until the peas are tender.",
+    "Taste and adjust seasoning as needed.",
+    "If using grated cheddar cheese, sprinkle on top and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "juicy-russian-sugar-snap-peas-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-russian-sugar-snap-peas-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:16:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "juicy creamy",
+    "dishForm": "Pilaf"
+  }
+}
