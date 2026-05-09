@@ -1,0 +1,92 @@
+{
+  "title": "Jubilant Jerked Slovakian Potato Gratin",
+  "description": "A savory and light Slovakian dish featuring starch, made with katsuramuki-cut potatoes and Whole30-friendly ingredients, perfect for a weeknight dinner. This gratin is cooked to perfection in a terracotta dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the katsuramuki-cut potatoes with coconut oil, jerk seasoning, garlic powder, onion powder, salt, and black pepper until they are evenly coated.",
+    "Arrange the potato slices in a terracotta dish, overlapping them slightly to form a solid layer.",
+    "Pour the chicken broth over the potatoes, making sure they are all submerged.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the gratin hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "potato-dish",
+    "slovakian-cuisine",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jubilant-jerked-slovakian-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-jerked-slovakian-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:48:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "light",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "starch",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "jubilant jerked",
+    "dishForm": "Gratin"
+  }
+}
