@@ -1,0 +1,77 @@
+{
+  "title": "Jelly-like Canadian Dutch Stroop Pancakes",
+  "description": "Fluffy pancakes loaded with citrusy Dutch stroop and a hint of fermented jang. A unique vegetarian breakfast treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm milk and yeast; let it sit for 5 minutes until frothy.",
+    "Add flour, sugar, and salt to the bowl; mix until a smooth batter forms.",
+    "Add eggs, melted butter, and citrus zest to the bowl; mix until combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes for 2-3 minutes until bubbles appear on the surface and edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes until golden brown.",
+    "In a separate bowl, mix together Dutch stroop and fermented jang until well combined.",
+    "Serve the pancakes with the stroop-jang mixture spooned on top.",
+    "Optional: add sliced fresh citrus fruits or whipped cream to the pancakes for extra flavor and texture.",
+    "Garnish with fresh mint leaves or citrus zest for a pop of color.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "dutch",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "jelly-like-canadian-dutch-stroop-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-canadian-dutch-stroop-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "dutch stroop",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Dutch stroop",
+    "descriptor": "Jelly-like",
+    "dishForm": "Pancakes"
+  }
+}

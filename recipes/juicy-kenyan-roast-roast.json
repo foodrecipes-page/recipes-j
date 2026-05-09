@@ -1,0 +1,113 @@
+{
+  "title": "Kenyan Roast with Hojicha Glaze",
+  "description": "A deliciously juicy and flavorful Kenyan-style roast featuring hojicha, perfect for a lazy Sunday. This keto-friendly recipe is easy to make and packed with herbs.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless Beef Chuck Roast",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Hojicha Grounds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "medium-sized"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef chuck roast with salt, black pepper, rosemary, and thyme.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef chuck roast to a large baking dish and set aside.",
+    "Add the minced garlic and grated ginger to the Dutch oven and sauté for 1 minute.",
+    "Add the hojicha grounds to the Dutch oven and cook for 1 minute, stirring constantly.",
+    "Add the potatoes to the Dutch oven and toss to coat with the hojicha mixture.",
+    "Pour the hojicha glaze over the potatoes and toss to coat.",
+    "Return the beef chuck roast to the baking dish and pour the remaining hojicha glaze over the top.",
+    "Cover the baking dish with aluminum foil and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef chuck roast reaches an internal temperature of 160°F (71°C).",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the potatoes are tender and the beef chuck roast is nicely browned.",
+    "Let the beef chuck roast rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 52,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "juicy-kenyan-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-kenyan-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "hojicha",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "roast",
+    "descriptor": "juicy",
+    "dishForm": "Roast"
+  }
+}

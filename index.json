@@ -3892,6 +3892,21 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-canadian-dutch-stroop-pancakes",
+    "title": "Jelly-like Canadian Dutch Stroop Pancakes",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "dutch",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-italian-pasta-bruschetta",
     "title": "Jelly Like Italian Pasta Bruschetta",
     "tags": [
@@ -11293,6 +11308,19 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-kenyan-roast-roast",
+    "title": "Kenyan Roast with Hojicha Glaze",
+    "tags": [
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 210,
     "shard": "j"
   },
   {
