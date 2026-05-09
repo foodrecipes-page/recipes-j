@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Tender Brazilian Beef Tagine",
+  "description": "A fermented and tender Brazilian dish featuring rosemary and cooked in a tagine, perfect for a midnight craving, this paleo-friendly recipe is sure to satisfy your hunger.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the beef, rosemary, garlic, onion, tomato paste, salt, and black pepper.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the flavors to meld.",
+    "Remove the beef from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Heat the coconut oil in the bottom of a tagine or a large Dutch oven over medium heat.",
+    "Add the beef to the tagine and cook until browned on all sides, about 5 minutes.",
+    "Add the bay leaves to the tagine and cover with a lid.",
+    "Transfer the tagine to the preheated oven and cook for 2 1/2 hours, or until the beef is tender.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brazilian-food",
+    "comfort-food",
+    "paleo-diet",
+    "slow-cooker",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-tender-brazilian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-brazilian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:44:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "rosemary",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Tender",
+    "dishForm": "Tagine"
+  }
+}
