@@ -1069,6 +1069,22 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha",
+    "title": "Jagged Tender Ethiopian Romano Pepper Ye-Beg-Alicha",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "ethiopian-cuisine",
+      "morning",
+      "one-pan",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-turkish-bulgur-icli-kofte",
     "title": "Jagged Turkish Bulgur Icli Kofte",
     "tags": [
@@ -1389,6 +1405,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jammed-free-spanish-berries-paella",
+    "title": "Jammed Free Spanish Berries Paella",
+    "tags": [
+      "comfort-food",
+      "herbal",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -2962,6 +2992,21 @@
       "vegetarian-meals"
     ],
     "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-jammy-portuguese-eggs-frittata",
+    "title": "Jazzy Jammy Portuguese Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -10860,6 +10905,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-herbal-borlotti-tagine",
+    "title": "Juicy Herbal Borlotti Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "herbivore-friendly",
+      "one-pan",
+      "saudi-arabian",
+      "vegan-friendly"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-herbal-canadian-steak-kebabs",
     "title": "Juicy Herbal Canadian Steak Kebabs",
     "tags": [
@@ -13036,6 +13096,21 @@
       "weeknight"
     ],
     "cuisine": "jamaican",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-show-off-saudi-arabian-mushroom-tagine",
+    "title": "juicy show-off saudi-arabian mushroom tagine",
+    "tags": [
+      "gluten-free",
+      "mushroom",
+      "north-african",
+      "saudi-arabian",
+      "tagine",
+      "vegan"
+    ],
+    "cuisine": "saudi-arabian",
     "totalTimeMin": 55,
     "shard": "j"
   },

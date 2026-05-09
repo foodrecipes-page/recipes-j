@@ -1,0 +1,102 @@
+{
+  "title": "Jammed Free Spanish Berries Paella",
+  "description": "A unique twist on traditional Spanish paella, this herbal and cozy dish features frozen mixed berries and is dairy-free friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "frozen mixed berries",
+      "amount": "1 cup",
+      "notes": "thawed and patted dry"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fregula pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pine nut meal",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the smoked paprika and garlic powder and cook for 1 minute, stirring constantly.",
+    "Add the fregula pasta and cook for 2-3 minutes, or until lightly toasted.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, or until the liquid has been absorbed and the pasta is cooked through.",
+    "Stir in the thawed mixed berries, dried thyme, and lemon juice.",
+    "Cook for an additional 2-3 minutes, or until the berries have started to break down and the mixture is heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a sprinkle of pine nut meal, if desired.",
+    "Garnish with edible flowers or herbs, if desired for a pop of color.",
+    "Serve immediately and enjoy!",
+    "Refrigerate any leftovers for up to 3 days and reheat as needed.",
+    "Freeze for up to 2 months and thaw as needed"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jammed-free-spanish-berries-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammed-free-spanish-berries-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "smoke-cold",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "dairy-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "berries",
+    "descriptor": "jammed free",
+    "dishForm": "Paella"
+  }
+}

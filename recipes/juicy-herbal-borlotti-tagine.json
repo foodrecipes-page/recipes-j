@@ -1,0 +1,74 @@
+{
+  "title": "Juicy Herbal Borlotti Tagine",
+  "description": "A flavorful and nutritious Saudi-Arabian style tagine made with borlotti beans, herbs, and spices, perfect for a comforting solo dinner.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the borlotti beans, saffron threads, cumin seeds, coriander seeds, and bay leaf.",
+    "Pour in 200ml of water, cover the tagine, and bring to a boil.",
+    "Reduce the heat to low and simmer for 25 minutes, or until the borlotti beans are al dente and the liquid has reduced.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "herbivore-friendly",
+    "one-pan",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "juicy-herbal-borlotti-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-herbal-borlotti-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "borlotti beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "juicy herbal",
+    "dishForm": "tagine"
+  }
+}

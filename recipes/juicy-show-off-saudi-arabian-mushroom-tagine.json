@@ -1,0 +1,122 @@
+{
+  "title": "juicy show-off saudi-arabian mushroom tagine",
+  "description": "a flavorful and aromatic north african-inspired dish featuring sautéed mushrooms and aromatic spices",
+  "cuisine": "saudi-arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large ceramic tagine over medium heat.",
+    "sauté the onion and garlic until softened, about 5 minutes.",
+    "add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "add the chicken broth, date syrup, cumin, coriander, cinnamon, and cayenne pepper to the tagine.",
+    "stir to combine and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes, or until the flavors have melded together and the sauce has thickened.",
+    "season with flaky sea salt to taste.",
+    "garnish with parsley and dill before serving.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "mushroom",
+    "north-african",
+    "saudi-arabian",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-show-off-saudi-arabian-mushroom-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-show-off-saudi-arabian-mushroom-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mushroom",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "mushroom",
+    "descriptor": "juicy show-off",
+    "dishForm": "tagine"
+  }
+}

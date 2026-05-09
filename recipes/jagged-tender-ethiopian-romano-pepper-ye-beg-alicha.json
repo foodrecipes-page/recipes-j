@@ -1,0 +1,127 @@
+{
+  "title": "Jagged Tender Ethiopian Romano Pepper Ye-Beg-Alicha",
+  "description": "Mustardy, tender, and comforting, this Ethiopian dish features Romano pepper in a flavorful long-fermentation-dough. A plant-based-friendly hangover remedy and breakfast staple.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Romano pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Injera flour",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "filtered and cooled."
+    },
+    {
+      "name": "Ethiopian spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "1 tsp",
+      "notes": "optional."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped."
+    },
+    {
+      "name": "Niter kibbeh",
+      "amount": "2 tsp",
+      "notes": "Ethiopian clarified butter."
+    }
+  ],
+  "instructions": [
+    "Combine Injera flour and water in a large mixing bowl to form a smooth dough. Let the dough rest for 30 minutes, then knead for 10 minutes. Divide the dough into 4-6 equal portions, depending on desired size. Shape each portion into a ball and flatten slightly into a disk. Heat a non-stick skillet or griddle over medium-high heat. Cook each injera for 1-2 minutes on each side, until slightly charred and puffed. Meanwhile, heat vegetable oil in a small saucepan over medium heat. Add onion and cook for 5 minutes, until softened. Add garlic and cook for another minute. Stir in Ethiopian spice mix, ginger, cumin, turmeric, paprika, and salt. Cook for 1 minute, until fragrant. Add chopped Romano pepper and cook for 3-4 minutes, until tender. Stir in mustard oil (if using). Warm injera disks by wrapping them in a damp cloth and microwaving for 20-30 seconds. Serve each injera with a spoonful of the Romano pepper mixture and a sprinkle of chopped cilantro. Drizzle with Niter kibbeh (if using).",
+    "Add chopped fresh cilantro as garnish (if desired).",
+    "Serve immediately, alongside a steaming cup of Ethiopian coffee or tea."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "ethiopian-cuisine",
+    "morning",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-tender-ethiopian-romano-pepper-ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "romano pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pepper",
+    "descriptor": "jagged tender",
+    "dishForm": null
+  }
+}
