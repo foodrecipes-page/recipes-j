@@ -3650,6 +3650,21 @@
     "shard": "j"
   },
   {
+    "slug": "jerked-crisp-algerian-chicken-kebabs",
+    "title": "Jerked Crisp Algerian Chicken Kebabs",
+    "tags": [
+      "algerian-cuisine",
+      "crispy-outside",
+      "gluten-free",
+      "grilled-chicken",
+      "juicy-inside",
+      "paleo-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
     "slug": "jerked-jamaican-chicken-paella",
     "title": "Jerked Jamaican Chicken Paella",
     "tags": [
@@ -10553,6 +10568,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-nutty-moroccan-chickpea-tagine",
+    "title": "Juicy Nutty Moroccan Chickpea Tagine",
+    "tags": [
+      "chickpea-recipes",
+      "macrobiotic-friendly",
+      "meal-prep",
+      "moroccan-cuisine",
+      "nutty-flavors",
+      "one-pot"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {

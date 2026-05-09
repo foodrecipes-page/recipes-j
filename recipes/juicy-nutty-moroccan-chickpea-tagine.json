@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Nutty Moroccan Chickpea Tagine",
+  "description": "A creamy and nutty Moroccan dish featuring chickpeas, chopped parsley, and infused oil, perfect for meal prep. This macrobiotic-friendly recipe is a delicious and healthy option for any time of day.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the cumin, coriander, and paprika and cook for 1 minute.",
+    "Add the chickpeas, almond butter, and lemon juice, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "macrobiotic-friendly",
+    "meal-prep",
+    "moroccan-cuisine",
+    "nutty-flavors",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-nutty-moroccan-chickpea-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-nutty-moroccan-chickpea-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:47:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chopped parsley",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Juicy Nutty",
+    "dishForm": "Tagine"
+  }
+}
