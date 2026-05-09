@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Roasted Norwegian Beef Hash",
+  "description": "A hearty Norwegian dish featuring roasted mixed beef cuts, pickle, and low-sodium ingredients, perfect for a filling meal. This recipe is designed to be low-sodium-friendly and energizing.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the beef cubes with 1 tablespoon of olive oil, salt-free seasoning blend, and black pepper until they are evenly coated.",
+    "Spread the beef cubes in a single layer on a large baking sheet and roast in the oven for 20 minutes.",
+    "While the beef is roasting, toss the chopped onion, carrot, and potato with the remaining 1 tablespoon of olive oil in a separate bowl until they are evenly coated.",
+    "After the beef has roasted for 20 minutes, add the tossed vegetables to the baking sheet with the beef and continue to roast for an additional 20 minutes.",
+    "Remove the baking sheet from the oven and stir in the diced pickle.",
+    "Return the baking sheet to the oven and roast for an additional 10 minutes, or until the beef and vegetables are tender and lightly browned.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving.",
+    "Serve the juicy roasted Norwegian beef hash hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "breakfast-recipe",
+    "hearty-meal",
+    "low-sodium",
+    "norwegian-cuisine",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-roasted-norwegian-beef-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-norwegian-beef-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:27:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Hash"
+  }
+}
