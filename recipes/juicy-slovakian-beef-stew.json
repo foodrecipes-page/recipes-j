@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Slovakian Beef Stew",
+  "description": "A hearty one-pot Slovakian dish featuring mixed beef cuts in a rich buttery sauce, cooked to perfection in a lazy Susan spinner, this recipe is ayurvedic tamasic friendly and has a nice char grill yang flavor",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in the lazy Susan spinner over medium heat",
+    "Add the beef cubes and cook until browned on all sides",
+    "Remove the browned beef from the spinner and set aside",
+    "Add the remaining 2 tablespoons of butter to the spinner and saute the onion until softened",
+    "Add the carrots and potatoes to the spinner and cook for 5 minutes",
+    "Add the flour to the spinner and stir to combine",
+    "Gradually add the beef broth to the spinner, whisking continuously",
+    "Return the browned beef to the spinner and season with salt and pepper",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "slovakian-cuisine",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "juicy-slovakian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-slovakian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "juicy char-grilled",
+    "dishForm": "Stew"
+  }
+}

@@ -10547,6 +10547,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-slovakian-beef-stew",
+    "title": "Juicy Slovakian Beef Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "slovakian-cuisine",
+      "winter-meal"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 120,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-slovakian-sea-bass-tagine",
     "title": "Juicy Slovakian Sea Bass Tagine",
     "tags": [
@@ -11233,6 +11247,21 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-irish-blackberry-cobbler",
+    "title": "Juicy Sweet Irish Blackberry Cobbler",
+    "tags": [
+      "bamboo-steamer",
+      "dairy-free",
+      "fruit-dessert",
+      "irish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
