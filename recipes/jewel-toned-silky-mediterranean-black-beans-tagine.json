@@ -1,0 +1,98 @@
+{
+  "title": "Jewel Toned Silky Mediterranean Black Beans Tagine",
+  "description": "A rich and flavorful Mediterranean dish featuring fermented black beans, this tagine is perfect for a midnight craving. It is dairy-free-friendly and cooked in an agave-leaf vessel.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the agave-leaf vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper.",
+    "Add the fermented black beans and cook for 10 minutes, stirring occasionally.",
+    "Stir in the agave nectar and continue cooking for an additional 5 minutes.",
+    "Use a mortar and pestle to pound the mixture to a silky consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "mediterranean",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jewel-toned-silky-mediterranean-black-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-silky-mediterranean-black-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:58:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "fermented black beans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "black beans",
+    "descriptor": "Jewel toned silky",
+    "dishForm": "Tagine"
+  }
+}
