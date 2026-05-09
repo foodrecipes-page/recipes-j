@@ -1,0 +1,105 @@
+{
+  "title": "Jubilant Creamy Ethiopian Natto Onigiri",
+  "description": "A floral and creamy Ethiopian dish featuring natto, shaped into nigiri and perfect for a keto-friendly brunch, this recipe combines unique flavors for a delightful meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Soften the cream cheese in the microwave for 10 seconds.",
+    "Mix the softened cream cheese with lemon juice, garlic, and berbere spice in a bowl.",
+    "Add the natto to the bowl and mix until well combined.",
+    "Cut the injera bread into small squares.",
+    "Place a small amount of the natto mixture onto the center of each injera square.",
+    "Fold the injera squares into triangles to form onigiri shapes.",
+    "Brush the tops of the onigiri with ghee.",
+    "Sprinkle sesame seeds and scallions on top of the onigiri.",
+    "Place the onigiri on a baking sheet lined with parchment paper and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "keto-friendly",
+    "natto-recipes",
+    "onigiri-variations"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "jubilant-creamy-ethiopian-natto-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-creamy-ethiopian-natto-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:49:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "natto",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "natto",
+    "descriptor": "Jubilant creamy",
+    "dishForm": "Onigiri"
+  }
+}
