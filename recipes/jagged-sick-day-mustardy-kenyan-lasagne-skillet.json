@@ -1,0 +1,120 @@
+{
+  "title": "Jagged, sick-day mustardy Kenyan Lasagne Skillet",
+  "description": "A dense, comfort food-inspired dish featuring lasagne sheets, mustardy flavors, and a unique take on traditional Kenyan cuisine. Cook this in a cast-iron skillet for a hearty meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "2 tbsp",
+      "notes": "fresh parsley also works"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use high heat cooking oil if available"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "or ground turkey, chicken, or beans for a vegetarian option"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large cast-iron skillet over medium-high heat.",
+    "Cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until translucent.",
+    "Add the canned tomatoes and stir to combine with the meat and onion mixture.",
+    "Add the mustard, parsley, oregano, and garlic powder, and cook for 1-2 minutes, stirring constantly.",
+    "Add the lasagne sheets to the skillet, slightly overlapping them to cover the bottom.",
+    "Cook for 2-3 minutes, until the sheets start to soften.",
+    "Add salt and black pepper to taste, then transfer the skillet to the oven.",
+    "Bake at 375°F for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and top with crumbled feta cheese, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 37,
+    "fat": 24
+  },
+  "slug": "jagged-sick-day-mustardy-kenyan-lasagne-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-sick-day-mustardy-kenyan-lasagne-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:28:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Lasagne",
+    "descriptor": "Jagged, sick-day mustardy",
+    "dishForm": "Skillet"
+  }
+}
