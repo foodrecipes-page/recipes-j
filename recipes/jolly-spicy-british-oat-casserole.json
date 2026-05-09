@@ -1,0 +1,101 @@
+{
+  "title": "Jolly Spicy British Oat Casserole",
+  "description": "A spicy and flaky British dish featuring ground oats, perfect for a lazy Sunday, and is FODMAP-friendly. This recipe uses a pressure cooker and is served in a tagliere.",
+  "cuisine": "British",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a pan over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, carrot, and celery to the pan and cook until the vegetables are softened.",
+    "Stir in the tomato paste, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Add the ground oats to the pan and stir to combine.",
+    "Transfer the mixture to a pressure cooker and cook on high pressure for 10 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Transfer the casserole to a tagliere and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "lazy-sunday",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jolly-spicy-british-oat-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-spicy-british-oat-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:54:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground oats",
+    "diet": "fodmap",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "oats",
+    "descriptor": "jolly spicy",
+    "dishForm": "Casserole"
+  }
+}
