@@ -1,0 +1,96 @@
+{
+  "title": "Jagged Dense Korean Lettuce Stew",
+  "description": "A fermented, dense, and plant-based friendly stew featuring iceberg lettuce, cooked in a ttukbaegi earthenware pot, inspired by monsoon season Polish and Korean flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "diced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chopped iceberg lettuce and cook until wilted, about 5 minutes.",
+    "Add the gochujang, soy sauce, and diced tofu, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped scallions and serve hot.",
+    "Let the stew cool, then refrigerate overnight to allow the flavors to meld.",
+    "Reheat the stew over low heat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "korean-inspired",
+    "monsoon-season",
+    "one-pot",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "jagged-dense-korean-lettuce-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-dense-korean-lettuce-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:33:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lettuce",
+    "descriptor": "Jagged Dense",
+    "dishForm": "Stew"
+  }
+}
