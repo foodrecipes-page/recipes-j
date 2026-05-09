@@ -1,0 +1,93 @@
+{
+  "title": "Jubilant Tender Slovakian Milk Pudding",
+  "description": "A traditional Slovakian dessert featuring sweetened condensed milk, this pudding is earthy, tender, and indulgent, making it a perfect treat for any occasion. It is also ayurvedic-rajasic-friendly, making it suitable for those following this dietary approach.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sweetened condensed milk, whole milk, and unsalted butter, and heat over medium heat, stirring constantly, until the butter has melted and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the cornstarch and a splash of the hot milk mixture until smooth, then return the mixture to the saucepan and continue to heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer, stirring constantly, for 2 minutes, or until the pudding has thickened.",
+    "Remove the saucepan from the heat and stir in the vanilla extract, honey, and salt.",
+    "Strain the pudding into a clean bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap, pressing the wrap directly onto the surface of the pudding to prevent a skin from forming.",
+    "Refrigerate the pudding for at least 2 hours, or until chilled and set.",
+    "Just before serving, whip the heavy cream, if using, until stiff peaks form, and top the pudding with the whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indulgent",
+    "milk-pudding",
+    "slovakian",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jubilant-tender-slovakian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-tender-slovakian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:20:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "milk",
+    "descriptor": "jubilant tender",
+    "dishForm": "Pudding"
+  }
+}
