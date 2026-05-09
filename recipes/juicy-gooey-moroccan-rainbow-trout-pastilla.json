@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Gooey Moroccan Rainbow Trout Pastilla",
+  "description": "A flavorful Moroccan dish featuring rainbow trout, herbal spices, and a gooey texture, shaped into a pastilla and perfect for adventurous eaters, this recipe is also anti-inflammatory friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wheat pastry dough",
+      "amount": "1 package",
+      "notes": "gluten-free alternative available"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the wheat pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of chopped onion and grated ginger in the center of each dough circle.",
+    "Place a rainbow trout fillet on top of the onion mixture, shaping it into a nigiri shape.",
+    "Fold the dough over the trout to form a triangle or square shape, pressing the edges together to seal the pastilla.",
+    "Brush the tops of the pastillas with olive oil and sprinkle with cumin, paprika, and turmeric.",
+    "Bake the pastillas in the preheated oven for 20 minutes, or until golden brown.",
+    "Remove the pastillas from the oven and let them cool for a few minutes.",
+    "Serve the pastillas hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "moroccan-cuisine",
+    "one-pan",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-gooey-moroccan-rainbow-trout-pastilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-gooey-moroccan-rainbow-trout-pastilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:57:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rainbow trout",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "Juicy Gooey",
+    "dishForm": "Pastilla"
+  }
+}
