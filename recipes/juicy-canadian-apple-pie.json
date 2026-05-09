@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Canadian Apple Pie",
+  "description": "A tangy and crunchy Canadian dish featuring candied peel and a flaky crust, made with plant-based friendly ingredients, perfect for a nostalgic treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "cold unsalted vegan butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apples",
+      "amount": "6-8 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the cold vegan butter and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the plant-based milk, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a circle, about 1/8 inch thick.",
+    "In a separate large bowl, combine the sliced apples, candied peel, lemon juice, and cornstarch, and toss until the apples are evenly coated.",
+    "Transfer the apple mixture to the center of the dough circle, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the apples, pressing gently to seal.",
+    "Brush the crust with a little plant-based milk and sprinkle with sugar.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the apples are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-baking",
+    "canadian-classic",
+    "comfort-food",
+    "homemade-pie",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "juicy-canadian-apple-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-apple-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:16:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "candied peel",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "apples",
+    "descriptor": "juicy crunchy",
+    "dishForm": "Pie"
+  }
+}

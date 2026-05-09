@@ -4929,6 +4929,21 @@
     "shard": "j"
   },
   {
+    "slug": "jewish-style-syrian-cabbage-stew",
+    "title": "Syrian Cabbage Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healthy",
+      "one-pot",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jfestive-bacon-lardon-wrap-cazuela",
     "title": "JFestive Bacon Lardon Wrap Cazuela",
     "tags": [
@@ -8365,6 +8380,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-canadian-apple-pie",
+    "title": "Juicy Canadian Apple Pie",
+    "tags": [
+      "autumn-baking",
+      "canadian-classic",
+      "comfort-food",
+      "homemade-pie",
+      "plant-based"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
