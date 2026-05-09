@@ -1,0 +1,96 @@
+{
+  "title": "Jammy Tender Indian Rice Khichdi",
+  "description": "A solo dinner Indian dish featuring pecorino romano and dashi extract, this khichdi is jammy, tender, and gluten free friendly. It is a Tamil inspired recipe with a unique blend of flavors.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Indian rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "mung dal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pecorino romano",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add mung dal and cook for 1 minute, stirring constantly.",
+    "Add Indian rice and cook for 1 minute, stirring constantly.",
+    "Add water, salt, turmeric, and dashi extract to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight fitting lid, and simmer for 15 minutes.",
+    "Stir in grated pecorino romano and continue to simmer for 5 minutes, or until the khichdi is jammy and tender.",
+    "Remove the saucepan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "tamil-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jammy-tender-indian-rice-khichdi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-tender-indian-rice-khichdi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:13:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "gluten-free",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "jammy tender",
+    "dishForm": "Khichdi"
+  }
+}
