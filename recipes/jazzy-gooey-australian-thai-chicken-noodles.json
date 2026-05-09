@@ -1,0 +1,108 @@
+{
+  "title": "Jazzy Gooey Australian Thai Chicken Noodles",
+  "description": "A floral and gooey Australian dish featuring Thai holy basil krapao and tandoor flavors, perfect for a sick day, and diabetic friendly.",
+  "cuisine": "Australian Thai",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low carb noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the grated ginger, Thai holy basil, tandoor spice mix, salt, and black pepper to the skillet and stir to combine.",
+    "Cook for 1 minute, until the basil is wilted.",
+    "Add the fish sauce, lime juice, and gochujang sauce to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2 minutes, until the sauce has thickened.",
+    "Cook the low carb noodles according to the package instructions and drain.",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and sauce.",
+    "Reduce the heat to low and simmer the mixture for 2 minutes, until the noodles are well coated with the sauce.",
+    "Serve the Jazzy Gooey Australian Thai Chicken Noodles hot, garnished with additional Thai holy basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "chicken-noodles",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "sick-day",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jazzy-gooey-australian-thai-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-gooey-australian-thai-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:59:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Australian Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Jazzy Gooey",
+    "dishForm": "Noodles"
+  }
+}
