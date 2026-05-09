@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Argentinian Chorizo Empanadas",
+  "description": "Savory empanadas filled with spicy Argentine chorizo and topped with fresh cilantro. Perfect for a post-workout meal or snack.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "argentinian chorizo",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt. Gradually add the cold butter and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic. Place in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass. You should be able to get about 12 circles.",
+    "In a pan over medium heat, cook the chorizo, breaking it up with a spoon as it cooks, until it is no longer pink, about 5 minutes.",
+    "Add the diced onion and minced garlic to the pan and cook until the onion is translucent, about 3 minutes.",
+    "Place a tablespoon of the chorizo mixture onto one half of each dough circle. Brush the edges with a little water, then fold the dough in half and press the edges together with a fork to seal.",
+    "In a small bowl, beat the eggs and mix with the chopped cilantro. Brush the tops of the empanadas with the egg wash.",
+    "Place the empanadas on the prepared baking sheet and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "chorizo-filled-empanadas",
+    "cilantro-topped-empanadas",
+    "post-workout-meals",
+    "savory-empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "juicy-argentinian-chorizo-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-chorizo-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:34:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "cilantro",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Juicy",
+    "dishForm": "Empanadas"
+  }
+}
