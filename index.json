@@ -508,6 +508,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-juicy-canadian-corn-wrap",
+    "title": "Jagged Juicy Canadian Corn Wrap",
+    "tags": [
+      "canadian",
+      "corn-based",
+      "flexitarian",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-juicy-chinese-baby-aubergine-congee",
     "title": "Jagged Juicy Chinese Baby Aubergine Congee",
     "tags": [

@@ -1,0 +1,88 @@
+{
+  "title": "Jagged Juicy Canadian Corn Wrap",
+  "description": "A flexitarian-friendly Canadian dish featuring miso-marinated ingredients wrapped in a corn husk, with a sour and shattering texture from the crunchy corn and tangy slaw. This one-pot meal is perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic clove",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine minced garlic and miso paste, cooking over medium heat for 2 minutes.",
+    "Add canadian bacon to the pot, cooking until browned, about 5 minutes.",
+    "Add shredded red cabbage and grated carrots to the pot, cooking until they start to soften, about 3 minutes.",
+    "In a small bowl, whisk together apple cider vinegar and 2 tablespoons of water, then pour the mixture over the cabbage and carrots.",
+    "Reduce heat to low and let the mixture simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, prepare the corn husks by soaking them in water for 5 minutes, then wrapping each one around a portion of the mixture.",
+    "Serve the wraps hot, garnished with additional shredded cabbage and carrots if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "corn-based",
+    "flexitarian",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jagged-juicy-canadian-corn-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-juicy-canadian-corn-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:27:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "garlic clove",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "corn",
+    "descriptor": "jagged juicy",
+    "dishForm": "Wrap"
+  }
+}
