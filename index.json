@@ -7173,6 +7173,21 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-smoky-egyptian-flatbread",
+    "title": "Jubilant Smoky Egyptian Flatbread",
+    "tags": [
+      "flatbread",
+      "grilled",
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "middle-eastern",
+      "smoky-flavor"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-smoky-german-bananas-skillet",
     "title": "Jubilant Smoky German Bananas Skillet",
     "tags": [
