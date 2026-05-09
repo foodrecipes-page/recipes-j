@@ -1,0 +1,106 @@
+{
+  "title": "Jubilant Silky Venezuelan Oats Empanadas",
+  "description": "A festive Venezuelan dish featuring oats and a silky texture, made with a yeasty dough and a deglaze sauce, perfect for a snack or dessert. This recipe is nut-free-friendly, making it accessible to those with nut allergies.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for deglaze sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine oats, flour, yeast, sugar, and salt.",
+    "Gradually add vegetable oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle and place a tablespoon of melted butter in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg and bake for 20 minutes.",
+    "While the empanadas are baking, prepare the deglaze sauce by melting the brown sugar in a saucepan over low heat.",
+    "Remove the empanadas from the oven and brush them with the deglaze sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "nut-free",
+    "oat-based",
+    "snack-time",
+    "south-american",
+    "vegetarian-friendly",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jubilant-silky-venezuelan-oats-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-silky-venezuelan-oats-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:25:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "oats",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "oats",
+    "descriptor": "Jubilant Silky",
+    "dishForm": "Empanadas"
+  }
+}
