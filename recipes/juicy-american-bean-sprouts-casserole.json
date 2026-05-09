@@ -1,0 +1,100 @@
+{
+  "title": "Juicy American Bean Sprouts Casserole",
+  "description": "A low-fat, wine-infused American dish featuring chewy bean sprouts, perfect for meal prep. This casserole emulsifies flavors for a rich taste experience.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the ground turkey to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the tomato paste and cook for 1 minute, allowing the flavors to meld.",
+    "Add the red wine, chicken broth, and bean sprouts to the skillet, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook, covered, for 10 minutes, allowing the flavors to emulsify.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded low-fat cheddar cheese.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "bean-sprouts",
+    "casserole",
+    "low-fat",
+    "meal-prep",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "juicy-american-bean-sprouts-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-american-bean-sprouts-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:42:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "bean sprouts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "juicy chewy",
+    "dishForm": "Casserole"
+  }
+}
