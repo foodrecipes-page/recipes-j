@@ -6730,6 +6730,22 @@
     "shard": "j"
   },
   {
+    "slug": "jubilant-spanish-chestnut-mushroom-pulpo-a-la-gallega",
+    "title": "Jubilant Spanish Chestnut Mushroom Pulpo A La Gallega",
+    "tags": [
+      "aerated",
+      "brunch",
+      "herbal",
+      "one-pan",
+      "pescatarian",
+      "spanish",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jubilant-spicy-polish-sausage-skillet",
     "title": "Jubilant Spicy Polish Sausage Skillet",
     "tags": [
@@ -8686,6 +8702,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crunchy-american-chickpeas-flatbread",
+    "title": "Juicy Crunchy American Chickpeas Flatbread",
+    "tags": [
+      "american-cuisine",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {

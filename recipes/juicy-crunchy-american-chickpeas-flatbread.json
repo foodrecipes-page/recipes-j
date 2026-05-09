@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Crunchy American Chickpeas Flatbread",
+  "description": "A salty and crunchy American dish featuring hummus and infused oil, perfect for a date night, and friendly to shojin dietary preferences. This flatbread is a delicious and satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Spread hummus evenly over each piece of flatbread.",
+    "Drizzle infused oil over the hummus.",
+    "Sprinkle chickpeas over the oil.",
+    "Season with salt, pepper, garlic powder, and paprika.",
+    "Bake the flatbread in the preheated oven for 15 minutes.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-crunchy-american-chickpeas-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-american-chickpeas-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:22:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "hummus",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Juicy Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
