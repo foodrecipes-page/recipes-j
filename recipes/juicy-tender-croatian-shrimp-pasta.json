@@ -1,0 +1,104 @@
+{
+  "title": "Croatian Shrimp Pasta",
+  "description": "A cultured and juicy Croatian dish featuring shrimp, canola oil, and Mediterranean flavors, perfect for a date night.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large skillet over medium-high heat.",
+    "Add the garlic and onion and cook until the onion is translucent.",
+    "Add the shrimp and cook until they are pink and just cooked through.",
+    "Remove the shrimp from the skillet and set them aside.",
+    "Add the white wine and chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer for 2 minutes.",
+    "Cook the pasta in a large pot of boiling salted water until it is al dente.",
+    "Drain the pasta and add it to the skillet with the wine and broth mixture.",
+    "Toss the pasta in the skillet to combine with the sauce.",
+    "Return the shrimp to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-fat",
+    "mediterranean",
+    "pasta",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-tender-croatian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-croatian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:15:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "canola oil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "juicy tender",
+    "dishForm": "Pasta"
+  }
+}
