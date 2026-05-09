@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Molten Italian Carrots Orecchiette",
+  "description": "A vegan-friendly Italian dish featuring carrots and orecchiette, cooked to perfection on a robata-grill and shaped like nigiri, with a buttery and molten texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "orecchiette",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Cook the orecchiette according to package instructions and set aside.",
+    "In a large bowl, toss the sliced carrots with olive oil, salt, and black pepper until they are evenly coated.",
+    "Grill the carrots on the robata-grill for 5 minutes per side, or until they are tender and lightly charred.",
+    "In a small saucepan, melt the vegan butter over low heat and add the minced garlic.",
+    "Add the cooked orecchiette to the saucepan and toss with the garlic butter until the pasta is well coated.",
+    "To shape the orecchiette like nigiri, place a small amount of pasta in the center of a carrot slice and shape into a ball.",
+    "Serve the juicy molten Italian carrots orecchiette hot, garnished with nutritional yeast if desired.",
+    "Repeat the process with the remaining ingredients.",
+    "Let the dish cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-food",
+    "one-pan",
+    "robata-grill",
+    "vegan-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "juicy-molten-italian-carrots-orecchiette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-molten-italian-carrots-orecchiette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:31:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "carrots",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "carrots",
+    "descriptor": "Juicy Molten",
+    "dishForm": "Orecchiette"
+  }
+}
