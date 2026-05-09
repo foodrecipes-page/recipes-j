@@ -1,0 +1,93 @@
+{
+  "title": "Jammy Portuguese Peppercorn Bake",
+  "description": "A sweet and savory Portuguese dish featuring peppercorns, this bake is perfect for a special occasion, and is sugar-free-friendly. It is made in a copper pot and has a jammy, aerated texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "port wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, eggs, and melted butter until well combined.",
+    "In a separate bowl, whisk together the heavy cream, port wine, ground peppercorns, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and mix until smooth.",
+    "Pour the mixture into a copper pot and bake for 35 minutes.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Serve the bake warm, garnished with additional ground peppercorns if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "gluten-free",
+    "jammy-texture",
+    "portuguese-dish",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "jammy-portuguese-peppercorn-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-portuguese-peppercorn-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:20:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "peppercorns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peppercorns",
+    "descriptor": "jammy sweet",
+    "dishForm": "Bake"
+  }
+}
