@@ -1,0 +1,96 @@
+{
+  "title": "Jubilant Earthy Peruvian Beans Tacu Tacu",
+  "description": "A hearty and earthy Peruvian dish featuring pecorino cheese and whole30-friendly ingredients, served in a tacu tacu form",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned black beans",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the black beans and shock them in an ice bath to stop the cooking process",
+    "In a large pan, heat 1 tablespoon of oil over medium heat and saute the diced red onion until translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Stir in the crumbled pecorino cheese and cook until melted and well combined",
+    "Add the black beans, chopped cilantro, lime juice, salt, and black pepper to the pan and stir to combine",
+    "Using a spatula, shape the mixture into a tacu tacu form and cook for an additional 2-3 minutes on each side",
+    "Serve the tacu tacu hot and enjoy",
+    "Garnish with additional chopped cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jubilant-earthy-peruvian-beans-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-earthy-peruvian-beans-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:37:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "pecorino",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beans",
+    "descriptor": "Jubilant Earthy",
+    "dishForm": "Tacu Tacu"
+  }
+}
