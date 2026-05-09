@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Canadian Wild Garlic Dumplings",
+  "description": "A flexitarian-friendly Canadian dish featuring wild garlic leaves, fermented to perfection and steamed in a bamboo steamer, perfect for a weeknight dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly foraged or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt, whisking until well combined.",
+    "Gradually add warm water to the dry ingredients, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Prepare the wild garlic leaves by chopping them finely and sauteing them in vegetable oil until fragrant.",
+    "Punch down the fermented dough and divide it into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape and place a spoonful of the sauteed wild garlic leaves in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings in a bamboo steamer lined with parchment paper, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 15 minutes, or until they are cooked through and fluffy.",
+    "Serve the dumplings hot with a dipping sauce made from soy sauce and rice vinegar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dumplings",
+    "flexitarian",
+    "steamed",
+    "weeknight",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-canadian-wild-garlic-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-wild-garlic-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:47:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "wild garlic",
+    "descriptor": "juicy gooey",
+    "dishForm": "Dumplings"
+  }
+}
