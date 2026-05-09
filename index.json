@@ -3221,6 +3221,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-snappy-oaxacan-portobello-mushrooms-fajitas",
+    "title": "Jazzy Snappy Oaxacan Portobello Mushrooms Fajitas",
+    "tags": [
+      "fajita-style",
+      "lazy-sunday",
+      "mexican-inspired",
+      "one-pan",
+      "ovo-vegetarian",
+      "snappy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina",
     "title": "Jazzy Snappy Peruvian Potato Papas a la Huancaina",
     "tags": [
