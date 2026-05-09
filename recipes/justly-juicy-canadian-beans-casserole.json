@@ -1,0 +1,101 @@
+{
+  "title": "Justly Juicy Canadian Beans Casserole",
+  "description": "A sweet and silky Canadian dish featuring baked beans, perfect for a sick day, pescatarian-friendly and made with a papillote cooking method.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "1 16oz can",
+      "notes": "in tomato-based sauce"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 6oz pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the brown sugar, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Place the cod fillets in a large piece of aluminum foil or parchment paper, leaving space in the center for the beans.",
+    "Drizzle the lemon juice and olive oil over the cod fillets.",
+    "Spoon the baked beans over the cod fillets, leaving a small border around the edges.",
+    "Sprinkle the sugar and spice mixture evenly over the beans.",
+    "Fold the foil or parchment paper over the beans and cod, creating a papillote.",
+    "Place the papillote on a baking sheet and bake for 25 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "canadian",
+    "comfort-food",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "justly-juicy-canadian-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/justly-juicy-canadian-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:23:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "baked beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beans",
+    "descriptor": "justly juicy",
+    "dishForm": "Casserole"
+  }
+}

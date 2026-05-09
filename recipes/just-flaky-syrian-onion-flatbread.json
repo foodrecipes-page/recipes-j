@@ -1,0 +1,93 @@
+{
+  "title": "Syrian Onion Flatbread",
+  "description": "A traditional Syrian flatbread featuring caramelized onions and confit tomatoes, perfect for a light meal or snack, and carefully prepared to be onion and garlic friendly by using caramelized onions and no garlic at all.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the dough with olive oil and top with caramelized onions and confit tomatoes.",
+    "Bake the flatbreads in the preheated oven for 15 minutes, or until golden brown.",
+    "Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "lunch",
+    "middle-eastern",
+    "onion-free-alternative",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "just-flaky-syrian-onion-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/just-flaky-syrian-onion-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:24:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "confit-tomato",
+    "primaryIngredient": "onions",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "onions",
+    "descriptor": "Just flaky",
+    "dishForm": "Flatbread"
+  }
+}

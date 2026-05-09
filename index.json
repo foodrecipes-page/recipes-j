@@ -13816,6 +13816,21 @@
     "shard": "j"
   },
   {
+    "slug": "just-flaky-syrian-onion-flatbread",
+    "title": "Syrian Onion Flatbread",
+    "tags": [
+      "flatbread",
+      "lunch",
+      "middle-eastern",
+      "onion-free-alternative",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "just-silky-uruguayan-gouda-cheese-frittata",
     "title": "Silky Uruguayan Gouda Cheese Frittata",
     "tags": [
@@ -13859,6 +13874,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "justly-juicy-canadian-beans-casserole",
+    "title": "Justly Juicy Canadian Beans Casserole",
+    "tags": [
+      "baked",
+      "canadian",
+      "comfort-food",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
