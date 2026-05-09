@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Uruguayan Pistachio Wrap",
+  "description": "A pungent and macrobiotic-friendly dish featuring ground pistachios and fry-grind-rice-khao-khua, served in a corn husk wrap, perfect for a sick day. This Uruguayan dish is a unique and flavorful meal option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground pistachios, fry-grind-rice-khao-khua, olive oil, salt, black pepper, garlic powder, and dried parsley.",
+    "Spoon about 1/2 cup of the pistachio mixture onto the center of each corn husk.",
+    "Fold the sides of the corn husk over the filling and then roll up the wrap to form a tight cylinder.",
+    "Place the wraps seam-side down on a baking sheet lined with parchment paper.",
+    "Bake the wraps for 20 minutes, or until the corn husks are lightly browned and the filling is heated through.",
+    "Remove the wraps from the oven and let them cool for a few minutes before serving.",
+    "Serve the Jagged Uruguayan Pistachio Wraps hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wraps",
+    "macrobiotic",
+    "pistachio-based",
+    "sick-day-food",
+    "uruguayan-cuisine",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-uruguayan-pistachio-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-uruguayan-pistachio-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:08:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground pistachios",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pistachios",
+    "descriptor": "jagged glassy",
+    "dishForm": "Wrap"
+  }
+}
