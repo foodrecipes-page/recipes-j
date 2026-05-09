@@ -3,7 +3,6 @@
   "description": "A sweet and pillowy Brazilian dessert featuring coconut and a hint of spice, served in an agave leaf vessel. This dish is free from animal products, making it Buddhist-temple-friendly.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -68,8 +67,7 @@
     "coconut",
     "dessert",
     "easy-to-make",
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 320,

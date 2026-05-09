@@ -3,7 +3,6 @@
   "description": "A savory, shattering Turkish dish featuring butternut squash, wrapped in jade-leaf and cooked to perfection in a tandoor-clay pot.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -85,8 +84,7 @@
     "jade-leaves",
     "kofte",
     "tandoor",
-    "turkish",
-    "vegetarian"
+    "turkish"
   ],
   "nutrition": {
     "calories": 320,

@@ -83,7 +83,7 @@
     "mood": "show-off",
     "technique": "ferment-jang",
     "primaryIngredient": "refried beans",
-    "diet": "gluten-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "beans",

@@ -2,10 +2,7 @@
   "title": "Juicy Jellied Syrian Vegetables Wrap",
   "description": "A kid-friendly Syrian dish made with briny, snappy vegetables, featuring a robata-grill and served in a ti-leaf wrap. Perfect for a quick and easy lunch.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {

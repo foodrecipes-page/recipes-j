@@ -52,7 +52,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C). Wash and peel potatoes, then slice them into rounds about 1/8-inch thick.",
+    "Preheat oven to 375°F (190°C). Wash and peel potatoes, then slice them into rounds about 1/8-inch thick.",
     "In a large skillet with oil over medium heat, fry potato slices for about 2-3 minutes until golden brown on one side. Turn and continue frying until evenly golden and crisp. Remove from skillet and set aside.",
     "Melt butter in the same skillet over low-medium heat. Stir in sugar, cinnamon (if using), flour, and oats. Mix well to form a smooth paste. Add cold unsalted butter pieces and mix until crumbly and spreadable.",
     "Spread evenly on top of fried potatoes. Bake for about 20-25 minutes or until golden brown and crisp on top.",
@@ -86,7 +86,7 @@
     "mood": "crowd-pleaser",
     "technique": "grill",
     "primaryIngredient": "breadcrumbs",
-    "diet": "kosher",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "Potato",

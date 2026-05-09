@@ -3,9 +3,7 @@
   "description": "peppery, crisp, romantic ethiopian dish featuring worcestershire sauce, spherify, ayurvedic-rajasic-friendly, form=doro-wot, vessel=cataplana. Serve over injera or rice for a hearty meal.",
   "cuisine": "ethiopian",
   "diet": [
-    "vegan",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [

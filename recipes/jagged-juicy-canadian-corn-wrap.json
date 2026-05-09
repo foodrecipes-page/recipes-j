@@ -3,8 +3,7 @@
   "description": "A flexitarian-friendly Canadian dish featuring miso-marinated ingredients wrapped in a corn husk, with a sour and shattering texture from the crunchy corn and tangy slaw. This one-pot meal is perfect for a weeknight dinner.",
   "cuisine": "Canadian",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "dinner",
   "ingredients": [

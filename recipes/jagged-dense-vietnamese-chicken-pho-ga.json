@@ -3,8 +3,7 @@
   "description": "A bitter, dense, and indulgent Vietnamese dish featuring cornstarch and brine-wet chicken, this pho ga is a low-glycemic-friendly option for those looking for a hearty meal.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "low-glycemic",
     "one-pot",
     "vietnamese-cuisine"

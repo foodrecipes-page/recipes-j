@@ -3,8 +3,7 @@
   "description": "A midnight-craving Kenyan dish featuring lasagna sheets and a mustardy flavor, diabetic-friendly and cooked to perfection in a Dutch oven. This shattering dish is sure to satisfy any craving.",
   "cuisine": "Kenyan",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "In a large bowl, combine the cooked lasagna sheets, meat sauce, and mozzarella cheese.",
     "In a greased Dutch oven, create a thin layer of the meat sauce, followed by a layer of lasagna sheets, and then a layer of cheese, repeating this process until all ingredients are used, finishing with a layer of cheese on top.",
     "Cover the Dutch oven with a lid and bake for 30 minutes, then remove the lid and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
-    "Remove the lasagna from the oven and let it cool for a few minutes before serving."
+    "Remove the lasagna from the oven and let it cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -67,7 +67,6 @@
   "tags": [
     "diabetic-friendly",
     "dutch-oven",
-    "gluten-free",
     "kenyan-cuisine",
     "lasagna",
     "one-pan"

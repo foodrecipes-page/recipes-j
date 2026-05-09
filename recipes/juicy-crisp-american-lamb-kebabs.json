@@ -2,9 +2,7 @@
   "title": "Juicy Crisp American Lamb Kebabs",
   "description": "A flavorful and romantic American dish featuring lamb, perfect for a date night, with a pescatarian-friendly twist by substituting lamb with portobello mushrooms if needed, and the umami taste is enhanced by the use of soy sauce and balsamic vinegar, while the crisp is achieved by grilling the kebabs and the steam is added by serving with steamed vegetables",
   "cuisine": "American",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {

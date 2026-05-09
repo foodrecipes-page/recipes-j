@@ -3,7 +3,6 @@
   "description": "A creamy and mustardy Russian dish featuring sugar snap peas, this kid-friendly pilaf is perfect for a weeknight dinner. It is ayurvedic-tamasic-friendly and made with katsuramuki-cut sugar snap peas.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
     "kid-friendly"
   ],
   "meal": "dinner",
@@ -56,7 +55,8 @@
     "Stir in the sour cream and katsuramuki-cut sugar snap peas.",
     "Cook for an additional 2 minutes or until the peas are tender.",
     "Taste and adjust seasoning as needed.",
-    "If using grated cheddar cheese, sprinkle on top and serve hot."
+    "If using grated cheddar cheese, sprinkle on top and serve hot.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -68,7 +68,6 @@
     "easy-dinner",
     "kid-friendly",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

@@ -3,7 +3,6 @@
   "description": "A winey, crisp, and cozy French dish featuring cubed feta cheese and bonito flakes, perfect for a cold winter evening, and is dairy-free friendly by using non-dairy alternatives.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "french-cuisine",
     "gluten-free",
     "one-pan",
@@ -89,7 +87,7 @@
     "mood": "cozy",
     "technique": "bonito-shave",
     "primaryIngredient": "cubed feta cheese",
-    "diet": "dairy-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "feta cheese",

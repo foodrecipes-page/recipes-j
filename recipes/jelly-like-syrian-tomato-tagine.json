@@ -3,7 +3,6 @@
   "description": "A buttery, velvety, adventurous Syrian dish featuring tomato puree, perfect for a cold evening meal or a special occasion. This recipe is vegan-friendly and rich in flavors.",
   "cuisine": "Syrian",
   "diet": [
-    "vegan",
     "gluten-free",
     "vegetarian"
   ],
@@ -115,7 +114,7 @@
     "mood": "adventurous",
     "technique": "dehydrate",
     "primaryIngredient": "tomato puree",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "Tomato",

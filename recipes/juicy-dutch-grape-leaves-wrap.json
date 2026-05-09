@@ -83,7 +83,7 @@
     "mood": "energizing",
     "technique": "pickle",
     "primaryIngredient": "grape leaves",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "Grape Leaves",

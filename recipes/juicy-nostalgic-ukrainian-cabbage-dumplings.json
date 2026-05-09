@@ -2,9 +2,7 @@
   "title": "Juicy Nostalgic Ukrainian Cabbage Dumplings",
   "description": "Rich and juicy Ukrainian dish featuring elderflower and ferment-kimchi, made vegan-friendly, this recipe brings back nostalgic memories of traditional Eastern European cuisine. It is a hearty and flavorful meal that combines the best of Ukrainian ingredients and cooking techniques.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,8 +77,7 @@
     "fermented-food",
     "homemade",
     "traditional",
-    "ukrainian-cuisine",
-    "vegan"
+    "ukrainian-cuisine"
   ],
   "nutrition": {
     "calories": 420,
