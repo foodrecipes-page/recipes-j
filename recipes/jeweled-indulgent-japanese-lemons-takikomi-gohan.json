@@ -1,0 +1,103 @@
+{
+  "title": "Jeweled Indulgent Japanese Lemons Takikomi Gohan",
+  "description": "An earthy and pillowy Japanese dish featuring lemons, infused oil, and no onion or garlic, perfect for a special occasion. This takikomi-gohan is a flavorful and indulgent meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably koshihikari or akita komachi"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "such as yuzu or sesame oil"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and soak it in water for 30 minutes.",
+    "Drain the water and combine the rice with 2 1/4 cups of fresh water in a medium saucepan.",
+    "Add the rehydrated shiitake mushrooms, soy sauce, sake, mirin, and salt to the saucepan.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer for 18 minutes, or until the liquid is absorbed and the rice is cooked.",
+    "While the rice is cooking, heat the infused oil in a small saucepan over low heat.",
+    "Add the lemon wedges to the infused oil and cook for 5 minutes, or until they are slightly caramelized.",
+    "Once the rice is cooked, stir in the sesame seeds and cooked lemon wedges.",
+    "Serve the takikomi-gohan hot, garnished with additional sesame seeds and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "no-onion-no-garlic",
+    "one-pot",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jeweled-indulgent-japanese-lemons-takikomi-gohan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-indulgent-japanese-lemons-takikomi-gohan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:14:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "infuse-oil",
+    "primaryIngredient": "lemons",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lemons",
+    "descriptor": "Jeweled Indulgent",
+    "dishForm": "Takikomi Gohan"
+  }
+}
