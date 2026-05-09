@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Flaky Chinese Pork Dim Sum",
+  "description": "A traditional Chinese dim sum dish featuring pork and granulated sugar, baked to perfection in a wood-fired oven, with a mediterranean twist, served in a mason jar.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "mason jars",
+      "amount": "10 jars"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped pork, granulated sugar, soy sauce, sesame oil, and grated ginger, and mix well.",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the wrapper into a triangle, pressing the edges together to seal the dim sum.",
+    "Repeat the process with the remaining wrappers and pork mixture.",
+    "Place the dim sum in the mason jars, leaving about 1 inch of space at the top.",
+    "Cover the jars with a lid and bake for 15 minutes.",
+    "Remove the jars from the oven and let them cool for a few minutes.",
+    "Serve the dim sum hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 10,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dim-sum",
+    "mason-jar-recipes",
+    "mediterranean-inspired",
+    "pork-recipes",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "juicy-flaky-chinese-pork-dim-sum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-chinese-pork-dim-sum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:45:01Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "granulated sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Flaky",
+    "dishForm": "Dim Sum"
+  }
+}
