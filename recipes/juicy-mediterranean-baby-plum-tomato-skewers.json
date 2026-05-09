@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Mediterranean Baby Plum Tomato Skewers",
+  "description": "A briny and pillowy crowd-pleaser Mediterranean dish featuring baby plum tomatoes, render-fat, and ayurvedic-tamasic-friendly ingredients, served on a cedar plank.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rendered duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, duck fat, oregano, thyme, garlic, lemon zest, salt, and pepper.",
+    "Add the halved baby plum tomatoes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tomatoes onto skewers, leaving a small space between each tomato.",
+    "Place the skewers on a cedar plank and grill for 10-12 minutes, or until the tomatoes are tender and lightly charred.",
+    "Remove the skewers from the grill and let cool for a few minutes before serving.",
+    "Serve the tomato skewers warm, garnished with additional oregano and thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "gluten-free",
+    "grilled",
+    "mediterranean",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "juicy-mediterranean-baby-plum-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mediterranean-baby-plum-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:59:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "render-fat",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "baby plum tomatoes",
+    "descriptor": "juicy pillowy",
+    "dishForm": "Skewers"
+  }
+}
