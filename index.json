@@ -7975,6 +7975,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-argentinian-beef-toast",
+    "title": "Juicy Argentinian Beef Toast",
+    "tags": [
+      "argentinian",
+      "beef",
+      "cheesy",
+      "grilled",
+      "high-protein",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-argentinian-broccoli-gratin",
     "title": "Argentinian Broccoli Gratin",
     "tags": [

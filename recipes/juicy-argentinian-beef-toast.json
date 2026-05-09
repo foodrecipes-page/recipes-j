@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Argentinian Beef Toast",
+  "description": "A cultured and indulgent Argentinian dish featuring seasoned rice vinegar, toast, and high-protein beef, perfect for a satisfying snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together rice vinegar, olive oil, garlic powder, onion powder, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Grill the beef strips for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, toast the crusty bread slices until lightly browned.",
+    "Assemble the toast by placing a slice of provolone cheese on each toasted bread slice.",
+    "Top each cheese-topped bread slice with a few slices of grilled beef.",
+    "Drizzle any remaining marinade over the top of the beef and cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "cheesy",
+    "grilled",
+    "high-protein",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-argentinian-beef-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-beef-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:37:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy",
+    "dishForm": "Toast"
+  }
+}
