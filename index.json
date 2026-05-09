@@ -1463,6 +1463,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-saudi-arabian-egg-noodles",
+    "title": "Jammy Saudi Arabian Egg Noodles",
+    "tags": [
+      "low-sodium",
+      "middle-eastern",
+      "noodle-dish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-sesame-seed-tamagoyaki",
     "title": "Jammy Sesame Seed Tamagoyaki",
     "tags": [

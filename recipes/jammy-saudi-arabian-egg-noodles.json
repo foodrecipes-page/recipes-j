@@ -1,0 +1,93 @@
+{
+  "title": "Jammy Saudi Arabian Egg Noodles",
+  "description": "A cozy Saudi Arabian dish featuring egg noodles and agemono deep fry, low sodium friendly and perfect for a weeknight dinner",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "preferably low sodium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the egg noodles according to package instructions",
+    "In a large skillet, heat the vegetable oil over medium high heat",
+    "Add the sliced onion to the skillet and cook until it is lightly browned and crispy",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "In a small bowl, whisk together the tomato paste and water",
+    "Add the tomato paste mixture to the skillet and stir to combine",
+    "Add the cooked egg noodles to the skillet and stir to combine with the tomato paste mixture",
+    "Season with salt and black pepper to taste",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "middle-eastern",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jammy-saudi-arabian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-saudi-arabian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "jammy shattering",
+    "dishForm": "Noodles"
+  }
+}
