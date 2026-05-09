@@ -1,0 +1,92 @@
+{
+  "title": "Jubilant Dense Turkish Avocado Kazandibi",
+  "description": "A dense and creamy Turkish dessert featuring avocado hass pulp, served in a stone bowl dolsot, this dish is a unique hangover cure, cultured and gluten free friendly, formed as kazandibi and served in a copper mug.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "3 cups",
+      "notes": "ripe"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together milk, sugar, and rose water, and cook over medium heat, stirring constantly, until the sugar has dissolved.",
+    "In a small bowl, whisk together cornstarch and a splash of the warm milk mixture until smooth.",
+    "Add the cornstarch mixture back into the saucepan and cook, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the egg yolks and unsalted butter until well combined.",
+    "Fold in the avocado hass pulp until smooth and creamy.",
+    "Pour the mixture into a copper mug and refrigerate until chilled.",
+    "Top with chopped pistachio and serve in a stone bowl dolsot.",
+    "Garnish with additional rose water and pistachio if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado-based",
+    "copper-mug",
+    "gluten-free",
+    "hangover-cure",
+    "stone-bowl",
+    "turkish-delicacy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "jubilant-dense-turkish-avocado-kazandibi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dense-turkish-avocado-kazandibi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:04:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "avocado",
+    "descriptor": "Jubilant Dense",
+    "dishForm": "Kazandibi"
+  }
+}
