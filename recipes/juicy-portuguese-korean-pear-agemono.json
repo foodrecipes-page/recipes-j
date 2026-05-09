@@ -1,0 +1,98 @@
+{
+  "title": "juicy portuguese korean-pear agemono",
+  "description": "A crowd-pleasing, low-carb-friendly dish featuring the sweetness of Korean pear in a crispy Portuguese-style agemono deep-fry. A unique fusion of flavors and textures.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "korean pear",
+      "amount": "1 medium",
+      "notes": "peeled and sliced into wedges"
+    },
+    {
+      "name": "portuguese-style breadcrumbs",
+      "amount": "1 cup",
+      "notes": "panko-style, gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten, for coating"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free, for dusting"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 cup",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, garlic powder, and black pepper for dusting.",
+    "In a separate dish, beat eggs for coating.",
+    "In a third dish, mix together breadcrumbs and grated ginger for coating.",
+    "Dip each pear wedge into flour, then eggs, then breadcrumb mixture, making sure to coat evenly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "fusion",
+    "korean-pear",
+    "low-carb",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "juicy-portuguese-korean-pear-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-portuguese-korean-pear-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "korean-pear",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "korean-pear",
+    "descriptor": "juicy",
+    "dishForm": "agemono"
+  }
+}
