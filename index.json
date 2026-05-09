@@ -1343,6 +1343,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-juicy-thai-fish-kao-mun-gai",
+    "title": "Jammy Juicy Thai Fish Kao Mun Gai",
+    "tags": [
+      "jammy-sauce",
+      "one-pan",
+      "pescatarian",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-light-argentinian-bok-choi-gyoza",
     "title": "Jammy Light Argentinian Bok Choi Gyoza",
     "tags": [
