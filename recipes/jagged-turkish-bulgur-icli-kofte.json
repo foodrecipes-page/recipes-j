@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Turkish Bulgur Icli Kofte",
+  "description": "A traditional Turkish dish featuring red pepper paste, bulgur, and spices, wrapped in lotus leaves, this recipe is a jain-friendly, energizing meal option. It has a bitter and pillowy texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, paprika, and salt"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 30 minutes.",
+    "Heat the olive oil in a pan and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the red pepper paste, spices, and salt, and stir well.",
+    "Add the soaked bulgur to the pan and stir to combine with the spice mixture.",
+    "Add the lemon juice and stir well.",
+    "Prepare the lotus leaves by washing and cutting them into large squares.",
+    "Place a tablespoon of the bulgur mixture in the center of each lotus leaf square.",
+    "Fold the lotus leaf squares into triangles to enclose the filling.",
+    "Steam the wrapped kofte for 10 minutes.",
+    "Serve the jagged Turkish bulgur icli kofte hot."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bulgur-based",
+    "high-fiber",
+    "jain-friendly",
+    "lotus-leaf",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "jagged-turkish-bulgur-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-turkish-bulgur-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "red pepper paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bulgur",
+    "descriptor": "jagged pillowy",
+    "dishForm": "Icli Kofte"
+  }
+}
