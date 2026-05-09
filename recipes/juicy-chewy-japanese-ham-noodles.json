@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Chewy Japanese Ham Noodles",
+  "description": "A floral and chewy Japanese dish featuring ham and steamed noodles, finished with a dash-friendly polish",
+  "cuisine": "Japanese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese ham",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring the dashi broth to a boil in a large pot",
+    "Add the noodles to the pot and cook for 5 minutes",
+    "Remove the noodles from the pot and set aside",
+    "Add the mirin, soy sauce, and sake to the pot and stir to combine",
+    "Add the sliced ham to the pot and cook for 2 minutes",
+    "Add the cooked noodles back to the pot and stir to combine with the ham and sauce",
+    "Transfer the noodles to a serving dish and garnish with chopped green onions and sesame seeds",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "japanese-cuisine",
+    "noodle-dish",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "juicy-chewy-japanese-ham-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-chewy-japanese-ham-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:20:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ham",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ham",
+    "descriptor": "Juicy Chewy",
+    "dishForm": "Noodles"
+  }
+}
