@@ -1,0 +1,96 @@
+{
+  "title": "Jubilant Smoky German Bananas Skillet",
+  "description": "A one-pot German dish featuring fried ripe bananas with a smoky flavor, this recipe is gluten-free friendly and perfect for a snack or dessert. The combination of briny and flaky textures creates a delightful experience.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and cook the diced smoked bacon until crispy.",
+    "Remove the bacon from the skillet and set aside on a paper towel-lined plate.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced bananas to the skillet and cook for 2-3 minutes on each side, until caramelized.",
+    "In a small bowl, whisk together the potato starch, eggs, salt, and black pepper.",
+    "Pour the egg mixture over the bananas and onions in the skillet.",
+    "Cook for an additional 2-3 minutes, until the eggs are set.",
+    "Return the cooked bacon to the skillet and stir to combine.",
+    "Serve the Jubilant Smoky German Bananas Skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-based",
+    "brunch",
+    "german-inspired",
+    "gluten-free",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jubilant-smoky-german-bananas-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-smoky-german-bananas-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:07:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "smoke",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "bananas",
+    "descriptor": "Jubilant Smoky",
+    "dishForm": "Skillet"
+  }
+}
