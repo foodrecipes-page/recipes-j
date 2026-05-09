@@ -1,0 +1,95 @@
+{
+  "title": "Juicy British Chicken Casserole",
+  "description": "A garlicky and pillowy British dish featuring pistachio paste, this casserole is kid-friendly and paleo-friendly, with a smoky flavor from the cold-smoked paprika.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pistachio paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cold-smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the pistachio paste, cold-smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the pistachio mixture.",
+    "Transfer the chicken to a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the coconut milk and arrowroot powder.",
+    "Pour the coconut milk mixture over the chicken in the baking dish.",
+    "Bake the casserole in the preheated oven for 35 minutes.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "casserole",
+    "garlicky",
+    "kid-friendly",
+    "paleo",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "juicy-british-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-british-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:29:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pistachio paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy garlicky",
+    "dishForm": "Casserole"
+  }
+}
