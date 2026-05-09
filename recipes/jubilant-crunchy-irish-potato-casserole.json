@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Crunchy Irish Potato Casserole",
+  "description": "A fatty and crunchy Irish dish featuring tomato puree and coconut cream, perfect for a crowd, and jain-friendly. This casserole is a unique blend of flavors and textures.",
+  "cuisine": "Irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and chopped onion.",
+    "In a separate bowl, mix the tomato puree and coconut cream.",
+    "Add the minced garlic, salt, and pepper to the tomato mixture and stir well.",
+    "Grease a 9x13 inch baking dish with the olive oil.",
+    "Create a layer of potatoes in the baking dish, followed by a layer of the tomato mixture.",
+    "Repeat the layers until all the ingredients are used, ending with a layer of potatoes on top.",
+    "Sprinkle the crushed crackers over the top layer of potatoes.",
+    "Bake the casserole in the preheated oven for 45 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "irish-food",
+    "jain-friendly",
+    "potato-casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jubilant-crunchy-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-crunchy-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:04:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "tomato puree",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "jubilant crunchy",
+    "dishForm": "Casserole"
+  }
+}
