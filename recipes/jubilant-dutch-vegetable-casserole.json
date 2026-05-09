@@ -1,0 +1,103 @@
+{
+  "title": "Jubilant Dutch Vegetable Casserole",
+  "description": "A floral and velvety Dutch dish featuring cornstarch and bhuna, perfect for a romantic evening, this vegetarian-friendly casserole is a delight to the senses. It combines the richness of vegetables and spices to create a truly unique taste experience.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the sliced carrots and cubed potatoes to the pan, cooking for 10 minutes or until they are slightly tender.",
+    "In a small bowl, mix the bhuna spice mix with the cornstarch, then add the mixture to the pan and stir well.",
+    "Pour in the vegetable broth and bring the mixture to a simmer, cooking for 5 minutes or until the liquid has thickened.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with chopped fresh parsley.",
+    "Bake the casserole in the preheated oven for 25 minutes or until it is hot and the vegetables are tender.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "jubilant-dutch-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dutch-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:55:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "cornstarch",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "Jubilant",
+    "dishForm": "Casserole"
+  }
+}
