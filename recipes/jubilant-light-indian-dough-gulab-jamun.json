@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Light Indian Dough Gulab Jamun",
+  "description": "Aerated and resinous Indian dish featuring szechuan peppercorns, long-fermentation-dough, and vegetarian-friendly ingredients, formed into gulab jamun and cooked in an iron teppan.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "used for dough"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "ground into powder"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "gulab syrup",
+      "amount": "1 cup",
+      "notes": "rose water and sugar mixture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "used for dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and szechuan peppercorn powder in a large bowl to make the dough.",
+    "Gradually add milk to the dry ingredients and knead the dough for 10 minutes.",
+    "Let the dough ferment for 4 hours in a warm place.",
+    "Heat the iron teppan over medium heat and add vegetable oil.",
+    "Once the oil is hot, add the fermented dough to the teppan and cook for 5 minutes on each side.",
+    "Remove the dough from the teppan and soak it in gulab syrup for 30 minutes.",
+    "Serve the gulab jamun warm, garnished with rose water and cardamom powder if desired.",
+    "Repeat the process to make multiple gulab jamun.",
+    "Let the gulab jamun cool before storing them in an airtight container."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gulab-jamun",
+    "indian-dessert",
+    "iron-teppan",
+    "long-fermentation",
+    "szechuan-peppercorn",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jubilant-light-indian-dough-gulab-jamun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-light-indian-dough-gulab-jamun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:26:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dough",
+    "descriptor": "Jubilant Light",
+    "dishForm": "Gulab Jamun"
+  }
+}
