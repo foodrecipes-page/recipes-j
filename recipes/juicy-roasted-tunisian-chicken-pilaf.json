@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Roasted Tunisian Chicken Pilaf",
+  "description": "A high-protein Tunisian dish featuring roasted chicken, rice, and cheese, perfect for meal prep in a bento box. This recipe combines salty and cheesy flavors with a juicy roast.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the rice in a fine mesh sieve until the water runs clear.",
+    "Combine the rice, chicken broth, olive oil, salt, and black pepper in a large saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes or until the liquid is absorbed.",
+    "In a large bowl, whisk together the harissa, lemon juice, and a pinch of salt and pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the harissa mixture.",
+    "Transfer the chicken to a baking sheet lined with parchment paper and roast in the oven for 25 minutes or until cooked through.",
+    "Fluff the cooked rice with a fork and stir in the crumbled feta cheese and chopped parsley.",
+    "Slice the roasted chicken and serve on top of the rice pilaf in a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 43,
+  "totalTimeMin": 63,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-roasted-tunisian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-tunisian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:53:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy roasted",
+    "dishForm": "Pilaf"
+  }
+}
