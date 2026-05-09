@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Portuguese Vegetable Skillet",
+  "description": "A savory and festive lacto-vegetarian dish featuring ketchup and a variety of vegetables, cooked to perfection in an iron teppan skillet. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the iron teppan skillet over medium-high heat.",
+    "Add the chopped onion and cook until it starts to caramelize.",
+    "Add the sliced bell pepper and cook until it starts to soften.",
+    "Add the sliced zucchini and cook until it starts to tenderize.",
+    "In a small bowl, whisk together the ketchup, vegetable broth, paprika, salt, and black pepper.",
+    "Pour the ketchup mixture over the vegetables and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Stir in the crumbled feta cheese and cook until it starts to melt.",
+    "Use a spatula to fold the vegetables and cheese together.",
+    "Cook for an additional 2 minutes and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jubilant-portuguese-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-portuguese-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:10:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "ketchup",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "vegetables",
+    "descriptor": "jubilant savory",
+    "dishForm": "Skillet"
+  }
+}
