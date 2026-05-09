@@ -1,0 +1,104 @@
+{
+  "title": "jamilly-velvety slovakian beef grill",
+  "description": "A hearty, lacto-vegetarian-friendly breakfast dish from Slovakia featuring minced beef, a tangy whisked egg mixture, and a velvety texture.",
+  "cuisine": "slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "80% lean beef, preferably 70-80% fat content for best texture"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tava-griddle or heavy skillet over medium-high heat.",
+    "Add 1 tablespoon of butter and let it melt.",
+    "Add the minced beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet and let it melt.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the all-purpose flour and cook for 1 minute, until lightly toasted.",
+    "Gradually add the all-purpose milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it has thickened, about 2-3 minutes.",
+    "Return the cooked beef to the skillet and stir to combine with the egg mixture.",
+    "Continue cooking for an additional 2-3 minutes, until the beef is coated in the velvety egg mixture.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "jamilly-velvety-slovakian-beef-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jamilly-velvety-slovakian-beef-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:48Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "minced beef",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "jamilly-velvety",
+    "dishForm": "grill"
+  }
+}
