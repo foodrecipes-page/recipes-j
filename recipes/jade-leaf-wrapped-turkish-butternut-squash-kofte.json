@@ -1,0 +1,115 @@
+{
+  "title": "Jade-Leaf Wrapped Turkish Butternut Squash Kofte",
+  "description": "A savory, shattering Turkish dish featuring butternut squash, wrapped in jade-leaf and cooked to perfection in a tandoor-clay pot.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 1/2 pounds",
+      "notes": "about 1 small-medium squash"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "or beef, or a combination of both"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "jade leaves",
+      "amount": "12-15 leaves",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay pot to 400°F (200°C).",
+    "Peel, seed, and dice the butternut squash into 1-inch cubes.",
+    "In a large bowl, combine the ground meat, chopped onion, minced garlic, ground cumin, sweet paprika, coarse salt, and freshly ground black pepper.",
+    "Mix well with your hands until just combined, being careful not to overmix.",
+    "Add the diced butternut squash to the bowl and mix until the squash is evenly distributed throughout the meat mixture.",
+    "Using your hands, shape the meat mixture into small kofte, about 1 1/2 inches in diameter.",
+    "Place a jade leaf in the tandoor-clay pot and brush the leaf with a small amount of olive oil.",
+    "Place 3-4 kofte in the center of the leaf, leaving a small border around the edges.",
+    "Brush the edges of the leaf with a small amount of olive oil and fold the leaf over the kofte to form a tight package.",
+    "Repeat with the remaining ingredients, forming 6-8 packages in total.",
+    "Place the packages in the preheated tandoor-clay pot and cook for 20-25 minutes, or until the meat is cooked through and the jade leaves are crispy.",
+    "Serve the kofte hot, garnished with additional jade leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "butternut-squash",
+    "clay-pot",
+    "gluten-free",
+    "jade-leaves",
+    "kofte",
+    "tandoor",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "jade-leaf-wrapped-turkish-butternut-squash-kofte",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jade-leaf-wrapped-turkish-butternut-squash-kofte",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:24:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "butternut squash",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Jade-Leaf Wrapped",
+    "dishForm": "Kofte"
+  }
+}
