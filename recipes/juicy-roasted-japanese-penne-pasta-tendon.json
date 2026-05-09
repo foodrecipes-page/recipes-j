@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Roasted Japanese Penne Pasta Tendon",
+  "description": "A roasted, tender, and indulgent Japanese dish featuring penne pasta, served in a banana leaf vessel, inspired by the Chubu region. This anti-inflammatory friendly recipe is a unique twist on traditional tendon dishes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the penne pasta according to the package instructions, reserving 1 cup of pasta water before draining.",
+    "In a large bowl, whisk together soy sauce, mirin, sake, and grated ginger to make the tendon sauce.",
+    "Add the cooked penne pasta to the bowl and toss to coat with the tendon sauce, adding some reserved pasta water if needed to achieve a creamy consistency.",
+    "Brush the banana leaves with vegetable oil and place a portion of the pasta mixture in the center of each leaf.",
+    "Fold the banana leaves over the pasta to form a tight package and secure with toothpicks if necessary.",
+    "Place the packages on a baking sheet and roast in the preheated oven for 20 minutes.",
+    "Remove the packages from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pan",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "juicy-roasted-japanese-penne-pasta-tendon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-japanese-penne-pasta-tendon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:29:33Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "penne pasta",
+    "diet": "anti-inflammatory",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Tendon Pasta"
+  }
+}
