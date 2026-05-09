@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Savory Chinese Collards Mu Shu",
+  "description": "A salty and chewy Chinese dish featuring collards, perfect for meal prep and flexitarian diets. This mu-shu style dish is easy to make and packed with flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced mushrooms and stir-fry for 2 minutes.",
+    "Add the chopped collard greens and stir-fry for 3 minutes.",
+    "Add the chopped scallions and stir-fry for 1 minute.",
+    "In a small bowl, whisk together the soy sauce, hoisin sauce, and sesame oil.",
+    "Pour the sauce over the collard green mixture and stir-fry for 1 minute.",
+    "Serve the mu-shu hot, with pancakes or tortillas on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "flexitarian",
+    "meal-prep",
+    "mu-shu",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jagged-savory-chinese-collards-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-savory-chinese-collards-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:35:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "collards",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "collards",
+    "descriptor": "Jagged Savory",
+    "dishForm": "Mu Shu"
+  }
+}
