@@ -1430,6 +1430,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-crumbly-algerian-lamb-tagine",
+    "title": "Algerian Lamb Tagine",
+    "tags": [
+      "jain-friendly",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 140,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-crumbly-australian-mixed-grain-bake",
     "title": "Jammy Crumbly Australian Mixed Grain Bake",
     "tags": [
