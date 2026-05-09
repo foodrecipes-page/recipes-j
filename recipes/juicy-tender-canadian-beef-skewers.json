@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Tender Canadian Beef Skewers",
+  "description": "A malty, tender, and festive Canadian dish featuring canola oil and papillote, perfect for a keto-friendly dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together canola oil, malt vinegar, thyme, garlic powder, salt, and pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each cube.",
+    "Wrap each skewer in a sheet of papillote paper, twisting the ends to seal.",
+    "Place the skewers on a baking sheet and bake for 15 minutes.",
+    "Remove the skewers from the oven and let them rest for 5 minutes.",
+    "Serve the beef skewers hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "canadian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "papillote",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "juicy-tender-canadian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tender-canadian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:39:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "canola oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Juicy Tender",
+    "dishForm": "Skewers"
+  }
+}
