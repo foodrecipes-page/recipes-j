@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Spicy Croatian Chestnuts Casserole",
+  "description": "A spicy and gooey Croatian dish featuring chestnuts, perfect for a romantic evening, with no onions or garlic.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 1/2 pounds",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the chestnuts and remove any shells or debris.",
+    "In a large bowl, toss the chestnuts with smoked paprika, cumin, cayenne pepper, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and add the chestnuts, cooking until they are lightly browned.",
+    "In a separate saucepan, bring the chicken broth to a boil and then reduce the heat to low.",
+    "In a greased 9x13 inch baking dish, create a layer of chestnuts.",
+    "Pour some of the chicken broth over the chestnuts, followed by a sprinkle of gruyere cheese.",
+    "Repeat the layers until all ingredients are used, ending with a layer of cheese on top.",
+    "Drizzle the heavy cream over the top layer of cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipe",
+    "chestnut-recipe",
+    "comfort-food",
+    "croatian-cuisine",
+    "romantic-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "juicy-spicy-croatian-chestnuts-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-croatian-chestnuts-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:52:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "chestnuts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "juicy spicy",
+    "dishForm": "Casserole"
+  }
+}
