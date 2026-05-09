@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Light American Mozzarella Pizza",
+  "description": "A fresh and light American dish featuring mozzarella, perfect for a diabetic-friendly meal, with a smoky and cold twist.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat pizza crust",
+      "amount": "1 crust",
+      "notes": "pre-made"
+    },
+    {
+      "name": "low-fat mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked chicken breast",
+      "amount": "1 breast",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Roll out the pre-made whole wheat pizza crust to a thickness of 1/4 inch.",
+    "Spread the olive oil over the crust, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the shredded low-fat mozzarella cheese over the crust.",
+    "Top the cheese with diced smoked chicken breast and chopped fresh basil leaves.",
+    "Season with garlic powder, salt, and pepper.",
+    "Bake the pizza in the preheated oven for 12-15 minutes, or until the crust is golden brown.",
+    "Remove the pizza from the oven and let it cool for 5 minutes before slicing.",
+    "Serve the pizza hot, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-dish",
+    "diabetic-friendly",
+    "easy-dinner",
+    "low-carb",
+    "mozzarella-pizza",
+    "smoked-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "juicy-light-american-mozzarella-pizza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-american-mozzarella-pizza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:15:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "smoke-cold",
+    "primaryIngredient": "mozzarella",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mozzarella",
+    "descriptor": "juicy light",
+    "dishForm": "Pizza"
+  }
+}
