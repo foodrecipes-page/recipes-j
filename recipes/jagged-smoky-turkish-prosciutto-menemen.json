@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Smoky Turkish Prosciutto Menemen",
+  "description": "A smoky and savory Turkish dish featuring prosciutto and temper, friendly to ayurvedic tamasic diets, in the form of menemen.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "temper",
+      "amount": "1 teaspoon",
+      "notes": "ayurvedic spice blend"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the diced onions.",
+    "Cook the onions for 5 minutes or until they are translucent and starting to caramelize.",
+    "Add the diced bell peppers to the skillet and cook for an additional 3 minutes.",
+    "Add the diced tomatoes to the skillet and cook for 2 minutes.",
+    "Add the thinly sliced prosciutto to the skillet and cook for 2 minutes or until crispy.",
+    "Add the temper and smoked paprika to the skillet and stir to combine.",
+    "Crack the eggs into a bowl and whisk them together, then pour them over the top of the skillet.",
+    "Scramble the eggs together with the vegetables and prosciutto until they are cooked through.",
+    "Stir in the crumbly feta cheese and season with salt and black pepper to taste.",
+    "Serve the menemen hot, garnished with additional feta cheese and prosciutto if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "turkish-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jagged-smoky-turkish-prosciutto-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-smoky-turkish-prosciutto-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:44:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "prosciutto",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Jagged Smoky",
+    "dishForm": "Menemen"
+  }
+}
