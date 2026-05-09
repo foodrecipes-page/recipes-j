@@ -3574,6 +3574,20 @@
     "shard": "j"
   },
   {
+    "slug": "jelly-like-syrian-tomato-tagine",
+    "title": "Jelly-Like Syrian Tomato Tagine",
+    "tags": [
+      "cold-weather",
+      "comfort-food",
+      "main-course",
+      "syrian-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jelly-like-thai-egg-plants-curry",
     "title": "Thai Egg Plant Curry",
     "tags": [
@@ -9301,6 +9315,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-greek-fillet-of-steak-saganaki",
+    "title": "Juicy Greek Fillet of Steak Saganaki",
+    "tags": [
+      "easy",
+      "fillet",
+      "greek",
+      "one-pan",
+      "saganaki",
+      "steak",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-greek-garlic-stew",
     "title": "Juicy Greek Garlic Stew",
     "tags": [
@@ -11198,6 +11228,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-saudi-arabian-pepper-roast",
+    "title": "Juicy Saudi Arabian Pepper Roast",
+    "tags": [
+      "herbal",
+      "low-fat",
+      "pepper-roast",
+      "romantic",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

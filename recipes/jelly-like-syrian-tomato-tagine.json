@@ -1,0 +1,125 @@
+{
+  "title": "Jelly-Like Syrian Tomato Tagine",
+  "description": "A buttery, velvety, adventurous Syrian dish featuring tomato puree, perfect for a cold evening meal or a special occasion. This recipe is vegan-friendly and rich in flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh tomatoes",
+      "amount": "3 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use high-quality extra virgin olive oil for best results."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chop the onion finely for a smooth tagine."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic for a subtle flavor."
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought, puree is the base of this recipe."
+    },
+    {
+      "name": "Spices: cumin, coriander, cinnamon, turmeric",
+      "amount": "1 teaspoon each",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher or sea salt for a better flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use freshly ground black pepper for the best results."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop the parsley finely and use as garnish."
+    },
+    {
+      "name": "Vegan butter or oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality vegan butter or oil for a richer flavor."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use filtered water for a better flavor."
+    },
+    {
+      "name": "Dried sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, but adds a nice tanginess."
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, but adds a nice herbal flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and saut\b5 it until softened, about 5 minutes.",
+    "Add the minced garlic and saut\b5 for another minute.",
+    "Add the tomato puree, spices, salt, and black pepper. Stir well to combine.",
+    "Add the chopped parsley, vegan butter or oil, and water. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, stirring occasionally, for 20-25 minutes, or until the tagine has thickened and reduced slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with additional parsley and sumac if desired.",
+    "Refrigerate or freeze the leftovers for up to 5 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "main-course",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "jelly-like-syrian-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jelly-like-syrian-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "dehydrate",
+    "primaryIngredient": "tomato puree",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Jelly-like",
+    "dishForm": "Tagine"
+  }
+}

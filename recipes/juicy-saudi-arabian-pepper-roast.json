@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Saudi Arabian Pepper Roast",
+  "description": "An aromatic and flavorful dish from Saudi Arabia featuring roasted peppers, a blend of herbs and spices, and a hint of smokiness. Perfect for a romantic dinner or a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Bell Peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the red bell peppers with olive oil, garam masala, cumin, coriander, paprika, salt, and black pepper in a large bowl until they are evenly coated.",
+    "Spread the peppers out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the peppers in the preheated oven for 30 minutes, turning occasionally, until they are tender and slightly charred.",
+    "Remove the peppers from the oven and let them cool slightly.",
+    "Cut the peppers open and remove the seeds and membranes.",
+    "Add the rosemary sprigs to the peppers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "low-fat",
+    "pepper-roast",
+    "romantic",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "juicy-saudi-arabian-pepper-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-saudi-arabian-pepper-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "roasted pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "pepper",
+    "descriptor": "juicy",
+    "dishForm": "Roast"
+  }
+}
