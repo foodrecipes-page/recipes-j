@@ -1,0 +1,97 @@
+{
+  "title": "Jagged Charred Mexican Pork Tamales",
+  "description": "A charred, gooey, festive Mexican dish featuring freshly chopped parsley, katsuramuki-cut pork, and egg-free friendly ingredients, served in a molcajete vessel as tamales.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "20",
+      "notes": "dried"
+    },
+    {
+      "name": "lard",
+      "amount": "1 cup"
+    },
+    {
+      "name": " masa harina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dried corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, combine the masa harina and chicken broth, and stir until the dough comes together.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "In a large skillet, heat the lard over medium heat, and cook the katsuramuki-cut pork shoulder until it is charred and cooked through.",
+    "Add the ancho chili powder and salt to the skillet, and stir to combine.",
+    "To assemble the tamales, lay a corn husk flat, and spread a thin layer of the dough onto the center of the husk.",
+    "Place a few pieces of the charred pork onto the center of the dough, and sprinkle with chopped parsley.",
+    "Fold the sides of the corn husk over the filling, and then roll the tamale up, starting from the wide end.",
+    "Repeat the process until all of the ingredients are used up.",
+    "Place the tamales in a large steamer basket, and steam over boiling water for 45 minutes.",
+    "Serve the tamales in a molcajete vessel, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 90,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "egg-free",
+    "festive-dishes",
+    "gluten-free",
+    "mexican-food",
+    "pork-recipes",
+    "tamale-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jagged-charred-mexican-pork-tamales",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-charred-mexican-pork-tamales",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:32:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "egg-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "jagged charred",
+    "dishForm": "Tamales"
+  }
+}
