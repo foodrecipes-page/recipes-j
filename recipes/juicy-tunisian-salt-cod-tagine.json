@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Tunisian Salt Cod Tagine",
+  "description": "A briny and gooey Tunisian dish featuring salt cod, perfect for a post-workout meal, this kosher-friendly recipe combines the flavors of the Mediterranean with a char-grill twist.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned and crushed"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crushed tomatoes, paprika, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the soaked and drained salt cod to the pot and stir to coat with the tomato mixture.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the cod is cooked through and the sauce is bubbly.",
+    "Remove the pot from the oven and let it cool for a few minutes.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "pescatarian",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-tunisian-salt-cod-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tunisian-salt-cod-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:47:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "salt cod",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "salt cod",
+    "descriptor": "juicy gooey",
+    "dishForm": "Tagine"
+  }
+}
