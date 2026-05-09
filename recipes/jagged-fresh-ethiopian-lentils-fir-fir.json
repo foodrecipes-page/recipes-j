@@ -1,0 +1,106 @@
+{
+  "title": "Jagged Fresh Ethiopian Lentils Fir Fir",
+  "description": "A fresh and adventurous Ethiopian dish featuring doenjang and namul-blanch-season, made with satvik-friendly ingredients, this jagged fir fir is a unique twist on traditional Ethiopian cuisine. It is a hearty and flavorful meal that is perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the lentils and water and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 20 minutes, or until the lentils are tender.",
+    "In a small bowl, whisk together the doenjang, namul, onion, garlic, ginger, berbere spice, and salt.",
+    "Add the doenjang mixture to the pot with the lentils and stir to combine.",
+    "Continue to simmer for an additional 10 minutes, or until the flavors have melded together.",
+    "Stir in the chopped cilantro and serve the fir fir hot.",
+    "Traditionally, fir fir is served with a side of injera bread, but it can also be served with rice or noodles.",
+    "To make the dish more substantial, add some sauteed vegetables, such as spinach or carrots, to the pot with the lentils.",
+    "Experiment with different spices and seasonings to give the fir fir your own unique flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "high-protein",
+    "international",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "jagged-fresh-ethiopian-lentils-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-fresh-ethiopian-lentils-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:46:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "doenjang",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Jagged Fresh",
+    "dishForm": "Fir Fir"
+  }
+}
