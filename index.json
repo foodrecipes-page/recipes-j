@@ -1446,6 +1446,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-italian-rice-creamy-risotto",
+    "title": "Jammy Italian Rice Creamy Risotto",
+    "tags": [
+      "cream-based",
+      "italian",
+      "one-pan",
+      "risotto",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-jolted-korean-hazelnut-tteok",
     "title": "Jammy Jolted Korean Hazelnut Tteok",
     "tags": [

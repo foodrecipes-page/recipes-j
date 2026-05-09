@@ -1,0 +1,95 @@
+{
+  "title": "Jammy Italian Rice Creamy Risotto",
+  "description": "A creamy take on traditional Italian risotto, infused with wholegrain mustard for added depth of flavor and a dash of nostalgia.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "250g",
+      "notes": "Short-grain Italian rice that absorbs flavors well."
+    },
+    {
+      "name": "White wine",
+      "amount": "150ml",
+      "notes": "",
+      "},{": "name="
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml",
+      "notes": "Homemade or store-bought, warmed to a simmer."
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "120g",
+      "notes": "Freshly grated, for added creaminess."
+    },
+    {
+      "name": "Wholegrain mustard",
+      "amount": "10g",
+      "notes": "Diluted in wine for a subtle kick."
+    },
+    {
+      "name": "Spherified balsamic vinegar",
+      "amount": "20g",
+      "notes": "For a pop of sweetness and acidity."
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": "Salted, for richness and depth."
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "20g",
+      "notes": "Freshly grated, for added umami."
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat, until melted and foamy.",
+    "Add Arborio rice, stirring to coat in butter and toast lightly, about 2 minutes.",
+    "Add white wine, stirring constantly, until completely absorbed.",
+    "Add 1/2 cup warmed chicken broth, stirring constantly until absorbed, and repeat in 1/2 cup increments until rice is cooked and creamy, about 25 minutes, adding diluted wholegrain mustard in the last 2 cups of broth.",
+    "Stir in Grana Padano cheese and Parmesan cheese until melted and well combined.",
+    "Taste and adjust seasoning as needed, then cover and let rest for 2 minutes.",
+    "To serve, scoop into bowls, topping with spherified balsamic vinegar and additional grated Parmesan cheese, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cream-based",
+    "italian",
+    "one-pan",
+    "risotto",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 180,
+    "fat": 40
+  },
+  "slug": "jammy-italian-rice-creamy-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-italian-rice-creamy-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Jammy",
+    "dishForm": "Creamy Risotto"
+  }
+}
