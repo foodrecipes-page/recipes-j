@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Crunchy Brazilian Brie Skewers",
+  "description": "A sour and crunchy Brazilian dish featuring marinated brie cheese, perfect for a snack or light meal. This recipe is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "12 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "macadamia nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, salt, and black pepper to make the marinade.",
+    "Add the softened brie cheese to the marinade and mix until well coated.",
+    "Thread the marinated brie cheese, pita bread cubes, pineapple chunks, and macadamia nuts onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 10 minutes, or until the cheese is melted and the bread is toasted.",
+    "Remove the skewers from the oven and sprinkle with chopped cilantro and mint.",
+    "Serve the skewers warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "cheese-recipes",
+    "easy-snacks",
+    "gluten-free",
+    "quick-appetizers",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "juicy-crunchy-brazilian-brie-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crunchy-brazilian-brie-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "brie",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "brie",
+    "descriptor": "juicy crunchy",
+    "dishForm": "Skewers"
+  }
+}
