@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Venezuelan Chicken Liver Skewers",
+  "description": "A traditional Venezuelan dish featuring chicken liver, infused oil, and high protein, cooked to perfection in a bamboo steamer.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, onion, cumin, paprika, salt, and black pepper.",
+    "Add the chicken liver to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken liver onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers in the bamboo steamer and cook for 10-12 minutes, or until the liver is cooked through.",
+    "Serve the skewers hot, garnished with chopped fresh parsley or cilantro.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve with your choice of sides, such as rice, beans, or roasted vegetables.",
+    "Garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-venezuelan-chicken-liver-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-venezuelan-chicken-liver-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:27:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chicken liver",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken liver",
+    "descriptor": "jammy velvety",
+    "dishForm": "Skewers"
+  }
+}
