@@ -1,0 +1,99 @@
+{
+  "title": "Jewelled herbal Polish pilchards Gratin",
+  "description": "A comforting and flavorful Polish dish featuring pilchards, perfect for a sick day, with a crunchy herbal topping and a dairy-free friendly twist, served in individual ramekins.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the pilchards, kombu cold extract, olive oil, dill, parsley, salt, and pepper in a bowl.",
+    "Divide the pilchard mixture among 4 ramekins.",
+    "Sprinkle the gluten-free breadcrumbs over the pilchard mixture in each ramekin.",
+    "Drizzle the lemon juice over the breadcrumbs.",
+    "Place the ramekins on a baking sheet and bake for 20 minutes.",
+    "Remove the ramekins from the oven and let them cool for a few minutes.",
+    "Serve the gratin hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "healthy-fish",
+    "one-pan",
+    "polish-cuisine",
+    "ramekin-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jewelled-herbal-polish-pilchards-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-herbal-polish-pilchards-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:12:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "pilchards",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pilchards",
+    "descriptor": "Jewelled herbal",
+    "dishForm": "Gratin"
+  }
+}
