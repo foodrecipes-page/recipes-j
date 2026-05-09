@@ -1,0 +1,96 @@
+{
+  "title": "Jagged Sour Middle Eastern Red Peppers Muhammara",
+  "description": "A sour and tender Middle Eastern dish featuring red peppers, rice wine, and binchotan-charcoal, perfect for a show-off dinner party",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Place the red bell peppers on a baking sheet and roast for 30 minutes",
+    "Remove the peppers from the oven and let them cool",
+    "Peel the skin off the peppers and place them in a blender",
+    "Add the rice wine vinegar, walnuts, garlic, salt, and black pepper to the blender",
+    "Blend the mixture until it is smooth",
+    "Heat the olive oil in a pan over medium heat",
+    "Add the blended pepper mixture to the pan and stir constantly",
+    "Smoke the mixture with binchotan charcoal for 5 minutes",
+    "Serve the muhammara warm"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "middle-eastern",
+    "smoky",
+    "sour",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "jagged-sour-middle-eastern-red-peppers-muhammara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-sour-middle-eastern-red-peppers-muhammara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:42:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "rice wine",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "red peppers",
+    "descriptor": "Jagged Sour",
+    "dishForm": "Muhammara"
+  }
+}

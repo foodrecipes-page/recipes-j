@@ -1,0 +1,128 @@
+{
+  "title": "Jagged Saudi-Arabian Beef Kidney Tagine",
+  "description": "Fatty, molten, midnight-craving tagine from Saudi Arabia featuring beef kidney, bonito-shaved, and spices for an ayurvedic-tamasic-friendly meal to satisfy any craving.",
+  "cuisine": "Saudi",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidney",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "use neutral-tasting oil for best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chop finely for best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "mince finely for best flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grate for best flavor"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality cumin for best flavor"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality coriander for best flavor"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality turmeric for best flavor"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use high-quality cayenne pepper for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality salt for best flavor"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use high-quality black pepper for best flavor"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality bonito flakes for best flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Sear beef kidney until browned on all sides, about 5 minutes.",
+    "Remove kidney from skillet and set aside.",
+    "Add onion, garlic, and ginger to skillet and saut\u00137 until onion is translucent, about 5 minutes.",
+    "Add cumin, coriander, turmeric, cayenne pepper, salt, and pepper to skillet and stir to combine.",
+    "Add bonito flakes to skillet and stir to combine.",
+    "Add beef kidney back to skillet and stir to coat with spice mixture.",
+    "Transfer skillet to preheated oven and braise at 300\u001915F for 1 hour.",
+    "Garnish with chopped parsley and serve.",
+    "Let kidney rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "high-protein",
+    "homestyle",
+    "kidney",
+    "middle-eastern",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "jagged-saudi-arabian-beef-kidney-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-saudi-arabian-beef-kidney-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "beef kidney",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "jagged",
+    "dishForm": "Tagine"
+  }
+}

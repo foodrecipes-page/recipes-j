@@ -772,6 +772,23 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-saudi-arabian-beef-kidney-tagine",
+    "title": "Jagged Saudi-Arabian Beef Kidney Tagine",
+    "tags": [
+      "beef",
+      "high-protein",
+      "homestyle",
+      "kidney",
+      "middle-eastern",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 85,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-savory-chinese-collards-mu-shu",
     "title": "Jagged Savory Chinese Collards Mu Shu",
     "tags": [
@@ -932,6 +949,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-sour-middle-eastern-red-peppers-muhammara",
+    "title": "Jagged Sour Middle Eastern Red Peppers Muhammara",
+    "tags": [
+      "dinner-party",
+      "middle-eastern",
+      "smoky",
+      "sour",
+      "spicy",
+      "whole30"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
