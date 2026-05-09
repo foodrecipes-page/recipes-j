@@ -257,6 +257,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-crispy-moroccan-rye-flatbread",
+    "title": "Jagged Crispy Moroccan Rye Flatbread",
+    "tags": [
+      "flatbread",
+      "moroccan-food",
+      "rye-bread",
+      "snack",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crispy-spanish-mozzarella-tart",
     "title": "Jagged Crispy Spanish Mozzarella Tart",
     "tags": [

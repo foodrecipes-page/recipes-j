@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Crispy Moroccan Rye Flatbread",
+  "description": "A tangy and crispy Moroccan dish featuring rye bread, this flatbread is perfect for a light snack or meal. It is nut-free and can be served on a lazy-susan-spinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the rye flour, salt, sugar, and yeast.",
+    "Gradually add the water and olive oil to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rest in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place the flatbreads on a baking sheet lined with parchment paper and sprinkle with coriander and cumin.",
+    "Bake the flatbreads for 15-20 minutes or until they are crispy and golden brown.",
+    "Remove the flatbreads from the oven and let them cool on a wire rack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "moroccan-food",
+    "rye-bread",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "jagged-crispy-moroccan-rye-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-moroccan-rye-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:41:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "rye bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "rye bread",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Flatbread"
+  }
+}
