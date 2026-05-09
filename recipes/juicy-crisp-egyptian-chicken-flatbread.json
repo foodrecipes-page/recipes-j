@@ -1,0 +1,97 @@
+{
+  "title": "Juicy Crisp Egyptian Chicken Flatbread",
+  "description": "A crispy and flavorful Egyptian dish featuring chicken and long-fermentation-dough, perfect for a date night, and friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, warm water, and let it sit for 10 minutes until frothy.",
+    "Add flour, salt, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it, and let it rise in a warm place for 2 hours.",
+    "Preheat oven to 425 degrees Fahrenheit.",
+    "Season the chicken breast with thyme, oregano, salt, and pepper.",
+    "Bake the chicken in the oven for 20 minutes until cooked through.",
+    "Brush the pita bread with olive oil and toast until crispy.",
+    "Assemble the flatbread by slicing the chicken and placing it on top of the toasted pita bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "crispy",
+    "date-night",
+    "egyptian",
+    "herbal",
+    "long-fermentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-crisp-egyptian-chicken-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-egyptian-chicken-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:04:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chicken",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Flatbread"
+  }
+}
