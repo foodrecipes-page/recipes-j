@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Charred Peruvian Seafood Ceviche Clasico",
+  "description": "A halal-friendly Peruvian dish featuring charred seafood and stir-fry vegetables, perfect for a date night.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over high heat and char the shrimp and scallops for 2 minutes per side.",
+    "Remove the seafood from the skillet and set aside to cool.",
+    "In the same skillet, sauté the red onion and ají amarillo pepper for 3 minutes.",
+    "Add the garlic to the skillet and cook for an additional minute.",
+    "In a large bowl, combine the cooled seafood, sautéed onion and pepper mixture, and chopped cilantro.",
+    "Squeeze the lime juice over the top of the seafood mixture and toss to coat.",
+    "Season the ceviche with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the ceviche cold, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "halal",
+    "high-protein",
+    "low-carb",
+    "peruvian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "juicy-charred-peruvian-seafood-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-charred-peruvian-seafood-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:38:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "seafood",
+    "descriptor": "Juicy Charred",
+    "dishForm": "Ceviche Clasico"
+  }
+}
