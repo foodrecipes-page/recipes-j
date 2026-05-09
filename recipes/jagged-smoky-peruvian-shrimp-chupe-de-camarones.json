@@ -1,0 +1,100 @@
+{
+  "title": "Jagged Smoky Peruvian Shrimp Chupe De Camarones",
+  "description": "A smoky and crumbly Peruvian dish featuring shrimp and egg wash, perfect for a weeknight dinner. This ovo-vegetarian-friendly recipe is a variation of the traditional chupe de camarones.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onions and garlic and saute until the onions are translucent.",
+    "Add the bhuna spice mix and smoked paprika and cook for 1 minute.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Remove the shrimp from the pot and set them aside.",
+    "Add the diced tomatoes and chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the beaten eggs to create a creamy sauce.",
+    "Return the shrimp to the pot and cook until the sauce has thickened.",
+    "Serve the chupe de camarones hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ovo-vegetarian",
+    "peruvian-cuisine",
+    "shrimp-recipes",
+    "smoky-flavors",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:20:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "egg wash",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Jagged Smoky",
+    "dishForm": "Chupe De Camarones"
+  }
+}
