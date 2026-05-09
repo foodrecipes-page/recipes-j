@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Fermented Italian Savoy Cabbage Vitello Tonnato",
+  "description": "A kosher-friendly Italian dish featuring fermented savoy cabbage and a twist on the classic vitello tonnato, this recipe is a crowd-pleaser. It combines the crunch of fried rice with the tender flavor of fermented cabbage.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "fermented for at least 4 days"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked and dried"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Ferment the savoy cabbage for at least 4 days in a brine solution.",
+    "Grind the cooked and dried rice into a coarse crumb.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Fry the ground rice until crispy and golden brown.",
+    "Chop the fermented savoy cabbage into small pieces.",
+    "Saute the chopped onion and minced garlic until softened.",
+    "Combine the fried rice, sauteed onion and garlic, chopped cabbage, capers, lemon juice, salt, and black pepper in a large bowl.",
+    "Mix well to combine and adjust seasoning as needed.",
+    "Serve the mixture on a platter or individual plates, garnished with additional capers and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fermented-recipes",
+    "italian-food",
+    "kosher-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "juicy-fermented-italian-savoy-cabbage-vitello-tonnato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fermented-italian-savoy-cabbage-vitello-tonnato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:40:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Juicy Fermented",
+    "dishForm": "Vitello Tonnato"
+  }
+}
