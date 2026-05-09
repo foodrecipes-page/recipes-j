@@ -1,0 +1,104 @@
+{
+  "title": "Jubilant Fluffy Indian Corn Biryani",
+  "description": "A cultured and fluffy Indian dish featuring corn flour and fermented jang, made with ayurvedic-rajasic-friendly ingredients to create a romantic and satisfying meal. This dish is perfect for special occasions or cozy nights in.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice and soak it in water for 30 minutes before draining and setting aside.",
+    "Heat the ghee in a large saucepan over medium heat and add the cumin seeds, letting them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the turmeric powder and salt, stirring to combine, and cook for 1 minute.",
+    "Add the soaked and drained rice to the saucepan, stirring to combine with the spice mixture, and cook for 2 minutes.",
+    "Add the corn flour and fermented jang to the saucepan, stirring to combine, and cook for 1 minute.",
+    "Add the water to the saucepan and bring to a boil, then reduce the heat to low and cover with a tight-fitting lid.",
+    "Simmer the biryani for 20 minutes, or until the water has been absorbed and the rice is fluffy and tender.",
+    "Turn off the heat and let the biryani rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "romantic-dinner",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-fluffy-indian-corn-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-fluffy-indian-corn-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:09:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "corn flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "corn",
+    "descriptor": "jubilant fluffy",
+    "dishForm": "Biryani"
+  }
+}

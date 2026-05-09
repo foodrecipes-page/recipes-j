@@ -1,0 +1,94 @@
+{
+  "title": "Jammy Crisp Dutch Tahini Tart",
+  "description": "A paleo-friendly Dutch tart featuring a jammy filling, crispy crust, and indulgent tahini paste, all encrouted in a flaky pastry crust. This dessert is perfect for special occasions.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, tahini paste, and salt.",
+    "Add the honey, egg, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough into a thin circle and place it into a 9-inch tart pan.",
+    "Spread the raspberry jam evenly over the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the jam to form a crust.",
+    "Brush the crust with the melted coconut oil.",
+    "Bake the tart for 35 minutes, or until the crust is golden brown.",
+    "Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-crust",
+    "dutch-dessert",
+    "gluten-free",
+    "jam-filled",
+    "paleo-friendly",
+    "tahini-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "jammy-crisp-dutch-tahini-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crisp-dutch-tahini-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:09:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "tahini paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tahini paste",
+    "descriptor": "jammy crisp",
+    "dishForm": "Tart"
+  }
+}
