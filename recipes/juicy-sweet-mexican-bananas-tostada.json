@@ -1,0 +1,90 @@
+{
+  "title": "Juicy Sweet Mexican Bananas Tostada",
+  "description": "A nostalgic Mexican dish from Chiapas featuring fried ripe bananas, lardons-render, and a diabetic-friendly twist, served on a tostada, perfect for a snack or dessert",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch rounds"
+    },
+    {
+      "name": "lardons",
+      "amount": "6",
+      "notes": "crispy fried"
+    },
+    {
+      "name": "cinnamon sugar",
+      "amount": "1/4 cup",
+      "notes": "mixed"
+    },
+    {
+      "name": "tostada shells",
+      "amount": "4",
+      "notes": "fried until crispy"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "drizzled on top"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a pan over medium heat until crispy and golden brown",
+    "In a separate pan, heat the cinnamon sugar over low heat, stirring constantly",
+    "Add the sliced bananas to the cinnamon sugar pan and cook for 2-3 minutes on each side, until caramelized",
+    "Fry the tostada shells in hot oil until crispy and golden brown",
+    "Assemble the tostadas by placing a few slices of the caramelized bananas on each shell",
+    "Drizzle the honey on top of the bananas",
+    "Sprinkle the crispy lardons over the honey",
+    "Top with whipped cream, if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fried-bananas",
+    "gluten-free",
+    "mexican-dish",
+    "sweet-treat",
+    "tostada-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "juicy-sweet-mexican-bananas-tostada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-mexican-bananas-tostada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:09:07Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "diabetic-friendly",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "bananas",
+    "descriptor": "Juicy Sweet",
+    "dishForm": "Tostada"
+  }
+}
