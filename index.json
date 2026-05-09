@@ -833,6 +833,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-yeasty-french-mitsuba-canele",
+    "title": "Jagged Yeasty French Mitsuba Canele",
+    "tags": [
+      "charcoal-infused",
+      "french-pastry",
+      "keto-friendly",
+      "low-carb",
+      "midnight-cravings",
+      "yeasty"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-yeasty-jamaican-bottarga-pasta",
     "title": "Jagged Yeasty Jamaican Bottarga Pasta",
     "tags": [
@@ -3846,6 +3861,20 @@
       "weeknight-meals"
     ],
     "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-indian-paneer-palak-paneer",
+    "title": "Jewel Toned Indian Paneer Palak Paneer",
+    "tags": [
+      "comfort-food",
+      "halal-friendly",
+      "indian-cuisine",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "j"
   },

@@ -1,0 +1,95 @@
+{
+  "title": "Jagged Yeasty French Mitsuba Canele",
+  "description": "A yeasty, shattering, midnight-craving French dish featuring mitsuba, binchotan-charcoal, and a keto-friendly twist, all in the form of a delicate canele.",
+  "cuisine": "French",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine almond flour, mitsuba, binchotan charcoal powder, and salt.",
+    "In a separate bowl, whisk together eggs, granulated sweetener, and active dry yeast.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms.",
+    "Melt the unsalted butter and fold it into the batter.",
+    "Pour the batter into canele molds and let it rest for 10 minutes.",
+    "Bake the caneles for 20 minutes or until golden brown.",
+    "Remove the caneles from the oven and let them cool for 5 minutes.",
+    "Serve the jagged yeasty French mitsuba caneles warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "charcoal-infused",
+    "french-pastry",
+    "keto-friendly",
+    "low-carb",
+    "midnight-cravings",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "jagged-yeasty-french-mitsuba-canele",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-yeasty-french-mitsuba-canele",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:34:52Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "mitsuba",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Jagged Yeasty",
+    "dishForm": "Canele"
+  }
+}

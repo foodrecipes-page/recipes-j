@@ -1,0 +1,101 @@
+{
+  "title": "Jewel Toned Indian Paneer Palak Paneer",
+  "description": "A peppery and pillowy Indian dish featuring dark soy sauce and tadka, this halal-friendly palak paneer is a comforting Maharashtrian recipe.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "spinach puree",
+      "amount": "200g"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1tsp"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2tsp"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped green chili and saute for a minute.",
+    "Add coriander powder and garam masala and cook for another minute.",
+    "Add spinach puree, dark soy sauce, salt, and pepper, and stir well.",
+    "Add paneer cubes and stir gently to combine with the spinach mixture.",
+    "Reduce heat to low and let it simmer for 10 minutes.",
+    "Stir occasionally to prevent the paneer from sticking to the bottom of the pan.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jewel-toned-indian-paneer-palak-paneer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-indian-paneer-palak-paneer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:34:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "halal",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Jewel Toned",
+    "dishForm": "Palak Paneer"
+  }
+}
