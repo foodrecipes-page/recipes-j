@@ -1,0 +1,101 @@
+{
+  "title": "Jagged Pungent Brazilian Sausage Skewers",
+  "description": "A flavorful and adventurous Brazilian dish featuring pungent sausage, served in agave leaves. This recipe is nut-free and features a unique blend of spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 pound",
+      "notes": "preferably linguiça"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large peppers",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Cut the Brazilian sausage into 1-inch pieces and set aside.",
+    "In a small bowl, mix together olive oil, garlic, salt, black pepper, and paprika.",
+    "Brush the mixture onto both sides of the sausage pieces.",
+    "Thread the sausage pieces onto skewers, leaving a small space between each piece.",
+    "Add the sliced onion and bell pepper to the skewers, if desired.",
+    "Place an agave leaf on a flat surface and brush the center of the leaf with olive oil.",
+    "Place a skewer in the center of the agave leaf and fold the leaf over the skewer to form a packet.",
+    "Repeat with the remaining ingredients and agave leaves.",
+    "Grill the packets for 10-12 minutes, turning occasionally, until the sausage is cooked through and the agave leaf is slightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "jagged-pungent-brazilian-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-pungent-brazilian-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:25:09Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "sausage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "sausage",
+    "descriptor": "jagged pungent",
+    "dishForm": "Skewers"
+  }
+}
