@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Indulgent British Chocolate Fish And Chips",
+  "description": "A rich and indulgent British dish featuring dark chocolate chips, perfect for those looking for a unique dessert experience, this dish is onion and garlic free.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "chocolate glaze",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, cornstarch, and granulated sugar.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Dip each cod fillet into the egg mixture, then coat in the flour mixture, shaking off excess.",
+    "Fry the coated cod fillets in the hot oil for 4-5 minutes on each side, until golden brown.",
+    "Drain the fried cod fillets on paper towels and place in a tajine clay vessel.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "Drizzle the melted chocolate over the fried cod fillets, then sprinkle with confectioners sugar.",
+    "Drizzle the chocolate glaze over the top of the dish, serving immediately.",
+    "Garnish with additional confectioners sugar and chocolate shavings, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "chocolate",
+    "dessert",
+    "fish-and-chips",
+    "indulgent",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "juicy-indulgent-british-chocolate-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indulgent-british-chocolate-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:12:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chocolate",
+    "descriptor": "Juicy Indulgent",
+    "dishForm": "Fish And Chips"
+  }
+}
