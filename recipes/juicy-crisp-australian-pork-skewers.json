@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Crisp Australian Pork Skewers",
+  "description": "A keto-friendly Australian dish featuring sake and namul-blanch-seasoned pork, perfect for a quick and easy dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sake, coconut aminos, sesame oil, garlic, ginger, yeast, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Let the pork marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Roll the pork skewers in crushed pork rinds to coat.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers for 20-25 minutes, or until cooked through and crispy on the outside.",
+    "Serve the skewers hot, garnished with chopped scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "easy-dinner",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "juicy-crisp-australian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-australian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:27:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sake",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Skewers"
+  }
+}
