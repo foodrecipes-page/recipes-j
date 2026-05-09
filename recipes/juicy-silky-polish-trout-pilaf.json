@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Silky Polish Trout Pilaf",
+  "description": "A rich and romantic Polish dish featuring trout, katsuramuki-cut, in a nut-free-friendly pilaf",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the trout fillets with salt, black pepper, and dried parsley",
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Sear the trout fillets for 2 minutes on each side",
+    "Remove the trout from the skillet and set aside",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened",
+    "Add the sliced carrots to the skillet and cook for an additional 2 minutes",
+    "Add the peas, white rice, and chicken broth to the skillet and stir to combine",
+    "Return the trout fillets to the skillet and cover with a lid",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "gluten-free",
+    "nut-free",
+    "one-pan-meals",
+    "polish-cuisine",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-silky-polish-trout-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-silky-polish-trout-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:07:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "trout",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "trout",
+    "descriptor": "Juicy Silky",
+    "dishForm": "Pilaf"
+  }
+}
