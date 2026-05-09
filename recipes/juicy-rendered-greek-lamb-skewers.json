@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Rendered Greek Lamb Skewers",
+  "description": "A resinous and aerated Mediterranean dish featuring lettuce and render fat, perfect for a low-carb friendly meal. This show-off dish is sure to impress your guests.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "rendered lamb fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the rendered lamb fat, lemon juice, garlic, and oregano.",
+    "Brush the mixture onto the lamb skewers, making sure they are fully coated.",
+    "Place the skewers into the preheated fondue pot and cook for 10 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "While the lamb is cooking, prepare the lettuce and toppings by chopping and arranging them in a serving dish.",
+    "Once the lamb is done, remove it from the fondue pot and place it onto the prepared lettuce.",
+    "Top the lamb with feta cheese, kalamata olives, and artichoke hearts.",
+    "Serve immediately and enjoy.",
+    "Make sure to cook the lamb to a safe internal temperature of at least 145 degrees Fahrenheit."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "gluten-free",
+    "greek-food",
+    "lamb-recipes",
+    "low-carb",
+    "mediterranean-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "juicy-rendered-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-rendered-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:37:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "lettuce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Rendered",
+    "dishForm": "Skewers"
+  }
+}
