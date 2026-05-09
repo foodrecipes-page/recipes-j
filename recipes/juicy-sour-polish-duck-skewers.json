@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Sour Polish Duck Skewers",
+  "description": "A traditional Polish dish with a sour twist, featuring soda water and infuse oil, perfect for a date night. This recipe is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together soda water, infuse oil, lemon juice, garlic, thyme, salt, and black pepper.",
+    "Add the duck breast pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated duck pieces onto skewers.",
+    "Grill the skewers for 10-12 minutes, or until the duck is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled-meat",
+    "polish-cuisine",
+    "sour-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-sour-polish-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sour-polish-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:17:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "soda water",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "duck",
+    "descriptor": "Juicy Sour",
+    "dishForm": "Skewers"
+  }
+}
