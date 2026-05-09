@@ -1,0 +1,111 @@
+{
+  "title": "Juicy Buttery Indian Chickpeas Chana Masala",
+  "description": "A high-protein Indian dish featuring tender chickpeas in a rich and buttery tomato-based sauce, originating from the Andhra cuisine, made with chilled butter and reduced to perfection, served in a comal vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "chilled"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "or as needed"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a comal vessel over medium heat until melted and fragrant.",
+    "Add the chopped onion and saute until translucent and lightly browned.",
+    "Add the grated ginger and minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the diced tomato and cook until they start to break down and release their juices.",
+    "Add the chickpeas, garam masala, cumin, and salt, stirring well to combine.",
+    "Add the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the chana masala simmer for 20 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded together.",
+    "Stir in the remaining 2 tablespoons of chilled butter until melted and well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the juicy buttery Indian chickpeas chana masala hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-buttery-indian-chickpeas-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-buttery-indian-chickpeas-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:16:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "chilled butter",
+    "diet": "high-protein",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Juicy Buttery",
+    "dishForm": "Chana Masala"
+  }
+}
