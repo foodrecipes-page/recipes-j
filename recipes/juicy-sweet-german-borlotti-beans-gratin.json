@@ -1,0 +1,100 @@
+{
+  "title": "juicy sweet german borlotti beans gratin",
+  "description": "a sweet and gooey german dish featuring borlotti beans, made with satvik-friendly ingredients and cooked to perfection on a cedar plank.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "200g"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180c",
+    "soak the borlotti beans overnight, then drain and set aside",
+    "slice the onion and cook in a pan with a little oil until softened",
+    "add the garlic and cook for a further 2 minutes",
+    "in a separate pan, toast the double-rise bread until golden brown",
+    "in a bowl, mash the cooked onion mixture with the honey and butter until well combined",
+    "add the toasted bread to the bowl and mix until a crumbly mixture forms",
+    "add the soaked borlotti beans to the bowl and stir to combine",
+    "transfer the mixture to a cedar plank and top with grated nutmeg",
+    "bake in the oven for 25 minutes, or until the top is golden brown",
+    "garnish with fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german",
+    "gratin",
+    "one-pan",
+    "satvik-friendly",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "juicy-sweet-german-borlotti-beans-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-german-borlotti-beans-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:09:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "borlotti beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "juicy, sweet",
+    "dishForm": "gratin"
+  }
+}
