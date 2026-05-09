@@ -1,0 +1,95 @@
+{
+  "title": "Jammy Chinese Pork Buddha Jumps Over Wall",
+  "description": "A traditional Chinese dish featuring pork belly, wrapped in lotus leaf and steamed to perfection, with a sweet and sour jammy sauce made with malt vinegar, perfect for a post-workout meal. This dish is ayurvedic-sattvic-friendly and serves as a great source of energy.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a small saucepan, combine malt vinegar, brown sugar, soy sauce, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes, or until it thickens and turns jammy.",
+    "Season the pork belly with salt and pepper, then wrap it in lotus leaves, making sure to seal the edges tightly.",
+    "Place the wrapped pork belly in the steamer, and steam for 2 hours, or until the meat is tender and easily shreds with a fork.",
+    "While the pork is steaming, heat the sesame oil in a small pan over medium heat, and saute the sliced ginger and minced garlic until fragrant.",
+    "Once the pork is cooked, remove it from the steamer, and brush it with the jammy sauce and the ginger-garlic oil.",
+    "Serve the pork belly hot, garnished with sliced scallions and steamed bok choy.",
+    "To make the dish more substantial, serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-friendly",
+    "chinese-cuisine",
+    "lotus-leaf-wrap",
+    "post-workout",
+    "sattvic-diet",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "jammy-chinese-pork-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-chinese-pork-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:44:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "malt vinegar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "jammy dense",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
