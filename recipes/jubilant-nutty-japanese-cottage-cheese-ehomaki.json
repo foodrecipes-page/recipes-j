@@ -1,0 +1,97 @@
+{
+  "title": "Jubilant Nutty Japanese Cottage Cheese Ehomaki",
+  "description": "A satvik-friendly, nutty, and fluffy Japanese dish featuring cottage cheese, served in a large ehomaki roll. This monsoon-inspired dish is perfect for a snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to package instructions and set aside to cool.",
+    "Drain and crumble the cottage cheese into a bowl.",
+    "In a small saucepan, combine the pasta water and sesame oil, and heat over low heat until warm.",
+    "Add the chopped walnuts to the pasta water mixture and stir to combine.",
+    "Add the pickled ginger and salt to the cottage cheese and stir to combine.",
+    "Add the warm pasta water mixture to the cottage cheese mixture and stir until smooth and creamy.",
+    "Lay a nori sheet flat on a cutting board and spread a thin layer of sushi rice onto the nori, leaving a 1-inch border at the top.",
+    "Spread the cottage cheese mixture over the sushi rice, leaving a small border at the top.",
+    "Roll the ehomaki using a bamboo sushi mat, applying gentle pressure to form a compact roll.",
+    "Slice the ehomaki into 8 equal pieces and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "high-protein",
+    "japanese-inspired",
+    "monsoon",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "jubilant-nutty-japanese-cottage-cheese-ehomaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-nutty-japanese-cottage-cheese-ehomaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:36:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cottage cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "jubilant nutty",
+    "dishForm": "Ehomaki"
+  }
+}
