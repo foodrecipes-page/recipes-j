@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Crispy Spanish Potatoes Patatas Bravas",
+  "description": "A sweet and crispy Spanish dish featuring pico de gallo sauce and toast, perfect for a sick day, and dairy-free-friendly. This patatas bravas recipe is a twist on the classic Spanish dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "crusty bread, toasted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes with olive oil, smoked paprika, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until crispy.",
+    "While the potatoes are roasting, toast the bread until it is crispy.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "To assemble the dish, place a slice of toasted bread on a plate, then top with a spoonful of pico de gallo sauce, and finally add a few pieces of the crispy potatoes.",
+    "Repeat the layers until all of the ingredients have been used up.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-potatoes",
+    "dairy-free",
+    "pico-de-gallo",
+    "spanish-food",
+    "toasted-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-crispy-spanish-potatoes-patatas-bravas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-spanish-potatoes-patatas-bravas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:53:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Patatas Bravas"
+  }
+}
