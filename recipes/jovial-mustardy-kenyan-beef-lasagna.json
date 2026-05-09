@@ -1,0 +1,99 @@
+{
+  "title": "Jovial Mustardy Kenyan Beef Lasagna",
+  "description": "A midnight-craving Kenyan dish featuring lasagna sheets and a mustardy flavor, diabetic-friendly and cooked to perfection in a Dutch oven. This shattering dish is sure to satisfy any craving.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8 sheets",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna sheets according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion until softened.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the mustard and tomato sauce, bringing the mixture to a simmer.",
+    "In a large bowl, combine the cooked lasagna sheets, meat sauce, and mozzarella cheese.",
+    "In a greased Dutch oven, create a thin layer of the meat sauce, followed by a layer of lasagna sheets, and then a layer of cheese, repeating this process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Cover the Dutch oven with a lid and bake for 30 minutes, then remove the lid and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dutch-oven",
+    "gluten-free",
+    "kenyan-cuisine",
+    "lasagna",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "jovial-mustardy-kenyan-beef-lasagna",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-mustardy-kenyan-beef-lasagna",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:45:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "jovial mustardy",
+    "dishForm": "Lasagna"
+  }
+}
