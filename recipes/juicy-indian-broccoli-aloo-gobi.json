@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Indian Broccoli Aloo Gobi",
+  "description": "A salty and cheesy Indian dish featuring purple sprouting broccoli, perfect for a weeknight dinner, made in the style of aloo gobi and served in a bento box.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "brine-dry"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "amchur powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paneer cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the potatoes and cook for 5 minutes.",
+    "Add the broccoli and cook until it is tender.",
+    "Add the garam masala and amchur powder and stir to combine.",
+    "Add the paneer cheese and stir until it is melted and well combined.",
+    "Season with salt to taste.",
+    "Serve hot in a bento box."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "gluten-free",
+    "indian-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-indian-broccoli-aloo-gobi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indian-broccoli-aloo-gobi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:24:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Juicy Brine",
+    "dishForm": "Aloo Gobi"
+  }
+}
