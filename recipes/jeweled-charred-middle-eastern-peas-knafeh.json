@@ -1,0 +1,101 @@
+{
+  "title": "Jeweled Charred Middle Eastern Peas Knafeh",
+  "description": "A crispy and flavorful Middle Eastern dish featuring charred peas and knafeh, perfect for a unique dessert or snack. This recipe is onion and garlic friendly and uses a bamboo steamer for a fun twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "knafah dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer by filling it with water and bringing it to a boil.",
+    "In a large bowl, mix together the peas, melted butter, rose water, and orange blossom water.",
+    "Lay the knafah dough in the steamer and top it with the pea mixture.",
+    "Sprinkle the chopped pistachios and sliced almonds over the peas.",
+    "Cover the steamer and cook for 10 minutes or until the dough is crispy and golden brown.",
+    "Remove the knafeh from the steamer and let it cool for a few minutes.",
+    "Drizzle the honey over the top of the knafeh, if using.",
+    "Serve the Jeweled Charred Middle Eastern Peas Knafeh warm and enjoy.",
+    "Garnish with additional pistachios and almonds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dessert",
+    "gluten-free",
+    "middle-eastern",
+    "snack",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jeweled-charred-middle-eastern-peas-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-charred-middle-eastern-peas-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "peas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "peas",
+    "descriptor": "Jeweled Charred",
+    "dishForm": "Knafeh"
+  }
+}
