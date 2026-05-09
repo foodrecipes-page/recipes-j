@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Snappy Indian Vegetable Rasam",
+  "description": "A flavorful and spicy Indian dish featuring green curry paste and coconut cream, perfect for a weeknight dinner. This ovo-vegetarian friendly rasam is a one-pot wonder.",
+  "cuisine": "Indian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, potatoes, and green beans"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Stir in the green curry paste and cook for 1 minute.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Add the mixed vegetables and cook until tender, about 10 minutes.",
+    "Stir in the coconut cream and cook for 2 minutes.",
+    "Add the sliced hard-boiled eggs and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "indian-cuisine",
+    "one-pot",
+    "ovo-vegetarian",
+    "spicy",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "juicy-snappy-indian-vegetable-rasam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-snappy-indian-vegetable-rasam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:39:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Juicy Snappy",
+    "dishForm": "Rasam"
+  }
+}
