@@ -1,0 +1,101 @@
+{
+  "title": "Jovial Earthy Malaysian Linguine Pasta Bake",
+  "description": "A flavorful and comforting Malaysian dish featuring linguine pasta, en-croute, and ayurvedic-rajasic-friendly ingredients, perfect for a lazy Sunday. This recipe is cooked to perfection in an iron-teppan vessel.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "en-croute pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": "malaysian-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan vessel to 375 degrees Fahrenheit.",
+    "Cook the linguine pasta according to package instructions until al dente.",
+    "In a separate pan, saute the mushrooms and spinach in olive oil until the mushrooms are tender.",
+    "Add the curry powder to the pan and stir for 1 minute.",
+    "In a large bowl, combine the cooked pasta, mushroom mixture, and cubed tofu.",
+    "Pour the coconut milk over the pasta mixture and stir until well combined.",
+    "Roll out the en-croute pastry and place it over the iron-teppan vessel.",
+    "Fill the pastry with the pasta mixture and brush the edges with olive oil.",
+    "Bake the pasta bake for 25 minutes or until the pastry is golden brown.",
+    "Remove from heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "one-pan",
+    "pasta-bake",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jovial-earthy-malaysian-linguine-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-earthy-malaysian-linguine-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:23:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "en-croute",
+    "primaryIngredient": "linguine pasta",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "Jovial Earthy",
+    "dishForm": "Pasta"
+  }
+}
