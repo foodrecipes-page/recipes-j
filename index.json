@@ -700,6 +700,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-russian-beef-tagine",
+    "title": "Jagged Russian Beef Tagine",
+    "tags": [
+      "comfort-food",
+      "hangover-cure",
+      "low-sodium",
+      "one-pot",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-savory-ethiopian-cheese-azifa",
     "title": "Jagged Savory Ethiopian Cheese Azifa",
     "tags": [
@@ -5110,6 +5124,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-smoky-irish-lamb-stew",
+    "title": "Jovial Smoky Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "irish-food",
+      "lamb-recipes",
+      "one-pot",
+      "smoky-flavors"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
