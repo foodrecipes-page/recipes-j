@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Croatian Lamb Stew",
+  "description": "A hearty and flavorful Croatian dish featuring lamb shanks, this stew is perfect for a cozy evening, served in a vibrant talavera plate. The double fry method gives the lamb a crispy exterior and a tender interior.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pieces",
+      "notes": "about 1 1/2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the lamb shanks and brown them on all sides, about 5 minutes, then remove them from the pot.",
+    "Add the chopped onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the vegetable broth, tomato paste, thyme, salt, and pepper to the pot, and stir to combine.",
+    "Return the lamb shanks to the pot, and bring the stew to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the heat, and let the stew rest for 10 minutes before serving.",
+    "Serve the stew hot, garnished with fresh herbs, in a talavera plate."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "hearty-stew",
+    "lamb-recipes",
+    "slow-cooked",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "juicy-croatian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-croatian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:06:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "lamb shanks",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy tender",
+    "dishForm": "Stew"
+  }
+}
