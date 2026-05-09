@@ -1,0 +1,95 @@
+{
+  "title": "Jubilant Dense Irish Toffee Popcorn Bake",
+  "description": "A sweet and indulgent Irish dish featuring toffee popcorn and double-fry KFC style vegetarian-friendly treats, perfect for satisfying your sweet tooth.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "toffee popcorn",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "double-fry KFC style coating mix",
+      "amount": "1 cup",
+      "notes": "vegetarian-friendly"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and sugar.",
+    "Add the melted butter, eggs, and vanilla extract to the bowl and mix until well combined.",
+    "Stir in the toffee popcorn and double-fry KFC style coating mix.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "If using walnuts, sprinkle them on top of the mixture.",
+    "Bake for 25 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into squares and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "indulgent-treats",
+    "irish-desserts",
+    "kfc-style",
+    "toffee-popcorn",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "jubilant-dense-irish-toffee-popcorn-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dense-irish-toffee-popcorn-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:33:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "Jubilant dense",
+    "dishForm": "Bake"
+  }
+}
