@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Briny Syrian Kiwifruit Tagine",
+  "description": "A traditional Syrian dish featuring kiwifruit, cooked in a clay pot and served on a bamboo tray, with a briny and juicy flavor profile, this ayurvedic sattvic friendly recipe is perfect for a unique dinner experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat on a bamboo tray.",
+    "Add the olive oil, chopped onion, minced garlic, and grated ginger to the clay pot and cook until the onion is translucent.",
+    "Add the sliced kiwifruit, lemon juice, pomegranate molasses, salt, black pepper, and sumac to the clay pot and stir well.",
+    "Reduce the heat to low and simmer the tagine for 20 minutes or until the kiwifruit is tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Let the tagine rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Traditionally, the tagine is served with a side of couscous or rice.",
+    "To enhance the ayurvedic sattvic friendly properties of the dish, use organic and locally sourced ingredients whenever possible."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "clay-pot-cooking",
+    "sattvic-diet",
+    "syrian-cuisine",
+    "unique-dinner-ideas",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "juicy-briny-syrian-kiwifruit-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-briny-syrian-kiwifruit-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:51:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "kiwifruit",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Juicy Briny",
+    "dishForm": "Tagine"
+  }
+}
