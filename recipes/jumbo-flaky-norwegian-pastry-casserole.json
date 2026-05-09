@@ -1,0 +1,94 @@
+{
+  "title": "Jumbo Flaky Norwegian Pastry Casserole",
+  "description": "A traditional Norwegian dish featuring layers of flaky pastry, rich filling, and a hint of cream of tartar, perfect for a comforting meal. This recipe is egg-free-friendly and sure to become a family favorite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, cream of tartar, and salt.",
+    "Add the cold butter to the bowl and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "In a separate bowl, combine the sliced apples and brown sugar.",
+    "Spread half of the apple mixture over the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Place the casserole in a 9x13 inch baking dish and brush the top with heavy cream.",
+    "Bake the casserole for 40 minutes, or until the pastry is golden brown and the filling is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "jumbo-flaky-norwegian-pastry-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-flaky-norwegian-pastry-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:04:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "cream of tartar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pastry",
+    "descriptor": "Jumbo Flaky",
+    "dishForm": "Casserole"
+  }
+}
