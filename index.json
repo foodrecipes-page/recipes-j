@@ -12558,6 +12558,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-syrian-chicken-kebabs",
+    "title": "Juicy Syrian Chicken Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-syrian-potato-tagine",
     "title": "Juicy Syrian Potato Tagine",
     "tags": [
@@ -13296,6 +13311,19 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-welsh-cod-stew",
+    "title": "Juicy Welsh Cod Stew",
+    "tags": [
+      "british",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
