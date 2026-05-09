@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Creamy Vietnamese Chicken Curry",
+  "description": "A rich and flavorful one-pot Vietnamese dish featuring yuzu-kosho and coconut cream, with a mediterranean twist.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yuzu kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add yuzu kosho, fish sauce, and brown sugar, and stir to combine.",
+    "Pour in coconut cream and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes, until chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-based",
+    "gluten-free",
+    "mediterranean-friendly",
+    "one-pot",
+    "vietnamese-cuisine",
+    "yuzu-kosho"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "juicy-creamy-vietnamese-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-creamy-vietnamese-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:03:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Creamy",
+    "dishForm": "Curry"
+  }
+}
