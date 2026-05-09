@@ -1,0 +1,99 @@
+{
+  "title": "Jagged Dense Vietnamese Chicken Pho Ga",
+  "description": "A bitter, dense, and indulgent Vietnamese dish featuring cornstarch and brine-wet chicken, this pho ga is a low-glycemic-friendly option for those looking for a hearty meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "brine-wet and sliced thin"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 whole"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken broth, fish sauce, lime juice, grated ginger, star anise, and cinnamon stick, and bring to a boil.",
+    "Reduce heat to a simmer and cook for 10 minutes.",
+    "In a small bowl, whisk together cornstarch and a splash of the hot broth until smooth.",
+    "Add the cornstarch mixture to the pot and cook for an additional 2 minutes.",
+    "Add the sliced chicken breast to the pot and cook until cooked through.",
+    "Cook the rice noodles according to package instructions.",
+    "Assemble the pho ga by placing noodles in a bowl, adding sliced chicken, and ladling the hot broth over the top.",
+    "Garnish with bean sprouts and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jagged-dense-vietnamese-chicken-pho-ga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-dense-vietnamese-chicken-pho-ga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:58:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "brine-wet",
+    "primaryIngredient": "cornstarch",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Jagged Dense",
+    "dishForm": "Pho Ga"
+  }
+}
