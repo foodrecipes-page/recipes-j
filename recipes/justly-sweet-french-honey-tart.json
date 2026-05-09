@@ -1,0 +1,93 @@
+{
+  "title": "Justly Sweet French Honey Tart",
+  "description": "A sweet and crumbly French tart featuring honey and kombu cold extract, perfect for a quick dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "confectioners sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a medium bowl, whisk together the almond flour and confectioners sweetener.",
+    "Add the melted butter, eggs, honey, kombu cold extract, thyme, and salt to the bowl and mix until a dough forms.",
+    "Press the dough into a 9 inch tart pan with a removable bottom.",
+    "Bake the tart for 25 minutes or until the edges are lightly golden.",
+    "Allow the tart to cool completely before serving.",
+    "Serve the tart at room temperature or chilled.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "french-pastry",
+    "gluten-free",
+    "herbal",
+    "honey-based",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "justly-sweet-french-honey-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/justly-sweet-french-honey-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:47:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "honey",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "honey",
+    "descriptor": "Justly sweet",
+    "dishForm": "Tart"
+  }
+}
