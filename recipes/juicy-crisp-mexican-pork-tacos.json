@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Crisp Mexican Pork Tacos",
+  "description": "A sweet and crisp Mexican dish featuring pork, buns, and fresh ingredients, perfect for a crowd, this recipe is a raw-friendly and brine-dry method for preparing delicious tacos. The combination of flavors and textures makes it a crowd-pleaser.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, cumin, and chili powder.",
+    "Add the pork shoulder to the bowl and coat with the marinade.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and place it on a baking sheet.",
+    "Bake the pork in the preheated oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the pork is cooking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Assemble the tacos by placing sliced pork onto a warmed tortilla, and topping with salsa, cilantro, and onions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-dinner",
+    "mexican-food",
+    "pork-recipes",
+    "tacos",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-crisp-mexican-pork-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-mexican-pork-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:30:58Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "buns",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Tacos"
+  }
+}
