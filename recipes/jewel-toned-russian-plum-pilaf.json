@@ -1,0 +1,100 @@
+{
+  "title": "Jewel Toned Russian Plum Pilaf",
+  "description": "A rich and flavorful one-pot dish featuring plum jam and lamination-puff, served on a wooden board. This satvik-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum jam",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spread the plum jam evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the jam to form a crust.",
+    "Heat the oil in a large saucepan over medium heat and saute the onion and garlic until softened.",
+    "Add the rice to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "Add the water, salt, and pepper to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Place the pastry on a wooden board and spoon the rice mixture into the center of the pastry.",
+    "Fold the pastry up over the rice to form a packet and bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "russian-cuisine",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jewel-toned-russian-plum-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-russian-plum-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:31:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "plum jam",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "plum",
+    "descriptor": "jewel toned",
+    "dishForm": "Pilaf"
+  }
+}
