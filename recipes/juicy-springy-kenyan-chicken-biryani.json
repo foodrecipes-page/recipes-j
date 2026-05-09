@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Springy Kenyan Chicken Biryani",
+  "description": "A kid-friendly Kenyan dish featuring aromatic Arabic rice and flavorful bhuna, low in carbs and perfect for a weeknight dinner. This resinous and springy biryani is sure to become a family favorite.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Arabic rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the bhuna spice mix and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast pieces and cook until they are browned on all sides and cooked through.",
+    "Add the diced tomato and cook until it is softened.",
+    "Add the Arabic rice and stir to combine with the chicken and spice mixture.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Simmer the biryani for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the saucepan from the heat and let it stand for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "arabic-rice",
+    "chicken-dish",
+    "kid-friendly",
+    "low-carb",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-springy-kenyan-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-springy-kenyan-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:08:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "arabic rice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Springy",
+    "dishForm": "Biryani"
+  }
+}
