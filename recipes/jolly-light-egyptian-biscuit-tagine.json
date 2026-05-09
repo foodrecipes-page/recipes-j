@@ -1,0 +1,97 @@
+{
+  "title": "Jolly Light Egyptian Biscuit Tagine",
+  "description": "A fatty, light, and cozy Egyptian dish featuring digestive biscuits, namul-blanch-season, and is vegetarian-friendly, cooked in a tagine pot.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "1 package",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crushed digestive biscuits and cook for 2 minutes, stirring constantly.",
+    "Add the blanched and seasoned namul, tomato paste, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20 minutes.",
+    "Reduce the heat to low and cook, uncovered, for an additional 10 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "north-african",
+    "one-pot",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jolly-light-egyptian-biscuit-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jolly-light-egyptian-biscuit-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:44:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "digestive biscuits",
+    "descriptor": "jolly light",
+    "dishForm": "Tagine"
+  }
+}
