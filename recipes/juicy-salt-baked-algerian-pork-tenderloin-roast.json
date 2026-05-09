@@ -1,0 +1,94 @@
+{
+  "title": "Juicy Salt Baked Algerian Pork Tenderloin Roast",
+  "description": "A low-calorie-friendly Algerian dish featuring pork tenderloin, salt-bake, and a blend of bitter and chewy flavors, perfect for a date night dinner",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, mix together kosher salt, brown sugar, smoked paprika, ground cumin, and black pepper",
+    "Place the pork tenderloin in a bamboo steamer lined with parchment paper",
+    "Rub the salt mixture all over the pork tenderloin, making sure to coat it evenly",
+    "Place the chopped dates and parsley on top of the pork tenderloin",
+    "Cover the bamboo steamer with a lid and bake for 25 minutes",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the pork reaches an internal temperature of 145 degrees Fahrenheit",
+    "Let the pork rest for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "bamboo-steamer",
+    "date-night",
+    "low-calorie",
+    "pork-recipes",
+    "salt-bake"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "juicy-salt-baked-algerian-pork-tenderloin-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-salt-baked-algerian-pork-tenderloin-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:42:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Juicy Salt Baked",
+    "dishForm": "Roast"
+  }
+}
