@@ -1,0 +1,106 @@
+{
+  "title": "Juicy American Chicken Stew",
+  "description": "A comforting and winey American dish featuring brandy, grilled chicken, and ayurvedic-sattvic-friendly ingredients, served in a mason jar.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup",
+      "notes": "or substitute with apple cider vinegar"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry, such as merlot or cabernet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat and grill the chicken until browned on all sides.",
+    "In a large bowl, whisk together the brandy, red wine, olive oil, salt, black pepper, and thyme.",
+    "Add the grilled chicken, onion, carrots, and potatoes to the bowl and toss to coat with the marinade.",
+    "Transfer the mixture to a large mason jar and bake in a preheated oven at 375 degrees Fahrenheit for 30 minutes.",
+    "Reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Remove the stew from the oven and let it cool for a few minutes before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days and reheat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-american-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-american-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:08:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "brandy",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy brandy",
+    "dishForm": "Stew"
+  }
+}

@@ -4538,6 +4538,20 @@
     "shard": "j"
   },
   {
+    "slug": "jolting-savory-filipino-pork-noodles",
+    "title": "Jolting Savory Filipino Pork Noodles",
+    "tags": [
+      "asian-cuisine",
+      "dairy-free",
+      "filipino-food",
+      "noodle-dish",
+      "spicy-food"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "journey-smoky-korean-rice-bowl",
     "title": "Journey-smoky Korean rice bowl",
     "tags": [
@@ -6521,6 +6535,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-american-chicken-stew",
+    "title": "Juicy American Chicken Stew",
+    "tags": [
+      "american-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "sattvic",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {
