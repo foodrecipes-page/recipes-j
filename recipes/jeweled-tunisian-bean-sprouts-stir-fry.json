@@ -1,0 +1,103 @@
+{
+  "title": "Jeweled Tunisian Bean Sprouts Stir Fry",
+  "description": "A pungent and flavorful Tunisian dish featuring bean sprouts, perfect for a Buddhist temple gathering, with a glassy jelly like texture from the added pomegranate molasses.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the bean sprouts and cook until they are tender but still crisp.",
+    "In a small bowl, whisk together the pomegranate molasses, soy sauce, sesame seeds, salt, and black pepper.",
+    "Pour the sauce over the bean sprouts and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened and the bean sprouts are coated.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "quick-dinner",
+    "stir-fry",
+    "tunisian-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "jeweled-tunisian-bean-sprouts-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-tunisian-bean-sprouts-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:42:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "bean sprouts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "jeweled glassy",
+    "dishForm": "Stir-fry"
+  }
+}
