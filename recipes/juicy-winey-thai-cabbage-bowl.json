@@ -1,0 +1,104 @@
+{
+  "title": "Juicy, Winey Thai Cabbage Bowl",
+  "description": "A delicious and healthy Thai dish featuring winey flavors and juicy cabbage, perfect for a lazy Sunday. This recipe features a diabetic-friendly twist using sugar-free fish sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "You can also use chicken or tofu for a vegetarian option"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "Choose a variety with thick, crunchy leaves"
+    },
+    {
+      "name": "Sugar-free fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores or online"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For high heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "More or less to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the garlic, ginger, and chili flakes and cook for 1 minute.",
+    "Add the cabbage and cook until slightly softened, about 3 minutes.",
+    "Stir in the sugar-free fish sauce and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the cabbage mixture over a bed of rice or noodles, garnished with cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "juicy-winey-thai-cabbage-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-winey-thai-cabbage-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:23:51Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cabbage",
+    "diet": "diabetic-friendly",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cabbage",
+    "descriptor": "juicy, winey",
+    "dishForm": "Bowl"
+  }
+}
