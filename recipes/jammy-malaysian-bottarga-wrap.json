@@ -1,0 +1,96 @@
+{
+  "title": "Jammy Malaysian Bottarga Wrap",
+  "description": "A keto-friendly Malaysian dish featuring bottarga, pasta-water-emulsion, and a corn husk wrap, with a jammy and velvety texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "1/2 cup",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a blender, combine pasta water, coconut oil, garlic, ginger, curry powder, and salt, and blend until smooth.",
+    "Add the grated bottarga to the blender and blend until well combined.",
+    "Heat the mixture in a saucepan over low heat, stirring constantly, until it thickens and becomes jammy.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Spoon the jammy bottarga mixture onto a corn husk and fold the husk to enclose.",
+    "Serve immediately and enjoy.",
+    "Repeat with the remaining ingredients.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bottarga-recipes",
+    "corn-husk-wrap",
+    "jammy-texture",
+    "keto-friendly",
+    "low-carb",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "jammy-malaysian-bottarga-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-malaysian-bottarga-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:18:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bottarga",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bottarga",
+    "descriptor": "jammy velvety",
+    "dishForm": "Wrap"
+  }
+}
