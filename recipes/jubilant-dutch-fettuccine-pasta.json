@@ -1,0 +1,98 @@
+{
+  "title": "Jubilant Dutch Fettuccine Pasta",
+  "description": "A halal-friendly Dutch dish featuring fettuccine, perfect for a funky brunch mood, simmered to perfection with a bouncy qq twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large saucepan, combine the chicken broth, shredded dutch cheese, salt, and black pepper, and stir over low heat until the cheese is melted and the sauce is smooth.",
+    "Add the cooked fettuccine to the cheese sauce and toss to combine, ensuring the pasta is well coated.",
+    "Transfer the fettuccine to the skillet with the onion and garlic, and toss to combine.",
+    "Simmer the fettuccine mixture over low heat for 5 minutes, stirring occasionally, until the flavors are well combined and the pasta is heated through.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dutch-cuisine",
+    "halal-friendly",
+    "one-pot",
+    "pasta-lover"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "jubilant-dutch-fettuccine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-dutch-fettuccine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:19:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "fettuccine",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Jubilant Bouncy",
+    "dishForm": "Pasta"
+  }
+}
