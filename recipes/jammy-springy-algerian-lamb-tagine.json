@@ -1,0 +1,114 @@
+{
+  "title": "Jammy Springy Algerian Lamb Tagine",
+  "description": "A crowd-pleasing Algerian dish featuring lamb, pistachio, and bonito flakes, cooked to perfection in a slate-tile vessel, this paleo-friendly tagine is a jammy and springy delight. It is a hearty and flavorful meal that is sure to impress.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, pistachio, bonito flakes, cumin, cinnamon, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium-high heat and sear the lamb mixture until browned on all sides.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the ginger to the skillet and cook for 1 minute.",
+    "Transfer the skillet contents to a slate-tile vessel and cover with a lid.",
+    "Transfer the vessel to the preheated oven and cook for 2.5 hours.",
+    "Remove the vessel from the oven and let it cool for 10 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "jammy-dishes",
+    "lamb-based",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "jammy-springy-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-springy-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:05:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pistachio",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "jammy springy",
+    "dishForm": "Tagine"
+  }
+}

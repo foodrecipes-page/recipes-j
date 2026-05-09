@@ -1538,6 +1538,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-springy-algerian-lamb-tagine",
+    "title": "Jammy Springy Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "jammy-dishes",
+      "lamb-based",
+      "one-pot",
+      "paleo-friendly",
+      "slow-cooked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-springy-middle-eastern-pecorino-tagine",
     "title": "Jammy Springy Middle Eastern Pecorino Tagine",
     "tags": [
