@@ -1,0 +1,101 @@
+{
+  "title": "Jammy Tender Moroccan Sausages Amlou",
+  "description": "A one-pot Moroccan dish featuring Italian fennel sausages, katsuramuki-cut, in a sweet and spicy jammy sauce, vegetarian-friendly in form of amlou.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the katsuramuki-cut Italian fennel sausages and cook until they are browned on all sides.",
+    "In a small bowl, whisk together the honey, almond butter, ras el hanout, salt, and black pepper.",
+    "Pour the honey and almond butter mixture over the sausages and onions, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the sauce has thickened and the sausages are cooked through.",
+    "Serve the sausages and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jammy-sauce",
+    "moroccan-cuisine",
+    "one-pot",
+    "sausage-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jammy-tender-moroccan-sausages-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-tender-moroccan-sausages-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:41:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sausages",
+    "descriptor": "Jammy Tender",
+    "dishForm": "Amlou"
+  }
+}
