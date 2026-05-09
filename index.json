@@ -7060,6 +7060,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-argentinian-lamb-wrap",
+    "title": "Juicy Argentinian Lamb Wrap",
+    "tags": [
+      "argentinian-cuisine",
+      "flexitarian-friendly",
+      "lamb-based",
+      "lemon-herb",
+      "wrap-style"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-australian-chicken-stir-fry",
     "title": "Juicy Australian Chicken Stir-fry",
     "tags": [
@@ -9819,6 +9833,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-light-german-smoked-salmon-pasta",
+    "title": "Juicy Light German Smoked Salmon Pasta",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "one-pan",
+      "pasta",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {

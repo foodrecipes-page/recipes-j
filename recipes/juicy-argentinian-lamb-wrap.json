@@ -1,0 +1,92 @@
+{
+  "title": "Juicy Argentinian Lamb Wrap",
+  "description": "A peppery and chewy Argentinian dish featuring lemons and ssam-wrap, perfect for a flexitarian-friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the lamb from the oven and let it rest for 5 minutes.",
+    "Slice the lamb into thin strips.",
+    "Warm the ssam wrap by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by spreading chimichurri sauce on the ssam wrap, then adding sliced lamb and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "flexitarian-friendly",
+    "lamb-based",
+    "lemon-herb",
+    "wrap-style"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "juicy-argentinian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-argentinian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:08:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "lemons",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "juicy peppery",
+    "dishForm": "Wrap"
+  }
+}
