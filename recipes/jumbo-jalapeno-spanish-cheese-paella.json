@@ -1,0 +1,98 @@
+{
+  "title": "Jumbo Jalapeno Spanish Cheese Paella",
+  "description": "A savory, cheese-pull, solo-dinner Spanish dish featuring passion fruit pulp, slow-cooked to perfection in a bamboo steamer, vegan-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jalapeno peppers",
+      "amount": "4 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Spanish vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Passion fruit pulp",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bamboo steamer over medium heat.",
+    "Add the diced jalapeno peppers and cook until they start to soften.",
+    "Add the smoked paprika and saffron threads, stirring constantly for 1 minute.",
+    "Add the brown rice and cook for 2 minutes, stirring frequently.",
+    "Add the vegetable broth, passion fruit pulp, and shredded vegan cheese, stirring until the cheese is well combined.",
+    "Cover the bamboo steamer with a lid and transfer it to a low heat setting.",
+    "Slow cook the paella for 25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the paella from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "cheese-pull",
+    "passion-fruit",
+    "slow-cooked",
+    "spanish-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "jumbo-jalapeno-spanish-cheese-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jumbo-jalapeno-spanish-cheese-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:01:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Jumbo Jalapeno",
+    "dishForm": "Paella"
+  }
+}
