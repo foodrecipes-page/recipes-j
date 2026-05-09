@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Crisp American Lamb Kebabs",
+  "description": "A flavorful and romantic American dish featuring lamb, perfect for a date night, with a pescatarian-friendly twist by substituting lamb with portobello mushrooms if needed, and the umami taste is enhanced by the use of soy sauce and balsamic vinegar, while the crisp is achieved by grilling the kebabs and the steam is added by serving with steamed vegetables",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms for pescatarian option"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, soy sauce, balsamic vinegar, and garlic.",
+    "Add the lamb or mushrooms, onion, bell pepper, and zucchini to the bowl and toss to coat.",
+    "Thread the lamb or mushrooms and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to 145 degrees Fahrenheit or the vegetables are tender.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs with steamed vegetables, such as asparagus or green beans, and a side of quinoa or couscous.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-crisp-american-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crisp-american-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:12:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "lamb",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Crisp",
+    "dishForm": "Kebabs"
+  }
+}
