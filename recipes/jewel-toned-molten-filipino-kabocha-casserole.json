@@ -1,0 +1,106 @@
+{
+  "title": "Jewel Toned Molten Filipino Kabocha Casserole",
+  "description": "A pungent and comforting Filipino dish featuring kabocha, this lacto-vegetarian friendly casserole is perfect for a cold winter night, the terracotta dish adding an earthy touch to the presentation.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "lacto-vegetarian friendly"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the oil over medium heat and saute the onion until translucent.",
+    "Add the garlic and ginger to the pan and cook for 1 minute, until fragrant.",
+    "Add the cubed kabocha to the pan and cook for 5 minutes, until slightly tender.",
+    "In a large bowl, combine the cooked kabocha mixture, coconut milk, salt, and pepper, and stir until well combined.",
+    "Transfer the mixture to a terracotta dish and top with shredded cheese.",
+    "Bake the casserole in the preheated oven for 30 minutes, until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped cilantro, if desired.",
+    "Let the casserole cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "filipino-food",
+    "kabocha-squash",
+    "lacto-vegetarian",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "jewel-toned-molten-filipino-kabocha-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-molten-filipino-kabocha-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:29:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "kabocha",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "kabocha",
+    "descriptor": "jewel toned molten",
+    "dishForm": "Casserole"
+  }
+}
