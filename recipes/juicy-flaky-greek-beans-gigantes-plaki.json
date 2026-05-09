@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Flaky Greek Beans Gigantes Plaki",
+  "description": "A traditional Greek dish featuring large beans in a flavorful tomato sauce, perfect for a nostalgic and satisfying meal. This recipe is Whole30-friendly and made with wholesome ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 pound",
+      "notes": "large, dry lima beans"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the gigantes beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the beans, then place them in a large pot with enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans for 45 minutes, or until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until it is softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the tomato paste and cook for 1 minute, until it is fragrant.",
+    "Add the canned crushed tomatoes, dried oregano, salt, and black pepper, and stir to combine.",
+    "Add the cooked gigantes beans to the skillet and stir to combine with the tomato sauce.",
+    "Transfer the bean mixture to a large serving dish and top with chopped fresh parsley.",
+    "Serve the gigantes plaki hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-recipes",
+    "comfort-food",
+    "greek-food",
+    "one-pot",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "juicy-flaky-greek-beans-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-greek-beans-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:13:46Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "warm water",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beans",
+    "descriptor": "juicy flaky",
+    "dishForm": "Gigantes Plaki"
+  }
+}
