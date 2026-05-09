@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Turkish Lamb Kunefe",
+  "description": "A winey, juicy Turkish dish featuring shio-koji and tempering chocolate, made in a paella pan and suitable for low-glycemic diets.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kunefe pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in the paella pan over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb shoulder and cook until it is browned on all sides.",
+    "Add the red wine, shio-koji, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Arrange the kunefe pastry in the paella pan, on top of the lamb mixture.",
+    "Melt the tempering chocolate and drizzle it over the kunefe pastry.",
+    "Transfer the paella pan to the preheated oven and bake for 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-dessert",
+    "lamb-recipes",
+    "low-glycemic",
+    "one-pan",
+    "turkish-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "juicy-turkish-lamb-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-turkish-lamb-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:54:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shio-koji",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Winey",
+    "dishForm": "Kunefe"
+  }
+}
