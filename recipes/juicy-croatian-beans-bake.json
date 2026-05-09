@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Croatian Bean Bake",
+  "description": "A classic, post-workout ovo-vegetarian dish featuring tender beans, a touch of spice, and a crunchy crust. Great for a hearty dinner or a satisfying snack.",
+  "cuisine": "croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned kidney beans",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 (14.5 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the canned kidney beans, diced tomatoes, onion, garlic, caraway seeds, dried oregano, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the bean mixture to a 9x9-inch baking dish.",
+    "Drizzle the olive oil over the top and sprinkle with bread crumbs.",
+    "Bake for 25 minutes, or until the top is golden brown and the beans are hot and bubbly.",
+    "Let the dish rest for a few minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-carb",
+    "oven-baked",
+    "ovo-vegetarian",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "juicy-croatian-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-croatian-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "beans",
+    "descriptor": "juicy",
+    "dishForm": "Bake"
+  }
+}
