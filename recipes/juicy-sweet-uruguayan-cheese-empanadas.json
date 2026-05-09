@@ -1,0 +1,94 @@
+{
+  "title": "Uruguayan Cheese Empanadas",
+  "description": "Sweet and crumbly pastry filled with cheese, perfect for a kid-friendly snack, featuring a hint of Shaoxing wine and a crispy broiled finish.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "or similar sweet cheese"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, warm water, vegetable oil, salt, and sugar, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of Uruguayan cheese in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and broil for 2-3 minutes, or until golden brown.",
+    "Remove from the oven and brush with Shaoxing wine.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "cheese-filled",
+    "easy-to-make",
+    "kid-friendly",
+    "snack-time",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "juicy-sweet-uruguayan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-uruguayan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:56:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "juicy sweet",
+    "dishForm": "Empanadas"
+  }
+}
