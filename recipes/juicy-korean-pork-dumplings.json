@@ -1,0 +1,95 @@
+{
+  "title": "Juicy Korean Pork Dumplings",
+  "description": "Garlicky and crumbly Korean dumplings featuring truffle oil, score-fat, and low-fat-friendly ingredients, cooked to perfection in a tandoor-clay-pot",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay-pot to 400 degrees Fahrenheit",
+    "In a large bowl, combine ground pork, garlic, truffle oil, soy sauce, and sesame oil, and mix well",
+    "Add chopped green onions to the bowl and mix until just combined",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center",
+    "Dip your finger in the melted score-fat and run it along the edge of the wrapper",
+    "Fold the wrapper into a triangle and press the edges together to seal the dumpling",
+    "Repeat with the remaining wrappers and filling",
+    "Place the dumplings in the preheated tandoor-clay-pot and cook for 15 minutes",
+    "Serve the dumplings hot with your favorite dipping sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "dumplings",
+    "korean-cuisine",
+    "low-fat",
+    "tandoor-cooking",
+    "truffle-oil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-korean-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-korean-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:45:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "truffle oil",
+    "diet": "low-fat",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "juicy garlicky",
+    "dishForm": "Dumplings"
+  }
+}
