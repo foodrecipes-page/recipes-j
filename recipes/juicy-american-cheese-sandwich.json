@@ -1,0 +1,111 @@
+{
+  "title": "Juicy American Cheese Sandwich",
+  "description": "A classic American cheese sandwich, made with rye bread, american cheese, and a hint of peppery flavor. Perfect for a quick weeknight dinner or lunch on the go.",
+  "cuisine": "American",
+  "diet": [
+    null,
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Butter one side of each rye bread slice.",
+    "Place one slice, buttered side down, in the grill.",
+    "Top with a slice of american cheese, a few slices of onion, a few slices of tomato, a few leaves of lettuce, and a few slices of rye bread.",
+    "Place another slice of rye bread, buttered side up, on top of the filling.",
+    "Cook for 2-3 minutes, or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for another 2-3 minutes, or until the other side is also golden brown.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy.",
+    "For a plant-based version, replace the american cheese with a plant-based alternative, such as vegan cheese or hummus.",
+    "For an extra-crispy crust, brush the bread with water before cooking.",
+    "To make nigiri-style sandwiches, shape the sandwiches into small rectangles and serve on a platter."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cheese",
+    "dinner",
+    "easy",
+    "lunch",
+    "one-pan",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "juicy-american-cheese-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-american-cheese-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rye bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "juicy",
+    "dishForm": "Sandwich"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Jasmine Thai Goose Khao Pad",
+  "description": "A delicate, umami-rich Thai dish featuring crispy goose skin and tender goose meat, served in a light and aromatic jasmine-infused sauce. Perfect for a romantic date night or special occasion.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goose fat",
+      "amount": "1/2 cup",
+      "notes": "Reserved from roasting the goose"
+    },
+    {
+      "name": "Goose meat",
+      "amount": "1 lb",
+      "notes": "Diced, preferably from a pasture-raised goose"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "Cooked and fluffed separately"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten, for the sauce"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "High-quality, with no added preservatives"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Light or dark, depending on preference"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tsp",
+      "notes": "To balance the savory flavors"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tbsp",
+      "notes": "Fresh, not from a jar"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince, but not overdo it"
+    },
+    {
+      "name": "Thai chiles",
+      "amount": "1-2",
+      "notes": "Sliced, for added heat"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of goose fat in a large wok or frying pan over medium-high heat.",
+    "Add the diced goose meat and cook until browned and crispy, about 5 minutes.",
+    "Remove the cooked goose meat from the wok and set aside.",
+    "In the same wok, add the remaining 2 tbsp of goose fat and pour in the beaten egg.",
+    "Scramble the egg until cooked through, breaking it into small pieces as it cooks.",
+    "Add the cooked jasmine rice to the wok and stir-fry for about 2 minutes, until heated through.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, brown sugar, grated ginger, and garlic.",
+    "Pour the sauce mixture over the rice and stir-fry for another 2 minutes, until well combined.",
+    "Add the cooked goose meat back into the wok and stir-fry for a final 2 minutes, until heated through and the flavors have melded together.",
+    "Serve immediately, garnished with sliced Thai chiles and fresh cilantro, if desired.",
+    "This recipe makes 2-3 servings and can be easily doubled or tripled for a larger group."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "diabetic-friendly",
+    "goose-fat",
+    "light",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "jasmine-thai-goose-khao-pad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jasmine-thai-goose-khao-pad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "goose fat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "goose",
+    "descriptor": "Jasmine",
+    "dishForm": "Khao Pad"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Ethiopian Oats Billets",
+  "description": "A rich and juicy kid-friendly dish featuring oats, perfect for breakfast or snack.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "old-fashioned rolled oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat an air fryer to 375°F (190°C).",
+    "In a large bowl, mix together oats, flour, grated carrots, grated zucchini, chopped onion, and minced garlic.",
+    "Add chopped parsley and mix until well combined.",
+    "Using your hands, shape the mixture into 6-8 small billets.",
+    "Place the billets in the preheated air fryer basket, leaving about 1 inch of space between each billet.",
+    "Cook for 12 minutes, shaking the basket halfway through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "breakfast",
+    "easy",
+    "kid-friendly",
+    "lunch",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "juicy-ethiopian-oats-billets",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-ethiopian-oats-billets",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oats",
+    "descriptor": "juicy",
+    "dishForm": "Billets"
+  }
+}

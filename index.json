@@ -1668,6 +1668,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-tender-brittany-bacon-boil",
+    "title": "Jammy Tender Brittany Bacon Boil",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-tender-moroccan-sausages-amlou",
     "title": "Jammy Tender Moroccan Sausages Amlou",
     "tags": [
@@ -1901,6 +1915,20 @@
     ],
     "cuisine": "Russian Vegan",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jasmine-thai-goose-khao-pad",
+    "title": "Jasmine Thai Goose Khao Pad",
+    "tags": [
+      "date-night",
+      "diabetic-friendly",
+      "goose-fat",
+      "light",
+      "umami-rich"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -6995,6 +7023,23 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-american-cheese-sandwich",
+    "title": "Juicy American Cheese Sandwich",
+    "tags": [
+      "american",
+      "cheese",
+      "dinner",
+      "easy",
+      "lunch",
+      "one-pan",
+      "sandwich",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 9,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-american-chicken-stew",
     "title": "Juicy American Chicken Stew",
     "tags": [
@@ -8748,6 +8793,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-ethiopian-oats-billets",
+    "title": "Ethiopian Oats Billets",
+    "tags": [
+      "air-fryer",
+      "breakfast",
+      "easy",
+      "kid-friendly",
+      "lunch",
+      "one-pan"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
