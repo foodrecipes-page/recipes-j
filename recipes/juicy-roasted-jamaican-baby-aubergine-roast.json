@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Roasted Jamaican Baby Aubergine Roast",
+  "description": "A fermented, crisp, and flavorful Jamaican dish featuring roasted baby aubergine, perfect for a sick day, and paleo-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "12",
+      "notes": "small"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, blend the scotch bonnet pepper, onion, garlic, thyme, allspice, salt, and black pepper to make a spice paste.",
+    "Place the baby aubergine in a bowl and toss with the spice paste until they are evenly coated.",
+    "Heat the coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Add the baby aubergine to the skillet and sear until they are browned on all sides.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Remove the skillet from the oven and let the baby aubergine rest for 5 minutes.",
+    "Serve the roasted baby aubergine hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "paleo-friendly",
+    "roasted-vegetables",
+    "spicy-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "juicy-roasted-jamaican-baby-aubergine-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-jamaican-baby-aubergine-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:58:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "baby aubergine",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Juicy roasted",
+    "dishForm": "Roast"
+  }
+}
