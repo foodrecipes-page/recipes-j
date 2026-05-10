@@ -1,0 +1,94 @@
+{
+  "title": "Jagged Canadian Hazelnut Salad",
+  "description": "A salty and crunchy vegetarian dish featuring hazelnuts and lardons, served in a bento box, reminiscent of Canadian nostalgia",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Spread the chopped hazelnuts on a baking sheet and toast in the oven for 10 minutes.",
+    "Remove the hazelnuts from the oven and let them cool.",
+    "In a large skillet, render the lardons over medium heat until crispy.",
+    "In a large bowl, combine the mixed greens, sliced red onion, and toasted hazelnuts.",
+    "In a small bowl, whisk together the apple cider vinegar, olive oil, salt, and black pepper to make the dressing.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Divide the salad among 4 bento boxes.",
+    "Top each salad with crispy lardons."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "canadian-cuisine",
+    "crunchy-salads",
+    "hazelnut-recipes",
+    "lunch-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "jagged-canadian-hazelnut-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-canadian-hazelnut-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:21:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "hazlenuts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "jagged crunchy",
+    "dishForm": "Salad"
+  }
+}
