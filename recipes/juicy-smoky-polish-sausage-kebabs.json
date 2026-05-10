@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Smoky Polish Sausage Kebabs",
+  "description": "A garlicky and springy Polish dish featuring sun-dried tomatoes and char-grill flavor, perfect for a midnight craving.",
+  "cuisine": "Polish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the Polish sausage, sun-dried tomatoes, onion, and bell pepper to the bowl and toss to coat.",
+    "Thread the sausage and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve hot, garnished with additional sun-dried tomatoes and garlic if desired.",
+    "Refrigerate or freeze leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "grilled",
+    "kebabs",
+    "kosher",
+    "polish",
+    "sausage",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-smoky-polish-sausage-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-polish-sausage-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:44:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "Juicy Smoky",
+    "dishForm": "Kebabs"
+  }
+}
