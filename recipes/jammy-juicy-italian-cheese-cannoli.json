@@ -1,0 +1,105 @@
+{
+  "title": "Jammy Juicy Italian Cheese Cannoli",
+  "description": "A festive Italian dish featuring red curry paste and cheese pull, served in a cannoli form on a cedar plank, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained overnight"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cannoli shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "12 planks",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ricotta cheese, red curry paste, and confectioners sugar, and mix until smooth.",
+    "Stir in the chopped pistachios and dried cranberries.",
+    "Spoon the cheese mixture into a piping bag fitted with a large round tip.",
+    "Pipe the cheese mixture into the cannoli shells, filling them about 3/4 of the way full.",
+    "Place the filled cannoli shells on the soaked cedar planks, leaving about 1 inch of space between each shell.",
+    "Drizzle the melted butter over the cannoli shells.",
+    "Bake the cannoli for 12 minutes, or until the cheese is melted and the shells are golden brown.",
+    "Remove the cannoli from the oven and let them cool for 5 minutes.",
+    "Serve the cannoli warm, topped with a spoonful of jam and a sprinkle of chopped fresh basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "cedar-plank",
+    "cheese-pull",
+    "festive-food",
+    "italian-dessert",
+    "jam-filled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "jammy-juicy-italian-cheese-cannoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-juicy-italian-cheese-cannoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:44:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Jammy Juicy",
+    "dishForm": "Cannoli"
+  }
+}
