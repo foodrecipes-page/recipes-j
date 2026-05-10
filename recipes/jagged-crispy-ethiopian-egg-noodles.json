@@ -1,0 +1,92 @@
+{
+  "title": "Jagged Crispy Ethiopian Egg Noodles",
+  "description": "A paleo-friendly Ethiopian dish featuring crispy egg noodles and a bitter poach, this recipe is a unique twist on traditional Ethiopian cuisine. It is light and refreshing, perfect for a snack or lunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "made from paleo-friendly ingredients"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the egg noodles according to the package instructions.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the sliced onion to the skillet and cook until it is lightly browned and crispy.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the berbere spice, salt, and black pepper.",
+    "Add the cooked egg noodles to the skillet and toss to combine with the onion and spice mixture.",
+    "Squeeze the lemon juice over the top of the noodles and toss again to combine.",
+    "Increase the heat to high and cook for an additional 2-3 minutes, or until the noodles are crispy and lightly browned."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-noodles",
+    "ethiopian-cuisine",
+    "lunch-ideas",
+    "paleo-friendly",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jagged-crispy-ethiopian-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-crispy-ethiopian-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:22:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "egg noodles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Jagged Crispy",
+    "dishForm": "Noodles"
+  }
+}
