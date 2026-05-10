@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Polish Milk Mousse",
+  "description": "A light and airy dessert made with cultured milk, nuka-pickle, and condensed milk. Perfect for a diabetic-friendly breakfast or brunch.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Condensed milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Cultured milk (yogurt)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine condensed milk, cultured milk, nuka-pickle juice, vanilla extract, and lemon zest. Blend until smooth.",
+    "In a separate bowl, whip egg whites until stiff peaks form.",
+    "Gradually add granulated sugar to egg whites and whip until combined.",
+    "Fold egg white mixture into the condensed milk mixture until no white streaks remain.",
+    "Add melted butter, if using, and fold until combined.",
+    "Pour mixture into individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours or until set.",
+    "Serve chilled and garnished with a sprinkle of granulated sugar, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert",
+    "diabetic-friendly",
+    "low-carb",
+    "low-sugar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "juicy-polish-milk-mousse",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-polish-milk-mousse",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:32:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "condensed milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "milk",
+    "descriptor": "juicy",
+    "dishForm": "Mousse"
+  }
+}
