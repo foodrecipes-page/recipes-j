@@ -1,0 +1,102 @@
+{
+  "title": "Jewel Toned Silky Croatian Mushroom Stew",
+  "description": "A winey and cozy Croatian dish featuring sake-cooked mushrooms in a rich miso broth, perfect for a flexitarian-friendly meal. This stew is cooked to perfection in a donabe vessel.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "such as cremini, shiitake, and oyster mushrooms"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "Add the olive oil, chopped onion, and minced garlic, and cook until the onion is translucent.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the sake and cook until the liquid is almost completely evaporated.",
+    "Add the miso paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth, dried thyme, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "flexitarian",
+    "mushroom-based",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "jewel-toned-silky-croatian-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jewel-toned-silky-croatian-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:35:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sake-cooking",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "jewel toned silky",
+    "dishForm": "Stew"
+  }
+}
