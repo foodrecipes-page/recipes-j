@@ -1,0 +1,118 @@
+{
+  "title": "Juicy Crispy Croatian Oxtail Stew",
+  "description": "A cultured Croatian dish featuring oxtail, this stew is both crispy and diabetic friendly, perfect for a special occasion.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic friendly",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium high heat.",
+    "Add the oxtail pieces and sear until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and celery and cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the oxtail to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender and falling off the bone.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Strain the stew through a fine mesh sieve into a clean pot, discarding the solids.",
+    "Skim off any excess fat that rises to the surface.",
+    "To make the stew crispy, increase the oven temperature to 400 degrees Fahrenheit.",
+    "Place the stew in a baking dish and bake for 20 minutes, or until the top is crispy and golden brown.",
+    "To shock the stew in an ice bath, fill a large bowl with ice and water, then carefully place the baking dish in the ice bath to stop the cooking process."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "diabetic-friendly",
+    "low-carb",
+    "oxtail-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-crispy-croatian-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-croatian-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:09:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "oxtail",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "oxtail",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Stew"
+  }
+}
