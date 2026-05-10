@@ -12163,6 +12163,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-mexican-chicken-enchiladas",
+    "title": "Juicy Mexican Chicken Enchiladas",
+    "tags": [
+      "cheesy",
+      "chicken-recipes",
+      "comfort-food",
+      "enchiladas",
+      "mexican-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-mexican-corn-elote",
     "title": "Juicy Mexican Corn Elote",
     "tags": [

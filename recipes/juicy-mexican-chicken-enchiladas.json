@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Mexican Chicken Enchiladas",
+  "description": "A nostalgic Mexican dish featuring tender chicken, wrapped in pillowy tortillas and covered in a floral, slightly tangy sauce made with white vinegar, all encased in a crispy, golden crust, perfect for a comforting dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the white vinegar and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for a few minutes until it has thickened slightly.",
+    "Wrap the tortillas in a damp paper towel and microwave for 20-30 seconds to make them more pliable.",
+    "Dip each tortilla in the sauce, then fill with cooked chicken and roll up.",
+    "Place the rolled tortillas in a baking dish, seam-side down, and cover with the remaining sauce and shredded cheese.",
+    "Bake the enchiladas in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chicken-recipes",
+    "comfort-food",
+    "enchiladas",
+    "mexican-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "juicy-mexican-chicken-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-mexican-chicken-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:31:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "white vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "juicy pillowy",
+    "dishForm": "Enchiladas"
+  }
+}
