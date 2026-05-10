@@ -1,0 +1,107 @@
+{
+  "title": "Jubilant Italian Polish Sausage Cassata",
+  "description": "A rich and indulgent Italian dish featuring Polish sausage, soffritto base, and vegetarian friendly ingredients, all layered in a cassata form within an earthenware bowl.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chopped onions, carrots, and celery until they are softened.",
+    "Add the Polish sausage to the skillet, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the tomato sauce and bring the mixture to a simmer.",
+    "In a large bowl, combine the ricotta cheese, egg, and chopped basil.",
+    "In a separate bowl, combine the shredded mozzarella cheese and a pinch of salt.",
+    "In an earthenware bowl, create a layer of the sausage and tomato sauce mixture.",
+    "Top the sausage layer with a layer of the ricotta cheese mixture.",
+    "Sprinkle a layer of the mozzarella cheese mixture over the ricotta layer.",
+    "Repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Cover the earthenware bowl with aluminum foil and bake for 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cassata",
+    "earthenware-bowl",
+    "indulgent-dish",
+    "italian-food",
+    "polish-sausage",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "jubilant-italian-polish-sausage-cassata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-italian-polish-sausage-cassata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:50:04Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "polish sausage",
+    "diet": "vegetarian",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "polish sausage",
+    "descriptor": "jubilant fluffy",
+    "dishForm": "Cassata"
+  }
+}
