@@ -1,0 +1,102 @@
+{
+  "title": "Jammy Molten Norwegian Mushroom Casserole",
+  "description": "A rich and savory Norwegian dish featuring mushrooms and rest-meat in a jammy molten sauce, macrobiotic-friendly and perfect for special occasions.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "mixed varieties"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 pound",
+      "notes": "beef or pork"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "such as gudbrandsdalsost"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Sauté the mushrooms and onion in olive oil until the mushrooms release their liquid and start to brown.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the rest-meat and cook until browned, breaking it up into small pieces as it cooks.",
+    "In a separate saucepan, whisk together the flour and vegetable broth, then bring to a boil and cook until thickened.",
+    "Remove the sauce from the heat and stir in the norwegian cheese until melted and smooth.",
+    "In a greased 9x13 inch baking dish, arrange a layer of the mushroom and meat mixture, followed by a layer of the cheese sauce, and repeat until all ingredients are used, ending with a layer of cheese sauce on top.",
+    "Bake for 25 minutes, or until the casserole is hot and the cheese is melted and jammy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "macrobiotic",
+    "mushroom",
+    "norwegian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jammy-molten-norwegian-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-molten-norwegian-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:14:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "rest-meat",
+    "primaryIngredient": "mushroom",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mushroom",
+    "descriptor": "jammy molten",
+    "dishForm": "Casserole"
+  }
+}
