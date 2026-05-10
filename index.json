@@ -728,6 +728,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-peppery-korean-chicken-tteok",
+    "title": "Jagged Peppery Korean Chicken Tteok",
+    "tags": [
+      "chicken-recipes",
+      "jeolla-inspired",
+      "korean-food",
+      "spicy-dishes",
+      "tteok-recipes"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peppery-mexican-grains-flan",
     "title": "Jagged Peppery Mexican Grains Flan",
     "tags": [
