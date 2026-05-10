@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Smoky Syrian Lamb Kebabs",
+  "description": "A funky and adventurous Syrian dish featuring smoky lamb, melted cheese, and crispy filo pastry, perfect for a special occasion. This halal-friendly recipe is sure to impress your guests.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "akawi cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sumac, paprika, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the filo pastry with olive oil and cut into 1-inch squares.",
+    "Wrap each lamb skewer with a few pieces of filo pastry, securing with a toothpick if needed.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked through and the filo pastry is crispy.",
+    "While the skewers are cooking, melt the akawi cheese in a small saucepan over low heat.",
+    "Serve the skewers hot with the melted cheese pulled apart and wrapped around the lamb."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "filo-pastry",
+    "grilled-meats",
+    "lamb-recipes",
+    "middle-eastern",
+    "smoky",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "jubilant-smoky-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-smoky-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:53:47Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "filo pastry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Jubilant Smoky",
+    "dishForm": "Kebabs"
+  }
+}
