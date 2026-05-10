@@ -1,0 +1,99 @@
+{
+  "title": "Juicy Light Uruguayan Fish Ceviche",
+  "description": "A refreshing and light Uruguayan dish featuring fish marinated in a zesty mixture, with a unique use of bicarbonate of soda to enhance the texture, air-fried for a crispy touch, and served in a ramekin, this pescatarian-friendly recipe is perfect for any occasion, with its umami flavor and festive presentation.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Mix the bicarbonate of soda with the lime juice in a small bowl.",
+    "Add the fish pieces to the bowl and marinate for 10 minutes.",
+    "Remove the fish from the marinade and pat dry with paper towels.",
+    "Drizzle the olive oil over the fish and season with salt, black pepper, and garlic.",
+    "Air-fry the fish for 5 minutes or until cooked through.",
+    "Mix the chopped onion and cilantro in a small bowl.",
+    "Serve the fish in a ramekin with the onion and cilantro mixture on top.",
+    "Drizzle any remaining lime juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "latin-american",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "juicy-light-uruguayan-fish-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-uruguayan-fish-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:03:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fish",
+    "descriptor": "Juicy Light",
+    "dishForm": "Ceviche"
+  }
+}
