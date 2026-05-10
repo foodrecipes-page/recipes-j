@@ -1,0 +1,104 @@
+{
+  "title": "Jazzy Snappy Spanish Swede Wrap",
+  "description": "A halal-friendly Andalusian dish featuring swede, wrapped in leaves and steamed to perfection, with a snappy and herbal flavor profile.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the paprika, cumin, and coriander, and cook for 1 minute until the spices are fragrant.",
+    "Add the diced swede and cook for 5 minutes until it starts to soften.",
+    "Season with salt and black pepper to taste.",
+    "Prepare the collard green leaves by blanching them in boiling water for 30 seconds.",
+    "Wrap the swede mixture in the collard green leaves, making sure to seal the edges.",
+    "Steam the wrapped swede over boiling water for 10 minutes until the leaves are tender.",
+    "Serve with a squeeze of lemon juice and a side of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "andalusian",
+    "halal",
+    "healthy",
+    "leaf-wrap",
+    "spanish",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jazzy-snappy-spanish-swede-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-snappy-spanish-swede-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:24:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "swede",
+    "diet": "halal",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "swede",
+    "descriptor": "Jazzy snappy",
+    "dishForm": "Wrap"
+  }
+}
