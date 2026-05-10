@@ -1,0 +1,88 @@
+{
+  "title": "Just Yeasty American Dough Bowl",
+  "description": "A crispy, yeasty American dish featuring a long-fermentation dough and a vegetable stock cube, perfect for a quick snack or light meal. This low-sodium-friendly recipe is cooked in an earthenware bowl.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and sugar.",
+    "Gradually add the water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled earthenware bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Dissolve the vegetable stock cube in 1 tablespoon of hot water.",
+    "Brush the risen dough with the olive oil and sprinkle with the dissolved stock cube and salt.",
+    "Bake the dough in the preheated oven for 25 minutes, or until it is golden brown and crispy.",
+    "Remove the dough from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "crispy-snacks",
+    "earthenware-cooking",
+    "low-sodium",
+    "quick-fix",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "just-yeasty-american-dough-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/just-yeasty-american-dough-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:37:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "dough",
+    "descriptor": "Just Yeasty",
+    "dishForm": "Bowl"
+  }
+}
