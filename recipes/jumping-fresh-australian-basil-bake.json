@@ -1,0 +1,94 @@
+{
+  "title": "Jumping Fresh Australian Basil Bake",
+  "description": "A yeasty and springy Australian dish featuring fresh basil leaves, perfect for a dinner party. This gluten-free friendly bake is sure to impress your guests.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the gluten-free flour, yeast, salt, and sugar.",
+    "Add the olive oil, garlic, and chopped basil leaves to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased baking dish and top with shredded mozzarella cheese.",
+    "Bake the dish in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Serve the Jumping Fresh Australian Basil Bake hot, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "baked",
+    "cheesy",
+    "gluten-free",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "jumping-fresh-australian-basil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jumping-fresh-australian-basil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:14:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "basil leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "basil",
+    "descriptor": "jumping fresh",
+    "dishForm": "Bake"
+  }
+}
