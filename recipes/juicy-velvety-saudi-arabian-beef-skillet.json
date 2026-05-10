@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Velvety Saudi Arabian Beef Skillet",
+  "description": "A fresh and cozy Saudi Arabian dish featuring beef gravy, cooked to perfection in a cast-iron skillet, this recipe is shojin-friendly and sure to please.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a cast-iron skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the tomato paste, beef broth, salt, black pepper, cumin, and paprika.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Use a bain-marie to keep the skillet at a constant temperature, if necessary.",
+    "Serve the beef and gravy hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipe",
+    "cast-iron",
+    "one-pan",
+    "saudi-arabian",
+    "skillet-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "juicy-velvety-saudi-arabian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-velvety-saudi-arabian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:18:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "beef gravy",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "juicy velvety",
+    "dishForm": "Skillet"
+  }
+}
