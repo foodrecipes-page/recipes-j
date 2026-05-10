@@ -1,0 +1,110 @@
+{
+  "title": "Juicy Garlicky Mexican Egg Frittata",
+  "description": "A garlicky, fluffy, and flavorful Mexican dish featuring eggs, perfect for a solo dinner, and pescatarian-friendly. This recipe uses sous-vide cooking for a tender and juicy texture.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1/2 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a bowl, whisk together the eggs, salt, and pepper until well combined.",
+    "Heat a skillet over medium heat and add the diced onion and minced garlic, cooking until the onion is translucent.",
+    "Add the diced bell pepper to the skillet and cook for an additional 2 minutes.",
+    "In a separate bowl, mix together the shredded cheese, canned diced tomatoes, and chopped fresh cilantro, if using.",
+    "Pour the egg mixture over the cooked onion and bell pepper mixture in the skillet.",
+    "Add the cheese and tomato mixture to the skillet and stir gently to combine.",
+    "Transfer the skillet to the preheated sous-vide machine and cook for 20 minutes.",
+    "Remove the skillet from the sous-vide machine and top with sour cream, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican-inspired",
+    "one-pan",
+    "pescatarian-friendly",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-garlicky-mexican-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-garlicky-mexican-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:44:18Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "egg",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "egg",
+    "descriptor": "Juicy Garlicky",
+    "dishForm": "Frittata"
+  }
+}
