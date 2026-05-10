@@ -1,0 +1,112 @@
+{
+  "title": "Juicy Charred Italian Lamb Cacio E Pepe",
+  "description": "A high-protein Italian dish featuring lamb kidney, served in a lotus leaf wrap, inspired by the traditional cacio e pepe recipe with a charred and double-fry twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "pecorino romano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 eggs",
+      "notes": "beaten"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together flour, eggs, and bread crumbs to create a batter.",
+    "Dip each lamb kidney strip into the batter, coating evenly.",
+    "Double-fry the lamb strips by frying them in olive oil at 350 degrees Fahrenheit for 2 minutes, then increasing the heat to 400 degrees Fahrenheit for an additional 2 minutes.",
+    "Char the fried lamb strips on a grill or grill pan for 1 minute on each side.",
+    "In a saucepan, combine grated pecorino romano cheese and black pepper, heating over low heat until the cheese is melted and the mixture is well combined.",
+    "Add the charred lamb strips to the cheese mixture and toss to coat.",
+    "Wrap each portion of the lamb and cheese mixture in a lotus leaf, securing with a toothpick if necessary.",
+    "Bake the wrapped lamb and cheese in the preheated oven for 10 minutes, or until the lotus leaves are tender and the filling is heated through.",
+    "Serve the juicy charred Italian lamb cacio e pepe hot, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cacio-e-pepe",
+    "charred-food",
+    "double-fry",
+    "high-protein",
+    "italian-food",
+    "lamb-recipes",
+    "lotus-leaf-wraps"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "juicy-charred-italian-lamb-cacio-e-pepe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-charred-italian-lamb-cacio-e-pepe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:49:12Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "lamb kidney",
+    "diet": "high-protein",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Charred",
+    "dishForm": "Cacio E Pepe"
+  }
+}
