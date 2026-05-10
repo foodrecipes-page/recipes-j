@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Binchotan-Charcoal Kissed Wensleydale Korean Jjigae",
+  "description": "A spicy, savory Korean-inspired stew featuring Wensleydale cheese and the rich flavor of binchotan-charcoal.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "Binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the dosirak (Korean rice bowl) by washing the rice thoroughly and cooking it according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat and sauté the grated ginger and minced garlic until fragrant.",
+    "Add the shiitake mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "Add the Wensleydale cheese to the pan and stir until it starts to melt.",
+    "Add the binchotan charcoal powder, Korean chili flakes, fish sauce (if using), and soy sauce (if using) to the pan and stir to combine.",
+    "Use a spatula to press the mixture into the cataplana, ensuring an even layer.",
+    "Place the cataplana over low heat and simmer for 10 minutes, or until the mixture is heated through and the cheese is melted.",
+    "Garnish with toasted sesame seeds and chopped green onions.",
+    "Serve the Korean Jjigae in the prepared dosirak immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "spicy",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "juicy-binchotan-charcoal-kissed-korean-wensleydale-dosirak-style-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-binchotan-charcoal-kissed-korean-wensleydale-dosirak-style-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:37:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "wensleydale",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Juicy Binchotan-Charcoal Kissed",
+    "dishForm": "Dosirak-Style Jjigae"
+  }
+}
