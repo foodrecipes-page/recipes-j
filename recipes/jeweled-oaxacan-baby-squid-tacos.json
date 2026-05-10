@@ -1,0 +1,97 @@
+{
+  "title": "Jeweled Oaxacan Baby Squid Tacos",
+  "description": "A resinous and crisp Oaxacan dish featuring baby squid, infused oil, and ayurvedic-sattvic friendly ingredients, served on a bamboo tray, perfect for a date night.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "made with chili peppers and garlic"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large skillet over medium-high heat.",
+    "Add the baby squid to the skillet and cook for 2-3 minutes per side, until crispy and golden brown.",
+    "Remove the squid from the skillet and set aside on a plate.",
+    "Add the sliced red onion to the skillet and cook for 2-3 minutes, until softened.",
+    "Add the chopped cilantro and cooked squid back to the skillet and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few pieces of the squid mixture onto a tortilla and squeezing with lime juice.",
+    "Serve the tacos on a bamboo tray and garnish with pitted dates."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "bamboo-serving",
+    "date-night",
+    "mexican-food",
+    "oaxacan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jeweled-oaxacan-baby-squid-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-oaxacan-baby-squid-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:33:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "baby squid",
+    "diet": "ayurvedic-sattvic",
+    "region": "oaxacan",
+    "cuisineAdjective": "Oaxacan",
+    "mainIngredient": "baby squid",
+    "descriptor": "jeweled resinous",
+    "dishForm": "Tacos"
+  }
+}
