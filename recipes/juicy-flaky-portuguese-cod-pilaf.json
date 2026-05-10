@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Flaky Portuguese Cod Pilaf",
+  "description": "A sour and flaky Portuguese dish featuring cod, vanilla, and a blend of spices, cooked to perfection using sous-vide and FODMAP-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "vanilla beans",
+      "amount": "2 pods",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the cod fillets with salt, black pepper, and paprika.",
+    "Place the cod fillets in a sous-vide bag with vanilla beans, lemon juice, and garlic-infused oil.",
+    "Seal the bag and cook for 30 minutes.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add cauliflower rice to the skillet and cook until tender, about 5 minutes.",
+    "Add chicken broth to the skillet and stir to combine.",
+    "Remove the cod from the sous-vide bag and place on top of the cauliflower rice mixture.",
+    "Serve immediately, garnished with lemon wedges and vanilla beans."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-carb",
+    "portuguese-cuisine",
+    "seafood",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "juicy-flaky-portuguese-cod-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-flaky-portuguese-cod-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:57:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "vanilla",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "juicy flaky",
+    "dishForm": "Pilaf"
+  }
+}
