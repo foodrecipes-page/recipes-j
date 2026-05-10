@@ -1,0 +1,96 @@
+{
+  "title": "Jeweled Yeasty Korean Oranges Kalguksu",
+  "description": "A yeasty, flaky, and delicious Korean dish featuring oranges, made in a Dutch oven, and low in sodium, perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for kalguksu dough"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "oranges",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt, and mix well.",
+    "Gradually add warm water to the bowl and knead the dough for 10 minutes.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Roll out the dough into a large sheet, about 1/4 inch thick.",
+    "Cut the dough into kalguksu shapes, about 1 inch wide and 2 inches long.",
+    "In a large Dutch oven, heat sesame oil over medium heat.",
+    "Add garlic and ginger to the pot and cook for 1 minute, until fragrant.",
+    "Add sliced oranges to the pot and cook for 2 minutes, until they start to caramelize.",
+    "Add soy sauce to the pot and stir to combine.",
+    "Add the kalguksu shapes to the pot and cook for 5 minutes, until they are cooked through and the sauce has thickened."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "low-sodium",
+    "one-pot",
+    "weeknight-dinner",
+    "yeasty-dough"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jeweled-yeasty-korean-oranges-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-yeasty-korean-oranges-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:36:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "oranges",
+    "diet": "low-sodium",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "oranges",
+    "descriptor": "Jeweled Yeasty",
+    "dishForm": "Kalguksu"
+  }
+}
