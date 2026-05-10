@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Velvety Filipino Herring Dinuguan",
+  "description": "A rich and flavorful Filipino dish made with herring, a mother sauce base, and various spices, resulting in a velvety texture and floral notes. This pescatarian-friendly dish is perfect for a solo dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "1 pound",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the garlic and onion and saute until the onion is translucent.",
+    "Add the herring pieces and cook until they are lightly browned.",
+    "Add the vinegar, fish sauce, salt, and pepper, and stir to combine.",
+    "Add the tomato paste and water, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the sauce until it is smooth and velvety.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the dinuguan hot, garnished with chopped green onions and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "high-protein",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-velvety-filipino-herring-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-velvety-filipino-herring-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:17:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "herring",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "herring",
+    "descriptor": "juicy velvety",
+    "dishForm": "Dinuguan"
+  }
+}
