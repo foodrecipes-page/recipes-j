@@ -5782,6 +5782,20 @@
     "shard": "j"
   },
   {
+    "slug": "jovial-british-fish-fish-and-chips",
+    "title": "Jovial British Fish And Chips",
+    "tags": [
+      "british-cuisine",
+      "one-pot",
+      "paleo-friendly",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jovial-cheesy-australian-sweet-potato-hash",
     "title": "Jovial Cheesy Australian Sweet Potato Hash",
     "tags": [
