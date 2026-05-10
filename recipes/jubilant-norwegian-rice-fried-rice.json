@@ -1,0 +1,100 @@
+{
+  "title": "Jubilant Norwegian Rice Fried Rice",
+  "description": "A tangy and tender Norwegian dish featuring sherry and fried rice, perfect for a energizing meal. This jain-friendly recipe is cooked in a molcajete vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sherry",
+      "amount": "1/4 cup",
+      "notes": "dry sherry"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a molcajete vessel over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the grated carrots and cook for 2 minutes.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the cooked rice to the molcajete vessel and stir to combine.",
+    "Add the sherry, soy sauce, salt, and pepper to the rice mixture and stir to combine.",
+    "Cook the rice mixture for 5 minutes, stirring frequently.",
+    "Serve the Jubilant Norwegian Rice Fried Rice hot.",
+    "Garnish with chopped scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "healthy-rice",
+    "jain-friendly",
+    "lunch-ideas",
+    "norwegian-cuisine",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jubilant-norwegian-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-norwegian-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:10:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sherry",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice",
+    "descriptor": "jubilant tender",
+    "dishForm": "Fried-Rice"
+  }
+}
