@@ -1,0 +1,93 @@
+{
+  "title": "Jubilant Sour German Pistachio Skewers",
+  "description": "A Whole30-friendly, sour, and bouncy German dish featuring pistachio, perfect for festive occasions. This recipe uses dehydration to bring out the flavors.",
+  "cuisine": "German",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1 cup",
+      "notes": "shelled and unsalted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 135 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, apple cider vinegar, coconut aminos, garlic powder, salt, and black pepper.",
+    "Add the pistachios to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pistachios onto skewers, leaving a small space between each pistachio.",
+    "Place the skewers in the dehydrator and dehydrate for 6 hours.",
+    "After 6 hours, remove the skewers from the dehydrator and sprinkle with chopped parsley.",
+    "Serve the Jubilant Sour German Pistachio Skewers immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 360,
+  "totalTimeMin": 380,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dehydrated-foods",
+    "festive-snacks",
+    "german-cuisine",
+    "paleo-diet",
+    "sour-flavors",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "jubilant-sour-german-pistachio-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-sour-german-pistachio-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:23:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "pistachio",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pistachio",
+    "descriptor": "Jubilant sour",
+    "dishForm": "Skewers"
+  }
+}
