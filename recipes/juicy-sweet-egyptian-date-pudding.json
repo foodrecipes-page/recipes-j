@@ -1,0 +1,91 @@
+{
+  "title": "Juicy Sweet Egyptian Date Pudding",
+  "description": "A resinous and bouncy Egyptian dessert featuring demerara sugar, perfect for midnight cravings. This dish is nut-free and served in a lacquerware bowl.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "demerara sugar",
+      "amount": "1 cup",
+      "notes": "golden brown sugar"
+    },
+    {
+      "name": "egyptian dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "full fat milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, puree the egyptian dates with 1 cup of full fat milk until smooth.",
+    "In a large bowl, whisk together the demerara sugar, cornstarch, and melted unsalted butter.",
+    "In a separate bowl, whisk together the large eggs and vanilla extract.",
+    "Add the egg mixture to the sugar mixture and whisk until well combined.",
+    "Add the date puree to the sugar mixture and whisk until smooth.",
+    "Pour the mixture into a lacquerware bowl and place it in a bain-marie.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove the pudding from the oven and let it cool to room temperature.",
+    "Refrigerate the pudding for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-pudding",
+    "comfort-food",
+    "date-based",
+    "egyptian-cuisine",
+    "midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juicy-sweet-egyptian-date-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-egyptian-date-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:04:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "bain-marie",
+    "primaryIngredient": "demerara sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "juicy sweet",
+    "dishForm": "Pudding"
+  }
+}
