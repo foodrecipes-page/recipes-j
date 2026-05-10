@@ -1,0 +1,93 @@
+{
+  "title": "Juicy Gooey Turkish Pancetta Borek",
+  "description": "A Mediterranean-inspired dish featuring fermented pancetta and gooey cheese in a crispy borek form, served in a stone-bowl-dolsot on an iron-teppan.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "fermented"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan to 400 degrees Fahrenheit.",
+    "Roll out the phyllo dough to a large sheet.",
+    "Layer the pancetta, feta cheese, and parsley on one half of the dough.",
+    "Fold the other half of the dough over the filling to form a triangle.",
+    "Brush the edges with olive oil and press to seal.",
+    "Place the borek on the preheated iron-teppan and cook for 10 minutes.",
+    "Flip the borek and cook for an additional 10 minutes.",
+    "Serve the borek in a stone-bowl-dolsot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "meat-lovers",
+    "mediterranean",
+    "one-pan",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "juicy-gooey-turkish-pancetta-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-gooey-turkish-pancetta-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:17:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pancetta",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pancetta",
+    "descriptor": "Juicy Gooey",
+    "dishForm": "Borek"
+  }
+}
