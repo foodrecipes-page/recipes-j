@@ -124,6 +124,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-charred-italian-polenta-pilaf",
+    "title": "Jagged Charred Italian Polenta Pilaf",
+    "tags": [
+      "gluten-free",
+      "hot-stone-plate",
+      "italian-cuisine",
+      "nut-free",
+      "one-pan",
+      "venetian-inspired"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-charred-mexican-pork-tamales",
     "title": "Jagged Charred Mexican Pork Tamales",
     "tags": [
@@ -14721,6 +14736,20 @@
       "weeknight"
     ],
     "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tender-venezuelan-chicken-tagine",
+    "title": "Venezuelan Chicken Tagine",
+    "tags": [
+      "crowd-pleaser",
+      "flavorful-chicken",
+      "low-sodium",
+      "one-pot",
+      "umami-rich"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 50,
     "shard": "j"
   },

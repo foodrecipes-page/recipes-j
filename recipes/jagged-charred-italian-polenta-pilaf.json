@@ -1,0 +1,107 @@
+{
+  "title": "Jagged Charred Italian Polenta Pilaf",
+  "description": "A charred and gooey Italian dish featuring ras el hanout, infused oil, and polenta, served on a hot stone plate. This Venetian-inspired recipe is nut-free and perfect for a unique dinner experience.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polenta",
+      "amount": "1 cup",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "such as garlic and herb"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the polenta, ras el hanout, salt, and black pepper.",
+    "Gradually add in the infused oil, stirring until the mixture is well combined.",
+    "Spread the polenta mixture onto a hot stone plate, forming a jagged and uneven shape.",
+    "Top the polenta with the halved cherry tomatoes and thinly sliced red onion.",
+    "Sprinkle the crumbly grana padano cheese over the top of the polenta and vegetables.",
+    "Drizzle the lemon juice over the cheese and vegetables.",
+    "Bake the polenta pilaf in the preheated oven for 20-25 minutes, or until the top is charred and the polenta is cooked through.",
+    "Remove the pilaf from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the jagged charred Italian polenta pilaf immediately, straight from the hot stone plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hot-stone-plate",
+    "italian-cuisine",
+    "nut-free",
+    "one-pan",
+    "venetian-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jagged-charred-italian-polenta-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-charred-italian-polenta-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:20:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ras el hanout",
+    "diet": "nut-free",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "polenta",
+    "descriptor": "jagged charred",
+    "dishForm": "Pilaf"
+  }
+}
