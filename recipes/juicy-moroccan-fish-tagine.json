@@ -1,0 +1,122 @@
+{
+  "title": "juicy moroccan fish tagine",
+  "description": "sweet, springy, kid-friendly moroccan dish featuring vanilla sugar, sashimi-cut, high-protein-friendly.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sashimi-cut salmon fillets",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "vanilla sugar"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "chicken or fish broth for extra flavor"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried prunes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°f (190°c).",
+    "Rinse the salmon fillets under cold water, pat dry with a paper towel, and set aside.",
+    "In a large clay or ceramic tagine, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger, ground cumin, and ground cinnamon, and cook for 1 minute.",
+    "Add the chopped prunes, 1 cup of water, and 2 tablespoons of vanilla sugar.",
+    "Bring the mixture to a gentle simmer, and cook for 10 minutes.",
+    "Add the salmon fillets to the tagine, cover, and transfer to the preheated oven.",
+    "Bake for 12-15 minutes, or until the salmon is cooked through.",
+    "Season with flaky sea salt to taste, and garnish with chopped parsley.",
+    "Serve hot, and enjoy!",
+    "Optional: for a spicier dish, add 1-2 teaspoons of harissa to the tagine before baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-clean-up",
+    "gluten-free",
+    "high-protein",
+    "kid-friendly",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "juicy-moroccan-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-moroccan-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:15:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fish",
+    "descriptor": "Juicy",
+    "dishForm": "Tagine"
+  }
+}
