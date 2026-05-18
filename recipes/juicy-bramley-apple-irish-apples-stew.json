@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Bramley Apple Irish Apples Stew",
+  "description": "Peppery, juicy Irish apples stew made with Bramley apples, suitable for a sick day.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "4",
+      "notes": "medium size"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped potato, caraway seeds, salt, and black pepper. Cook for 2 minutes.",
+    "Add the Bramley apples and water. Stir to combine.",
+    "Cover the pan with a lid and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Use a lazy-susan-spinner to serve the stew, keeping it warm throughout the meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "easy-to-make",
+    "irish-apples",
+    "one-pot",
+    "sick-day",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "juicy-bramley-apple-irish-apples-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bramley-apple-irish-apples-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:45:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "bramley apples",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Apples",
+    "descriptor": "Juicy Bramley Apple",
+    "dishForm": "Stew"
+  }
+}

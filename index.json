@@ -8895,6 +8895,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-bramley-apple-irish-apples-stew",
+    "title": "Juicy Bramley Apple Irish Apples Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "easy-to-make",
+      "irish-apples",
+      "one-pot",
+      "sick-day",
+      "winter-stew"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-brazilian-chicken-brochette",
     "title": "Juicy Brazilian Chicken Brochette",
     "tags": [
@@ -10854,6 +10870,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-flaky-uruguayan-spaghetti-pasta",
+    "title": "Flaky Uruguayan Spaghetti",
+    "tags": [
+      "diabetic-friendly",
+      "flambe",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
