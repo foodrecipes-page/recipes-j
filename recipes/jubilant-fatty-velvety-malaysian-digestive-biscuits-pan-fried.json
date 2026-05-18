@@ -1,0 +1,101 @@
+{
+  "title": "Jubilant Fatty Velvety Malaysian Digestive Biscuits Pan-Fried",
+  "description": "Indulge in a rich, creamy, and energizing malaysian dish featuring digestive biscuits, inspired by the iconic double-fry of KFC, with a mediterranean twist.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "250g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "100ml",
+      "notes": "melted"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "200g",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Honey",
+      "amount": "50g",
+      "notes": "raw, pure"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "20g",
+      "notes": "black"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "10g",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "coarse, sea"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "2g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine crushed digestive biscuits, melted coconut oil, Greek yogurt, honey, sesame seeds, cumin seeds, salt, and black pepper.",
+    "Mix well until a smooth dough forms, then refrigerate for at least 30 minutes.",
+    "Heat a non-stick tava-griddle over medium heat.",
+    "Using a spoon, drop small balls of the dough onto the tava-griddle, flattening them slightly with a spatula.",
+    "Cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 12,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "jubilant-fatty-velvety-malaysian-digestive-biscuits-pan-fried",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-fatty-velvety-malaysian-digestive-biscuits-pan-fried",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:01:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Digestive biscuits",
+    "descriptor": "Jubilant Fatty Velvety",
+    "dishForm": "Pan-Fried"
+  }
+}
