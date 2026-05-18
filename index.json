@@ -742,6 +742,22 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-peppery-argentinian-chicken-empanada",
+    "title": "Jagged, Peppery Argentinian Chicken Empanada",
+    "tags": [
+      "argentinian",
+      "empanada",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-peppery-canadian-potato-hash",
     "title": "Jagged Peppery Canadian Potato Hash",
     "tags": [

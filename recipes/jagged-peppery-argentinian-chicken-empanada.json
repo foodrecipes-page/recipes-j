@@ -1,0 +1,104 @@
+{
+  "title": "Jagged, Peppery Argentinian Chicken Empanada",
+  "description": "A hearty and flavorful empanada dish from Argentina, featuring a post-workout boost with a dairy-free twist. The peppery kick from the ají amarillo peppers will keep you coming back for more!",
+  "cuisine": "argentinian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ají amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup (dairy-free alternative)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan over medium heat, cook the lardons until crispy, then set aside.",
+    "Sauté the onion and garlic in a pan over medium heat until softened.",
+    "Add the ají amarillo peppers and cook for an additional 2 minutes.",
+    "Add the chicken breast and cook until browned, then set aside.",
+    "In a large bowl, combine the flour, salt, and pepper.",
+    "Add the egg and milk to the flour mixture and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll out each piece into a circle.",
+    "Place a spoonful of the chicken mixture onto one half of each circle, then fold the other half over and press the edges together.",
+    "Brush the tops with egg wash and sprinkle with salt.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "empanada",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jagged-peppery-argentinian-chicken-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-peppery-argentinian-chicken-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T12:51:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "meringue nests",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "jagged, peppery",
+    "dishForm": "Empanada"
+  }
+}
