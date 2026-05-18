@@ -1,0 +1,121 @@
+{
+  "title": "jubilant creamy australian rigatoni pasta",
+  "description": "a rich and velvety pasta dish featuring the bold flavors of australian cuisine, with a comforting and satisfying twist.",
+  "cuisine": "australian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "250g",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "australian aboriginal bush tomato relish",
+      "amount": "2 tablespoons",
+      "notes": "store-bought"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "120g",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "120ml",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "fine salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "cook the rigatoni pasta according to the package instructions until al dente, then drain and set aside.",
+    "in a large hot pot vessel, heat the olive oil over medium heat.",
+    "add the butter to the hot pot vessel and stir until melted and frothy.",
+    "add the chopped onion to the hot pot vessel and cook until softened and translucent, about 5 minutes.",
+    "add the minced garlic to the hot pot vessel and cook for 1 minute, stirring constantly.",
+    "add the Australian aboriginal bush tomato relish to the hot pot vessel and stir to combine.",
+    "add the cooked rigatoni pasta to the hot pot vessel and toss to combine with the sauce.",
+    "stir in the grated gruyere cheese until melted and smooth.",
+    "reduce heat to low and simmer for 2 minutes, allowing the sauce to thicken.",
+    "stir in the heavy cream and cook for an additional 1-2 minutes, until heated through.",
+    "season with salt and black pepper to taste, then serve hot, garnished with chopped fresh parsley and dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "rich-fats",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 65,
+    "fat": 35
+  },
+  "slug": "jubilant-creamy-australian-rigatoni-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-creamy-australian-rigatoni-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:55:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "rigatoni",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Jubilant Creamy",
+    "dishForm": "Pasta"
+  }
+}
