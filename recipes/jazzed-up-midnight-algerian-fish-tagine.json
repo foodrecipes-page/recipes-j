@@ -1,0 +1,105 @@
+{
+  "title": "jazzed-up midnight algerian fish tagine",
+  "description": "a rich, earthy pescatarian tagine featuring amazake and ferment-kimchi, perfect for a late-night craving.",
+  "cuisine": "algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "amizake",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the bottom of a clay tagine or a large cast-iron pot over medium heat.",
+    "add the chopped onion and sauté until softened, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the cumin and coriander, and cook for 1 minute, stirring constantly.",
+    "add the amizake and simmer for 5 minutes, or until slightly thickened.",
+    "add the ferment-kimchi and cook for 2-3 minutes, or until the flavors have melded together.",
+    "add the cod fillets, salt to taste, and simmer for 8-10 minutes, or until cooked through.",
+    "serve the tagine hot, garnished with fresh cilantro if desired.",
+    "enjoy as a late-night snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp-flavors",
+    "earthly-cravings",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "jazzed-up-midnight-algerian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzed-up-midnight-algerian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:07:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "amazake",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Fish",
+    "descriptor": "Jazzed-Up Midnight",
+    "dishForm": "Tagine"
+  }
+}
