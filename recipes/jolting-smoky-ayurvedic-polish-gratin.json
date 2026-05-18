@@ -1,0 +1,112 @@
+{
+  "title": "Smoky Ayurvedic Polish Gratin",
+  "description": "A smoky and energizing Polish dish made with marjoram and fermented vegetables, suitable for ayurvedic tamasic diet. This recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked tofu",
+      "amount": "200g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "marjoram leaves",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "fermented beets",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer over boiling water.",
+    "In a large bowl, mix together the smoked tofu, marjoram leaves, fermented beets, onions, garlic, caraway seeds, apple cider vinegar, olive oil, sugar, salt, and black pepper.",
+    "Transfer the mixture to the bamboo steamer and cover with a lid.",
+    "Steam for 12 minutes or until the vegetables are tender.",
+    "Serve hot, garnished with additional marjoram leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "gluten-free",
+    "one-pan",
+    "polish",
+    "tamasic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "jolting-smoky-ayurvedic-polish-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jolting-smoky-ayurvedic-polish-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:57:03Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "marjoram",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ayurvedic",
+    "mainIngredient": "Polish",
+    "descriptor": "Jolting Smoky",
+    "dishForm": "Gratin"
+  }
+}
