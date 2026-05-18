@@ -1,0 +1,104 @@
+{
+  "title": "Jazzy Crispy German Chicken Kebabs",
+  "description": "Crispy on the outside, juicy on the inside, these Jazzy Crispy German Chicken Kebabs are a crowd-pleaser, seasoned with a hint of pepper and infused with love.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 bone-in chicken legs",
+      "amount": "1 whole",
+      "notes": "skin removed"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "30 ml",
+      "notes": "infused with black pepper"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "5 g",
+      "notes": "optional: add more to taste"
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "2 g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "6 g",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup chopped fresh parsley",
+      "amount": "30 g",
+      "notes": "optional"
+    },
+    {
+      "name": "1 cup breadcrumbs",
+      "amount": "120 g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "30 ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1 egg",
+      "amount": "60 g",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, mix together the olive oil, salt, black pepper, and garlic.",
+    "Add the chopped parsley to the bowl, if using.",
+    "Dip each chicken leg into the bowl, then coat in breadcrumbs, pressing gently to adhere.",
+    "Place the coated chicken legs on a baking tray lined with parchment paper.",
+    "Bake for 25 minutes, then remove from the oven and brush with lemon juice.",
+    "Return the chicken to the oven and bake for an additional 15 minutes.",
+    "Remove the chicken from the oven and let rest for 5 minutes.",
+    "Serve hot with your choice of sides, such as rice or salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "jazzy-crispy-german-chicken-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crispy-german-chicken-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:26:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chicken legs",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Jazzy Crispy",
+    "dishForm": "Kebabs"
+  }
+}
