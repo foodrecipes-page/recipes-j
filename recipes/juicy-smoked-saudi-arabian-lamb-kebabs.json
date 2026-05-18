@@ -1,0 +1,101 @@
+{
+  "title": "Juicy Smoked Saudi-Arabian Lamb Kebabs",
+  "description": "Rich, snappy, and flavorful, these kebabs are the perfect hangover cure featuring parma ham and binchotan-charcoal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 boneless lamb shoulder chops",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably with a good balance of fat and lean meat"
+    },
+    {
+      "name": "1/2 cup olive oil",
+      "amount": "120 ml",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 slices of parma ham",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together olive oil, garlic, smoked paprika, salt, and black pepper to create the marinade.",
+    "Add the lamb shoulder chops to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "Thread the marinated lamb shoulder chops and slices of parma ham onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and sprinkle with chopped fresh parsley.",
+    "Serve immediately and enjoy!",
+    "Let the kebabs rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as grilled vegetables or a side salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-charcoal",
+    "gluten-free",
+    "grilled",
+    "kebabs",
+    "lamb",
+    "parma-ham",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 4,
+    "fat": 52
+  },
+  "slug": "juicy-smoked-saudi-arabian-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoked-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:40:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "parma ham",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Juicy Smoked",
+    "dishForm": "Kebabs"
+  }
+}
