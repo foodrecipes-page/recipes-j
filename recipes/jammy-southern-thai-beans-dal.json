@@ -1,0 +1,112 @@
+{
+  "title": "Southern-Thai Jammy Beans Dal",
+  "description": "A diabetic-friendly, dense, and flavorful Southern-Thai inspired bean stew made with soy sauce, perfect for a quick and satisfying monsoon meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and sauté until lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and sauté for another minute.",
+    "Add the cumin, coriander, turmeric, and red pepper flakes and cook for 1-2 minutes, stirring constantly.",
+    "Add the kidney beans, soy sauce, salt, and black pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer, uncovered, for 20-25 minutes or until the sauce has thickened and the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "diabetic-friendly",
+    "low-carb-option",
+    "monsoon-meal",
+    "one-pan",
+    "southern-thai",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "jammy-southern-thai-beans-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-southern-thai-beans-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:21:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "soy sauce",
+    "diet": "diabetic-friendly",
+    "region": "southern-thai",
+    "cuisineAdjective": "southern-thai",
+    "mainIngredient": "beans",
+    "descriptor": "jammy",
+    "dishForm": "Dal"
+  }
+}

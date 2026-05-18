@@ -2125,6 +2125,22 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-southern-thai-beans-dal",
+    "title": "Southern-Thai Jammy Beans Dal",
+    "tags": [
+      "bean-stew",
+      "diabetic-friendly",
+      "low-carb-option",
+      "monsoon-meal",
+      "one-pan",
+      "southern-thai",
+      "vegan-option"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-springy-algerian-lamb-tagine",
     "title": "Jammy Springy Algerian Lamb Tagine",
     "tags": [
