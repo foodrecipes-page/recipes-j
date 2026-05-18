@@ -1,0 +1,106 @@
+{
+  "title": "Jade-Glazed Smoky Crispy Irish Bacon Hash",
+  "description": "A smoky, crispy, and sweet Irish brunch dish featuring white chocolate and caramelized onions.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bacon (thick-cut)",
+      "amount": "12 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onions (see note)",
+      "amount": "2 cups",
+      "notes": "Caramelize 1 large onion in 2 tbsp of oil over low heat for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a slate tile with parchment paper or aluminum foil, leaving some overhang for easy cleanup.",
+    "Lay the Irish bacon slices on the prepared slate tile.",
+    "Bake for 15 minutes or until crispy, flipping halfway through.",
+    "While the bacon cooks, mix together the smoked paprika, salt, and black pepper in a small bowl.",
+    "Remove the bacon from the oven and sprinkle with the spice mixture.",
+    "Return the bacon to the oven and bake for an additional 5 minutes.",
+    "Meanwhile, melt the white chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Stir in the heavy cream to create a smooth glaze.",
+    "To assemble the hash, arrange the crispy bacon slices on a serving platter or individual plates.",
+    "Drizzle the white chocolate glaze over the bacon, then top with caramelized onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 46
+  },
+  "slug": "jade-glazed-smoky-crispy-irish-bacon-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jade-glazed-smoky-crispy-irish-bacon-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:19:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "white chocolate",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bacon",
+    "descriptor": "Jade-Glazed Smoky Crispy",
+    "dishForm": "Hash"
+  }
+}
