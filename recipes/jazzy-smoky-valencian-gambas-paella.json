@@ -1,0 +1,116 @@
+{
+  "title": "jazzy smoky valencian gambas paella",
+  "description": "velvety, smoky spanish valencian dish featuring graham cracker crumbs and pasta-water emulsion, diabetic-friendly and perfect for a post-workout meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "gambas al ajillo",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "high-quality"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large paella pan over medium-high heat.",
+    "add the garlic and cook for 1-2 minutes until fragrant.",
+    "add the gambas and cook until pink and just set.",
+    "add the smoked paprika and cook for 1 minute.",
+    "add the chicken broth and bring to a boil.",
+    "reduce heat to low and simmer for 10-12 minutes.",
+    "stir in the pasta water and sherry vinegar.",
+    "add the diced tomato and cook for an additional 2-3 minutes.",
+    "stir in the graham cracker crumbs and cook for 1 minute.",
+    "season with salt and black pepper to taste.",
+    "serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "jazzy-smoky-valencian-gambas-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoky-valencian-gambas-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T19:08:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "diabetic-friendly",
+    "region": "valencian",
+    "cuisineAdjective": "Valencian",
+    "mainIngredient": "gambas",
+    "descriptor": "Jazzy Smoky",
+    "dishForm": "Paella"
+  }
+}
