@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Wilted Mexican Chicken Tacos",
+  "description": "Post-workout grassy and fluffy Mexican dish featuring scotch bonnet, stir-fry, and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chipotle chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken breast into bite-sized pieces and season with fajita seasoning.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the chipotle chili powder, cumin, coriander, and coconut sugar to the skillet and stir to combine.",
+    "Add the scotch bonnet peppers (if using) to the skillet and stir to combine.",
+    "Stir in the lime juice and cook for an additional 2 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the chicken mixture onto a tortilla and topping with fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "post-workout",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "juicy-wilted-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-wilted-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:41:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Wilted",
+    "dishForm": "Tacos"
+  }
+}
