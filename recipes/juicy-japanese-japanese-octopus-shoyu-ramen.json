@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Japanese Octopus Shoyu Ramen",
+  "description": "A savory and energizing pescatarian-friendly Japanese dish that combines the flavors of octopus, Asian chive, and buchu with a rich shoyu broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "200g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shoyu (Japanese soy sauce)",
+      "amount": "4 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sliced daikon",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Asian chive",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "buchu leaves",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tofu (optional)",
+      "amount": "1 block",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken or vegetable broth, shoyu, and grated ginger. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "In a separate pot, boil ramen noodles according to package instructions. Drain and set aside.",
+    "In a steamer basket, place a single layer of buchu leaves. Place the octopus on top of the buchu leaves.",
+    "Steam the octopus and buchu leaves over boiling water for 2-3 minutes, or until the octopus is cooked through.",
+    "In a small pan, heat sesame oil over medium heat. Add chopped Asian chive and cook for 1-2 minutes, or until fragrant.",
+    "To assemble the ramen, place cooked noodles in a bowl. Add sliced daikon, steamed octopus and buchu leaves, and topped with sesame oil and Asian chive mixture.",
+    "Serve hot and enjoy!",
+    "If using tofu, pan-fry until golden brown and crispy before adding to the ramen."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "juicy-japanese-japanese-octopus-shoyu-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-japanese-japanese-octopus-shoyu-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:34:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Octopus",
+    "descriptor": "Juicy Japanese",
+    "dishForm": "Shoyu Ramen"
+  }
+}
