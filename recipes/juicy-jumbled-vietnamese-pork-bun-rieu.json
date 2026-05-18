@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Jumbled Vietnamese Pork Bun-Rieu",
+  "description": "A comforting Vietnamese soup made with a rich pork broth, tender pork meatballs, and a variety of crunchy toppings, perfect for a lazy Sunday.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Pork bones",
+      "amount": "4-6"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large wok or pot, heat the oil over medium heat and sauté the onion until softened.",
+    "Add the garlic and sauté for another minute.",
+    "Add the pork bones and cook until browned, about 5 minutes.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tomato paste, fish sauce, and 4 cups of water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "While the soup is cooking, prepare the meatballs by mixing the ground pork with a little water and forming into small balls.",
+    "Add the meatballs to the soup and cook for another 5 minutes.",
+    "Stir in the almonds and bitter melon, and cook for 1-2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pork",
+    "soup",
+    "southern",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "juicy-jumbled-vietnamese-pork-bun-rieu",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jumbled-vietnamese-pork-bun-rieu",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:16:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "almonds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Jumbled",
+    "dishForm": "Bun-Rieu"
+  }
+}
