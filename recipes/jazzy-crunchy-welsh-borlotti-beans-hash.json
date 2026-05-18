@@ -1,0 +1,98 @@
+{
+  "title": "Jazzy Crunchy Welsh Borlotti Beans Hash",
+  "description": "A delicious and kid-friendly breakfast dish from Wales, featuring garlicky borlotti beans, crunchy vegetables, and a zesty beurre-monte sauce.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "borlotti beans, drained and rinsed",
+      "amount": "250g"
+    },
+    {
+      "name": "carrots, peeled and diced",
+      "amount": "120g",
+      "notes": "about 2 medium carrots"
+    },
+    {
+      "name": "zucchinis, sliced",
+      "amount": "120g",
+      "notes": "about 1 medium zucchini"
+    },
+    {
+      "name": "beurre-monte sauce (see below)",
+      "amount": "60g",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick pan over medium heat and add the carrots and zucchinis.",
+    "Cook, stirring occasionally, until the vegetables are tender and lightly browned, about 8 minutes.",
+    "Add the borlotti beans to the pan and stir to combine with the vegetables.",
+    "Make a small well in the center of the pan and crack in the eggs.",
+    "Scramble the eggs until they are cooked through, then stir them into the bean and vegetable mixture.",
+    "Season with salt and black pepper to taste.",
+    "To make the beurre-monte sauce, whisk together the mayonnaise and lemon juice in a small bowl until smooth.",
+    "Stir the beurre-monte sauce into the bean and egg mixture and cook for a further 1-2 minutes, until heated through.",
+    "Serve the hash hot, garnished with chopped fresh parsley and additional beurre-monte sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "jazzy-crunchy-welsh-borlotti-beans-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-crunchy-welsh-borlotti-beans-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:09:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "borlotti beans",
+    "diet": "no-onion-no-garlic",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Borlotti Beans",
+    "descriptor": "Jazzy Crunchy",
+    "dishForm": "Hash"
+  }
+}
