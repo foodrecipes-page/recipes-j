@@ -1,0 +1,95 @@
+{
+  "title": "Japan-Style Jarring Japanese Dried White Beans Dal",
+  "description": "A nutty, shattering, and comforting Japanese dish made with dried white beans, dashi-extract, and a medley of spices. Perfect for a sick-day remedy or a low-fat-friendly meal option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine dried white beans and water. Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "While the beans are cooking, heat sesame oil in a small pan over medium heat.",
+    "Add chopped onion to the pan and cook until softened, about 5 minutes.",
+    "Add minced garlic to the pan and cook for 1 minute.",
+    "Stir in dashi-extract, soy sauce, and sugar. Cook for an additional 2 minutes.",
+    "Once the beans are tender, drain and add them to the pan with the onion and garlic mixture.",
+    "Simmer the mixture over low heat for 10-15 minutes, stirring occasionally.",
+    "Season with salt to taste, then serve hot over a talavera plate.",
+    "Garnish with chopped scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "japan-style-jarring-japanese-dried-white-beans-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/japan-style-jarring-japanese-dried-white-beans-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T22:11:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dried white beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dried white beans",
+    "descriptor": "Japan-Style Jarring",
+    "dishForm": "Dal"
+  }
+}
