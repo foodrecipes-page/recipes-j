@@ -1,0 +1,123 @@
+{
+  "title": "jointly braised ukrainian lamb tagine",
+  "description": "hearty, comforting ukrainian dish featuring ground coriander in a rich, slow-cooked lamb stew. perfect for a chilly weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay tajine or Dutch oven over medium-high heat.",
+    "sear the lamb shoulder until browned on all sides, about 5 minutes. remove from the pot and set aside.",
+    "reduce the heat to medium and add the onion to the pot. cook, stirring occasionally, until softened, about 8 minutes.",
+    "add the garlic, caraway seeds, ground coriander, smoked paprika, thyme, salt, and pepper to the pot. cook, stirring constantly, for 1 minute.",
+    "add the beef broth, red wine vinegar, and browned lamb shoulder to the pot.",
+    "bring the mixture to a simmer, then cover the pot and transfer it to the oven.",
+    "braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "remove the pot from the oven and stir in the chopped parsley.",
+    "serve the lamb and sauce over egg noodles or rice.",
+    "garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "lamb",
+    "slow-cooked",
+    "stew",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 32
+  },
+  "slug": "jointly-braised-ukrainian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jointly-braised-ukrainian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:31:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "ground coriander",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Jointly Braised",
+    "dishForm": "Tagine"
+  }
+}
