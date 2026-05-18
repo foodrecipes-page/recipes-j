@@ -1,0 +1,112 @@
+{
+  "title": "juicy grilled moroccan cabbage tagine",
+  "description": "a crispy, flavorful and satisfying solo dinner featuring grilled cabbage in a moroccan-inspired tajine with a rich amlou paste",
+  "cuisine": "mexican-moroccan-fusion",
+  "diet": [
+    "egg-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium head of cabbage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of amlou paste",
+      "amount": "2",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1/4 cup of olive oil",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon of salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 small red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1/4 cup of chopped cilantro",
+      "amount": "1/4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat a grill to medium-high heat",
+    "cut the cabbage into wedges and brush with olive oil",
+    "place the cabbage on the grill and cook for 5 minutes per side, or until slightly charred",
+    "while the cabbage is cooking, heat the amlou paste in a small saucepan over medium heat",
+    "add the cumin, smoked paprika, salt, and black pepper to the saucepan and stir to combine",
+    "add the minced garlic and cook for 1 minute",
+    "add the sliced red onion to the saucepan and cook for an additional 2 minutes",
+    "remove the cabbage from the grill and place it in a clay tajine",
+    "pour the amlou paste mixture over the cabbage and top with chopped cilantro",
+    "cover the tajine with a lid and let it rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage-based",
+    "grilled",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "juicy-grilled-moroccan-cabbage-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grilled-moroccan-cabbage-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:28:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "cabbage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cabbage",
+    "descriptor": "Juicy Grilled",
+    "dishForm": "Tagine"
+  }
+}
