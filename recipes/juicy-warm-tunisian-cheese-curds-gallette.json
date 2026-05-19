@@ -1,0 +1,113 @@
+{
+  "title": "Warm Tunisian Cheese Curds Gallette",
+  "description": "A cozy and comforting Tunisian dish featuring cheese curds, honey, and spices. Perfect for a quick weekend breakfast or brunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh, non-vegan option or vegan alternative"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or maple syrup for vegan option"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed peanut butter cups or chopped candy canes"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "or flax eggs for vegan option"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "plus more for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Dust a surface with flour and roll out the dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a greased 9-inch round cake pan or a skillet.",
+    "In a separate bowl, whisk together eggs, honey, and spices. Add the crumbled cheese curds and mix until combined.",
+    "Pour the egg mixture over the dough, making sure to cover the entire surface.",
+    "Sprinkle the crushed candy on top of the egg mixture.",
+    "Dollop spoonfuls of the remaining cheese curds on top of the candy.",
+    "Bake for 25-30 minutes or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and sprinkle with parsley, garlic powder, and black pepper.",
+    "Let cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "easy-breakfast",
+    "morning-delight",
+    "morning-inspiration",
+    "weekend-brunch",
+    "weekend-inspiration"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "juicy-warm-tunisian-cheese-curds-gallette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-warm-tunisian-cheese-curds-gallette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:59:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "cheese curds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "juicy warm",
+    "dishForm": "gallette"
+  }
+}
