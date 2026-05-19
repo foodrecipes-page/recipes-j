@@ -1,0 +1,101 @@
+{
+  "title": "Jasmine Scented Algerian Date Tagine",
+  "description": "A rich and exotic Algerian dish featuring the sweetness of dates and the fragrance of rose water.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably Medjool dates"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "high-quality extra virgin oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled, and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "high-quality, unsweetened"
+    },
+    {
+      "name": "jasmine tea",
+      "amount": "1 teaspoon",
+      "notes": "loose-leaf, dried"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced, toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and minced garlic; cook for 1 minute, stirring constantly.",
+    "Add the pitted dates, chicken broth, rose water, and jasmine tea; stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the sliced almonds and continue to simmer, uncovered, for 10-15 minutes, or until the liquid has thickened slightly.",
+    "Serve the tagine hot, garnished with additional sliced almonds and a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "date",
+    "night",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "jasmine-scented-algerian-date-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jasmine-scented-algerian-date-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T19:47:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "rose water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Date",
+    "descriptor": "Jasmine scented",
+    "dishForm": "Tagine"
+  }
+}
