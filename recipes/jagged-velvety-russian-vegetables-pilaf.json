@@ -1,0 +1,124 @@
+{
+  "title": "Jagged, Velvety Russian Vegetables Pilaf",
+  "description": "A hearty one-pot pilaf dish featuring long-fermentation-dough, biryani masala, and a medley of Russian vegetables.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried yeast",
+      "amount": "1/2 teaspoon",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 1/2 cups",
+      "notes": "Water at 100°F to 110°F"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Unbleached all-purpose flour"
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "1 teaspoon",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Unflavored oil"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "2 cups",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Whole black peppercorns"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine yeast, warm water, and 1 teaspoon of sugar to rehydrate the yeast.",
+    "Let the mixture sit for 5 minutes, or until it becomes frothy.",
+    "Add the flour, biryani masala, salt, and black pepper to the bowl.",
+    "Mix the dough until it becomes smooth and elastic, about 10 minutes.",
+    "Knead the dough for an additional 5 minutes and let it rest for 1 hour, or until it has doubled in size.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and sauté until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, or until fragrant.",
+    "Add the shredded cabbage, carrots, and zucchini to the pot.",
+    "Stir to combine and cook for 5 minutes, or until the vegetables are slightly tender.",
+    "Punch down the risen dough and cut it into 1-inch pieces.",
+    "Add the dough pieces to the pot and stir to combine with the vegetables.",
+    "Add the remaining 1 tablespoon of olive oil and stir to coat the dough evenly.",
+    "Cover the pot with a lid and cook for 15 minutes, or until the dough is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-based",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "vegan-options",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-velvety-russian-vegetables-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-velvety-russian-vegetables-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T11:49:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "biryani masala",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "jagged, velvety",
+    "dishForm": "Pilaf"
+  }
+}
