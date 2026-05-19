@@ -1,0 +1,125 @@
+{
+  "title": "Jewelled Malaysian Minari Dumplings",
+  "description": "Resinous, pillowy meal-prep Malaysian dish featuring minari, dum, and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Minari (Korean Radish)",
+      "amount": "250g",
+      "notes": " Thinly sliced"
+    },
+    {
+      "name": "Dumpling Wrappers (Vegan)",
+      "amount": "12-15 pieces",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "200ml",
+      "notes": "Full-fat for best flavor"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Pounded to release oils"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": "Ayurvedic-sattvic-friendly spice"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying dumplings"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Himalayan pink salt for best flavor"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lemongrass, ginger, garlic, turmeric powder, and a pinch of salt to make a smooth paste.",
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add the lemongrass-ginger-garlic paste and cook for 2-3 minutes, stirring frequently.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Add the sliced minari and cook for 5-7 minutes, or until slightly tender.",
+    "Meanwhile, fill a large pot with water and bring to a boil.",
+    "Cook the dumpling wrappers according to package instructions.",
+    "Once cooked, remove the dumplings from the water and add them to the skillet with the minari mixture.",
+    "Toss the dumplings in the skillet to coat with the flavorful liquid.",
+    "Serve the jewelled Malaysian minari dumplings hot, garnished with chopped cilantro, mint, and a drizzle of rice vinegar (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pillowy",
+    "resinous",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "jewelled-malaysian-minari-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-malaysian-minari-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T20:06:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "minari",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "minari",
+    "descriptor": "jewelled",
+    "dishForm": "Dumplings"
+  }
+}
