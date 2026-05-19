@@ -1,0 +1,101 @@
+{
+  "title": "Jaggedly Roasted Portuguese Olives",
+  "description": "A festive and flavorful Portuguese-inspired dish featuring roasted black olives, perfect for any occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black olives",
+      "amount": "2 cups",
+      "notes": "pitted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the olives and pat them dry with a paper towel.",
+    "In a large bowl, combine the olives, olive oil, garlic, lemon juice, thyme, salt, and black pepper. Toss to coat.",
+    "Spread the olive mixture on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 20 minutes.",
+    "Remove the olives from the oven and let them cool slightly.",
+    "Drizzle the balsamic vinegar over the olives, if using.",
+    "Serve the olives warm or at room temperature.",
+    "Garnish with fresh thyme, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "easy-to-make",
+    "olives",
+    "portuguese",
+    "roasted",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "jaggedly-roasted-portuguese-olives-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jaggedly-roasted-portuguese-olives-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:10:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "black olives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "olives",
+    "descriptor": "Jaggedly roasted",
+    "dishForm": "Roast"
+  }
+}
