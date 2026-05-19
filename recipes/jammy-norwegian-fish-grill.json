@@ -1,0 +1,103 @@
+{
+  "title": "Jammy Norwegian Fish Grill",
+  "description": "A flavorful and nutritious Norwegian dish featuring Jamaican curry powder, perfect for breakfast or brunch. The combination of juicy fish and crunchy vegetables makes it a great hangover cure.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "Season the salmon fillet with salt, pepper, and Jamaican curry powder.",
+    "Brush the grates with olive oil to prevent sticking.",
+    "Add the salmon to the grill and cook for 4 minutes per side, or until cooked through.",
+    "Meanwhile, grill the onion, red bell pepper, and zucchini slices for 2-3 minutes per side, or until tender and lightly charred.",
+    "Serve the grilled salmon with the vegetables and a squeeze of lemon juice.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "low-carb",
+    "lunch",
+    "norwegian-cuisine",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "jammy-norwegian-fish-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-norwegian-fish-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T01:36:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Jammy",
+    "dishForm": "Grill"
+  }
+}
