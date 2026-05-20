@@ -1,0 +1,101 @@
+{
+  "title": "Jazzy Velvety Russian Egg Frittata",
+  "description": "A funky Russian dish featuring mustard and bonito flakes, perfect for a brunch mood, with a raw-friendly twist",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat.",
+    "In a large bowl, whisk together the eggs, dijon mustard, salt, and black pepper.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Sprinkle the shaved bonito flakes and chopped fresh dill over the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and sprinkle the grated cheddar cheese over the top, if using.",
+    "Return the skillet to the oven and bake for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "eggs-for-breakfast",
+    "frittata-recipes",
+    "gluten-free-options",
+    "russian-cuisine",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "jazzy-velvety-russian-egg-frittata",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-velvety-russian-egg-frittata",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:56:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "mustard",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "eggs",
+    "descriptor": "Jazzy Velvety",
+    "dishForm": "Frittata"
+  }
+}

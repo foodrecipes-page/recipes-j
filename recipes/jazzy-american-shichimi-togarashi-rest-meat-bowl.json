@@ -1,0 +1,97 @@
+{
+  "title": "Jazzy American Shichimi-Togarashi Rest-Meat Bowl",
+  "description": "Savory, springy, and festive, this dish combines the warmth of shichimi togarashi with the Mediterranean flavors of rest meat. Perfect for a quick weeknight dinner or a special occasion.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shichimi togarashi",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality extra virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the olive oil, shichimi togarashi, minced garlic, and thinly sliced onion.",
+    "Place the rest meat in a large baking dish and brush the onion mixture evenly over the top.",
+    "Roast in the preheated oven for 20-25 minutes, or until the rest meat is cooked through and the onions are caramelized.",
+    "While the rest meat is cooking, toss the cherry tomatoes with a pinch of salt and a squeeze of lemon juice in a separate bowl.",
+    "To assemble the bowls, place a portion of the rest meat on each plate, followed by a spoonful of mixed greens, halved cherry tomatoes, and a sprinkle of crumbled feta cheese (if using).",
+    "Serve immediately and enjoy!",
+    "Garnish with additional shichimi togarashi and lemon wedges, if desired.",
+    "Experiment with different toppings and flavor combinations to make this dish your own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "jazzy-american-shichimi-togarashi-rest-meat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-american-shichimi-togarashi-rest-meat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:56:50Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "shichimi-togarashi-rest-meat",
+    "descriptor": "jazzy",
+    "dishForm": "bowl"
+  }
+}

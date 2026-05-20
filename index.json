@@ -2779,6 +2779,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-american-shichimi-togarashi-rest-meat-bowl",
+    "title": "Jazzy American Shichimi-Togarashi Rest-Meat Bowl",
+    "tags": [
+      "easy-dinner",
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-bouncy-korean-corn-tacos",
     "title": "Jazzy Bouncy Korean Corn Tacos",
     "tags": [
@@ -4167,6 +4182,21 @@
       "vegetarian"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-velvety-russian-egg-frittata",
+    "title": "Jazzy Velvety Russian Egg Frittata",
+    "tags": [
+      "brunch-ideas",
+      "eggs-for-breakfast",
+      "frittata-recipes",
+      "gluten-free-options",
+      "russian-cuisine",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "j"
   },
