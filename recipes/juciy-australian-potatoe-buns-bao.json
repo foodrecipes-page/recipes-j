@@ -1,0 +1,69 @@
+{
+  "title": "Juicy Australian Potato Buns Bao",
+  "description": "A comforting Australian dish featuring potato buns, inspired by Korean ttukbaegi earthenware cooking with a dash of Aussie flair.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Australian grass-fed beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware to 375°F.",
+    "In a large mixing bowl, combine the beef and a pinch of salt.",
+    "Add the ground pepper and mix well.",
+    "Form the beef mixture into small balls, about 1 inch in diameter.",
+    "Place the potato buns in the ttukbaegi earthenware, overlapping them slightly.",
+    "Place a beef ball in the center of each bun.",
+    "Cover the ttukbaegi earthenware with a lid and cook for 20 minutes.",
+    "After 20 minutes, remove the lid and cook for an additional 10 minutes, or until the potato buns are golden brown and the beef is cooked through.",
+    "Serve hot with your favorite dipping sauce.",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "earthenware",
+    "easy-meatball",
+    "twist-on-classic"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "juciy-australian-potatoe-buns-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juciy-australian-potatoe-buns-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "potatoe buns",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "potatoe buns",
+    "descriptor": "juciy",
+    "dishForm": "Bao"
+  }
+}
