@@ -1,0 +1,122 @@
+{
+  "title": "Juicy Indulgent Tunisian Chicken Tagine",
+  "description": "This dish is inspired by the rich flavors of traditional Tunisian cuisine, with a hint of Jamaican curry powder and air-fried to perfection.",
+  "cuisine": "tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "notes": "ground",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Season the chicken thighs with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the olive oil in the air fryer basket and cook the chicken thighs for 10 minutes, or until browned and cooked through.",
+    "In a separate pan, sauté the onion, garlic, and ginger over medium heat until softened, about 5 minutes.",
+    "Add the Jamaican curry powder to the pan and cook for 1 minute, stirring constantly.",
+    "Stir in the lemon juice and cook for another minute.",
+    "To assemble the tagine, place the cooked chicken thighs in a large serving bowl and spoon the onion and spice mixture over the top.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "high-protein",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-indulgent-tunisian-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-indulgent-tunisian-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:28:23Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "juicy Indulgent",
+    "dishForm": "Tagine"
+  }
+}
