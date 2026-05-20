@@ -1,0 +1,110 @@
+{
+  "title": "Jagged Croatian Garlicky Aerated Monsoon Pilaf",
+  "description": "A hearty, flavorful pilaf inspired by the cuisine of Croatia, perfect for a monsoon evening. This recipe is low in carbs and rich in flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "4-5 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked, preferably short-grain"
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy-bottomed pan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in oil and slightly toasted.",
+    "Pour in the chicken broth, rendered pork fat, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce heat to low and cover the pan with a lid.",
+    "Simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove the pan from heat and stir in the chopped fresh basil and grated Parmesan cheese.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "If the pilaf seems too dense, you can try adding a little extra chicken broth and stirring to fluff it up."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "croatian",
+    "garlicky",
+    "low-carb",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "jagged-croatian-garlicky-aerated-monsoon-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-croatian-garlicky-aerated-monsoon-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "garlicky aerated monsoon",
+    "descriptor": "jagged",
+    "dishForm": "pilaf"
+  }
+}

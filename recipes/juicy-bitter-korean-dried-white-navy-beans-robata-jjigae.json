@@ -1,0 +1,108 @@
+{
+  "title": "Juicy Bitter Korean Dried White Navy Beans Robata Jjigae",
+  "description": "A show-off Korean dish featuring dried white navy beans, with a smooth and creamy coconut-based sauce, carefully crafted to avoid common allergens and digestive issues. This dish is perfect for those looking to impress with a unique and flavorful meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried White Navy Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the dried white navy beans in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a robata grill or a grill pan over medium heat.",
+    "In a blender or food processor, combine coconut cream, Korean chili flakes, grated ginger, minced garlic, soy sauce, rice vinegar, sugar, and Korean chili paste. Blend until smooth.",
+    "Add the blended sauce to the robata grill or grill pan and stir to combine with the beans.",
+    "Cook for 10 minutes, stirring occasionally, until the beans are well coated with the sauce and slightly tender.",
+    "Season with salt to taste.",
+    "Transfer the bean mixture to a serving dish and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dried white navy beans",
+    "descriptor": "Juicy Bitter",
+    "dishForm": "Robata Jjigae"
+  }
+}

@@ -433,6 +433,20 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-croatian-garlicky-aerated-monsoon-pilaf",
+    "title": "Jagged Croatian Garlicky Aerated Monsoon Pilaf",
+    "tags": [
+      "aerated",
+      "croatian",
+      "garlicky",
+      "low-carb",
+      "monsoon"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-crumbly-turkish-millet-manti",
     "title": "Jagged Crumbly Turkish Millet Manti",
     "tags": [
@@ -2609,6 +2623,22 @@
       "vegan"
     ],
     "cuisine": "Russian Vegan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jasmine-infused-syrian-rose-petals-tagine",
+    "title": "Jasmine-Infused Syrian Rose Petals Tagine",
+    "tags": [
+      "coconut-based",
+      "dessert",
+      "high-calorie",
+      "one-pan",
+      "romantic",
+      "rose-petal-based",
+      "sunday-dinner"
+    ],
+    "cuisine": "Syrian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -9362,6 +9392,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
+    "title": "Juicy Bitter Korean Dried White Navy Beans Robata Jjigae",
+    "tags": [
+      "fodmap-friendly",
+      "high-protein",
+      "korean-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {

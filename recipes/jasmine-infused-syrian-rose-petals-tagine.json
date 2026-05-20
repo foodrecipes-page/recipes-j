@@ -1,0 +1,94 @@
+{
+  "title": "Jasmine-Infused Syrian Rose Petals Tagine",
+  "description": "Romantic, chewy, herbal dessert featuring desiccated coconut and rose petals, inspired by Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Desiccated Coconut",
+      "amount": "120g"
+    },
+    {
+      "name": "Rose Petals",
+      "amount": "60g"
+    },
+    {
+      "name": "Jasmine Green Tea",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Rose Petals",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 180°C.",
+    "Combine desiccated coconut, rose petals, jasmine green tea, and maple syrup in a bowl.",
+    "Heat coconut oil in a copper mug over medium heat.",
+    "Add ghee and salt to the mug and stir.",
+    "Pour the coconut mixture into the mug and stir to combine.",
+    "Add fresh rose petals to the mug and stir.",
+    "Transfer the mug to the preheated wood-fired oven and bake for 20 minutes.",
+    "Remove the mug from the oven and let it cool for 5 minutes.",
+    "Garnish with lemon zest and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-based",
+    "dessert",
+    "high-calorie",
+    "one-pan",
+    "romantic",
+    "rose-petal-based",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "jasmine-infused-syrian-rose-petals-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jasmine-infused-syrian-rose-petals-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:00:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Rose Petals",
+    "descriptor": "Jasmine-Infused Delicate",
+    "dishForm": "Tagine"
+  }
+}
