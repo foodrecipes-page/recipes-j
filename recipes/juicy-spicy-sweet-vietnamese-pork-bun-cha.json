@@ -1,0 +1,117 @@
+{
+  "title": "Juicy Spicy Sweet Vietnamese Pork Bun Cha",
+  "description": "Bun Cha is a popular Vietnamese dish that features char-grilled pork served with fresh herbs, pickled carrots, and sweet chili sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "500g pork shoulder",
+      "amount": "1",
+      "notes": "boneless"
+    },
+    {
+      "name": "2 tablespoons fish sauce",
+      "amount": "2",
+      "notes": "use high-quality"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2",
+      "notes": "use gluten-free"
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": "2",
+      "notes": "or to taste"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon grated ginger",
+      "amount": "1",
+      "notes": "fresh"
+    },
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "8-10 bamboo skewers",
+      "amount": "1",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "200g pickled carrots and daikon",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sweet Chili Sauce",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh herbs (basil, mint, cilantro)",
+      "amount": "1",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine fish sauce, soy sauce, sugar, garlic, and ginger. Add pork shoulder and marinate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread pork onto bamboo skewers, leaving a small space between each piece.",
+    "Grill pork for 8-10 minutes per side, or until cooked through.",
+    "While pork is cooking, heat oil in a small pan over medium heat. Add onion and cook for 3-4 minutes, or until slightly caramelized.",
+    "To assemble, place a portion of noodles on a plate, top with grilled pork, pickled carrots, and caramelized onion.",
+    "Serve with sweet chili sauce on the side and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "meat-based",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "juicy-spicy-sweet-vietnamese-pork-bun-cha",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-spicy-sweet-vietnamese-pork-bun-cha",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:44:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "en-croute",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy, spicy, sweet",
+    "dishForm": "Bun Cha"
+  }
+}
