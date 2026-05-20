@@ -1,0 +1,148 @@
+{
+  "title": "jusy spring irish beef stew",
+  "description": "a resinous, springy, nostalgic irish dish featuring beef gravy, mantecare-emulsify, keto-friendly, served in a copper mug",
+  "cuisine": "irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef drippings",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mantecare",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat butter in a large pot over medium heat.",
+    "add onion, carrot, and celery and cook until tender, about 8 minutes.",
+    "add garlic and cook for 1 minute.",
+    "add flour and cook for 1 minute, stirring constantly.",
+    "add beef broth, red wine, green peppercorns, thyme, salt, and black pepper and stir to combine.",
+    "bring to a boil, then reduce heat to low and simmer for 2 hours.",
+    "add beef and simmer for an additional 30 minutes.",
+    "stir in heavy cream and mantecare and cook for 5 minutes, or until thickened.",
+    "taste and adjust seasoning with salt and pepper.",
+    "serve with beef drippings and garnish with fresh parsley.",
+    "reheat in a copper mug by placing it in the oven at 350f for 10 minutes or by microwaving for 30 seconds.",
+    "serve hot and enjoy!",
+    "use a keto-friendly mantecare emulsifier to ensure the dish remains low-carb."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "irish",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 50
+  },
+  "slug": "jusy-spring-irish-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jusy-spring-irish-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "beef gravy",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "jusy spring",
+    "dishForm": "stew"
+  }
+}
