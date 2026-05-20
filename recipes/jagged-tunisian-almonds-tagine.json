@@ -1,0 +1,63 @@
+{
+  "title": "jagged tunisian almonds tagine",
+  "description": "a briny, crisp tunisian dish featuring almonds and shio-cure, perfect for post-workout.\nthis diabetic-friendly tagine is a refreshing twist on traditional tunisian cuisine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "3/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped almonds and cook until fragrant, about 2 minutes.",
+    "add the shio-cure, fennel, and red onion, and cook until the vegetables are tender, about 5 minutes.",
+    "add the lemon juice, salt, and black pepper, and stir to combine.",
+    "reduce heat to low and simmer for 10 minutes.",
+    "stir in the chopped parsley and fresh mint.",
+    "serve warm, garnished with additional parsley and mint if desired.",
+    "let cool slightly before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "jagged-tunisian-almonds-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-tunisian-almonds-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:49:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "almonds",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "almonds",
+    "descriptor": "jagged",
+    "dishForm": "tagine"
+  }
+}
