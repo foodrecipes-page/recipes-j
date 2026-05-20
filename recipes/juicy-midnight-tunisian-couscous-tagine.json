@@ -1,0 +1,75 @@
+{
+  "title": "juicy midnight tunisian couscous tagine",
+  "description": "this funky, juicy, midnight-craving tunisian dish is a perfect combination of char-grill-y flavors, ayurvedic sattvic friendly ingredients, and the warmth of a raclette grill. a comforting meal to satisfy your late-night cravings.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    }
+  ],
+  "instructions": [
+    "heat the raclette grill to 400\u001528f",
+    "season the chicken breasts with salt, black pepper, and a pinch of turmeric",
+    "grill the chicken for 4-5 minutes per side, or until cooked through",
+    "fluff the couscous in a large mixing bowl",
+    "add 2 cups of hot water to the couscous and let it sit for 5 minutes",
+    "fluff the couscous with a fork and add 2 tablespoons of olive oil, 1 tablespoon of chopped fresh parsley, and 1 tablespoon of chopped fresh cilantro",
+    "stir well to combine",
+    "serve the grilled chicken on top of the couscous mixture",
+    "garnish with additional parsley and cilantro if desired",
+    "serve hot and enjoy",
+    "cook time min: 40",
+    "cook time min: 40",
+    "total time min: 40",
+    "servings: 4",
+    "difficulty: medium",
+    "tags:[",
+    "weeknight",
+    "one-pan",
+    "north-african",
+    "grilled",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 70,
+    "fat": 18
+  },
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "tags": [
+    "tunisian",
+    "dinner"
+  ],
+  "slug": "juicy-midnight-tunisian-couscous-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-midnight-tunisian-couscous-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:56:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "couscous",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "couscous",
+    "descriptor": "juicy midnight",
+    "dishForm": "tagine"
+  }
+}
