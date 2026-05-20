@@ -1,0 +1,92 @@
+{
+  "title": "juvenescent french cardamom tart",
+  "description": "a delicate, ovo-vegetarian-friendly brunch dish featuring ground cardamom and a crispy, double-fried pastry crust",
+  "cuisine": "lyonnais",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, cubed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for brushing pastry crust"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup",
+      "notes": "for dusting tart"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "in a large mixing bowl, combine flour, sugar, and cubed butter. Use a pastry blender or your fingers to work butter into flour until mixture resembles coarse crumbs.",
+    "add eggs to mixture and stir until dough comes together. Wrap dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "on a lightly floured surface, roll out chilled dough to a thickness of about 1/8 inch.",
+    "transfer dough to a 9-inch tart pan with a removable bottom. Trim edges and press dough into corners of pan."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cardamom",
+    "double-fried",
+    "french",
+    "kfc",
+    "lyon",
+    "ovo-vegetarian",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "juvenescent-french-cardomom-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juvenescent-french-cardomom-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:24:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ground cardomom",
+    "diet": "ovo-vegetarian",
+    "region": "lyon",
+    "cuisineAdjective": "french",
+    "mainIngredient": "cardomom",
+    "descriptor": "juvenescent",
+    "dishForm": "tart"
+  }
+}
