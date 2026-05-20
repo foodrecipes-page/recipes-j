@@ -1,0 +1,113 @@
+{
+  "title": "Jjigae-Style Korean Pork Jjigae",
+  "description": "A salty and spicy Korean dish from Chungcheong province, made with pork tenderloin and pressure-cooked for a weeknight meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use gluten-free soy sauce for halal option"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large pressure cooker over medium-high heat.",
+    "Add the pork tenderloin and cook until browned on all sides, about 5 minutes.",
+    "Add the gochujang, gochugaru, soy sauce, brown sugar, garlic, and ginger. Stir to combine.",
+    "Add the zucchini and carrots. Close the lid and cook at high pressure for 10 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Stir in the green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "jjigae-style-korean-pork-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jjigae-style-korean-pork-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "halal",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Jjigae-style",
+    "dishForm": "Jjigae"
+  }
+}
