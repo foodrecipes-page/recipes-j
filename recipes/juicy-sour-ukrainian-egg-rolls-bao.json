@@ -1,0 +1,105 @@
+{
+  "title": "Sour Ukrainian Egg Rolls Bao",
+  "description": "Crisp, juicy Ukrainian egg rolls in a tangy sauce, served in a slate-tile vessel.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sour-cream",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "green-onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black-pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive-oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cook to 375°F (190°C).",
+    "In a large bowl, combine the cabbage, carrots, green onion, and garlic.",
+    "In a separate bowl, whisk together the flour, salt, and black pepper.",
+    "Add the flour mixture to the cabbage mixture and stir until combined.",
+    "Using a food processor or blender, finely chop the cabbage mixture.",
+    "Add the chopped cabbage mixture to the sour cream and stir until combined.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Using a spatula, carefully place the egg roll wrappers on the pan and brush with olive oil.",
+    "When the wrappers are golden brown, flip and cook for an additional 2 minutes.",
+    "Assemble the bao by placing a tablespoon of the sour cream mixture on the bottom half of a bao bun, followed by a cooked egg roll, and finishing with the top half of the bao bun."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bun-based",
+    "easy-meal",
+    "egg-free",
+    "gluten-free",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "juicy-sour-ukrainian-egg-rolls-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sour-ukrainian-egg-rolls-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:47:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "egg rolls",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "juicy sour",
+    "dishForm": "Bao"
+  }
+}
