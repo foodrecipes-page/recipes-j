@@ -1,0 +1,110 @@
+{
+  "title": "Jazzy Smoked Ukrainian Kombu Gratin",
+  "description": "Malty, crisp Ukrainian dish featuring kombu, grilled to perfection and served in a claypot.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "macrobiotic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kombu seaweed",
+      "amount": "6 sheets",
+      "notes": ""
+    },
+    {
+      "name": "barley malt syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "claypot",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Soak kombu sheets in water for at least 30 minutes.",
+    "Drain and slice onion and garlic, then mix with caraway seeds, black pepper, and lemon juice.",
+    "Brush the interior of the claypot with grapeseed oil and add barley malt syrup, then layer with sliced onion and garlic mixture, and kombu sheets.",
+    "Cover the claypot and grill for 20 minutes, then carefully remove the cover and grill for an additional 10 minutes, or until the top is crispy and golden brown.",
+    "Remove from grill and let cool for a few minutes before serving.",
+    "Serve immediately, garnished with fresh herbs if desired.",
+    "Note: This dish is traditionally served with a side of rye bread or dark rye crackers.",
+    "Note: Be sure to use a claypot that is safe for high heat and can withstand the grill temperatures."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "high-carb",
+    "one-pan",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 120,
+    "fat": 24
+  },
+  "slug": "jazzy-smoked-ukrainian-kombu-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-smoked-ukrainian-kombu-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:15:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "kombu",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Kombu",
+    "descriptor": "Jazzy Smoked",
+    "dishForm": "Gratin"
+  }
+}
