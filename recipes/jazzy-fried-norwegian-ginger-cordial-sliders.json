@@ -1,0 +1,120 @@
+{
+  "title": "jazzy fried norwegian ginger cordial sliders",
+  "description": "a funky, light, and energizing norwegian dish featuring ginger cordial served in sliders on a raclette grill.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ginger cordial",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "norwegian fish sticks",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1-2 slices",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon ",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "4-6 tortillas",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a raclette grill to medium-high heat.",
+    "slice the flour tortillas into slider-sized pieces.",
+    "brush the tortillas with a little bit of oil and season with salt, black pepper, turmeric powder, and garam masala.",
+    "place the norwegian fish sticks on the grill and cook for 2-3 minutes per side, or until golden brown and cooked through.",
+    "while the fish sticks are cooking, mix together the ricotta cheese, slivered almonds, and pickled ginger in a bowl.",
+    "add a spoonful of the cheese mixture onto each tortilla, followed by a cooked fish stick.",
+    "drizzle the ginger cordial and lemon juice over the top of each slider.",
+    "garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-sticks",
+    "frozen-food",
+    "ginger-cordial",
+    "kid-friendly",
+    "norwegian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jazzy-fried-norwegian-ginger-cordial-sliders",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-fried-norwegian-ginger-cordial-sliders",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:20:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "ginger cordial",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "ginger cordial",
+    "descriptor": "Jazzy Fried",
+    "dishForm": "Sliders"
+  }
+}
