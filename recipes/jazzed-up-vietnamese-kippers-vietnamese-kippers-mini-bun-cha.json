@@ -1,0 +1,111 @@
+{
+  "title": "Jazzed-Up Vietnamese Kippers Mini Bun Cha",
+  "description": "Sour, shaggy, one-pot Vietnamese dish featuring kippers, served in individual mini cocottes. Fodmap-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4",
+      "notes": "smoked salmon fillets"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1/2 cup",
+      "notes": "for texture"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mini cocottes",
+      "amount": "4",
+      "notes": "ceramic pots"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add kippers and cook for 2 minutes per side, or until browned.",
+    "Remove kippers from skillet and set aside.",
+    "Add ginger, chili flakes, and salt to skillet and cook for 1 minute, or until fragrant.",
+    "Add bean sprouts and cook for 2 minutes, or until tender.",
+    "Add rice vinegar, fish sauce, and lime leaves to skillet and cook for 1 minute, or until heated through.",
+    "Return kippers to skillet and stir to combine with dressing.",
+    "Spoon kippers and dressing into mini cocottes and garnish with cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "fodmap-friendly",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jazzed-up-vietnamese-kippers-vietnamese-kippers-mini-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzed-up-vietnamese-kippers-vietnamese-kippers-mini-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "kippers",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Kippers",
+    "descriptor": "Jazzed-Up Vietnamese Kippers",
+    "dishForm": "Mini Bun Cha"
+  }
+}
