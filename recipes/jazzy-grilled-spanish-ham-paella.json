@@ -1,0 +1,110 @@
+{
+  "title": "Jazzy Grilled Spanish Ham Paella",
+  "description": "Fermented Spanish dish featuring grilled ham and a variety of flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish Ham",
+      "amount": "1 cup",
+      "notes": "Fermented ham, thinly sliced"
+    },
+    {
+      "name": "Mixed Rice",
+      "amount": "1 cup",
+      "notes": "Calrose or similar short-grain variety"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Hot and rich"
+    },
+    {
+      "name": "Gambas al Ajillo",
+      "amount": "1 cup",
+      "notes": "Marinated shrimp, cooked"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced and char-grilled"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced and caramelized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and saut\u00170"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Deep, smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat the grill to medium-high heat and char-grill the red bell pepper until tender.",
+    "Sear the sliced Spanish ham for 1-2 minutes per side, until lightly browned.",
+    "In a large skillet, heat the chicken broth over medium heat.",
+    "Add the sliced onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the marinated shrimp and cook until pink and cooked through.",
+    "In a large paella pan or skillet, arrange the cooked ingredients in a circular pattern.",
+    "Sprinkle the Spanish smoked paprika and season with salt and black pepper.",
+    "Serve hot and enjoy the smoky and savory flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "one-pan",
+    "paella",
+    "spanish",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "jazzy-grilled-spanish-ham-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-grilled-spanish-ham-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:13:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ham",
+    "diet": "whole30",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "ham",
+    "descriptor": "Jazzy Grilled",
+    "dishForm": "Paella"
+  }
+}

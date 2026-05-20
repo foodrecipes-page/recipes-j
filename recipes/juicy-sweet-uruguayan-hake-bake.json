@@ -1,0 +1,105 @@
+{
+  "title": "Juicy Sweet Uruguayan Hake Bake",
+  "description": "A sweet and juicy pescatarian-friendly Uruguayan dish featuring petit pois, perfect for a weeknight dinner. Serve with crusty bread and a side salad for a delightful meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "2 pounds"
+    },
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the hake fillets with salt and pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the hake fillets for 2-3 minutes on each side, then set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the honey, lemon juice, and petit pois. Cook for 2-3 minutes.",
+    "Return the hake fillets to the skillet and transfer to the preheated oven.",
+    "Bake for 12-15 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "fish",
+    "one-pan",
+    "pescatarian",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "juicy-sweet-uruguayan-hake-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-sweet-uruguayan-hake-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:14:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "petit pois",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "hake",
+    "descriptor": "juicy sweet",
+    "dishForm": "Bake"
+  }
+}

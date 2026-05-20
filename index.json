@@ -3323,6 +3323,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-grilled-spanish-ham-paella",
+    "title": "Jazzy Grilled Spanish Ham Paella",
+    "tags": [
+      "grilled",
+      "one-pan",
+      "paella",
+      "spanish",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro",
     "title": "Jazzy Hangover-Cure Ethiopian Grape Nut Cereal Shiro",
     "tags": [
@@ -15551,6 +15566,21 @@
       "south-american"
     ],
     "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-uruguayan-hake-bake",
+    "title": "Juicy Sweet Uruguayan Hake Bake",
+    "tags": [
+      "easy-dinner",
+      "fish",
+      "one-pan",
+      "pescatarian",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
     "totalTimeMin": 30,
     "shard": "j"
   },
