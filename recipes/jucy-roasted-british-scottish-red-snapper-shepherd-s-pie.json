@@ -1,0 +1,118 @@
+{
+  "title": "Juicy Roasted British Scottish Red Snapper Shepherd's Pie",
+  "description": "A traditional Scottish dish featuring roasted red snapper, topped with a creamy mashed potato crust, served in a terracotta dish.",
+  "cuisine": "Scottish",
+  "diet": [
+    "halal",
+    "beef-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mantecare Butter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potato",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a terracotta dish with parchment paper.",
+    "Arrange the red snapper fillets in the dish.",
+    "In a separate pan, melt the mantecare butter and sauté the onion, carrot, and peas until tender.",
+    "Add the chicken broth and bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Meanwhile, mash the potato in a separate bowl and mix in the milk, cheddar cheese, salt, and black pepper.",
+    "Pour the mashed potato mixture over the red snapper and top with the cooked vegetable mixture.",
+    "Bake in the preheated oven for 20 minutes, or until the top is golden brown.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jucy-roasted-british-scottish-red-snapper-shepherd-s-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-roasted-british-scottish-red-snapper-shepherd-s-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:50Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "red snapper",
+    "diet": "halal",
+    "region": "scottish",
+    "cuisineAdjective": "British (Scottish)",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Jucy Roasted",
+    "dishForm": "Shepherd's Pie"
+  }
+}
