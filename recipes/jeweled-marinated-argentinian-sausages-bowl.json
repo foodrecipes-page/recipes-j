@@ -1,0 +1,93 @@
+{
+  "title": "Jeweled Marinated Argentinian Sausages Bowl",
+  "description": "A light and flavorful dish featuring crispy Argentinian sausages, a sweet and tangy marinade, and colorful vegetables served in a dolsot stone bowl.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Chorizo Sausages",
+      "amount": "4",
+      "notes": "Look for sweet or smoky chorizo sausages for a good flavor."
+    },
+    {
+      "name": "Marinade",
+      "amount": "1/2 cup",
+      "notes": "A mixture of olive oil, red wine vinegar, garlic, and spices."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "Thinly sliced for a sweet and crunchy texture."
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1",
+      "notes": "Thinly sliced for a sweet and crunchy texture."
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "",
+      "type": "string",
+      "unit": "piece",
+      "value": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat, then cook the chorizo sausages for 2-3 minutes on each side, or until browned and cooked through.",
+    "Transfer the cooked chorizo sausages to a plate and set aside.",
+    "In the same skillet, add the thinly sliced red onion and red bell pepper and cook for 4-5 minutes, or until the vegetables are tender and slightly caramelized.",
+    "Add the marinade to the skillet and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Add the snow peas to the skillet and cook for 1-2 minutes, or until tender but still crisp.",
+    "To assemble the dish, place a cooked chorizo sausage in the bottom of each dolsot stone bowl.",
+    "Spoon the marinade and vegetable mixture over the sausage, then top with sliced egg-free-friendly condiments like pickled peppers or sliced hot peppers.",
+    "Serve immediately, garnished with chopped fresh cilantro or scallions if desired.",
+    "Repeat the cooking process for the remaining sausages and serve in individual stone bowls.",
+    "Adjust seasoning as needed to taste.",
+    "Garnish with a sprinkle of parsley or a dollop of yogurt, if desired.",
+    "Discard any remaining marinade and vegetable mixture.",
+    "Wipe the skillet clean with a paper towel before cooking the next batch of sausages.",
+    "Repeat the cooking process for the remaining sausages and serve in individual stone bowls.",
+    "Taste and adjust seasoning as needed before serving.",
+    "Discard any remaining marinade and vegetable mixture and serve the dish immediately.",
+    "Cook the remaining sausages in batches as needed, until all the sausages are cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "one-pan",
+    "sausage",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "jeweled-marinated-argentinian-sausages-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jeweled-marinated-argentinian-sausages-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:09:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "sausages",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Sausages",
+    "descriptor": "jeweled marinated",
+    "dishForm": "Bowl"
+  }
+}
