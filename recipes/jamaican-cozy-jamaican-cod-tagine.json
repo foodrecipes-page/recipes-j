@@ -1,0 +1,104 @@
+{
+  "title": "Jamaican Cozy Cod Tagine",
+  "description": "A sour and creamy Jamaican dish featuring cod, tobiko, and a halal-friendly tagine cooking method.",
+  "cuisine": "jamaican",
+  "diet": [
+    "halal",
+    "vegetarian-optional"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "1 pound, 6 ounces"
+    },
+    {
+      "name": "tobiko",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add onion, garlic, and ginger, and cook until softened, about 8 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add cod fillets and cook for 2 minutes on each side.",
+    "Add coconut milk, apple cider vinegar, cinnamon, and cayenne pepper.",
+    "Stir in tobiko.",
+    "Cover the pot and bring the mixture to a simmer.",
+    "Reduce heat to low and cook for 8 minutes.",
+    "Serve hot, garnished with additional tobiko if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "jamaican",
+    "one-pan",
+    "veggie-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "jamaican-cozy-jamaican-cod-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jamaican-cozy-jamaican-cod-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:59:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tobiko",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cod",
+    "descriptor": "Jamaican Cozy",
+    "dishForm": "Tagine"
+  }
+}
