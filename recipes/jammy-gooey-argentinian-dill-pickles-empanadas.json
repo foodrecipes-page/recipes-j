@@ -1,0 +1,104 @@
+{
+  "title": "Jammy Gooey Argentinian Dill Pickles Empanadas",
+  "description": "A sweet and tangy twist on traditional empanadas, featuring a jammy gooey filling of dill pickles and a sweet surprise, inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Homemade Dill Pickle Filling",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "For the sweet surprise"
+    },
+    {
+      "name": "Milk Chocolate Chips",
+      "amount": "1/2 cup",
+      "notes": "For the sweet surprise"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Egg Wash",
+      "amount": "1",
+      "notes": "For brushing the empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of dill pickle filling in the center of each dough circle.",
+    "Add a few granulated sugar and milk chocolate chips on top of the pickle filling.",
+    "Brush the edges of the dough with the egg wash and fold the dough over to form a half-moon shape.",
+    "Press the edges together with a fork to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with the egg wash.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Let the empanadas cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "chocolate",
+    "dessert-like",
+    "pickles",
+    "snack",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "jammy-gooey-argentinian-dill-pickles-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-gooey-argentinian-dill-pickles-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:06:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "dill pickles",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dill pickles",
+    "descriptor": "jammy gooey",
+    "dishForm": "Empanadas"
+  }
+}

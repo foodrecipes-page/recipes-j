@@ -1948,6 +1948,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-gooey-argentinian-dill-pickles-empanadas",
+    "title": "Jammy Gooey Argentinian Dill Pickles Empanadas",
+    "tags": [
+      "argentinian",
+      "chocolate",
+      "dessert-like",
+      "pickles",
+      "snack",
+      "sugar"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-italian-rice-creamy-risotto",
     "title": "Jammy Italian Rice Creamy Risotto",
     "tags": [
