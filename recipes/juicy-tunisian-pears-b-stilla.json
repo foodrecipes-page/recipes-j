@@ -1,0 +1,114 @@
+{
+  "title": "Juicy Tunisian Pears B'stilla",
+  "description": "A flexible and flavorful dessert featuring a shio-koji-cured pear filling wrapped in crispy phyllo pastry.",
+  "cuisine": "tunisian",
+  "diet": [
+    "flexitarian",
+    "vegan-options"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "canned pears in syrup",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji powder",
+      "amount": ",",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting phyllo pastry"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 16-20 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "",
+      "},{": ":2 tbsp,"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed pistachios",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u0005\u00173°F (190°C).",
+    "Dust a large phyllo sheet with some all-purpose flour to prevent sticking.",
+    "Cut the phyllo sheet into a 12-inch square, and keep the remaining phyllo sheets covered with plastic wrap to prevent drying out.",
+    "Place a pear slice in the center of the phyllo square, leaving a 1-inch border around it.",
+    "Sprinkle a pinch of shio-koji powder over the pear, followed by a pinch of salt and a sprinkle of nutmeg powder (if using).",
+    "Fold the 4 edges of the phyllo square towards the center, pressing gently to seal the filling.",
+    "Brush the top of the phyllo pastry with melted butter, then sprinkle with a pinch of powdered sugar.",
+    "Repeat the process with the remaining phyllo sheets and pear slices, forming 6-8 b'stilla triangles.",
+    "Place the b'stilla triangles on a baking sheet lined with parchment paper, leaving about 1 inch of space between each triangle.",
+    "Drizzle the tops of the b'stilla with honey and sprinkle with crushed pistachios (if using).",
+    "Bake the b'stilla in the preheated oven for 20-22 minutes, or until golden brown and crispy.",
+    "Let the b'stilla cool on a wire rack for 5 minutes before serving.",
+    "Dust the b'stilla with powdered sugar before serving, if desired.",
+    "Serve warm or at room temperature, garnished with additional crushed pistachios and powdered sugar if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "tunisian",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "juicy-tunisian-pears-b-stilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-tunisian-pears-b-stilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:47:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pears",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pears",
+    "descriptor": "Juicy",
+    "dishForm": "B'stilla"
+  }
+}
