@@ -2685,6 +2685,22 @@
     "shard": "j"
   },
   {
+    "slug": "jawshan-syrian-butter-tagine",
+    "title": "jawshan syrian butter tagine",
+    "tags": [
+      "comfort-food",
+      "halal",
+      "high-calorie",
+      "indulgent",
+      "one-pan",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jazzed-citrusy-argentinian-chinese-broccoli-empanadas",
     "title": "Jazzed Citrusy Argentinian Chinese Broccoli Empanadas",
     "tags": [
@@ -4741,6 +4757,18 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jerk-jamaican-cottage-cheese-flatbread",
+    "title": "Jerk Jamaican Cottage Cheese Flatbread",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {

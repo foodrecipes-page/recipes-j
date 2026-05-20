@@ -1,0 +1,120 @@
+{
+  "title": "jawshan syrian butter tagine",
+  "description": "roasted, creamy, indulgent syrian dish featuring butter, tadka, halal-friendly, vessel=cataplana",
+  "cuisine": "syrian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "8 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a cataplana over medium heat, then add shallots and cook, stirring occasionally, until softened, about 5 minutes",
+    "add garlic and cook, stirring constantly, for 1 minute",
+    "add chicken and cook, stirring occasionally, until browned, about 5 minutes",
+    "add cumin, coriander, cayenne pepper, and cook, stirring constantly, for 1 minute",
+    "add chicken broth and bring to a boil, scraping up any browned bits from the bottom of the pan",
+    "reduce heat to low and simmer, covered, until chicken is cooked through, about 15 minutes",
+    "stir in yogurt and pomegranate molasses, and cook, stirring occasionally, until sauce has thickened, about 5 minutes",
+    "season with salt and pepper to taste",
+    "serve hot, garnished with parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "halal",
+    "high-calorie",
+    "indulgent",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 68
+  },
+  "slug": "jawshan-syrian-butter-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jawshan-syrian-butter-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:35:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "butter",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "butter",
+    "descriptor": "Jawshan",
+    "dishForm": "Tagine"
+  }
+}

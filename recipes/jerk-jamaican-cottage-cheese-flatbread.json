@@ -1,0 +1,89 @@
+{
+  "title": "Jerk Jamaican Cottage Cheese Flatbread",
+  "description": "A twist on traditional flatbread, this recipe combines the flavors of jerk seasoning with the creaminess of cottage cheese and the crunch of a double-rise bread crust.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cottage cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Double-rise bread dough",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Habanero pepper",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C) and a hot stone plate or baking sheet to 450°F (230°C).",
+    "Roll out the double-rise bread dough to a thickness of 1/4 inch (6 mm).",
+    "In a small bowl, mix together the jerk seasoning, habanero pepper, garlic, and a pinch of salt.",
+    "Spread the jerk seasoning mixture evenly over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Top the dough with the cottage cheese, spreading it evenly to cover the entire surface.",
+    "Fold the edges of the dough over the cottage cheese, pressing gently to seal.",
+    "Place the flatbread on the preheated hot stone plate or baking sheet and cook for 10-12 minutes, or until golden brown.",
+    "Remove the flatbread from the oven and sprinkle with coconut oil and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "jerk-jamaican-cottage-cheese-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jerk-jamaican-cottage-cheese-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:35:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cottage cheese",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Jerk",
+    "dishForm": "Flatbread"
+  }
+}
