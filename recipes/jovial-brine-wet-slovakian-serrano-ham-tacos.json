@@ -1,0 +1,60 @@
+{
+  "title": "Jovial Brine-Wet Slovakian Serrano Ham Tacos",
+  "description": "Pungent, velvety solo-dinner featuring Slovakian Serrano ham, brine-wet and plant-based-friendly. Serve in a molcajete.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Serrano ham",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Brine-wet Slovakian ham marinade",
+      "amount": "1 cup",
+      "notes": "(2 parts water, 1 part apple cider vinegar, salt)"
+    }
+  ],
+  "instructions": [
+    "Cut the Slovakian Serrano ham into thin slices.",
+    "Marinate the ham slices in the brine-wet Slovakian ham marinade for at least 2 hours.",
+    "Heat a non-stick skillet over medium heat.",
+    "Cook the ham slices for 2 minutes per side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "plant-based",
+    "serrano-ham",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "jovial-brine-wet-slovakian-serrano-ham-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jovial-brine-wet-slovakian-serrano-ham-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:18:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "serrano ham",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Serrano ham",
+    "descriptor": "Jovial Brine-Wet",
+    "dishForm": "Tacos"
+  }
+}
