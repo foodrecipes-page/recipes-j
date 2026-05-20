@@ -521,6 +521,21 @@
     "shard": "j"
   },
   {
+    "slug": "jagged-dense-middle-eastern-chickpea-falafel",
+    "title": "Jagged Dense Middle-Eastern Chickpea Falafel",
+    "tags": [
+      "falafel",
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "middle-eastern",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jagged-dense-saudi-arabian-lamb-kebabs",
     "title": "Jagged Dense Saudi Arabian Lamb Kebabs",
     "tags": [
@@ -14479,6 +14494,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-russian-beef-papillote",
+    "title": "Juicy Russian Beef Papillote",
+    "tags": [
+      "beef",
+      "one-pan",
+      "papillote",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {

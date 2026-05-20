@@ -1,0 +1,117 @@
+{
+  "title": "Juicy Russian Beef Papillote",
+  "description": "A funky, adventurous Russian dish featuring tender beef, crunchy vegetables, and herbs, all wrapped in a flavorful papillote. Serve with a side of steamed vegetables for a well-rounded meal.",
+  "cuisine": "russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strip loin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef strip loin with salt, black pepper, and thyme.",
+    "Heat canola oil in a large skillet over medium-high heat. Sear the beef strip loin for 2-3 minutes on each side, or until browned.",
+    "Transfer the beef to a plate and set aside.",
+    "In the same skillet, add the sliced onion, minced garlic, chopped carrots, and chopped celery. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the rosemary sprigs and cook for an additional minute, until fragrant.",
+    "Wrap the beef strip loin and the cooked vegetables in a large piece of parchment paper or aluminum foil, creating a papillote. ",
+    "Place the papillote on a baking sheet and bake for 20-25 minutes, or until the beef is cooked to your desired level of doneness.",
+    "While the papillote is cooking, mix the lemon juice and a pinch of salt in a small bowl. ",
+    "After 15 minutes of cooking, brush the papillote with the lemon mixture.",
+    "Remove the papillote from the oven and let it rest for 5 minutes before serving.",
+    "Slice the beef into thin strips and serve with the steamed vegetables and a drizzle of lemon juice.",
+    "Garnish with additional rosemary sprigs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "one-pan",
+    "papillote",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "juicy-russian-beef-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-russian-beef-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "papillote",
+    "primaryIngredient": "canola oil",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "juicy",
+    "dishForm": "papillote"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Jagged Dense Middle-Eastern Chickpea Falafel",
+  "description": "A dense and flavorful chickpea falafel dish with a hint of bittersweetness from the Marsala wine and a rich, creamy texture from the mantecare emulsion. This gluten-free-friendly dish is perfect for meal prep and can be made in under an hour.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "mung bean paste",
+      "amount": "1/2 cup",
+      "notes": "fermented for added depth of flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "2 tbsp",
+      "notes": "reduce heat by simmering the wine before adding it to the mixture"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly, optional"
+    },
+    {
+      "name": "mantecare emulsion",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Combine chickpeas, mung bean paste, onion, garlic, and parsley in a food processor and pulse until coarsely chopped.",
+    "In a small saucepan, reduce the Marsala wine over medium heat until almost syrupy.",
+    "Add the reduced Marsala wine, feta cheese, and mantecare emulsion to the food processor and pulse until the mixture is well combined.",
+    "Using a spoon or your hands, shape the mixture into small patties or balls.",
+    "Heat a non-stick skillet or griddle over medium-high heat and cook the falafel until crispy and golden brown, about 5-7 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "jagged-dense-middle-eastern-chickpea-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-dense-middle-eastern-chickpea-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "marsala-wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chickpea",
+    "descriptor": "jagged dense",
+    "dishForm": "Falafel"
+  }
+}
