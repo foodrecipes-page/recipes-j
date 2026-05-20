@@ -11239,6 +11239,19 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-fatty-australian-turkey-ham-bowl",
+    "title": "juicy fatty australian turkey ham bowl",
+    "tags": [
+      "australian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-fatty-egyptian-lamb-kebabs",
     "title": "Juicy Fatty Egyptian Lamb Kebabs",
     "tags": [
@@ -14932,6 +14945,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-aromatic-middle-eastern-meat-ouzi",
+    "title": "juicy smoky aromatic middle-eastern meat ouzi",
+    "tags": [
+      "braise",
+      "date-night",
+      "lamb",
+      "middle-eastern",
+      "paleo-friendly",
+      "whole30-friendly"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 165,
     "shard": "j"
   },
   {

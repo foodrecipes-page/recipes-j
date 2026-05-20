@@ -1,0 +1,119 @@
+{
+  "title": "juicy smoky aromatic middle-eastern meat ouzi",
+  "description": "a flavorful and aromatic dish featuring plum sauce and kombu-cold-extract, perfect for a date night. serves 4-6 people.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried kelp, cold-extracted"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "season the lamb shoulder with salt, black pepper, cumin, coriander, and paprika.",
+    "heat the coconut oil in a large Dutch oven over medium-high heat. sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "remove the lamb shoulder from the pot and set aside.",
+    "add the chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the plum sauce and cold-extracted kombu to the pot. stir to combine.",
+    "return the lamb shoulder to the pot and cover with a lid.",
+    "transfer the pot to the preheated oven and braise for 2.5 hours, or until the meat is tender and falls apart easily.",
+    "remove the pot from the oven and let it cool slightly.",
+    "use two forks to shred the lamb shoulder into bite-sized pieces.",
+    "return the shredded lamb to the pot and stir to combine with the plum sauce and kombu.",
+    "serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "date-night",
+    "lamb",
+    "middle-eastern",
+    "paleo-friendly",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "juicy-smoky-aromatic-middle-eastern-meat-ouzi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-smoky-aromatic-middle-eastern-meat-ouzi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:17:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "plum sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Meat",
+    "descriptor": "Juicy Smoky Aromatic",
+    "dishForm": "Ouzi"
+  }
+}

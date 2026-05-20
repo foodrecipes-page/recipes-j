@@ -1,0 +1,131 @@
+{
+  "title": "juicy fatty australian turkey ham bowl",
+  "description": "a hearty one-pot dish featuring turkey ham, vegetables, and a crispy bottom crust.",
+  "cuisine": "australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the vegetable broth in a dolsot-stone-bowl over medium-high heat until simmering.",
+    "add the turkey ham, carrots, celery, onion, and garlic, and cook for 2 minutes.",
+    "add the potatoes, tomato, soy sauce, sugar, salt, and black pepper, and stir to combine.",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer for 15 minutes.",
+    "while the mixture is cooking, prepare the egg whites and cornstarch for spherification.",
+    "when the mixture is done cooking, remove it from the heat and let it cool slightly.",
+    "use a spoon to create small wells in the mixture, then pour the egg whites and cornstarch mixture into each well.",
+    "return the dolsot-stone-bowl to the stovetop over medium heat and cook for an additional 2-3 minutes, or until the egg whites are set and the bottom crust is crispy.",
+    "serve the juicy fatty australian turkey ham bowl hot, garnished with additional soy sauce and sugar if desired.",
+    "let the bowl sit for 1-2 minutes to allow the spherified egg whites to set and the flavors to meld together before serving.",
+    "note: the cooking time may vary depending on the size and type of dolsot-stone-bowl used.",
+    "to ensure the egg whites are cooked through, check for doneness by cutting into one of the spherified egg white balls - if it is still runny, continue cooking for an additional 1-2 minutes and checking again.",
+    "do not overcook the egg whites, as they will become tough and rubbery."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "juicy-fatty-australian-turkey-ham-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fatty-australian-turkey-ham-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:17:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "turkey ham",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "turkey ham",
+    "descriptor": "juicy fatty",
+    "dishForm": "bowl"
+  }
+}
