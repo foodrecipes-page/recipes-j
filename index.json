@@ -1931,6 +1931,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-croatian-date-night-tart",
+    "title": "jammy croatian date-night tart",
+    "tags": [
+      "date-night",
+      "european",
+      "oven-baked",
+      "romantic",
+      "sugar-optional",
+      "tart"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 63,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-croatian-grape-leaves-dolma",
     "title": "Jammy Croatian Grape Leaves Dolma",
     "tags": [
@@ -6029,6 +6044,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-energizing-slovakian-fruit-mix-bowl",
+    "title": "Jewelled Energizing Slovakian Fruit Mix Bowl",
+    "tags": [
+      "breakfast",
+      "diabetic-friendly",
+      "healthy-snack",
+      "low-calorie",
+      "refreshing"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {

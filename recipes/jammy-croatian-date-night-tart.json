@@ -1,0 +1,66 @@
+{
+  "title": "jammy croatian date-night tart",
+  "description": "a sweet, flaky, ovo-vegetarian-friendly dessert, perfect for a romantic evening in, featuring a dark, soft brown sugar filling.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "cold"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u00134 f (190\u00134 c).",
+    "mix flour and butter in a bowl until crumbly.",
+    "add cold water and mix until dough forms.",
+    "roll out dough and place in tart pan.",
+    "bake crust for 18 minutes, or until golden brown.",
+    "while crust bakes, mix brown sugar, eggs, and milk in a separate bowl.",
+    "add spices and mix until combined.",
+    "when crust is done, pour sugar mixture into crust and continue baking for 25 minutes, or until filling is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 43,
+  "totalTimeMin": 63,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "european",
+    "oven-baked",
+    "romantic",
+    "sugar-optional",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "jammy-croatian-date-night-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-croatian-date-night-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "date-night",
+    "descriptor": "jammy",
+    "dishForm": "tart"
+  }
+}

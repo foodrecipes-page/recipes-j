@@ -1,0 +1,91 @@
+{
+  "title": "Jewelled Energizing Slovakian Fruit Mix Bowl",
+  "description": "A refreshing and energizing fruit mix bowl made with a variety of fruits, featuring a silky and grassy taste from Slovakia, diabetically friendly, served in a mason jar.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mixed berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": "low-calorie"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Diced apple",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced pear",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the mixed berries in the bottom of a mason jar.",
+    "Wash and chop the apple and pear, and layer them on top of the berries.",
+    "Add the chopped almonds, shredded coconut, and a drizzle of honey to the jar.",
+    "Top with the Greek yogurt and a sprinkle of vanilla extract."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "diabetic-friendly",
+    "healthy-snack",
+    "low-calorie",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "jewelled-energizing-slovakian-fruit-mix-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-energizing-slovakian-fruit-mix-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fruit mix",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fruit mix",
+    "descriptor": "Jewelled energizing",
+    "dishForm": "Bowl"
+  }
+}
