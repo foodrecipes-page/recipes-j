@@ -1,0 +1,119 @@
+{
+  "title": "Saudi Arabian Juicy Jumbo Lettuce Bowl",
+  "description": "A refreshing, fermented, and tender post-workout dish that combines the flavors of Saudi Arabia with the crunch of fresh lettuce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Red Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unsweetened"
+    },
+    {
+      "name": "Bhuna Spice Mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Himalayan Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Lettuce",
+      "amount": "4 large leaves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Pickle Slices",
+      "amount": "6-8",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, bhuna spice mix, Himalayan salt, and black pepper until smooth.",
+    "In a separate pan, heat olive oil over medium heat. Add graham rice and toast for 2-3 minutes, stirring frequently.",
+    "Add roasted chickpeas and lime juice to the pan and stir to combine.",
+    "Toss the lettuce with the rice and chickpea mixture, ensuring the greens are evenly coated.",
+    "Garnish with chopped fresh cilantro, fermented pickle slices, and serve immediately.",
+    "Chill the yogurt dressing in the refrigerator for at least 30 minutes before serving.",
+    "Prepare the roasted chickpeas by tossing 1/2 cup of chickpeas with olive oil, salt, and your choice of spices and roasting in a 400°F oven for 20-25 minutes, stirring occasionally.",
+    "Cook the graham rice according to package instructions. Chill in the refrigerator before using.",
+    "Prepare the bhuna spice mix according to the recipe or store-bought instructions.",
+    "Make the yogurt dressing by whisking together yogurt, lime juice, and a pinch of salt in a bowl until smooth.",
+    "Toss the lettuce in a bowl with a pinch of salt and your choice of spices to bring out the flavors.",
+    "Chop the fresh cilantro and set aside for garnish.",
+    "Cut the fermented pickle slices into wedges and set aside for garnish.",
+    "Slice the red cabbage and Turkish red pepper into thin strips and set aside for garnish.",
+    "Prepare the roasted chickpeas by rinsing 1 cup of chickpeas, patting dry with a paper towel, and tossing with olive oil, salt, and your choice of spices in a bowl until evenly coated.",
+    "Roast the chickpeas in a 400°F oven for 20-25 minutes, stirring occasionally, until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "juicy-jumbo-saudi-arabian-lettuce-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jumbo-saudi-arabian-lettuce-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:28:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "lettuce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lettuce",
+    "descriptor": "juicy jumbo",
+    "dishForm": "Bowl"
+  }
+}
