@@ -1,0 +1,107 @@
+{
+  "title": "Jucy British Courgettes Pilaf",
+  "description": "A light and flavorful pilaf dish from Britain, featuring katsuramuki-cut courgettes, perfect for springtime meals. This low-carb-friendly recipe is a crowd-pleaser that's sure to become a staple in your kitchen.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "courgettes",
+      "amount": "2 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chopped onion and cook until it begins to soften, about 3 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the katsuramuki-cut courgettes to the skillet and cook for about 5 minutes, until they start to soften.",
+    "Pour in the chicken broth and white wine, and stir to deglaze the skillet.",
+    "Add the flour to the skillet and stir to combine.",
+    "Return the skillet to high heat and bring the liquid to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, for about 10-12 minutes, until the courgettes are tender.",
+    "Stir in the grated cheddar cheese until it's fully melted and the pilaf is creamy.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf to a serving dish and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "low-carb",
+    "one-pan",
+    "pilaf",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "jucy-british-courgettes-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-british-courgettes-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "courgettes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "courgettes",
+    "descriptor": "jucy",
+    "dishForm": "Pilaf"
+  }
+}
