@@ -1,0 +1,112 @@
+{
+  "title": "Jucy Mediterranean Prawns Paella",
+  "description": "A rich and flavorful paella dish featuring tender prawns and a dairy-free friendly mother sauce base. Perfect for a romantic dinner.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron infused olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Uncooked Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Raw tiger prawns",
+      "amount": "12 prawns"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "2 medium",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the saffron infused olive oil in a large paella pan over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped bell pepper and cook for another 5 minutes, until tender.",
+    "Add the chopped tomato, garlic, smoked paprika, thyme, salt, and black pepper. Cook for 1-2 minutes, until the tomato starts to break down.",
+    "Add the uncooked Spanish rice and stir to coat the rice in the oil and mix with the tomato mixture. Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 4 cups of water to the pan and bring to a boil. Reduce the heat to low and simmer, covered, for 20-25 minutes, until the rice is cooked and the liquid has been absorbed.",
+    "Add the raw tiger prawns to the pan and cook, uncovered, for 2-3 minutes, until they are pink and cooked through.",
+    "Remove the pan from the heat and let it rest for 5 minutes, covered, before serving.",
+    "Serve the paella hot, garnished with lemon wedges.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-night",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "jucy-mediterranean-prawns-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-mediterranean-prawns-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Prawns",
+    "descriptor": "Jucy",
+    "dishForm": "Paella"
+  }
+}
