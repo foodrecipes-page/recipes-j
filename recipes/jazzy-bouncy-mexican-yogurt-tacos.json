@@ -1,0 +1,101 @@
+{
+  "title": "Jazzy Bouncy Mexican Yogurt Tacos",
+  "description": "A unique and delicious Mexican-inspired dish featuring full-fat yogurt for a rich and bouncy texture, suitable for Buddhist temple-friendly diets. This dish is perfect for adventurous eaters looking for a twist on traditional taco fare.",
+  "cuisine": "Mexican",
+  "diet": [
+    "buddhist-friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Full-fat plain yogurt",
+      "amount": "16 ounces"
+    },
+    {
+      "name": "Hominy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grilled corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced mango",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "-"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "-"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "-"
+    },
+    {
+      "name": "Salt",
+      "amount": "-"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine hominy, grilled corn kernels, diced mango, lime juice, honey, cumin, smoked paprika, salt, and crushed red pepper. Place the saucepan over medium heat and bring to a simmer.",
+    "Cook the mixture for 5 minutes, stirring occasionally, until the flavors have melded together and the mixture is heated through.",
+    "Meanwhile, warm the full-fat plain yogurt by placing the container in a bowl of hot water for 5 minutes.",
+    "Once the yogurt is warmed, stir in chopped cilantro and divide it among four serving bowls or tacos.",
+    "To assemble the tacos, place a spoonful of the warmed yogurt mixture into the center of each bowl, then top with a spoonful of the hominy-corn-mango mixture.",
+    "Serve the Jazzy Bouncy Mexican Yogurt Tacos immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "breakfast",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jazzy-bouncy-mexican-yogurt-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-bouncy-mexican-yogurt-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:28:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "yogurt",
+    "descriptor": "jazzy bouncy",
+    "dishForm": "tacos"
+  }
+}

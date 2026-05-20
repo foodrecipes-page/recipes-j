@@ -2852,6 +2852,21 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-bouncy-mexican-yogurt-tacos",
+    "title": "Jazzy Bouncy Mexican Yogurt Tacos",
+    "tags": [
+      "adventurous",
+      "breakfast",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-canadian-blackeye-pea-fritters",
     "title": "Jazzy Canadian Blackeye Pea Fritters",
     "tags": [
