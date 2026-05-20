@@ -1,0 +1,101 @@
+{
+  "title": "juicy unfried french tod fritters",
+  "description": "floral and juicy tod fritters infused with yuzu, perfect for adventurous french cuisine lovers. for a halal-friendly option, be sure to choose a halal certification for your ingredient suppliers.",
+  "cuisine": "french",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "use a high-protein flour for best results"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "use flaky sea salt for the best flavor"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "1/4 cup",
+      "notes": "or other neutral-tasting oil"
+    }
+  ],
+  "instructions": [
+    "in a blender or food processor, blend zucchini, yuzu juice, and ricotta cheese until smooth.",
+    "in a large bowl, whisk together flour, eggs, and a pinch of salt until just combined.",
+    "add the blended zucchini mixture to the flour mixture and stir until just combined.",
+    "cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the mixture to firm up.",
+    "heat 1/4 cup of grapeseed oil in a large non-stick skillet over medium heat.",
+    "using a 1/4 cup measuring cup, scoop the mixture into the hot oil and flatten slightly with a spatula.",
+    "cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "transfer the fritters to a paper towel-lined plate to drain excess oil.",
+    "garnish with chopped fresh mint leaves and serve immediately.",
+    "repeat with the remaining mixture, cooking in batches as needed.",
+    "serve the fritters hot, with your favorite dipping sauce on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "juicy-unfried-french-tod-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-unfried-french-tod-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "yuzu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tod",
+    "descriptor": "Juicy Unfried",
+    "dishForm": "Fritters"
+  }
+}
