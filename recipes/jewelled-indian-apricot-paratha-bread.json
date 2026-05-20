@@ -1,0 +1,107 @@
+{
+  "title": "Jewelled Indian Apricot Paratha Bread",
+  "description": "A floral, light, and festive Indian dish featuring apricot and a paratha bread form that is perfect for special occasions.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Pistachios or Almonds",
+      "amount": "a handful"
+    },
+    {
+      "name": "Dried Rose Petals",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, baking powder, cardamom powder, and salt.",
+    "In a separate bowl, whisk together the milk, yogurt, sugar, and ghee or oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a soft dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into 4-6 equal portions.",
+    "Roll out each portion into a thin circle.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Place a rolled-out dough circle in the skillet and cook for 1-2 minutes.",
+    "Flip the paratha and cook for another 1-2 minutes.",
+    "Assemble the Jewelled Indian Apricot Paratha Bread by placing a dollop of apricot on one half of the paratha, followed by a sprinkle of chopped nuts and dried rose petals.",
+    "Fold the other half of the paratha over the filling and press the edges together to seal.",
+    "Repeat with the remaining dough and filling ingredients.",
+    "Serve warm with a dollop of yogurt or a sprinkle of sugar, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "breakfast",
+    "festival",
+    "festive",
+    "north-indian",
+    "paratha",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jewelled-indian-apricot-paratha-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-indian-apricot-paratha-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "apricot",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "apricot",
+    "descriptor": "Jewelled",
+    "dishForm": "Paratha Bread"
+  }
+}
