@@ -2362,6 +2362,19 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-snappy-british-salmon-wrap",
+    "title": "jammy snappy british salmon wrap",
+    "tags": [
+      "breakfast-lunch",
+      "british",
+      "energizing",
+      "one-pan"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 23,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-solo-mediterranean-custard-pudding",
     "title": "Jammy Solo Mediterranean Custard Pudding",
     "tags": [
@@ -14749,6 +14762,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-russian-date-night-dish-bake",
+    "title": "Russian Date-Night Bake",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "dessert",
+      "high-carb",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {

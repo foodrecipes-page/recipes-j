@@ -1,0 +1,111 @@
+{
+  "title": "Russian Date-Night Bake",
+  "description": "A decadent, resinous, and juicy Russian-inspired bake that is perfect for date nights. Made with muscovado sugar, this dish is dairy-free-friendly.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Muscovado sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh rose petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the muscovado sugar, almond flour, and cocoa powder.",
+    "Add the coconut oil, eggs, vanilla extract, and salt to the bowl and mix until well combined.",
+    "Stir in the dark chocolate chips, pistachios, and honey.",
+    "Pour the mixture into a greased 9x9-inch baking dish and smooth the top.",
+    "Bake for 35 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove the dish from the oven and sprinkle with fresh rose petals.",
+    "Let the bake cool completely before serving.",
+    "Serve warm, garnished with additional rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "dessert",
+    "high-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 72,
+    "fat": 30
+  },
+  "slug": "juicy-russian-date-night-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-russian-date-night-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "date-night dish",
+    "descriptor": "juicy",
+    "dishForm": "bake"
+  }
+}

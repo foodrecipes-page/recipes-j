@@ -1,0 +1,106 @@
+{
+  "title": "jammy snappy british salmon wrap",
+  "description": "energizing salmon wrap with lacquer-glaze, dairy-free-friendly in a lotus-leaf wrap",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "120g"
+    },
+    {
+      "name": "lotus-leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lacquer-glaze",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "mix soy sauce, honey, brown rice vinegar, sesame oil, salt, and black pepper to create lacquer-glaze",
+    "grill salmon fillet at 400°f for 8 minutes",
+    "warm lotus-leaf wraps by wrapping in foil and heating in oven at 350°f for 5 minutes",
+    "spread lacquer-glaze on each wrap",
+    "slice grilled salmon into thin strips",
+    "add green onions, cucumber, pickled ginger to each wrap",
+    "top with salmon strips",
+    "wrap and serve"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-lunch",
+    "british",
+    "energizing",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "jammy-snappy-british-salmon-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-snappy-british-salmon-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "salmon",
+    "descriptor": "jammy snappy",
+    "dishForm": "wrap"
+  }
+}
