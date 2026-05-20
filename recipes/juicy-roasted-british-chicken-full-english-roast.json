@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Roasted British Chicken Full English Roast",
+  "description": "A comforting, low-carb-friendly British dish featuring a delicious sesame butter sauce, served in a traditional full English roast style.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British Chicken",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Rosemary Sprigs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Kazan Cauldron oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame Butter",
+      "amount": "4 tablespoons",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Season the chicken with salt, black pepper, and rosemary sprigs.",
+    "Mix the sesame seeds with the unsalted butter, garlic cloves, and thyme sprigs to make the sesame butter sauce.",
+    "Rub the chicken with the sesame butter sauce,"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "full-english-roast",
+    "low-carb",
+    "one-pan",
+    "sesame-butter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "juicy-roasted-british-chicken-full-english-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-roasted-british-chicken-full-english-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "sesame butter",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Roasted",
+    "dishForm": "Full English Roast"
+  }
+}
