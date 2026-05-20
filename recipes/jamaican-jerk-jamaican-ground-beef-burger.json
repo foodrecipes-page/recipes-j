@@ -1,0 +1,107 @@
+{
+  "title": "Jamaican Jerk Jamaican Ground Beef Burger",
+  "description": "This Jamaican-inspired burger features a flavorful ground beef patty seasoned with allspice, topped with a tangy slaw and served on a toasted iron teppan panini press.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "",
+      "notes": "80/20 lean to fat ratio recommended"
+    },
+    {
+      "name": "2 tsp Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "4 hamburger buns",
+      "amount": "4",
+      "notes": "preferably sesame seed buns"
+    },
+    {
+      "name": "4 lettuce leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "4 tomato slices",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1 cup shredded red cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegan mayo",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to 400°F (200°C).",
+    "Prepare the jerky seasoning mixture by combining 1 tablespoon of brown sugar, 1 teaspoon of ground allspice, and 1/4 teaspoon of cayenne pepper in a small bowl.",
+    "Add 2 teaspoons of the jerk seasoning mixture to the ground beef and mix until just combined. ",
+    "Form the beef mixture into 4 patties. ",
+    "Brush the iron teppan panini press with cooking spray and add patties. ",
+    "Broil for 5 minutes or until cooked through.",
+    "Meanwhile, toast the hamburger buns on the stovetop until lightly browned. ",
+    "Assemble the burgers by spreading a layer of vegan mayo on the bottom bun, followed by a beef patty, a lettuce leaf, a tomato slice, and finally the top bun.",
+    "Make the slaw by combining shredded red cabbage and vegan mayo in a small bowl and refrigerating until ready to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "meat-lovers",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "jamaican-jerk-jamaican-ground-beef-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jamaican-jerk-jamaican-ground-beef-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:49:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "ground allspice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "ground beef",
+    "descriptor": "Jamaican Jerk",
+    "dishForm": "Burger"
+  }
+}

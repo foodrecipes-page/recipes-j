@@ -1,0 +1,116 @@
+{
+  "title": "Juicy Greek Bananas Tart",
+  "description": "A pungent and energizing Greek dessert featuring bananas and a creamy mascarpone-custard filling. This tart is perfect for low-carb diets and is a delightful twist on traditional Greek desserts.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry dough and place it into a 9-inch tart pan with a removable bottom.",
+    "In a medium bowl, whisk together mascarpone cheese, eggs, honey, walnuts, lemon zest, vanilla extract, and salt until smooth.",
+    "Arrange the sliced bananas on top of the pastry dough, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pastry dough with the beaten egg and fold the edges to form a crust.",
+    "Pour the mascarpone mixture over the bananas and smooth the top.",
+    "Dot the top of the tart with the unsalted butter.",
+    "Bake for 40 minutes, or until the pastry crust is golden brown and the filling is set.",
+    "Let the tart cool completely on a wire rack before dusting with icing sugar.",
+    "Serve warm or at room temperature, sliced into wedges.",
+    "Keep any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bananas",
+    "dessert",
+    "greek",
+    "low-carb",
+    "mascarpone",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "jucy-greek-bananas-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-greek-bananas-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:49:08Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "bananas",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "bananas",
+    "descriptor": "jucy",
+    "dishForm": "Tart"
+  }
+}

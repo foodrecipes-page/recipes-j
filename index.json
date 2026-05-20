@@ -1613,6 +1613,21 @@
     "shard": "j"
   },
   {
+    "slug": "jamaican-jerk-jamaican-ground-beef-burger",
+    "title": "Jamaican Jerk Jamaican Ground Beef Burger",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "meat-lovers",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
     "slug": "jamilly-velvety-slovakian-beef-grill",
     "title": "jamilly-velvety slovakian beef grill",
     "tags": [
@@ -8997,6 +9012,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-greek-bananas-tart",
+    "title": "Juicy Greek Bananas Tart",
+    "tags": [
+      "bananas",
+      "dessert",
+      "greek",
+      "low-carb",
+      "mascarpone",
+      "tart"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
