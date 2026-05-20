@@ -1,0 +1,98 @@
+{
+  "title": "Saudi-Arabian Kippers Dum",
+  "description": "A floral, juicy, and show-off Saudi-Arabian dish featuring kippers, dum, paleo-friendly ingredients.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked kippers",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "paleo dum wrappers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper. ",
+    "Place the dum wrappers on the baking sheet. ",
+    "Place a smoked kipper in the center of each wrapper. ",
+    "Add a slice of ginger, a clove of garlic, and a sprinkle of chopped cilantro to the kipper. ",
+    "Drizzle with lemon juice and coconut oil. ",
+    "Fold the dum wrappers over the filling, pressing the edges to seal. ",
+    "Place the dum on a baking sheet lined with parchment paper. ",
+    "Bake in the preheated oven for 15 minutes, or until the dum are golden brown. ",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "If desired, sprinkle with crushed red pepper for added heat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "juicy-saudi-arabian-kippers-dum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-saudi-arabian-kippers-dum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "kippers",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "kippers",
+    "descriptor": "juicy",
+    "dishForm": "dum"
+  }
+}
