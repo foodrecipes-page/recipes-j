@@ -1,0 +1,111 @@
+{
+  "title": "Jerk Tender Jamaican Meat Tagine",
+  "description": "A flavorful and tender Jamaican dish with a perfect balance of spicy jerk flavors and aromatic spices. Serve over cauliflower rice for a keto-friendly option.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a cataplana over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute more.",
+    "Add the jerk seasoning and cook for 1 minute, stirring constantly.",
+    "Add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Add the allspice, thyme, cinnamon, salt, and black pepper. Stir to combine.",
+    "Add the bay leaves and 1 cup of chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the chicken is tender, about 20 minutes.",
+    "Serve the meat and sauce over cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "keto",
+    "one-pan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "jerk-tender-jamaican-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jerk-tender-jamaican-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:58:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "jerk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "meat",
+    "descriptor": "jerk tender",
+    "dishForm": "tagine"
+  }
+}

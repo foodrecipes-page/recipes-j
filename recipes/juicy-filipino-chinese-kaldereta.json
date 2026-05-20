@@ -1,0 +1,67 @@
+{
+  "title": "Juicy Filipino Chinese Kaldereta",
+  "description": "Rich and gooey Filipino dish featuring Chinese long beans, perfect for a date night. High in protein and flavor.",
+  "cuisine": "filipino",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch cubes"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium-high heat.",
+    "Sear the pork cubes until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pan and set aside.",
+    "Add the onion and garlic to the pan and sauté until softened, about 3 minutes.",
+    "Add the bamboo shoots and Chinese long beans to the pan and sauté for another 3 minutes.",
+    "Add the tomatoes, tomato paste, patis, soy sauce, and black pepper to the pan and stir to combine.",
+    "Add the cooked pork back into the pan and stir to coat with the sauce.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Season with salt and serve hot, garnished with patent blue peppercorns.",
+    "Serve with steamed rice or noodles if desired.",
+    "Note: You can also grill the pork and vegetables on a yakimono grill for added smoky flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese-fusion",
+    "date-night",
+    "filipino",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "juicy-filipino-chinese-kaldereta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-filipino-chinese-kaldereta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:59:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chinese long beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chinese",
+    "descriptor": "Juicy",
+    "dishForm": "Kaldereta"
+  }
+}

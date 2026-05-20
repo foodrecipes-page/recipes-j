@@ -5167,6 +5167,20 @@
     "shard": "j"
   },
   {
+    "slug": "jerk-tender-jamaican-meat-tagine",
+    "title": "Jerk Tender Jamaican Meat Tagine",
+    "tags": [
+      "high-protein",
+      "jamaican",
+      "keto",
+      "one-pan",
+      "tagine"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jerked-crisp-algerian-chicken-kebabs",
     "title": "Jerked Crisp Algerian Chicken Kebabs",
     "tags": [
@@ -11926,6 +11940,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-filipino-chinese-kaldereta",
+    "title": "Juicy Filipino Chinese Kaldereta",
+    "tags": [
+      "chinese-fusion",
+      "date-night",
+      "filipino",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
