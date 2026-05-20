@@ -1,0 +1,92 @@
+{
+  "title": "Jaggedly Crunchy Italian Walnuts Pasta",
+  "description": "A tangy, fluffy, one-pot Italian dish featuring walnuts and a hint of ferment-kimchi, perfect for a Mediterranean-inspired meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "walnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Cook pasta in boiling, salted water until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add ferment-kimchi and cook for an additional 2-3 minutes, stirring occasionally.",
+    "Add cooked pasta to the skillet, tossing to combine with the kimchi mixture.",
+    "Stir in chopped walnuts and lemon juice.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional walnuts and a sprinkle of parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jaggedly-crunchy-italian-walnuts-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jaggedly-crunchy-italian-walnuts-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "walnuts",
+    "diet": "mediterranean",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "walnuts",
+    "descriptor": "Jaggedly Crunchy",
+    "dishForm": "Pasta"
+  }
+}

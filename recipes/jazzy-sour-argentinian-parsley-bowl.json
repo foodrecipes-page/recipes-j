@@ -1,0 +1,99 @@
+{
+  "title": "Jazzy Sour Argentinian Parsley Bowl",
+  "description": "A vibrant hangover cure featuring tangy Argentinian ingredients and a crunchy parsley garnish. Perfect for a quick Buddha-friendly breakfast or snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb's liver",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Crispy chimichurri bits",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "30g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Argentinian hot sauce",
+      "amount": "2.5ml",
+      "notes": ""
+    },
+    {
+      "name": "Juice of one lime",
+      "amount": "15ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Minced red onion",
+      "amount": "2.5g",
+      "notes": "Raw"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25g",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "5g",
+      "notes": "Extra virgin"
+    }
+  ],
+  "instructions": [
+    "Combine lamb's liver and crispy chimichurri bits in a bowl.",
+    "Add chopped parsley, Argentinian hot sauce, lime juice, minced red onion, salt, and black pepper to the bowl and toss to combine.",
+    "Drizzle with olive oil and serve immediately.",
+    "Garnish with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "buddha-friendly",
+    "hangover-cure",
+    "liver",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 2,
+    "fat": 7
+  },
+  "slug": "jazzy-sour-argentinian-parsley-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-sour-argentinian-parsley-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "chopped parsley",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "parsley",
+    "descriptor": "Jazzy Sour",
+    "dishForm": "Bowl"
+  }
+}

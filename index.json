@@ -1338,6 +1338,21 @@
     "shard": "j"
   },
   {
+    "slug": "jaggedly-crunchy-italian-walnuts-pasta",
+    "title": "Jaggedly Crunchy Italian Walnuts Pasta",
+    "tags": [
+      "gluten-free",
+      "italian",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
     "slug": "jaggedly-roasted-portuguese-olives-roast",
     "title": "Jaggedly Roasted Portuguese Olives",
     "tags": [
@@ -4153,6 +4168,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 110,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-sour-argentinian-parsley-bowl",
+    "title": "Jazzy Sour Argentinian Parsley Bowl",
+    "tags": [
+      "argentinian",
+      "breakfast",
+      "buddha-friendly",
+      "hangover-cure",
+      "liver",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 5,
     "shard": "j"
   },
   {
