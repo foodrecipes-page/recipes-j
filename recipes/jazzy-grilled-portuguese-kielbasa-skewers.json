@@ -1,0 +1,97 @@
+{
+  "title": "Jazzy Grilled Portuguese Kielbasa Skewers",
+  "description": "Savory, slightly spicy skewers featuring Portuguese kielbasa, bell peppers, onions, and cilantro, all grilled to perfection.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "yellow bell peppers",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread kielbasa, bell peppers, onions, and cilantro onto skewers.",
+    "In a small bowl, whisk together lemon juice, garlic, salt, and black pepper.",
+    "Brush the mixture evenly onto both sides of the skewers.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning every 2 minutes.",
+    "Remove the skewers from the grill and let rest for 2 minutes.",
+    "Serve the skewers hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "one-pan",
+    "portuguese",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "jazzy-grilled-portuguese-kielbasa-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-grilled-portuguese-kielbasa-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:11:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "kielbasa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Jazzy Grilled",
+    "dishForm": "Skewers"
+  }
+}
