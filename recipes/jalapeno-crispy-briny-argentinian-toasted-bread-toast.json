@@ -1,0 +1,92 @@
+{
+  "title": "Jalapeño Crispy Briny Argentinian Toast",
+  "description": "A savory and crunchy toasted bread recipe with a hint of brininess from the capers, served with a side of creamy vanilla sauce.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toasted bread",
+      "amount": "1 loaf, cut into 12 slices"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons, rinsed and drained"
+    },
+    {
+      "name": "jalapeño pepper",
+      "amount": "1, seeded and finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup, plain, non-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat a copper pot or skillet over medium heat.",
+    "Add 1 tablespoon of olive oil to the pot and swirl it around to coat the bottom.",
+    "Add the chopped jalapeño and cook for 1 minute, until softened.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the toasted bread slices to the pot and cook for 2-3 minutes on each side, until crispy.",
+    "Remove the bread from the pot and sprinkle with capers, salt, and black pepper.",
+    "Serve the toasted bread with a dollop of yogurt and a drizzle of vanilla extract.",
+    "Refrigerate the remaining yogurt and vanilla extract mixture in an airtight container for up to 3 days.",
+    "Reheat the toasted bread and yogurt sauce in the copper pot for 30 seconds, until warmed through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "briny",
+    "crispy",
+    "low-calorie",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "jalapeno-crispy-briny-argentinian-toasted-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jalapeno-crispy-briny-argentinian-toasted-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:13:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "vanilla",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "toasted bread",
+    "descriptor": "Jalapeño Crispy Briny",
+    "dishForm": "Toast"
+  }
+}

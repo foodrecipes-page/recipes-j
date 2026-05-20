@@ -1,0 +1,156 @@
+{
+  "title": "Jade-Juicy Thai Oxtail Kanom Ko",
+  "description": "A buttery, molten Thai dish featuring oxtail and pound it in a mortar-pestle, inspired from Buddhist temple recipes to enjoy as a comforting dinner. Its rich flavors will make you feel like you're on a sick day, but still wanting more.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": 2,
+      "notes": "use fish sauce with a good umami taste"
+    },
+    {
+      "name": "sugar",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": 6,
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "galangal",
+      "amount": 2,
+      "notes": "about 2 inches in length, crushed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "toasted rice",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": 4,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pound oxtail with a mortar-pestle until it is tender and easy to shred.",
+    "Heat oil in a pan over medium heat. Add the sliced shallots and cook until browned, about 2 minutes.",
+    "Add the crushed galangal, kaffir lime leaves, chili peppers, and toasted rice to the pan and cook for 1 minute, or until fragrant.",
+    "Add the water to the pan and bring to a boil.",
+    "Add the oxtail to the pan and cook until it is tender, about 20 minutes.",
+    "Add the coconut milk, fish sauce, sugar, palm sugar, black pepper, and salt to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the shredded oxtail back to the pan and stir to combine.",
+    "Transfer the oxtail mixture to a serving dish and garnish with chopped cilantro, a sprinkle of toasted rice, and a squeeze of lime juice.",
+    "Serve the Jade-Juicy Thai Oxtail Kanom Ko hot, garnished with a lime wedge.",
+    "This dish is best served with steamed jasmine rice or roti, and a side of spicy chili sauce.",
+    "To make this dish more authentic, use a traditional mortar-pestle to pound the oxtail, and adjust the seasoning to taste.",
+    "This dish is a variation of a classic Thai recipe and can be adjusted to suit your taste preferences.",
+    "Feel free to customize the amount of chili peppers and galangal to your desired level of spiciness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "sick-day-food",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "jade-juicy-thai-oxtail-kanom-ko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jade-juicy-thai-oxtail-kanom-ko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:13:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "oxtail",
+    "diet": "buddhist-temple",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Jade-Juicy",
+    "dishForm": "Kanom Ko"
+  }
+}

@@ -60,6 +60,20 @@
     "shard": "j"
   },
   {
+    "slug": "jade-juicy-thai-oxtail-kanom-ko",
+    "title": "Jade-Juicy Thai Oxtail Kanom Ko",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "sick-day-food",
+      "spicy",
+      "thai-cuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "jade-leaf-wrapped-turkish-butternut-squash-kofte",
     "title": "Jade-Leaf Wrapped Turkish Butternut Squash Kofte",
     "tags": [
@@ -1539,6 +1553,20 @@
     ],
     "cuisine": "algerian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jalapeno-crispy-briny-argentinian-toasted-bread-toast",
+    "title": "Jalapeño Crispy Briny Argentinian Toast",
+    "tags": [
+      "argentinian",
+      "briny",
+      "crispy",
+      "low-calorie",
+      "meal-prep"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -9177,6 +9205,20 @@
       "twist-on-classic"
     ],
     "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-australian-fry-burger",
+    "title": "juicy aussie fry burger",
+    "tags": [
+      "australian",
+      "easy",
+      "one-pan",
+      "snacky",
+      "weeknight"
+    ],
+    "cuisine": "australian",
     "totalTimeMin": 45,
     "shard": "j"
   },
