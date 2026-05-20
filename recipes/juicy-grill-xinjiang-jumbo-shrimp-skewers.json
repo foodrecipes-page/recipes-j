@@ -1,0 +1,130 @@
+{
+  "title": "Juicy Grill Xinjiang Jumbo Shrimp Skewers",
+  "description": "A lacto-vegetarian friendly, Xinjiang-inspired dish from China, featuring jumbo shrimp on a robata grill. This recipe is a hangover cure due to its rich and savory flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Xinjiang Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Available at Asian grocery stores or online."
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium option recommended."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1\" piece",
+      "notes": "Grated, for marinade."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Green Chili",
+      "amount": "2-3",
+      "notes": "Diced, for marinade."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine Xinjiang Spice Blend, brown sugar, soy sauce, rice vinegar, grated ginger, and diced green chili. Blend until smooth.",
+    "Pour the marinade into a large bowl and add the jumbo shrimp. Toss to coat and refrigerate for at least 2 hours or overnight.",
+    "Preheat the robata grill to high heat. Remove the shrimp from the marinade, letting any excess liquid drip off.",
+    "Thread 3-4 shrimp onto each skewer, leaving a little space between each piece. Brush the olive oil onto the shrimp.",
+    "Season the shrimp with salt and black pepper. Place the skewers onto the robata grill and cook for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Transfer the skewers to a plate and garnish with chopped scallions, cilantro, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!",
+    "For an added kick, serve with steamed rice or noodles.",
+    "For a spicy kick, serve with a side of diced jalapenos or sriracha sauce.",
+    "For a tangy kick, serve with a side of pickled ginger or kimchi.",
+    "For a sweet kick, serve with a side of honey or maple syrup.",
+    "For a smoky kick, serve with a side of smoked salmon or grilled pineapple.",
+    "For a savory kick, serve with a side of roasted vegetables or grilled tofu."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "hangover-cure",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "seafood",
+    "weeknight",
+    "xianjiang"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 80,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-grill-xinjiang-jumbo-shrimp-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-grill-xinjiang-jumbo-shrimp-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:13:44Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "lacto-vegetarian",
+    "region": "xinjiang",
+    "cuisineAdjective": "Xinjiang",
+    "mainIngredient": "jumbo shrimp",
+    "descriptor": "Juicy Grill",
+    "dishForm": "Skewers"
+  }
+}
