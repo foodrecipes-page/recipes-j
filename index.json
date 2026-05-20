@@ -16211,6 +16211,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-uruguayan-seafood-grill",
+    "title": "Juicy Uruguayan Seafood Grill",
+    "tags": [
+      "dinner",
+      "grill",
+      "low-glycemic",
+      "seafood",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 23,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-uruguayan-yellow-split-peas-pilaf",
     "title": "Uruguayan Yellow Split Peas Pilaf",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Uruguayan Seafood Grill",
+  "description": "A show-off Uruguayan dish featuring sea salt and a deglaze-fond, perfect for a low-glycemic-friendly dinner.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gulf Shrimp",
+      "amount": "1 pound",
+      "notes": "16 large shrimp, peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound",
+      "notes": "20 mussels, scrubbed and debearded"
+    },
+    {
+      "name": "Scallops",
+      "amount": "1/2 pound",
+      "notes": "12 large scallops, patted dry"
+    },
+    {
+      "name": "Argentinean Sea Salt",
+      "amount": "",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fond de Cuisine",
+      "amount": "2 tablespoons",
+      "notes": "or deglaze with cooking wine"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the shrimp, mussels, and scallops with Argentinean sea salt and a pinch of black pepper.",
+    "Drizzle the olive oil over the seafood and toss to coat.",
+    "Add the garlic and parsley to the seafood and toss to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "grill",
+    "low-glycemic",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "juicy-uruguayan-seafood-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-uruguayan-seafood-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:05:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "sea salt",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Seafood",
+    "descriptor": "Juicy",
+    "dishForm": "Grill"
+  }
+}
