@@ -1,0 +1,113 @@
+{
+  "title": "Juicy Jicama Mexican Chicken Enchiladas",
+  "description": "Grassy, snappy, and energizing Yucatecan-style enchiladas made with juicy chicken drumsticks, crunchy jicama slaw, and a hint of citrus. This paleo-friendly recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 bone-in, skin-on chicken drumsticks",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 medium jicamas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup freshly squeezed lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 corn tortillas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh scallions",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the lime juice, cumin, smoked paprika, salt, and black pepper. Add the chicken drumsticks and toss to coat.",
+    "Let the chicken marinate for 15 minutes. ",
+    "Heat the olive oil in a large skillet over medium-high heat. Remove the chicken from the marinade and cook until browned on both sides and cooked through, about 10-12 minutes.",
+    "Meanwhile, peel and grate the jicamas and transfer to a bowl. Squeeze the lime juice over the jicama and toss to coat.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the shredded chicken in the center. Roll the tortilla and place seam-side down in the tagine pot. Repeat with the remaining tortillas and chicken.",
+    "Pour the jicama slaw over the top of the enchiladas and sprinkle with chopped cilantro and scallions.",
+    "Cover the tagine pot with a lid and bake for 15 minutes, or until the tortillas are crispy and the filling is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "juicy-jicama-mexican-chicken-enchiladas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-jicama-mexican-chicken-enchiladas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "paleo",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Juicy Jicama",
+    "dishForm": "Enchiladas"
+  }
+}

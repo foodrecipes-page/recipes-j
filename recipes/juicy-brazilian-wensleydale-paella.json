@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Brazilian Wensleydale Paella",
+  "description": "A fusion of traditional Brazilian ingredients and British wensleydale cheese, featuring lamination-puff pastry. Perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, mild flavor"
+    },
+    {
+      "name": "Lamination-puff pastry",
+      "amount": "1 sheet",
+      "notes": "pre-made, thawed"
+    },
+    {
+      "name": "Brazilian sausage",
+      "amount": "1 cup",
+      "notes": "cooked, crumbled"
+    },
+    {
+      "name": "Squash",
+      "amount": "2",
+      "notes": "medium, peeled, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400F (200C).",
+    "Cook the sausage in a large skillet over medium-high heat, breaking up with a spoon as it cooks, until browned and cooked through.",
+    "Add the sliced squash to the skillet and cook for 2-3 minutes, until tender.",
+    "Add the chopped onion and minced garlic to the skillet and cook for 1-2 minutes, until fragrant."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "one-pan",
+    "paella",
+    "soy-free",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "juicy-brazilian-wensleydale-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-brazilian-wensleydale-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "wensleydale",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "wensleydale",
+    "descriptor": "juicy",
+    "dishForm": "paella"
+  }
+}

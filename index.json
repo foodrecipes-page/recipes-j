@@ -10053,6 +10053,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-brazilian-wensleydale-paella",
+    "title": "Juicy Brazilian Wensleydale Paella",
+    "tags": [
+      "brazilian",
+      "one-pan",
+      "paella",
+      "soy-free",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-briny-egyptian-lamb-kebabs",
     "title": "Juicy Briny Egyptian Lamb Kebabs",
     "tags": [
@@ -13315,6 +13330,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-jicama-mexican-chicken-enchiladas",
+    "title": "Juicy Jicama Mexican Chicken Enchiladas",
+    "tags": [
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
