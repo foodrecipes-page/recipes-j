@@ -1,0 +1,95 @@
+{
+  "title": "Korean Semolina Hwajeon",
+  "description": "A traditional Gyeongsang Korean dish with a delicate citrusy and crispy texture, featuring semolina as the main ingredient.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated orange peel",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated lemon peel",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix flour and semolina in a large bowl.",
+    "Add grated orange and lemon peels, and mix well.",
+    "Gradually add water, mixing until a smooth dough forms.",
+    "Knead the dough for about 10 minutes until it becomes elastic and smooth.",
+    "Divide the dough into small pieces, about the size of a small egg.",
+    "Heat vegetable oil in a non-stick skillet over medium heat.",
+    "Roll out each piece of dough into a thin circle, and fry until golden brown.",
+    "Drain excess oil on paper towels, and sprinkle with sesame seeds.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "juicy-crispy-korean-semolina-hwajeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-crispy-korean-semolina-hwajeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "semolina",
+    "diet": "mediterranean",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "semolina",
+    "descriptor": "juicy crispy",
+    "dishForm": "Hwajeon"
+  }
+}
