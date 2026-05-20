@@ -1,0 +1,97 @@
+{
+  "title": "juicy light Brazilian starch bowl",
+  "description": "a nutty and juicy light Brazilian dish featuring starch, namul-blanch-season, and a delicate diabetic-friendly approach, served in a terracotta dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassava flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled shrimp",
+      "amount": "4 shrimp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a terracotta dish over medium heat.",
+    "Add namul blanch seasoning and cook for 1 minute.",
+    "Add cassava flour and water, whisking until smooth.",
+    "Bring to a boil, then reduce heat to low and simmer.",
+    "Add soy sauce, grated ginger, and lime juice.",
+    "Stir to combine, then add chopped cilantro.",
+    "Serve with grilled shrimp on top.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "diabetic-friendly",
+    "grilled-shrimp",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "juicy-light-brazilian-starch-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-light-brazilian-starch-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "starch",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "starch",
+    "descriptor": "juicy light",
+    "dishForm": "Bowl"
+  }
+}
