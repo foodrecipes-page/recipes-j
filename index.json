@@ -11927,6 +11927,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-flavorful-mediterranean-beef-stew",
+    "title": "Juicy Flavorful Mediterranean Beef Stew",
+    "tags": [
+      "anti-inflammatory",
+      "beef",
+      "comfort-food",
+      "easy-weeknight",
+      "mediterranean",
+      "tomatoes"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-floral-dutch-vegetable-gratin",
     "title": "Juicy Floral Dutch Vegetable Gratin",
     "tags": [
@@ -14431,6 +14446,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-purple-sprouting-vietnamese-broccoli-banh-xeo",
+    "title": "Juicy Purple-Sprouting Vietnamese Broccoli Banh Xeo",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {

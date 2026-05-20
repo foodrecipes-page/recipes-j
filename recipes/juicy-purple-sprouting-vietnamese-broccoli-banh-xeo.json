@@ -1,0 +1,112 @@
+{
+  "title": "Juicy Purple-Sprouting Vietnamese Broccoli Banh Xeo",
+  "description": "A light and refreshing Vietnamese crepe filled with purple-sprouting broccoli, perfect for a weeknight dinner or lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Purple-Sprouting Broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Mix together coconut milk, salt, sugar, and vegetable oil in a large bowl.",
+    "In a separate bowl, whisk together rice flour and water until smooth.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a mini cast-iron skillet or individual cocotte over medium heat.",
+    "Pour 2 tbsp of the batter into the skillet and tilt to evenly coat the bottom.",
+    "Place a few pieces of purple-sprouting broccoli and chopped cilantro on one half of the crepe.",
+    "Add 1-2 pieces of tofu on top of the broccoli.",
+    "Fold the crepe in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Loosen with a spatula and flip the crepe.",
+    "Cook for an additional 1-2 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining batter and filling ingredients.",
+    "Serve hot with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "juicy-purple-sprouting-vietnamese-broccoli-banh-xeo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-purple-sprouting-vietnamese-broccoli-banh-xeo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:15:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "broccoli",
+    "descriptor": "Juicy Purple-Sprouting",
+    "dishForm": "Banh Xeo"
+  }
+}
