@@ -1,0 +1,96 @@
+{
+  "title": "Juicy Warm Ethiopian Citrus Bowl",
+  "description": "A refreshing, citrusy, and crumbly Ethiopian dish featuring warm water, marinated with exotic spices. Serve immediately in an earthenware bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "1 cup",
+      "notes": "100% juice, no added sugars"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed, high-quality"
+    },
+    {
+      "name": "Finely chopped fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "about 1-inch piece of ginger, peeled and finely chopped"
+    },
+    {
+      "name": "Grated fresh turmeric",
+      "amount": "1 teaspoon",
+      "notes": "about 1-inch piece of turmeric, peeled and grated"
+    },
+    {
+      "name": "Marjoram",
+      "amount": "1 teaspoon",
+      "notes": "dried, crushed marjoram leaves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "unrefined sea salt, preferably"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground, preferably"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the orange juice, olive oil, ginger, turmeric, marjoram, salt, and black pepper until well combined.",
+    "Add the cooked quinoa to the bowl and stir until the quinoa is evenly coated with the marinade.",
+    "Transfer the quinoa mixture to a preheated earthenware bowl and serve immediately.",
+    "Garnish with additional fresh herbs, if desired, for a pop of color and extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "juicy-warm-ethiopian-citrus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-warm-ethiopian-citrus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:09:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "warm water",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "citrus",
+    "descriptor": "juicy, warm",
+    "dishForm": "Bowl"
+  }
+}
