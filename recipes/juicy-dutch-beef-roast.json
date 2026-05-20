@@ -1,0 +1,109 @@
+{
+  "title": "Juicy Dutch Beef Roast",
+  "description": "A savory Dutch dish featuring a tender roast beef with a crunchy pecan crust. Low in sodium and rich in flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2.5 pounds beef roast (chuck or round)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup brown mustard",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried rosemary",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon garlic powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chopped pecans",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt-free seasoning blend",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the beef roast with salt-free seasoning blend, rosemary, and garlic powder.",
+    "In a small bowl, mix together brown mustard, honey, and apple cider vinegar.",
+    "Rub the mustard mixture all over the beef roast, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and roast the beef for 2 hours, or until it reaches your desired level of doneness.",
+    "While the beef is roasting, mix together the chopped pecans and a pinch of salt-free seasoning blend.",
+    "After the beef has roasted for 2 hours, remove it from the oven and brush the pecan mixture all over the top.",
+    "Return the Dutch oven to the oven and continue roasting for an additional 10-15 minutes, or until the pecans are golden brown.",
+    "Remove the beef from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dutch",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "juicy-dutch-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-dutch-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T20:01:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "pecan nuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Beef",
+    "descriptor": "Juicy",
+    "dishForm": "Roast"
+  }
+}
