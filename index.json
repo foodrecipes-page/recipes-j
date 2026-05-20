@@ -10131,6 +10131,20 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-canadian-minari-grill",
+    "title": "Juicy Canadian Minari Grill",
+    "tags": [
+      "canadian",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 26,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-canadian-squid-sous-vide",
     "title": "Floral Juicy Canadian Squid Sous-vide",
     "tags": [

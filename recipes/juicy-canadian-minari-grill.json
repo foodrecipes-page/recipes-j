@@ -1,0 +1,128 @@
+{
+  "title": "Juicy Canadian Minari Grill",
+  "description": "A resinous, juicy post-workout dish featuring minari, robata-grilled to perfection in a gluten-free-friendly recipe.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "minari leaves",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "canadian bison burger patties",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "robata-grill sauce",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "green onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated daikon radish",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 450F (232C).",
+    "Season the bison burger patties with salt and pepper.",
+    "Grill the bison burger patties for 4 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, prepare the minari leaves by rinsing and patting dry with paper towels.",
+    "Brush the robata grill sauce on the minari leaves and grill for 2 minutes, or until slightly charred.",
+    "To assemble the dish, place a cooked bison burger patty on a plate, top with grilled minari leaves, and garnish with green onion, toasted sesame seeds, and grated daikon radish.",
+    "Drizzle the coconut milk sauce over the top and serve immediately.",
+    "Cook's note: For an extra crispy texture, sprinkle toasted sesame seeds on top of the dish before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 65,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-canadian-minari-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-minari-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:38:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "robata-grill",
+    "primaryIngredient": "minari",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "minari",
+    "descriptor": "juicy",
+    "dishForm": "grill"
+  }
+}
