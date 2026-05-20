@@ -1,0 +1,103 @@
+{
+  "title": "Juicy Pungent Venezuelan Egg White Casserole",
+  "description": "A flavorful and nutritious Venezuelan-inspired casserole perfect for meal prep, featuring egg whites, a soffritto base, and a variety of spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egg whites",
+      "amount": "6",
+      "notes": "Large eggs, separated"
+    },
+    {
+      "name": "Soffritto",
+      "amount": "1 cup",
+      "notes": "Chopped onion, garlic, and bell pepper"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Grated queso fresco",
+      "amount": "1/2 cup",
+      "notes": "Venezuelan cheese or feta"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "Table salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\b25F (190\b25C).",
+    "Grease a 9x13-inch baking dish with olive oil.",
+    "In a large skillet, cook the soffritto over medium heat until softened.",
+    "Add the cumin, chili powder, salt, and black pepper to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk together the egg whites and a pinch of salt.",
+    "Add the cooked soffritto mixture, chopped cilantro, and grated queso fresco to the bowl and stir to combine.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 25-30 minutes or until the casserole is set and lightly browned.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easily-scalable",
+    "high-protein",
+    "meatless",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 28,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "juicy-pungent-venezuelan-egg-white-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-pungent-venezuelan-egg-white-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:43:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "egg white",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "egg white",
+    "descriptor": "juicy pungent",
+    "dishForm": "Casserole"
+  }
+}
