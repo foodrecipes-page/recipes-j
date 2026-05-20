@@ -1,0 +1,98 @@
+{
+  "title": "Juicy Greek Shrimp Bake",
+  "description": "A delicious, paleo-friendly Greek dish featuring succulent shrimp and a crispy, wood-fired crust. This kid-friendly recipe is perfect for a night in or a special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "16-20 count, peeled and deveined"
+    },
+    {
+      "name": "Kapi (Greek Shrimp Paste)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, paleo-friendly option is recommended"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing shrimp and baking dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning shrimp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning shrimp"
+    },
+    {
+      "name": "Greek Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the shrimp under cold water and pat dry with a paper towel.",
+    "In a large bowl, mix together the kapi, feta cheese, parsley, olive oil, salt, black pepper, and Greek seasoning.",
+    "Add the shrimp to the bowl and toss to coat with the kapi mixture.",
+    "Line a baking dish with parchment paper and arrange the shrimp in a single layer.",
+    "Brush the top of the shrimp with the remaining olive oil and season with salt and black pepper.",
+    "Bake the shrimp in the preheated oven for 8-10 minutes, or until pink and cooked through.",
+    "Garnish with additional parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "juicy-greek-shrimp-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-greek-shrimp-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:16:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "juicy",
+    "dishForm": "bake"
+  }
+}
