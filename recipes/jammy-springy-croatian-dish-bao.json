@@ -1,0 +1,116 @@
+{
+  "title": "Croatian Bao with Red Chilli Jam",
+  "description": "A sweet and spicy breakfast dish featuring sashimi-cut vegetables, wrapped in banana leaves. Perfect for a spring morning.",
+  "cuisine": "Croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Chilli",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Banana Leaf",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chilli Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, and salt in a bowl to make the dough.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Heat a non-stick skillet over medium heat.",
+    "Place a banana leaf on a flat surface and place a dough circle in the center.",
+    "Add a spoonful of chilli jam in the center of the dough.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Cook the baos for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with chopped cilantro and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "one-pan",
+    "ovo-vegetarian",
+    "spring",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "jammy-springy-croatian-dish-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-springy-croatian-dish-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "red chilli powder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dish",
+    "descriptor": "jammy springy",
+    "dishForm": "Bao"
+  }
+}
