@@ -1,0 +1,110 @@
+{
+  "title": "Jammy Creamy Russian Christmas Pudding Pudding",
+  "description": "A delicious and creamy meal-prep dish featuring Christmas pudding, perfect for a low-calorie-friendly Russian Christmas dinner. Serve in individual serving bowls or a large tagliere.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "150g",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": " Raspberry jam",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "25g",
+      "notes": "you can reduce this to 10g if you prefer less sweet"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large egg, lightly beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": null
+    },
+    {
+      "name": "Vitamin C",
+      "amount": "50mg",
+      "notes": "optional, but recommended for a healthier dish"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "2g",
+      "notes": "a few drops, not too much"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine Christmas pudding, Greek yogurt, raspberry jam, granulated sugar, all-purpose flour, egg, milk, vitamin C, and vanilla extract. Mix until smooth and creamy.",
+    "Taste the mixture and adjust the sweetness and flavor as needed.",
+    "Pour the mixture into individual serving bowls or a large tagliere, depending on your preference.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld together.",
+    "Before serving, sprinkle with a pinch of salt to bring out the flavors.",
+    "Serve chilled, garnished with fresh berries or a drizzle of honey, if desired,",
+    "Serve as a dessert or a snack, depending on your preference.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Before reheating, make sure to refrigerate the pudding at room temperature for 30 minutes.",
+    "Reheat the pudding in the microwave or oven until warmed through, checking every 30 seconds to avoid overcooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "dessert",
+    "low-calorie",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "jammy-creamy-russian-christmas-pudding-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-creamy-russian-christmas-pudding-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:17:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "reduce",
+    "primaryIngredient": "christmas pudding",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Jammy Creamy",
+    "dishForm": "Pudding"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "title": "german paneer braunfleisch",
+  "description": "a hearty, earthy dish that combines paneer cheese with caramelized onions and pickled red cabbage. this german-inspired meal is perfect for a cozy evening in with family or friends.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer cheese",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "pickled red cabbage",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat butter in a large skillet over medium heat.",
+    "add sliced onions and cook, stirring occasionally, until they're dark golden brown and caramelized, about 20 minutes.",
+    "add minced garlic and cook for 1 minute, stirring constantly.",
+    "add caraway seeds and cook for 1 minute, stirring constantly.",
+    "add flour and cook for 1 minute, stirring constantly.",
+    "slowly add beef broth and white wine, whisking constantly, and bring to a simmer.",
+    "add paneer cheese and cook until it's melted and the mixture is smooth.",
+    "season with salt and black pepper to taste.",
+    "serve hot, garnished with chopped fresh parsley and pickled red cabbage.",
+    "use a high-quality beef broth for the best flavor.",
+    "don't overcook the onions, or they'll become bitter.",
+    "add a sprinkle of parsley on top of each serving for a pop of color and freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "german",
+    "hearty",
+    "ocean-friendly",
+    "one-pan",
+    "pickled",
+    "umami",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "juicy-earthy-german-paneer-braunfleisch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-earthy-german-paneer-braunfleisch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:16:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "paneer",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "paneer",
+    "descriptor": "juicy earthy",
+    "dishForm": "Braunfleisch"
+  }
+}

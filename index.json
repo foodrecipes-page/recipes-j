@@ -1701,6 +1701,20 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-creamy-russian-christmas-pudding-pudding",
+    "title": "Jammy Creamy Russian Christmas Pudding Pudding",
+    "tags": [
+      "christmas",
+      "dessert",
+      "low-calorie",
+      "russian",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-crisp-australian-myeolchi-anchovies-en-croute",
     "title": "Jammy Crisp Australian Myeolchi-Anchovies En-Croute",
     "tags": [
@@ -10797,6 +10811,24 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 23,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-earthy-german-paneer-braunfleisch",
+    "title": "german paneer braunfleisch",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "german",
+      "hearty",
+      "ocean-friendly",
+      "one-pan",
+      "pickled",
+      "umami",
+      "weeknight-meal"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
