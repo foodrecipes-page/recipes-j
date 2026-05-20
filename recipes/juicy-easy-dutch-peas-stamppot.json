@@ -1,0 +1,106 @@
+{
+  "title": "Juicy Easy Dutch Peas Stamppot",
+  "description": "Sweet and juicy one-pot Dutch dish featuring jalapeno, perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the Russet potatoes, smoked bacon, butter, and onion in a pressure cooker.",
+    "Cook on high pressure for 5 minutes.",
+    "Add the jalapeno peppers, garlic, and green peas to the pressure cooker.",
+    "Close the lid and cook for an additional 2 minutes.",
+    "Use a pressure cooker to quickly cook the stamppot, which will help retain the nutrients and flavor of the ingredients.",
+    "Once the cooking time is up, quick-release the pressure and let the stamppot rest for a few minutes.",
+    "Serve the stamppot hot, garnished with additional jalapeno peppers if desired.",
+    "This dish is a variation of a traditional Dutch recipe, adapted to include a spicy kick from the jalapeno peppers.",
+    "Adjust the amount of jalapeno peppers to your desired level of spiciness.",
+    "This recipe is suitable for a weeknight dinner, as it is quick and easy to prepare.",
+    "The combination of smoked bacon and green peas provides a sweet and savory flavor profile.",
+    "The Russet potatoes add a comforting and filling texture to the dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "easy-meal",
+    "high-protein",
+    "one-pan",
+    "pressure-cooker",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "juicy-easy-dutch-peas-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-easy-dutch-peas-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:33:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jalapeno",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peas",
+    "descriptor": "Juicy Easy",
+    "dishForm": "Stamppot"
+  }
+}
