@@ -2150,6 +2150,22 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-gooey-australian-barbeque-pie",
+    "title": "Australian Barbeque Pie",
+    "tags": [
+      "australian",
+      "barbeque",
+      "comfort-food",
+      "easy-dinner",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-gooey-comforting-ethiopian-stew-ye-beg-alicha",
     "title": "Ye-Beg Alicha",
     "tags": [
