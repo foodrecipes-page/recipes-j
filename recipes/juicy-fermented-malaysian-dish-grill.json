@@ -1,0 +1,96 @@
+{
+  "title": "Malaysian Fermented Grill",
+  "description": "A tender and flavorful Malaysian dish featuring fermented flavors and herbes-de-provence, perfect for a hangover cure.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fermented shrimp paste",
+      "amount": "2 tbsp",
+      "notes": "such as belacan"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "1 tsp",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a tava-griddle or non-stick skillet over medium heat.",
+    "Add 1 tablespoon of coconut oil and swirl to coat the pan.",
+    "Add the minced galangal and saut\u00141e for 1-2 minutes until fragrant.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "grilled",
+    "hangover-cure",
+    "healthy",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "juicy-fermented-malaysian-dish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-fermented-malaysian-dish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dish",
+    "descriptor": "juicy fermented",
+    "dishForm": "Grill"
+  }
+}
