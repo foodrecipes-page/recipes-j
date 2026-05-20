@@ -1,0 +1,69 @@
+{
+  "title": "Jiggly Korean Tinned Tomatoes Stew",
+  "description": "A unique and adventurous stew originating from the Gyeongsang region of Korea. This bouncy-qq dish features tinned tomatoes and a Bain-marie cooking method, making it macrobiotic-friendly.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tinned Tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Bulgogi Beef",
+      "amount": "1 pound",
+      "notes": " thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Combine the tinned tomatoes, bulgogi beef, 2 cloves of garlic, and 1 tablespoon of Gochujang in a large bowl.",
+    "Place the bowl over a Bain-marie and let it cook for 10 minutes.",
+    "Stir the mixture occasionally to prevent scorching.",
+    "Add 1 cup of Korean chili flakes and 1 cup of chopped green onions to the mixture and stir well.",
+    "Season the stew with salt and black pepper to taste.",
+    "Transfer the stew to a serving dish and garnish with additional green onions if desired.",
+    "Serve the Jiggly Korean Tinned Tomatoes Stew hot over a bed of rice.",
+    "Alternatively, serve the stew with a side of kimchi for added flavor and nutrition.",
+    "For an extra kick, add a diced jalapeno pepper to the stew during the last minute of cooking.",
+    "Garnish with toasted sesame seeds and chopped scallions for added texture and flavor.",
+    "Serve the stew immediately and enjoy!",
+    "Consider serving the stew with a side of steamed vegetables or a simple green salad for added nutrition and variety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "korean-cuisine",
+    "macrobiotic-friendly",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 26
+  },
+  "slug": "jiggly-korean-tinned-tomatoes-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jiggly-korean-tinned-tomatoes-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "bain-marie",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "macrobiotic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tinned Tomatoes",
+    "descriptor": "Jiggly",
+    "dishForm": "Stew"
+  }
+}
