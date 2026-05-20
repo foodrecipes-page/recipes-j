@@ -1,0 +1,89 @@
+{
+  "title": "Juicy Quick Norwegian Padron Peppers Grill",
+  "description": "A citrusy and juicy pescatarian-friendly Norwegian dish featuring Padron peppers, perfect for a quick weeknight dinner. Grill the peppers to bring out their natural sweetness, and serve with a squeeze of fresh lemon juice.",
+  "cuisine": "norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Brush the Padron peppers with olive oil and season with salt, pepper, and minced garlic.",
+    "Grill the peppers for 2-3 minutes per side, or until they develop a nice char.",
+    "Remove the peppers from the grill and squeeze with fresh lemon juice.",
+    "Sprinkle with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "norwegian",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "juicy-quick-norwegian-padron-peppers-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-quick-norwegian-padron-peppers-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "padron peppers",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Juicy Quick",
+    "dishForm": "Grill"
+  }
+}
