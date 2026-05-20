@@ -2972,6 +2972,22 @@
     "shard": "j"
   },
   {
+    "slug": "jazzy-american-lard-hash",
+    "title": "Jazzy American Lard Hash",
+    "tags": [
+      "bell-peppers",
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "onion",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
     "slug": "jazzy-american-rice-bowl",
     "title": "Jazzy American Rice Bowl",
     "tags": [

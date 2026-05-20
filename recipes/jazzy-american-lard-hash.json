@@ -1,0 +1,111 @@
+{
+  "title": "Jazzy American Lard Hash",
+  "description": "Funky, molten, brunch-mood American dish featuring lard, al-dente-finish, vegetarian-friendly and perfect for a lazy Sunday.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large onion",
+      "amount": "medium diced",
+      "notes": ""
+    },
+    {
+      "name": "2 large potatoes",
+      "amount": "medium diced",
+      "notes": ""
+    },
+    {
+      "name": "2 large bell peppers",
+      "amount": "medium diced",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves",
+      "amount": "",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "1 cup",
+      "amount": "",
+      "notes": "crushed hash browns (homemade or store-bought)"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "",
+      "notes": "lard, diced"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "",
+      "notes": "salt"
+    },
+    {
+      "name": "1/2 teaspoon",
+      "amount": "",
+      "notes": "black pepper"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "",
+      "notes": "chopped fresh chives"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large cast-iron skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced potatoes, bell peppers, and minced garlic. Cook for an additional 10 minutes, stirring occasionally.",
+    "Add the crushed hash browns, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 5 minutes, stirring frequently, until the hash browns are golden brown and the mixture is heated through.",
+    "Use a spatula to shape the mixture into a circle or square shape.",
+    "Cook for an additional 2-3 minutes, until the bottom is crispy and golden brown.",
+    "Flip the hash over and cook for an additional 2-3 minutes, until the other side is crispy and golden brown.",
+    "Garnish with chopped fresh chives and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bell-peppers",
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "onion",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jazzy-american-lard-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-american-lard-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:59:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "lard",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lard",
+    "descriptor": "jazzy",
+    "dishForm": "Hash"
+  }
+}
