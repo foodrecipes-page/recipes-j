@@ -1,0 +1,116 @@
+{
+  "title": "Jolting Norwegian Grape Leaves Pilaf",
+  "description": "A tangy, energizing Norwegian dish featuring grape leaves, a unique combination of traditional and ayurvedic elements. To create this shattering pilaf, we will mix crunchy fried rice with a rich blend of spices and herbs, then fill the mixture into grape leaves for a refreshing twist.",
+  "cuisine": "Norwegian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fried Khao Khuat Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grape Leaves",
+      "amount": "12",
+      "notes": "preferably fresh, or use jarred in brine"
+    },
+    {
+      "name": "Frying Oil",
+      "amount": "1/2 cup",
+      "notes": "avocado or grapeseed oil"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter, for added richness"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "for a vibrant yellow color"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1/2 tsp",
+      "notes": "for a subtle heat"
+    },
+    {
+      "name": "Dill Weed",
+      "amount": "1 tsp",
+      "notes": "for a fresh flavor"
+    },
+    {
+      "name": "Fenugreek Leaves",
+      "amount": "1 tsp",
+      "notes": "for a pungent, slightly bitter taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed, for a bright acidity"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee in a pan over medium heat, then add 1 cup of fried khao khua rice and stir-fry until lightly toasted.",
+    "Add 1 teaspoon of turmeric, 1/2 teaspoon of mustard seeds, and 1 teaspoon of dill weed to the pan, stirring to combine.",
+    "Add the grape leaves to the pan, one by one, and fill each leaf with the fried rice mixture, leaving a small border around the edges.",
+    "Fold the grape leaves over the filling to enclose, and secure with toothpicks if needed.",
+    "In a separate pan, heat 1/2 cup of frying oil over medium heat, then carefully add the stuffed grape leaves and fry until golden brown on all sides.",
+    "Remove the grape leaves from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Jolting Norwegian Grape Leaves Pilaf hot, garnished with chopped scallions and a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-to-make",
+    "high-fiber",
+    "norwegian",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "jolting-norwegian-grape-leaves-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jolting-norwegian-grape-leaves-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:53:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "grape leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Grape leaves",
+    "descriptor": "Jolting",
+    "dishForm": "Pilaf"
+  }
+}
