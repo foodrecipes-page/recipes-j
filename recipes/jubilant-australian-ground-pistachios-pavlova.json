@@ -1,0 +1,101 @@
+{
+  "title": "Jubilant Australian Ground Pistachios Pavlova",
+  "description": "A rich and decadent dessert featuring ground pistachios and a crispy meringue topping.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine-soaked fresh raspberries",
+      "amount": "4 cups"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C (300°F).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whip the eggs until stiff peaks form.",
+    "In a separate bowl, mix together the sugar, ground pistachios, and kosher salt.",
+    "Fold the sugar mixture into the whipped eggs until well combined.",
+    "Add the softened butter and vanilla extract, and fold until smooth.",
+    "Spoon the meringue mixture onto the prepared baking sheet, forming a large circle.",
+    "Bake for 1 hour, then reduce the heat to 120°C (250°F) and continue baking for another 2 hours.",
+    "Allow the meringue to cool completely on the baking sheet.",
+    "To assemble the pavlova, place the cooled meringue on a serving plate.",
+    "Top the meringue with the brine-soaked fresh raspberries, then sprinkle with icing sugar.",
+    "Finish with whipped cream and a sprinkle of ground pistachios."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "australian-dishes",
+    "dessert",
+    "high-calorie",
+    "pavlova",
+    "pistachio-based",
+    "raspberry-topping",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 12,
+    "carbs": 200,
+    "fat": 80
+  },
+  "slug": "jubilant-australian-ground-pistachios-pavlova",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jubilant-australian-ground-pistachios-pavlova",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T07:19:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "ground pistachios",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Ground Pistachios",
+    "descriptor": "Jubilant",
+    "dishForm": "Pavlova"
+  }
+}
