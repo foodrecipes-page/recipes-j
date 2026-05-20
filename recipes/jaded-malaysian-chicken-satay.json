@@ -1,0 +1,92 @@
+{
+  "title": "Jaded Malaysian Chicken Satay",
+  "description": "A weeknight-friendly Malaysian dish with earthy flavors and flaky texture, featuring almond milk and a sautéed twist. Perfect for a Mediterranean-inspired meal.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine ginger, garlic powder, coriander, salt, and black pepper. Blend into a smooth paste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mild-spicy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "jaded-malaysian-chicken-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jaded-malaysian-chicken-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:41:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "almond milk",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Jaded",
+    "dishForm": "Satay"
+  }
+}
