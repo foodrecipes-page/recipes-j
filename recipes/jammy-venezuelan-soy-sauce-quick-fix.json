@@ -1,0 +1,110 @@
+{
+  "title": "Jammy Venezuelan Soy Sauce Quick-Fix",
+  "description": "A velvety, jammy dish featuring the bold flavors of Venezuela and the umami taste of soy sauce. This vegan-friendly recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and dice the sweet potatoes and boil them in a large pot of salted water until tender.",
+    "Meanwhile, heat the vegan butter in a large skillet over medium heat and cook until melted.",
+    "Add the diced onion to the skillet and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the soy sauce to the skillet and stir to combine, then add the cooked sweet potatoes and toss until the sweet potatoes are well coated with the sauce.",
+    "Transfer the sweet potatoes to a serving dish, top with chopped cilantro, and serve hot.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately, and enjoy!",
+    "This recipe can be adjusted to serve more or fewer people by adjusting the amount of sweet potatoes and soy sauce used."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "jammy-venezuelan-soy-sauce-quick-fix",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-venezuelan-soy-sauce-quick-fix",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "soy sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "soy sauce",
+    "descriptor": "jammy",
+    "dishForm": "quick-fix"
+  }
+}
