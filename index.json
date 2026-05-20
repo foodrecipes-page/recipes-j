@@ -1845,6 +1845,21 @@
     "shard": "j"
   },
   {
+    "slug": "jammy-crispy-venezuelan-scamorza-bake",
+    "title": "jammy crispy venezuelan scamorza bake",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "quick-recovery",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "jammy-croatian-grape-leaves-dolma",
     "title": "Jammy Croatian Grape Leaves Dolma",
     "tags": [
@@ -9027,6 +9042,23 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-mustardy-greek-spinach-and-feta-spanakopita",
+    "title": "Jucy, Mustardy Greek Spinach and Feta Spanakopita",
+    "tags": [
+      "appetizer",
+      "entree",
+      "feta",
+      "flavorful",
+      "greek",
+      "rum",
+      "spanakopita",
+      "yuzu"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
     "shard": "j"
   },
   {

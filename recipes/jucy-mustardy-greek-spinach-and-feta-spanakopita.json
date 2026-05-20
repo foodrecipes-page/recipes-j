@@ -1,0 +1,104 @@
+{
+  "title": "Jucy, Mustardy Greek Spinach and Feta Spanakopita",
+  "description": "A comforting, fluffy, and flavorful Greek dish with a tangy twist, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen chopped spinach",
+      "amount": "1 10 oz package",
+      "notes": ""
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 16 oz package",
+      "notes": "thawed in advance"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain or Dijon"
+    },
+    {
+      "name": "appleton rum",
+      "amount": "1 tsp",
+      "notes": "do not omit, but be careful not to burn the phyllo"
+    },
+    {
+      "name": "yuzu-cured sea salt",
+      "amount": "1 tsp",
+      "notes": "optional, but recommended for added depth"
+    },
+    {
+      "name": "feta cheese, crumbled",
+      "amount": "8 oz",
+      "notes": "high-quality, sheep's milk preferred"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 small onion",
+      "notes": "about 1 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions. ",
+    "In a medium skillet, sauté the chopped onion in 1 tablespoon of the melted butter until translucent. ",
+    "In a large mixing bowl, combine the cooked onion, spinach, feta cheese, mustard, rum, and yuzu-cured sea salt (if using).",
+    "In a separate mixing bowl, mix the remaining 1 tablespoon of melted butter with a little water to create a brushable consistency.",
+    "Layer the phyllo dough in a 9x13 inch baking dish, brushing each layer with the butter mixture and folding the dough in a zig-zag pattern to create a lattice top. ",
+    "Pour the spinach mixture into the center of the baking dish, leaving a 1-inch border around the edges. ",
+    "Fold the edges of the phyllo dough over the filling, pressing gently to seal. ",
+    "Brush the top of the phyllo dough with the remaining butter mixture. ",
+    "Bake the spanakopita in the preheated oven for 35-40 minutes, or until the phyllo is golden brown and puffed. ",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving. ",
+    "Serve warm, garnished with additional feta cheese and a sprinkle of yuzu-cured sea salt (if desired)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "entree",
+    "feta",
+    "flavorful",
+    "greek",
+    "rum",
+    "spanakopita",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "jucy-mustardy-greek-spinach-and-feta-spanakopita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-mustardy-greek-spinach-and-feta-spanakopita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:52:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "appleton rum",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Spinach and Feta",
+    "descriptor": "Jucy, Mustardy",
+    "dishForm": "Spanakopita"
+  }
+}

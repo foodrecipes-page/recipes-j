@@ -1,0 +1,108 @@
+{
+  "title": "jammy crispy venezuelan scamorza bake",
+  "description": "a post-workout venezuelan dish featuring scamorza cheese, a dashi extract, and ayurvedic tamasic-friendly ingredients. this sweet and savory bake is perfect for a quick recovery meal.",
+  "cuisine": "venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp",
+      "notes": "make sure to use a tamasic-friendly dashi extract"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "use a small amount to balance the savory flavors"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional ingredient for added crunch and nutty flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "optional ingredient for added anti-inflammatory benefits"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "optional ingredient for added digestive benefits"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "used to help crisp the top of the bake"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f.",
+    "in a large bowl, mix together the scamorza cheese, brown sugar, black sesame seeds, salt, black pepper, turmeric, and ginger until well combined.",
+    "add the dashi extract and mix until the cheese is evenly coated.",
+    "transfer the cheese mixture to a greased 8-inch round baking dish.",
+    "mix together the coconut oil and cornstarch in a small bowl until well combined.",
+    "spread the coconut oil mixture evenly over the top of the cheese mixture.",
+    "bake for 20 minutes or until the top is golden brown and the cheese is melted and bubbly.",
+    "remove from the oven and let cool for 5 minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick-recovery",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "jammy-crispy-venezuelan-scamorza-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-crispy-venezuelan-scamorza-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "dashi-extract",
+    "primaryIngredient": "scamorza",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "scamorza",
+    "descriptor": "jammy crispy",
+    "dishForm": "Bake"
+  }
+}
