@@ -1,0 +1,84 @@
+{
+  "title": "Jewelled Post-Workout Irish Corn Porridge",
+  "description": "A comforting, nutty, and protein-rich post-workout breakfast dish featuring creamy corn, a touch of dark chocolate, and a hint of spice.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish oatmeal",
+      "amount": "250g"
+    },
+    {
+      "name": "Diced fresh corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "20g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "In a copper pot, warm the milk over low heat.",
+    "Add the honey and whisk until dissolved.",
+    "Gradually add the Irish oatmeal and cook for 5 minutes, stirring constantly.",
+    "Add the diced corn and cook for an additional 2 minutes.",
+    "Remove from heat and stir in the dark chocolate chips until melted.",
+    "Add the cinnamon and salt, and mix well.",
+    "Let the porridge rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "jewelled-post-workout-irish-corn-porridge",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jewelled-post-workout-irish-corn-porridge",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:21:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "creamed corn",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "corn",
+    "descriptor": "Jewelled post-workout",
+    "dishForm": "Porridge"
+  }
+}
