@@ -1,0 +1,69 @@
+{
+  "title": "Juicy Canadian Cheese Burger",
+  "description": "A umami, crisp, brunch mood Canadian dish featuring instant yeast and lacto-vegetarian-friendly cheese. Inspired by the classic cheeseburger, this recipe adds a twist with the use of Canadian cheese and sashimi-cut vegetables.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef patties",
+      "amount": "4",
+      "notes": "80/20 lean to fat ratio, 120g each"
+    }
+  ],
+  "instructions": [
+    "Soften 1/4 cup of instant yeast in 1/4 cup of warm water.",
+    "In a large bowl, mix together 1 cup of all-purpose flour, 1/2 cup of whole wheat flour, and 1 teaspoon of salt.",
+    "Gradually add 1/2 cup of warm water and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Divide the dough into 4 equal portions and shape each portion into a ball.",
+    "Use a rolling pin to flatten each ball into a disk.",
+    "Place a beef patty in the center of each disk, leaving a 1-inch border around the edges.",
+    "Top each patty with 1-2 slices of Canadian cheese, depending on the size of the patty.",
+    "Fold the dough over the filling and press the edges together to seal the burger.",
+    "Heat a non-stick skillet over medium-high heat and add 1 tablespoon of oil.",
+    "Cook the burgers for 4-5 minutes on each side, or until they are golden brown and cooked through.",
+    "Meanwhile, toast 4 hamburger buns on the skillet or in a toaster.",
+    "Assemble the burgers by spreading 1-2 tablespoons of mayonnaise or ketchup on each bun, followed by a cooked burger, a few slices of tomato, a few slices of lettuce, and finally the top bun."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "juicy-canadian-cheese-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-canadian-cheese-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:55:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "instant yeast",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "juicy",
+    "dishForm": "Burger"
+  }
+}

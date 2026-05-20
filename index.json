@@ -10145,6 +10145,21 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-canadian-cheese-burger",
+    "title": "Juicy Canadian Cheese Burger",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "canadian",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-canadian-hind-shank-roast",
     "title": "Juicy Canadian Hind Shank Roast",
     "tags": [
