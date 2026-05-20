@@ -1,0 +1,125 @@
+{
+  "title": "Joltingly Crunchy Korean Tofu Bowl",
+  "description": "Umami and crunchy Korean dish made with peppercorns and featuring ice-bath-shocked tofu, served in a cozy talavera plate.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "1 tsp, freshly cracked",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy garlic",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Crushed sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Talavera plate",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine soy sauce, rice vinegar, gochujang, and 2 cups of water. Bring to a boil over high heat, then reduce to a simmer and cook for 5 minutes.",
+    "While the sauce is cooking, cut the tofu into 1-inch cubes and place them in a large bowl.",
+    "Pour the sauce over the tofu and let it marinate for at least 30 minutes, flipping the tofu occasionally.",
+    "Just before serving, stir in 1 tsp of Korean chili flakes and 1 tsp of freshly cracked black peppercorns.",
+    "Heat a large skillet over medium-high heat and add the marinated tofu. Cook for 3-4 minutes on each side, until the tofu is golden brown and crispy.",
+    "While the tofu is cooking, prepare the ice bath by filling a large bowl with 2 cups of ice and 2 cups of water.",
+    "Once the tofu is cooked, transfer it to the ice bath to shock and stop the cooking process.",
+    "Let the tofu sit in the ice bath for 5-7 minutes, until it has cooled to room temperature.",
+    "To assemble the dish, place the ice-bath-shocked tofu on a talavera plate.",
+    "Sprinkle the crispy garlic, crushed sesame seeds, and green onions over the top of the tofu.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-peppercorns",
+    "crunchy",
+    "gochujang",
+    "green-onions",
+    "icy",
+    "korean",
+    "korean-chili-flakes",
+    "rice-vinegar",
+    "sesame-seeds",
+    "soy-sauce",
+    "tofu",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "joltingly-crunchy-korean-tofu-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/joltingly-crunchy-korean-tofu-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:53:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "peppercorns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Joltingly Crunchy",
+    "dishForm": "Bowl"
+  }
+}

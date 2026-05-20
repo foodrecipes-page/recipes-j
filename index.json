@@ -6338,6 +6338,27 @@
     "shard": "j"
   },
   {
+    "slug": "joltingly-crunchy-korean-tofu-bowl",
+    "title": "Joltingly Crunchy Korean Tofu Bowl",
+    "tags": [
+      "black-peppercorns",
+      "crunchy",
+      "gochujang",
+      "green-onions",
+      "icy",
+      "korean",
+      "korean-chili-flakes",
+      "rice-vinegar",
+      "sesame-seeds",
+      "soy-sauce",
+      "tofu",
+      "umami"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
     "slug": "journey-smoky-korean-rice-bowl",
     "title": "Journey-smoky Korean rice bowl",
     "tags": [
@@ -9401,6 +9422,18 @@
     ],
     "cuisine": "brazilian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-brazilian-egg-rolls-satay",
+    "title": "Brazilian Egg Rolls Satay",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 14,
     "shard": "j"
   },
   {

@@ -1,0 +1,107 @@
+{
+  "title": "Brazilian Egg Rolls Satay",
+  "description": "Grassy and juicy Brazilian egg rolls that are satvik-friendly, dehydrated and full of flavor, perfect for a quick indulgence.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix together wheat flour and water to form a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of coconut oil in the center of each circle.",
+    "Add 2-3 tablespoons of shredded coconut, cumin, coriander, turmeric, salt, and black pepper on top of the oil.",
+    "Fold the egg roll into a triangle and press the edges to seal.",
+    "Heat a non-stick pan over medium heat and cook the egg rolls for 2-3 minutes on each side.",
+    "Dehydrate the egg rolls in a preheated oven at 150°F (65°C) for 30 minutes.",
+    "Let the egg rolls cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "juicy-brazilian-egg-rolls-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-brazilian-egg-rolls-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:54:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "egg rolls",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "juicy",
+    "dishForm": "Satay"
+  }
+}
