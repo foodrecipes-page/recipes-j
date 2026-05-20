@@ -1,0 +1,106 @@
+{
+  "title": "Jazzy Weeknight Algerian Herbal Fish Tagine",
+  "description": "A flavorful and refreshing Algerian-inspired fish dish that combines the bright, citrusy flavors of lime leaves with the rich, aromatic spices of North Africa. This recipe is perfect for a weeknight dinner that's quick to prepare and full of flavor without the need for fancy equipment or ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 boneless, skinless salmon fillets",
+      "amount": "6 ounces each",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": "for brushing fish"
+    },
+    {
+      "name": "2 cups fresh lime leaves",
+      "amount": "chopped",
+      "notes": "or 2 teaspoons dried lime leaves"
+    },
+    {
+      "name": "2 tablespoons grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed herbs (parsley, cilantro, thyme)",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 cup sliced red onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup sliced red bell pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler. In a small bowl, mix together lime leaves, ginger, cumin, smoked paprika, salt, and black pepper. Brush the salmon fillets with olive oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fish",
+    "flavorful",
+    "herbal",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "jazzy-weeknight-algerian-herbal-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-weeknight-algerian-herbal-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:52:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "lime leaves",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "herbal fish",
+    "descriptor": "jazzy weeknight",
+    "dishForm": "Tagine"
+  }
+}
