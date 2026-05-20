@@ -1,0 +1,119 @@
+{
+  "title": "Jucy Weeknight Ethiopian Morcilla Tagine",
+  "description": "A floral, crunchy weeknight dish featuring morcilla, perfect for a flexitarian-friendly meal. Serve with crusty bread or injera for a delicious and satisfying dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "2 cups",
+      "notes": "Spicy Ethiopian blood sausage"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Thinly slice for best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for added depth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate for extra flavor"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tsp",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin for added warmth"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika for smoky flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use kosher salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Use fresh peppercorns for best flavor"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2 medium",
+      "notes": "Thinly slice for added crunch"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay tajine over medium-high heat.",
+    "Add the sliced onions and cook, stirring occasionally, until they are lightly browned and caramelized, about 20 minutes.",
+    "Add the minced garlic and grated ginger and cook, stirring constantly, for 1 minute.",
+    "Add the morcilla and cook, breaking it up with a spoon, until it is lightly browned and crumbly, about 5 minutes.",
+    "Add the berbere spice, cumin, paprika, salt, and black pepper, and cook, stirring constantly, for 1 minute.",
+    "Add the sliced leeks and cook, stirring occasionally, until they are tender and lightly browned, about 10 minutes.",
+    "Stir in the chopped parsley and cilantro, and serve hot over crusty bread or injera.",
+    "Garnish with additional parsley and cilantro, if desired.",
+    "Serve with a side of steamed vegetables or a simple green salad, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "jucy-weeknight-ethiopian-morcilla-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jucy-weeknight-ethiopian-morcilla-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:25:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "morcilla",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Jucy Weeknight",
+    "dishForm": "Tagine"
+  }
+}
