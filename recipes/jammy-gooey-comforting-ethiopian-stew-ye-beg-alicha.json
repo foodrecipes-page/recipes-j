@@ -1,0 +1,124 @@
+{
+  "title": "Ye-Beg Alicha",
+  "description": "A comforting Ethiopian stew that is both sweet and savory. It's a perfect meal for a chilly evening.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large saucepan over medium heat.",
+    "Add the onion and cook until it's translucent.",
+    "Add the ginger and garlic and cook for another minute.",
+    "Add the cumin, coriander, turmeric, and cayenne pepper and cook for 1 minute.",
+    "Add the chicken and cook until it's browned on all sides.",
+    "Add the orange juice, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook for 20 minutes.",
+    "Stir in the beurre monte and cook for another 2 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, wrapped in a lotus leaf if desired.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "ethiopian",
+    "one-pot",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "jammy-gooey-comforting-ethiopian-stew-ye-beg-alicha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-gooey-comforting-ethiopian-stew-ye-beg-alicha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "orange juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "stew",
+    "descriptor": "jammy gooey comforting",
+    "dishForm": "Ye-Beg- Alicha"
+  }
+}
