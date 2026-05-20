@@ -9542,6 +9542,22 @@
     "shard": "j"
   },
   {
+    "slug": "juicy-andalusian-millet-bake",
+    "title": "juicy Andalusian Millet Bake",
+    "tags": [
+      "dairy-free",
+      "hangover-cure",
+      "mediterranean",
+      "one-pan",
+      "spanish",
+      "weeknight",
+      "winey"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 75,
+    "shard": "j"
+  },
+  {
     "slug": "juicy-argentine-khus-khus-empanadas",
     "title": "Juicy Argentine Khus Khus Empanadas",
     "tags": [
@@ -13225,6 +13241,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-lazy-slovakian-kabanos-platter",
+    "title": "Juicy Lazy Slovakian Kabanos Platter",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "umami"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
