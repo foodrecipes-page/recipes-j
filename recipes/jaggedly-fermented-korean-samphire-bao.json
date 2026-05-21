@@ -1,0 +1,104 @@
+{
+  "title": "Jaggedly Fermented Korean Samphire Bao",
+  "description": "A unique Korean dish featuring fermented samphire, flaky bao dough, and a high-protein twist. Perfect for a date-night dinner.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": "10g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "sourdough starter",
+      "amount": "10g"
+    },
+    {
+      "name": "samphire",
+      "amount": "200g"
+    },
+    {
+      "name": "gochujang",
+      "amount": "20g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "10g"
+    },
+    {
+      "name": "green onions",
+      "amount": "20g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, coarse sea salt, and warm water to create a shaggy dough.",
+    "Add sourdough starter and mix until the dough comes together in a sticky ball.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it ferment at room temperature for 24 hours.",
+    "After 24 hours, punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of gochujang in the center of each circle, leaving a 1-inch border around the edges.",
+    "Top with samphire, brown sugar, sesame oil, green onions, and toasted sesame seeds.",
+    "Fold the dough over the filling to create a half-moon shape, pressing the edges to seal.",
+    "Heat a non-stick skillet or griddle over medium heat and cook the baos for 2-3 minutes on each side, until golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 6,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "fermented-foods",
+    "high-protein",
+    "korean-cuisine",
+    "one-pan",
+    "samphire",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "jaggedly-fermented-korean-samphire-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jaggedly-fermented-korean-samphire-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T10:20:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "samphire",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Samphire",
+    "descriptor": "Jaggedly Fermented",
+    "dishForm": "Bao"
+  }
+}
