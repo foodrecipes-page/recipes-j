@@ -1,0 +1,87 @@
+{
+  "title": "jagged german potatoes hash",
+  "description": "malty,shattering,show-off german dish featuring potatoes,bhuna,vegan-friendly",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large non-stick pan over medium heat,then add the onion and cook until softened about 8 minutes",
+    "add the garlic and cook for a further minute until fragrant",
+    "add the potatoes and cook for 5 minutes,then mash slightly with a potato masher",
+    "add the bhuna curry paste and mix well",
+    "add the caraway seeds and cook for a final minute",
+    "use a spatula to break up the potatoes into jagged pieces and serve hot",
+    "note:for a more authentic german experience serve with a side of sauerkraut",
+    "note:adjust the quantity of bhuna curry paste to your desired level of spiciness"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jagged-german-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jagged-german-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:27:56Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "potatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "potatoes",
+    "descriptor": "jagged",
+    "dishForm": "hash"
+  }
+}
