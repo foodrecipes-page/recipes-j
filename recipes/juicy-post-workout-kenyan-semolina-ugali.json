@@ -1,0 +1,107 @@
+{
+  "title": "Juicy Post-Workout Kenyan Semolina Ugali",
+  "description": "A hearty, Ayurvedic-rajasic-friendly Kenyan semolina dish, perfect for post-workout recovery. Rich in complex carbohydrates and protein.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "fine or medium semolina"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/2 cups",
+      "notes": "warm water"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 inch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "On a wooden board, combine semolina flour and salt.",
+    "Gradually add water to the flour mixture, stirring with a wooden spoon to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Heat oil in a non-stick pan over medium heat.",
+    "Add chopped onion, minced garlic, and grated ginger to the pan and sauté until fragrant.",
+    "Add chili pepper to the pan and sauté for another minute.",
+    "Add the dough to the pan and shape into a rectangular block.",
+    "Cook for 5 minutes on each side or until the ugali is golden brown and crispy.",
+    "Serve hot with your choice of accompaniments, garnished with fresh cilantro leaves and a squeeze of lemon juice.",
+    "For added flavor, you can add chopped herbs or spices to the dough before cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "juicy-post-workout-kenyan-semolina-ugali",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-post-workout-kenyan-semolina-ugali",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:19:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "semolina flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "semolina",
+    "descriptor": "Juicy Post-Workout",
+    "dishForm": "Ugali"
+  }
+}
