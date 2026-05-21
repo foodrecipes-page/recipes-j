@@ -1,0 +1,104 @@
+{
+  "title": "Juicy Shattering Australian Turnips Galette",
+  "description": "A rich and festive Australian dish featuring turnips, spherified for a unique texture and experience. High-protein ingredients make this dish suitable for fitness enthusiasts and athletes.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "4",
+      "notes": "Choose small to medium-sized turnips for the best results"
+    },
+    {
+      "name": "Sodium Alginate",
+      "amount": "1 teaspoon",
+      "notes": "For spherification"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "2 tablespoons",
+      "notes": "To balance acidity and add sweetness"
+    },
+    {
+      "name": "Egg Yolk",
+      "amount": "2",
+      "notes": "For richness and moisture"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying and added flavor"
+    },
+    {
+      "name": "Australian Salted Butter",
+      "amount": "4 tablespoons",
+      "notes": "For flavor and moisture"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish and added freshness"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "To balance acidity and add brightness"
+    }
+  ],
+  "instructions": [
+    "Begin by peeling and chopping the turnips into small cubes. Set aside.",
+    "In a small bowl, mix together the sodium alginate, sugar, and a pinch of salt. Set aside.",
+    "In a separate bowl, whisk together the egg yolks and a splash of water until smooth.",
+    "Add the chopped turnips to the egg yolk mixture and mix until well combined.",
+    "Heat the coconut oil in a large skillet over medium-high heat. Add the turnip mixture and cook until lightly browned.",
+    "Sprinkle the sugar-alginate mixture over the top of the turnip mixture and cook for an additional 2-3 minutes.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Using a spoon, drop small amounts of the turnip mixture into a bowl of cold water. Allow the spherification process to occur for 5-7 minutes.",
+    "Once the spherified turnips have formed, remove them from the water with a slotted spoon and set aside.",
+    "In a small saucepan, melt the Australian salted butter over low heat. Add the parsley and lemon juice, stirring to combine.",
+    "To assemble the galette, place a portion of the spherified turnips on a plate, followed by a dollop of the parsley-butter sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "festive",
+    "gourmet",
+    "high-protein",
+    "holiday-dinner",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "juicy-shattering-australian-turnips-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-shattering-australian-turnips-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T18:36:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "spherify",
+    "primaryIngredient": "turnips",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "turnips",
+    "descriptor": "juicy shattering",
+    "dishForm": "Galette"
+  }
+}
