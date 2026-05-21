@@ -1,0 +1,127 @@
+{
+  "title": "Jammy Flaky Venezuelan Linguine Pasta",
+  "description": "A sweet and indulgent take on traditional Venezuelan cuisine featuring linguine pasta, rendered fat, and a variety of spices.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine linguine pasta, duck fat, and 1 cup of water in a medium saucepan over medium heat, stirring occasionally.",
+    "Bring the mixture to a simmer and cook until the pasta is al dente, about 8-10 minutes.",
+    "In a separate saucepan, combine the brown sugar, dried apricots, and 1/4 cup of water over medium heat, stirring occasionally.",
+    "Cook the mixture until the sugar has dissolved and the apricots are tender, about 5 minutes.",
+    "In a small bowl, whisk together the coconut milk, eggs, vanilla extract, salt, cinnamon, and nutmeg.",
+    "Add the flour to the coconut milk mixture and whisk until smooth.",
+    "Gradually add the wet ingredients to the cooked pasta, stirring constantly.",
+    "Cook over low heat for 2-3 minutes, until the mixture has thickened slightly.",
+    "Stir in the butter until melted.",
+    "Transfer the pasta to a 1-quart mason jar and refrigerate for at least 2 hours or overnight.",
+    "To serve, scoop the jammy pasta into individual serving cups and drizzle with additional duck fat, if desired.",
+    "Serve chilled or at room temperature.",
+    "Garnish with toasted coconut flakes or chopped nuts, if desired.",
+    "Store leftover pasta in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "When ready to serve, thaw frozen pasta overnight in the refrigerator and reheat in the microwave or oven until warmed through.",
+    "Adjust cooking time as needed.",
+    "Reserve some duck fat for serving, if desired.",
+    "You can make the pasta ahead of time and refrigerate it for up to a day before serving.",
+    "This dish is perfect for a special occasion or a fun brunch gathering."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-idea",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "jammy-flaky-venezuelan-linguine-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-flaky-venezuelan-linguine-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:25:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "linguine pasta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Linguine",
+    "descriptor": "Jammy Flaky",
+    "dishForm": "Pasta"
+  }
+}
