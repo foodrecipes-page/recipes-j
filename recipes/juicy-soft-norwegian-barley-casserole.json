@@ -1,0 +1,114 @@
+{
+  "title": "juicy soft norwegian barley casserole",
+  "description": "a comforting, grassy, crumbly norwegian dish featuring soy sauce, perfect for a sick day.",
+  "cuisine": "norwegian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "in a large saucepan, bring barley and water to a boil. Reduce heat, cover, and simmer for 25 minutes.",
+    "in a large skillet, heat olive oil over medium heat. Add onion, mushrooms, carrots, and celery. Cook until vegetables are tender, about 10 minutes.",
+    "stir in soy sauce, tomato paste, thyme, salt, and pepper. Cook for 1 minute.",
+    "add cooked barley mixture to the skillet and stir to combine.",
+    "transfer mixture to a 9x13-inch baking dish and set aside.",
+    "in a small bowl, whisk together soy sauce and water to make a glaze.",
+    "brush glaze over the top of the barley mixture.",
+    "cover the dish with aluminum foil and bake for 25 minutes.",
+    "remove foil and bake for an additional 10-15 minutes, or until top is lightly browned.",
+    "serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "sick-day",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 75,
+    "fat": 10
+  },
+  "slug": "juicy-soft-norwegian-barley-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/juicy-soft-norwegian-barley-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T00:47:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "soy sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "barley",
+    "descriptor": "Juicy Soft",
+    "dishForm": "Casserole"
+  }
+}
