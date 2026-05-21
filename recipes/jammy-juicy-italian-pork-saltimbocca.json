@@ -1,0 +1,109 @@
+{
+  "title": "Jammy Juicy Italian Pork Saltimbocca",
+  "description": "A Mediterranean-inspired brunch dish featuring grilled pork, prosciutto, and wonton skin, served in a jammy and silky sauce. This Italian saltimbocca is perfect for a special occasion or a cozy weekend brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wonton skin",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "fresh sage",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat and season the pork tenderloin with salt and black pepper.",
+    "In a small bowl, mix together chopped sage, garlic, and lemon juice.",
+    "Brush the wonton skin sheets with olive oil and top each sheet with a slice of prosciutto and a spoonful of the sage mixture.",
+    "Wrap each pork tenderloin medallion with a wonton skin sheet, prosciutto side in, and secure with a toothpick if needed.",
+    "Grill the pork saltimbocca for 4-5 minutes per side, or until the pork reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the pork is cooking, reduce the chicken broth in a small saucepan over medium heat until it reaches a jammy consistency.",
+    "Remove the pork from the grill and let it rest for a few minutes before slicing it thinly.",
+    "Serve the sliced pork saltimbocca with the jammy chicken broth sauce spooned over the top and garnished with shaved grana padano cheese.",
+    "Garnish with additional sage leaves and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grilled-pork",
+    "italian-food",
+    "jammy-sauce",
+    "mediterranean-diet",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "jammy-juicy-italian-pork-saltimbocca",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/jammy-juicy-italian-pork-saltimbocca",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:10:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "wonton skin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "jammy juicy",
+    "dishForm": "Saltimbocca"
+  }
+}
