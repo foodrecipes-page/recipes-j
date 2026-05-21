@@ -1,0 +1,101 @@
+{
+  "title": "Jazzy Soft Roasted Kenyan Plantains Bake",
+  "description": "Savor the silky, salty goodness of this Kenyan-inspired plantains bake, infused with the subtle sweetness of elderflower and perfectly cooked to perfection in the air fryer.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "2 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tbsp",
+      "notes": "available at most international markets"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Peel the plantains and slice them into 1-inch thick rounds.",
+    "In a small bowl, whisk together the elderflower syrup, cumin, paprika, salt, and pepper.",
+    "Brush the plantain slices with the olive oil and sprinkle with the elderflower mixture.",
+    "Place the plantain slices in a single layer in the air fryer basket.",
+    "Cook the plantains for 10 minutes, shaking the basket halfway through.",
+    "Remove the plantains from the air fryer and top each slice with a sprinkle of feta cheese and a sprinkle of cilantro.",
+    "Serve the plantains warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "lacto-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "jazzy-soft-roasted-kenyan-plantains-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/jazzy-soft-roasted-kenyan-plantains-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T18:23:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "elderflower",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "plantains",
+    "descriptor": "Jazzy Soft Roasted",
+    "dishForm": "Bake"
+  }
+}
