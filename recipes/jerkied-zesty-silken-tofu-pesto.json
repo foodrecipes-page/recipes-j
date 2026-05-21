@@ -1,0 +1,85 @@
+{
+  "title": "Jerkied Zesty Silken Tofu Pesto",
+  "description": "A roasted and snappy Paleo-friendly dish featuring sashimi-cut silken tofu with a zesty jerk seasoning for sick-day meals.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": 150
+    },
+    {
+      "name": "Jerk Seasoning Mix",
+      "amount": "as needed"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 30
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Ginger Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "Chives (or Spring Onion), finely chopped",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Place silken tofu in a mixing bowl.",
+    "Add jerk seasoning mix, garlic powder, olive oil, lime juice, fresh ginger paste, and red pepper flakes to the tofu mixture.",
+    "Mix well until evenly coated with the seasonings.",
+    "Divide the seasoned tofu into sashimi slices using sharp kitchen knives.",
+    "Heat a pan over medium heat and add sliced chives.",
+    "When the chive tips start to turn golden brown, place the sashimi tofu slices on the hot pan in an even layer.",
+    "Cook for about 2-3 minutes or until the edges of the tofu are crispy and slightly charred.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "quick-cook",
+    "snackable"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 2,
+    "fat": 6
+  },
+  "slug": "jerkied-zesty-silken-tofu-pesto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/jerkied-zesty-silken-tofu-pesto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T01:47:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "silken tofu",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Silken Tofu",
+    "descriptor": "Jerkied",
+    "dishForm": "Pesto"
+  }
+}
