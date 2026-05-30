@@ -3672,17 +3672,14 @@
   },
   {
     "slug": "jazzy-golden-kenyan-sweet-potato-tagine",
-    "title": "Jazzy Golden Kenyan Sweet Potato Tagine",
+    "title": "Kenyan Sweet Potato Tagine",
     "tags": [
-      "african",
-      "kenyan",
-      "one-pot",
-      "sweet-potato",
-      "tagine",
-      "vegan"
+      "vegan",
+      "gluten-free",
+      "african"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "East African",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -10233,18 +10230,15 @@
   },
   {
     "slug": "juicy-british-cod-fish-and-chips",
-    "title": "Juicy British Cod Fish And Chips",
+    "title": "British Fish and Chips",
     "tags": [
+      "fish",
+      "chips",
       "british",
-      "cataplana-use",
-      "citrusy",
-      "dense-dish",
-      "fish-and-chips",
-      "gochugaru",
-      "halal-friendly"
+      "lunch"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
