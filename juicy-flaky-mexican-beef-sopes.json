@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-flaky-mexican-beef-sopes",
+  "title": "Beef Sopes",
+  "description": "A classic Mexican dish featuring crispy sopes topped with seasoned ground beef. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mexican sopes",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin and chili powder and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Warm the sopes according to package instructions.",
+    "Spoon the beef mixture onto the sopes and top with shredded cheese.",
+    "Serve immediately and enjoy!",
+    "Optional: Add diced tomatoes, shredded lettuce, or diced avocado as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "sopes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flaky-mexican-beef-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:44:09.529Z"
+}
