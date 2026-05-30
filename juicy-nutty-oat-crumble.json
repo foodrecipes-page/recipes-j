@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-nutty-oat-crumble",
+  "title": "Crumble Oat Bites",
+  "description": "A sweet and crunchy oat-based snack made with juicy fruit, perfect for a quick breakfast or as a healthy dessert.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "juicy oat flakes",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "nutty rolled oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumble granola",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. In a large bowl, mix together oat flakes, rolled oats, and crumble granola.",
+    "3. Add maple syrup and coconut oil to the bowl. Mix until well combined.",
+    "4. Drop spoonfuls of the mixture onto a baking sheet.",
+    "5. Bake for 15-20 minutes or until lightly golden brown.",
+    "6. Allow to cool before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "oat-bites",
+    "breakfast",
+    "dessert",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-nutty-oat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:25:57.744Z"
+}
