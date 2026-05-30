@@ -1,0 +1,93 @@
+{
+  "slug": "jubilant-norwegian-beef-stew",
+  "title": "Beef Stew Norwegian Style",
+  "description": "A hearty beef stew inspired by traditional Norwegian cuisine, perfect for a cold winter's night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "norwegian jubilant potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add chopped onion, carrot, and celery to pot and cook until tender, about 10 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add beef broth, whisking constantly.",
+    "Return beef to pot and add red wine if using.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, for 2 1/2 hours, or until beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "norwegian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:47:16.425Z"
+}
