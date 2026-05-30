@@ -1631,14 +1631,12 @@
   },
   {
     "slug": "jalapeno-jives-greek-garlic-fasolada",
-    "title": "Jalapeño Jives Greek Garlic Fasolada",
+    "title": "Spicy Fasolada Stew",
     "tags": [
-      "cheese-pull",
-      "garlic-lovers",
-      "greek-cuisine",
-      "midnight-craving",
-      "shojin-friendly",
-      "weeknight"
+      "spicy",
+      "stew",
+      "greek",
+      "vegetarian"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
@@ -2919,18 +2917,16 @@
   },
   {
     "slug": "jasmine-infused-syrian-rose-petals-tagine",
-    "title": "Jasmine-Infused Syrian Rose Petals Tagine",
+    "title": "Syrian Tagine with Jasmine Petals",
     "tags": [
-      "coconut-based",
-      "dessert",
-      "high-calorie",
-      "one-pan",
-      "romantic",
-      "rose-petal-based",
-      "sunday-dinner"
+      "middle-eastern",
+      "chicken",
+      "rose",
+      "jasmine",
+      "tagine"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -18317,17 +18313,14 @@
   },
   {
     "slug": "juniper-earthbake",
-    "title": "Juniper Earthbake",
+    "title": "Juniper and Earthbake Crusted Pork Chops",
     "tags": [
       "juniper",
       "earthbake",
-      "hangover",
-      "indian",
-      "vegan",
-      "plant-based"
+      "gluten-free"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 57,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
