@@ -1,0 +1,69 @@
+{
+  "slug": "jelly-like-australian-fish-bake",
+  "title": "Australian Fish Bake",
+  "description": "A simple and flavorful fish bake recipe from Australia, perfect for a quick dinner or lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "White fish like cod or snapper works well"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Like",
+      "amount": "2 tablespoons",
+      "notes": "Australian like is similar to soy sauce"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1 cup",
+      "notes": "Unflavored, melted"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "Australian bake is similar to breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place fish fillets on the baking sheet.",
+    "Drizzle lemon juice over the fish.",
+    "Sprinkle like over the fish.",
+    "Drizzle melted jelly over the fish.",
+    "Sprinkle bake over the fish.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Serve hot and enjoy!",
+    "Note: Cooking time may vary depending on the thickness of the fish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "fish-bake",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-australian-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:27:05.996Z"
+}
