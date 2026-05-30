@@ -1,0 +1,83 @@
+{
+  "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful and spicy Thai-inspired dish featuring chicken cooked in a rich and creamy curry sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety jeweled sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "northern kao rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "mun chilies",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "gai green beans",
+      "amount": "1 cup",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the diced mun chilies and cook until fragrant, about 1 minute.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the northern kao rice, velvety jeweled sauce, fish sauce, and palm sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the chicken is cooked through.",
+    "Stir in the gai green beans and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the Thai chicken curry over the northern kao rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "curry",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-velvety-northern-thai-chicken-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:44.285Z"
+}
