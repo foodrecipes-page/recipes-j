@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-fluffy-dutch-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty, comforting lamb stew perfect for a cold evening. The combination of tender lamb and flavorful vegetables makes for a satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fluffy pastry",
+      "amount": "1 sheet",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fluffy salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fluffy black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for 2-3 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with any accumulated juices.",
+    "Add enough water to the pot to cover the lamb and vegetables.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, topped with a sheet of fluffy pastry and sprinkled with salt and pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "dutch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fluffy-dutch-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:51:51.854Z"
+}
