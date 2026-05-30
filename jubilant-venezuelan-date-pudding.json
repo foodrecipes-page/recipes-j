@@ -1,0 +1,63 @@
+{
+  "slug": "jubilant-venezuelan-date-pudding",
+  "title": "Jubilant Venezuelan Pudding",
+  "description": "A traditional Venezuelan dessert with a sweet and creamy pudding made with jubilant dates.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jubilant dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine pudding mix and sugar in a large bowl.",
+    "Gradually add in evaporated milk, whisking until smooth.",
+    "Chop jubilant dates and add to the mixture.",
+    "Whisk in vanilla extract, if using.",
+    "Pour mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 30 minutes or until chilled.",
+    "Serve chilled, garnished with additional jubilant dates if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-venezuelan-date-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:45:36.250Z"
+}
