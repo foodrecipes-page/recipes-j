@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-british-cod-fish-and-chips",
+  "title": "British Fish and Chips",
+  "description": "A classic British dish of battered and fried fish, served with crispy chips and a side of tangy mushy peas.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy cod",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "chips",
+      "amount": "2 pounds",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2 large",
+      "notes": "for batter"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Cut the chips into 1-inch thick slices and soak in cold water for 30 minutes.",
+    "2. Drain the chips and pat dry with paper towels.",
+    "3. Cut the cod into 1-inch thick fillets.",
+    "4. In a shallow dish, mix together the flour, milk, and eggs to make a batter.",
+    "5. Dip the cod fillets into the batter, making sure they are fully coated.",
+    "6. Heat the vegetable oil in a deep frying pan to 350°F.",
+    "7. Fry the chips in batches until golden brown, about 3-4 minutes per batch.",
+    "8. Fry the battered cod in batches until golden brown, about 3-4 minutes per batch.",
+    "9. Drain the chips and cod on paper towels.",
+    "10. Serve the fish and chips hot with a side of mushy peas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "chips",
+    "british",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-cod-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:41:00.003Z"
+}
