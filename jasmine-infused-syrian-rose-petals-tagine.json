@@ -1,0 +1,81 @@
+{
+  "slug": "jasmine-infused-syrian-rose-petals-tagine",
+  "title": "Syrian Tagine with Jasmine Petals",
+  "description": "A traditional Middle Eastern-inspired dish featuring the delicate flavors of rose and jasmine, perfect for a warm evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian jasmine tea",
+      "amount": "2 cups",
+      "notes": "strongly brewed"
+    },
+    {
+      "name": "Rose petal jam",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Syrian olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing chicken"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Infused rose water",
+      "amount": "1 tsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "or make your own with cinnamon, ginger, and cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a small bowl, mix together rose petal jam and infused rose water (if using).",
+    "Brush the chicken with olive oil and season with salt and black pepper.",
+    "Place the chicken in a baking dish and spoon the rose petal mixture over the top.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the chicken is cooked through.",
+    "While the chicken is baking, prepare the jasmine tea by steeping the tea leaves in boiling water for 5-7 minutes.",
+    "Strain the tea and discard the leaves.",
+    "Serve the chicken with the jasmine tea poured over the top, garnished with additional rose petals if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "chicken",
+    "rose",
+    "jasmine",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jasmine-infused-syrian-rose-petals-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:37:44.789Z"
+}
