@@ -1,0 +1,65 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread",
+  "title": "Delicious Polish Rye Flatbread",
+  "description": "A hearty flatbread recipe using Polish rye flour, perfect for a quick snack or light meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish rye flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jucy juice (water)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Combine Polish rye flour, salt, and flatbread in a bowl.",
+    "Gradually add jucy juice (water) to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 4 equal portions.",
+    "Roll each portion into a ball and flatten slightly into a disk shape.",
+    "Brush the tops with olive oil.",
+    "Bake for 15-20 minutes, or until crispy and golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "rye",
+    "flatbread",
+    "snack",
+    "gluten"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:22:45.172Z"
+}
