@@ -1,0 +1,54 @@
+{
+  "slug": "jgooey-donabe-rice",
+  "title": "Japanese-Style Donabe Rice Bowl",
+  "description": "A simple and flavorful Japanese-inspired dish made with donabe and jgooey. Serve over a bed of steaming hot rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Donabe",
+      "amount": "1"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jgooey",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the donabe and heat it over medium-high heat.",
+    "Add the jgooey to the donabe and cook until lightly browned.",
+    "Add the rice to the donabe and stir to combine.",
+    "Pour in 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10 minutes.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "donabe",
+    "japanese",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jgooey-donabe-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:49:28.436Z"
+}
