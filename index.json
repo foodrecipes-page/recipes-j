@@ -6386,31 +6386,27 @@
   },
   {
     "slug": "jgooey-donabe-rice",
-    "title": "JGooey Donabe Rice",
+    "title": "Japanese-Style Donabe Rice Bowl",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "goosey",
-      "herbal",
-      "jamaican"
+      "donabe",
+      "japanese",
+      "rice"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 80,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
     "slug": "jgoozy-irish-raisin-pudding",
-    "title": "JGoozy Irish Raisin Pudding",
+    "title": "Irish Pudding",
     "tags": [
-      "chocolate",
-      "cocoa",
-      "dessert",
       "irish",
-      "low-fat",
-      "whiskey"
+      "dessert",
+      "pudding",
+      "raisins"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -12299,17 +12295,15 @@
   },
   {
     "slug": "juicy-fluffy-dutch-lamb-stew",
-    "title": "Juicy Fluffy Dutch Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "dutch-cuisine",
-      "lamb-recipes",
-      "paleo-friendly",
-      "pressure-cooker",
-      "stew-recipes",
-      "traditional-dishes"
+      "lamb",
+      "stew",
+      "dutch",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 120,
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
