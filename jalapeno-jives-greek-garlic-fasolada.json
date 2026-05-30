@@ -1,0 +1,76 @@
+{
+  "slug": "jalapeno-jives-greek-garlic-fasolada",
+  "title": "Spicy Fasolada Stew",
+  "description": "A hearty, spicy stew made with fasolada and a kick of jalapeno. This traditional Greek-inspired dish is perfect for a cozy dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fasolada",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jalapeno",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the jalapeno and sauté for another minute.",
+    "Add the tomato paste and cook for 1-2 minutes.",
+    "Add the fasolada, vegetable broth, salt, and pepper. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "stew",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jalapeno-jives-greek-garlic-fasolada",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:39:10.271Z"
+}
