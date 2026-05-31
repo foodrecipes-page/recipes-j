@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-tangy-canadian-pork-grill",
+  "title": "Canadian Pork Chops with Juicy Glaze",
+  "description": "A sweet and savory Canadian-inspired dish featuring juicy pork chops grilled to perfection with a tangy glaze.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "grill",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1/4 cup",
+      "notes": "grade A"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "tangy"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "add depth"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with salt, pepper, and garlic powder.",
+    "Grill pork chops for 5-6 minutes per side, or until cooked to desired doneness.",
+    "While pork is cooking, mix together maple syrup, apple cider vinegar, and Dijon mustard in a small bowl.",
+    "Brush glaze on pork chops during last 2 minutes of cooking.",
+    "Let pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "grill",
+    "pork",
+    "glaze",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tangy-canadian-pork-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:45:08.121Z"
+}
