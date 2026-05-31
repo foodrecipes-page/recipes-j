@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-spiced-malaysian-tomato-stir-fry",
+  "title": "Malaysian-Style Stir Fry",
+  "description": "A flavorful and quick stir fry dish inspired by the flavors of Malaysia. This recipe combines juicy chicken with a blend of spices and the natural sweetness of tomatoes.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "juicy stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "spiced oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the spiced oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic and onion to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the diced tomatoes to the skillet and cook for an additional 2-3 minutes.",
+    "Return the chicken to the skillet and stir in the juicy stir fry sauce.",
+    "Cook for an additional 1-2 minutes until the sauce has thickened slightly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "stir-fry",
+    "chicken",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spiced-malaysian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:48:42.918Z"
+}
