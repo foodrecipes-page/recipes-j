@@ -1,0 +1,61 @@
+{
+  "slug": "jubilant-syrian-rhubarb-soup",
+  "title": "Rhubarb Jubilant Soup",
+  "description": "A sweet and tangy soup made with rhubarb and jubilant flavors, perfect for a warm evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Rhubarb",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Syrian Soup Mix",
+      "amount": "1 package",
+      "notes": "follow package instructions for seasoning"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "chicken or vegetable broth can be used"
+    }
+  ],
+  "instructions": [
+    "Heat the Syrian Soup Mix in a large pot according to the package instructions.",
+    "Add the cut rhubarb to the pot and stir to combine.",
+    "Add the vegetable broth and jubilant to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "rhubarb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-syrian-rhubarb-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:07:50.119Z"
+}
