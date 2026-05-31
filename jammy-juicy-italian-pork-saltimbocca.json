@@ -1,0 +1,85 @@
+{
+  "slug": "jammy-juicy-italian-pork-saltimbocca",
+  "title": "Braised Pork Saltimbocca with Italian Jammy Onions",
+  "description": "A hearty, comforting dish featuring tender pork, sweet jammy onions, and a hint of Italian flair.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "italian jammy onions",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh sage",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "saltimbocca prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "250 ml",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C (300°F).",
+    "Season the pork shoulder with salt and black pepper.",
+    "In a large Dutch oven, brown the pork shoulder on all sides over medium-high heat.",
+    "Add the sliced jammy onions and cook until caramelized, stirring occasionally.",
+    "Add the chopped sage and cook for 1 minute.",
+    "Add the white wine and beef broth, scraping up any browned bits from the bottom of the pan.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the pork for 2.5 hours, or until tender.",
+    "Remove the pot from the oven and top the pork with thinly sliced prosciutto.",
+    "Return the pot to the stovetop and simmer over low heat until the prosciutto is crispy.",
+    "Serve the pork with the jammy onions and sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "braised-pork",
+    "saltimbocca"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-juicy-italian-pork-saltimbocca",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:09:34.195Z"
+}
