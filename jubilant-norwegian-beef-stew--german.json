@@ -1,0 +1,80 @@
+{
+  "slug": "jubilant-norwegian-beef-stew--german",
+  "title": "Sauerbraten Beef Stew",
+  "description": "A traditional German beef stew marinated in a mixture of vinegar, water, and spices.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 lbs beef pot roast",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/2 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine water, vinegar, brown sugar, salt, black pepper, and juniper berries.",
+    "2. Add the beef to the marinade and refrigerate for at least 2 days.",
+    "3. Preheat oven to 300°F (150°C).",
+    "4. Remove the beef from the marinade and place in a Dutch oven.",
+    "5. Add the beef broth to the pot and cover.",
+    "6. Place the pot in the preheated oven and cook for 3-4 hours.",
+    "7. Remove the pot from the oven and let cool slightly.",
+    "8. Slice the beef against the grain and serve with the juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:47.301Z"
+}
