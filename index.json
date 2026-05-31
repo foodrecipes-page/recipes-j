@@ -3971,17 +3971,16 @@
   },
   {
     "slug": "jazzy-light-indian-shrimp-curry",
-    "title": "Jazzy Light Indian Shrimp Curry",
+    "title": "Shrimp Curry",
     "tags": [
+      "shrimp",
       "curry",
-      "high-protein",
       "indian",
-      "one-pan",
       "seafood",
-      "weeknight"
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
