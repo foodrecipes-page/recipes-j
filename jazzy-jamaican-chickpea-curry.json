@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-jamaican-chickpea-curry",
+  "title": "Jamaican Chickpea Curry",
+  "description": "A flavorful and spicy Jamaican-inspired chickpea curry dish. Serve over rice or with naan bread.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "curry",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add diced jazzy and cook until tender, about 5 minutes.",
+    "Add chickpea, curry powder, and curry. Stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve over rice or with naan bread.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Cooking time can be reduced by using pre-cooked chickpea or curry powder.",
+    "Adjust spice level to taste by adding more or less curry powder."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "curry",
+    "chickpea",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-jamaican-chickpea-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:07:05.677Z"
+}
