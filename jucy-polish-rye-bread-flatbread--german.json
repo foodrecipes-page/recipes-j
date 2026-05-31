@@ -1,0 +1,91 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--german",
+  "title": "Schweinshaxe mit Sauerkraut und Kartoffeln",
+  "description": "A classic German recipe featuring roasted pork knuckle, sauerkraut, and potatoes. Perfect for a hearty dinner.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "1",
+      "notes": "about 1 kg"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4-5",
+      "notes": "any type of potato, peeled"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "optional",
+      "notes": "for serving"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rinse the pork knuckle and pat it dry with paper towels.",
+    "Season the pork knuckle with salt, black pepper, and caraway seeds.",
+    "Heat a skillet over medium-high heat and sear the pork knuckle until browned on all sides.",
+    "Transfer the pork knuckle to a baking sheet and roast in the preheated oven for 20 minutes.",
+    "While the pork is roasting, heat a large skillet over medium heat and add the chopped onions.",
+    "Sauté the onions until softened, then add the sauerkraut and cook until heated through.",
+    "Add the sliced potatoes to the skillet and stir to combine with the sauerkraut and onions.",
+    "Continue roasting the pork knuckle in the oven for another 20-25 minutes, or until it reaches an internal temperature of 63°C (145°F).",
+    "Remove the pork knuckle from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the sliced pork knuckle with the sauerkraut and potatoes, and offer rye bread or flatbread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "pork",
+    "sauerkraut",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:12:41.883Z"
+}
