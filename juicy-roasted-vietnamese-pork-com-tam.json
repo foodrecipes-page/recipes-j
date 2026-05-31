@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-roasted-vietnamese-pork-com-tam",
+  "title": "Vietnamese-Style Roasted Pork with Com Tam Rice",
+  "description": "A flavorful and aromatic pork dish served with a side of traditional Vietnamese com tam rice.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 (2 pounds)",
+      "notes": "fat side up"
+    },
+    {
+      "name": "com tam rice",
+      "amount": "2 cups",
+      "notes": "medium-grain rice"
+    },
+    {
+      "name": "juicy fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular fish sauce"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves",
+      "notes": "mashed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rub the pork shoulder with salt, black pepper, and roasted garlic.",
+    "Place the pork shoulder on a baking sheet, fat side up.",
+    "Roast the pork in the preheated oven for 30 minutes.",
+    "Reduce oven temperature to 300°F (150°C).",
+    "Continue roasting the pork for an additional 1 hour and 30 minutes, or until tender and caramelized.",
+    "Meanwhile, cook the com tam rice according to package instructions.",
+    "In a small saucepan, combine fish sauce, sugar, and 1 tablespoon of water.",
+    "Bring the mixture to a boil over medium-high heat, then reduce heat to medium-low and simmer for 5 minutes.",
+    "Once the pork is done, let it rest for 10 minutes before slicing.",
+    "Serve the sliced pork with com tam rice, drizzled with the fish sauce sauce and garnished with green onions, cilantro, and toasted sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "rice",
+    "garlic",
+    "fish-sauce",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-vietnamese-pork-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:05:16.570Z"
+}
