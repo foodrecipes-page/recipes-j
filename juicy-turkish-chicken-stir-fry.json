@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-turkish-chicken-stir-fry",
+  "title": "Crispy Chicken Stir Fry",
+  "description": "A quick and flavorful stir fry made with juicy chicken, crispy vegetables, and a hint of Turkish spice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bell peppers (any color)",
+      "amount": "2"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cooking rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "5. Add the bell peppers, onions, and garlic to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "6. Add the Turkish red pepper flakes to the skillet and cook for 1 minute.",
+    "7. Stir in the cooked chicken and cook until heated through.",
+    "8. Season with salt and black pepper to taste.",
+    "9. Serve the chicken and vegetables over cooked rice.",
+    "10. Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "turkish",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-turkish-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:19:48.504Z"
+}
