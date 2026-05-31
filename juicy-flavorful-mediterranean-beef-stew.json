@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-flavorful-mediterranean-beef-stew",
+  "title": "Mediterranean Beef Stew",
+  "description": "A hearty, flavorful beef stew infused with the bright, sunny flavors of the Mediterranean. Perfect for a chilly evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "Red wine (optional)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the Mediterranean seasoning to the pot and cook for 1 minute.",
+    "Add the beef broth, diced tomatoes, and red wine (if using) to the pot.",
+    "Return the beef to the pot and bring the stew to a simmer.",
+    "Reduce the heat to low and cook, covered, until the beef is tender, about 2 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mediterranean",
+    "stew",
+    "lamb-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flavorful-mediterranean-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:32:51.734Z"
+}
