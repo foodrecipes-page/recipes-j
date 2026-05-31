@@ -18578,5 +18578,18 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--italian",
+    "title": "Italian-Style Flatbread",
+    "tags": [
+      "italian",
+      "flatbread",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "j"
   }
 ]
