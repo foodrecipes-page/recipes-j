@@ -1,0 +1,77 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--italian",
+  "title": "Italian-Style Flatbread",
+  "description": "A crispy and flavorful flatbread inspired by Italian cuisine, perfect for snacking or as a side dish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "polish rye bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "italian flatbread",
+      "amount": "8-10 slices",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Slice the polish rye bread into 1-inch thick slices.",
+    "Brush the flatbread slices with olive oil and sprinkle with minced garlic, chopped rosemary, salt, and pepper.",
+    "Place the flatbread slices on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until the flatbread is crispy and golden brown.",
+    "Meanwhile, toast the polish rye bread slices until lightly browned.",
+    "To assemble, place a toasted polish rye bread slice on top of each flatbread slice.",
+    "Drizzle with additional olive oil if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "flatbread",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:19:09.268Z"
+}
