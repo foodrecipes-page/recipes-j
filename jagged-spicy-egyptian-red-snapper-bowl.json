@@ -1,0 +1,99 @@
+{
+  "slug": "jagged-spicy-egyptian-red-snapper-bowl",
+  "title": "Egyptian Red Snapper Bowl",
+  "description": "A flavorful and spicy bowl dish inspired by Egyptian cuisine, featuring pan-seared snapper, served with a variety of colorful vegetables and a side of tangy sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4 pieces (6 oz each)",
+      "notes": "Fresh snapper fillets, skin removed"
+    },
+    {
+      "name": "Jagged red pepper",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Egyptian chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1/4 head, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bowl-shaped pita",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the snapper fillets with Egyptian cumin, salt, and pepper.",
+    "3. Heat 1 tbsp of oil in an oven-safe skillet over medium-high heat.",
+    "4. Add the snapper fillets to the skillet, skin side up, and sear for 2-3 minutes.",
+    "5. Flip the snapper over and transfer the skillet to the oven.",
+    "6. Bake the snapper for 8-10 minutes, or until cooked through.",
+    "7. While the snapper is cooking, heat the remaining 1 tbsp of oil in a separate skillet over medium heat.",
+    "8. Add the sliced red onion, red cabbage, and red bell pepper to the skillet.",
+    "9. Cook the vegetables for 5-7 minutes, or until tender.",
+    "10. Stir in the spicy Egyptian chili flakes and cook for an additional minute.",
+    "11. Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "12. Assemble the bowls by placing a piece of cooked snapper on each pita, followed by a scoop of the vegetable mixture and a drizzle of lemon juice and garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "snapper",
+    "fish",
+    "bowl",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-spicy-egyptian-red-snapper-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:16:42.981Z"
+}
