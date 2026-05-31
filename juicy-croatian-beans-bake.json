@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-croatian-beans-bake",
+  "title": "Pan-Seared Croation Beans",
+  "description": "A simple and flavorful dish made with Croatian beans baked in the oven with juicy tomatoes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "2 tbsp olive oil",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp dried",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the Croatian beans and pick out any debris or stones. Drain and set aside.",
+    "Cut the juicy tomatoes in half and place them in a baking dish.",
+    "Add the olive oil, garlic, salt, and black pepper to the baking dish and toss to combine.",
+    "Add the Croatian beans to the baking dish and toss to combine.",
+    "Sprinkle the dried oregano over the top of the beans and tomatoes.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the beans and tomatoes are tender.",
+    "Serve hot, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "mediterranean",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-croatian-beans-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:47.268Z"
+}
