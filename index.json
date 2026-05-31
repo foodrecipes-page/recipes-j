@@ -2280,17 +2280,14 @@
   },
   {
     "slug": "jammy-juicy-italian-pork-saltimbocca",
-    "title": "Jammy Juicy Italian Pork Saltimbocca",
+    "title": "Braised Pork Saltimbocca with Italian Jammy Onions",
     "tags": [
-      "brunch-ideas",
-      "grilled-pork",
-      "italian-food",
-      "jammy-sauce",
-      "mediterranean-diet",
-      "special-occasion"
+      "italian",
+      "braised-pork",
+      "saltimbocca"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
@@ -3827,16 +3824,15 @@
   },
   {
     "slug": "jazzy-jamaican-chickpea-curry",
-    "title": "Jazzy Jamaican Chickpea Curry",
+    "title": "Jamaican Chickpea Curry",
     "tags": [
-      "chickpea-recipes",
-      "curry-dishes",
-      "gluten-free-options",
-      "jamaican-cuisine",
-      "vegetarian-meals"
+      "jamaican",
+      "curry",
+      "chickpea",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -5539,16 +5535,14 @@
   },
   {
     "slug": "jewel-toned-egyptian-challots-tagine",
-    "title": "Jewel Toned Egyptian Challots Tagine",
+    "title": "Egyptian Tagine with Jewel Toned Vegetables",
     "tags": [
-      "egyptian-cuisine",
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "vegetarian",
+      "north-african",
+      "stew",
+      "couscous"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "j"
   },
@@ -7862,17 +7856,16 @@
   },
   {
     "slug": "jubilant-crispy-german-sausage-casserole",
-    "title": "Jubilant Crispy German Sausage Casserole",
+    "title": "German Sausage Casserole",
     "tags": [
+      "german",
+      "sausage",
       "casserole",
       "comfort-food",
-      "flexitarian",
-      "german-food",
-      "one-pan",
-      "weeknight"
+      "dinner-ideas"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -9206,16 +9199,14 @@
   },
   {
     "slug": "jubilant-tunisian-parma-ham-flatbread",
-    "title": "Jubilant Tunisian Parma Ham Flatbread",
+    "title": "Tunisian Ham Flatbreads",
     "tags": [
-      "air-fryer-recipes",
-      "easy-appetizers",
-      "gluten-free-snacks",
-      "sattvic-diet",
-      "tunisian-cuisine"
+      "mediterranean",
+      "ham",
+      "flatbread"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 17,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -12214,14 +12205,12 @@
   },
   {
     "slug": "juicy-flavorful-mediterranean-beef-stew",
-    "title": "Juicy Flavorful Mediterranean Beef Stew",
+    "title": "Mediterranean Beef Stew",
     "tags": [
-      "anti-inflammatory",
       "beef",
-      "comfort-food",
-      "easy-weeknight",
       "mediterranean",
-      "tomatoes"
+      "stew",
+      "lamb-free"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 170,
@@ -17408,17 +17397,15 @@
   },
   {
     "slug": "juicy-turkish-chicken-stir-fry",
-    "title": "Juicy Turkish Chicken Stir-fry",
+    "title": "Crispy Chicken Stir Fry",
     "tags": [
-      "high-protein",
-      "meal-prep",
-      "mustardy",
-      "su-boregi",
+      "chicken",
+      "stir-fry",
       "turkish",
-      "weeknight"
+      "quick-dinner"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 22,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
