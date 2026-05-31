@@ -1,0 +1,84 @@
+{
+  "slug": "jubilant-norwegian-beef-stew--thai",
+  "title": "Norwegian Beef Stew with Thai Twist",
+  "description": "A hearty and flavorful stew combining Norwegian beef with Thai spices and jubilant vegetables. This dish is perfect for a cold winter evening.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian beef stew meat",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Jubilant bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Stew beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and bell peppers to pot and cook until tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add curry paste and cook for 1 minute, until fragrant.",
+    "Add fish sauce, brown sugar, and beef broth. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until beef is tender.",
+    "Stir in coconut milk and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "beef",
+    "stew",
+    "thai",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-beef-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:29.010Z"
+}
