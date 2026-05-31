@@ -1,0 +1,84 @@
+{
+  "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--indian",
+  "title": "Thai-Style Chicken Korma",
+  "description": "A rich and creamy Indian-inspired dish made with marinated chicken and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Jeweled northern gai",
+      "amount": "2 cups",
+      "notes": "Mixed greens"
+    },
+    {
+      "name": "Mun thai curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kao velvety coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of 1 tablespoon of the curry paste, 1 tablespoon of the coconut milk, and 1 tablespoon of the cumin for 30 minutes.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat. Remove the chicken from the marinade and cook until browned on both sides and cooked through.",
+    "Add the remaining 1 tablespoon of curry paste and cook for 1 minute.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the cumin and coriander and cook for 1 minute.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Add the chicken back to the skillet and cook for 2-3 minutes or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken and sauce over the mixed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-velvety-northern-thai-chicken-kao-mun-gai--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:22:17.154Z"
+}
