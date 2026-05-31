@@ -1,0 +1,71 @@
+{
+  "slug": "jarring-miso-portuguese-burrata-fondue",
+  "title": "Portuguese Miso Fondue",
+  "description": "A unique fusion of Portuguese and Japanese flavors in a delicious and easy-to-make fondue. Perfect for a fun dinner party or a cozy night in.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese cheese (Queijo de Cabra)",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Bread (Portuguese bread or baguette)",
+      "amount": "1 loaf, cut into cubes",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the shredded cheese in a saucepan over medium heat until melted and smooth.",
+    "Add the miso paste and stir until well combined.",
+    "Cut the burrata cheese into small pieces and add to the cheese mixture.",
+    "Continue heating until the cheese is melted and creamy.",
+    "Transfer the fondue to a fondue pot or a small ceramic bowl.",
+    "Serve with cubed bread and garnish with chopped parsley.",
+    "Dip bread into the fondue until coated, then enjoy!",
+    "Repeat the process until all bread is coated and fondue is gone.",
+    "Serve immediately and enjoy with a fun dinner party or cozy night in.",
+    "Optional: Add a splash of wine or beer to the fondue for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "miso",
+    "fondue",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-miso-portuguese-burrata-fondue",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:52:27.733Z"
+}
