@@ -1,0 +1,65 @@
+{
+  "slug": "jubilant-uruguayan-red-onion-bowl",
+  "title": "Jubilant Uruguayan Onion Bowl",
+  "description": "A hearty bowl filled with caramelized onions and seasoned with jubilant spices, inspired by the flavors of Uruguay.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan red onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Jubilant seasoning blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-low heat.",
+    "Add 1 tablespoon of oil and cook the sliced onion for 20-25 minutes, stirring occasionally, until caramelized.",
+    "Add the jubilant seasoning blend, red bell pepper, and garlic to the skillet and cook for an additional 5 minutes.",
+    "Serve the onion mixture in bowls and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "onion",
+    "uruguayan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-uruguayan-red-onion-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:14.473Z"
+}
