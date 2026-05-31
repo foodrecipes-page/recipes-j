@@ -2162,18 +2162,15 @@
   },
   {
     "slug": "jammy-fluffy-turkish-lentil-stew",
-    "title": "Jammy Fluffy Turkish Lentil Stew",
+    "title": "Turkish Lentil Stew",
     "tags": [
-      "fluffy",
-      "jammy",
+      "stew",
       "lentil",
-      "meal-prep",
-      "satvik-friendly",
       "turkish",
-      "vegan"
+      "vegetarian"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 45,
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -9276,17 +9273,15 @@
   },
   {
     "slug": "jubilant-uruguayan-red-onion-bowl",
-    "title": "Jubilant Uruguayan Red Onion Bowl",
+    "title": "Jubilant Uruguayan Onion Bowl",
     "tags": [
-      "dolsot-stone-bowl",
-      "festive",
-      "satvik-friendly",
-      "uruguayan-cuisine",
-      "vegan",
+      "onion",
+      "uruguayan",
+      "gluten-free",
       "vegetarian"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -18480,6 +18475,18 @@
     ],
     "cuisine": "mexican (poblano)",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-norwegian-beef-stew--german",
+    "title": "Sauerbraten Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 260,
     "shard": "j"
   }
 ]
