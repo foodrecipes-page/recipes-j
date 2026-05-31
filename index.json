@@ -14466,14 +14466,13 @@
   },
   {
     "slug": "juicy-nutty-moroccan-chickpea-tagine",
-    "title": "Juicy Nutty Moroccan Chickpea Tagine",
+    "title": "Moroccan Chickpea Tagine",
     "tags": [
-      "chickpea-recipes",
-      "macrobiotic-friendly",
-      "meal-prep",
-      "moroccan-cuisine",
-      "nutty-flavors",
-      "one-pot"
+      "moroccan",
+      "chickpea",
+      "tagine",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
@@ -15183,17 +15182,17 @@
   },
   {
     "slug": "juicy-roasted-vietnamese-pork-com-tam",
-    "title": "Juicy Roasted Vietnamese Pork Com Tam",
+    "title": "Vietnamese-Style Roasted Pork with Com Tam Rice",
     "tags": [
-      "com-tam",
-      "flexitarian-friendly",
-      "pork-recipes",
-      "roasted-vegetables",
-      "spicy-food",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "pork",
+      "rice",
+      "garlic",
+      "fish-sauce",
+      "sesame-seeds"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 90,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {
@@ -18487,6 +18486,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 260,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-norwegian-beef-stew--thai",
+    "title": "Norwegian Beef Stew with Thai Twist",
+    "tags": [
+      "norwegian",
+      "beef",
+      "stew",
+      "thai",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-norwegian-beef-stew--gluten-free",
+    "title": "Norwegian Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 140,
+    "shard": "j"
+  },
+  {
+    "slug": "jgooey-donabe-rice--keto",
+    "title": "Keto Donabe Chicken Bowl",
+    "tags": [
+      "keto",
+      "low-carb",
+      "chicken"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
