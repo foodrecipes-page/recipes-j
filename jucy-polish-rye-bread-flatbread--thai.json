@@ -1,0 +1,69 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--thai",
+  "title": "Thai-Style Grilled Flatbread",
+  "description": "A simple and flavorful flatbread dish inspired by Thai cuisine, topped with juicy meat and spices.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish rye flatbread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Jucy meat (pork or chicken)",
+      "amount": "200g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush flatbread with sesame oil",
+    "Grill flatbread for 2-3 minutes per side, until crispy and slightly charred.",
+    "Meanwhile, heat a pan over medium-high heat.",
+    "Add jucy meat and cook until browned and cooked through.",
+    "Add fish sauce, sugar, and chili flakes to the pan and stir to combine.",
+    "To assemble the dish, place a piece of flatbread on a plate, top with a spoonful of the meat mixture, and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "grilled",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:12:38.431Z"
+}
