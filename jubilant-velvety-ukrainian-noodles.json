@@ -1,0 +1,56 @@
+{
+  "slug": "jubilant-velvety-ukrainian-noodles",
+  "title": "Velvety Ukrainian Noodle Delight",
+  "description": "A comforting and flavorful dish inspired by Ukrainian cuisine, featuring velvety sauce and delicious noodles.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Velvety Mushroom Sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Jubilant Herbs (parsley, dill)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the Ukrainian Noodles according to the package instructions.",
+    "In a separate pan, heat the Velvety Mushroom Sauce over medium heat.",
+    "Add Jubilant Herbs to the sauce and stir well.",
+    "Combine the cooked noodles and sauce in a serving dish.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "noodles",
+    "mushroom",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-velvety-ukrainian-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:49:42.302Z"
+}
