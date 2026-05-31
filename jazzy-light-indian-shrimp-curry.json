@@ -1,0 +1,97 @@
+{
+  "slug": "jazzy-light-indian-shrimp-curry",
+  "title": "Shrimp Curry",
+  "description": "A flavorful Indian-inspired shrimp curry made with a blend of spices and served with steamed basmati rice. This dish is a perfect combination of spicy and tangy flavors.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jazzy",
+      "amount": "2",
+      "notes": "for garnish"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "light",
+      "amount": "1/4 cup",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the cumin, coriander, turmeric, and garam masala. Cook for 1 minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the curry powder to the skillet and cook for 1 minute.",
+    "Add the chicken broth to the skillet and stir to combine.",
+    "Return the shrimp to the skillet and simmer until the sauce has thickened, about 2-3 minutes.",
+    "Season with salt to taste.",
+    "Garnish with fresh cilantro or scallions.",
+    "Serve over steamed basmati rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "curry",
+    "indian",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-light-indian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:13:38.436Z"
+}
