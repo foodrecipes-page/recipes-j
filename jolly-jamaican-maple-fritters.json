@@ -1,0 +1,77 @@
+{
+  "slug": "jolly-jamaican-maple-fritters",
+  "title": "Jamaican Maple Fritters",
+  "description": "Sweet and spicy Jamaican-inspired fritters with a hint of maple syrup, perfect as a dessert or snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "dessert",
+    "snack"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jolly rancher candies",
+      "amount": "1 cup, crushed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a large bowl, whisk together flour, jerk seasoning, baking powder, and salt.",
+    "3. In a separate bowl, whisk together milk and maple syrup.",
+    "4. Add dry ingredients to wet ingredients and mix until a smooth batter forms.",
+    "5. Fold in crushed Jolly Rancher candies.",
+    "6. Using a spoon, drop small balls of the batter into the hot oil.",
+    "7. Fry fritters for 2-3 minutes or until golden brown.",
+    "8. Drain fritters on paper towels and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "jamaican",
+    "maple",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jolly-jamaican-maple-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:27:26.426Z"
+}
