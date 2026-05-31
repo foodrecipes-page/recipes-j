@@ -1,0 +1,78 @@
+{
+  "slug": "jgooey-donabe-rice--keto",
+  "title": "Keto Donabe Chicken Bowl",
+  "description": "A delicious and healthy keto bowl made with chicken, donabe, and rice.",
+  "cuisine": "Asian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Donabe",
+      "amount": "1",
+      "notes": "Rice cooker"
+    },
+    {
+      "name": "Rice",
+      "amount": "1/2 cup",
+      "notes": "Short grain rice, rinsed and drained"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy sauce (make sure it's sugar-free)",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the donabe and add 1 cup of water to it.",
+    "2. Add the rice to the donabe and cook according to the manufacturer's instructions.",
+    "3. In a pan, heat 1 tbsp of coconut oil over medium-high heat.",
+    "4. Add the chicken to the pan and cook until browned and cooked through, about 5-7 minutes.",
+    "5. In the same pan, add the remaining 1 tbsp of coconut oil and sauté the garlic until fragrant.",
+    "6. Add the cooked chicken back to the pan and stir in the soy sauce.",
+    "7. Cook for an additional 1-2 minutes to allow the flavors to meld.",
+    "8. To assemble the bowls, place a scoop of cooked rice in the bottom, followed by the chicken and sauce mixture.",
+    "9. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jgooey-donabe-rice--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:37.983Z"
+}
