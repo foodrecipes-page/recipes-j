@@ -1,0 +1,60 @@
+{
+  "slug": "jubilant-tunisian-parma-ham-flatbread",
+  "title": "Tunisian Ham Flatbreads",
+  "description": "A simple, flavorful flatbread recipe topped with tunisian ham, parma ham, and jubilant flair.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "6-8 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tunisian Ham",
+      "amount": "1/4 cup, diced",
+      "notes": "available at most deli counters"
+    },
+    {
+      "name": "Parma Ham",
+      "amount": "1/4 cup, diced",
+      "notes": "available at most deli counters"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "1 tsp",
+      "notes": "flavorful seasoning blend"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Bake flatbread slices for 5-7 minutes, or until crispy.",
+    "3. In a small bowl, mix together tunisian ham and parma ham.",
+    "4. Brush flatbread with olive oil and top with the ham mixture.",
+    "5. Sprinkle jubilant seasoning blend over the top.",
+    "6. Return to the oven for an additional 2-3 minutes, or until the flavors are combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "ham",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tunisian-parma-ham-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:56:15.051Z"
+}
