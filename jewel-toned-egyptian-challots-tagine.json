@@ -1,0 +1,98 @@
+{
+  "slug": "jewel-toned-egyptian-challots-tagine",
+  "title": "Egyptian Tagine with Jewel Toned Vegetables",
+  "description": "A flavorful and aromatic stew originating from North Africa, made with tender jewel toned vegetables and served over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "jewel",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "toned",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine or a large pot over medium heat.",
+    "Add the chopped onions and cook until they start to soften, about 3-4 minutes.",
+    "Add the chopped egyptian and jewel toned vegetables and cook for another 5 minutes.",
+    "Add the cumin, coriander, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the vegetables are tender.",
+    "Serve the stew over couscous.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-egyptian-challots-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:23:07.600Z"
+}
