@@ -1,0 +1,78 @@
+{
+  "slug": "jubilant-crispy-german-sausage-casserole",
+  "title": "German Sausage Casserole",
+  "description": "A hearty, comforting casserole filled with sausage and topped with a crispy jubilant crust.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "german beer",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "jubilant cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the sausage in a large skillet over medium-high heat, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion, carrots, and potatoes to the skillet and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the beer (if using) and bring to a simmer.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with the casserole and jubilant cheese.",
+    "Bake until the cheese is bubbly and golden brown, about 20 minutes.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with chopped fresh herbs, such as parsley or chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "casserole",
+    "comfort-food",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crispy-german-sausage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:02:36.296Z"
+}
