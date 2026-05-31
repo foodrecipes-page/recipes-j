@@ -6622,18 +6622,15 @@
   },
   {
     "slug": "jolly-jamaican-maple-fritters",
-    "title": "Jolly Jamaican Maple Fritters",
+    "title": "Jamaican Maple Fritters",
     "tags": [
-      "deep-fried",
-      "gluten-free",
-      "jamaican-cuisine",
-      "maple-syrup",
-      "midnight-cravings",
-      "scallop-shell",
-      "yeasty"
+      "fritters",
+      "jamaican",
+      "maple",
+      "dessert"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -16952,17 +16949,15 @@
   },
   {
     "slug": "juicy-syrian-chicken-kebabs",
-    "title": "Juicy Syrian Chicken Kebabs",
+    "title": "Syrian Chicken Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
+      "chicken",
+      "kebabs",
       "middle-eastern",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -18545,6 +18540,43 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--french",
+    "title": "French Baguette with Jucy and Polish Sausage",
+    "tags": [
+      "breakfast",
+      "sausages",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--thai",
+    "title": "Thai-Style Grilled Flatbread",
+    "tags": [
+      "thaifood",
+      "grilled",
+      "flatbread"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--german",
+    "title": "Schweinshaxe mit Sauerkraut und Kartoffeln",
+    "tags": [
+      "german",
+      "pork",
+      "sauerkraut",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "j"
   }
 ]
