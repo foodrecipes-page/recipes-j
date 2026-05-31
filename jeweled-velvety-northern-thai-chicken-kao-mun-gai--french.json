@@ -1,0 +1,90 @@
+{
+  "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--french",
+  "title": "French-Style Chicken in Velvety Mushroom Sauce",
+  "description": "A classic French dish featuring tender chicken in a rich and creamy velvety mushroom sauce, served with a side of northern-style jeweled vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "velvety mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "jeweled vegetables",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "kao powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "mun cheese",
+      "amount": "1/2 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "gai oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt, pepper, and kao powder (if using).",
+    "Heat gai oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes per side. Transfer to a baking dish.",
+    "Add the sliced jeweled vegetables to the skillet and cook until tender, about 5 minutes.",
+    "Add the velvety mushrooms to the skillet and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Stir in the mun cheese until melted and smooth. Season with black pepper to taste.",
+    "Pour the mushroom sauce over the chicken and transfer to the preheated oven.",
+    "Bake for 20-25 minutes, or until the chicken is cooked through and the sauce is bubbly.",
+    "Garnish with thai basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "mushroom",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-velvety-northern-thai-chicken-kao-mun-gai--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:22:52.480Z"
+}
