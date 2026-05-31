@@ -18521,5 +18521,30 @@
     "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--indian",
+    "title": "Thai-Style Chicken Korma",
+    "tags": [
+      "indian",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--french",
+    "title": "French-Style Chicken in Velvety Mushroom Sauce",
+    "tags": [
+      "french",
+      "chicken",
+      "mushroom",
+      "sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
