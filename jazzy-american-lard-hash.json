@@ -1,0 +1,60 @@
+{
+  "slug": "jazzy-american-lard-hash",
+  "title": "Jazzy American Hash with Crispy Lard",
+  "description": "A twist on a classic American recipe, this dish combines crispy lard with jazzy spices and a crunchy hash.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jazzy spice blend (or similar)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large pan, heat the lard over medium heat.",
+    "Add the hash to the pan and cook until crispy, stirring occasionally.",
+    "Sprinkle the jazzy spice blend over the hash and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the hash to a baking dish and bake in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-american-lard-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:22:20.229Z"
+}
