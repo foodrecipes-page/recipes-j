@@ -1,0 +1,88 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--french",
+  "title": "French Baguette with Jucy and Polish Sausage",
+  "description": "A classic French-inspired dish with jucy and polish sausage, served with crusty bread.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jucy sausage",
+      "amount": "1 pound",
+      "notes": "preferably French-style"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "1 baguette",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1/4 baguette",
+      "notes": "for serving"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the baguette in half lengthwise and place on a baking sheet.",
+    "Drizzle the top with butter and sprinkle with salt and pepper.",
+    "Bake for 10-12 minutes, or until lightly toasted.",
+    "Meanwhile, cook the jucy sausage in a skillet over medium-high heat, breaking up with a spoon as it cooks.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the sliced polish sausage to the skillet and cook until heated through.",
+    "To assemble the sandwiches, place a few slices of the jucy sausage on the bottom half of the baguette.",
+    "Top with a few slices of the polish sausage, some of the onion and garlic mixture, and finally the top half of the baguette.",
+    "Serve immediately and enjoy!",
+    "Alternatively, serve the sausage and onion mixture on top of the flatbread for a more rustic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sausages",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:12:35.000Z"
+}
