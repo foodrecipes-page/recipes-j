@@ -9279,17 +9279,16 @@
   },
   {
     "slug": "jubilant-velvety-ukrainian-noodles",
-    "title": "Jubilant Velvety Ukrainian Noodles",
+    "title": "Velvety Ukrainian Noodle Delight",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "one-pot",
-      "snack-ideas",
-      "stone-bowl-recipes",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "vegetarian",
+      "noodles",
+      "mushroom",
+      "herbs"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -16419,14 +16418,15 @@
   },
   {
     "slug": "juicy-spiced-malaysian-tomato-stir-fry",
-    "title": "Juicy Spiced Malaysian Tomato Stir-fry",
+    "title": "Malaysian-Style Stir Fry",
     "tags": [
       "malaysian",
-      "spicy",
-      "stir-fry"
+      "stir-fry",
+      "chicken",
+      "tomato"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16991,16 +16991,16 @@
   },
   {
     "slug": "juicy-tangy-canadian-pork-grill",
-    "title": "Juicy Tangy Canadian Pork Grill",
+    "title": "Canadian Pork Chops with Juicy Glaze",
     "tags": [
-      "brunch",
       "canadian",
-      "flexitarian",
-      "robata-grill",
-      "weeknight"
+      "grill",
+      "pork",
+      "glaze",
+      "meat"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 17,
     "shard": "j"
   },
   {
