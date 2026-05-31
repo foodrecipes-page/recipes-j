@@ -1,0 +1,82 @@
+{
+  "slug": "jerusalem-ferment-bliss",
+  "title": "Jerusalem Bliss Flatbread",
+  "description": "A simple flatbread infused with the flavors of Jerusalem and topped with a tangy bliss sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jerusalem flour",
+      "amount": "1 1/2 cups",
+      "notes": "You can substitute with regular flour if needed."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ferment",
+      "amount": "1 tablespoon",
+      "notes": " Active dry yeast or fermented flour can be used."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Bliss sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Jerusalem flour, salt, and ferment.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Place the dough in a greased bowl, cover, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 2-3 equal portions, depending on desired flatbread size.",
+    "Roll out each portion into a thin circle.",
+    "Brush with olive oil and cook for 1-2 minutes on each side.",
+    "Transfer the flatbreads to a serving plate.",
+    "Drizzle with bliss sauce and garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jerusalem-bliss-flatbread",
+    "middle-eastern-cuisine",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerusalem-ferment-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:42:08.869Z"
+}
