@@ -2869,18 +2869,16 @@
   },
   {
     "slug": "jarring-miso-portuguese-burrata-fondue",
-    "title": "Jarring Miso Portuguese Burrata Fondue",
+    "title": "Portuguese Miso Fondue",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "portuguese-food",
-      "weeknight"
+      "portuguese",
+      "miso",
+      "fondue",
+      "cheese",
+      "dinner"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -5328,14 +5326,15 @@
   },
   {
     "slug": "jerusalem-ferment-bliss",
-    "title": "Jerusalem Ferment Bliss",
+    "title": "Jerusalem Bliss Flatbread",
     "tags": [
-      "thai",
-      "jerusalem-artichokes",
-      "ferment"
+      "jerusalem-bliss-flatbread",
+      "middle-eastern-cuisine",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
