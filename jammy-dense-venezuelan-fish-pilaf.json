@@ -1,0 +1,70 @@
+{
+  "slug": "jammy-dense-venezuelan-fish-pilaf",
+  "title": "Pan-Seared Fish with Pilaf and Jammy Salsa",
+  "description": "A flavorful and easy-to-make dish featuring pan-seared fish served with a side of pilaf and a sweet and tangy jammy salsa.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4-6)",
+      "amount": "4-6",
+      "notes": "Choose a mild-flavored fish such as tilapia or cod"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Jammy salsa",
+      "amount": "1/2 cup",
+      "notes": "Made with jammy, dense, and venezuelan ingredients"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the fish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the olive oil in an oven-safe pan over medium-high heat.",
+    "Sear the fish fillets for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the pan to the oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "While the fish is cooking, cook the pilaf according to package instructions.",
+    "To make the jammy salsa, combine the jammy, dense, and venezuelan ingredients in a bowl.",
+    "Stir to combine and adjust the seasoning as needed.",
+    "Serve the pan-seared fish with a side of pilaf and jammy salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "fish",
+    "salsa",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-dense-venezuelan-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:04:11.909Z"
+}
