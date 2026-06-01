@@ -1,0 +1,80 @@
+{
+  "slug": "jazzy-smoky-valencian-gambas-paella",
+  "title": "Valencian Paella with Smoky Flavor",
+  "description": "A classic Spanish paella dish with a smoky twist, combining the flavors of valencian rice with a smoky spice blend and succulent gambas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Valencian rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoky spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jazzy olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Gambas",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the smoky spice blend and cook for 1 minute, until fragrant.",
+    "Add the gambas and cook for 2-3 minutes, until they start to turn pink.",
+    "Add the diced tomato and cook for 2 minutes, until it starts to soften.",
+    "Add the valencian rice and stir to coat with the oil and spice blend.",
+    "Add the water and salt, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the cover and cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-smoky-valencian-gambas-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:41:58.061Z"
+}
