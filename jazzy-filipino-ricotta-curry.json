@@ -1,0 +1,72 @@
+{
+  "slug": "jazzy-filipino-ricotta-curry",
+  "title": "Jazzy Filipino Curry Ricotta Bites",
+  "description": "A unique fusion of Filipino and Indian flavors, these crispy ricotta bites are filled with a savory jazzed-up curry.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "Whole milk ricotta"
+    },
+    {
+      "name": "Jazzy curry powder",
+      "amount": "2 tsp",
+      "notes": "Custom blend of Indian spices"
+    },
+    {
+      "name": "Filipino-style vinegar",
+      "amount": "1 tsp",
+      "notes": "Rice vinegar"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a bowl, mix ricotta cheese, curry powder, and vinegar.",
+    "Add minced garlic and season with salt to taste.",
+    "Using a spoon, drop small balls of the ricotta mixture into the hot oil.",
+    "Fry until golden brown, about 3-4 minutes.",
+    "Drain on paper towels and sprinkle with chopped cilantro.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "ricotta",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-filipino-ricotta-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:14:58.861Z"
+}
