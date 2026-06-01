@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-smoky-british-chickpeas-scones-clotted-cream",
+  "title": "British Clotted Cream Scones with Smoky Chickpea Topping",
+  "description": "A classic British scone recipe topped with a smoky chickpea mixture, perfect for a casual brunch or snack.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 15 oz can",
+      "notes": null
+    },
+    {
+      "name": "Juicy British beef broth",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Scones british dried fruit",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together flour, sugar, and a pinch of salt.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Stir in clotted cream until the dough just comes together.",
+    "Turn the dough out onto a floured surface and gently knead a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones. Gather the scraps, re-form the dough, and cut out additional scones.",
+    "Place the scones on the prepared baking sheet and bake for 18-20 minutes, or until golden brown.",
+    "While the scones are baking, combine chickpeas, smoked paprika, and beef broth in a bowl and stir until well combined.",
+    "Once the scones are done, let them cool for a few minutes before splitting them in half and topping with the chickpea mixture and a dollop of clotted cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "scones",
+    "chickpeas",
+    "clotted-cream",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-british-chickpeas-scones-clotted-cream",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:47:59.760Z"
+}
