@@ -726,16 +726,15 @@
   },
   {
     "slug": "jagged-juicy-canadian-corn-wrap",
-    "title": "Jagged Juicy Canadian Corn Wrap",
+    "title": "Canadian Corn Wrap",
     "tags": [
-      "canadian",
-      "corn-based",
-      "flexitarian",
-      "one-pot",
-      "weeknight"
+      "corn",
+      "bacon",
+      "wrap",
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "North American",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -2103,17 +2102,15 @@
   },
   {
     "slug": "jammy-dense-venezuelan-fish-pilaf",
-    "title": "Jammy Dense Venezuelan Fish Pilaf",
+    "title": "Pan-Seared Fish with Pilaf and Jammy Salsa",
     "tags": [
-      "brunch",
-      "grilled",
-      "one-pan",
-      "pescatarian",
-      "rice-bowl",
-      "venezuelan"
+      "latin-american",
+      "fish",
+      "salsa",
+      "pilaf"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -7458,17 +7455,15 @@
   },
   {
     "slug": "jubilant-algerian-chicken-burger",
-    "title": "Jubilant Algerian Chicken Burger",
+    "title": "Algerian Chicken Jubilant Burger",
     "tags": [
-      "breaded",
-      "chewy",
-      "crowd-pleaser",
-      "double-fry",
-      "halal",
-      "quick"
+      "algerian",
+      "burger",
+      "chicken",
+      "jubilant"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -17511,16 +17506,14 @@
   },
   {
     "slug": "juicy-umami-british-beef-stew",
-    "title": "Juicy Umami British Beef Stew",
+    "title": "Classic British Beef Stew",
     "tags": [
       "beef",
-      "stew",
       "british",
-      "umami",
-      "comfort food",
-      "one-pot"
+      "comfort-food",
+      "hearty"
     ],
-    "cuisine": "British",
+    "cuisine": "british",
     "totalTimeMin": 180,
     "shard": "j"
   },
@@ -17876,15 +17869,16 @@
   },
   {
     "slug": "juicy-welsh-cod-stew",
-    "title": "Juicy Welsh Cod Stew",
+    "title": "Welsh Stew with Cod",
     "tags": [
-      "british",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "cod",
+      "stew",
+      "welsch",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "Welsh",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18572,6 +18566,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-syrian-rhubarb-soup--vegan",
+    "title": "Vegan Jubilant Rhubarb Soup",
+    "tags": [
+      "vegan",
+      "soup",
+      "spring"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
