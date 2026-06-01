@@ -6053,17 +6053,15 @@
   },
   {
     "slug": "jeweled-savory-norwegian-lamb-stew",
-    "title": "Jeweled Savory Norwegian Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "kosher-friendly",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "pressure-cooker",
-      "romantic-dinners",
-      "winter-stews"
+      "lamb",
+      "stew",
+      "mediterranean",
+      "hearty"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
