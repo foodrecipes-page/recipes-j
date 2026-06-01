@@ -1,0 +1,60 @@
+{
+  "slug": "jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro",
+  "title": "Grape and Nut Ethiopian Breakfast",
+  "description": "A traditional Ethiopian-inspired breakfast dish made with sweet grapes and crunchy nuts, perfect for a morning pick-me-up.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grape",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Nut",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Cereal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cure",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the chopped grape and chopped nut.",
+    "Add the cereal and mix until well combined.",
+    "Add the jazzy and cure, and stir until a thick mixture forms.",
+    "Serve the mixture in a bowl and enjoy!",
+    "Optional: Add a splash of milk or honey to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "ethiopian-cuisine",
+    "healthy",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:32:05.659Z"
+}
