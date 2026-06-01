@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-welsh-cod-stew",
+  "title": "Welsh Stew with Cod",
+  "description": "A hearty Welsh-inspired stew featuring cod and a variety of vegetables. Perfect for a chilly evening.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh cod",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large Dutch oven over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the diced potato, sliced carrot, and chopped celery. Cook for an additional 5 minutes.",
+    "4. Add the garlic powder and thyme. Stir to combine.",
+    "5. Add the stew and bring to a boil.",
+    "6. Reduce heat to low and add the cod. Cover and simmer for 8-10 minutes, or until the cod is cooked through.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cod",
+    "stew",
+    "welsch",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-welsh-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:43:03.624Z"
+}
