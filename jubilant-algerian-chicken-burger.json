@@ -1,0 +1,90 @@
+{
+  "slug": "jubilant-algerian-chicken-burger",
+  "title": "Algerian Chicken Jubilant Burger",
+  "description": "A flavorful and spicy burger featuring algerian spices and served with a jubilant twist.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern or north african markets"
+    },
+    {
+      "name": "jubilant sauce",
+      "amount": "100ml",
+      "notes": "see jubilant sauce recipe for details"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": "gluten-free if required"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "burger cheese",
+      "amount": "4 slices",
+      "notes": "cheddar or mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breast with algerian spice blend and cook for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Spread a layer of jubilant sauce on the bottom bun.",
+    "Add a slice of cheese, a few slices of red onion, a few leaves of lettuce, and a tomato slice.",
+    "Add a cooked chicken breast on top of the vegetables.",
+    "Top with the remaining bun half.",
+    "Repeat for the remaining burgers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "burger",
+    "chicken",
+    "jubilant"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-algerian-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:50:27.019Z"
+}
