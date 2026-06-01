@@ -1,0 +1,78 @@
+{
+  "slug": "jagged-juicy-canadian-corn-wrap",
+  "title": "Canadian Corn Wrap",
+  "description": "A flavorful and crunchy wrap filled with juicy corn, crispy jagged bacon, and fresh vegetables, perfect for a quick snack or light meal.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 Canadian corn, husked and silked",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "6 jagged bacon strips",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "1 large tortilla wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup mayonnaise",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup shredded cheddar cheese",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup diced red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup diced fresh cilantro",
+      "amount": "1/2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the corn for 10-12 minutes, turning frequently, until slightly charred and tender.",
+    "3. Meanwhile, cook the jagged bacon in a pan over medium heat until crispy.",
+    "4. In a large bowl, whisk together the mayonnaise and shredded cheese.",
+    "5. Add the diced red onion and cilantro to the bowl and stir to combine.",
+    "6. Warm the tortilla wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap by spreading the mayonnaise mixture on the tortilla, followed by the grilled corn, crispy bacon, and a sprinkle of cheese.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "bacon",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-juicy-canadian-corn-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:05:10.619Z"
+}
