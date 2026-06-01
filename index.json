@@ -15905,18 +15905,17 @@
   },
   {
     "slug": "juicy-smoky-british-chickpeas-scones-clotted-cream",
-    "title": "Smoky British Chickpeas Scones Clotted Cream",
+    "title": "British Clotted Cream Scones with Smoky Chickpea Topping",
     "tags": [
       "british",
-      "clotted-cream",
-      "grilled",
-      "low-fat",
       "scones",
+      "chickpeas",
+      "clotted-cream",
       "smoky",
-      "vegetarian"
+      "snack"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "j"
   },
   {
@@ -18561,6 +18560,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-flavorful-mediterranean-beef-stew--japanese",
+    "title": "Japanese Beef Stew",
+    "tags": [
+      "japanese",
+      "beef",
+      "stew",
+      "mediterranean"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
     "shard": "j"
   }
 ]
