@@ -1,0 +1,82 @@
+{
+  "slug": "jeweled-savory-norwegian-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty and flavorful stew made with lamb and a blend of spices.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "savory jeweled potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "norwegian all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add flour and cook for 1 minute.",
+    "Add stew, onion, garlic, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 1/2 hours.",
+    "Add potatoes and continue to simmer for another 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "mediterranean",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-savory-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:30:51.833Z"
+}
