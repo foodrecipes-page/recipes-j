@@ -3524,18 +3524,15 @@
   },
   {
     "slug": "jazzy-filipino-ricotta-curry",
-    "title": "Jazzy Filipino Ricotta Curry",
+    "title": "Jazzy Filipino Curry Ricotta Bites",
     "tags": [
-      "bicol-express",
-      "fermented",
-      "hangover-cure",
-      "no-garlic",
-      "no-onion",
+      "curry",
       "ricotta",
-      "snappy"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -4382,16 +4379,15 @@
   },
   {
     "slug": "jazzy-smoky-valencian-gambas-paella",
-    "title": "jazzy smoky valencian gambas paella",
+    "title": "Valencian Paella with Smoky Flavor",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "spanish",
+      "paella",
+      "seafood",
+      "rice"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -13312,17 +13308,14 @@
   },
   {
     "slug": "juicy-jalapeno-peruvian-rocoto-relleno",
-    "title": "Juicy Jalapeño Peruvian Rocoto Relleno",
+    "title": "Peruvian Jalapeno Stuffed Relleno",
     "tags": [
-      "breakfast",
-      "gluten-free",
       "peruvian",
-      "rocoto-relleno",
-      "snack",
-      "vegan"
+      "vegetarian",
+      "stuffed-peppers"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
