@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-turkish-portobello-mushrooms-adana-kebap",
+  "title": "Turkish-Style Grilled Adana Kebap",
+  "description": "A flavorful and spicy grilled meat dish, inspired by the classic Turkish street food. Marinated in a mix of spices and yogurt, served with a side of grilled mushrooms.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Adana kebap mix (ground lamb and beef)",
+      "amount": "500g",
+      "notes": "You can also use ground beef or a combination of beef and lamb"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "200g",
+      "notes": "Plain or flavored, your choice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed or bottled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced or crushed"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Sweet or smoked, your choice"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Sliced or whole, your preference"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped or whole, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the Adana kebap mix, yogurt, olive oil, lemon juice, garlic, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat your grill to medium-high heat.",
+    "4. Remove the kebap mix from the refrigerator and let it sit at room temperature for 10-15 minutes.",
+    "5. Thread the kebap mix onto skewers, leaving a small space between each piece.",
+    "6. Brush the grill with olive oil to prevent sticking.",
+    "7. Grill the kebap skewers for 8-10 minutes per side, or until cooked through.",
+    "8. Meanwhile, brush the portobello mushrooms with olive oil and season with salt and pepper.",
+    "9. Grill the mushrooms for 3-5 minutes per side, or until tender and slightly charred.",
+    "10. Serve the grilled kebap skewers hot, garnished with chopped fresh parsley and a side of grilled mushrooms."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebap",
+    "adana-kebap",
+    "turkish-food",
+    "grilled-meat",
+    "portobello-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-turkish-portobello-mushrooms-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:49:56.199Z"
+}
