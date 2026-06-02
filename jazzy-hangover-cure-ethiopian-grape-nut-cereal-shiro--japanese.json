@@ -1,0 +1,81 @@
+{
+  "slug": "jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro--japanese",
+  "title": "Japanese Grape and Nut Shiro Muffin",
+  "description": "A unique Japanese-inspired breakfast muffin topped with a sweet grape and nut crunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shiro",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "jazzy",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cereal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "grape",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nut",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk together the eggs, shiro, jazzy, and cereal.",
+    "In a separate bowl, mix together the flour and sugar.",
+    "Add the dry ingredients to the wet ingredients and stir until combined.",
+    "Fold in the grapes and nuts.",
+    "Pour the batter into a greased muffin tin and bake for 20-25 minutes.",
+    "Let the muffins cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "muffin",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:40:03.507Z"
+}
