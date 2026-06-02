@@ -1,0 +1,69 @@
+{
+  "slug": "jewel-toned-flaky-spanish-dough-flatbread",
+  "title": "Spanish Flatbread Jewel Tacos",
+  "description": "A delicious flatbread taco recipe filled with flavorful jewel-toned ingredients. Perfect for a quick and easy lunch or dinner!",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "8-10 inches in diameter, 1/4 inch thick",
+      "notes": "Spanish flatbread or equivalent"
+    },
+    {
+      "name": "Jewel-Toned Pepper Salsa",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Spanish-Style Shredded Chicken",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Toned Cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Flaky Feta Cheese (optional)",
+      "amount": "1/4 cup crumbled",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out flatbread to 1/4 inch thickness and cut into taco shapes.",
+    "Bake flatbread for 10-12 minutes or until crispy.",
+    "Prepare Jewel-Toned Pepper Salsa by combining diced peppers, onion, cilantro, and lime juice.",
+    "Prepare Spanish-Style Shredded Chicken by cooking chicken breast with olive oil, garlic, and cumin.",
+    "Assemble tacos by placing a spoonful of chicken onto each flatbread and topping with salsa, cucumber, and feta cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "flatbread",
+    "tacos",
+    "pepper-salsa",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-flaky-spanish-dough-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:13:13.780Z"
+}
