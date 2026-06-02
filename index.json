@@ -13533,14 +13533,15 @@
   },
   {
     "slug": "juicy-lazy-sunday-broad-beans-stir-fry",
-    "title": "Juicy Lazy Sunday Broad Beans Stir-fry",
+    "title": "Lazy Sunday Beans",
     "tags": [
-      "lazy-sunday",
-      "earthly",
-      "juicy"
+      "beans",
+      "vegetarian",
+      "italian",
+      "comfort-food"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 18,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -17462,16 +17463,16 @@
   },
   {
     "slug": "juicy-turkish-portobello-mushrooms-adana-kebap",
-    "title": "Juicy Turkish Portobello Mushrooms Adana Kebap",
+    "title": "Turkish-Style Grilled Adana Kebap",
     "tags": [
-      "kebap-style",
-      "lazy-susan-spinner",
-      "plant-based",
-      "portobello-mushrooms",
-      "turkish-cuisine"
+      "kebap",
+      "adana-kebap",
+      "turkish-food",
+      "grilled-meat",
+      "portobello-mushrooms"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 42,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
