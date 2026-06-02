@@ -18598,5 +18598,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-lazy-sunday-broad-beans-stir-fry--gluten-free",
+    "title": "Sunday Beans Stir Fry",
+    "tags": [
+      "gluten-free",
+      "asian",
+      "stir-fry",
+      "beans"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
