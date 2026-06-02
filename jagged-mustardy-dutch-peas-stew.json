@@ -1,0 +1,68 @@
+{
+  "slug": "jagged-mustardy-dutch-peas-stew",
+  "title": "Dutch Stew with Jagged Peas",
+  "description": "A hearty Dutch stew recipe featuring jagged peas and a tangy mustard flavor. Perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jagged",
+      "amount": "2 cups, trimmed",
+      "notes": "Choose jagged peas for this recipe"
+    },
+    {
+      "name": "mustardy mustard",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality mustard for the best flavor"
+    },
+    {
+      "name": "dutch stew beef",
+      "amount": "1 lb",
+      "notes": "Optional, omit for a vegetarian version"
+    },
+    {
+      "name": "peas",
+      "amount": "2 cups, fresh or frozen",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Use a good-quality stew broth for this recipe"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium-high heat.",
+    "Add the Dutch stew beef (if using) and cook until browned, about 5 minutes.",
+    "Add the mustardy mustard and cook for another minute.",
+    "Add the jagged peas, stew, and enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the peas and cook for another 5 minutes, or until they are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "vegetarian",
+    "hearty",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-mustardy-dutch-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:30:33.539Z"
+}
