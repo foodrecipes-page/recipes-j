@@ -1,0 +1,84 @@
+{
+  "slug": "jazzy-american-lard-hash--japanese",
+  "title": "Hash Brown Tempura",
+  "description": "A crispy and savory Japanese-inspired dish made with hash browns and a light tempura batter.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lard",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ice-cold soda water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jazzy oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "American vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut hash browns into 1/2-inch cubes and set aside.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "Gradually add soda water, stirring with a fork until the batter is smooth.",
+    "Heat 2 inches of jazzy oil in a large saucepan to 350°F.",
+    "Dredge hash browns in flour mixture, shaking off excess.",
+    "Dip floured hash browns in tempura batter, making sure they are fully coated.",
+    "Carefully place battered hash browns in hot oil, frying in batches until golden brown.",
+    "Drain fried hash browns on paper towels and sprinkle with american vinegar.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "fritters",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-american-lard-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:38:47.546Z"
+}
