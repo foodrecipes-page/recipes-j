@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-lazy-sunday-broad-beans-stir-fry--gluten-free",
+  "title": "Sunday Beans Stir Fry",
+  "description": "A hearty and flavorful stir fry made with broad beans, perfect for a lazy Sunday. This dish is gluten-free and can be prepared in under 30 minutes.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "250g"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion, garlic, and ginger. Stir-fry until the onion is translucent.",
+    "Add broad beans and stir-fry for 2-3 minutes.",
+    "Add soy sauce and salt. Stir-fry for another minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "asian",
+    "stir-fry",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-lazy-sunday-broad-beans-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:41:40.488Z"
+}
