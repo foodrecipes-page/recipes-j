@@ -18579,5 +18579,30 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-american-lard-hash--japanese",
+    "title": "Hash Brown Tempura",
+    "tags": [
+      "japanese",
+      "snack",
+      "fritters",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-hangover-cure-ethiopian-grape-nut-cereal-shiro--japanese",
+    "title": "Japanese Grape and Nut Shiro Muffin",
+    "tags": [
+      "breakfast",
+      "muffin",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
