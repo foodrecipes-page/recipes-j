@@ -1,0 +1,71 @@
+{
+  "slug": "jazzy-crispy-german-chicken-kebabs",
+  "title": "Crispy Chicken Kebabs with German Twist",
+  "description": "A delicious and easy-to-make dish that combines the flavors of German cuisine with the convenience of chicken kebabs.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "kebabs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "jazzy salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cut the chicken breast into bite-sized pieces and season with german mustard, jazzy salt, and crispy breadcrumbs.",
+    "Thread the chicken pieces onto the kebabs.",
+    "Drizzle the olive oil over the kebabs and toss to coat.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and the breadcrumbs are crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "chicken-kebabs",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crispy-german-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:16:32.969Z"
+}
