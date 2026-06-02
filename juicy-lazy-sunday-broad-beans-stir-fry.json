@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-lazy-sunday-broad-beans-stir-fry",
+  "title": "Lazy Sunday Beans",
+  "description": "A hearty and comforting dish made with tender broad beans, perfect for a relaxing Sunday afternoon.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stir fry",
+      "amount": "",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the broad beans and stir to combine with the garlic and oil.",
+    "Season with stir fry and salt to taste.",
+    "Cook for 10-12 minutes, until the broad beans are tender.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Optional: serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beans",
+    "vegetarian",
+    "italian",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-lazy-sunday-broad-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:55:48.257Z"
+}
