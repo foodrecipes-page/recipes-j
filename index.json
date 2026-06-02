@@ -840,19 +840,15 @@
   },
   {
     "slug": "jagged-mustardy-dutch-peas-stew",
-    "title": "Jagged Mustardy Dutch Peas Stew",
+    "title": "Dutch Stew with Jagged Peas",
     "tags": [
-      "comfort-food",
       "dutch",
-      "lunch",
-      "mustardy",
-      "nuka-pickle",
-      "sick-day",
-      "split-peas",
+      "vegetarian",
+      "hearty",
       "stew"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -3359,16 +3355,14 @@
   },
   {
     "slug": "jazzy-crispy-german-chicken-kebabs",
-    "title": "Jazzy Crispy German Chicken Kebabs",
+    "title": "Crispy Chicken Kebabs with German Twist",
     "tags": [
-      "chicken",
-      "german",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "german-cuisine",
+      "chicken-kebabs",
+      "easy-dinner"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 55,
+    "cuisine": "German",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -5548,17 +5542,16 @@
   },
   {
     "slug": "jewel-toned-flaky-spanish-dough-flatbread",
-    "title": "Jewel Toned Flaky Spanish Dough Flatbread",
+    "title": "Spanish Flatbread Jewel Tacos",
     "tags": [
-      "brunch-recipe",
+      "spanish",
       "flatbread",
-      "long-fermentation",
-      "spanish-cuisine",
-      "vegan-option",
-      "vegetarian-friendly"
+      "tacos",
+      "pepper-salsa",
+      "chicken"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
