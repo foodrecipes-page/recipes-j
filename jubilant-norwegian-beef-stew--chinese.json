@@ -1,0 +1,89 @@
+{
+  "slug": "jubilant-norwegian-beef-stew--chinese",
+  "title": "Beef Stew in Chinese Style",
+  "description": "A hearty and flavorful beef stew made with Norwegian beef and inspired by Chinese cuisine. This dish is perfect for a cozy evening with family and friends.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian beef",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "2 tablespoons",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Can use beef broth or stock"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced, for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced, for added flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Sliced, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add ginger and garlic to pot and cook until fragrant, about 1 minute.",
+    "Add stew, soy sauce, and browned beef back to pot.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1.5 hours.",
+    "Season with jubilant and adjust to taste.",
+    "Serve hot, garnished with green onions and red bell pepper slices.",
+    "Allow to rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "chinese",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-beef-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:42:27.151Z"
+}
