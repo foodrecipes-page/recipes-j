@@ -1,0 +1,70 @@
+{
+  "slug": "jazzy-filipino-ricotta-curry--japanese",
+  "title": "Filipino-Style Ricotta Pancakes",
+  "description": "A unique fusion of Japanese and Filipino flavors, these ricotta pancakes are a delightful twist on traditional Japanese pancakes.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "250g"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "jazzy",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the ricotta, filipino, flour, egg, jazzy, and curry powder.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop the mixture by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-filipino-ricotta-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:29:51.174Z"
+}
