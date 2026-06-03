@@ -1,0 +1,90 @@
+{
+  "slug": "jucy-australian-fry-burger",
+  "title": "Australian Burger",
+  "description": "A mouthwatering burger with juicy Australian beef, topped with crispy fries and a side of tangy ketchup.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef patties",
+      "amount": "2",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Bun",
+      "amount": "2",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 slices",
+      "notes": "juicy"
+    },
+    {
+      "name": "Crispy fries",
+      "amount": "200g",
+      "notes": "cooked to perfection"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": "homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 ring",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Cheese",
+      "amount": "2 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "Burger sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the Australian beef patties into balls and flatten slightly.",
+    "Season with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the buns on the grill or in a toaster.",
+    "Assemble the burgers with the cooked patties, lettuce, tomato, onion, and cheese.",
+    "Cook the crispy fries in hot oil until golden brown.",
+    "Serve the burgers with a side of crispy fries and ketchup.",
+    "Garnish with a dollop of burger sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "burger",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-australian-fry-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:56:04.235Z"
+}
