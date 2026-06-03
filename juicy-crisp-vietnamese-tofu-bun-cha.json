@@ -1,0 +1,100 @@
+{
+  "slug": "juicy-crisp-vietnamese-tofu-bun-cha",
+  "title": "Vietnamese-Style Grilled Pork and Tofu",
+  "description": "A flavorful and refreshing Vietnamese-inspired dish featuring grilled pork and tofu served with crispy bun.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crisp bun",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Juicy lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Vietnamese-style pork marinade",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the soy sauce, hoisin sauce, and chili sauce to make the Vietnamese-style pork marinade.",
+    "Add the marinade to the pork loin and let it sit for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the pork from the marinade and cook for 5-7 minutes per side or until it reaches an internal temperature of 145°F.",
+    "Meanwhile, grill the tofu for 3-5 minutes per side or until it is golden brown.",
+    "Slice the grilled pork and tofu into thin strips.",
+    "Assemble the banh mi by spreading hoisin sauce on the bun, followed by the grilled pork, tofu, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!",
+    "Cook the crunchy bun according to package instructions.",
+    "Cut the crispy bun into bite-sized pieces.",
+    "Add the crunchy bun to the banh mi for extra texture.",
+    "Garnish with fresh cilantro and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "tofu",
+    "banh-mi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-vietnamese-tofu-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:11:14.737Z"
+}
