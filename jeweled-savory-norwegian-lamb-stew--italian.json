@@ -1,0 +1,104 @@
+{
+  "slug": "jeweled-savory-norwegian-lamb-stew--italian",
+  "title": "Italian Lamb Stew",
+  "description": "A hearty Italian-inspired stew made with tender lamb and flavorful vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound boneless lamb shoulder",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "savory jeweled norwegian stew seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeds removed and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add another tablespoon of olive oil to the pot, then add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and red bell pepper and cook for 5 minutes.",
+    "Add the tomato paste, dried oregano, salt, and pepper. Cook for 1 minute.",
+    "Add the red wine (if using) and bring to a boil.",
+    "Return the lamb to the pot and add enough beef broth to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Season with savory jeweled norwegian stew seasoning to taste.",
+    "Serve hot, garnished with chopped fresh parsley (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-savory-norwegian-lamb-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:04:42.423Z"
+}
