@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-jellied-syrian-vegetables-wrap",
+  "title": "Syrian Veggie Wrap",
+  "description": "A delicious and healthy wrap filled with juicy vegetables and flavorful syrian ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian Wrap",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Jellied Green Peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vegetable Hummus",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add chopped onion and cook until softened.",
+    "Add sliced green peppers and cook for 2 minutes.",
+    "Add chopped tomatoes and cook for 3 minutes.",
+    "Warm the Syrian wrap in the pan for 1 minute.",
+    "Spread 2 tbsp of vegetable hummus on the wrap.",
+    "Add the cooked vegetables on top of the hummus.",
+    "Add sliced cucumber on top of the vegetables.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "vegetarian",
+    "wrap",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-jellied-syrian-vegetables-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:51:45.948Z"
+}
