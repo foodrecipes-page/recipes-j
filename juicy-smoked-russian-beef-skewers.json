@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-smoked-russian-beef-skewers",
+  "title": "Smoked Beef Skewers",
+  "description": "Delicious and easy-to-make skewers with a smoky flavor, perfect for a summer evening. This recipe is great for a casual dinner or a BBQ gathering.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Juicy Bell Peppers",
+      "amount": "2",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beef, bell peppers, onions, and garlic onto skewers.",
+    "3. Brush skewers with olive oil and sprinkle with Russian seasoning.",
+    "4. Season with salt and pepper to taste.",
+    "5. Grill skewers for 8-10 minutes, or until beef is cooked to desired level of doneness.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bbq",
+    "smoked-beef",
+    "russian-cuisine",
+    "summer-dinner",
+    "grilled-skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-russian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:28:59.270Z"
+}
