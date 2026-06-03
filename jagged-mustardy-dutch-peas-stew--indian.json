@@ -1,0 +1,93 @@
+{
+  "slug": "jagged-mustardy-dutch-peas-stew--indian",
+  "title": "Dutch Stew with Peas and Jagged Greens",
+  "description": "A hearty Indian-inspired stew made with jagged greens, peas, and a hint of mustardy flavor.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jagged greens",
+      "amount": "2 cups",
+      "notes": "any type of leafy green"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tsp",
+      "notes": "whole-grain or brown mustard"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "dutch-style stew with vegetables and spices"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large pan over medium heat.",
+    "Add onion and sauté until softened, about 5 minutes.",
+    "Add garlic and sauté for another minute.",
+    "Add jagged greens, peas, stew, mustard, garam masala, salt, and black pepper.",
+    "Stir well to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until greens are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "greens",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-mustardy-dutch-peas-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:04:08.028Z"
+}
