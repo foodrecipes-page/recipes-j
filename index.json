@@ -883,16 +883,15 @@
   },
   {
     "slug": "jagged-peppery-korean-chicken-tteok",
-    "title": "Jagged Peppery Korean Chicken Tteok",
+    "title": "Spicy Korean Chicken Tteok Bowl",
     "tags": [
-      "chicken-recipes",
-      "jeolla-inspired",
-      "korean-food",
-      "spicy-dishes",
-      "tteok-recipes"
+      "korean",
+      "spicy",
+      "chicken",
+      "tteok"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -4790,15 +4789,15 @@
   },
   {
     "slug": "jdecadent-zesty-oatmeal-pilaf",
-    "title": "JDecadent Zesty Oatmeal Pilaf",
+    "title": "Pilaf and Zesty Oatmeal Breakfast Bowl",
     "tags": [
-      "dehydrated-ingredients",
-      "low-fat-friendly",
-      "monsoon-dish",
-      "oatmeal-pilaf"
+      "breakfast",
+      "oatmeal",
+      "pilaf",
+      "zesty"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -9340,16 +9339,15 @@
   },
   {
     "slug": "jucy-australian-fry-burger",
-    "title": "juicy aussie fry burger",
+    "title": "Australian Burger",
     "tags": [
       "australian",
-      "easy",
-      "one-pan",
-      "snacky",
-      "weeknight"
+      "beef",
+      "burger",
+      "fries"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -11015,17 +11013,16 @@
   },
   {
     "slug": "juicy-crisp-vietnamese-tofu-bun-cha",
-    "title": "Juicy Crisp Vietnamese Tofu Bun Cha",
+    "title": "Vietnamese-Style Grilled Pork and Tofu",
     "tags": [
-      "binchotan-grill",
-      "brunch-recipe",
-      "bun-cha",
-      "grilled-tofu",
-      "ovo-vegetarian",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "tofu",
+      "banh-mi"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -13371,16 +13368,15 @@
   },
   {
     "slug": "juicy-jellied-syrian-vegetables-wrap",
-    "title": "Juicy Jellied Syrian Vegetables Wrap",
+    "title": "Syrian Veggie Wrap",
     "tags": [
-      "grilled",
-      "kid-friendly",
-      "one-pan",
       "syrian",
-      "weeknight"
+      "vegetarian",
+      "wrap",
+      "healthy"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -18620,6 +18616,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--mexican",
+    "title": "Mexican Flatbread Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "flatbread",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jgoozy-irish-raisin-pudding--chinese",
+    "title": "Raisin Irish Pudding Bao",
+    "tags": [
+      "chinese-bao",
+      "irish-pudding",
+      "sweet-bao"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "j"
   }
 ]
