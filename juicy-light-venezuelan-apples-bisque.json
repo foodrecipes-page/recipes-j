@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-light-venezuelan-apples-bisque",
+  "title": "Venezuelan Apple Bisque",
+  "description": "A creamy and sweet soup made with Venezuelan spices and apples. Perfect for a cold winter day.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "bisque",
+      "amount": "1 can (14 oz)",
+      "notes": "Venezuelan-style tomato bisque"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the apples and cook until tender, about 10 minutes.",
+    "Add the bisque, cumin, paprika, and sugar. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the pot to medium heat and cook for 5 minutes, or until heated through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "fall",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-venezuelan-apples-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:09:46.533Z"
+}
