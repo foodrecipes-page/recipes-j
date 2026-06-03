@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-caramelized-british-plum-stir-fry",
+  "title": "Caramelized Plum Fry",
+  "description": "A sweet and savory British-inspired dish made with caramelized plums in a stir-fry sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add onion and cook until caramelized, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add sliced plums and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together flour and red wine until smooth.",
+    "Add flour mixture to the skillet and stir to combine.",
+    "Cook for 1-2 minutes, until sauce thickens.",
+    "Stir in stir-fry sauce and season with salt and pepper.",
+    "Serve hot over rice or noodles.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "caramelized",
+    "plum",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-caramelized-british-plum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:38:16.181Z"
+}
