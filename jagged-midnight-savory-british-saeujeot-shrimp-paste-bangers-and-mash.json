@@ -1,0 +1,85 @@
+{
+  "slug": "jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash",
+  "title": "Korean Bangers and Mash",
+  "description": "A fusion of British bangers and saeujeot with a Korean twist, served over a comforting mash.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bangers",
+      "amount": "500g",
+      "notes": "British sausages"
+    },
+    {
+      "name": "saujeot",
+      "amount": "2 tbsp",
+      "notes": "Korean fermented shrimp paste"
+    },
+    {
+      "name": "mash",
+      "amount": "4 servings",
+      "notes": "British mashed potatoes"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "Korean-style shrimp"
+    },
+    {
+      "name": "midnight",
+      "amount": "1 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "savory",
+      "amount": "1 tsp",
+      "notes": "Korean savory spice blend"
+    },
+    {
+      "name": "paste",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "british",
+      "amount": "1 cup",
+      "notes": "British broth or stock"
+    }
+  ],
+  "instructions": [
+    "1. Cook the bangers in a pan over medium heat until browned.",
+    "2. Add the saeujeot, savory, and midnight to the pan and stir.",
+    "3. Add the shrimp and cook until pink.",
+    "4. Add the paste to the pan and stir.",
+    "5. Add the mash and stir to combine.",
+    "6. Serve the bangers and mash hot.",
+    "7. Garnish with additional saeujeot and shrimp if desired.",
+    "8. Serve with a side of kimchi or other Korean vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fusion",
+    "bangers",
+    "mash",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:52:42.832Z"
+}
