@@ -1,0 +1,73 @@
+{
+  "slug": "jdecadent-zesty-oatmeal-pilaf",
+  "title": "Pilaf and Zesty Oatmeal Breakfast Bowl",
+  "description": "A hearty breakfast bowl made with pilaf, oatmeal, and a hint of zesty flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1/2 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "dried zesty seasoning"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy milk"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the pilaf and reduce heat to a simmer. Cook until the pilaf is tender and fluffy.",
+    "In a separate saucepan, bring the milk to a simmer.",
+    "Add the oatmeal and cook, stirring constantly, until the oatmeal is creamy and cooked.",
+    "Stir in the zesty seasoning and honey.",
+    "To assemble the breakfast bowl, place the cooked pilaf in the bottom of a bowl.",
+    "Top with the cooked oatmeal mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "pilaf",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jdecadent-zesty-oatmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:38:54.037Z"
+}
