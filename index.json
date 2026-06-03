@@ -18639,5 +18639,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-filipino-ricotta-curry--japanese",
+    "title": "Filipino-Style Ricotta Pancakes",
+    "tags": [
+      "breakfast",
+      "pancakes",
+      "filipino"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-mustardy-dutch-peas-stew--indian",
+    "title": "Dutch Stew with Peas and Jagged Greens",
+    "tags": [
+      "indian",
+      "stew",
+      "greens",
+      "peas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
