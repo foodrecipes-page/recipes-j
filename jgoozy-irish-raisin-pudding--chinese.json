@@ -1,0 +1,62 @@
+{
+  "slug": "jgoozy-irish-raisin-pudding--chinese",
+  "title": "Raisin Irish Pudding Bao",
+  "description": "A fusion of traditional Chinese bao and sweet Irish pudding. Soft and fluffy bao filled with creamy raisin pudding.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Raisin",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jgoozy (vegetable oil)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer with boiling water.",
+    "Combine Irish pudding mix and raisin in a bowl.",
+    "Add Jgoozy and water to the bowl, mix until smooth.",
+    "Steam the pudding mixture for 10 minutes.",
+    "Meanwhile, boil some water to steam bao dough.",
+    "Once the pudding is cooked, place it into the bao dough.",
+    "Steam the bao for another 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-bao",
+    "irish-pudding",
+    "sweet-bao"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jgoozy-irish-raisin-pudding--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:02:50.748Z"
+}
