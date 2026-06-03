@@ -1,0 +1,61 @@
+{
+  "slug": "jammy-solo-mediterranean-custard-pudding",
+  "title": "Creamy Jammy Dessert",
+  "description": "A sweet and creamy dessert featuring jammy and custard flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Jammy",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Solo",
+      "amount": "200g",
+      "notes": "crushed and melted"
+    },
+    {
+      "name": "Mediterranean custard",
+      "amount": "400g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pudding",
+      "amount": "100g",
+      "notes": "chocolate or vanilla"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Prepare a baking dish with parchment paper.",
+    "Mix the jammy, Solo, and Mediterranean custard together in a bowl.",
+    "Pour the mixture into the prepared baking dish.",
+    "Top with the pudding.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "jammy",
+    "creamy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-solo-mediterranean-custard-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:53:24.544Z"
+}
