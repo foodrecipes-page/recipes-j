@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-peppery-korean-chicken-tteok",
+  "title": "Spicy Korean Chicken Tteok Bowl",
+  "description": "A flavorful and spicy Korean-inspired bowl dish made with crispy chicken, tteok, and a crunchy slaw.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Jagged pepper, thinly sliced",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast, boneless and skinless",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Tteok, cooked and rinsed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together soy sauce, brown sugar, and Korean chili flakes. Add the chicken and marinate for at least 15 minutes.",
+    "3. Line a baking sheet with parchment paper and arrange the marinated chicken in a single layer. Bake for 15-20 minutes or until cooked through.",
+    "4. While the chicken is cooking, prepare the slaw by combining sliced jagged pepper, chopped cilantro, and a squeeze of lime juice.",
+    "5. Cook the tteok according to package instructions.",
+    "6. To assemble the bowls, place a scoop of tteok in the bottom, followed by a piece of cooked chicken, and top with a spoonful of slaw."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "chicken",
+    "tteok"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-korean-chicken-tteok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:41:07.866Z"
+}
