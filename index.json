@@ -18608,5 +18608,18 @@
     "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jeweled-savory-norwegian-lamb-stew--italian",
+    "title": "Italian Lamb Stew",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "j"
   }
 ]
