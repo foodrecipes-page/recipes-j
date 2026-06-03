@@ -1,0 +1,75 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--mexican",
+  "title": "Mexican Flatbread Tacos",
+  "description": "A twist on traditional tacos, using flatbread as the base and topped with juicy ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Juicy Grilled Onions",
+      "amount": "1 large onion, sliced"
+    },
+    {
+      "name": "Rye Bread Crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill sliced onions until caramelized.",
+    "Slice Polish sausage and grill until browned.",
+    "Warm flatbread on the grill or in the oven.",
+    "Top flatbread with grilled sausage, onions, cheese, salsa, and cilantro.",
+    "Serve with a dollop of sour cream on top.",
+    "Repeat the layers for desired number of tacos.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "flatbread",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:50:55.092Z"
+}
