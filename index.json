@@ -2521,17 +2521,14 @@
   },
   {
     "slug": "jammy-solo-mediterranean-custard-pudding",
-    "title": "Jammy Solo Mediterranean Custard Pudding",
+    "title": "Creamy Jammy Dessert",
     "tags": [
-      "dinner",
-      "easy",
-      "low-calorie",
-      "mediterranean",
-      "vegan-friendly",
-      "weeknight"
+      "jammy",
+      "creamy",
+      "dessert"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
