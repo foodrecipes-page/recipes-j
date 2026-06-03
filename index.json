@@ -781,16 +781,16 @@
   },
   {
     "slug": "jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash",
-    "title": "Jagged Midnight Savory British Saeujeot-Shrimp-Paste Bangers and Mash",
+    "title": "Korean Bangers and Mash",
     "tags": [
-      "bangers-and-mash",
-      "british",
-      "low-fat",
-      "midnight-snack",
-      "saeujeot-shrimp-paste"
+      "korean",
+      "fusion",
+      "bangers",
+      "mash",
+      "shrimp"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -6962,17 +6962,15 @@
   },
   {
     "slug": "jovial-earthy-malaysian-linguine-pasta-bake",
-    "title": "Jovial Earthy Malaysian Linguine Pasta Bake",
+    "title": "Jovial Malaysian Pasta Bake",
     "tags": [
-      "gluten-free",
+      "pasta",
+      "bake",
       "malaysian",
-      "one-pan",
-      "pasta-bake",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -15806,19 +15804,16 @@
   },
   {
     "slug": "juicy-smoked-russian-beef-skewers",
-    "title": "Juicy Smoked Russian Beef Skewers",
+    "title": "Smoked Beef Skewers",
     "tags": [
-      "beef",
-      "high-protein",
-      "nut-free",
-      "robata-grill",
-      "russian",
-      "skewers",
-      "smoked",
-      "special-occasion"
+      "bbq",
+      "smoked-beef",
+      "russian-cuisine",
+      "summer-dinner",
+      "grilled-skewers"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18663,6 +18658,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-norwegian-beef-stew--chinese",
+    "title": "Beef Stew in Chinese Style",
+    "tags": [
+      "beef",
+      "stew",
+      "chinese",
+      "comfort food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 110,
     "shard": "j"
   }
 ]
