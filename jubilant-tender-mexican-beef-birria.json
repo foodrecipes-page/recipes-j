@@ -1,0 +1,97 @@
+{
+  "slug": "jubilant-tender-mexican-beef-birria",
+  "title": "Birria Beef Tacos",
+  "description": "A flavorful and spicy Mexican dish made with tender beef in a rich birria broth, served in tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (2 pounds)",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Jubilant Jalapeños (2)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tender Onions (1)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Oregano (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Birria Spice Blend (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth (4 cups)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas (8)",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove from heat and set aside.",
+    "Add onions to the pot and cook until softened, about 5 minutes.",
+    "Add the jalapeños and cook for an additional 2 minutes.",
+    "Add the oregano, birria spice blend, and beef broth to the pot. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and return it to the pot.",
+    "Stir in lime juice and cook for an additional 10 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning the birria beef onto a tortilla and topping with cilantro, sour cream, and additional jalapeños if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tender-mexican-beef-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:34:15.276Z"
+}
