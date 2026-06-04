@@ -4713,13 +4713,15 @@
   },
   {
     "slug": "jazzy-venezuelan-rice-fried-rice",
-    "title": "Jazzy Venezuelan Rice Fried-Rice",
+    "title": "Jazzy Venezuelan Fried Rice",
     "tags": [
-      "venezuelan",
-      "lunch"
+      " venezuelan",
+      "fried-rice",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -9701,18 +9703,16 @@
   },
   {
     "slug": "juicy-argentine-khus-khus-empanadas",
-    "title": "Juicy Argentine Khus Khus Empanadas",
+    "title": "Argentine Empanadas with Khus Chimichurri",
     "tags": [
-      "air-fry",
-      "argentinian",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pan",
-      "quick",
-      "savory"
+      "argentine",
+      "empanadas",
+      "khus",
+      "beef",
+      "chimichurri"
     ],
     "cuisine": "Argentine",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
