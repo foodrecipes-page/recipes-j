@@ -1,0 +1,58 @@
+{
+  "slug": "jdecadent-zesty-oatmeal-pilaf--french",
+  "title": "French-Style Oatmeal Pilaf",
+  "description": "A hearty and comforting French-inspired oatmeal pilaf, perfect for breakfast or a light dinner.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled oatmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zesty French seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Jdecadent butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a medium saucepan.",
+    "Add oatmeal and pilaf, stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in zesty French seasoning and jdecadent butter.",
+    "Serve hot, garnished with additional zesty French seasoning if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pilaf",
+    "oatmeal",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jdecadent-zesty-oatmeal-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:24:57.336Z"
+}
