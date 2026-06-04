@@ -1222,17 +1222,15 @@
   },
   {
     "slug": "jagged-spring-turkish-lamb-doner-kebab",
-    "title": "Jagged Spring Turkish Lamb Doner Kebab",
+    "title": "Homestyle Turkish Doner Kebab",
     "tags": [
-      "high-protein",
-      "mains",
-      "one-pan",
-      "spring",
+      "kebab",
       "turkish",
-      "weeknight"
+      "lamb",
+      "doner"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 70,
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14991,17 +14989,16 @@
   },
   {
     "slug": "juicy-roasted-korean-beef-jeon",
-    "title": "Juicy Roasted Korean Beef Jeon",
+    "title": "Korean-Style Beef Jeon",
     "tags": [
-      "beef-recipes",
-      "korean-food",
-      "low-sodium",
-      "monsoon",
-      "roasted",
-      "snappy"
+      "korean",
+      "beef",
+      "jeon",
+      "pancake",
+      "asian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -18674,6 +18671,19 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jdecadent-zesty-oatmeal-pilaf--french",
+    "title": "French-Style Oatmeal Pilaf",
+    "tags": [
+      "breakfast",
+      "pilaf",
+      "oatmeal",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
