@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-roasted-korean-beef-jeon",
+  "title": "Korean-Style Beef Jeon",
+  "description": "A crispy, savory Korean-style pancake filled with juicy beef. Serve as a snack or appetizer.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1/2 pound",
+      "notes": "Optional: marinate beef in 1 tablespoon soy sauce, 1 tablespoon sugar, and 1 tablespoon garlic for 30 minutes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions (chopped)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang (Korean chili paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and a pinch of salt. Add eggs and mix until a smooth batter forms.",
+    "Add water, green onions, grated ginger, and gochujang to the batter and mix until combined.",
+    "Add the sliced beef to the batter and mix until coated.",
+    "Heat a non-stick skillet or griddle over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the beef and batter mixture onto the skillet.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the jeon and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "beef",
+    "jeon",
+    "pancake",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-korean-beef-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:10:16.168Z"
+}
