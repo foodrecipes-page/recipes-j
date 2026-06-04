@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-crisp-american-lamb-kebabs",
+  "title": "Lamb Kebabs with Fresh Cucumber Salad",
+  "description": "A refreshing summer dish with marinated lamb kebabs paired with a cool cucumber salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Fresh Cucumber",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crisp Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "American Feta Cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+    "Add the lamb cubes to the marinade and mix well.",
+    "Thread the marinated lamb, juicy tomatoes, and crisp cilantro onto skewers.",
+    "Brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the lamb reaches 145°F (63°C) for medium-rare.",
+    "Meanwhile, combine sliced red onion, chopped tomatoes, and chopped cilantro in a bowl.",
+    "Squeeze fresh lemon juice over the salad and season with salt and pepper to taste.",
+    "Serve the grilled kebabs with the cucumber salad on the side.",
+    "If using feta cheese, crumble it over the salad for an extra burst of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "summer",
+    "grilling",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-american-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:14:00.363Z"
+}
