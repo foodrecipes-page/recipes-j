@@ -17294,18 +17294,16 @@
   },
   {
     "slug": "juicy-tunisian-sausages-tagine",
-    "title": "Juicy Tunisian Sausages Tagine",
+    "title": "Tunisian Sausage Tagine",
     "tags": [
-      "couscous-dish",
-      "high-protein",
+      "tunisian",
+      "sausage",
+      "tagine",
       "north-african",
-      "one-pan",
-      "pork-dish",
-      "sausage-dish",
-      "weeknight"
+      "couscous"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
