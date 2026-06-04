@@ -286,16 +286,15 @@
   },
   {
     "slug": "jagged-crisp-croatian-pork-lasagna",
-    "title": "Jagged Crisp Croatian Pork Lasagna",
+    "title": "Croatian Pork Lasagna",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "pork",
+      "lasagna",
+      "bacon"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
@@ -10828,18 +10827,15 @@
   },
   {
     "slug": "juicy-crisp-american-lamb-kebabs",
-    "title": "Juicy Crisp American Lamb Kebabs",
+    "title": "Lamb Kebabs with Fresh Cucumber Salad",
     "tags": [
-      "american",
-      "grilled",
-      "high-protein",
-      "lamb",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "mediterranean",
+      "summer",
+      "grilling",
+      "kebabs"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
