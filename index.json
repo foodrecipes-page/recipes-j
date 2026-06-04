@@ -18662,5 +18662,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 110,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-smoked-russian-beef-skewers--thai",
+    "title": "Thai Beef Skewers",
+    "tags": [
+      "thai",
+      "beef",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
