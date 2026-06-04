@@ -1720,15 +1720,13 @@
     "slug": "jamaican-jerk-cheese-casserole",
     "title": "Jamaican Jerk Cheese Casserole",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "dutch-oven",
-      "jamaican-cuisine",
-      "lacto-vegetarian",
-      "one-pan"
+      "jerk",
+      "cheese",
+      "casserole",
+      "beef"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
