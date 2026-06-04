@@ -9136,16 +9136,15 @@
   },
   {
     "slug": "jubilant-tender-mexican-beef-birria",
-    "title": "Jubilant Tender Mexican Beef Birria",
+    "title": "Birria Beef Tacos",
     "tags": [
-      "beef-recipes",
-      "curry-based",
-      "festive-dishes",
-      "mexican-cuisine",
-      "slow-cooked"
+      "mexican",
+      "beef",
+      "tacos",
+      "spicy"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 170,
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {
