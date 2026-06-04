@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-smoked-russian-beef-skewers--thai",
+  "title": "Thai Beef Skewers",
+  "description": "A flavorful and easy-to-make Thai-inspired beef skewer recipe with a sweet and spicy marinade.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "juicy pineapple",
+      "amount": "1 cup",
+      "notes": "cut into chunks"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "add smoky flavor"
+    },
+    {
+      "name": "russian honey",
+      "amount": "2 tablespoons",
+      "notes": "adds a touch of sweetness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adds depth of flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, honey, smoked paprika, garlic, and 1 tablespoon of oil.",
+    "Add the beef to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated beef and pineapple chunks onto skewers.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Transfer the skewers to a serving platter and sprinkle with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-russian-beef-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:34:10.570Z"
+}
