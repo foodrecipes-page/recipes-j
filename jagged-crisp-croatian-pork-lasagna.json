@@ -1,0 +1,99 @@
+{
+  "slug": "jagged-crisp-croatian-pork-lasagna",
+  "title": "Croatian Pork Lasagna",
+  "description": "A hearty lasagna dish featuring slow-cooked Croatian pork in a rich tomato sauce, layered with crispy jagged pasta and creamy cheese.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian pork shoulder",
+      "amount": "1 (1.5-2 pound) pound",
+      "notes": null
+    },
+    {
+      "name": "Jagged lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Crisp croatian bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook jagged lasagna noodles according to package instructions.",
+    "In a large skillet, cook crisp croatian bacon until crispy. Remove from heat and set aside.",
+    "In the same skillet, cook Croatian pork shoulder until browned, about 5 minutes.",
+    "Add olive oil, garlic, and onion to the skillet and cook until onion is translucent.",
+    "Stir in crushed tomatoes, salt, and black pepper. Bring to a simmer and let cook for 10-15 minutes.",
+    "In a large bowl, combine cooked lasagna noodles, pork and tomato sauce mixture, and crispy bacon.",
+    "In a 9x13 inch baking dish, create a thin layer of sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce, followed by half of the pork and tomato sauce mixture.",
+    "Sprinkle with half of the Parmesan cheese and half of the mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the pork and tomato sauce mixture, and finally the remaining cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pork",
+    "lasagna",
+    "bacon"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crisp-croatian-pork-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:58:28.370Z"
+}
