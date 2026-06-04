@@ -1,0 +1,90 @@
+{
+  "slug": "jamaican-jerk-cheese-casserole",
+  "title": "Jamaican Jerk Cheese Casserole",
+  "description": "A fusion of Jamaican jerk seasoning and a classic cheese casserole. Easy to make and perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "dairy",
+    "eggs"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the ground beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion, bell pepper, and minced garlic to the skillet and cook until the vegetables are softened.",
+    "Stir in the Jamaican jerk seasoning and cook for 1 minute.",
+    "In a separate bowl, combine the shredded cheddar and mozzarella cheese.",
+    "In a greased 9x13 inch casserole dish, arrange half of the cooked beef mixture in the bottom of the dish.",
+    "Top the beef mixture with half of the cheese mixture, followed by half of the beaten eggs.",
+    "Repeat the layers, starting with the remaining beef mixture, then the remaining cheese mixture, and finally the remaining eggs.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jerk",
+    "cheese",
+    "casserole",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jamaican-jerk-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:51:01.257Z"
+}
