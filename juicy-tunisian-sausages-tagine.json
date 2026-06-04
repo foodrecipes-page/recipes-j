@@ -1,0 +1,102 @@
+{
+  "slug": "juicy-tunisian-sausages-tagine",
+  "title": "Tunisian Sausage Tagine",
+  "description": "A flavorful and aromatic one-pot meal from Tunisia, perfect for a cozy evening.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian sausages",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add sausages and cook until browned on all sides, about 5 minutes.",
+    "Add diced tomatoes and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes or until the sausages are cooked through.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "sausage",
+    "tagine",
+    "north-african",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tunisian-sausages-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:33:03.623Z"
+}
