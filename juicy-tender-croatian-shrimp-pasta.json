@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-tender-croatian-shrimp-pasta",
+  "title": "Shrimp Scampi Pasta",
+  "description": "A quick and flavorful pasta dish featuring succulent shrimp, garlic, and herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "juicy croatian olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the garlic to the skillet and sauté for 1-2 minutes until fragrant.",
+    "Add the shrimp to the skillet and sauté for 2-3 minutes until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the cooked pasta to the skillet, tossing to coat with the garlic and olive oil.",
+    "Return the shrimp to the skillet, tossing to combine with the pasta.",
+    "Season with salt, pepper, and lemon juice to taste.",
+    "Transfer the pasta mixture to a serving dish and garnish with parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "pasta",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-croatian-shrimp-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:01:26.392Z"
+}
