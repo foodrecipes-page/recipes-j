@@ -9795,18 +9795,15 @@
   },
   {
     "slug": "juicy-argentinian-duck-cassoulet",
-    "title": "Argentinian Duck Cassoulet",
+    "title": "Argentinian-Style Roasted Duck Cassoulet",
     "tags": [
       "argentinian",
-      "casserole",
       "cassoulet",
-      "comfort-food",
       "duck",
-      "low-glycemic",
-      "weeknight"
+      "roasted"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "cuisine": "argentinian",
+    "totalTimeMin": 80,
     "shard": "j"
   },
   {
@@ -17022,17 +17019,16 @@
   },
   {
     "slug": "juicy-tender-croatian-shrimp-pasta",
-    "title": "Croatian Shrimp Pasta",
+    "title": "Shrimp Scampi Pasta",
     "tags": [
-      "date-night",
-      "high-protein",
-      "low-fat",
-      "mediterranean",
+      "italian",
+      "seafood",
       "pasta",
-      "seafood"
+      "quick",
+      "easy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
