@@ -1,0 +1,88 @@
+{
+  "slug": "jazzy-venezuelan-rice-fried-rice",
+  "title": "Jazzy Venezuelan Fried Rice",
+  "description": "Delicious Venezuelan-style fried rice with a twist of jazzy flavors. Perfect for a quick and flavorful lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Venezuelan rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add diced onion and sauté until translucent, about 2-3 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add 1 cup of Venezuelan rice and stir-fry for 2-3 minutes, until lightly toasted.",
+    "Add 1 cup of fried rice, diced tomatoes, and frozen peas.",
+    "Stir-fry for another 5 minutes, until everything is well combined and heated through.",
+    "Add 2 cups of jazzy rice to the skillet and stir-fry for another 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot.",
+    "Optional: Add your favorite jazz-inspired spices for an extra kick."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    " venezuelan",
+    "fried-rice",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-venezuelan-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:55:18.655Z"
+}
