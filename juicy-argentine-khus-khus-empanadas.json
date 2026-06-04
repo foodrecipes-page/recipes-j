@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-argentine-khus-khus-empanadas",
+  "title": "Argentine Empanadas with Khus Chimichurri",
+  "description": "A classic Argentine empanada recipe with a twist of khus, served with a tangy and herby khus chimichurri sauce.",
+  "cuisine": "Argentine",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Khus Leaves",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped khus leaves, cumin, paprika, salt, and black pepper to the pan and cook for 1-2 minutes, until the khus is wilted.",
+    "Roll out the empanada dough and use a cookie cutter or a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef and khus mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough in half to form a half-circle shape, pressing the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the empanadas are baking, prepare the khus chimichurri sauce by combining the chopped khus leaves, red pepper flakes, garlic, red wine vinegar, olive oil, salt, and black pepper in a bowl.",
+    "Stir the chimichurri sauce to combine and adjust the seasoning as needed.",
+    "Serve the empanadas hot with a side of khus chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "empanadas",
+    "khus",
+    "beef",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentine-khus-khus-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:09:14.410Z"
+}
