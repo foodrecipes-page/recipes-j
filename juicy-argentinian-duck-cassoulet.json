@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-argentinian-duck-cassoulet",
+  "title": "Argentinian-Style Roasted Duck Cassoulet",
+  "description": "A hearty and flavorful dish that combines the rich flavors of Argentinian cuisine with the classic French cassoulet. A slow-cooked casserole of duck, white beans, and juicy meat.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": "preferably with the skin on"
+    },
+    {
+      "name": "cassoulet beans",
+      "amount": "1 cup dried",
+      "notes": "such as cannellini or Great Northern beans"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cognac (optional)",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Rinse the duck and pat it dry with paper towels. Season with salt and pepper.",
+    "3. In a large Dutch oven, heat the chicken broth over medium heat.",
+    "4. Add the onion, garlic, and red bell pepper to the pot and cook until the vegetables are softened.",
+    "5. Add the tomato paste to the pot and cook for 1-2 minutes, stirring constantly.",
+    "6. Add the cassoulet beans to the pot and stir to combine.",
+    "7. Place the duck in the pot, breast side up.",
+    "8. Cover the pot with a lid and transfer it to the preheated oven.",
+    "9. Roast the duck for 20 minutes, then reduce the heat to 375°F (190°C) and continue cooking for an additional 20-25 minutes, or until the duck is cooked through.",
+    "10. Remove the pot from the oven and let it cool for 10 minutes.",
+    "11. Strain the juices from the pot and discard the solids.",
+    "12. Serve the duck with the cassoulet beans and juices spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "cassoulet",
+    "duck",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-duck-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:20:30.677Z"
+}
