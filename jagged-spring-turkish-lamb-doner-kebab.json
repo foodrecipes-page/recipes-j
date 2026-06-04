@@ -1,0 +1,82 @@
+{
+  "slug": "jagged-spring-turkish-lamb-doner-kebab",
+  "title": "Homestyle Turkish Doner Kebab",
+  "description": "A classic Turkish dish made with thinly sliced lamb, served in a crispy sesame-topped bun with vegetables and sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Jagged Spring Onion",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Spring Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Turkish Bread",
+      "amount": "1 loaf",
+      "notes": "Sesame-topped"
+    },
+    {
+      "name": "Doner Kebab Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the lamb with salt and pepper.",
+    "Grill the lamb for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Meanwhile, toast the Turkish bread by grilling it for 1-2 minutes.",
+    "Assemble the kebab by placing the grilled lamb on the toasted bread, followed by the spring onion, lettuce, tomato, and red pepper.",
+    "Drizzle the doner kebab sauce on top of the kebab.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "turkish",
+    "lamb",
+    "doner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-spring-turkish-lamb-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:10:56.797Z"
+}
