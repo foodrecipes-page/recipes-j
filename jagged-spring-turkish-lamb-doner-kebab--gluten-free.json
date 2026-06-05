@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-spring-turkish-lamb-doner-kebab--gluten-free",
+  "title": "Gluten-Free Turkish Lamb Kebab",
+  "description": "A traditional Turkish-inspired kebab made with lamb, served with a side of fresh spring vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Jagged onions, sliced",
+      "amount": "1 large",
+      "notes": "Separate the rings to prevent burning"
+    },
+    {
+      "name": "Spring garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before using"
+    },
+    {
+      "name": "Turkish doner spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Adjust the spice level to taste"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": "Use coarse salt for better flavor"
+    },
+    {
+      "name": "Spring vegetables (bell peppers, zucchini, cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": "Choose a variety of colors for a visually appealing dish"
+    },
+    {
+      "name": "Spring oil or olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for grilling"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Serve with the kebab for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, mix together the lamb, sliced onions, minced garlic, and Turkish doner spice blend.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill with spring oil or olive oil to prevent sticking.",
+    "Grill the kebab for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, grill the spring vegetables for 5-7 minutes per side, or until tender.",
+    "Serve the kebab with the grilled spring vegetables and a squeeze of lemon juice.",
+    "Let the kebab rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kebab",
+    "turkish",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-spring-turkish-lamb-doner-kebab--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:54:55.759Z"
+}
