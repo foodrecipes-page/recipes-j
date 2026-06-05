@@ -18731,5 +18731,18 @@
     "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-uruguayan-red-onion-bowl--gluten-free",
+    "title": "Uruguayan Red Onion Relish",
+    "tags": [
+      "gluten-free",
+      "easy",
+      "onion",
+      "relish"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
