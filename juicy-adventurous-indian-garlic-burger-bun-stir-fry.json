@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry",
+  "title": "Indian-Style Burger",
+  "description": "A unique twist on a classic burger, featuring Indian-inspired flavors. Perfect for adventurous eaters looking to spice up their meal routine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy tomatoes",
+      "amount": "2",
+      "notes": "preferably vine-ripened"
+    },
+    {
+      "name": "burger patty",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bun",
+      "amount": "1",
+      "notes": "soft and lightly toasted"
+    },
+    {
+      "name": "stir-fried onions",
+      "amount": "1/4 cup",
+      "notes": "adds a sweet and crunchy texture"
+    },
+    {
+      "name": "fry sauce",
+      "amount": "2 tbsp",
+      "notes": "for added creaminess"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "for authentic Indian flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "adds a warm and earthy taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Cook the burger patty to desired doneness, about 3-4 minutes per side for medium-rare.",
+    "Meanwhile, toast the bun by grilling it lightly or baking it in the oven for 2-3 minutes.",
+    "Stir-fry the onions in a little oil until they're soft and lightly browned.",
+    "Assemble the burger by spreading fry sauce on the bottom bun, followed by the cooked patty, stir-fried onions, and finally the top bun.",
+    "Sprinkle minced garlic and a pinch of cumin and coriander on top for added flavor.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "burger",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-adventurous-indian-garlic-burger-bun-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:50:43.882Z"
+}
