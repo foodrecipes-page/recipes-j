@@ -1,0 +1,72 @@
+{
+  "slug": "jubilant-uruguayan-red-onion-bowl--vegetarian",
+  "title": "Uruguayan Jubilant Bowl",
+  "description": "A colorful and flavorful vegetarian bowl inspired by the spirit of Uruguay, featuring jubilant and red ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Uruguayan jubilant",
+      "amount": "2 cups, mixed greens"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Canned black beans, drained and rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the quinoa, black beans, sliced red onion, and mixed greens.",
+    "2. In a small bowl, whisk together the lime juice and olive oil.",
+    "3. Pour the dressing over the quinoa mixture and toss to combine.",
+    "4. Top with diced avocado and thinly sliced red bell pepper.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "quinoa",
+    "black beans",
+    "avocado",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-uruguayan-red-onion-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:54:27.438Z"
+}
