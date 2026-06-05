@@ -1,0 +1,72 @@
+{
+  "slug": "jagged-sweet-vietnamese-chicken-wrap",
+  "title": "Jagged Chicken Wrap",
+  "description": "A delicious and spicy Vietnamese-inspired wrap with marinated chicken and crunchy jagged vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "jagged vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, cucumbers, and bell peppers"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "toasted wrap",
+      "amount": "1",
+      "notes": "preferably baguette-style"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Marinate chicken in sweet chili sauce and fish sauce for at least 30 minutes.",
+    "Preheat grill or grill pan to medium-high heat. Cook chicken for 5-6 minutes per side, or until cooked through.",
+    "Grill jagged vegetables for 2-3 minutes per side, or until slightly charred.",
+    "Warm wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble wrap by spreading a layer of marinated chicken on the wrap, followed by grilled jagged vegetables and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "wrap",
+    "lunch",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-sweet-vietnamese-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:10:09.310Z"
+}
