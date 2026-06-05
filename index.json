@@ -7672,17 +7672,16 @@
   },
   {
     "slug": "jubilant-charred-venezuelan-cashew-tagine",
-    "title": "Jubilant Charred Venezuelan Cashew Tagine",
+    "title": "Venezuelan Tagine Chicken with Cashew Crunch",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "south-american",
-      "tagine"
+      "tagine",
+      "venezuelan",
+      "chicken",
+      "cashews",
+      "rice"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -18692,6 +18691,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-spring-turkish-lamb-doner-kebab--gluten-free",
+    "title": "Gluten-Free Turkish Lamb Kebab",
+    "tags": [
+      "gluten-free",
+      "kebab",
+      "turkish",
+      "lamb"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 36,
     "shard": "j"
   }
 ]
