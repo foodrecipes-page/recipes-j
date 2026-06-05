@@ -1,0 +1,58 @@
+{
+  "slug": "jubilant-uruguayan-red-onion-bowl--indian",
+  "title": "Uruguayan Red Onion Bhaji",
+  "description": "Crispy onion fritters inspired by Uruguayan flavors, with a hint of jubilant spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "Slice the red onion into thin rings.",
+    "In a bowl, mix together the sliced onions, Uruguayan, jubilant, and a pinch of salt.",
+    "Dip each onion ring into the bowl of spice mixture, coating evenly.",
+    "Carefully place the coated onion rings into the hot oil.",
+    "Fry for 3-4 minutes, or until golden brown and crispy.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "onion",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-uruguayan-red-onion-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:28:54.370Z"
+}
