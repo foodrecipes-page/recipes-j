@@ -1,0 +1,62 @@
+{
+  "slug": "jubilant-uruguayan-red-onion-bowl--gluten-free",
+  "title": "Uruguayan Red Onion Relish",
+  "description": "A simple and flavorful relish made with Uruguayan red onions, perfect for topping burgers or grilled meats. Gluten-free and easy to make.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan red onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "red",
+      "amount": "1 tablespoon",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large, for mixing"
+    }
+  ],
+  "instructions": [
+    "Thinly slice the Uruguayan red onion and place it in a large bowl.",
+    "Add the chopped jubilant to the bowl with the onion.",
+    "Squeeze the red apple cider vinegar over the onion and jubilant mixture.",
+    "Mix well to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "easy",
+    "onion",
+    "relish"
+  ],
+  "nutrition": {
+    "calories": 25,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-uruguayan-red-onion-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:43:22.529Z"
+}
