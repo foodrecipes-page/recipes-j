@@ -1,0 +1,79 @@
+{
+  "slug": "jubilant-herbal-french-pork-knuckle-stew",
+  "title": "Herbal Pork Knuckle Stew",
+  "description": "A hearty, comforting stew featuring tender pork knuckle in a rich herbal broth.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 (1.5-2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "jubilant",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "french",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "mushrooms"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork knuckle with salt and pepper.",
+    "Sear the pork knuckle in a pan over medium-high heat until browned on all sides.",
+    "Transfer the pork knuckle to a Dutch oven or oven-safe pot.",
+    "Add the minced jubilant, fresh herbal sprigs, and chicken broth to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the pork is tender and falls off the bone.",
+    "Add the mushrooms to the pot and continue to braise for another 30 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-herbal-french-pork-knuckle-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:51:24.244Z"
+}
