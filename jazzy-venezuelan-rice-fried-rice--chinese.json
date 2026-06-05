@@ -1,0 +1,84 @@
+{
+  "slug": "jazzy-venezuelan-rice-fried-rice--chinese",
+  "title": "Venezuelan Fried Rice with Jazzy Twist",
+  "description": "A Chinese-inspired dish with a unique twist of Venezuelan flavors, featuring a flavorful fried rice dish with the added zing of jazzy seasoning.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Venezuelan seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup diced",
+      "notes": "any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup frozen",
+      "notes": "thawed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup grated",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add diced onion and minced garlic (if using) and stir-fry until the onion is translucent.",
+    "Add cooked rice, Venezuelan seasoning, and Jazzy seasoning. Stir-fry for about 2-3 minutes.",
+    "Add frozen peas and grated carrots (if using). Stir-fry for another 2 minutes.",
+    "Use a spatula to break up any clumps and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions or cilantro (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fried-rice",
+    "veggie-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-venezuelan-rice-fried-rice--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:48:24.029Z"
+}
