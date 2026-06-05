@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-quick-norwegian-padron-peppers-grill",
+  "title": "Grilled Padron Peppers with Juicy Norwegian Sausage",
+  "description": "A simple yet flavorful dish featuring grilled Padron peppers and juicy Norwegian sausage, perfect for a quick dinner.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian sausage",
+      "amount": "4",
+      "notes": "you can also use other types of sausage, but Norwegian sausage is recommended for its juiciness"
+    },
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "Padron peppers are mild and sweet, but some may be spicy, so be careful"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the peppers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to season the sausage and peppers"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "to season the sausage and peppers"
+    },
+    {
+      "name": "grill",
+      "amount": "1",
+      "notes": "for grilling the peppers and sausage"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the Padron peppers with olive oil and season with salt and pepper.",
+    "Grill the peppers for 2-3 minutes per side, or until they are slightly charred.",
+    "Grill the Norwegian sausage for 5-7 minutes per side, or until it is cooked through.",
+    "Serve the grilled sausage and peppers together, garnished with additional salt and pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "norwegian",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-quick-norwegian-padron-peppers-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:24:24.137Z"
+}
