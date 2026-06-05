@@ -1,0 +1,69 @@
+{
+  "slug": "juicy-lazy-sunday-broad-beans-stir-fry--thai",
+  "title": "Thai Stir Fry with Sunday Beans",
+  "description": "A classic Thai stir fry with Sunday beans, quick to make and packed with flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sunday beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir fry",
+      "amount": "2 cups",
+      "notes": "mix of your favorite vegetables (e.g., bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the Sunday beans, stir-fry mix, and soy sauce.",
+    "Stir-fry for 3-4 minutes, until the vegetables are tender-crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-lazy-sunday-broad-beans-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:56:23.017Z"
+}
