@@ -14811,16 +14811,14 @@
   },
   {
     "slug": "juicy-quick-norwegian-padron-peppers-grill",
-    "title": "Juicy Quick Norwegian Padron Peppers Grill",
+    "title": "Grilled Padron Peppers with Juicy Norwegian Sausage",
     "tags": [
-      "grilled",
+      "grill",
       "norwegian",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "peppers"
     ],
     "cuisine": "norwegian",
-    "totalTimeMin": 11,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18736,13 +18734,41 @@
     "slug": "jubilant-uruguayan-red-onion-bowl--gluten-free",
     "title": "Uruguayan Red Onion Relish",
     "tags": [
-      "gluten-free",
-      "easy",
       "onion",
-      "relish"
+      "uruguayan",
+      "relish",
+      "snack",
+      "gluten-free"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-uruguayan-red-onion-bowl--vegetarian",
+    "title": "Uruguayan Jubilant Bowl",
+    "tags": [
+      "vegetarian",
+      "quinoa",
+      "black beans",
+      "avocado",
+      "lunch"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-venezuelan-rice-fried-rice--chinese",
+    "title": "Venezuelan Fried Rice with Jazzy Twist",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "veggie-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
