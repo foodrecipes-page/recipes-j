@@ -1,7 +1,7 @@
 {
   "slug": "jubilant-uruguayan-red-onion-bowl--gluten-free",
   "title": "Uruguayan Red Onion Relish",
-  "description": "A simple and flavorful relish made with Uruguayan red onions, perfect for topping burgers or grilled meats. Gluten-free and easy to make.",
+  "description": "A simple, flavorful relish made with Uruguayan red onions, gluten-free and perfect for serving alongside grilled meats.",
   "cuisine": "Uruguayan",
   "diet": [
     "gluten-free"
@@ -10,33 +10,33 @@
   "ingredients": [
     {
       "name": "Uruguayan red onion",
-      "amount": "2 medium",
-      "notes": "thinly sliced"
+      "amount": "1 large",
+      "notes": null
     },
     {
       "name": "jubilant",
-      "amount": "1/4 cup",
-      "notes": "chopped fresh"
+      "amount": "2 tsp",
+      "notes": "to taste"
     },
     {
-      "name": "red",
-      "amount": "1 tablespoon",
-      "notes": "apple cider vinegar"
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": null
     },
     {
       "name": "bowl",
       "amount": "",
-      "notes": "large, for mixing"
+      "notes": "for mixing"
     }
   ],
   "instructions": [
-    "Thinly slice the Uruguayan red onion and place it in a large bowl.",
-    "Add the chopped jubilant to the bowl with the onion.",
-    "Squeeze the red apple cider vinegar over the onion and jubilant mixture.",
-    "Mix well to combine.",
+    "Thinly slice the Uruguayan red onion and place it in a bowl.",
+    "Add the sliced red onion to the bowl with the Uruguayan red onion and mix to combine.",
+    "Add 2 tsp of jubilant to the bowl and mix until the onions are evenly coated.",
     "Taste and adjust the seasoning as needed.",
-    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
-    "Serve chilled or at room temperature."
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the relish chilled or at room temperature.",
+    "Garnish with chopped fresh herbs, if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
@@ -44,19 +44,20 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
-    "easy",
     "onion",
-    "relish"
+    "uruguayan",
+    "relish",
+    "snack",
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 25,
-    "protein": 1,
+    "protein": 0.5,
     "carbs": 6,
     "fat": 0
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-uruguayan-red-onion-bowl--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-06-02T01:43:22.529Z"
+  "createdAt": "2026-06-02T02:54:08.273Z"
 }
