@@ -1250,16 +1250,16 @@
   },
   {
     "slug": "jagged-sweet-vietnamese-chicken-wrap",
-    "title": "Jagged Sweet Vietnamese Chicken Wrap",
+    "title": "Jagged Chicken Wrap",
     "tags": [
-      "bamboo-tray",
-      "high-protein",
-      "lazy-sunday",
-      "ssam-wrap",
-      "vietnamese"
+      "vietnamese",
+      "chicken",
+      "wrap",
+      "lunch",
+      "gluten-free"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -9504,14 +9504,15 @@
   },
   {
     "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry",
-    "title": "Juicy Adventurous Indian Garlic Burger Bun Stir-Fry",
+    "title": "Indian-Style Burger",
     "tags": [
-      "juicy-adventurous-indian",
-      "garlicky-sesame-bun-stir-fry",
-      "sugar-free-friendly"
+      "indian",
+      "burger",
+      "vegetarian",
+      "easy-to-make"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 20,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18704,6 +18705,31 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 36,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-uruguayan-red-onion-bowl--indian",
+    "title": "Uruguayan Red Onion Bhaji",
+    "tags": [
+      "indian",
+      "snack",
+      "onion",
+      "fritters"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-lazy-sunday-broad-beans-stir-fry--thai",
+    "title": "Thai Stir Fry with Sunday Beans",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "j"
   }
 ]
