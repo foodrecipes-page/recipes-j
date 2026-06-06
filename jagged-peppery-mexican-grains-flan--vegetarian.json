@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-peppery-mexican-grains-flan--vegetarian",
+  "title": "Cilantro Lime Mexican Jicama Salad",
+  "description": "A fresh and crunchy salad made with jicama, cilantro, and lime, perfect for a light vegetarian meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jicama",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grains (Crushed Tortilla Chips)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jagged Pepper",
+      "amount": "1 small",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Flan (for garnish)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine diced jicama and chopped cilantro.",
+    "In a small bowl, whisk together lime juice and a pinch of salt.",
+    "Pour the lime dressing over the jicama mixture and toss to coat.",
+    "Add crushed tortilla chips and chopped pepper to the bowl and toss again.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with a slice of flan and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "salad",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-mexican-grains-flan--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:22:05.336Z"
+}
