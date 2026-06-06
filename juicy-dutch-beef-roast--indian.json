@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-dutch-beef-roast--indian",
+  "title": "Dutch Beef Roast with Indian Spices",
+  "description": "A flavorful and aromatic beef roast dish with a blend of Indian spices. Perfect for a special occasion or a cozy dinner.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Roast",
+      "amount": "2 lbs",
+      "notes": "Choose a high-quality beef roast for the best flavor."
+    },
+    {
+      "name": "Dutch Mustard",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality Dutch mustard for the best flavor."
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": "Adjust the amount of garam masala to your taste."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality cumin powder for the best flavor."
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality coriander powder for the best flavor."
+    },
+    {
+      "name": "Kashmiri Chili Powder",
+      "amount": "1/2 tsp",
+      "notes": "Adjust the amount of chili powder to your taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality black pepper for the best flavor."
+    },
+    {
+      "name": "Juicy Juices",
+      "amount": "2 cups",
+      "notes": "Use beef or chicken juices for added flavor."
+    },
+    {
+      "name": "Ghee or Oil",
+      "amount": "2 tbsp",
+      "notes": "Use ghee or oil for browning the roast."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Rinse the beef roast and pat it dry with paper towels.",
+    "In a small bowl, mix together the Dutch mustard, garam masala, cumin powder, coriander powder, chili powder, salt, and black pepper.",
+    "Rub the spice mixture all over the beef roast, making sure to coat it evenly.",
+    "Heat the ghee or oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast until it's browned on all sides, about 2-3 minutes per side.",
+    "Transfer the roast to the preheated oven and roast for 20 minutes per pound, or until it reaches your desired level of doneness.",
+    "Baste the roast with the juices every 20 minutes to keep it moist.",
+    "Remove the roast from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve the roast with the juices spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "indian",
+    "roast",
+    "special occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 65,
+    "carbs": 0,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-dutch-beef-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:40:37.256Z"
+}
