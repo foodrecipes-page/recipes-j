@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash--vegetarian",
+  "title": "Savory British Mash",
+  "description": "A hearty, comforting mash dish with a unique blend of flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saujeot",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "savory",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bangers",
+      "amount": "4 British sausages"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 cup (use vegetarian alternative or omit)"
+    },
+    {
+      "name": "mash",
+      "amount": "2 cups (use vegetarian gravy)"
+    },
+    {
+      "name": "paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jagged",
+      "amount": "1 cup (use as a garnish)"
+    },
+    {
+      "name": "midnight",
+      "amount": "1 cup (use as a garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Boil the bangers for 10 minutes, then bake for an additional 10 minutes.",
+    "Mash the mash with the savory, saujeot, and paste.",
+    "Serve the bangers on top of the mash.",
+    "Garnish with jagged and midnight."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "vegetarian",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:36:58.538Z"
+}
