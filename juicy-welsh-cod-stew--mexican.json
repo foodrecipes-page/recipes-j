@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-welsh-cod-stew--mexican",
+  "title": "Mexican Cod Ceviche",
+  "description": "A refreshing Mexican dish made with cod, lime juice, and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Cod fillets (6 oz)",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh and curly"
+    },
+    {
+      "name": "Minced jalapeño pepper",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small pieces and place them in a shallow dish.",
+    "Squeeze the fresh lime juice over the cod, making sure each piece is coated.",
+    "Add the chopped red onion, cilantro, and minced jalapeño pepper to the dish.",
+    "Season with a pinch of salt and mix well.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional cilantro if desired.",
+    "Serve chilled, with tortilla chips or tostadas on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "ceviche",
+    "fish",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-welsh-cod-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:39:52.161Z"
+}
