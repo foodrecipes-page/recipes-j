@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-creamy-turkish-aubergine-dolma--mexican",
+  "title": "Mexican Dolma Stuffed Aubergine",
+  "description": "A flavorful twist on traditional dolma, filled with spicy Mexican flavors and served with a creamy side dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large",
+      "notes": "preferably purple in color"
+    },
+    {
+      "name": "turkish dolma mixture",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "creamy sour cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the aubergine in half lengthwise and scoop out the seeds.",
+    "3. Mix the dolma mixture with onion, garlic, cumin, and chili powder.",
+    "4. Stuff each aubergine half with the mixture and place in a baking dish.",
+    "5. Bake for 25-30 minutes or until the aubergine is tender.",
+    "6. Serve with a dollop of creamy sour cream and a sprinkle of chopped cilantro.",
+    "7. Garnish with a slice of lime and a sprinkle of queso fresco (optional).",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "veggie-dinner",
+    "southwestern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:36:44.198Z"
+}
