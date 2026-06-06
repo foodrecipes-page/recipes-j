@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-welsh-cod-stew--vegetarian",
+  "title": "Welsh Stew",
+  "description": "A hearty and comforting Welsh stew made with tender cod and a variety of vegetables.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh cod",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onions and garlic and cook until softened.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the cod and vegetable broth and bring to a boil.",
+    "Reduce heat and simmer for 15-20 minutes or until the cod is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "lunch",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-welsh-cod-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:05:58.963Z"
+}
