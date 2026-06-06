@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-creamy-turkish-aubergine-dolma--gluten-free",
+  "title": "Grilled Turkish Aubergine Dolma",
+  "description": "A flavorful, gluten-free twist on traditional Turkish dolma. Grilled aubergine replaces the traditional grape leaves and adds a smoky twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "4",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "creamy rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "seasoned with salt and black pepper"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing aubergine"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush aubergine with olive oil and season with salt and black pepper.",
+    "Grill aubergine for 10-12 minutes, turning occasionally.",
+    "Meanwhile, sauté onion and garlic in a pan until softened.",
+    "Add ground lamb and cook until browned, breaking up with a spoon as needed.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Fluff cooked rice with a fork and stir into lamb mixture.",
+    "Chop grilled aubergine and add to rice mixture.",
+    "Stuff each aubergine with dolma mixture, filling to the top.",
+    "Serve hot, garnished with chopped juicy tomatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "gluten-free",
+    "aubergine",
+    "dolma"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:57:08.676Z"
+}
