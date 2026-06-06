@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-crunchy-american-chickpeas-flatbread--vegetarian",
+  "title": "Crunchy Chickpea Flatbread",
+  "description": "A tasty and crunchy flatbread topped with chickpeas, a perfect vegetarian snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (6-8 flatbreads)",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 (15 ounce) can, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "American feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the flatbreads on a baking sheet.",
+    "Drizzle with olive oil and season with salt and black pepper.",
+    "Bake for 8-10 minutes, or until crispy.",
+    "While the flatbreads are baking, mix together the chickpeas, diced tomatoes, and thinly sliced red onion.",
+    "When the flatbreads are ready, top each with a spoonful of the chickpea mixture and a sprinkle of crumbled feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "flatbread",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-american-chickpeas-flatbread--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:05:01.344Z"
+}
