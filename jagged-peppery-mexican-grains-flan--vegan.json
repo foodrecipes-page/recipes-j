@@ -1,0 +1,80 @@
+{
+  "slug": "jagged-peppery-mexican-grains-flan--vegan",
+  "title": "Jagged Vegan Flan",
+  "description": "A rich and creamy vegan flan recipe made with jagged, peppery, and mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Jagged rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Mexican peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Flan mix",
+      "amount": "1 package",
+      "notes": "vegan"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Agave nectar",
+      "amount": "1 cup",
+      "notes": "vegan sweetener"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "vegan"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine the cooked jagged rice, ground peppercorns, and flan mix.",
+    "Cook over medium heat, whisking constantly, for 5 minutes.",
+    "Remove from heat and stir in the coconut cream, agave nectar, lime juice, and vanilla extract.",
+    "Pour the mixture into 6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45-50 minutes, or until the edges are set and the centers are slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled.",
+    "Serve the jagged vegan flan cold, garnished with a sprinkle of ground peppercorns if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mexican",
+    "dessert",
+    "flan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-mexican-grains-flan--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:06:41.046Z"
+}
