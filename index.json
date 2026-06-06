@@ -895,15 +895,12 @@
   },
   {
     "slug": "jagged-peppery-mexican-grains-flan",
-    "title": "Jagged Peppery Mexican Grains Flan",
+    "title": "Jagged Mexican Flan",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "mexican-inspired",
-      "midnight-cravings",
-      "one-pan",
-      "peppery",
-      "unique-desserts"
+      "mexican",
+      "flan",
+      "dessert",
+      "peppery"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 65,
@@ -18781,6 +18778,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 270,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crunchy-american-chickpeas-flatbread--mexican",
+    "title": "Crunchy Chickpea Tacos",
+    "tags": [
+      "mexican",
+      "vegan",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crunchy-american-chickpeas-flatbread--keto",
+    "title": "Keto Chickpea Flatbread Bites",
+    "tags": [
+      "keto",
+      "low-carb",
+      "snack",
+      "american"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
