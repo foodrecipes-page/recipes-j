@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-welsh-cod-stew--gluten-free",
+  "title": "Welsh Stew",
+  "description": "A hearty, comforting stew originating from Wales, perfect for a cold evening. This gluten-free version uses juicy cod and welsh ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy cod",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "welsh stew steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "leek",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion, carrots, and celery. Cook until the vegetables are tender.",
+    "Add the chopped leek and cook for another 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the welsh stew steak and cook until browned.",
+    "Add the juicy cod and cook until browned.",
+    "Add the tomato paste and gluten-free flour. Cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "fish",
+    "gluten-free",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-welsh-cod-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:21:05.514Z"
+}
