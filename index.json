@@ -18996,5 +18996,18 @@
     "cuisine": "British",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-welsh-cod-stew--mexican",
+    "title": "Mexican Cod Ceviche",
+    "tags": [
+      "mexican",
+      "ceviche",
+      "fish",
+      "appetizer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
