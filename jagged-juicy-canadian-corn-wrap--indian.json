@@ -1,0 +1,76 @@
+{
+  "slug": "jagged-juicy-canadian-corn-wrap--indian",
+  "title": "Jagged Corn Wrap",
+  "description": "A flavorful Indian-inspired wrap filled with juicy corn and crispy jagged strips.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Jagged strips",
+      "amount": "1/2 cup",
+      "notes": "Jagery or any other sweetener"
+    },
+    {
+      "name": "Canadian wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "For brushing the wrap"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Brush the wrap with vegetable oil.",
+    "Sprinkle garam masala evenly over the wrap.",
+    "Heat a non-stick pan over medium heat.",
+    "Add jagged strips and cook until caramelized, about 2-3 minutes.",
+    "Add corn and cook until lightly toasted, about 2-3 minutes.",
+    "Brush lemon juice over the filling.",
+    "Place the filling in the center of the wrap.",
+    "Fold the bottom half of the wrap over the filling, then fold in the sides.",
+    "Roll the wrap tightly into a neat cylinder.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "corn",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-juicy-canadian-corn-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:50:51.099Z"
+}
