@@ -18805,5 +18805,70 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--mexican",
+    "title": "Mexican Dolma Stuffed Aubergine",
+    "tags": [
+      "mexican",
+      "veggie-dinner",
+      "southwestern"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-juicy-canadian-corn-wrap--indian",
+    "title": "Jagged Corn Wrap",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "corn",
+      "wrap"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-jalapeno-peruvian-rocoto-relleno--thai",
+    "title": "Spicy Thai Relleno Stuffed Jalapenos",
+    "tags": [
+      "thai",
+      "veggie",
+      "spicy",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crunchy-american-chickpeas-flatbread--vegetarian",
+    "title": "Crunchy Chickpea Flatbread",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "flatbread",
+      "chickpeas"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-peppery-mexican-grains-flan--vegan",
+    "title": "Jagged Vegan Flan",
+    "tags": [
+      "vegan",
+      "mexican",
+      "dessert",
+      "flan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 65,
+    "shard": "j"
   }
 ]
