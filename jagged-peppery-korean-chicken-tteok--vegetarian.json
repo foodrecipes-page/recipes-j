@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-peppery-korean-chicken-tteok--vegetarian",
+  "title": "Spicy Korean Tteok Bowl",
+  "description": "A flavorful and spicy vegetarian bowl filled with crispy tteok, sweet and spicy sauce, and crunchy vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged Peppery Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tteok",
+      "amount": "1 cup",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying tteok"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add grated ginger and minced garlic and sauté until fragrant.",
+    "Add tteok and fry until crispy, about 3-4 minutes.",
+    "In a separate pan, combine soy sauce, honey, and rice vinegar.",
+    "Bring the sauce to a boil and then reduce the heat to simmer.",
+    "Add the spicy chili flakes to the sauce and stir well.",
+    "To assemble the bowl, place the crispy tteok on a plate, then drizzle the spicy sauce over the top.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "spicy",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-korean-chicken-tteok--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:58:17.894Z"
+}
