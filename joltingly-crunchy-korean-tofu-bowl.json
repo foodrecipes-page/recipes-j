@@ -1,0 +1,99 @@
+{
+  "slug": "joltingly-crunchy-korean-tofu-bowl",
+  "title": "Tofu Korean Crunch Bowl",
+  "description": "A quick and easy, spicy Korean-inspired bowl filled with crispy tofu, crunchy slaw, and served over a bed of steamed rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "steamed rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crunchy slaw (store-bought or homemade)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and set aside.",
+    "In a large bowl, whisk together soy sauce, rice vinegar, sugar, and korean chili flakes.",
+    "Add the tofu to the marinade and toss to coat.",
+    "Heat a large skillet over medium-high heat and cook the tofu until golden brown and crispy, about 5 minutes.",
+    "While the tofu is cooking, prepare the crunchy slaw according to package instructions or make your own using a food processor.",
+    "In a separate pan, heat some oil over medium heat and cook the cabbage, carrots, and cucumber until tender, about 5 minutes.",
+    "To assemble the bowls, place a scoop of steamed rice on the bottom, followed by a spoonful of the crunchy slaw, then the cooked tofu, and finally the sautéed vegetables.",
+    "Garnish with green onions, sesame seeds, and a sprinkle of korean chili flakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "gluten-free",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/joltingly-crunchy-korean-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:28:08.055Z"
+}
