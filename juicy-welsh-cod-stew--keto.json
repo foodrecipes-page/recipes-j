@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-welsh-cod-stew--keto",
+  "title": "Baked Cod with Juicy Welsh Stew",
+  "description": "A keto-friendly dish featuring baked cod served with a flavorful and moist Welsh stew.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Welsh stew meat",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped mushrooms",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt, black pepper, garlic powder, and dried thyme.",
+    "Heat the olive oil in an oven-safe pan over medium heat.",
+    "Sear the cod fillets for 2-3 minutes on each side, then transfer the pan to the preheated oven.",
+    "Bake the cod for 8-10 minutes or until cooked through.",
+    "In a separate pan, cook the Welsh stew meat over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and mushrooms to the pan with the stew meat and cook until the vegetables are softened.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the baked cod with the Welsh stew on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-cod",
+    "keto-dinner",
+    "welsh-stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-welsh-cod-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:43:11.044Z"
+}
