@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-jalapeno-peruvian-rocoto-relleno--thai",
+  "title": "Spicy Thai Relleno Stuffed Jalapenos",
+  "description": "A Thai twist on a traditional stuffed pepper dish, using jalapenos and juicy rellenos for added flavor and spice.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jalapeno peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Juicy Relleno",
+      "amount": "2"
+    },
+    {
+      "name": "Peruvian rocoto peppers",
+      "amount": "1"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut off the tops of the jalapeno peppers and remove the seeds and membranes.",
+    "3. In a pan, heat the coconut oil over medium heat.",
+    "4. Add the chopped Thai basil and sauté for 1 minute.",
+    "5. Add the fish sauce and brown sugar and stir to combine.",
+    "6. Add the chopped juicy relleno and stir to combine.",
+    "7. Stuff each jalapeno pepper with the relleno mixture.",
+    "8. Place the stuffed jalapenos in a baking dish and cover with foil.",
+    "9. Bake for 15 minutes.",
+    "10. Remove the foil and bake for an additional 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "veggie",
+    "spicy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-jalapeno-peruvian-rocoto-relleno--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:54:45.188Z"
+}
