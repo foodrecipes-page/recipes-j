@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-crunchy-american-chickpeas-flatbread--keto",
+  "title": "Keto Chickpea Flatbread Bites",
+  "description": "A keto twist on traditional flatbread, made with chickpea flour and crunchy texture.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crunchy almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "juicy tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine chickpea flour, almond flour, and salt.",
+    "Add eggs and mix until a dough forms.",
+    "Add crunchy almonds and mix until well combined.",
+    "Divide dough into 8 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk shape.",
+    "Brush tops with coconut oil.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "While baking, slice juicy tomato into thin slices.",
+    "Once flatbreads are done, let cool for 5 minutes.",
+    "Top each flatbread with a slice of tomato."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "snack",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-american-chickpeas-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:54:30.597Z"
+}
