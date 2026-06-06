@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-quick-norwegian-padron-peppers-grill--japanese",
+  "title": "Japanese Padron Pepper Skewers",
+  "description": "Grilled Padron peppers with a sweet Japanese twist, perfect for a quick and easy snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 pound, 12-15 peppers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled norwegian salmon (optional)",
+      "amount": "4 ounces, flaked"
+    },
+    {
+      "name": "juicy norwegian yogurt (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 3-4 Padron peppers onto each skewer.",
+    "In a small bowl, whisk together soy sauce, sake, and honey to make a glaze.",
+    "Brush the glaze evenly onto both sides of the peppers.",
+    "Grill the peppers for 3-4 minutes per side, or until slightly charred.",
+    "If using salmon, sprinkle it over the peppers during the last minute of grilling.",
+    "Remove the peppers from the grill and let them cool for a minute or two.",
+    "Serve hot, garnished with chopped scallions and a dollop of yogurt if desired.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grill",
+    "skewers",
+    "padron peppers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-quick-norwegian-padron-peppers-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:13:54.725Z"
+}
