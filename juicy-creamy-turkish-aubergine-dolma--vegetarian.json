@@ -1,12 +1,12 @@
 {
   "slug": "juicy-creamy-turkish-aubergine-dolma--vegetarian",
-  "title": "Turkish Dolma Aubergine",
-  "description": "A vegetarian take on the classic Turkish dish, using aubergine instead of meat. Filled with creamy and juicy rice mixture, this recipe is a must-try for any vegetarian.",
+  "title": "Turkish Stuffed Aubergine",
+  "description": "A flavorful vegetarian dish inspired by Turkish cuisine, where aubergine is filled with a creamy mixture of spices and herbs.",
   "cuisine": "Turkish",
   "diet": [
     "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "aubergine",
@@ -14,23 +14,13 @@
       "notes": "medium-sized"
     },
     {
-      "name": "rice",
+      "name": "dolma",
       "amount": "1 cup",
-      "notes": "uncooked"
-    },
-    {
-      "name": "tomato paste",
-      "amount": "2 tablespoons",
-      "notes": "crushed"
-    },
-    {
-      "name": "olive oil",
-      "amount": "1/4 cup",
-      "notes": "for brushing"
+      "notes": "chopped"
     },
     {
       "name": "onion",
-      "amount": "1 small",
+      "amount": "1/2",
       "notes": "chopped"
     },
     {
@@ -39,60 +29,65 @@
       "notes": "minced"
     },
     {
-      "name": "parsley",
-      "amount": "1/4 cup",
-      "notes": "chopped"
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
     },
     {
-      "name": "dolma spice mix",
-      "amount": "1 teaspoon",
-      "notes": "or to taste"
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
     },
     {
       "name": "salt",
-      "amount": "1/2 teaspoon",
-      "notes": "optional"
+      "amount": "to taste",
+      "notes": ""
     },
     {
       "name": "black pepper",
-      "amount": "1/4 teaspoon",
-      "notes": "optional"
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
     "Preheat oven to 375°F (190°C).",
-    "Cut the aubergine in half lengthwise and scoop out the insides, leaving a shell.",
-    "In a pan, heat 2 tablespoons of olive oil over medium heat.",
-    "Add the chopped onion and cook until softened, about 5 minutes.",
-    "Add the minced garlic and cook for another minute.",
-    "Add the crushed tomato paste and cook for 2 minutes, stirring constantly.",
-    "Add the uncooked rice, dolma spice mix, salt, and black pepper. Mix well.",
-    "Stuff each aubergine shell with the rice mixture, filling to the top.",
-    "Place the stuffed aubergine halves in a baking dish and brush with olive oil.",
-    "Cover the dish with foil and bake for 30 minutes.",
-    "Remove the foil and bake for an additional 15-20 minutes, or until the aubergine is tender.",
-    "Garnish with chopped parsley and serve hot."
+    "Cut the aubergine in half lengthwise and score the flesh.",
+    "In a bowl, mix together dolma, onion, garlic, tomato paste, cumin, paprika, salt, and black pepper.",
+    "Stuff each aubergine half with the mixture.",
+    "Drizzle olive oil over the aubergine and cover with foil.",
+    "Bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 45,
-  "totalTimeMin": 65,
-  "servings": 4,
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 2,
   "difficulty": "medium",
   "tags": [
+    "vegetarian",
     "turkish",
     "aubergine",
-    "vegetarian",
-    "rice",
     "dolma"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 6,
-    "carbs": 60,
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--vegetarian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-02T20:08:41.211Z"
+  "createdAt": "2026-06-02T21:43:20.542Z"
 }
