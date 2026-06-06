@@ -1,0 +1,102 @@
+{
+  "slug": "juicy-dutch-beef-roast",
+  "title": "Dutch Beef Roast with Juicy Gravy",
+  "description": "A hearty beef roast recipe with a rich, savory gravy made from the beef's juices. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "Dutch",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch beef roast",
+      "amount": "2 pounds",
+      "notes": "Choose a tender cut, such as a prime rib or top round."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the beef."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped for the gravy."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening the gravy."
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "For the gravy."
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional, for added depth of flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the beef."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the beef."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "For added flavor and aroma."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the flour to the pot and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add the beef broth and red wine (if using) to the pot, whisking constantly.",
+    "Return the beef roast to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and roast the beef for 2-3 hours, or until tender.",
+    "Remove the pot from the oven and let the beef rest for 10-15 minutes before slicing.",
+    "Strain the gravy through a fine-mesh sieve into a clean saucepan and bring to a simmer.",
+    "Serve the sliced beef with the rich, savory gravy spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dutch",
+    "roast",
+    "garlic",
+    "onion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "24g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-dutch-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:44:16.124Z"
+}
