@@ -18870,5 +18870,95 @@
     "cuisine": "Mexican",
     "totalTimeMin": 65,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash--indian",
+    "title": "Savory British Shrimp Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "shrimp",
+      "british"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--keto",
+    "title": "Keto Turkish Dolma Stuffed Aubergine",
+    "tags": [
+      "keto",
+      "turkish",
+      "stuffed-vegetable"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--gluten-free",
+    "title": "Grilled Turkish Aubergine Dolma",
+    "tags": [
+      "turkish",
+      "gluten-free",
+      "aubergine",
+      "dolma"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-peppery-mexican-grains-flan--vegetarian",
+    "title": "Cilantro Lime Mexican Jicama Salad",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "salad",
+      "easy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-welsh-cod-stew--keto",
+    "title": "Baked Cod with Juicy Welsh Stew",
+    "tags": [
+      "baked-cod",
+      "keto-dinner",
+      "welsh-stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-peppery-korean-chicken-tteok--vegetarian",
+    "title": "Spicy Korean Tteok Bowl",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "spicy",
+      "bowls"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--vegetarian",
+    "title": "Turkish Dolma Aubergine",
+    "tags": [
+      "turkish",
+      "aubergine",
+      "vegetarian",
+      "rice",
+      "dolma"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 65,
+    "shard": "j"
   }
 ]
