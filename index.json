@@ -18984,5 +18984,17 @@
     "cuisine": "British",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-midnight-savory-british-saeujeot-shrimp-paste-bangers-and-mash--vegetarian",
+    "title": "Savory British Mash",
+    "tags": [
+      "comfort-food",
+      "vegetarian",
+      "british"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
