@@ -6790,20 +6790,12 @@
   },
   {
     "slug": "joltingly-crunchy-korean-tofu-bowl",
-    "title": "Joltingly Crunchy Korean Tofu Bowl",
+    "title": "Tofu Korean Crunch Bowl",
     "tags": [
-      "black-peppercorns",
-      "crunchy",
-      "gochujang",
-      "green-onions",
-      "icy",
       "korean",
-      "korean-chili-flakes",
-      "rice-vinegar",
-      "sesame-seeds",
-      "soy-sauce",
-      "tofu",
-      "umami"
+      "vegan",
+      "gluten-free",
+      "easy"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -18763,6 +18755,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-quick-norwegian-padron-peppers-grill--japanese",
+    "title": "Japanese Padron Pepper Skewers",
+    "tags": [
+      "japanese",
+      "grill",
+      "skewers",
+      "padron peppers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-dutch-beef-roast--indian",
+    "title": "Dutch Beef Roast with Indian Spices",
+    "tags": [
+      "beef",
+      "indian",
+      "roast",
+      "special occasion"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 270,
     "shard": "j"
   }
 ]
