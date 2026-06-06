@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-creamy-turkish-aubergine-dolma--keto",
+  "title": "Keto Turkish Dolma Stuffed Aubergine",
+  "description": "A keto twist on traditional Turkish dolma, using aubergine as a vessel for creamy, juicy goodness.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ground meat (beef or lamb)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of paprika, cumin, coriander"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the aubergines and scoop out the insides.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the ground meat and cook until browned, breaking it up into small pieces.",
+    "Add the turkish spices, tomato paste, and salt. Stir to combine.",
+    "Stuff each aubergine with the meat mixture.",
+    "Place the stuffed aubergines in a baking dish.",
+    "Cover with foil and bake for 30 minutes.",
+    "Remove foil and top each aubergine with a dollop of ricotta cheese.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "turkish",
+    "stuffed-vegetable"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:48:55.532Z"
+}
