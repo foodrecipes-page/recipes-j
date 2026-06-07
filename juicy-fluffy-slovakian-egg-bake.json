@@ -1,0 +1,67 @@
+{
+  "slug": "juicy-fluffy-slovakian-egg-bake",
+  "title": "Slovakian Fluffy Pancakes",
+  "description": "Fluffy Slovakian-style pancakes with a hint of sweetness, perfect for a weekend breakfast. Serve warm with your favorite toppings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "juicy egg",
+      "amount": "2",
+      "notes": "Large eggs for light and fluffy pancakes"
+    },
+    {
+      "name": "fluffy flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour for a classic pancake texture"
+    },
+    {
+      "name": "slovakian sugar",
+      "amount": "2 tablespoons",
+      "notes": "Add a touch of sweetness to balance the flavors"
+    },
+    {
+      "name": "bake baking powder",
+      "amount": "2 teaspoons",
+      "notes": "Leavening agent for a light and airy texture"
+    },
+    {
+      "name": "bake milk",
+      "amount": "1 cup",
+      "notes": "Whole milk for added richness and moisture"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, sugar, and baking powder.",
+    "2. In a separate bowl, whisk together egg, milk, and a pinch of salt.",
+    "3. Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "4. Heat a non-stick skillet or griddle over medium heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "6. Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "7. Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "8. Serve warm with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fluffy-slovakian-egg-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:09:41.327Z"
+}
