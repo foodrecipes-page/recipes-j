@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-russian-beef-papillote",
+  "title": "Russian Beef Papillote with Juicy Vegetables",
+  "description": "A flavorful and healthy dish where beef and vegetables are cooked in a sealed pouch to retain moisture and flavors.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strip loin",
+      "amount": "1 pound",
+      "notes": "preferably 1-1.5 inches thick"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef with salt and black pepper.",
+    "Heat olive oil in a pan over medium-high heat. Sear the beef for 2-3 minutes on each side.",
+    "Transfer the beef to a piece of parchment paper or aluminum foil, leaving a 1-inch border around it.",
+    "Arrange the chopped carrots, onions, and potatoes around the beef.",
+    "Drizzle garlic over the vegetables.",
+    "Fold the parchment paper or foil over the beef and vegetables, creating a sealed pouch.",
+    "Place the papillote on a baking sheet and bake for 25-30 minutes or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Remove the papillote from the oven and let it rest for 5-10 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "russian",
+    "oven",
+    "papillote",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-russian-beef-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:10:25.954Z"
+}
