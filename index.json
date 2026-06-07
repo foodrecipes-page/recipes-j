@@ -6163,16 +6163,15 @@
   },
   {
     "slug": "jewelled-energizing-slovakian-fruit-mix-bowl",
-    "title": "Jewelled Energizing Slovakian Fruit Mix Bowl",
+    "title": "Slovakian Jewelled Fruit Parfait",
     "tags": [
-      "breakfast",
-      "diabetic-friendly",
-      "healthy-snack",
-      "low-calorie",
-      "refreshing"
+      "parfait",
+      "dessert",
+      "fruit",
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 15,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -12211,17 +12210,14 @@
   },
   {
     "slug": "juicy-fluffy-slovakian-egg-bake",
-    "title": "Juicy Fluffy Slovakian Egg Bake",
+    "title": "Slovakian Fluffy Pancakes",
     "tags": [
-      "brunch",
-      "fluffy",
-      "gluten-free",
-      "herbal",
-      "high-protein",
-      "one-pan"
+      "breakfast",
+      "slovakian",
+      "pancakes"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
