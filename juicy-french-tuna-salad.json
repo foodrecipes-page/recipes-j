@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-french-tuna-salad",
+  "title": "Japanese Tuna Salad",
+  "description": "A refreshing and easy-to-make salad featuring juicy tuna, crunchy vegetables, and a hint of Japanese flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi-grade tuna",
+      "amount": "1 can (5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "French dressing",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "juicy salmon roe (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salad greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the sushi-grade tuna into small pieces.",
+    "Slice the cucumber and carrot into thin strips.",
+    "In a large bowl, combine the tuna, cucumber, carrot, and salad greens.",
+    "Drizzle the French dressing over the top and toss to combine.",
+    "Sprinkle the sesame seeds over the top.",
+    "If using salmon roe, sprinkle over the top and serve immediately.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-french-tuna-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:55:36.014Z"
+}
