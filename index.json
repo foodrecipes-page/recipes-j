@@ -7212,17 +7212,15 @@
   },
   {
     "slug": "jovial-tender-saudi-arabian-sausages-stew",
-    "title": "Jovial Tender Saudi Arabian Sausages Stew",
+    "title": "Saudi Arabian Sausage Stew",
     "tags": [
-      "fodmap-friendly",
-      "herbal",
-      "lazy-sunday",
-      "one-pot",
-      "saudi-arabian",
-      "tender-sausages"
+      "saudi",
+      "arabian",
+      "stew",
+      "sausages"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "saudi",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
@@ -10993,18 +10991,14 @@
   },
   {
     "slug": "juicy-crispy-algerian-lamb-bowl",
-    "title": "Juicy Crispy Algerian Lamb Bowl",
+    "title": "Crispy Algerian Lamb Bowl",
     "tags": [
-      "algerian-flavor",
-      "indulgent",
-      "keto-friendly",
-      "massaman",
-      "mustard-cream",
-      "one-pot",
-      "pressure-cook"
+      "algerian",
+      "lamb",
+      "bowl"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
