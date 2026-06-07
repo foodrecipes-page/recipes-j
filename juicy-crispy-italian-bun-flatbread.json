@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-crispy-italian-bun-flatbread",
+  "title": "Italian Hoagie Sandwiches",
+  "description": "Classic Italian-style sandwiches featuring juicy meats, crispy vegetables, and crunchy flatbread. Perfect for a quick lunch or dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6",
+      "notes": "preferably Italian-style"
+    },
+    {
+      "name": "Italian Cold Cuts",
+      "amount": "8 oz",
+      "notes": "such as salami and ham"
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Crunchy Lettuce",
+      "amount": "1 head",
+      "notes": "such as romaine or iceberg"
+    },
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and onions"
+    },
+    {
+      "name": "Italian Dressing",
+      "amount": "4 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a panini press or grill to medium-high heat.",
+    "2. Slice the cold cuts and cheese into thin strips.",
+    "3. Layer the flatbread with cold cuts, cheese, lettuce, and vegetables.",
+    "4. Drizzle Italian dressing over the top.",
+    "5. Brush olive oil onto the flatbread.",
+    "6. Season with salt and pepper to taste.",
+    "7. Place the sandwiches onto the preheated press or grill.",
+    "8. Cook for 3-5 minutes or until the cheese is melted and the bread is crispy.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sandwich",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-italian-bun-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:17:16.812Z"
+}
