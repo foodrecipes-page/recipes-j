@@ -1,0 +1,84 @@
+{
+  "slug": "jovial-tender-saudi-arabian-sausages-stew",
+  "title": "Saudi Arabian Sausage Stew",
+  "description": "A hearty stew originating from Saudi Arabia, made with flavorful sausages and tender chunks of stew meat.",
+  "cuisine": "saudi",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jovial stew meat",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Tender onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tender garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the sausages in a large Dutch oven over medium-high heat.",
+    "Remove the sausages from the pot and set them aside.",
+    "Add the stew meat to the pot and cook until browned, about 5 minutes.",
+    "Add the onions and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the Arabian spices, beef broth, salt, and black pepper to the pot.",
+    "Return the sausages to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "stew",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-tender-saudi-arabian-sausages-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:17:00.240Z"
+}
