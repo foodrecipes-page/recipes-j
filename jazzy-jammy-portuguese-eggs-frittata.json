@@ -1,0 +1,57 @@
+{
+  "slug": "jazzy-jammy-portuguese-eggs-frittata",
+  "title": "Portuguese Frittata",
+  "description": "A Portuguese-inspired frittata made with eggs, jazzed up with jazzy peppers and jammy tomatoes.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "jazzy peppers",
+      "amount": "2"
+    },
+    {
+      "name": "jammy tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs in a bowl and season with salt.",
+    "Heat a skillet over medium heat and add jazzed-up peppers.",
+    "Add jammy tomatoes and cook until softened.",
+    "Pour whisked eggs over the vegetables and cook until edges start to set.",
+    "Transfer skillet to the oven and bake for 15-20 minutes.",
+    "Remove from oven and let it cool for a few minutes.",
+    "Slice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "frittata",
+    "breakfast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-jammy-portuguese-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:41:20.294Z"
+}
