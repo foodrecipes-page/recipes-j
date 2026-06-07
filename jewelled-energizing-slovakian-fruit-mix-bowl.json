@@ -1,0 +1,79 @@
+{
+  "slug": "jewelled-energizing-slovakian-fruit-mix-bowl",
+  "title": "Slovakian Jewelled Fruit Parfait",
+  "description": "A delicious and healthy dessert made with layers of fruit, jewelled mix, and a touch of sweetness.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fruit (e.g. strawberries, blueberries, grapes)",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Jewelled Mix",
+      "amount": "1/2 cup",
+      "notes": "any combination of sparkling sugar, edible glitter"
+    },
+    {
+      "name": "Slovakian Fruit Bowl Mix",
+      "amount": "1/2 cup",
+      "notes": "a mix of dried fruits and nuts"
+    },
+    {
+      "name": "Plain Yogurt",
+      "amount": "6 ounces",
+      "notes": "any type"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "for soaking dried fruits"
+    }
+  ],
+  "instructions": [
+    "Prepare the fruit bowl mix according to the package instructions.",
+    "In a small bowl, mix together the plain yogurt, honey, and vanilla extract (if using).",
+    "Layer the fruit, jewelled mix, and fruit bowl mix in a parfait glass or a large bowl.",
+    "Drizzle the yogurt mixture over the top layer.",
+    "Repeat the layers one more time, ending with the fruit on top.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, drizzle with a little water to help the dried fruits rehydrate.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "parfait",
+    "dessert",
+    "fruit",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-energizing-slovakian-fruit-mix-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:09:55.045Z"
+}
