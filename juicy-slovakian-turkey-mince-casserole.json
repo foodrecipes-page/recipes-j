@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-slovakian-turkey-mince-casserole",
+  "title": "Slovakian Turkey Mince Casserole",
+  "description": "A hearty and flavorful dish made with Slovakian spices, turkey mince, and a crispy casserole top.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "500g",
+      "notes": "Freshly ground turkey mince"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 tsp",
+      "notes": "Available at most European grocery stores"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the turkey mince"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped and sautéed until softened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and added to the pan"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Traditional Slovakian spice"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular breadcrumbs work well"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "For the casserole top"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large pan, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the turkey mince to the pan, breaking it up with a spoon as it cooks.",
+    "Once the turkey is browned, add the Slovakian paprika, caraway seeds, and a pinch of salt and pepper.",
+    "Stir to combine and cook for another minute.",
+    "Transfer the turkey mixture to a 20x20cm baking dish.",
+    "Sprinkle the breadcrumbs and grated cheese over the top.",
+    "Bake in the preheated oven for 25-30 minutes, until the casserole is golden brown and the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "casserole",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-slovakian-turkey-mince-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:46:06.329Z"
+}
