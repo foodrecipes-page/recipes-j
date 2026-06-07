@@ -12246,18 +12246,14 @@
   },
   {
     "slug": "juicy-french-tuna-salad",
-    "title": "Juicy French Tuna Salad",
+    "title": "Japanese Tuna Salad",
     "tags": [
-      "pescatarian",
-      "low-sodium",
-      "sous-vide",
-      "fresh",
+      "japanese",
       "salad",
-      "french",
-      "quick"
+      "seafood"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 65,
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -14122,17 +14118,14 @@
   },
   {
     "slug": "juicy-molten-slovakian-pork-stew",
-    "title": "Juicy Molten Slovakian Pork Stew",
+    "title": "Slovakian Pork Stew",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pot",
-      "pork-recipes",
-      "slovakian-cuisine",
-      "slow-cooked"
+      "slovakian",
+      "stew",
+      "pork"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {
