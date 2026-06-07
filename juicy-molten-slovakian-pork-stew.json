@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-molten-slovakian-pork-stew",
+  "title": "Slovakian Pork Stew",
+  "description": "A hearty Slovakian-inspired stew made with tender pork and juicy vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add carrot and potato to pot and cook for 5 minutes.",
+    "Add mushroom to pot and cook until tender, about 5 minutes.",
+    "Add tomato paste, beef broth, and paprika to pot. Stir to combine.",
+    "Return pork to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until pork is tender, about 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-molten-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:57:07.300Z"
+}
