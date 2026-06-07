@@ -1,0 +1,73 @@
+{
+  "slug": "jawshan-syrian-butter-tagine",
+  "title": "Syrian Chicken Tagine",
+  "description": "A traditional Syrian dish made with chicken cooked in a flavorful tagine sauce with a hint of jawshan, served with a side of crusty bread.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Jawshan",
+      "amount": "2 tsp",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Syrian tagine sauce",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large tagine or Dutch oven over medium heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add jawshan and cook for 1 minute, stirring constantly.",
+    "Add tagine sauce and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over crusty bread or with steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle-eastern",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jawshan-syrian-butter-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:00:11.773Z"
+}
