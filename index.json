@@ -1058,16 +1058,16 @@
   },
   {
     "slug": "jagged-sick-day-mustardy-kenyan-lasagne-skillet",
-    "title": "Jagged, sick-day mustardy Kenyan Lasagne Skillet",
+    "title": "Kenyan Skillet Feast",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "vegan",
+      "kenyan",
+      "skillet"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -9434,17 +9434,14 @@
   },
   {
     "slug": "jucy-weeknight-ethiopian-morcilla-tagine",
-    "title": "Jucy Weeknight Ethiopian Morcilla Tagine",
+    "title": "Spicy Beef Tagine with Morcilla",
     "tags": [
-      "ethiopian",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "beef",
+      "tagine",
+      "morcilla"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
@@ -15119,16 +15116,16 @@
   },
   {
     "slug": "juicy-russian-beef-papillote",
-    "title": "Juicy Russian Beef Papillote",
+    "title": "Russian Beef Papillote with Juicy Vegetables",
     "tags": [
       "beef",
-      "one-pan",
-      "papillote",
       "russian",
-      "weeknight"
+      "oven",
+      "papillote",
+      "healthy"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
