@@ -1,0 +1,66 @@
+{
+  "slug": "jubilant-peppery-turkish-scallions-menemen",
+  "title": "Scallion and Menemen Turkish Omelette",
+  "description": "A flavorful and spicy Turkish-inspired omelette filled with scallions and menemen.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Scallions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Menemen",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Turkish",
+      "amount": "",
+      "notes": "Paprika"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "",
+      "notes": "Optional, chopped fresh herbs like parsley or dill"
+    }
+  ],
+  "instructions": [
+    "Crack 2 eggs into a bowl and whisk them together.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add 1 tablespoon of oil to the pan and swirl it around.",
+    "Add the chopped scallions and menemen to the pan and sauté for 2-3 minutes.",
+    "Pour the whisked eggs over the scallions and menemen.",
+    "Sprinkle a pinch of Turkish paprika over the eggs.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Once the eggs are almost set, use the spatula to fold the omelette in half.",
+    "Cook for another minute and serve hot.",
+    "Optional: Garnish with chopped jubilant herbs."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "omelette",
+    "breakfast",
+    "scallions",
+    "menemen"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-peppery-turkish-scallions-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:28:40.435Z"
+}
