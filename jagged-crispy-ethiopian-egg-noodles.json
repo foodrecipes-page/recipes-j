@@ -1,0 +1,77 @@
+{
+  "slug": "jagged-crispy-ethiopian-egg-noodles",
+  "title": "Egg Noodle Stir Fry with Jagged Ethiopian Seasoning",
+  "description": "A quick and easy stir fry recipe using jagged ethiopian seasoning and crispy noodles. Perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "jagged ethiopian seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onion and garlic and stir-fry until onion is translucent.",
+    "Push onion mixture to one side of the pan.",
+    "Add a little more oil if necessary, then add the beaten eggs.",
+    "Scramble the eggs until they are cooked through, breaking them up into small pieces as they cook.",
+    "Mix the eggs with the onion mixture.",
+    "Add the noodles, jagged ethiopian seasoning, and chopped crispy noodles to the pan.",
+    "Stir-fry everything together for about 2-3 minutes, until the noodles are well coated with the seasoning.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "ethiopian",
+    "noodles",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-ethiopian-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:18:31.516Z"
+}
