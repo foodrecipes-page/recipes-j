@@ -1,0 +1,95 @@
+{
+  "slug": "jerk-tender-jamaican-meat-tagine",
+  "title": "Jamaican Jerk Tender Tagine",
+  "description": "A flavorful and aromatic tagine dish made with tender meat infused with the bold flavors of Jamaican jerk seasoning.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender meat cut into 2-inch cubes",
+      "amount": "1 lb",
+      "notes": "Beef or pork work well"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the meat and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and ginger, and cook until the onion is translucent, about 5 minutes.",
+    "Add the jerk seasoning, tagine spice mix, and brown sugar, and cook for 1 minute.",
+    "Add the coconut milk, chicken broth, and salt, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Serve the tagine over rice or with naan bread.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jerk",
+    "tagine",
+    "jamaican",
+    "beef",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerk-tender-jamaican-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:12:08.572Z"
+}
