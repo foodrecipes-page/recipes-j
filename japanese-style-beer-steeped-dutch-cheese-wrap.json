@@ -1,0 +1,50 @@
+{
+  "slug": "japanese-style-beer-steeped-dutch-cheese-wrap",
+  "title": "Dutch Beer Cheese Wrap",
+  "description": "A savory, Japanese-inspired snack using a Dutch beer-steeped cheese wrapped in a crispy tortilla.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beer-steeped Dutch cheese",
+      "amount": "8 oz",
+      "notes": "steep 1 cup Dutch beer in 8 oz cheese for 30 minutes"
+    },
+    {
+      "name": "Japanese wrap",
+      "amount": "1",
+      "notes": "use a crispy Japanese-style tortilla"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Steep the beer in the cheese for 30 minutes.",
+    "Slice the cucumber into thin strips.",
+    "Place 2 oz of the beer-steeped cheese onto the Japanese wrap.",
+    "Add cucumber slices on top of the cheese.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "beer",
+    "cheese",
+    "wrap"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-style-beer-steeped-dutch-cheese-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:09:14.701Z"
+}
