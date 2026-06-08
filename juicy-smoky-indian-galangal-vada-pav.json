@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-smoky-indian-galangal-vada-pav",
+  "title": "Smoky Pav Vada",
+  "description": "A flavorful Indian street food dish made with spiced vada fritters served in a crispy pav bun.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vada",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Pav",
+      "amount": "4 buns",
+      "notes": "split open"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "grate"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 medium",
+      "notes": "chop"
+    },
+    {
+      "name": "Smoky green chutney",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of oil in a wok to 325°F (165°C).",
+    "Deep fry the vadas until golden brown, about 3-4 minutes.",
+    "Drain excess oil from the vadas.",
+    "Split open the pav buns and toast until lightly browned.",
+    "Spread a layer of green chutney on the pav buns.",
+    "Arrange the fried vadas on top of the pav buns.",
+    "Garnish with grated galangal and chopped tomatoes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "veggie",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-indian-galangal-vada-pav",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:04:25.853Z"
+}
