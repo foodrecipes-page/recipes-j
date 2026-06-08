@@ -314,16 +314,15 @@
   },
   {
     "slug": "jagged-crispy-ethiopian-egg-noodles",
-    "title": "Jagged Crispy Ethiopian Egg Noodles",
+    "title": "Egg Noodle Stir Fry with Jagged Ethiopian Seasoning",
     "tags": [
-      "crispy-noodles",
-      "ethiopian-cuisine",
-      "lunch-ideas",
-      "paleo-friendly",
-      "snack-ideas"
+      "stir-fry",
+      "ethiopian",
+      "noodles",
+      "quick-dinner"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -9239,14 +9238,12 @@
   },
   {
     "slug": "jubilant-vietnamese-vegetable-noodles",
-    "title": "Jubilant Vietnamese Vegetable Noodles",
+    "title": "Jubilant Vietnamese Noodle Soup",
     "tags": [
-      "lacquerware-bowl",
-      "noodle-dish",
-      "plant-based",
-      "vegan-friendly",
-      "vegetarian-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "noodle-soup",
+      "vegetarian",
+      "soup"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -13375,17 +13372,15 @@
   },
   {
     "slug": "juicy-kenyan-raspberry-braise",
-    "title": "Juicy Kenyan Raspberry Braise",
+    "title": "Braised Kenyan Beef with Raspberry Glaze",
     "tags": [
-      "kenyan-cuisine",
-      "low-calorie",
-      "monsoon-season",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "kenyan",
+      "braised",
+      "raspberry"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 195,
     "shard": "j"
   },
   {
