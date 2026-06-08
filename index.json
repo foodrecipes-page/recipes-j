@@ -5037,19 +5037,14 @@
   },
   {
     "slug": "jelly-like-silky-ukrainian-phyllo-dough-vareniki",
-    "title": "Jelly-like Silky Ukrainian Phyllo dough Vareniki",
+    "title": "Ukrainian-Style Phyllo Vareniki",
     "tags": [
-      "brunch",
-      "high-protein",
-      "phyllo-dough",
-      "ricotta-cheese",
-      "spring",
+      "dessert",
       "ukrainian",
-      "vegetarian",
-      "weekend"
+      "phyllo"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -7974,16 +7969,14 @@
   },
   {
     "slug": "jubilant-dutch-fettuccine-pasta",
-    "title": "Jubilant Dutch Fettuccine Pasta",
+    "title": "Creamy Jubilant Fettuccine",
     "tags": [
-      "brunch-ideas",
-      "dutch-cuisine",
-      "halal-friendly",
-      "one-pot",
-      "pasta-lover"
+      "pasta",
+      "italian",
+      "creamy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
