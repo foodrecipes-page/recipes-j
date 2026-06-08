@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-spicy-ethiopian-chicken-wot",
+  "title": "Spicy Ethiopian Chicken Wot",
+  "description": "A flavorful and spicy Ethiopian-inspired dish made with juicy chicken and wot sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Spicy red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Wot sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the cumin, coriander, paprika, and spicy red pepper flakes. Cook for 1 minute.",
+    "Add the wot sauce and juicy tomatoes. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "ethiopian",
+    "chicken",
+    "wot",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-ethiopian-chicken-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:42:56.279Z"
+}
