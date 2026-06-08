@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-crisp-greek-cheese-saganaki",
+  "title": "Crispy Saganaki Fritters with Greek Cheese",
+  "description": "A twist on Greek appetizers, these crispy fritters filled with saganaki cheese will delight your taste buds.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup greek cheese, crumbled",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup saganaki cheese, crumbled",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together flour, egg, and milk to make a batter.",
+    "2. Add crumbled greek cheese, saganaki cheese, parsley, salt, and pepper to the batter. Mix well.",
+    "3. Heat olive oil in a deep frying pan over medium heat.",
+    "4. Using a spoon, drop small amounts of the batter into the hot oil.",
+    "5. Fry the fritters for 2-3 minutes on each side, until crispy and golden brown.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the crispy fritters warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "cheese",
+    "appetizer",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-greek-cheese-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:12:19.376Z"
+}
