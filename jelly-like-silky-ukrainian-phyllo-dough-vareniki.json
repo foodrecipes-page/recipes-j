@@ -1,0 +1,78 @@
+{
+  "slug": "jelly-like-silky-ukrainian-phyllo-dough-vareniki",
+  "title": "Ukrainian-Style Phyllo Vareniki",
+  "description": "A sweet and flaky pastry dessert filled with a sweet filling, inspired by traditional Ukrainian vareniki. This recipe combines the delicate taste of phyllo dough with the rich flavor of a sweet jelly filling.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 24-30 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Jelly",
+      "amount": "1 cup",
+      "notes": "Any flavor of jelly, such as strawberry or blueberry"
+    },
+    {
+      "name": "Like",
+      "amount": null,
+      "notes": "You can omit this ingredient as it's likely a mistake in the list"
+    },
+    {
+      "name": "Silky",
+      "amount": null,
+      "notes": "You can omit this ingredient as it's likely a mistake in the list"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": null,
+      "notes": "You can omit this ingredient as it's likely a mistake in the list"
+    },
+    {
+      "name": "Dough",
+      "amount": null,
+      "notes": "You can omit this ingredient as phyllo dough is already provided"
+    },
+    {
+      "name": "Vareniki",
+      "amount": null,
+      "notes": "You can omit this ingredient as phyllo dough is already provided"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Cut the phyllo dough into squares, about 3-4 inches per side.",
+    "Place a spoonful of jelly in the center of each square.",
+    "Fold the phyllo dough into a triangle or a square shape, pressing the edges to seal the filling inside.",
+    "Place the vareniki on a baking sheet lined with parchment paper.",
+    "Brush the tops of the vareniki with a little bit of water.",
+    "Bake the vareniki for 20-25 minutes, or until golden brown.",
+    "Serve the vareniki warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "ukrainian",
+    "phyllo"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-silky-ukrainian-phyllo-dough-vareniki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:00:00.006Z"
+}
