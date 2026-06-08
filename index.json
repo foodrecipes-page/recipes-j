@@ -2751,18 +2751,15 @@
   },
   {
     "slug": "japanese-style-beer-steeped-dutch-cheese-wrap",
-    "title": "Japanese-Style Beer-Steeped Dutch Cheese Wrap",
+    "title": "Dutch Beer Cheese Wrap",
     "tags": [
+      "japanese",
       "beer",
       "cheese",
-      "dutch",
-      "easy-to-make",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "wrap"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -5193,16 +5190,16 @@
   },
   {
     "slug": "jerk-tender-jamaican-meat-tagine",
-    "title": "Jerk Tender Jamaican Meat Tagine",
+    "title": "Jamaican Jerk Tender Tagine",
     "tags": [
-      "high-protein",
+      "jerk",
+      "tagine",
       "jamaican",
-      "keto",
-      "one-pan",
-      "tagine"
+      "beef",
+      "pork"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
