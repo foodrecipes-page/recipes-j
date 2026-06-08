@@ -1,0 +1,66 @@
+{
+  "slug": "jubilant-norwegian-rice-fried-rice",
+  "title": "Norwegian Jubilant Rice Bowl",
+  "description": "A hearty and flavorful rice bowl dish inspired by Norwegian cuisine, featuring jubilant rice and a variety of savory ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jubilant Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Smoked Salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss carrots with olive oil and season with salt and pepper. Roast for 20 minutes.",
+    "Cook jubilant rice according to package instructions.",
+    "Caramelize onions in a pan with olive oil over medium heat for 10 minutes.",
+    "Pan-sear smoked salmon for 3-4 minutes per side.",
+    "Assemble rice bowls with roasted carrots, caramelized onions, smoked salmon, and fresh dill.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rice-bowl",
+    "norwegian-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:37:06.388Z"
+}
