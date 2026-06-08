@@ -10879,17 +10879,15 @@
   },
   {
     "slug": "juicy-crisp-greek-cheese-saganaki",
-    "title": "Juicy Crisp Greek Cheese Saganaki",
+    "title": "Crispy Saganaki Fritters with Greek Cheese",
     "tags": [
-      "cheese-recipe",
-      "crisp",
-      "garlicky",
-      "greek-cuisine",
-      "kosher-friendly",
-      "lazy-sunday"
+      "greek",
+      "cheese",
+      "appetizer",
+      "fritters"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -11212,17 +11210,16 @@
   },
   {
     "slug": "juicy-croatian-lamb-stew",
-    "title": "Juicy Croatian Lamb Stew",
+    "title": "Croatian Style Braised Lamb Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "hearty-stew",
-      "lamb-recipes",
-      "slow-cooked",
-      "talavera-plate"
+      "lamb",
+      "stew",
+      "croatian",
+      "braised",
+      "hearty"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
