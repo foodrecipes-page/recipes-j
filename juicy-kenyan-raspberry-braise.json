@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-kenyan-raspberry-braise",
+  "title": "Braised Kenyan Beef with Raspberry Glaze",
+  "description": "A sweet and tangy take on a classic braised beef dish, featuring the rich flavors of Kenya. Serve with a side of roasted vegetables for a hearty meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan beef (1 pound)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Raspberries (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Braising liquid (beef broth and red wine)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar (1 tablespoon)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C). Season beef with salt and pepper.",
+    "Heat oil in a Dutch oven over medium-high heat. Sear beef until browned on all sides, about 2-3 minutes per side.",
+    "Remove beef from pot and set aside. Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add braising liquid and brown sugar to pot, scraping up any browned bits from the bottom.",
+    "Return beef to pot and bring to a boil. Cover and transfer to the preheated oven.",
+    "Braise for 2 1/2 to 3 hours, or until beef is tender.",
+    "While beef is braising, mix raspberries with a little bit of water to create a glaze.",
+    "After 2 1/2 hours of braising, brush the raspberry glaze over the beef and continue to braise for another 30 minutes.",
+    "Remove beef from pot and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "braised",
+    "raspberry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-kenyan-raspberry-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:35:48.489Z"
+}
