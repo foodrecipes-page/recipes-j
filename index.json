@@ -8615,17 +8615,14 @@
   },
   {
     "slug": "jubilant-norwegian-rice-fried-rice",
-    "title": "Jubilant Norwegian Rice Fried Rice",
+    "title": "Norwegian Jubilant Rice Bowl",
     "tags": [
-      "easy-meals",
-      "healthy-rice",
-      "jain-friendly",
-      "lunch-ideas",
+      "rice-bowl",
       "norwegian-cuisine",
-      "one-pan"
+      "easy-recipe"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -16387,17 +16384,16 @@
   },
   {
     "slug": "juicy-spicy-ethiopian-chicken-wot",
-    "title": "juicy spicy ethiopian chicken wot",
+    "title": "Spicy Ethiopian Chicken Wot",
     "tags": [
-      "dinner",
+      "spicy",
       "ethiopian",
-      "hearty",
-      "one-pan",
-      "romantic",
-      "spherified"
+      "chicken",
+      "wot",
+      "juicy"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
