@@ -1,0 +1,75 @@
+{
+  "slug": "jovial-golden-portuguese-cheese-lasagna",
+  "title": "Portuguese Lasagna with Golden Cheese",
+  "description": "A delicious twist on the classic lasagna, infused with the flavors of Portugal. This dish is perfect for a cozy dinner with family and friends.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jovial Lasagna Noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Golden Cheese (Cheddar)",
+      "amount": "1 cup, shredded",
+      "notes": "Grated to perfection"
+    },
+    {
+      "name": "Portuguese-Style Meat Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Jovial Lasagna Noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté minced garlic in olive oil until fragrant.",
+    "Add Portuguese-Style Meat Sauce to the skillet and stir to combine.",
+    "In a large bowl, combine cooked noodles, meat sauce, and shredded Golden Cheese. Mix well.",
+    "Transfer the noodle mixture to a 9x13-inch baking dish.",
+    "Top with additional shredded Golden Cheese and chopped parsley.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "lasagna",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-golden-portuguese-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:32:43.607Z"
+}
