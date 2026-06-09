@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-crispy-kenyan-sweet-potato-fritters",
+  "title": "Kenyan Sweet Potato Fritters",
+  "description": "Crispy fried fritters made with mashed sweet potatoes, a hint of Kenyan spices, and a crunchy jagged coating.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jagged",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kenyan spices (e.g., cumin, coriander)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Grate the sweet potatoes and set aside.",
+    "Mix together the flour, jagged, crispy fried onions, and Kenyan spices.",
+    "Add the grated sweet potatoes and salt to the mixture. Mix well.",
+    "Add water as needed to form a thick batter.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small portions of the batter into the oil.",
+    "Fry until golden brown and crispy.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "snack",
+    "sweet-potato",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-kenyan-sweet-potato-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:13:32.260Z"
+}
