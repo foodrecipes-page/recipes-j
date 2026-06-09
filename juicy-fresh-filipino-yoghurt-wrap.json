@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-fresh-filipino-yoghurt-wrap",
+  "title": "Filipino Style Chicken Wrap",
+  "description": "A twist on traditional wraps, this Filipino-style chicken wrap is flavorful and refreshing. Perfect for a quick meal or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "poultry",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "Filipino-style BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Juicy fresh spinach leaves",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Freshly cracked black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Yoghurt-based cucumber sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Freshly made wrap",
+      "amount": "1",
+      "notes": "use a large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the chicken strips for 5-6 minutes on each side, or until cooked through.",
+    "Let the chicken rest for 2 minutes before slicing into thin strips.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the yoghurt-based cucumber sauce onto the wrap, leaving a 1-inch border around the edges.",
+    "Add sliced chicken on top of the sauce, followed by a handful of fresh spinach leaves.",
+    "Drizzle the Filipino-style BBQ sauce over the top of the chicken.",
+    "Season with freshly cracked black pepper to taste.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "bbq",
+    "wrap",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fresh-filipino-yoghurt-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:56:10.771Z"
+}
