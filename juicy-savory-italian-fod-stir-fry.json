@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-savory-italian-fod-stir-fry",
+  "title": "Italian Stir-Fry Delight",
+  "description": "A quick and easy stir-fry dish that combines the flavors of Italy with the simplicity of a stir-fry.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Italian Sausage",
+      "amount": "1 pound",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Fresh Bell Peppers",
+      "amount": "2",
+      "notes": "Green, red, or yellow"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": "Available in most grocery stores"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of olive oil and swirl to coat the pan.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the pan and set aside.",
+    "Add the sliced onion and bell peppers to the pan and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked sausage back into the pan and stir to combine with the onion and bell peppers.",
+    "Add the Italian seasoning and stir-fry sauce to the pan and cook for 1-2 minutes, until the sauce has thickened.",
+    "Serve the stir-fry over cooked rice and garnish with chopped fresh basil.",
+    "Enjoy your delicious Italian stir-fry!",
+    "Cook time: 15 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "stirfry",
+    "easy",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savory-italian-fod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:03:14.828Z"
+}
