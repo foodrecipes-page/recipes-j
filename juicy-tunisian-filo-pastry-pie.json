@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-tunisian-filo-pastry-pie",
+  "title": "Tunisian Chicken Pie",
+  "description": "A delicious and savory pie filled with spicy Tunisian chicken and wrapped in crispy filo pastry.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "500g"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Filo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1/4 cup, for brush"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a pan, cook the chopped onion and garlic until softened.",
+    "Add the chicken breasts and cook until browned.",
+    "Add the Tunisian harissa and cook for 1 minute.",
+    "Roll out the filo pastry and cut into squares.",
+    "Place a spoonful of the chicken mixture onto one half of each square and fold in half.",
+    "Brush the edges with pastry dough and press to seal.",
+    "Place the pies on a baking sheet and brush with pastry dough.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tunisian",
+    "filo",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tunisian-filo-pastry-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:08:07.516Z"
+}
