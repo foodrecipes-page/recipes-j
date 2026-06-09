@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-chinese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A quick and delicious Chinese-inspired dish featuring juicy pork dumplings pan-seared to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground pork"
+    },
+    {
+      "name": "dumplings",
+      "amount": "20",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Once the pork is browned, add the dumplings to the skillet and cook until they're golden brown on the bottom.",
+    "Add 1/2 cup of water to the skillet and cover with a lid.",
+    "Steam the dumplings for 5-7 minutes, or until they're cooked through.",
+    "Remove the lid and cook for an additional 2-3 minutes, or until the dumplings are golden brown on the top.",
+    "Serve the dumplings hot with soy sauce, sesame oil, chopped scallions, and a sprinkle of salt and pepper.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pork",
+    "dumplings",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:33:33.372Z"
+}
