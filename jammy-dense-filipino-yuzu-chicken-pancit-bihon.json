@@ -1,0 +1,74 @@
+{
+  "slug": "jammy-dense-filipino-yuzu-chicken-pancit-bihon",
+  "title": "Filipino Chicken Pancit",
+  "description": "A classic Filipino stir-fry dish made with chicken, pancit noodles, and a blend of savory and sweet flavors.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pancit",
+      "amount": "1 cup",
+      "notes": "dried rice noodles"
+    },
+    {
+      "name": "buhoh bihon",
+      "amount": "1 cup",
+      "notes": "dried rice noodles"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Cook pancit and buhoh bihon according to package instructions.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add chicken to the skillet and cook until browned and cooked through.",
+    "Remove chicken from the skillet and set aside.",
+    "Add yuzu juice and soy sauce to the skillet and stir to combine.",
+    "Add cooked pancit and buhoh bihon to the skillet and stir-fry until well combined.",
+    "Return chicken to the skillet and stir-fry for another 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "noodles",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-dense-filipino-yuzu-chicken-pancit-bihon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:06:46.327Z"
+}
