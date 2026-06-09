@@ -1,0 +1,56 @@
+{
+  "slug": "juicy-argentinian-beef-toast",
+  "title": "Argentinian Beef Sandwiches",
+  "description": "A classic Argentinian-inspired dish featuring grilled beef on toasted bread. Serve immediately and enjoy.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "juicy beef",
+      "amount": "250g",
+      "notes": "thin slices for garnish"
+    },
+    {
+      "name": "toast",
+      "amount": "8 slices",
+      "notes": "crusty bread"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season beef with salt and pepper on both sides.",
+    "Grill beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, toast bread slices on grill or in toaster.",
+    "Assemble sandwiches by placing grilled beef on toasted bread, followed by a few slices of juicy beef.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-beef-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:01:14.660Z"
+}
