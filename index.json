@@ -6167,18 +6167,16 @@
   },
   {
     "slug": "jewelled-indian-apricot-paratha-bread",
-    "title": "Jewelled Indian Apricot Paratha Bread",
+    "title": "Jewelled Apricot Paratha",
     "tags": [
-      "apricot",
       "breakfast",
-      "festival",
-      "festive",
-      "north-indian",
+      "snack",
+      "indian",
       "paratha",
-      "sweet"
+      "apricot"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -9677,17 +9675,15 @@
   },
   {
     "slug": "juicy-argentinian-beef-toast",
-    "title": "Juicy Argentinian Beef Toast",
+    "title": "Argentinian Beef Sandwiches",
     "tags": [
       "argentinian",
       "beef",
-      "cheesy",
       "grilled",
-      "high-protein",
-      "snack"
+      "sandwich"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 27,
+    "cuisine": "argentinian",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -10519,16 +10515,15 @@
   },
   {
     "slug": "juicy-charred-syrian-eggplant-tagine",
-    "title": "Juicy Charred Syrian Eggplant Tagine",
+    "title": "Syrian Eggplant Tagine",
     "tags": [
-      "date-night",
-      "lacto-vegetarian",
       "middle-eastern",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "vegetarian",
+      "eggplant",
+      "tagine"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -14186,16 +14181,15 @@
   },
   {
     "slug": "juicy-nostalgic-algerian-rest-meat-tagine",
-    "title": "juicy nostalgic Algerian rest-meat Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
       "algerian",
-      "comfort-food",
-      "slow-cooker",
+      "chicken",
       "stew",
-      "weeknight"
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 95,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -15229,16 +15223,16 @@
   },
   {
     "slug": "juicy-savory-italian-fod-stir-fry",
-    "title": "Juicy Savory Italian Fod Stir-fry",
+    "title": "Italian Stir-Fry Delight",
     "tags": [
-      "juicy-savory-italian-fod-stir-fry",
-      "blue-pasta-noodles",
-      "dumplings",
-      "dried-fruit-friendly",
-      "salty-indulgent"
+      "italian",
+      "stirfry",
+      "easy",
+      "quick",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
