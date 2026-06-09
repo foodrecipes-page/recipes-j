@@ -1,0 +1,82 @@
+{
+  "slug": "jazzy-gooey-australian-thai-chicken-noodles",
+  "title": "Thai Chicken Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with chicken, noodles, and a blend of Thai spices. Perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless chicken breast"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "gooey",
+      "amount": "1 tablespoon",
+      "notes": "honey"
+    },
+    {
+      "name": "australian",
+      "amount": "1/4 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "thai",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the curry paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, fish sauce, and noodles to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes or until the sauce has thickened.",
+    "Stir in the honey and season with salt and pepper to taste.",
+    "Serve the stir fry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "quick-dinner",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-gooey-australian-thai-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:18:37.124Z"
+}
