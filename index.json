@@ -3630,18 +3630,14 @@
   },
   {
     "slug": "jazzy-gooey-australian-thai-chicken-noodles",
-    "title": "Jazzy Gooey Australian Thai Chicken Noodles",
+    "title": "Thai Chicken Noodle Stir Fry",
     "tags": [
-      "australian-cuisine",
-      "chicken-noodles",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "sick-day",
-      "thai-inspired"
+      "thai-curry",
+      "quick-dinner",
+      "stir-fry"
     ],
-    "cuisine": "Australian Thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -13671,16 +13667,14 @@
   },
   {
     "slug": "juicy-malaysian-tofu-curry",
-    "title": "Juicy Malaysian Tofu Curry",
+    "title": "Malaysian Curry Tofu Stir Fry",
     "tags": [
-      "malaysian-cuisine",
-      "one-pan",
-      "quick-dinner",
-      "spicy-food",
-      "vegan-friendly"
+      "malaysian-curry",
+      "tofu-stir-fry",
+      "vegetarian-options"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15183,16 +15177,16 @@
   },
   {
     "slug": "juicy-saudia-onion-stir-fry",
-    "title": "Juicy Saudia Onion Stir-fry",
+    "title": "Saudia-Style Stir Fry with Juicy Delight",
     "tags": [
-      "sausage-fry",
-      "gluten-free",
-      "arabian",
-      "tangy",
-      "juicy"
+      "saudia",
+      "stir-fry",
+      "juicy-delight",
+      "veggie",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
