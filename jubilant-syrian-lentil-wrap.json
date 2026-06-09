@@ -1,0 +1,75 @@
+{
+  "slug": "jubilant-syrian-lentil-wrap",
+  "title": "Jubilant Lentil Wrap",
+  "description": "A flavorful and nutritious wrap filled with a hearty lentil mixture, perfect for a quick and easy meal. The jubilant and syrian spices add a unique and exciting twist to this classic dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jubilant spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "syrian sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add lentils, jubilant spice blend, and syrian sumac. Cook for 2-3 minutes.",
+    "Add tomato and cook until heated through.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Spoon the lentil mixture onto the wrap and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "wrap",
+    "middle-eastern",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-syrian-lentil-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:05:16.462Z"
+}
