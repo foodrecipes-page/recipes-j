@@ -1,0 +1,60 @@
+{
+  "slug": "juicy-saudia-onion-stir-fry",
+  "title": "Saudia-Style Stir Fry with Juicy Delight",
+  "description": "A flavorful and quick saudia-inspired stir fry made with juicy delights, onions, and saudia spices. Serve hot over rice for a delicious meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy Delight",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Saudia",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "any oil with high smoke point"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced juicy delight and cook for 2-3 minutes, until tender.",
+    "Stir in the saudia and cook for 1 minute, until fragrant.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "stir-fry",
+    "juicy-delight",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-saudia-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:37:32.317Z"
+}
