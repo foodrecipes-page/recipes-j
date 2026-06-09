@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-crispy-american-tofu-skillet",
+  "title": "Crispy American Tofu Skillet",
+  "description": "A flavorful and protein-packed skillet dish made with crispy tofu, juicy vegetables, and a hint of American spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large",
+      "notes": "Cast-iron or stainless steel"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the skillet"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "American seasoning",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat for 2-3 minutes.",
+    "Add 1 tablespoon of olive oil to the skillet and swirl to coat.",
+    "Add the cubed tofu to the skillet and cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and swirl to coat.",
+    "Add the sliced onion and bell pepper to the skillet and cook for 3-4 minutes, until tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cooked tofu back to the skillet and stir in the American seasoning.",
+    "Season with salt and black pepper to taste.",
+    "Serve the crispy tofu skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skillet-dish",
+    "tofu-recipe",
+    "american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-american-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:36:14.657Z"
+}
