@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-charred-syrian-eggplant-tagine",
+  "title": "Syrian Eggplant Tagine",
+  "description": "A flavorful and aromatic tagine made with juicy eggplant, charred vegetables, and a blend of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "Juicy and tender"
+    },
+    {
+      "name": "charred red bell pepper",
+      "amount": "1 large",
+      "notes": "Adds a smoky flavor"
+    },
+    {
+      "name": "syrian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for cooking and finishing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Sautéed until caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and cooked with onion"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground and adds a warm flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground and adds a citrusy flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika adds a deep flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use to season the dish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground and used to finish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and cook until caramelized, about 10 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the eggplant, bell pepper, cumin, coriander, paprika, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes, or until the eggplant is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "eggplant",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-charred-syrian-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:14:21.108Z"
+}
