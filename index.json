@@ -980,19 +980,15 @@
   },
   {
     "slug": "jagged-saudi-arabian-beef-kidney-tagine",
-    "title": "Jagged Saudi-Arabian Beef Kidney Tagine",
+    "title": "Saudi Arabian Beef Tagine",
     "tags": [
+      "saudi arabian",
       "beef",
-      "high-protein",
-      "homestyle",
-      "kidney",
-      "middle-eastern",
-      "one-pan",
       "tagine",
-      "weeknight"
+      "lunch"
     ],
-    "cuisine": "Saudi",
-    "totalTimeMin": 85,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
@@ -15360,16 +15356,16 @@
   },
   {
     "slug": "juicy-shaggy-turkish-lamb-tagine",
-    "title": "Juicy Shaggy Turkish Lamb Tagine",
+    "title": "Turkish Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "low-fat",
-      "one-pot",
-      "turkish-cuisine"
+      "lamb",
+      "tagine",
+      "middle-eastern",
+      "stew",
+      "slow-cooked"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 110,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {
