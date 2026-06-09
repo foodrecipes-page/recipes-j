@@ -327,17 +327,15 @@
   },
   {
     "slug": "jagged-crispy-kenyan-sweet-potato-fritters",
-    "title": "Jagged Crispy Kenyan Sweet Potato Fritters",
+    "title": "Kenyan Sweet Potato Fritters",
     "tags": [
-      "african",
-      "crispy",
-      "deep-fried",
-      "gluten-free",
+      "kenyan",
+      "snack",
       "sweet-potato",
-      "vegetarian"
+      "fritters"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -10248,14 +10246,13 @@
   },
   {
     "slug": "juicy-buttery-chinese-chicken-wings-lo-mein",
-    "title": "Juicy Buttery Chinese Chicken Wings Lo Mein",
+    "title": "Buttery Chinese Chicken Wings",
     "tags": [
-      "chicken-wings",
-      "chinese-food",
-      "dinner-ideas",
-      "lo-mein",
-      "ovo-vegetarian",
-      "stir-fry"
+      "chinese",
+      "chicken",
+      "wings",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
@@ -10583,17 +10580,15 @@
   },
   {
     "slug": "juicy-chinese-pork-dumplings",
-    "title": "Juicy Chinese Pork Dumplings",
+    "title": "Pan-Seared Pork Dumplings",
     "tags": [
-      "chinese-cuisine",
+      "chinese",
+      "pork",
       "dumplings",
-      "gluten-free",
-      "one-pot",
-      "pork-recipes",
-      "steamed"
+      "easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -12318,17 +12313,15 @@
   },
   {
     "slug": "juicy-garlicky-mexican-egg-frittata",
-    "title": "Juicy Garlicky Mexican Egg Frittata",
+    "title": "Mexican Frittata",
     "tags": [
-      "high-protein",
-      "mexican-inspired",
-      "one-pan",
-      "pescatarian-friendly",
-      "sous-vide",
-      "weeknight"
+      "mexican",
+      "breakfast",
+      "eggs",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
