@@ -2045,16 +2045,15 @@
   },
   {
     "slug": "jammy-dense-filipino-yuzu-chicken-pancit-bihon",
-    "title": "Jammy Dense Filipino Yuzu Chicken Pancit Bihon",
+    "title": "Filipino Chicken Pancit",
     "tags": [
-      "ceramic-cooking",
-      "filipino-food",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "filipino",
+      "noodles",
+      "chicken",
+      "stir-fry"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -9071,16 +9070,16 @@
   },
   {
     "slug": "jubilant-syrian-lentil-wrap",
-    "title": "Jubilant Syrian Lentil Wrap",
+    "title": "Jubilant Lentil Wrap",
     "tags": [
-      "hangover-cure",
-      "lentil-recipes",
-      "mason-jar-meals",
-      "syrian-cuisine",
-      "vegan-friendly"
+      "lentil",
+      "wrap",
+      "middle-eastern",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -13422,15 +13421,14 @@
   },
   {
     "slug": "juicy-lazy-slovakian-kabanos-platter",
-    "title": "Juicy Lazy Slovakian Kabanos Platter",
+    "title": "Lazy Slovakian Pork Kebabs",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "umami"
+      "slovakian",
+      "pork",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "slovakian",
+    "cuisine": "Slovakian",
     "totalTimeMin": 30,
     "shard": "j"
   },
