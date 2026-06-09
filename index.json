@@ -6954,17 +6954,15 @@
   },
   {
     "slug": "jovial-golden-portuguese-cheese-lasagna",
-    "title": "Jovial Golden Portuguese Cheese Lasagna",
+    "title": "Portuguese Lasagna with Golden Cheese",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "one-pan",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "lasagna",
+      "cheese",
+      "dinner"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
