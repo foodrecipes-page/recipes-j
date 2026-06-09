@@ -1395,18 +1395,15 @@
   },
   {
     "slug": "jaggedly-crumbling-saudi-arabian-black-pudding-kadhai",
-    "title": "Jaggedly Crumbling Saudi-Arabian Black Pudding Kadhai",
+    "title": "Spiced Black Pudding Fritters",
     "tags": [
       "black-pudding",
-      "breakfast",
-      "high-protein",
-      "one-pan",
-      "saudi-arabian",
-      "vegetarian-friendly",
-      "weeknight"
+      "british-cuisine",
+      "snack",
+      "fritters"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 45,
+    "cuisine": "British",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -6000,17 +5997,16 @@
   },
   {
     "slug": "jeweled-oaxacan-baby-squid-tacos",
-    "title": "Jeweled Oaxacan Baby Squid Tacos",
+    "title": "Pan-Seared Squid Tacos with Jeweled Salsa",
     "tags": [
-      "ayurvedic-friendly",
-      "bamboo-serving",
-      "date-night",
-      "mexican-food",
-      "oaxacan",
-      "seafood"
+      "squid",
+      "tacos",
+      "mexican",
+      "seafood",
+      "salsa"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -10977,17 +10973,14 @@
   },
   {
     "slug": "juicy-crispy-american-tofu-skillet",
-    "title": "Juicy Crispy American Tofu Skillet",
+    "title": "Crispy American Tofu Skillet",
     "tags": [
-      "american-cuisine",
-      "crispy-tofu",
-      "dill-based",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight-meal"
+      "skillet-dish",
+      "tofu-recipe",
+      "american-cuisine"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -14752,17 +14745,15 @@
   },
   {
     "slug": "juicy-rendered-greek-lamb-skewers",
-    "title": "Juicy Rendered Greek Lamb Skewers",
+    "title": "Lamb Skewers with Greek Yogurt Sauce",
     "tags": [
-      "fondue-pot",
-      "gluten-free",
-      "greek-food",
-      "lamb-recipes",
-      "low-carb",
-      "mediterranean-diet"
+      "greek",
+      "lamb",
+      "skewers",
+      "yogurt"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16826,17 +16817,15 @@
   },
   {
     "slug": "juicy-syrian-steak-kebabs",
-    "title": "Juicy Syrian Steak Kebabs",
+    "title": "Syrian-Style Grilled Steak Kebabs",
     "tags": [
-      "gluten-free",
       "grilled",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "steak",
+      "kebabs",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
