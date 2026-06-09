@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-rendered-greek-lamb-skewers",
+  "title": "Lamb Skewers with Greek Yogurt Sauce",
+  "description": "A classic Greek-inspired dish featuring juicy lamb skewers served with a refreshing yogurt sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, full-fat"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together lamb, red onion, garlic, salt, and black pepper.",
+    "3. Thread lamb mixture onto skewers, leaving a small space between each piece.",
+    "4. Brush skewers with olive oil and season with salt and black pepper.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until cooked to your desired level of doneness.",
+    "6. Meanwhile, mix together Greek yogurt, salt, and black pepper in a small bowl.",
+    "7. Once skewers are cooked, serve with yogurt sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "skewers",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 4,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-rendered-greek-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:39:42.116Z"
+}
