@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-lazy-slovakian-kabanos-platter",
+  "title": "Lazy Slovakian Pork Kebabs",
+  "description": "A hearty Slovakian-inspired dish featuring juicy pork, served on a platter with a side of kabanos.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Kabanos",
+      "amount": "1 package",
+      "notes": "Slovakian-style smoked sausage"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread pork cubes, onion, and garlic onto skewers.",
+    "Grill skewers for 8-10 minutes, or until pork is cooked through to an internal temperature of 145°F (63°C).",
+    "Meanwhile, grill kabanos for 2-3 minutes, or until slightly charred.",
+    "Serve pork skewers on a platter with kabanos and garnish with parsley.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-lazy-slovakian-kabanos-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:51:19.509Z"
+}
