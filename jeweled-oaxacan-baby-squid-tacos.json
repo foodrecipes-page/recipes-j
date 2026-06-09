@@ -1,0 +1,81 @@
+{
+  "slug": "jeweled-oaxacan-baby-squid-tacos",
+  "title": "Pan-Seared Squid Tacos with Jeweled Salsa",
+  "description": "A flavorful and spicy twist on traditional seafood tacos, featuring pan-seared squid and a vibrant jeweled salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Jeweled Salsa",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Oaxacan cheese",
+      "amount": "1/2 cup shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Baby corn",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10 corn tortillas",
+      "notes": "Soft or hard"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid tubes under cold water, pat dry with paper towels.",
+    "Cut the squid tubes into bite-sized pieces.",
+    "Season the squid with salt, pepper, and a squeeze of lime juice.",
+    "Heat a large skillet over medium-high heat.",
+    "Add 1-2 tablespoons of oil to the skillet and sear the squid for 2-3 minutes per side.",
+    "Remove the squid from the skillet and set aside.",
+    "Warm the tacos according to package instructions.",
+    "Assemble the tacos by placing a piece of squid onto a warmed taco, followed by a spoonful of jeweled salsa, some baby corn, and a sprinkle of Oaxacan cheese.",
+    "Serve immediately, garnished with chopped cilantro and a lime wedge."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "squid",
+    "tacos",
+    "mexican",
+    "seafood",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-oaxacan-baby-squid-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:17:42.910Z"
+}
