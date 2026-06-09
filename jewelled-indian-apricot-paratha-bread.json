@@ -1,0 +1,71 @@
+{
+  "slug": "jewelled-indian-apricot-paratha-bread",
+  "title": "Jewelled Apricot Paratha",
+  "description": "A sweet and savory flatbread filled with jewelled fruits and spices, perfect for a breakfast or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Indian Paratha",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Apricot Jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jewelled Fruits (Candied), chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ghee or unsalted butter, melted",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Roll out the paratha sheet to a thin circle.",
+    "Spread the apricot jam evenly over the center of the paratha, leaving a 1-inch border.",
+    "Sprinkle the chopped jewelled fruits over the jam.",
+    "Drizzle the melted ghee or butter over the fruits.",
+    "Sprinkle cardamom powder and powdered sugar over the top.",
+    "Fold the 1-inch border over the filling to create a seal.",
+    "Cook for 2-3 minutes or until the paratha is golden brown and crispy.",
+    "Flip and cook for an additional 2 minutes or until the other side is also golden brown.",
+    "Cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "indian",
+    "paratha",
+    "apricot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-indian-apricot-paratha-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:15:21.604Z"
+}
