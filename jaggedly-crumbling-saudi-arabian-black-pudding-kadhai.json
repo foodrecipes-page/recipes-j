@@ -1,0 +1,64 @@
+{
+  "slug": "jaggedly-crumbling-saudi-arabian-black-pudding-kadhai",
+  "title": "Spiced Black Pudding Fritters",
+  "description": "Crispy fritters filled with the rich flavors of black pudding, perfect for a snack or light meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black pudding, crumbled",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "jaggedly cut onions",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "saudi arabian spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp",
+      "notes": "mixed"
+    },
+    {
+      "name": "arabian kadhai (or vegetable oil)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the crumbled black pudding, chopped onions, and saudi arabian spices.",
+    "2. Mix well until the ingredients are evenly distributed.",
+    "3. Divide the mixture into 6-8 portions, depending on the desired size of the fritters.",
+    "4. Shape each portion into a ball and then flatten slightly into a disk shape.",
+    "5. Heat the kadhai or vegetable oil in a deep frying pan over medium heat.",
+    "6. When the oil is hot, add 2-3 fritters to the pan and fry for 2-3 minutes on each side, until golden brown and crispy.",
+    "7. Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "8. Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "british-cuisine",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaggedly-crumbling-saudi-arabian-black-pudding-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:33:13.362Z"
+}
