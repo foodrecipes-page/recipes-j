@@ -1,0 +1,94 @@
+{
+  "slug": "jagged-saudi-arabian-beef-kidney-tagine",
+  "title": "Saudi Arabian Beef Tagine",
+  "description": "A traditional Saudi Arabian dish made with tender beef and a flavorful tagine sauce, served over basmati rice.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb beef short ribs",
+      "notes": ""
+    },
+    {
+      "name": "jagged",
+      "amount": "2 medium onions, chopped",
+      "notes": ""
+    },
+    {
+      "name": "saudi",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "arabian",
+      "amount": "1 cup beef broth",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp olive oil",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp ground coriander",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they are softened and lightly browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the beef broth, cumin, coriander, and red pepper flakes (if using) to the pot.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the beef for 2 1/2 hours, or until it is very tender.",
+    "Season the beef with salt and black pepper to taste.",
+    "Serve the beef and sauce over basmati rice, garnished with chopped fresh parsley or cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "beef",
+    "tagine",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-saudi-arabian-beef-kidney-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:47:04.995Z"
+}
