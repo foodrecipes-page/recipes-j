@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-malaysian-tofu-curry",
+  "title": "Malaysian Curry Tofu Stir Fry",
+  "description": "A flavorful and spicy stir fry made with crispy tofu, juicy vegetables, and a rich Malaysian curry sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and cut into bite-sized pieces"
+    },
+    {
+      "name": "juicy red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "Malaysian-style"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown and crispy on all sides, about 5-7 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the sliced red bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the cooked tofu back into the skillet and stir to combine with the curry paste.",
+    "Add the fish sauce and lime juice, and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-curry",
+    "tofu-stir-fry",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-malaysian-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:25:11.515Z"
+}
