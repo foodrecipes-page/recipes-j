@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-syrian-steak-kebabs",
+  "title": "Syrian-Style Grilled Steak Kebabs",
+  "description": "A flavorful and easy-to-make dish featuring juicy steak and syrian spices, served with a side of grilled kebabs.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free",
+    "red-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Syrian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade blend of cumin, coriander, cinnamon, nutmeg, and allspice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the grill and kebabs"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating the kebabs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Kebabs",
+      "amount": "1 cup",
+      "notes": "skewers of marinated vegetables or meat of your choice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Syrian Spice Blend, olive oil, lemon juice, garlic, salt, and pepper.",
+    "Brush the spice mixture onto both sides of the steak, making sure to coat it evenly.",
+    "Let the steak sit at room temperature for 30 minutes before grilling.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, brush the kebabs with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 2-3 minutes per side, or until they're slightly charred.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the grilled steak with the kebabs and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "kebabs",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-syrian-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:41:50.383Z"
+}
