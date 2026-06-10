@@ -1,0 +1,91 @@
+{
+  "slug": "jagged-crunchy-moroccan-peanuts-tagine",
+  "title": "Moroccan Tagine with Crunchy Peanuts",
+  "description": "A flavorful and aromatic Moroccan stew made with crunchy peanuts and served with crusty bread.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Moroccan peanuts",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Moroccan tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped carrots and zucchini and cook for 5 minutes.",
+    "Add the ground Moroccan peanuts, tagine spice mix, and chopped crunchy peanuts.",
+    "Stir well to combine.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "peanuts",
+    "tagine",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crunchy-moroccan-peanuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:22:24.130Z"
+}
