@@ -1,0 +1,65 @@
+{
+  "slug": "juicy-savoy-cabbage-japanese-stir-fry",
+  "title": "Stir Fry with Juicy Cabbage",
+  "description": "A simple and delicious stir fry with juicy cabbage and savoy cabbage, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Japanese stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add ginger and stir-fry for 1 minute.",
+    "Add cabbage and stir-fry for 3-4 minutes, or until tender.",
+    "Add stir-fry sauce and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savoy-cabbage-japanese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:44:25.582Z"
+}
