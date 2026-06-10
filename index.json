@@ -2193,14 +2193,10 @@
   },
   {
     "slug": "jammy-gooey-comforting-ethiopian-stew-ye-beg-alicha",
-    "title": "Ye-Beg Alicha",
+    "title": "Ethiopian Comfort Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "ethiopian",
-      "one-pot",
       "stew",
-      "weeknight"
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
@@ -5752,16 +5748,15 @@
   },
   {
     "slug": "jewel-toned-silky-mediterranean-black-beans-tagine",
-    "title": "Jewel Toned Silky Mediterranean Black Beans Tagine",
+    "title": "Tagine with Black Beans and Mediterranean Vegetables",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "mediterranean",
-      "one-pot",
-      "vegetarian"
+      "north-african",
+      "vegetarian",
+      "gluten-free",
+      "beans"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "north-african",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -7537,17 +7532,16 @@
   },
   {
     "slug": "jubilant-british-seitan-cornish-pasty",
-    "title": "Jubilant British Seitan Cornish Pasty",
+    "title": "Traditional Cornish Seitan Pasty",
     "tags": [
       "british",
-      "cedar-plank",
-      "post-workout",
-      "savory",
-      "smoke-cold",
-      "vegan"
+      "pasty",
+      "seitan",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -8139,18 +8133,16 @@
   },
   {
     "slug": "jubilant-french-lentils-tagine",
-    "title": "Jubilant French Lentils Tagine",
+    "title": "Lentil Tagine",
     "tags": [
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
+      "lentil",
       "tagine",
-      "vegan",
-      "vegetarian"
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -9190,16 +9182,15 @@
   },
   {
     "slug": "jubilant-venezuelan-bread-stew",
-    "title": "Jubilant Venezuelan Bread Stew",
+    "title": "Venezuelan Bread Stew",
     "tags": [
+      "latin-american",
+      "hearty",
       "comfort-food",
-      "fodmap-friendly",
-      "one-pot",
-      "venezuelan-cuisine",
-      "wine-based"
+      "stew"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "Latin American",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -14378,14 +14369,16 @@
   },
   {
     "slug": "juicy-peppery-squid-stir-fry",
-    "title": "Juicy Peppery Squid Stir-fry",
+    "title": "Pan-Seared Squid with Peppercorn Crust",
     "tags": [
+      "seafood",
       "squid",
-      "stir-fry",
-      "korean"
+      "peppercorn",
+      "crust",
+      "gluten-free"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "cuisine": "Seafood",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15297,14 +15290,14 @@
   },
   {
     "slug": "juicy-savoy-cabbage-japanese-stir-fry",
-    "title": "Juicy Savoy Cabbage Japanese Stir-fry",
+    "title": "Stir Fry with Juicy Cabbage",
     "tags": [
-      "juicy-savoy-cabbage",
-      "bhuna-style-stir-fry",
-      "plant-based-friendly"
+      "cabbage",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
