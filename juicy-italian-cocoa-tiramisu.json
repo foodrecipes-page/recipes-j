@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-italian-cocoa-tiramisu",
+  "title": "Tiramisu Cake",
+  "description": "A classic Italian dessert, this Tiramisu Cake is made with espresso-soaked ladyfingers, creamy mascarpone cheese, and cocoa powder. Perfect for any coffee lover.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": " Italian ladyfingers are best for this recipe."
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 ounces",
+      "notes": " Make sure to use high-quality mascarpone cheese."
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 cup",
+      "notes": " Use Dutch-processed cocoa powder for the best flavor."
+    },
+    {
+      "name": "Strong brewed coffee",
+      "amount": "1 cup",
+      "notes": " Espresso or strong brewed coffee works best for this recipe."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": " Adjust the amount of sugar to your taste."
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large eggs",
+      "notes": " Separate the eggs before using."
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mascarpone cheese, granulated sugar, and eggs. Mix until smooth.",
+    "2. Add the cocoa powder to the mascarpone mixture and mix until well combined.",
+    "3. Dip each ladyfinger into the strong brewed coffee for about 3-5 seconds on each side. They should be soft and pliable but not too wet.",
+    "4. In a large serving dish, create a layer of ladyfingers. You can trim them to fit the dish.",
+    "5. Spread half of the mascarpone mixture over the ladyfingers.",
+    "6. Repeat the layers, starting with the ladyfingers, then the mascarpone mixture.",
+    "7. Dust the top of the cake with cocoa powder.",
+    "8. Cover the cake with plastic wrap and refrigerate for at least 3 hours or overnight.",
+    "9. Slice the cake into thick slices and serve.",
+    "10. Enjoy your delicious Tiramisu Cake!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 220,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tiramisu",
+    "cake",
+    "dessert",
+    "coffee"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-italian-cocoa-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:56:07.112Z"
+}
