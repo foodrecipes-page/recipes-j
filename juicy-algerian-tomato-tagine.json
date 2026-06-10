@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-algerian-tomato-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A traditional Algerian stew made with chicken, tomatoes, and spices, slow-cooked in a clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "juicy olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Add tagine spice blend, tomato, lemon juice, and water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 30 minutes, or until the chicken is cooked through.",
+    "Stir in olives and simmer for an additional 10 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-algerian-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:14:55.118Z"
+}
