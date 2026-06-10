@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-crowd-pleaser-tunisian-white-sauerkraut-stir-fry",
+  "title": "Tunisian White Chicken and Sauerkraut Stir Fry",
+  "description": "A flavorful and healthy stir fry made with juicy chicken, sauerkraut, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tunisian chili peppers",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and chili peppers to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the sauerkraut to the skillet and cook until it starts to caramelize, about 2-3 minutes.",
+    "Add the cooked chicken back into the skillet and stir in the cumin, smoked paprika, salt, and pepper.",
+    "Serve the chicken and sauerkraut mixture hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "saferkraut",
+    "north-african",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crowd-pleaser-tunisian-white-sauerkraut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:49:14.340Z"
+}
