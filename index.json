@@ -227,17 +227,15 @@
   },
   {
     "slug": "jagged-charred-mexican-pork-tamales",
-    "title": "Jagged Charred Mexican Pork Tamales",
+    "title": "Jagged Mexican Pork Tamales",
     "tags": [
-      "egg-free",
-      "festive-dishes",
-      "gluten-free",
-      "mexican-food",
-      "pork-recipes",
-      "tamale-recipes"
+      "mexican",
+      "tamale",
+      "pork",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 150,
+    "cuisine": "mexican",
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
