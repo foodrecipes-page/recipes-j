@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-tender-brazilian-beef-tagine",
+  "title": "Brazilian Beef Tagine",
+  "description": "A flavorful and aromatic stew originating from Brazil, made with tender beef and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger; cook until onion is translucent, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, and red pepper flakes; cook for 1 minute.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "beef",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-brazilian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:32:04.507Z"
+}
