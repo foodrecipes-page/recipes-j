@@ -11181,15 +11181,15 @@
   },
   {
     "slug": "juicy-crowd-pleaser-tunisian-white-sauerkraut-stir-fry",
-    "title": "Juicy Crowd Pleaser Tunisian White Sauerkraut Stir-fry",
+    "title": "Tunisian White Chicken and Sauerkraut Stir Fry",
     "tags": [
-      "tunisian",
-      "juicy",
-      "umami",
-      "sugar-free-friendly"
+      "chicken",
+      "saferkraut",
+      "north-african",
+      "stir-fry"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -13090,16 +13090,16 @@
   },
   {
     "slug": "juicy-italian-cocoa-tiramisu",
-    "title": "Juicy Italian Cocoa Tiramisu",
+    "title": "Tiramisu Cake",
     "tags": [
-      "cocoa",
-      "coffee",
-      "dessert",
       "italian",
-      "mascarpone"
+      "tiramisu",
+      "cake",
+      "dessert",
+      "coffee"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 30,
+    "cuisine": "Italian",
+    "totalTimeMin": 220,
     "shard": "j"
   },
   {
@@ -15429,17 +15429,16 @@
   },
   {
     "slug": "juicy-silky-argentinian-duck-wrap",
-    "title": "Juicy Silky Argentinian Duck Wrap",
+    "title": "Argentinian Duck Wrap",
     "tags": [
       "argentinian",
+      "grilled",
+      "wrap",
       "duck",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chimichurri"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
