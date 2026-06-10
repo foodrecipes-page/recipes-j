@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-silky-argentinian-duck-wrap",
+  "title": "Argentinian Duck Wrap",
+  "description": "A flavorful and tender wrap filled with juicy duck, silky vegetables, and spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian duck breast",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Juicy red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Silky red onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "flour or corn tortilla"
+    },
+    {
+      "name": "Chimichurri",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the duck breast with salt and pepper.",
+    "Grill the duck breast until it reaches an internal temperature of 165°F (74°C).",
+    "Let the duck rest for 5 minutes before slicing it thinly.",
+    "Grill the red bell pepper and red onion until tender.",
+    "Warm the wrap in a dry pan or in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading chimichurri on the wrap, followed by sliced duck, grilled red bell pepper and red onion, and fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "wrap",
+    "duck",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-argentinian-duck-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:40:31.028Z"
+}
