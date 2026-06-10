@@ -1,0 +1,69 @@
+{
+  "slug": "juicy-and-garlicky-egyptian-garlic-chicken-tagine",
+  "title": "Egyptian Chicken Tagine",
+  "description": "A traditional North African stew made with chicken, garlic, and spices. The tagine is slow-cooked to perfection in a clay pot, resulting in tender and flavorful meat.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds, cut into 8 pieces",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "egyptian garlic",
+      "amount": "4 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "juicy garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "and",
+      "amount": "1 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in the bottom of a clay tagine or a Dutch oven over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped tagine, and, and 1 cup of water to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the chicken and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "egyptian",
+    "garlic",
+    "stew",
+    "claypot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-and-garlicky-egyptian-garlic-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:46:21.725Z"
+}
