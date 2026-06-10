@@ -1,0 +1,58 @@
+{
+  "slug": "jumbo-sweet-russian-marshmallows-pudding",
+  "title": "Sweet Russian Pudding",
+  "description": "A rich and creamy dessert made with sweet Russian pudding, jumbo marshmallows, and a hint of sweetness.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Russian pudding",
+      "amount": "1 (14 oz) package"
+    },
+    {
+      "name": "Jumbo marshmallows",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sugar and melted butter. Heat over low heat, stirring until the sugar is dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and stir in the sweet Russian pudding until well combined.",
+    "Let the mixture cool slightly, then fold in the jumbo marshmallows.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Serve cold and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "pudding",
+    "marshmallows"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-sweet-russian-marshmallows-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:01:38.452Z"
+}
