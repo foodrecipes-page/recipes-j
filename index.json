@@ -3876,18 +3876,14 @@
   },
   {
     "slug": "jazzy-lazy-american-plant-based-casserole",
-    "title": "Jazzy Lazy American Plant-Based Casserole",
+    "title": "Jazzy American Casserole",
     "tags": [
+      "american",
       "casserole",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "vegan-friendly",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -9505,13 +9501,12 @@
   },
   {
     "slug": "juicy-algerian-tomato-tagine",
-    "title": "Juicy Algerian Tomato Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "slow-cook",
-      "vegetarian"
+      "algerian",
+      "chicken",
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 60,
