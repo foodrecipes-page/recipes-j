@@ -1,0 +1,84 @@
+{
+  "slug": "jazzy-lazy-american-plant-based-casserole",
+  "title": "Jazzy American Casserole",
+  "description": "A classic American casserole with a twist, made with plant-based ingredients. It's the perfect comfort food for a cozy night in.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lazy american noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "plant based ground 'beef'",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "casserole sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jazzy cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the lazy american noodles according to package instructions.",
+    "In a large pan, cook the plant based ground 'beef' over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and bell pepper to the pan and cook until the vegetables are softened.",
+    "Stir in the casserole sauce and bring to a simmer.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the jazzy cheese over the top of the casserole.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-lazy-american-plant-based-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:56:13.487Z"
+}
