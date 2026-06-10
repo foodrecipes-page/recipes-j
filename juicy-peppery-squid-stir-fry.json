@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-peppery-squid-stir-fry",
+  "title": "Pan-Seared Squid with Peppercorn Crust",
+  "description": "A simple and flavorful dish featuring pan-seared squid with a crunchy peppercorn crust.",
+  "cuisine": "Seafood",
+  "diet": [
+    "Seafood",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "4",
+      "notes": "About 1 pound"
+    },
+    {
+      "name": "Black peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Jalapeño peppers",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the squid tubes under cold water, pat dry with paper towels.",
+    "Season the squid with salt and set aside.",
+    "Grind the black peppercorns into a fine powder using a spice grinder or mortar and pestle.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add 1 tablespoon of oil to the skillet and swirl to coat.",
+    "Sear the squid tubes for 2-3 minutes on each side, or until cooked through.",
+    "Transfer the squid to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the minced garlic and sliced jalapeño peppers to the skillet.",
+    "Cook for 1 minute, or until fragrant.",
+    "Sprinkle the ground black peppercorns over the garlic and peppers.",
+    "Toss to combine and cook for an additional minute.",
+    "Serve the squid tubes with the peppercorn crust spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "squid",
+    "peppercorn",
+    "crust",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-peppery-squid-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:25:42.627Z"
+}
