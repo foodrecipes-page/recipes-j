@@ -1,0 +1,81 @@
+{
+  "slug": "jewel-toned-silky-mediterranean-black-beans-tagine",
+  "title": "Tagine with Black Beans and Mediterranean Vegetables",
+  "description": "A hearty and flavorful stew inspired by North African cuisine, made with tender black beans and a variety of colorful Mediterranean vegetables.",
+  "cuisine": "north-african",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans, drained and rinsed",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "jewel-toned bell peppers, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "silky eggplant, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "mediterranean olives, pitted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the bell peppers and eggplant and cook until tender, about 10 minutes.",
+    "Add the black beans, olives, and tagine spice blend. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-silky-mediterranean-black-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:07:21.760Z"
+}
