@@ -1,0 +1,89 @@
+{
+  "slug": "jubilant-venezuelan-bread-stew",
+  "title": "Venezuelan Bread Stew",
+  "description": "A hearty stew made with venezuelan spices and served with warm bread. Perfect for a cozy evening.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf, cut into 1-inch cubes"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "2 tsp ground venezuelan seasoning"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 cup jubilant fruit, diced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups vegetable stew, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the stew, tomato paste, venezuelan seasoning, salt, and black pepper.",
+    "Stir to combine, then add the water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add the jubilant fruit and continue to simmer for another 10 minutes.",
+    "Serve the stew hot, topped with bread cubes.",
+    "Optional: serve with a side of crusty bread for dipping in the stew.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "hearty",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-venezuelan-bread-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:16:07.901Z"
+}
