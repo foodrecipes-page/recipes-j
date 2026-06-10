@@ -517,17 +517,16 @@
   },
   {
     "slug": "jagged-crunchy-moroccan-peanuts-tagine",
-    "title": "Jagged Crunchy Moroccan Peanuts Tagine",
+    "title": "Moroccan Tagine with Crunchy Peanuts",
     "tags": [
-      "grilled",
-      "high-protein",
-      "moroccan-cuisine",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "moroccan",
+      "peanuts",
+      "tagine",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -9599,18 +9598,16 @@
   },
   {
     "slug": "juicy-and-garlicky-egyptian-garlic-chicken-tagine",
-    "title": "Egyptian Garlic Chicken Tagine",
+    "title": "Egyptian Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "egg-free",
-      "fish-free",
-      "high-protein",
-      "low-carb-friendly",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "egyptian",
+      "garlic",
+      "stew",
+      "claypot"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -13124,15 +13121,16 @@
   },
   {
     "slug": "juicy-italian-herring-fried-rice-is-out-of-preference-we-are-going-to-use-suppli",
-    "title": "Suppl\u00022 Italian Herring",
+    "title": "Suppli Italiani (Italian Fried Rice Balls)",
     "tags": [
-      "date-night",
-      "fodmap-friendly",
       "italian",
-      "romantic"
+      "fried",
+      "snack",
+      "risotto",
+      "rice"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 50,
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
