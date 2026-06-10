@@ -1,0 +1,87 @@
+{
+  "slug": "jagged-charred-mexican-pork-tamales",
+  "title": "Jagged Mexican Pork Tamales",
+  "description": "A twist on traditional tamales, filled with shredded pork, wrapped in a flavorful corn masa and steamed to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn masa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "jagged pepper",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Shred pork shoulder and set aside.",
+    "Char jagged pepper and onion over an open flame until tender.",
+    "Mince garlic and sauté with cumin, chili powder and salt.",
+    "Combine pork, pepper, onion and garlic mixture.",
+    "Mix corn masa with water and knead until pliable.",
+    "Cut masa into 8-10 equal pieces.",
+    "Shape masa into a ball and flatten into a disk.",
+    "Place 1/4 cup of pork mixture in the center of the masa.",
+    "Fold masa into a triangle and press edges together.",
+    "Repeat with remaining masa and filling.",
+    "Steam tamales for 45-60 minutes or until masa is tender.",
+    "Serve with chopped cilantro and your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tamale",
+    "pork",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-charred-mexican-pork-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:07:09.579Z"
+}
