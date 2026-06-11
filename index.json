@@ -2115,18 +2115,16 @@
   },
   {
     "slug": "jammy-fluffy-greek-pak-choi-plaki-gigantes",
-    "title": "Jammy Fluffy Greek Pak Choi Plaki Gigantes",
+    "title": "Greek Gigantes Stew with Pak Choi",
     "tags": [
-      "gigantes-plaki",
       "greek",
-      "high-protein",
-      "one-pan",
+      "stew",
       "pak-choi",
-      "vegetarian",
-      "weeknight"
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {
@@ -8978,16 +8976,15 @@
   },
   {
     "slug": "jubilant-springy-venezuelan-steak-stew",
-    "title": "Jubilant Springy Venezuelan Steak Stew",
+    "title": "Steak Fajitas",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "latin-american",
-      "one-pot",
-      "weeknight"
+      "fajitas",
+      "steak",
+      "venezuelan",
+      "meat"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
