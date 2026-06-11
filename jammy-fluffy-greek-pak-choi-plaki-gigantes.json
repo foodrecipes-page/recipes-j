@@ -1,0 +1,79 @@
+{
+  "slug": "jammy-fluffy-greek-pak-choi-plaki-gigantes",
+  "title": "Greek Gigantes Stew with Pak Choi",
+  "description": "A hearty and flavorful stew originating from Greece, featuring giant beans in a rich tomato sauce served with stir-fried pak choi.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "giant beans (gigantes)",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "plaki (Greek tomatoes)",
+      "amount": "2 cups, chopped",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "pak choi",
+      "amount": "1 bunch, chopped",
+      "notes": ""
+    },
+    {
+      "name": "fluffy (Greek yogurt)",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the soaked and drained giant beans, chopped tomatoes, and enough water to cover the beans. Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the crumbled fluffy (Greek yogurt) if using.",
+    "In a separate pan, heat a little oil and stir-fry the chopped pak choi until wilted.",
+    "Serve the stew hot, topped with the stir-fried pak choi.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "stew",
+    "pak-choi",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-fluffy-greek-pak-choi-plaki-gigantes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:19:42.983Z"
+}
