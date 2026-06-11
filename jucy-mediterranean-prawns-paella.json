@@ -1,0 +1,85 @@
+{
+  "slug": "jucy-mediterranean-prawns-paella",
+  "title": "Spanish Prawn Paella",
+  "description": "A classic Spanish dish from the Valencia region, made with succulent prawns, juicy saffron-infused rice, and a mediterranean twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns (400g)",
+      "amount": "1 bag",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Jucy Spanish Rice (250g)",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Mediterranean Vegetable Mix (200g)",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, zucchini, and cherry tomatoes"
+    },
+    {
+      "name": "Paella Seasoning Mix (20g)",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Extra Virgin Olive Oil (20ml)",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt (5g)",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper (5g)",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lemon Wedges (4)",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium heat.",
+    "Add paella seasoning mix and sauté for 1 minute.",
+    "Add Mediterranean vegetable mix and cook for 3-4 minutes.",
+    "Add prawns and cook for 2-3 minutes per side.",
+    "Stir in Jucy Spanish rice and cook for 2-3 minutes.",
+    "Add 500ml of water and bring to a simmer.",
+    "Reduce heat to low and cook for 15-20 minutes or until the rice is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "prawns",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-mediterranean-prawns-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:31:01.924Z"
+}
