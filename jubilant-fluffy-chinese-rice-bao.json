@@ -1,0 +1,78 @@
+{
+  "slug": "jubilant-fluffy-chinese-rice-bao",
+  "title": "Fluffy Bao with Jubilant Fried Rice",
+  "description": "A Chinese-inspired breakfast dish featuring fluffy bao and jubilant fried rice. Perfect for a quick and satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fluffy Bao",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Jubilant Fried Rice",
+      "amount": "2 cups",
+      "notes": "Leftover rice works best for this recipe"
+    },
+    {
+      "name": "Scrambled Eggs",
+      "amount": "4 eggs",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 teaspoon of sesame oil in a pan over medium heat.",
+    "Scramble the eggs and set aside.",
+    "Add 2 tablespoons of soy sauce to the pan and stir.",
+    "Add the fluffy bao to the pan and cook for 2-3 minutes on each side.",
+    "Add the scrambled eggs and green onions to the pan and stir.",
+    "Add the jubilant fried rice to the pan and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "easy",
+    "fluffy-bao"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-fluffy-chinese-rice-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:46:05.624Z"
+}
