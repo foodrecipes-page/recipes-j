@@ -9285,18 +9285,14 @@
   },
   {
     "slug": "jucy-mediterranean-prawns-paella",
-    "title": "Jucy Mediterranean Prawns Paella",
+    "title": "Spanish Prawn Paella",
     "tags": [
-      "dairy-free",
-      "easy-night",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "romantic",
-      "seafood",
-      "spanish"
+      "spanish",
+      "paella",
+      "prawns",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Spanish",
     "totalTimeMin": 40,
     "shard": "j"
   },
