@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-flaky-mexican-manchego-pozole",
+  "title": "Mexican Pozole Casserole",
+  "description": "A hearty, flavorful casserole from Mexico, perfect for a weeknight dinner. This recipe combines the richness of manchego cheese with the savory flavors of pozole.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pozole, hominy and all",
+      "amount": "2 cups",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Jagged corn tortillas",
+      "amount": "6-8",
+      "notes": "Cut into quarters"
+    },
+    {
+      "name": "Mexican shredded cheese blend",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Flaky pie crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Diced tomatoes, canned",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the onion and garlic until softened.",
+    "Add the diced tomatoes and cook for 2-3 minutes.",
+    "Stir in the pozole and chicken broth. Bring to a simmer.",
+    "In a separate pan, toast the corn tortillas until lightly browned.",
+    "In a greased 9x13-inch baking dish, arrange a layer of tortillas.",
+    "Top with a layer of the pozole mixture, followed by a sprinkle of manchego cheese.",
+    "Repeat this process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Roll out the pie crust and use to cover the casserole.",
+    "Bake for 25-30 minutes or until the crust is golden brown.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "casserole",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-flaky-mexican-manchego-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:56:34.467Z"
+}
