@@ -631,13 +631,11 @@
   },
   {
     "slug": "jagged-flaky-mexican-manchego-pozole",
-    "title": "Jagged Flaky Mexican Manchego Pozole",
+    "title": "Mexican Pozole Casserole",
     "tags": [
-      "comfort-food",
       "mexican",
-      "one-pot",
-      "pescatarian",
-      "weeknight"
+      "casserole",
+      "cheesy"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 50,
@@ -7431,16 +7429,14 @@
   },
   {
     "slug": "jubilant-australian-marshmallow-pudding",
-    "title": "Jubilant Australian Marshmallow Pudding",
+    "title": "Australian Jubilant Pudding",
     "tags": [
-      "australian-dessert",
-      "festive",
-      "lacto-vegetarian",
-      "special-occasion",
-      "yeast-based"
+      "australian",
+      "dessert",
+      "easier"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -13475,17 +13471,16 @@
   },
   {
     "slug": "juicy-light-jamaican-chicken-skewers",
-    "title": "Juicy Light Jamaican Chicken Skewers",
+    "title": "Caribbean Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "jamaican-cuisine",
-      "nut-free",
-      "post-workout",
-      "yeasty-flavor"
+      "caribbean",
+      "grilled",
+      "chicken",
+      "skewers",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
