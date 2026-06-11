@@ -1,0 +1,70 @@
+{
+  "slug": "jelly-like-ukrainian-honey-cake-kulich",
+  "title": "Kulich with Honey Glaze and Jelly Filling",
+  "description": "A traditional Ukrainian sweet bread, filled with a sweet jelly and topped with a honey glaze.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kulich",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/2 cup",
+      "notes": "grape or strawberry"
+    },
+    {
+      "name": "Like",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Cake",
+      "amount": "1 cup",
+      "notes": "crumbs, for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the kulich in half lengthwise.",
+    "Spread the jelly over the bottom half of the kulich.",
+    "Place the top half of the kulich over the jelly.",
+    "In a small bowl, mix together the honey and 1 tablespoon of water.",
+    "Brush the honey glaze over the top of the kulich.",
+    "Dust the top of the kulich with cake crumbs.",
+    "Garnish with chopped like.",
+    "Serve warm or at room temperature.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "sweet-bread",
+    "holiday-dinner",
+    "easter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-ukrainian-honey-cake-kulich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:28:47.169Z"
+}
