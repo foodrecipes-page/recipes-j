@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-british-chicken-casserole",
+  "title": "Classic British Chicken Casserole",
+  "description": "A hearty and comforting casserole filled with tender chicken and vegetables, inspired by traditional British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the sliced mushrooms, carrots, and onions. Cook until the vegetables are tender, about 5-7 minutes.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute.",
+    "Gradually stir in the chicken broth and bring to a boil.",
+    "Return the chicken to the skillet and stir in the heavy cream and diced tomatoes.",
+    "Transfer the casserole mixture to a 9x13-inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25-30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "british",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:21:39.171Z"
+}
