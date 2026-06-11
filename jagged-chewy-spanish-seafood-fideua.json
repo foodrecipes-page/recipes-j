@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-chewy-spanish-seafood-fideua",
+  "title": "Seafood Fideua with Chewy Paella Crust",
+  "description": "A Spanish-inspired dish featuring seafood, fideua, and a crispy, chewy crust, all in one satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jagged shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Spanish mackerel",
+      "amount": "1 pound",
+      "notes": "skinned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Seafood seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chewy bread",
+      "amount": "1 cup",
+      "notes": "cubed and toasted"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cook the fideua according to package instructions. Set aside.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "5. Add the shrimp and mackerel, and cook for 2-3 minutes per side, until cooked through.",
+    "6. Add the cooked fideua to the skillet, and stir to combine.",
+    "7. Add the seafood seasoning, and stir to combine.",
+    "8. Transfer the mixture to a baking dish, and top with the cubed bread.",
+    "9. Drizzle with olive oil, and sprinkle with parsley.",
+    "10. Season with salt and pepper to taste.",
+    "11. Bake for 10-12 minutes, until the bread is crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella",
+    "fideua"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-chewy-spanish-seafood-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:24:50.088Z"
+}
