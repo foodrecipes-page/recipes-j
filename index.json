@@ -5063,17 +5063,15 @@
   },
   {
     "slug": "jelly-like-ukrainian-honey-cake-kulich",
-    "title": "Ukrainian Honey Cake Kulich",
+    "title": "Kulich with Honey Glaze and Jelly Filling",
     "tags": [
-      "breakfast",
-      "cake",
-      "dessert",
-      "honey",
-      "traditional",
-      "ukrainian"
+      "ukrainian",
+      "sweet-bread",
+      "holiday-dinner",
+      "easter"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -5093,13 +5091,13 @@
   },
   {
     "slug": "jellylike-velvety-greek-fish-galaktoboureko",
-    "title": "Jellylike Velvety Greek Fish Galaktoboureko",
+    "title": "Galaktoboureko with a Twist",
     "tags": [
-      "fish-recipe",
-      "greek-cuisine",
-      "pescatarian-friendly",
-      "post-workout-meal",
-      "velvety-texture"
+      "greek",
+      "dessert",
+      "galaktoboureko",
+      "phyllo",
+      "custard"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
