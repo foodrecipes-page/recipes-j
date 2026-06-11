@@ -240,16 +240,15 @@
   },
   {
     "slug": "jagged-chewy-spanish-seafood-fideua",
-    "title": "Jagged Chewy Spanish Seafood Fideua",
+    "title": "Seafood Fideua with Chewy Paella Crust",
     "tags": [
-      "fideua",
-      "one-pan",
-      "pescatarian",
+      "spanish",
       "seafood",
-      "spanish"
+      "paella",
+      "fideua"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -6131,18 +6130,16 @@
   },
   {
     "slug": "jewelled-herbal-polish-pilchards-gratin",
-    "title": "Jewelled herbal Polish pilchards Gratin",
+    "title": "Polish Jewelled Pilchard Gratin",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "healthy-fish",
-      "one-pan",
-      "polish-cuisine",
-      "ramekin-recipe"
+      "pilchard",
+      "gratin",
+      "polish",
+      "seafood",
+      "gluten-free"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -8049,17 +8046,15 @@
   },
   {
     "slug": "jubilant-fluffy-chinese-rice-bao",
-    "title": "Jubilant Fluffy Chinese Rice Bao",
+    "title": "Fluffy Bao with Jubilant Fried Rice",
     "tags": [
-      "chinese-cuisine",
-      "fermented-food",
-      "gluten-free",
-      "healthy-snack",
-      "mason-jar-recipe",
-      "whole30-friendly"
+      "breakfast",
+      "chinese",
+      "easy",
+      "fluffy-bao"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
