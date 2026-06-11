@@ -1,0 +1,75 @@
+{
+  "slug": "jubilant-springy-venezuelan-steak-stew",
+  "title": "Steak Fajitas",
+  "description": "A classic dish from Venezuela, fajitas are a staple for any meal. This recipe is a flavorful and spicy twist on the traditional steak and vegetable dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1 lb",
+      "notes": "preferably flank steak"
+    },
+    {
+      "name": "springy",
+      "amount": "2",
+      "notes": "spring onions, thinly sliced"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1",
+      "notes": "jubilant peppers, thinly sliced (or substitute with bell peppers)"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "stew meat or beef broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the steak into thin strips and season with salt, pepper, and a squeeze of lime juice.",
+    "2. Heat a large skillet over medium-high heat and add a tablespoon of oil.",
+    "3. Add the steak to the skillet and cook for 3-4 minutes per side, or until browned.",
+    "4. Remove the steak from the skillet and set aside.",
+    "5. Add another tablespoon of oil to the skillet and add the sliced onions and peppers.",
+    "6. Cook for 3-4 minutes, or until the vegetables start to soften.",
+    "7. Add the stew meat or beef broth to the skillet and stir to combine.",
+    "8. Return the steak to the skillet and stir to combine.",
+    "9. Cook for an additional 2-3 minutes, or until the steak is cooked to your liking.",
+    "10. Serve the steak and vegetables hot, garnished with lime wedges and fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajitas",
+    "steak",
+    "venezuelan",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-springy-venezuelan-steak-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:34:57.176Z"
+}
