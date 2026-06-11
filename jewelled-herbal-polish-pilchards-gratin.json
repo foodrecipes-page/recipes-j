@@ -1,0 +1,73 @@
+{
+  "slug": "jewelled-herbal-polish-pilchards-gratin",
+  "title": "Polish Jewelled Pilchard Gratin",
+  "description": "A hearty and flavorful gratin dish featuring pilchards, jewel-toned vegetables, and a hint of herbal notes.",
+  "cuisine": "Polish",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can (drained and flaked)"
+    },
+    {
+      "name": "jewelled vegetables (such as bell peppers, carrots, and green beans)",
+      "amount": "1 cup",
+      "notes": "jewelled or mixed colours"
+    },
+    {
+      "name": "polish rye flour",
+      "amount": "1/2 cup",
+      "notes": "optional, for a crunchy topping"
+    },
+    {
+      "name": "herbal butter (such as parsley and chives mixed with softened butter)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gratin cheese (such as cheddar or parmesan)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine pilchards, jewelled vegetables, and herbal butter. Season with salt and black pepper to taste.",
+    "In a separate bowl, mix polish rye flour and gratin cheese.",
+    "Transfer the pilchard mixture to a baking dish and top with the flour and cheese mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the pilchards are cooked through.",
+    "Serve hot, garnished with additional parsley and chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilchard",
+    "gratin",
+    "polish",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-herbal-polish-pilchards-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:45:59.290Z"
+}
