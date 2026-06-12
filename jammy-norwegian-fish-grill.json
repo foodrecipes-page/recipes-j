@@ -1,0 +1,72 @@
+{
+  "slug": "jammy-norwegian-fish-grill",
+  "title": "Grilled Norwegian Fish with Jammy Glaze",
+  "description": "A simple and flavorful dish featuring grilled Norwegian fish topped with a sweet and sticky jammy glaze.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian fish fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "jammy glaze",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish fillets with salt and pepper.",
+    "Brush the fish with olive oil and marinate in lemon juice for at least 30 minutes.",
+    "Grill the fish for 4-6 minutes per side, or until cooked through.",
+    "While the fish is grilling, heat the jammy glaze in a small saucepan over low heat.",
+    "Brush the jammy glaze over the fish during the last 2 minutes of grilling.",
+    "Serve the grilled fish hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled fish",
+    "norwegian cuisine",
+    "easy recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-norwegian-fish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:20:11.184Z"
+}
