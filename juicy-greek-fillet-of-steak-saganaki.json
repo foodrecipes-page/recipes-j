@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-greek-fillet-of-steak-saganaki",
+  "title": "Greek-Style Pan-Seared Steak with Saganaki",
+  "description": "A classic combination of tender steak and crispy saganaki, served with a side of tangy feta salad.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs juicy Greek fillet steak",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "for marinade"
+    },
+    {
+      "name": "1/4 cup red wine vinegar",
+      "amount": "",
+      "notes": "for marinade"
+    },
+    {
+      "name": "1/4 cup chopped fresh oregano",
+      "amount": "",
+      "notes": "for marinade"
+    },
+    {
+      "name": "1/2 cup crumbled saganaki cheese",
+      "amount": "",
+      "notes": "for topping"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the steak with salt and pepper.",
+    "In a small bowl, whisk together olive oil, garlic, red wine vinegar, and oregano to make a marinade.",
+    "Brush the marinade on both sides of the steak and let it sit for 10 minutes.",
+    "Heat a skillet over medium-high heat and add the steak.",
+    "Sear the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the skillet to the preheated oven and cook for an additional 8-10 minutes.",
+    "Remove the steak from the oven and let it rest for 5 minutes.",
+    "Meanwhile, crumble the saganaki cheese and sprinkle it over the steak.",
+    "Return the skillet to the stovetop over medium heat and add a tablespoon of olive oil.",
+    "Add the crumbled saganaki cheese to the skillet and cook until it's crispy and golden brown.",
+    "Serve the steak with the crispy saganaki cheese on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "steak",
+    "saganaki",
+    "grilled-cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-greek-fillet-of-steak-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:04:31.205Z"
+}
