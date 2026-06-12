@@ -11209,13 +11209,11 @@
   },
   {
     "slug": "juicy-crumbly-middle-eastern-beetroot-maqluba",
-    "title": "Juicy Crumbly Middle Eastern Beetroot Maqluba",
+    "title": "Juicy Maqluba with Beetroot and Eastern Flair",
     "tags": [
-      "beetroot-recipe",
-      "flexitarian",
-      "middle-eastern",
-      "one-pan",
-      "romantic-dinner"
+      "middle eastern",
+      "beetroot",
+      "maqluba"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
@@ -11847,16 +11845,14 @@
   },
   {
     "slug": "juicy-filipino-chinese-kaldereta",
-    "title": "Juicy Filipino Chinese Kaldereta",
+    "title": "Kaldereta Filipino Beef Stew",
     "tags": [
-      "chinese-fusion",
-      "date-night",
       "filipino",
-      "high-protein",
-      "weeknight"
+      "beef",
+      "stew"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 55,
+    "cuisine": "Filipino",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {
