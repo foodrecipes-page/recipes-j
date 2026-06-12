@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-indian-white-fish-fillets-pakora",
+  "title": "Crispy Fish Pakora",
+  "description": "A popular Indian-inspired snack, these crispy fish pakoras are perfect for a quick lunch or dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "White fish fillets work best for this recipe"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 tsp",
+      "notes": "Use a mix of cumin, coriander, and turmeric for authentic flavor"
+    },
+    {
+      "name": "Pakora Mix",
+      "amount": "1 cup",
+      "notes": "Available at most Indian grocery stores or online"
+    },
+    {
+      "name": "Gram Flour",
+      "amount": "1 cup",
+      "notes": "Also known as chickpea flour, this is a key ingredient in pakoras"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "Use fresh lemon juice for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust the salt to your taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying",
+      "notes": "Use a neutral-tasting oil with a high smoke point"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish fillets into small pieces and set aside.",
+    "2. In a bowl, mix together the Indian spices, pakora mix, and gram flour.",
+    "3. Add the lemon juice and salt to the bowl and mix well.",
+    "4. Add the fish pieces to the bowl and toss to coat with the spice mixture.",
+    "5. Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "6. When the oil is hot, add the coated fish pieces to the pan and fry until golden brown.",
+    "7. Remove the pakoras from the oil with a slotted spoon and drain on paper towels.",
+    "8. Serve the crispy fish pakoras hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-white-fish-fillets-pakora",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:06:43.018Z"
+}
