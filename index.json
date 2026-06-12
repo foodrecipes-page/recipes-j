@@ -9086,17 +9086,14 @@
   },
   {
     "slug": "jubilant-turkish-beans-stew",
-    "title": "Jubilant Turkish Beans Stew",
+    "title": "Hearty Bean Stew",
     "tags": [
-      "beans",
-      "buttery",
-      "copper-pot",
-      "creamy",
-      "festive",
-      "turkish"
+      "bean-stew",
+      "turkish-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -9671,16 +9668,15 @@
   },
   {
     "slug": "juicy-argentinian-chorizo-empanadas",
-    "title": "Juicy Argentinian Chorizo Empanadas",
+    "title": "Argentinian Chorizo Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "chorizo-filled-empanadas",
-      "cilantro-topped-empanadas",
-      "post-workout-meals",
-      "savory-empanadas"
+      "argentinian",
+      "chorizo",
+      "empanadas",
+      "snack"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 70,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
