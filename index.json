@@ -12478,18 +12478,15 @@
   },
   {
     "slug": "juicy-greek-fillet-of-steak-saganaki",
-    "title": "Juicy Greek Fillet of Steak Saganaki",
+    "title": "Greek-Style Pan-Seared Steak with Saganaki",
     "tags": [
-      "easy",
-      "fillet",
-      "greek",
-      "one-pan",
-      "saganaki",
+      "greek-cuisine",
       "steak",
-      "weeknight"
+      "saganaki",
+      "grilled-cheese"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 22,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
