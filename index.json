@@ -11700,16 +11700,15 @@
   },
   {
     "slug": "juicy-ethipian-beef-stir-fry",
-    "title": "Vegan Earthy Ethiopian Beef Stir-fry",
+    "title": "Ethiopian Beef Stir Fry",
     "tags": [
-      "vegan",
+      "beef",
       "stir-fry",
-      "earthly",
-      "juicy",
-      "kid-friendly"
+      "ethiopian",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
