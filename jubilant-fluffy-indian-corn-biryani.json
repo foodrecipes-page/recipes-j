@@ -1,0 +1,76 @@
+{
+  "slug": "jubilant-fluffy-indian-corn-biryani",
+  "title": "Fluffy Corn Biryani",
+  "description": "A simple and flavorful Indian-inspired dish made with fluffy basmati rice, juicy corn, and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy Basmati Rice",
+      "amount": "1 cup",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "frozen or canned, thawed"
+    },
+    {
+      "name": "Indian Biryani Masala",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Jubilant Jubilee Spice Blend",
+      "amount": "1 tsp",
+      "notes": "custom blend with cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium heat.",
+    "Add the Indian Biryani Masala and Jubilant Jubilee Spice Blend. Cook for 1 minute, stirring constantly.",
+    "Add the fluffy basmati rice and cook for 2-3 minutes, stirring frequently.",
+    "Add the corn and salt. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Fluff the biryani with a fork and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "rice",
+    "corn",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-fluffy-indian-corn-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:07:27.754Z"
+}
