@@ -1,0 +1,69 @@
+{
+  "slug": "jerkied-zesty-silken-tofu-pesto",
+  "title": "Pesto Pesto Tofu",
+  "description": "A quick and easy vegetarian dish featuring silken tofu smothered in a rich pesto sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "drained and pressed"
+    },
+    {
+      "name": "pesto",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "jerkied zesty sauce",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the tofu into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "3. Drizzle the jerkied zesty sauce over the tofu cubes and toss to coat.",
+    "4. Bake the tofu in the preheated oven for 15-20 minutes, flipping halfway through.",
+    "5. While the tofu is baking, mix the pesto sauce with a squeeze of lemon juice and a sprinkle of salt and pepper.",
+    "6. Once the tofu is done baking, remove it from the oven and let it cool for a few minutes.",
+    "7. Serve the tofu with the pesto sauce spooned over the top.",
+    "8. Garnish with chopped fresh herbs, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pesto",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerkied-zesty-silken-tofu-pesto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:04:04.610Z"
+}
