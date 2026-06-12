@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-molten-uruguayan-chocolate-tart",
+  "title": "Uruguayan Chocolate Tart",
+  "description": "A rich and decadent Uruguayan-inspired chocolate tart perfect for dessert.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Juicy Uruguayan beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Molten chocolate",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tart pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Roll out the tart pastry and place it in a 9-inch tart pan.",
+    "In a medium bowl, whisk together the sugar, eggs, and salt.",
+    "Melt the unsalted butter and mix it with the sugar mixture.",
+    "Pour the sugar mixture into the tart shell.",
+    "Bake the tart for 25 minutes or until the edges are golden brown.",
+    "Remove the tart from the oven and let it cool for 5 minutes.",
+    "Melt the molten chocolate in a double boiler or in the microwave in 30-second increments.",
+    "Pour the melted chocolate over the tart and smooth it out with a spatula.",
+    "Refrigerate the tart for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "tart",
+    "uruguayan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-molten-uruguayan-chocolate-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:00:58.901Z"
+}
