@@ -5198,14 +5198,14 @@
   },
   {
     "slug": "jerkied-zesty-silken-tofu-pesto",
-    "title": "Jerkied Zesty Silken Tofu Pesto",
+    "title": "Pesto Pesto Tofu",
     "tags": [
-      "paleo-friendly",
-      "quick-cook",
-      "snackable"
+      "pesto",
+      "tofu",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 20,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -9781,18 +9781,17 @@
   },
   {
     "slug": "juicy-binchotan-charcoal-kissed-korean-wensleydale-dosirak-style-jjigae",
-    "title": "Juicy Binchotan-Charcoal Kissed Wensleydale Korean Jjigae",
+    "title": "Korean-Style Binchotan Grilled Wensleydale",
     "tags": [
-      "cheesy",
-      "gluten-free",
       "korean",
-      "one-pan",
-      "spicy",
-      "weeknight",
-      "whole30-friendly"
+      "grilled",
+      "cheese",
+      "binchotan",
+      "charcoal",
+      "fusion"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -12930,16 +12929,15 @@
   },
   {
     "slug": "juicy-indian-white-fish-fillets-pakora",
-    "title": "Juicy Indian White Fish Fillets Pakora",
+    "title": "Crispy Fish Pakora",
     "tags": [
-      "fish-recipes",
-      "halal-recipes",
-      "indian-snacks",
-      "pakora-recipes",
-      "tava-griddle-recipes"
+      "indian",
+      "fish",
+      "snack",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -14493,17 +14491,15 @@
   },
   {
     "slug": "juicy-portuguese-lentils-bowl",
-    "title": "Juicy Portuguese Lentils Bowl",
+    "title": "Portuguese Lentil Stew",
     "tags": [
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "post-workout",
-      "vegan"
+      "portuguese",
+      "lentils",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
