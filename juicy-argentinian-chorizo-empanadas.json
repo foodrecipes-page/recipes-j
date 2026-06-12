@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-argentinian-chorizo-empanadas",
+  "title": "Argentinian Chorizo Empanadas",
+  "description": "A classic Argentinian dish featuring chorizo sausage wrapped in crispy empanada dough.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Argentinian Chorizo",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": "Thaw dough if frozen"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out empanada dough to 1/4-inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a few slices of chorizo in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg.",
+    "Fold the dough over the filling to form a half-circle, pressing edges to seal.",
+    "Brush the tops of the empanadas with water and sprinkle with salt and pepper.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Garnish with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chorizo",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-chorizo-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:09:40.648Z"
+}
