@@ -10024,17 +10024,16 @@
   },
   {
     "slug": "juicy-briny-turkish-sausages-menemen",
-    "title": "Juicy Briny Turkish Sausages Menemen",
+    "title": "Turkish Sausage Menemen",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "meat-based",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "turkish",
+      "sausages",
+      "menemen",
+      "breakfast",
+      "skillet"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "turkish",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -13606,17 +13605,15 @@
   },
   {
     "slug": "juicy-malaysian-lamb-curry",
-    "title": "Juicy Malaysian Lamb Curry",
+    "title": "Lamb Curry",
     "tags": [
-      "clay-pot-cooking",
-      "curry-recipes",
-      "high-protein",
-      "lamb-recipes",
-      "malaysian-cuisine",
-      "one-pot"
+      "lamb",
+      "curry",
+      "malaysian",
+      "slow-cooked"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 140,
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
