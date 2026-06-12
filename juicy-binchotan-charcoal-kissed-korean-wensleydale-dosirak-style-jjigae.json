@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-binchotan-charcoal-kissed-korean-wensleydale-dosirak-style-jjigae",
+  "title": "Korean-Style Binchotan Grilled Wensleydale",
+  "description": "A unique fusion of Korean and English flavors, featuring binchotan-grilled Wensleydale cheese, inspired by traditional Korean dosirak-style grilled meats.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 block (225g)",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 kg",
+      "notes": "Japanese-style activated charcoal"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the binchotan charcoal to a medium-high heat (around 400°C/750°F).",
+    "2. Meanwhile, brush the Wensleydale cheese with sesame oil and sprinkle with salt.",
+    "3. Once the charcoal is ready, place the cheese on the grill and cook for 2-3 minutes per side, or until golden brown and slightly charred.",
+    "4. While the cheese is cooking, mix the Korean chili flakes and chili paste (if using) in a small bowl.",
+    "5. Brush the Korean chili mixture onto the cheese during the last minute of cooking.",
+    "6. Remove the cheese from the grill and let cool for a minute.",
+    "7. Slice the cheese into small pieces and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "grilled",
+    "cheese",
+    "binchotan",
+    "charcoal",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-binchotan-charcoal-kissed-korean-wensleydale-dosirak-style-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:40:57.330Z"
+}
