@@ -1,0 +1,88 @@
+{
+  "slug": "jubilant-dense-irish-toffee-popcorn-bake",
+  "title": "Irish Toffee Jubilant Delight",
+  "description": "A dense, moist cake infused with the sweetness of toffee and the crunch of popcorn, perfect for a snack or dessert.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "200g",
+      "notes": "for toffee syrup"
+    },
+    {
+      "name": "popcorn",
+      "amount": "100g",
+      "notes": "popped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "150g",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "dense Irish cream",
+      "amount": "120ml",
+      "notes": null
+    },
+    {
+      "name": "jubilant extract",
+      "amount": "10ml",
+      "notes": "to taste"
+    },
+    {
+      "name": "toffee syrup",
+      "amount": "60g",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm (8in) round cake pan and line the bottom with parchment paper.",
+    "In a medium bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "In a large bowl, whisk together the softened butter, eggs, Irish cream, and jubilant extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Stir in the popped popcorn and toffee syrup.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Once the cake is cool, you can drizzle with additional toffee syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "cake",
+    "toffee",
+    "popcorn",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-dense-irish-toffee-popcorn-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:47:19.829Z"
+}
