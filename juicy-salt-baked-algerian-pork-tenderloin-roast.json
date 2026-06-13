@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-salt-baked-algerian-pork-tenderloin-roast",
+  "title": "Garlic Herb Pork Tenderloin",
+  "description": "A flavorful and moist pork tenderloin dish, perfect for a weeknight dinner. The combination of garlic, herbs, and a hint of salt elevates the natural tenderness of the pork.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1",
+      "notes": "1-2 pounds"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "algerian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt, Algerian seasoning, and minced garlic.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the pork tenderloin for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the internal temperature reaches 145°F (63°C).",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "tenderloin",
+    "garlic",
+    "herb"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-salt-baked-algerian-pork-tenderloin-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:52:39.242Z"
+}
