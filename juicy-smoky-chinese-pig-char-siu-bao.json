@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-smoky-chinese-pig-char-siu-bao",
+  "title": "Cantonese-Style BBQ Pork Bao",
+  "description": "A classic Chinese dish featuring juicy, smoky BBQ pork served in a fluffy bao bun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cured with 5-spice powder"
+    },
+    {
+      "name": "Char siu sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Siu bao buns",
+      "amount": "4-6",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional dipping sauce"
+    },
+    {
+      "name": "Pork fat or oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing bao buns"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 tablespoon",
+      "notes": "For curing pork"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together five-spice powder and salt. Rub the mixture all over the pork shoulder.",
+    "3. Place the pork shoulder on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "4. While the pork is baking, prepare the char siu sauce by mixing it with hoisin sauce (if using).",
+    "5. Remove the pork from the oven and brush it with the char siu sauce.",
+    "6. Increase oven temperature to 425°F (220°C) and bake for an additional 15-20 minutes, or until the pork is caramelized.",
+    "7. Meanwhile, steam the bao buns according to package instructions.",
+    "8. Slice the pork into thin strips and serve with steamed bao buns and chopped green onions.",
+    "9. Brush the bao buns with pork fat or oil before serving.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "bbq",
+    "pork",
+    "bao",
+    "Chinese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-chinese-pig-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:03:54.794Z"
+}
