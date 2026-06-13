@@ -1,0 +1,83 @@
+{
+  "slug": "jubilant-indian-vegetable-fritters",
+  "title": "Crispy Vegetable Fritters",
+  "description": "A delicious and crunchy snack made with a mix of vegetables, perfect for any occasion. These fritters are a great way to add some excitement to your meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jubilant cornmeal",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan over medium-high heat.",
+    "In a bowl, mix cornmeal, cumin, coriander, salt, and pepper.",
+    "Add the chopped onion, sliced mushrooms, grated carrots, and grated zucchini to the bowl. Mix well.",
+    "Add the beaten egg to the bowl and mix until everything is well combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Carefully place the patties in the hot oil and fry until golden brown and crispy, about 4-5 minutes per side.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "fritters",
+    "crunchy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-indian-vegetable-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:33:50.793Z"
+}
