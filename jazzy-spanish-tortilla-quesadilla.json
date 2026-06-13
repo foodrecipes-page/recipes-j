@@ -1,0 +1,60 @@
+{
+  "slug": "jazzy-spanish-tortilla-quesadilla",
+  "title": "Spanish Tortilla Quesadillas",
+  "description": "A twist on traditional quesadillas using Spanish tortillas and filling for a unique flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "Jazzy cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Quesadilla filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large non-stick skillet over medium heat.",
+    "2. Add 1/4 cup of olive oil to the skillet.",
+    "3. Place a Spanish tortilla in the skillet and sprinkle with cheese and filling.",
+    "4. Fold the tortilla in half to enclose the filling.",
+    "5. Cook for 2-3 minutes or until the tortilla is crispy and the filling is heated through.",
+    "6. Flip the quesadilla and cook for an additional 2 minutes or until the other side is crispy.",
+    "7. Repeat with the remaining tortillas and filling.",
+    "8. Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "quesadillas",
+    "tortillas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-spanish-tortilla-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:18:07.507Z"
+}
