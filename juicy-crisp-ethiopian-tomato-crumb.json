@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-crisp-ethiopian-tomato-crumb",
+  "title": "Crispy Ethiopian Crumb Fritters",
+  "description": "A flavorful and crunchy snack inspired by Ethiopian cuisine, made with juicy tomatoes and crispy bread crumbs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large juicy tomato",
+      "amount": "2 cups, diced",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup crispy bread crumbs",
+      "amount": null,
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon Ethiopian berbere spice",
+      "amount": null,
+      "notes": "or substitute with chili powder"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the diced tomato, bread crumbs, flour, berbere spice, salt, and black pepper.",
+    "Using your hands, gently mix the ingredients until they are well combined.",
+    "Shape the mixture into small patties, about 1 1/2 inches (3.8 cm) in diameter and 1/2 inch (1.3 cm) thick.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the patties.",
+    "Bake in the preheated oven for 15-20 minutes, flipping the patties halfway through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "snack",
+    "tomato",
+    "crumb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-ethiopian-tomato-crumb",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:32.100Z"
+}
