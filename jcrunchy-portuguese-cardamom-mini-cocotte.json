@@ -1,0 +1,92 @@
+{
+  "slug": "jcrunchy-portuguese-cardamom-mini-cocotte",
+  "title": "Mini Portuguese Cardamom Crème Brûlée",
+  "description": "A unique dessert combining the flavors of Portugal and India, with a creamy cardamom-infused custard base topped with a caramelized sugar crust.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy",
+    "egg"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jcrunchy",
+      "amount": "1 1/2 cups",
+      "notes": "ground almonds for crust"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1 1/2 cups",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "mini",
+      "amount": "4",
+      "notes": "mini cocottes for individual servings"
+    },
+    {
+      "name": "coco",
+      "amount": "1 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "large",
+      "amount": "3",
+      "notes": "large egg yolks"
+    },
+    {
+      "name": "small",
+      "amount": "1/2 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1/2 teaspoon",
+      "notes": "extract"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the crust by mixing jcrunchy and portuguese in a bowl until well combined. Press into the mini cocottes.",
+    "Bake the crust for 10 minutes.",
+    "In a separate bowl, whisk together cardamom, coco, large egg yolks, small, vanilla, and salt.",
+    "Add the heavy cream to the bowl and whisk until well combined.",
+    "Pour the custard mixture into the baked mini cocottes.",
+    "Bake for an additional 15 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, sprinkle a thin layer of coco over the top of each crème brûlée.",
+    "Caramelize the coco with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "portuguese",
+    "cardamom",
+    "crème brûlée"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jcrunchy-portuguese-cardamom-mini-cocotte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:59.016Z"
+}
