@@ -1,0 +1,68 @@
+{
+  "slug": "jazzy-norwegian-banana-bowl",
+  "title": "Norwegian Banana Bowl",
+  "description": "A simple and delicious dessert made with Norwegian pancakes, sliced bananas, and a hint of sweetness.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Norwegian pancake mix",
+      "amount": "1 package",
+      "notes": "Follow package instructions for preparation"
+    },
+    {
+      "name": "Large bananas",
+      "amount": "2-3",
+      "notes": "Slice into rounds"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for extra sweetness"
+    },
+    {
+      "name": "Jazzy whipped cream",
+      "amount": "1 cup",
+      "notes": "Optional, for topping"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Prepare the Norwegian pancake mix according to package instructions.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop the pancake batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes until bubbles appear on the surface and the edges start to dry, about 2 minutes.",
+    "Flip the pancakes and cook for another 1-2 minutes.",
+    "Serve the pancakes warm in a bowl with sliced bananas and granulated sugar (if using).",
+    "Optional: Top with jazzy whipped cream and additional sliced bananas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "breakfast",
+    "dessert",
+    "bananas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-norwegian-banana-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:20:39.179Z"
+}
