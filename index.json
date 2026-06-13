@@ -15689,15 +15689,16 @@
   },
   {
     "slug": "juicy-smoky-chinese-pig-char-siu-bao",
-    "title": "Juicy-Smoky Chinese Pig CharSiu Bao",
+    "title": "Cantonese-Style BBQ Pork Bao",
     "tags": [
-      "char-bao",
-      "juicy",
-      "no-onion-no-garlic",
-      "smoky"
+      "cantonese",
+      "bbq",
+      "pork",
+      "bao",
+      "Chinese"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {
