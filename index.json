@@ -4076,17 +4076,15 @@
   },
   {
     "slug": "jazzy-norwegian-banana-bowl",
-    "title": "Jazzy Norwegian Banana Bowl",
+    "title": "Norwegian Banana Bowl",
     "tags": [
-      "cheese-pull",
       "norwegian",
-      "post-workout",
-      "quick",
-      "shojin-friendly",
-      "snack"
+      "breakfast",
+      "dessert",
+      "bananas"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -12287,17 +12285,14 @@
   },
   {
     "slug": "juicy-garlicky-venezuelan-chicken-skewers",
-    "title": "Juicy Garlicky Venezuelan Chicken Skewers",
+    "title": "Venezuelan Chicken Skewers",
     "tags": [
+      "latinamerican",
       "grilled",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "romantic-dinner",
-      "weeknight"
+      "chicken"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -15040,17 +15035,15 @@
   },
   {
     "slug": "juicy-salt-baked-algerian-pork-tenderloin-roast",
-    "title": "Juicy Salt Baked Algerian Pork Tenderloin Roast",
+    "title": "Garlic Herb Pork Tenderloin",
     "tags": [
-      "algerian-cuisine",
-      "bamboo-steamer",
-      "date-night",
-      "low-calorie",
-      "pork-recipes",
-      "salt-bake"
+      "pork",
+      "tenderloin",
+      "garlic",
+      "herb"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
