@@ -1,0 +1,69 @@
+{
+  "slug": "jazzy-crunchy-peruvian-shio-koji-causa",
+  "title": "Grilled Jazzy Koji Skewers with Peruvian Glaze",
+  "description": "A fusion of Peruvian and Japanese flavors, these skewers are perfect for a summer evening. The jazzy notes in the koji add a unique twist to the classic grilled dish.",
+  "cuisine": "Peruvian - Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jazzy Koji",
+      "amount": "250g",
+      "notes": "soaked in water for 2 hours"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "2 ears",
+      "notes": "grilled before serving"
+    },
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup",
+      "notes": "bell peppers, onions, and carrots"
+    },
+    {
+      "name": "Shio",
+      "amount": "2 tsp",
+      "notes": "soy sauce-based seasoning"
+    },
+    {
+      "name": "Causa Crust",
+      "amount": "1 cup",
+      "notes": "ground causas for breading"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread jazzy koji, crunchy vegetables, and peruvian corn onto skewers.",
+    "3. Brush skewers with shio and season with causas crust.",
+    "4. Grill for 8-10 minutes, turning occasionally.",
+    "5. Meanwhile, prepare Peruvian glaze by mixing 1 tablespoon of soy sauce, 1 tablespoon of honey, and 1 tablespoon of lime juice.",
+    "6. Brush glaze onto skewers during the last 2 minutes of grilling.",
+    "7. Serve hot with grilled peruvian corn on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "peruvian",
+    "japanese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crunchy-peruvian-shio-koji-causa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:01.663Z"
+}
