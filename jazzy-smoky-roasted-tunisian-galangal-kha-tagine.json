@@ -1,0 +1,84 @@
+{
+  "slug": "jazzy-smoky-roasted-tunisian-galangal-kha-tagine",
+  "title": "Tunisian Kha Tagine",
+  "description": "A hearty and aromatic slow-cooked stew originating from Tunisia, featuring kha and tagine spices.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kha",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened (5 min).",
+    "Add garlic and cook for 1 min.",
+    "Add kha, tagine, and galangal. Cook for 2 min.",
+    "Add tomatoes and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 30 min.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with roasted spices (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "slow-cooked",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-smoky-roasted-tunisian-galangal-kha-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:17:15.956Z"
+}
