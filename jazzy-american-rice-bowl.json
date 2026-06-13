@@ -1,0 +1,53 @@
+{
+  "slug": "jazzy-american-rice-bowl",
+  "title": "Jazzy American Rice Bowl",
+  "description": "A simple and flavorful rice bowl dish with a jazzy twist.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "American rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water to a boil in a medium saucepan.",
+    "Add 1 cup of American rice to the saucepan and cook according to package instructions.",
+    "While the rice cooks, heat 1 tablespoon of oil in a small skillet over medium heat.",
+    "Add 1 cup of jazzed up vegetables (such as bell peppers and onions) to the skillet and cook until tender.",
+    "Once the rice is cooked, fluff it with a fork and stir in 1 cup of jazzed up vegetables.",
+    "Transfer the rice mixture to a bowl and serve hot.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "vegetarian",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-american-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:03.751Z"
+}
