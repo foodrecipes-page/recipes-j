@@ -1,0 +1,80 @@
+{
+  "slug": "jubilant-basque-squid-skewers",
+  "title": "Grilled Squid with Jubilant Glaze",
+  "description": "A seafood dish featuring grilled squid with a sweet and tangy jubilant glaze, inspired by the flavors of Basque cuisine.",
+  "cuisine": "basque",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "12 oz",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "2 tbsp",
+      "notes": "Honey or substitute with maple syrup"
+    },
+    {
+      "name": "Basque",
+      "amount": "2 tbsp",
+      "notes": "Red wine vinegar or substitute with apple cider vinegar"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse squid and pat dry with paper towels.",
+    "Thread squid onto skewers, leaving a small space between each piece.",
+    "Brush squid with olive oil and season with salt and pepper.",
+    "Grill squid for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, combine jubilant and basque in a small saucepan.",
+    "Bring mixture to a simmer over medium heat.",
+    "Reduce heat to low and let sauce simmer for 5 minutes.",
+    "Brush sauce onto grilled squid during last minute of cooking.",
+    "Serve squid hot, garnished with additional jubilant if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-squid",
+    "basque-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-basque-squid-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:32.293Z"
+}
