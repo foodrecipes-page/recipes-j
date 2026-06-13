@@ -352,17 +352,16 @@
   },
   {
     "slug": "jagged-crispy-mediterranean-fish-skewers",
-    "title": "Jagged Crispy Mediterranean Fish Skewers",
+    "title": "Grilled Fish Skewers with Mediterranean Relish",
     "tags": [
-      "crispy-food",
-      "egg-free-recipes",
-      "fish-recipes",
-      "mediterranean-cuisine",
-      "monsoon-meals",
-      "pescatarian-dishes"
+      "fish",
+      "mediterranean",
+      "grilled",
+      "dinner",
+      "healthy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 34,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -3999,18 +3998,14 @@
   },
   {
     "slug": "jazzy-molten-uruguayan-lamb-stew",
-    "title": "Jazzy Molten Uruguayan Lamb Stew",
+    "title": "Uruguayan Stew",
     "tags": [
-      "braised",
-      "comfort-food",
-      "halal",
-      "molten",
-      "stout",
       "uruguayan",
-      "weeknight"
+      "stew",
+      "lamb"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 195,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
@@ -7571,17 +7566,15 @@
   },
   {
     "slug": "jubilant-charred-german-sausage-skewers",
-    "title": "Jubilant Charred German Sausage Skewers",
+    "title": "Grilled German Sausage Skewers",
     "tags": [
-      "german-cuisine",
-      "grilled-meat",
-      "kosher-friendly",
-      "robata-grill",
-      "sausage-recipes",
-      "skewer-recipes"
+      "german",
+      "grilled",
+      "sausages",
+      "skewers"
     ],
     "cuisine": "German",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
