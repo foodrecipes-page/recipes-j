@@ -8240,17 +8240,16 @@
   },
   {
     "slug": "jubilant-indian-vegetable-fritters",
-    "title": "Jubilant Indian Vegetable Fritters",
+    "title": "Crispy Vegetable Fritters",
     "tags": [
-      "bengali-cuisine",
-      "deep-fried",
-      "festive",
-      "gluten-free",
-      "indian-food",
-      "vegetarian"
+      "indian",
+      "snack",
+      "vegetarian",
+      "fritters",
+      "crunchy"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -9332,16 +9331,14 @@
   },
   {
     "slug": "jucy-uruguayan-butter-stew",
-    "title": "Jucy Uruguayan Butter Stew",
+    "title": "Uruguayan-Style Beef Stew",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "low-carb",
-      "one-pot",
-      "winter"
+      "beef-stew",
+      "uruguayan-cuisine",
+      "dinner-ideas"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 200,
     "shard": "j"
   },
   {
@@ -13469,17 +13466,15 @@
   },
   {
     "slug": "juicy-light-moroccan-taleggio-stir-fry",
-    "title": "Juicy Light Moroccan Taleggio Stir fry",
+    "title": "Moroccan Chicken with Taleggio Fries",
     "tags": [
-      "cheesy",
-      "chicken-dish",
-      "keto-friendly",
-      "low-carb",
-      "moroccan-inspired",
-      "one-pan"
+      "moroccan",
+      "chicken",
+      "fries",
+      "taleggio"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
