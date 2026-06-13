@@ -1,0 +1,82 @@
+{
+  "slug": "jaded-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A classic Southeast Asian dish featuring marinated chicken grilled to perfection and served with spicy peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "satay spice mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "jaded (or other type of wood skewers)",
+      "amount": "1 dozen",
+      "notes": null
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, ginger, garlic, and satay spice mix. Blend until smooth.",
+    "Thread chicken breast onto the jaded skewers, leaving a small space between each piece.",
+    "Place the skewers in a shallow dish and pour the marinade over them. Make sure they are fully coated.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Brush with peanut sauce during the last minute of grilling.",
+    "Serve with additional peanut sauce and cucumber slices on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "snack",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaded-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:59:02.003Z"
+}
