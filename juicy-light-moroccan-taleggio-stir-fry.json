@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-light-moroccan-taleggio-stir-fry",
+  "title": "Moroccan Chicken with Taleggio Fries",
+  "description": "A flavorful and savory Moroccan-inspired dish featuring chicken and melted Taleggio cheese. Serve with crispy Taleggio fries for a satisfying meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy chicken breasts",
+      "amount": "2",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fry",
+      "amount": "",
+      "notes": "For frying the fries"
+    },
+    {
+      "name": "stir",
+      "amount": "",
+      "notes": "For stirring the sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with cumin, coriander, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides and cooked through.",
+    "Transfer the chicken to a baking dish and top with sliced Taleggio cheese.",
+    "Bake in the preheated oven until the cheese is melted and bubbly.",
+    "Meanwhile, peel the potatoes and cut into fry shapes.",
+    "Heat the fry in a deep frying pan until hot. Fry the potatoes until crispy and golden brown.",
+    "Serve the chicken with the Taleggio fries and garnish with chopped onion and parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "fries",
+    "taleggio"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-moroccan-taleggio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:38:03.049Z"
+}
