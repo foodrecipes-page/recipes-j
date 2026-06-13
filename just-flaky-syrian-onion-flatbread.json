@@ -1,0 +1,67 @@
+{
+  "slug": "just-flaky-syrian-onion-flatbread",
+  "title": "Syrian Flatbread",
+  "description": "A simple flatbread recipe from Syria, perfect for accompanying various dishes.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "just a pinch of salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "syrian bread spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "flatbread",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry dough to about 1/4 inch thickness.",
+    "Brush the dough with a little water, then sprinkle with salt and Syrian bread spice blend.",
+    "Top with chopped onion.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Optional: serve with flatbread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "syrian",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/just-flaky-syrian-onion-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:11:18.798Z"
+}
