@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-portuguese-tomato-casserole",
+  "title": "Portuguese-Style Casserole",
+  "description": "A hearty casserole with juicy meat and fresh tomatoes, inspired by traditional Portuguese flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Portuguese tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 (14.5 oz) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add ground beef and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add chopped onion and minced garlic and cook until softened, about 3 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add diced tomatoes, beef broth, and casserole.",
+    "Bring to a simmer and cook for 10 minutes.",
+    "Transfer casserole mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until hot and bubbly.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "casserole",
+    "beef",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-portuguese-tomato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:55:56.094Z"
+}
