@@ -1,0 +1,95 @@
+{
+  "slug": "jagged-crispy-mediterranean-fish-skewers",
+  "title": "Grilled Fish Skewers with Mediterranean Relish",
+  "description": "Delicious and easy-to-make skewers of marinated fish, served with a refreshing Mediterranean relish. Perfect for a light and healthy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (such as tilapia or mahi-mahi)",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Jagged skewers",
+      "amount": "10-12 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean olives (such as Kalamata)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lemon juice, garlic, red pepper flakes, and salt.",
+    "3. Add the fish pieces to the bowl and toss to coat with the marinade.",
+    "4. Thread the marinated fish onto the jagged skewers.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "6. Meanwhile, combine the olives, artichoke hearts, and parsley in a small bowl.",
+    "7. Once the skewers are done, serve the fish hot with the Mediterranean relish spooned over the top.",
+    "8. Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "grilled",
+    "dinner",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-mediterranean-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:20:36.534Z"
+}
