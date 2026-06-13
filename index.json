@@ -140,15 +140,15 @@
   },
   {
     "slug": "jaded-malaysian-chicken-satay",
-    "title": "Jaded Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "high-protein",
-      "mild-spicy",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "snack",
+      "grilled",
+      "peanut-sauce"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 36,
     "shard": "j"
   },
   {
@@ -18022,17 +18022,15 @@
   },
   {
     "slug": "just-flaky-syrian-onion-flatbread",
-    "title": "Syrian Onion Flatbread",
+    "title": "Syrian Flatbread",
     "tags": [
       "flatbread",
-      "lunch",
-      "middle-eastern",
-      "onion-free-alternative",
-      "snack",
-      "vegetarian"
+      "syrian",
+      "bread",
+      "snack"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
