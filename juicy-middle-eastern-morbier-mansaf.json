@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-middle-eastern-morbier-mansaf",
+  "title": "Pan-Seared Juicy Eastern Chicken with Morbier and Mansaf Grains",
+  "description": "A flavorful and nutritious meal that combines the juiciness of chicken with the savory flavors of Eastern spices, served with a side of herb-infused grains.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Mansaf grain",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin, coriander, and paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season chicken breast with eastern spices, salt, and black pepper.",
+    "3. Heat 1 tablespoon of olive oil in a skillet over medium-high heat. Sear the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "4. Transfer the chicken breast to a baking sheet and bake for an additional 10-12 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "5. While the chicken is cooking, heat the remaining 1 tablespoon of olive oil in a saucepan over medium heat. Add the crumbled Morbier cheese and stir until melted and smooth.",
+    "6. To serve, place a cooked chicken breast on a plate and top with a spoonful of the Morbier cheese sauce. Serve with a side of Mansaf grain and garnish with chopped parsley and a lemon wedge.",
+    "7. Cook the Mansaf grain according to package instructions. Typically, it is cooked with chicken or beef broth and herbs.",
+    "8. To prepare the eastern spices, combine ground cumin, coriander, and paprika in a small bowl. Mix well to combine.",
+    "9. To make the Morbier cheese sauce, stir the crumbled cheese over low heat until melted and smooth. Season with salt and black pepper to taste.",
+    "10. To garnish, sprinkle chopped parsley over the top of the chicken breast and serve with a lemon wedge on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle-eastern",
+    "eastern-spices",
+    "morbier-cheese",
+    "mansaf-grain"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-middle-eastern-morbier-mansaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:03:10.590Z"
+}
