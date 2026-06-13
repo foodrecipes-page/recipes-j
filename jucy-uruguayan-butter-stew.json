@@ -1,0 +1,95 @@
+{
+  "slug": "jucy-uruguayan-butter-stew",
+  "title": "Uruguayan-Style Beef Stew",
+  "description": "A hearty beef stew originating from Uruguay, made with tender chunks of beef and flavorful vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef (churrasco or flank steak)",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Juicy beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove browned beef from pot and set aside.",
+    "Add onion, garlic, and red bell pepper to pot; cook until vegetables are tender, about 5 minutes.",
+    "Add tomato paste (if using) and cook for 1 minute.",
+    "Add beef broth and bring to a boil.",
+    "Return beef to pot, cover, and transfer to the oven.",
+    "Braise for 2-3 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley and accompanied by stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "uruguayan-cuisine",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-uruguayan-butter-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:32:35.029Z"
+}
