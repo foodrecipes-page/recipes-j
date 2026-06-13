@@ -3109,14 +3109,12 @@
     "slug": "jazzy-american-rice-bowl",
     "title": "Jazzy American Rice Bowl",
     "tags": [
-      "bento",
-      "low-fodmap",
-      "one-pot",
-      "quick",
-      "vegetarian"
+      "american",
+      "vegetarian",
+      "rice-bowl"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -3351,16 +3349,16 @@
   },
   {
     "slug": "jazzy-crunchy-peruvian-shio-koji-causa",
-    "title": "Jazzy Crunchy Peruvian Shio-Koji Causa",
+    "title": "Grilled Jazzy Koji Skewers with Peruvian Glaze",
     "tags": [
-      "comfort-food",
-      "low-fat",
-      "one-pan",
+      "grilled",
+      "skewers",
       "peruvian",
-      "weeknight"
+      "japanese",
+      "fusion"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "Peruvian - Japanese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -4722,17 +4720,15 @@
   },
   {
     "slug": "jcrunchy-portuguese-cardamom-mini-cocotte",
-    "title": "JCrunchy Portuguese Cardamom Mini-Cocotte",
+    "title": "Mini Portuguese Cardamom Crème Brûlée",
     "tags": [
-      "cardamom-recipe",
-      "crunchy-portuguese",
-      "macrobiotic-friendly",
-      "mini-cocotte-dish",
-      "single-serving",
-      "sour-cherry-tomato"
+      "dessert",
+      "portuguese",
+      "cardamom",
+      "crème brûlée"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -11291,17 +11287,16 @@
   },
   {
     "slug": "juicy-crunchy-dutch-manchego-wrap",
-    "title": "Juicy Crunchy Dutch Manchego Wrap",
+    "title": "Dutch Wrap with Manchego and Crunchy Slaw",
     "tags": [
-      "dutch-cuisine",
-      "easy-dinner",
-      "manchego-cheese",
-      "pescatarian",
-      "ssam-wrap",
-      "weeknight"
+      "dutch",
+      "wrap",
+      "lunch",
+      "chicken",
+      "cheese"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 20,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
