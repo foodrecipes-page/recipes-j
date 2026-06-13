@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-crunchy-dutch-manchego-wrap",
+  "title": "Dutch Wrap with Manchego and Crunchy Slaw",
+  "description": "A tasty and easy wrap filled with the flavors of the Netherlands, featuring a crunchy slaw and melted Manchego cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy chicken breast",
+      "amount": "1",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Crunchy slaw",
+      "amount": "1 cup",
+      "notes": "See instructions for preparation"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the wrap on the grill or in a toaster.",
+    "5. Slice the grilled chicken into thin strips.",
+    "6. Assemble the wrap by spreading the Dutch mustard on the wrap, followed by the sliced chicken, Manchego cheese, and crunchy slaw.",
+    "7. Serve immediately and enjoy!",
+    "8. To make the crunchy slaw, mix 1 cup of shredded cabbage with 2 tbsp of mayonnaise and 1 tsp of apple cider vinegar.",
+    "9. Season the slaw with salt and pepper to taste.",
+    "10. Refrigerate the slaw for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "wrap",
+    "lunch",
+    "chicken",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-dutch-manchego-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:54.074Z"
+}
