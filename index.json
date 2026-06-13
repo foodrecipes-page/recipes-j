@@ -4279,16 +4279,15 @@
   },
   {
     "slug": "jazzy-smoky-roasted-tunisian-galangal-kha-tagine",
-    "title": "Jazzy Smoky Roasted Tunisian Galangal-Kha Tagine",
+    "title": "Tunisian Kha Tagine",
     "tags": [
-      "galangal-kha",
-      "high-protein",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "north african",
+      "stew",
+      "slow-cooked",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "north african",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -4470,18 +4469,15 @@
   },
   {
     "slug": "jazzy-spanish-tortilla-quesadilla",
-    "title": "Jazzy Spanish Tortilla Quesadilla",
+    "title": "Spanish Tortilla Quesadillas",
     "tags": [
-      "cheesy",
-      "easy-dinner",
-      "flexitarian",
-      "one-pan",
-      "spanish-food",
-      "tortilla-recipes",
-      "weeknight"
+      "spanish",
+      "quesadillas",
+      "tortillas",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
