@@ -1,0 +1,79 @@
+{
+  "slug": "jammy-crumbly-australian-mixed-grain-bake",
+  "title": "Australian Crumble Cake",
+  "description": "A moist Australian-style cake topped with a crumbly streusel topping, perfect for dessert or snack.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian Jammy Tarts",
+      "amount": "1 cup",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "Crumbly Biscuit Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Grain Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bake Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Grease a 9x9-inch baking dish.",
+    "In a medium bowl, whisk together flour, baking powder, and sugar.",
+    "Add eggs and milk, and mix until combined.",
+    "Pour the mixture into the prepared baking dish.",
+    "Top with Australian Jammy Tarts crumbs and Crumbly Biscuit Mix.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cake",
+    "crumble",
+    "streusel",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crumbly-australian-mixed-grain-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:28:21.827Z"
+}
