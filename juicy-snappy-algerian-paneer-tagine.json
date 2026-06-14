@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-snappy-algerian-paneer-tagine",
+  "title": "Algerian Pan-Seared Paneer Tagine",
+  "description": "A rich and flavorful North African-inspired dish featuring tender paneer and a sweet and spicy tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Algerian chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Snappy almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chilies, garlic, and onion, and cook until onion is translucent.",
+    "Add the tomatoes, almonds, cumin, and paprika. Cook for 2-3 minutes.",
+    "Add the paneer, and cook until golden brown.",
+    "Stir in lemon juice, and season with salt and pepper.",
+    "Serve hot, garnished with fresh herbs.",
+    "Cook the almonds in a small skillet over medium heat, stirring frequently, until fragrant and lightly toasted.",
+    "Stir the toasted almonds into the tagine sauce before serving.",
+    "Cook the tagine sauce for 5-7 minutes, stirring occasionally, until thickened and flavorful.",
+    "Serve the tagine sauce over the paneer, and garnish with fresh herbs.",
+    "Cook the paneer in a large skillet over medium heat, stirring occasionally, until golden brown and tender.",
+    "Stir the tagine sauce into the cooked paneer, and season with salt and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "paneer",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-snappy-algerian-paneer-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:06:37.000Z"
+}
