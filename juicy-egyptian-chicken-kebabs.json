@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-egyptian-chicken-kebabs",
+  "title": "Egyptian Chicken Kebabs",
+  "description": "A flavorful and spicy chicken dish inspired by Egyptian street food, perfect for grilling during the summer. This recipe combines juicy chicken, aromatic spices, and a hint of citrus.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian kebab spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together kebab spice mix, lemon juice, and olive oil.",
+    "2. Add the chicken to the bowl and mix until coated with the marinade.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "6. Thread the chicken, onion, bell pepper, and tomato onto skewers.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Grill the kebabs for 8-10 minutes per side, or until the chicken is cooked through.",
+    "9. Serve the kebabs hot with pita bread and your favorite sides.",
+    "10. Garnish with parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "middle-eastern",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-egyptian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:18:52.841Z"
+}
