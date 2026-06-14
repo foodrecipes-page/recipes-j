@@ -9734,17 +9734,16 @@
   },
   {
     "slug": "juicy-australian-shrimp-wrap",
-    "title": "Juicy Australian Shrimp Wrap",
+    "title": "Australian Shrimp Wrap",
     "tags": [
       "australian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "shrimp",
+      "wrap",
+      "easy-recipe",
+      "low-carb"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -15892,17 +15891,15 @@
   },
   {
     "slug": "juicy-snappy-algerian-paneer-tagine",
-    "title": "Juicy Snappy Algerian Paneer Tagine",
+    "title": "Algerian Pan-Seared Paneer Tagine",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "algerian",
+      "paneer",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
