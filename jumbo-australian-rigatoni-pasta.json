@@ -1,0 +1,99 @@
+{
+  "slug": "jumbo-australian-rigatoni-pasta",
+  "title": "Australian-Style Jumbo Rigatoni Bolognese",
+  "description": "A hearty, Australian-inspired pasta dish featuring jumbo rigatoni, rich bolognese sauce, and a sprinkle of parmesan cheese.",
+  "cuisine": "Australian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Rigatoni",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "amount": "28 ounces"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the chopped onion, carrot, and celery, cooking until the vegetables are tender.",
+    "Add the ground beef, cooking until browned.",
+    "Add the tomato paste, cooking for 1-2 minutes.",
+    "Add the crushed tomatoes, red wine, and beef broth, stirring to combine.",
+    "Bring the sauce to a simmer and let cook for 20-30 minutes, stirring occasionally.",
+    "While the sauce cooks, cook the jumbo rigatoni in a large pot of boiling, salted water.",
+    "Reserve 1 cup of pasta water before draining the rigatoni.",
+    "Add the cooked rigatoni to the bolognese sauce, tossing to combine.",
+    "If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pasta",
+    "beef",
+    "bolognese"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-australian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:05:34.261Z"
+}
