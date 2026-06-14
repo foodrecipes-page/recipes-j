@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-shaggy-dutch-beef-stew",
+  "title": "Dutch Beef Stew",
+  "description": "A hearty beef stew recipe with a rich Dutch twist. Perfect for a cold winter day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon dried",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add beef; cook until browned, about 5 minutes.",
+    "Add wine, broth, mustard, thyme, carrots, and potatoes.",
+    "Bring to a boil; cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-shaggy-dutch-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:39:55.541Z"
+}
