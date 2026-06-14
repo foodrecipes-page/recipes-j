@@ -1,0 +1,80 @@
+{
+  "slug": "jeweled-indulgent-japanese-lemons-takikomi-gohan",
+  "title": "Japanese-Style Takikomi Gohan",
+  "description": "A flavorful Japanese dish featuring a mixture of rice, vegetables, and chicken cooked together in a savory broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jeweled onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gohan",
+      "amount": "2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes.",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "Heat oil in a large pan over medium heat and cook the chicken until browned.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown.",
+    "Add the jeweled onions and cook for 2 minutes.",
+    "Add the Japanese rice to the pan and stir to combine with the other ingredients.",
+    "Add the lemon juice, soy sauce, and gohan (if using) to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the pan.",
+    "Simmer the mixture for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the rice mixture with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-indulgent-japanese-lemons-takikomi-gohan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:53:51.755Z"
+}
