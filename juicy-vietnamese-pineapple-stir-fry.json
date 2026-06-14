@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-vietnamese-pineapple-stir-fry",
+  "title": "Vietnamese Pineapple Stir Fry",
+  "description": "A quick and easy stir fry dish made with juicy Vietnamese chicken, pineapple, and a hint of spice. Perfect for a weeknight dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Fresh pineapple",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized chunks"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of soy sauce, fish sauce, honey, and red pepper flakes for at least 30 minutes.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the pineapple to the skillet and cook for 2-3 minutes, until tender.",
+    "Return the chicken to the skillet and stir to combine with the pineapple and sauce.",
+    "Cook for an additional 1-2 minutes, until the chicken is coated in the sauce.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "quick",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-vietnamese-pineapple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:33:58.382Z"
+}
