@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-tunisian-beef-kidney-tagine",
+  "title": "Tunisian Beef Tagine",
+  "description": "A hearty and flavorful North African stew made with tender beef and aromatic spices. Traditionally cooked in a clay tagine pot, but suitable for any slow cooker.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "kidney",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tablespoon, ground"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes.",
+    "Transfer the beef to a slow cooker.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the ground cumin, coriander, salt, and pepper.",
+    "Add the chopped kidney and cook for 2 minutes.",
+    "Stir in the chopped juicy and cook for an additional 2 minutes.",
+    "Add the browned beef and any accumulated juices to the slow cooker.",
+    "Cover and cook on low for 3-4 hours or high for 1-2 hours.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "north-african",
+    "slow-cooker",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tunisian-beef-kidney-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:44:54.122Z"
+}
