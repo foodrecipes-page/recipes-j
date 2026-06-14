@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-australian-shrimp-wrap",
+  "title": "Australian Shrimp Wrap",
+  "description": "A delicious and easy-to-make wrap filled with succulent shrimp and fresh vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Juicy Shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Large Tortilla Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the shrimp with salt and pepper.",
+    "Grill the shrimp for 2-3 minutes per side, until pink and cooked through.",
+    "Warm the tortilla wrap in the microwave or oven for 20-30 seconds.",
+    "Arrange the mixed greens, sliced red onion, cucumber, and avocado on the tortilla wrap.",
+    "Place the cooked shrimp on top of the vegetables.",
+    "Drizzle the chili sauce over the shrimp.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "shrimp",
+    "wrap",
+    "easy-recipe",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-australian-shrimp-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:55:33.130Z"
+}
