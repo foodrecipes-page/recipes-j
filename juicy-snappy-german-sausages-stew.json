@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-snappy-german-sausages-stew",
+  "title": "Grilled German Sausage Stew",
+  "description": "A hearty, one-pot dish made with juicy German sausages and snappy vegetables.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "you can use any type of German sausage you like (e.g. Weisswurst or Bratwurst)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "optional (e.g. a German lager)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for another 5 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, beer (if using), salt, and pepper to the pot.",
+    "Return the sausages to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-sausage",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-snappy-german-sausages-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:11:04.954Z"
+}
