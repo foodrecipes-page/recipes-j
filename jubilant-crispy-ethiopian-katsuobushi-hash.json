@@ -1,0 +1,69 @@
+{
+  "slug": "jubilant-crispy-ethiopian-katsuobushi-hash",
+  "title": "Crispy Ethiopian Hash with Jubilant Katsuobushi",
+  "description": "A flavorful and crispy Ethiopian hash recipe featuring jubilant spices and topped with katsuobushi for added depth.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jubilant Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ethiopian Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Katsuobushi",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add crispy onions and cook until golden brown.",
+    "Add jubilant hash and cook until crispy.",
+    "Season with Ethiopian spice blend, salt, and black pepper.",
+    "Top with katsuobushi and serve hot.",
+    "Serve as a breakfast dish or as a side to your favorite meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "crispy",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crispy-ethiopian-katsuobushi-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:36:54.171Z"
+}
