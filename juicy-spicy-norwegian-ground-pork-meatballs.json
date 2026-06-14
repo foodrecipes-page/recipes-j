@@ -1,0 +1,75 @@
+{
+  "slug": "juicy-spicy-norwegian-ground-pork-meatballs",
+  "title": "Norwegian Meatballs",
+  "description": "A traditional Norwegian dish featuring juicy meatballs made from ground pork and beef. These meatballs are perfect for a hearty dinner or lunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup finely chopped"
+    },
+    {
+      "name": "Norwegian spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix ground pork, breadcrumbs, egg, onion, Norwegian spices, salt, and black pepper in a large bowl.",
+    "Use your hands to mix the mixture until just combined. Be careful not to overmix.",
+    "Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter.",
+    "Place the meatballs on a baking sheet lined with parchment paper.",
+    "Drizzle the meatballs with butter.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned.",
+    "Serve the meatballs hot with your favorite sauce or gravy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "meatballs",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-norwegian-ground-pork-meatballs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:36:05.361Z"
+}
