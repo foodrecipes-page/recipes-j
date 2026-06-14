@@ -9622,16 +9622,15 @@
   },
   {
     "slug": "juicy-argentinian-chicken-liver-skewers",
-    "title": "Juicy Argentinian Chicken Liver Skewers",
+    "title": "Argentinian Chicken Skewers",
     "tags": [
-      "argentinian-cuisine",
-      "gluten-free",
-      "grilled",
-      "high-protein",
-      "low-carb"
+      "argentinian",
+      "chicken",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "South American",
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
