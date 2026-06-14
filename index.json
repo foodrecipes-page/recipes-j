@@ -3834,16 +3834,15 @@
   },
   {
     "slug": "jazzy-kenyan-yoghurt-stir-fry",
-    "title": "Jazzy Kenyan Yoghurt Stir fry",
+    "title": "Kenyan Yogurt Stir Fry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kenyan",
+      "yogurt",
+      "stir-fry",
+      "quick-lunch"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15226,16 +15225,14 @@
   },
   {
     "slug": "juicy-shaggy-dutch-beef-stew",
-    "title": "Juicy Shaggy Dutch Beef Stew",
+    "title": "Dutch Beef Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "hearty-stew",
-      "kosher-friendly",
-      "one-pot"
+      "beef",
+      "stew",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
@@ -16990,17 +16987,15 @@
   },
   {
     "slug": "juicy-tunisian-beef-kidney-tagine",
-    "title": "Juicy Tunisian Beef Kidney Tagine",
+    "title": "Tunisian Beef Tagine",
     "tags": [
-      "beef-kidney",
-      "low-sodium",
-      "scallop-shell",
-      "tunisian-cuisine",
-      "umami",
-      "velvety"
+      "beef",
+      "north-african",
+      "slow-cooker",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "j"
   },
   {
