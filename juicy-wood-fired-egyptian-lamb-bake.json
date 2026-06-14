@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-wood-fired-egyptian-lamb-bake",
+  "title": "Egyptian Lamb Shawarma",
+  "description": "A flavorful and aromatic lamb dish inspired by Egyptian street food, perfect for a quick and delicious meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless and cut into thin strips"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tablespoons",
+      "notes": "A blend of cumin, coriander, cinnamon, and cardamom"
+    },
+    {
+      "name": "Juicy olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinating the lamb"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 pita breads",
+      "notes": "Warm and toasted for serving"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "Thinly sliced and caramelized"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "Diced and fresh"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "Thinly sliced and refreshing"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "Thinly sliced and tangy"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the olive oil, Egyptian spices, and a pinch of salt. Add the lamb strips and marinate for at least 30 minutes.",
+    "Thread the lamb strips onto skewers, if using.",
+    "Grill the lamb for 5-7 minutes per side, or until cooked through.",
+    "Warm the pita breads by wrapping them in foil and heating them in the oven for a few minutes.",
+    "Caramelize the onions by cooking them in a pan with a little oil over low heat for 20-25 minutes.",
+    "Assemble the shawarma by slicing the grilled lamb into thin strips and serving it in the warm pita breads with caramelized onions, diced tomatoes, sliced cucumbers, and pickles.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "shawarma",
+    "middle-eastern",
+    "street-food",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-wood-fired-egyptian-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:51:24.783Z"
+}
