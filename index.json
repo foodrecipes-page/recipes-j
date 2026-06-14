@@ -15904,17 +15904,14 @@
   },
   {
     "slug": "juicy-snappy-german-sausages-stew",
-    "title": "Juicy Snappy German Sausages Stew",
+    "title": "Grilled German Sausage Stew",
     "tags": [
-      "comfort-food",
-      "german-food",
-      "hearty-stew",
-      "macrobiotic",
-      "one-pot",
-      "sausage-stew"
+      "german-sausage",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
