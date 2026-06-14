@@ -1,0 +1,78 @@
+{
+  "slug": "joyful-canadian-biscuits-bake",
+  "title": "Canadian Biscuits Bake",
+  "description": "A classic Canadian treat, these biscuits are perfect for a warm breakfast or snack. They're easy to make and always a crowd-pleaser.",
+  "cuisine": "Canadian",
+  "diet": [
+    "breakfast",
+    "snack"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, baking powder, salt, and sugar.",
+    "In a separate bowl, whisk together butter, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Drop the dough by tablespoonfuls onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "biscuits",
+    "breakfast",
+    "snack",
+    "easy",
+    "delicious"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/joyful-canadian-biscuits-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:34:19.087Z"
+}
