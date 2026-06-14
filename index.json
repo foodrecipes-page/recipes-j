@@ -7236,16 +7236,17 @@
   },
   {
     "slug": "joyful-canadian-biscuits-bake",
-    "title": "Joyful Canadian Biscuits Bake",
+    "title": "Canadian Biscuits Bake",
     "tags": [
-      "comfort-food",
-      "dessert",
-      "maple-flavor",
-      "whole30-friendly",
-      "wood-fired"
+      "canadian",
+      "biscuits",
+      "breakfast",
+      "snack",
+      "easy",
+      "delicious"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -7694,17 +7695,15 @@
   },
   {
     "slug": "jubilant-crispy-ethiopian-katsuobushi-hash",
-    "title": "Jubilant Crispy Ethiopian Katsuobushi Hash",
+    "title": "Crispy Ethiopian Hash with Jubilant Katsuobushi",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "high-protein",
-      "macrobiotic-friendly",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "ethiopian",
+      "crispy",
+      "hash"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16261,14 +16260,11 @@
   },
   {
     "slug": "juicy-spicy-norwegian-ground-pork-meatballs",
-    "title": "Juicy Spicy Norwegian Ground Pork Meatballs",
+    "title": "Norwegian Meatballs",
     "tags": [
-      "date-night",
-      "halal-friendly",
+      "norwegian",
       "meatballs",
-      "norwegian-cuisine",
-      "pork-recipes",
-      "spicy-food"
+      "dinner"
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 38,
