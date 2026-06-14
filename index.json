@@ -2694,17 +2694,15 @@
   },
   {
     "slug": "japan-style-jarring-japanese-dried-white-beans-dal",
-    "title": "Japan-Style Jarring Japanese Dried White Beans Dal",
+    "title": "Japanese-Style Braised White Beans",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-fat",
-      "one-pan",
+      "japanese",
+      "beans",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -11534,16 +11532,15 @@
   },
   {
     "slug": "juicy-egyptian-chicken-kebabs",
-    "title": "Juicy Egyptian Chicken Kebabs",
+    "title": "Egyptian Chicken Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
+      "chicken",
+      "kebabs",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "grilling"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "j"
   },
   {
@@ -17544,15 +17541,15 @@
   },
   {
     "slug": "juicy-vietnamese-pineapple-stir-fry",
-    "title": "Juicy Vietnamese Pineapple Stir-fry",
+    "title": "Vietnamese Pineapple Stir Fry",
     "tags": [
       "vietnamese",
-      "juicy",
-      "umami",
-      "post-workout"
+      "quick",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 18,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
