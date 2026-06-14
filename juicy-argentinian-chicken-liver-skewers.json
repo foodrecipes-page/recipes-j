@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-argentinian-chicken-liver-skewers",
+  "title": "Argentinian Chicken Skewers",
+  "description": "A classic South American dish featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "South American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Juicy chicken liver",
+      "amount": "1/2 pound",
+      "notes": "minced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the minced chicken liver to the bowl and mix well.",
+    "Thread the chicken breast onto the skewers, leaving a small space between each piece.",
+    "Brush the skewers with the marinade, making sure they're evenly coated.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-chicken-liver-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:12:16.889Z"
+}
