@@ -1,0 +1,84 @@
+{
+  "slug": "japan-style-jarring-japanese-dried-white-beans-dal",
+  "title": "Japanese-Style Braised White Beans",
+  "description": "A hearty, comforting dish of slow-cooked white beans in a rich, savory sauce inspired by Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White beans (canned or dried)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Japanese-style dashi (or substitute)",
+      "amount": "2 cups",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, sliced",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium heat.",
+    "Add sliced ginger and cook for 1-2 minutes until fragrant.",
+    "Add soy sauce and braising liquid (dashi or substitute), stirring to combine.",
+    "Add white beans and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until beans are tender.",
+    "Stir in chopped green onions and sesame seeds.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "beans",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japan-style-jarring-japanese-dried-white-beans-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:27:27.452Z"
+}
