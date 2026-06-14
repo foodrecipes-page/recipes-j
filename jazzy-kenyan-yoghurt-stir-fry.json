@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-kenyan-yoghurt-stir-fry",
+  "title": "Kenyan Yogurt Stir Fry",
+  "description": "A refreshing and light Kenyan-inspired stir fry made with yogurt, perfect for a quick lunch or snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan Vegetable Mix",
+      "amount": "1 cup",
+      "notes": "any combination of bell peppers, carrots, green beans, and onions"
+    },
+    {
+      "name": "Plain Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Stir Fry Sauce (store-bought or homemade)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fry",
+      "amount": "1/4 cup",
+      "notes": "any type of vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of fry in a large skillet over medium-high heat.",
+    "Add the Kenyan Vegetable Mix and cook until the vegetables are tender.",
+    "Stir in the Stir Fry Sauce and cook for an additional 1-2 minutes.",
+    "In a separate bowl, whisk together the Plain Yogurt and a pinch of salt.",
+    "Add the cooked vegetable mixture to the yogurt bowl and stir until well combined.",
+    "Serve the Kenyan Yogurt Stir Fry over Jazzy Jasmine Rice.",
+    "Garnish with additional Stir Fry Sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "yogurt",
+    "stir-fry",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-kenyan-yoghurt-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:42:14.264Z"
+}
