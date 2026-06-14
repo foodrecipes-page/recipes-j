@@ -17797,14 +17797,15 @@
   },
   {
     "slug": "jumbo-australian-rigatoni-pasta",
-    "title": "Jumbo Australian Rigatoni Pasta",
+    "title": "Australian-Style Jumbo Rigatoni Bolognese",
     "tags": [
-      "austalian",
-      "comfort-food",
-      "one-pan"
+      "australian",
+      "pasta",
+      "beef",
+      "bolognese"
     ],
-    "cuisine": "austalian",
-    "totalTimeMin": 33,
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
