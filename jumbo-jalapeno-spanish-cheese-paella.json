@@ -1,0 +1,69 @@
+{
+  "slug": "jumbo-jalapeno-spanish-cheese-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, vegetables, and seafood, inspired by the flavors of the Valencia region.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Spanish Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jalapeno",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Spanish Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Cheese (Manchego)",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large paella pan over medium-high heat.",
+    "Add the diced jalapeno and cook until softened, about 2 minutes.",
+    "Add the Spanish sausage and cook until browned, about 5 minutes.",
+    "Add the jumbo shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the Spanish rice and stir to combine with the sausage and shrimp.",
+    "Add 2 cups of water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Stir in the shredded Manchego cheese and cook for an additional 2 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "rice",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-jalapeno-spanish-cheese-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:45:22.530Z"
+}
