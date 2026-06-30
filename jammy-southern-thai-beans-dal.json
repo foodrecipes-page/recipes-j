@@ -1,0 +1,85 @@
+{
+  "slug": "jammy-southern-thai-beans-dal",
+  "title": "Southern Dal Stew",
+  "description": "A hearty and comforting stew made with southern spices and dal. Perfect for a chilly evening.",
+  "cuisine": "Southern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jammy red pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "southern spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add garlic and sauté for another minute.",
+    "Add curry paste and stir for 1 minute.",
+    "Add dal, beans, red pepper, tomato paste, and spices. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lunch",
+    "vegetarian",
+    "southern",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-southern-thai-beans-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:44:42.076Z"
+}
