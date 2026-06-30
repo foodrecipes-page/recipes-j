@@ -1,0 +1,52 @@
+{
+  "slug": "juicy-british-egg-wrap",
+  "title": "British Egg Wrap",
+  "description": "A simple and delicious egg wrap with a British twist. Perfect for breakfast or lunch.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Wrap",
+      "amount": "1",
+      "notes": "use a whole wheat or gluten-free wrap if necessary"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Crack the egg into the pan and scramble it until it's cooked through.",
+    "While the egg is cooking, warm the wrap in the microwave for 10-15 seconds or in the oven at 350°F (175°C) for 2-3 minutes.",
+    "Once the wrap is warm, place it on a flat surface and add the scrambled egg to one half of the wrap.",
+    "Add any additional toppings you like, such as cheese or vegetables.",
+    "Fold the wrap in half to enclose the egg and toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "egg",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-egg-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:43:46.346Z"
+}
