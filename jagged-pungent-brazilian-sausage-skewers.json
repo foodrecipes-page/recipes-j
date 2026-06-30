@@ -1,0 +1,87 @@
+{
+  "slug": "jagged-pungent-brazilian-sausage-skewers",
+  "title": "Brazilian Skewers with Jagged Sausage",
+  "description": "A flavorful and spicy Brazilian-inspired dish featuring jagged sausage and vegetables, perfect for a quick and easy dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged sausage",
+      "amount": "1 pound",
+      "notes": "preferably with some spice"
+    },
+    {
+      "name": "Pungent onion",
+      "amount": "1 medium",
+      "notes": "such as Vidalia or Maui"
+    },
+    {
+      "name": "Brazilian skewers",
+      "amount": "4-6",
+      "notes": "wooden or metal, depending on preference"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "or other summer squash"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "such as Roma or cherry"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably flaky or kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut jagged sausage into 1-inch pieces.",
+    "Thread sausage, pungent onion, zucchini, bell pepper, and tomato onto Brazilian skewers.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until sausage reaches 160°F.",
+    "Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "grilled",
+    "sausages",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-pungent-brazilian-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:32:53.537Z"
+}
