@@ -1,0 +1,82 @@
+{
+  "slug": "jerkily-tender-mexican-steak-burrito",
+  "title": "Carne Asada Burrito",
+  "description": "A flavorful Mexican-inspired burrito filled with grilled steak, sautéed onions, bell peppers, and warm tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Marinate steak in lime juice and spices"
+    },
+    {
+      "name": "Tender Bell Peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp",
+      "notes": "Add flavor to steak and vegetables"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4 large",
+      "notes": "Warm tortillas before assembling burrito"
+    },
+    {
+      "name": "Shredded Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": "Optional, add shredded cheese"
+    },
+    {
+      "name": "Burrito Wrap (Jerkily Torn Tortilla)",
+      "amount": "1 large",
+      "notes": "Optional, use as tortilla wrap"
+    }
+  ],
+  "instructions": [
+    "1. Marinate steak in lime juice and Mexican seasoning for at least 30 minutes.",
+    "2. Preheat grill to medium-high heat. Grill steak for 5-7 minutes per side, or until cooked to desired doneness.",
+    "3. Meanwhile, sauté sliced onions and bell peppers in a pan until tender.",
+    "4. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble burrito by placing grilled steak, sautéed onions and bell peppers, and shredded cheese (if using) onto a warmed tortilla.",
+    "6. Fold bottom edge of tortilla up over filling, then fold in sides and roll burrito up tightly.",
+    "7. Serve immediately and enjoy!",
+    "8. Optional: Use a jerkily torn tortilla as a burrito wrap for a unique twist."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "steak",
+    "burrito"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerkily-tender-mexican-steak-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:47:23.145Z"
+}
