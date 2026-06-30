@@ -1,0 +1,98 @@
+{
+  "slug": "jovial-smoky-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting stew made with tender lamb and flavorful vegetables, perfect for a chilly evening.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1 (1 1/2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Irish stout beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. Season the lamb shoulder with salt and pepper.",
+    "3. In a large Dutch oven, heat a couple of tablespoons of oil over medium-high heat.",
+    "4. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "5. Remove the lamb from the pot and set it aside.",
+    "6. Add more oil to the pot if necessary, then sauté the onion, carrot, and potato until they start to soften, about 10 minutes.",
+    "7. Add the garlic and cook for another minute.",
+    "8. Sprinkle the flour over the vegetables and cook for 1-2 minutes.",
+    "9. Add the stout beer, chicken broth, and thyme to the pot, stirring to combine.",
+    "10. Return the lamb to the pot, cover it with a lid, and transfer it to the preheated oven.",
+    "11. Braise the lamb in the oven for 2 1/2 to 3 hours, or until it's tender and falls apart easily.",
+    "12. Remove the pot from the oven and let it cool slightly.",
+    "13. Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "irish",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-smoky-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:26:26.685Z"
+}
