@@ -1,0 +1,67 @@
+{
+  "slug": "juicy-cozy-tunisian-tomato-stir-fry",
+  "title": "Cozy Tunisian Tomato Stew",
+  "description": "A comforting and flavorful stew inspired by the rich culinary traditions of Tunisia. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tunisian",
+      "amount": "2 tablespoons",
+      "notes": "Chili paste"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 pound",
+      "notes": "Ground beef (optional)"
+    },
+    {
+      "name": "stir",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "Olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the ground cumin and cook for 1 minute.",
+    "Add the chopped tomatoes and cook for 5 minutes.",
+    "Add the chili paste and ground beef (if using) and cook until the meat is browned.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-cozy-tunisian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:20:53.461Z"
+}
