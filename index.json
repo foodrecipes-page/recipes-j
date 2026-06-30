@@ -3289,16 +3289,15 @@
   },
   {
     "slug": "jazzy-crisp-thai-chicken-kao-mun-gai",
-    "title": "Jazzy Crisp Thai Chicken Kao Mun Gai",
+    "title": "Thai Chicken Stir Fry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
-      "thai-street-food"
+      "thai",
+      "chicken",
+      "stir-fry",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -3645,18 +3644,15 @@
   },
   {
     "slug": "jazzy-greek-lentil-pilaf",
-    "title": "Jazzy Greek Lentil Pilaf",
+    "title": "Greek Pilaf with Lentils",
     "tags": [
-      "crunchy",
-      "dairy-free",
+      "lentil",
       "greek",
-      "one-pot",
-      "papillote",
-      "quick-meal",
-      "umami"
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -6587,17 +6583,16 @@
   },
   {
     "slug": "jolly-peruvian-tofu-rocoto-relleno",
-    "title": "Jolly Peruvian Tofu Rocoto Relleno",
+    "title": "Peruvian Relleno Stuffed Tofu",
     "tags": [
-      "crispy",
-      "kid-friendly",
-      "one-pan",
       "peruvian",
-      "quick",
-      "vegetarian"
+      "vegan",
+      "tofu",
+      "rocoto",
+      "relleno"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
