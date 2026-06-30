@@ -1,0 +1,78 @@
+{
+  "slug": "jazzy-crisp-thai-chicken-kao-mun-gai",
+  "title": "Thai Chicken Stir Fry",
+  "description": "A flavorful and spicy Thai-inspired stir fry made with marinated chicken, crunchy vegetables, and savory sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless breasts"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 cups",
+      "notes": "bell peppers, sliced"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "carrots, peeled and grated"
+    },
+    {
+      "name": "thai",
+      "amount": "2 tablespoons",
+      "notes": "chili sauce"
+    },
+    {
+      "name": "kao",
+      "amount": "1 cup",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "mun",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "gai",
+      "amount": "1 cup",
+      "notes": "green beans, trimmed"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the bell peppers and carrots, and cook for 3-4 minutes until tender.",
+    "Add the Thai chili sauce and stir to combine.",
+    "Add the green beans and cook for an additional 2-3 minutes until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crisp-thai-chicken-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:04:38.466Z"
+}
