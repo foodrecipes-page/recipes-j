@@ -2495,18 +2495,16 @@
   },
   {
     "slug": "jammy-southern-thai-beans-dal",
-    "title": "Southern-Thai Jammy Beans Dal",
+    "title": "Southern Dal Stew",
     "tags": [
-      "bean-stew",
-      "diabetic-friendly",
-      "low-carb-option",
-      "monsoon-meal",
-      "one-pan",
-      "southern-thai",
-      "vegan-option"
+      "stew",
+      "lunch",
+      "vegetarian",
+      "southern",
+      "comfort food"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "Southern",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -7065,18 +7063,15 @@
   },
   {
     "slug": "jovial-smoky-irish-lamb-stew",
-    "title": "Jovial Smoky Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "irish-food",
-      "lamb-recipes",
-      "one-pot",
-      "smoky-flavors"
+      "lamb",
+      "stew",
+      "irish",
+      "comfort food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 110,
+    "cuisine": "irish",
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
@@ -12261,13 +12256,12 @@
   },
   {
     "slug": "juicy-german-blueberry-cobbler",
-    "title": "Juicy German Blueberry Cobbler",
+    "title": "German Blueberry Cobbler",
     "tags": [
-      "blueberry-cobbler",
-      "easy-dessert",
-      "fruit-based",
-      "german-dish",
-      "pescatarian-friendly"
+      "blueberry",
+      "german",
+      "cobbler",
+      "dessert"
     ],
     "cuisine": "German",
     "totalTimeMin": 60,
