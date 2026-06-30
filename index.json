@@ -697,18 +697,15 @@
   },
   {
     "slug": "jagged-indian-paneer-rasmalai",
-    "title": "Jagged Indian Paneer Rasmalai",
+    "title": "Jagged Paneer Rasmalai",
     "tags": [
-      "brunch",
-      "dessert",
       "indian",
-      "keto-friendly",
       "paneer",
       "rasmalai",
-      "tagine-cooked"
+      "dessert"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -15057,13 +15054,14 @@
   },
   {
     "slug": "juicy-saudia-paneer-stir-fry",
-    "title": "Juicy Saudia Paneer Stir-fry",
+    "title": "Paneer Stir Fry",
     "tags": [
-      "juicy",
-      "saudi-panner-stir-fry",
-      "midnight-craving"
+      "indian",
+      "paneer",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "j"
   },
