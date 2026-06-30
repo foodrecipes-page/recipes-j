@@ -1,0 +1,98 @@
+{
+  "slug": "juicy-crispy-syrian-lamb-tagine",
+  "title": "Crispy Syrian Lamb Tagine",
+  "description": "A traditional Syrian dish made with tender lamb, crispy onions, and a blend of aromatic spices. It's a hearty and flavorful meal perfect for a cold night.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "crispy flatbread",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the lamb into 1-inch pieces and season with salt, black pepper, allspice, cumin, and coriander.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb to the pot and cook until browned, about 5 minutes.",
+    "Add the onion to the pot and cook until caramelized, about 10 minutes.",
+    "Add the lemon juice to the pot and stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 20 minutes.",
+    "Remove the pot from the oven and stir in the crispy flatbread.",
+    "Return the pot to the oven and cook for an additional 10 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and onion mixture hot, garnished with fresh herbs if desired.",
+    "Traditionally, the tagine is served with a side of fluffy rice or crusty bread.",
+    "To make the crispy flatbread, slice a pita bread into thin strips and fry in hot oil until crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "tagine",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:15:07.938Z"
+}
