@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-savory-jamaican-falafel-wrap",
+  "title": "Jamaican Falafel Wrap",
+  "description": "A flavorful, crunchy wrap filled with Jamaican-style falafel, juicy vegetables, and savory tahini sauce.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Cook the falafel according to package instructions or until crispy and golden.",
+    "Warm the whole wheat wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread 2 tbsp of tahini sauce on the center of the wrap.",
+    "Add 2-3 cooked falafel pieces on top of the sauce.",
+    "Add sliced lettuce, tomato, cucumber, and red onion on top of the falafel.",
+    "Sprinkle Jamaican jerk seasoning and salt and pepper to taste.",
+    "Drizzle with the remaining 2 tbsp of tahini sauce.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "falafel",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savory-jamaican-falafel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:47:08.748Z"
+}
