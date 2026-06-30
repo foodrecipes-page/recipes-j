@@ -922,17 +922,15 @@
   },
   {
     "slug": "jagged-pungent-brazilian-sausage-skewers",
-    "title": "Jagged Pungent Brazilian Sausage Skewers",
+    "title": "Brazilian Skewers with Jagged Sausage",
     "tags": [
+      "brazilian",
       "grilled",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "sausages",
+      "skewers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -11004,17 +11002,15 @@
   },
   {
     "slug": "juicy-crispy-syrian-lamb-tagine",
-    "title": "Juicy Crispy Syrian Lamb Tagine",
+    "title": "Crispy Syrian Lamb Tagine",
     "tags": [
-      "clay-cooking",
-      "lamb-recipes",
-      "low-carb",
-      "middle-eastern",
-      "one-pot",
-      "syrian-cuisine"
+      "syrian",
+      "lamb",
+      "tagine",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
