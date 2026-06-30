@@ -2792,19 +2792,16 @@
   },
   {
     "slug": "jarring-mediterranean-hazelnut-tagine",
-    "title": "Jarring Mediterranean Hazelnut Tagine",
+    "title": "Hazelnut Tagine Chicken",
     "tags": [
-      "comfort-food",
-      "herbaceous",
-      "mediterranean",
-      "midnight-snack",
-      "nutty",
-      "one-pot",
-      "sattvic",
-      "vegan"
+      "chicken",
+      "tagine",
+      "north-african",
+      "hazelnut",
+      "gluten-free"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -5242,13 +5239,13 @@
   },
   {
     "slug": "jerusalem-umami-splat",
-    "title": "Jerusalem Umami Splat",
+    "title": "Splat's Savory Jerusalem Delight",
     "tags": [
-      "jerusalem-artichoke",
-      "dumpling",
-      "vietnamese"
+      "jerusalem-artichokes",
+      "umami",
+      "vegetarian"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vegetarian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -7604,16 +7601,13 @@
   },
   {
     "slug": "jubilant-creamy-australian-rigatoni-pasta",
-    "title": "jubilant creamy australian rigatoni pasta",
+    "title": "Creamy Jubilant Rigatoni",
     "tags": [
-      "australian",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "rich-fats",
-      "weeknight"
+      "pasta",
+      "vegetarian",
+      "italian"
     ],
-    "cuisine": "australian",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -9940,18 +9934,15 @@
   },
   {
     "slug": "juicy-briny-peruvian-tofu-anticuchos",
-    "title": "Juicy Briny Peruvian Tofu Anticuchos",
+    "title": "Grilled Anticuchos with Peruvian Slaw",
     "tags": [
-      "gluten-free",
-      "grilled-tofu",
-      "high-protein",
-      "latin-american",
-      "peruvian-cuisine",
-      "sherry-based",
-      "vegan-friendly"
+      "grilled",
+      "peruvian",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
