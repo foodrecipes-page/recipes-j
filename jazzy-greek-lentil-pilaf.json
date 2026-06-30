@@ -1,0 +1,61 @@
+{
+  "slug": "jazzy-greek-lentil-pilaf",
+  "title": "Greek Pilaf with Lentils",
+  "description": "A hearty and nutritious pilaf dish made with lentils, perfect for lunch. This recipe combines the flavors of Greece with the comfort of a warm pilaf.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jazzy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "lentil",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "greek pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large saucepan over medium heat.",
+    "Add the uncooked rice and stir to coat in oil. Cook for 1-2 minutes.",
+    "Add the cooked lentils, Greek pilaf seasoning, and 2 cups of water to the saucepan.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 15-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "greek",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-greek-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:18:57.264Z"
+}
