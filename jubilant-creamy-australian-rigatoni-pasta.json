@@ -1,0 +1,84 @@
+{
+  "slug": "jubilant-creamy-australian-rigatoni-pasta",
+  "title": "Creamy Jubilant Rigatoni",
+  "description": "A rich and satisfying pasta dish that combines the flavors of creamy sauce and jubilant ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "australian olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to the package instructions.",
+    "In a large skillet, heat the australian olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced jubilant and creamy to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the grated parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Drain the cooked rigatoni and add it to the skillet with the jubilant and creamy sauce.",
+    "Toss the rigatoni to combine and serve hot.",
+    "Optional: top with additional grated parmesan cheese and a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-creamy-australian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:43:17.703Z"
+}
