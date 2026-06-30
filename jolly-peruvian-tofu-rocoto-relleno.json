@@ -1,0 +1,83 @@
+{
+  "slug": "jolly-peruvian-tofu-rocoto-relleno",
+  "title": "Peruvian Relleno Stuffed Tofu",
+  "description": "A creative twist on traditional Peruvian relleno, using crispy tofu as a vessel for spicy rocoto pepper filling. This vegan dish combines the bold flavors of Peru with the versatility of tofu.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Rocoto Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Jolly Potato",
+      "amount": "2 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the tofu into 2-inch cubes and place on a baking sheet lined with parchment paper.",
+    "3. Drizzle the Peruvian olive oil over the tofu and sprinkle with salt and pepper.",
+    "4. Bake the tofu in the oven for 15-20 minutes, or until crispy on the outside and tender on the inside.",
+    "5. While the tofu is baking, roast the rocoto pepper in the oven for 20-25 minutes, or until the skin is charred and blistered.",
+    "6. Remove the tofu and rocoto pepper from the oven and let cool slightly.",
+    "7. Peel the skin off the rocoto pepper and chop the flesh into small pieces.",
+    "8. In a pan, sauté the onion and garlic until softened, then add the chopped rocoto pepper and cook for an additional 2-3 minutes.",
+    "9. Cut the jolly potatoes in half and scoop out the flesh, leaving a thin shell.",
+    "10. Stuff each potato shell with the tofu and rocoto mixture.",
+    "11. Serve the stuffed potatoes garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "tofu",
+    "rocoto",
+    "relleno"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jolly-peruvian-tofu-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:04.231Z"
+}
