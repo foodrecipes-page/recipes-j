@@ -7327,15 +7327,16 @@
   },
   {
     "slug": "jsmoky-marinated-pork-shoulder-tagine",
-    "title": "JSmoky Marinated Pork Shoulder Tagine",
+    "title": "North African Braised Pork Shoulder",
     "tags": [
-      "one-pot",
-      "slovenian",
-      "smoky",
-      "vegan-friendly"
+      "slow-cooked",
+      "braised",
+      "pork",
+      "north-african",
+      "dates"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 90,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
@@ -17837,17 +17838,15 @@
   },
   {
     "slug": "jumbo-jalapeno-spanish-cheese-paella",
-    "title": "Jumbo Jalapeno Spanish Cheese Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "bamboo-steamer",
-      "cheese-pull",
-      "passion-fruit",
-      "slow-cooked",
-      "spanish-cuisine",
-      "vegan-friendly"
+      "spanish",
+      "seafood",
+      "rice",
+      "paella"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
