@@ -5174,16 +5174,14 @@
   },
   {
     "slug": "jerkily-tender-mexican-steak-burrito",
-    "title": "Jerkily Tender Mexican Steak Burrito",
+    "title": "Carne Asada Burrito",
     "tags": [
-      "high-protein",
-      "meat-lovers",
       "mexican",
-      "one-pan",
-      "weeknight"
+      "steak",
+      "burrito"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -10012,18 +10010,15 @@
   },
   {
     "slug": "juicy-british-egg-wrap",
-    "title": "juicy british egg wrap",
+    "title": "British Egg Wrap",
     "tags": [
       "breakfast",
       "british",
-      "egg-rich",
-      "grilled",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "egg",
+      "wrap"
     ],
     "cuisine": "british",
-    "totalTimeMin": 25,
+    "totalTimeMin": 8,
     "shard": "j"
   },
   {
@@ -15091,17 +15086,15 @@
   },
   {
     "slug": "juicy-savory-jamaican-falafel-wrap",
-    "title": "Juicy Savory Jamaican Falafel Wrap",
+    "title": "Jamaican Falafel Wrap",
     "tags": [
-      "falafel",
       "jamaican",
-      "low-calorie",
-      "lunch",
-      "vegetarian",
-      "wrap"
+      "falafel",
+      "wrap",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
