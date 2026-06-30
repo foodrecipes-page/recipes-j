@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-briny-peruvian-tofu-anticuchos",
+  "title": "Grilled Anticuchos with Peruvian Slaw",
+  "description": "A classic Peruvian dish featuring grilled beef heart skewers served with a refreshing slaw made with juicy tomatoes and crunchy peruvian corn.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "marinated in anticuchos seasoning"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "1 cup",
+      "notes": "grilled and diced"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Briny Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Anticuchos Seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread tofu and briny cilantro onto skewers.",
+    "3. Brush tofu with olive oil and season with anticuchos seasoning.",
+    "4. Grill tofu for 3-4 minutes per side, or until slightly charred.",
+    "5. Meanwhile, grill peruvian corn until slightly charred.",
+    "6. In a bowl, combine diced juicy tomatoes and grilled peruvian corn.",
+    "7. In a small bowl, whisk together lime juice and olive oil.",
+    "8. Pour dressing over slaw and toss to combine.",
+    "9. Serve grilled tofu skewers with peruvian slaw and additional briny cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-briny-peruvian-tofu-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:35.541Z"
+}
