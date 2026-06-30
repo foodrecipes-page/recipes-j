@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-saudia-paneer-stir-fry",
+  "title": "Paneer Stir Fry",
+  "description": "A quick and easy Indian-inspired dish made with paneer, flavorful spices, and juicy vegetables. Serve as a side or main course.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "saudia oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "fry spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2-3",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat saudia oil in a pan over medium heat.",
+    "Add the ginger and garlic pastes and sauté for 1 minute.",
+    "Add the cumin, coriander, and turmeric powders and sauté for another minute.",
+    "Add the diced tomatoes and sauté until they start to soften.",
+    "Add the paneer and stir well to combine.",
+    "Add the salt and green chilies (if using) and stir well.",
+    "Reduce heat to low and let simmer for 5-7 minutes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "paneer",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-saudia-paneer-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:09:34.188Z"
+}
