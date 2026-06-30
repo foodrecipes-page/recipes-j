@@ -18,17 +18,15 @@
   },
   {
     "slug": "jade-cooked-chinese-pork-cai-fun",
-    "title": "Jade-Cooked Chinese Pork Cai Fun",
+    "title": "Stir-Fried Jade Noodles with Cai and Pork",
     "tags": [
-      "complex",
-      "cultural",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chinese",
+      "stir-fry",
+      "noodles",
+      "pork"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -10621,12 +10619,11 @@
   },
   {
     "slug": "juicy-cozy-tunisian-tomato-stir-fry",
-    "title": "Juicy Cozy Tunisian Tomato Stir-fry",
+    "title": "Cozy Tunisian Tomato Stew",
     "tags": [
-      "juicy",
-      "cozy",
-      "tunisian",
-      "stir-fry"
+      "comfort-food",
+      "stew",
+      "tunisian-cuisine"
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 40,
