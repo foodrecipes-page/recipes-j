@@ -1,0 +1,61 @@
+{
+  "slug": "jerusalem-umami-splat",
+  "title": "Splat's Savory Jerusalem Delight",
+  "description": "A flavorful and aromatic dish combining the sweetness of Jerusalem artichokes with the savory taste of umami. This recipe is perfect for a dinner party.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Splat's umami powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the Jerusalem artichokes with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender.",
+    "In a small pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the Splat's umami powder and cook for 1-2 minutes, stirring constantly.",
+    "Toss the roasted Jerusalem artichokes with the umami powder mixture.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jerusalem-artichokes",
+    "umami",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerusalem-umami-splat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:00:05.358Z"
+}
