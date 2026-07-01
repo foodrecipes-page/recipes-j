@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-wilted-mexican-chicken-tacos",
+  "title": "Tacos al Carbon",
+  "description": "A flavorful and easy-to-make Mexican dish featuring juicy chicken, topped with a variety of textures and flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "limes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat.",
+    "Season the chicken with chili powder, cumin, salt, pepper, and garlic powder.",
+    "Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing it into thin strips.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the grilled chicken onto a tortilla, followed by your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-wilted-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:09:29.703Z"
+}
