@@ -6366,13 +6366,16 @@
   },
   {
     "slug": "jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
-    "title": "Jointed Crunchy Mexican Nectarines Iron-Teppan Salad",
+    "title": "Teppan Grilled Nectarine Salad",
     "tags": [
-      "mexican-chiapan",
-      "lunch"
+      "teppan",
+      "grilled",
+      "nectarines",
+      "salad",
+      "mexican"
     ],
-    "cuisine": "mexican (chiapan)",
-    "totalTimeMin": 40,
+    "cuisine": "Mexican",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -9320,15 +9323,14 @@
   },
   {
     "slug": "juicy-adventurous-chinese-smoked-haddock-stir-fry",
-    "title": "Juicy Adventurous Chinese Smoked Haddock Stir-fry",
+    "title": "Pan-Seared Smoked Haddock with Stir-Fry Vegetables",
     "tags": [
-      "spicy",
-      "cantonese",
+      "smoked-haddock",
       "stir-fry",
-      "vegan-friendly"
+      "chinese-cuisine"
     ],
-    "cuisine": "Chinese (Cantonese)",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
