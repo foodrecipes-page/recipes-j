@@ -1,0 +1,86 @@
+{
+  "slug": "jazzy-greek-gigantes-plaki",
+  "title": "Greek Gigantes Plaki",
+  "description": "A hearty, flavorful Greek stew made with giant beans and tomatoes, perfect for a cold winter night.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup (250g)",
+      "notes": ""
+    },
+    {
+      "name": "plaki tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the gigantes beans, plaki tomatoes, red wine, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20-25 minutes, or until the beans are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Traditional Greek Gigantes Plaki is often served with crusty bread or over rice.",
+    "Adjust the amount of garlic and onion to your taste.",
+    "Use canned gigantes beans if fresh are not available."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "stew",
+    "beans",
+    "tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-greek-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:27:07.080Z"
+}
