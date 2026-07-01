@@ -1,0 +1,68 @@
+{
+  "slug": "jewel-toned-jamaican-snow-peas-curry",
+  "title": "Jamaican Curry Snow Peas",
+  "description": "A simple and flavorful side dish featuring snow peas cooked in a spicy Jamaican curry sauce.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "curry",
+      "amount": "1 cup",
+      "notes": "chicken or vegetable"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add Jamaican curry powder and cook for 1 minute.",
+    "Add snow peas and cook for 2-3 minutes.",
+    "Add curry and stir to combine.",
+    "Cook for an additional 2-3 minutes or until snow peas are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "curry",
+    "snow-peas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-jamaican-snow-peas-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:23.411Z"
+}
