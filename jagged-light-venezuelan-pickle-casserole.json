@@ -1,0 +1,64 @@
+{
+  "slug": "jagged-light-venezuelan-pickle-casserole",
+  "title": "Jagged Venezuelan Casserole",
+  "description": "A twist on traditional Venezuelan cuisine, this casserole combines jagged potatoes with a flavorful casserole sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Casserole sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop jagged potatoes into 1-inch pieces.",
+    "In a large skillet, heat light oil over medium heat.",
+    "Add chopped potatoes and cook until slightly tender, about 5 minutes.",
+    "Stir in casserole sauce and cook for an additional 2 minutes.",
+    "Transfer potato mixture to a 9x13 inch baking dish.",
+    "Top with shredded Venezuelan cheese.",
+    "Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie-casserole",
+    "venezuelan-food",
+    "jagged-potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-light-venezuelan-pickle-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:54.634Z"
+}
