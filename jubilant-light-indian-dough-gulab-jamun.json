@@ -1,0 +1,83 @@
+{
+  "slug": "jubilant-light-indian-dough-gulab-jamun",
+  "title": "Gulab Jamun",
+  "description": "A classic Indian dessert of dumplings soaked in a sweet syrup. Serve warm or chilled.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy",
+    "sugar"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "250g"
+    },
+    {
+      "name": "gulab",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jamun",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "1 cup (milk)"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 tsp (cardamom)"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 tsp (saffron)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "leavening",
+      "amount": "1 tsp (baking soda)"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine dough, milk, cardamom, saffron, sugar, ghee, and baking soda. Mix well.",
+    "Knead the dough for 10 minutes and rest for 30 minutes.",
+    "Divide the dough into small balls.",
+    "Deep fry the dumplings in hot oil.",
+    "Drain the dumplings and soak them in the sweet syrup.",
+    "Soak the dumplings for at least 30 minutes.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "sweet",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-light-indian-dough-gulab-jamun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:09:39.422Z"
+}
