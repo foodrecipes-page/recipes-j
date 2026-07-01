@@ -1,0 +1,67 @@
+{
+  "slug": "jammy-croatian-grape-leaves-dolma",
+  "title": "Croatian Dolma",
+  "description": "A traditional Croatian dish, dolma is a sweet and savory treat that combines grape leaves with a variety of ingredients. This recipe is a modern take on the classic dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Leaves",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Dolma",
+      "amount": "1 cup",
+      "notes": "Croatian-style dolma, can be found in most European or Middle Eastern markets"
+    },
+    {
+      "name": "Jammy",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Croatian Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and set aside.",
+    "In a bowl, mix together the dolma, jammy, and Croatian cheese.",
+    "Add a tablespoon of the dolma mixture to the center of each grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolma in a steamer basket and steam for 10-15 minutes, or until the grape leaves are tender.",
+    "Serve the dolma warm or at room temperature, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "croatian",
+    "dolma",
+    "grape-leaves"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-croatian-grape-leaves-dolma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:31:22.909Z"
+}
