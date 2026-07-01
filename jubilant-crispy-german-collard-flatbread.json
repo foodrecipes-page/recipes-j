@@ -1,0 +1,70 @@
+{
+  "slug": "jubilant-crispy-german-collard-flatbread",
+  "title": "German-Style Collard Greens",
+  "description": "A hearty side dish made with collard greens, crispy onions, and a hint of German spices.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the collard greens and sauté them in olive oil until tender.",
+    "Add the crispy onions, german mustard, caraway seeds, salt, and black pepper. Stir well.",
+    "Cut the flatbread into bite-sized pieces and toast until crispy.",
+    "Serve the greens mixture over the toasted flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "collard-greens",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crispy-german-collard-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:19:06.371Z"
+}
