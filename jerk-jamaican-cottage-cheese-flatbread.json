@@ -1,0 +1,61 @@
+{
+  "slug": "jerk-jamaican-cottage-cheese-flatbread",
+  "title": "Jamaican Jerk Cottage Flatbread",
+  "description": "A twist on traditional flatbread, this Jamaican Jerk Cottage Flatbread combines the flavors of the Caribbean with creamy cottage cheese.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium bowl, combine cottage cheese and Jamaican Jerk seasoning. Mix well.",
+    "Place flatbreads on a baking sheet.",
+    "Spoon cottage cheese mixture onto flatbreads, leaving a 1/2 inch border around the edges.",
+    "Top with chopped cilantro and a squeeze of lime juice.",
+    "Bake for 12-15 minutes or until flatbreads are crispy and cheese is lightly browned.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jerk-jamaican-cottage-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:28:52.532Z"
+}
