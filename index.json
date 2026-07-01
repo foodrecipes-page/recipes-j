@@ -1964,16 +1964,15 @@
   },
   {
     "slug": "jammy-croatian-grape-leaves-dolma",
-    "title": "Jammy Croatian Grape Leaves Dolma",
+    "title": "Croatian Dolma",
     "tags": [
+      "vegetarian",
       "croatian",
-      "egg-free",
-      "grape-leaves",
-      "low-carb",
-      "vegetarian"
+      "dolma",
+      "grape-leaves"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -7673,16 +7672,14 @@
   },
   {
     "slug": "jubilant-crispy-german-collard-flatbread",
-    "title": "Jubilant Crispy German Collard Flatbread",
+    "title": "German-Style Collard Greens",
     "tags": [
-      "german-flavor",
-      "long-fermentation",
-      "low-carb",
-      "quick-bake",
-      "vegetarian"
+      "german",
+      "collard-greens",
+      "side-dish"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -17574,18 +17571,14 @@
   },
   {
     "slug": "juicy-wilted-mexican-chicken-tacos",
-    "title": "Juicy Wilted Mexican Chicken Tacos",
+    "title": "Tacos al Carbon",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "high-protein",
+      "tacos",
       "mexican",
-      "one-pan",
-      "post-workout",
-      "vegan-options",
-      "weeknight"
+      "chicken"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
