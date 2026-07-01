@@ -1,0 +1,72 @@
+{
+  "slug": "jewelled-korean-date-jorim",
+  "title": "Jewelled Korean Rice Bowl",
+  "description": "A flavorful and nutritious Korean-inspired rice bowl dish loaded with jewelled rice, tender beef, and crunchy vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jewelled Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tender Beef (thinly sliced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced Carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of sesame oil and sauté the diced carrots until tender, about 5 minutes.",
+    "Add the Korean chili flakes and stir-fry for 1 minute.",
+    "Add the cooked beef back into the skillet and stir-fry for an additional 2 minutes.",
+    "To assemble the bowls, place a scoop of jewelled rice in each bowl, followed by the beef and vegetable mixture.",
+    "Garnish with chopped cilantro and sliced scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "rice-bowl",
+    "beef",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-korean-date-jorim",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:01:35.915Z"
+}
