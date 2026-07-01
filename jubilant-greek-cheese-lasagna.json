@@ -1,0 +1,80 @@
+{
+  "slug": "jubilant-greek-cheese-lasagna",
+  "title": "Greek Jubilant Lasagna",
+  "description": "A twist on the classic lasagna, infused with the flavors of Greece. This dish is sure to bring a smile to anyone's face.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jubilant",
+      "amount": "1 package"
+    },
+    {
+      "name": "lasagna",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Greek cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a medium skillet, heat olive oil over medium heat. Add garlic and cook for 1-2 minutes until fragrant.",
+    "In a large mixing bowl, combine ricotta cheese, Greek cheese, eggs, salt, and black pepper. Mix well.",
+    "Spread a thin layer of the cheese mixture onto the bottom of a 9x13 inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the remaining cheese mixture over the noodles, followed by half of the jubilant.",
+    "Repeat the layers, starting with the noodles, then the remaining cheese mixture, and finally the remaining jubilant.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-greek-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:16.123Z"
+}
