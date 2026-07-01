@@ -3786,13 +3786,15 @@
   },
   {
     "slug": "jazzy-kenyan-coconut-curry",
-    "title": "Jazzy Kenyan Coconut Curry",
+    "title": "Kenyan Coconut Curry",
     "tags": [
       "kenyan",
-      "dinner"
+      "curry",
+      "coconut",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -5074,14 +5076,14 @@
   },
   {
     "slug": "jerk-jamaican-cottage-cheese-flatbread",
-    "title": "Jerk Jamaican Cottage Cheese Flatbread",
+    "title": "Jamaican Jerk Cottage Flatbread",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "weeknight"
+      "vegetarian",
+      "snack",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "caribbean",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
