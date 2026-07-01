@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-adventurous-chinese-smoked-haddock-stir-fry",
+  "title": "Pan-Seared Smoked Haddock with Stir-Fry Vegetables",
+  "description": "A delicious and easy-to-make dish that combines the flavors of smoked haddock with the crunch of stir-fry vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Haddock Fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Julienned Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Julienned Bell Peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Julienned Onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a non-stick pan over medium heat.",
+    "Add the julienned carrots, bell peppers, and onions. Stir-fry for 3-4 minutes or until they start to soften.",
+    "Add the smoked haddock fillets. Cook for 2-3 minutes on each side or until they are cooked through.",
+    "Season with soy sauce, oyster sauce, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-haddock",
+    "stir-fry",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-adventurous-chinese-smoked-haddock-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:41:41.430Z"
+}
