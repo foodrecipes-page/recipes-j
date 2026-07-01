@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-creamy-vietnamese-chicken-curry",
+  "title": "Vietnamese Chicken Curry",
+  "description": "A flavorful and aromatic Vietnamese-inspired curry dish made with juicy chicken and creamy coconut milk.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce and cook for another minute.",
+    "Add the coconut milk, chicken broth, and bamboo shoots to the skillet.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened.",
+    "Add the cooked chicken back to the skillet and cook for another 2-3 minutes.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "curry",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-vietnamese-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:27:38.926Z"
+}
