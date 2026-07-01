@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-flaky-german-pork-dumplings",
+  "title": "German Pork Dumplings",
+  "description": "A hearty and comforting German-inspired dish featuring juicy pork and fluffy dumplings.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, eggs, milk, onion, garlic, salt, and black pepper. Mix until a smooth batter forms.",
+    "2. Bring a large pot of salted water to a boil.",
+    "3. Using a spoon, drop the dumpling batter into the boiling water.",
+    "4. Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "5. In a separate pan, cook the pork cubes over medium-high heat until browned, about 5 minutes.",
+    "6. Transfer the cooked pork to a plate and set aside.",
+    "7. In the same pan, add the dumplings and cook for an additional 2-3 minutes, until lightly browned.",
+    "8. Return the cooked pork to the pan and stir to combine with the dumplings.",
+    "9. Serve the German pork dumplings hot, garnished with chopped fresh parsley if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 50,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flaky-german-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:41:48.501Z"
+}
