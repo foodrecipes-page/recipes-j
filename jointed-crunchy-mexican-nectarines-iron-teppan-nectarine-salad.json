@@ -1,0 +1,86 @@
+{
+  "slug": "jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
+  "title": "Teppan Grilled Nectarine Salad",
+  "description": "A sweet and savory salad featuring grilled nectarines, crunchy jointed chicken, and a hint of Mexican flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jointed chicken breast",
+      "amount": "2 pounds",
+      "notes": "marinated in lime juice and spices"
+    },
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "teppan",
+      "amount": "",
+      "notes": "for grilling"
+    },
+    {
+      "name": "mixed greens salad",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "crunchy tortilla strips",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat teppan to medium-high heat.",
+    "Marinate jointed chicken breast in lime juice and spices for at least 30 minutes.",
+    "Grill chicken breast on teppan until cooked through, about 5-7 minutes per side.",
+    "Slice nectarines and set aside.",
+    "In a large bowl, combine mixed greens salad and sliced nectarines.",
+    "Grill tortilla strips on teppan until crispy, about 2-3 minutes per side.",
+    "Shred Mexican cheese blend and sprinkle on top of salad.",
+    "Drizzle lime juice and olive oil on top of salad.",
+    "Garnish with grilled tortilla strips and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "teppan",
+    "grilled",
+    "nectarines",
+    "salad",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jointed-crunchy-mexican-nectarines-iron-teppan-nectarine-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:30:51.063Z"
+}
