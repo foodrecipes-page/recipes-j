@@ -751,16 +751,14 @@
   },
   {
     "slug": "jagged-light-venezuelan-pickle-casserole",
-    "title": "Jagged Light Venezuelan Pickle Casserole",
+    "title": "Jagged Venezuelan Casserole",
     "tags": [
-      "lacto-vegetarian",
-      "one-pot",
-      "pickled-vegetables",
-      "quinoa-bowl",
-      "venezuelan-cuisine"
+      "veggie-casserole",
+      "venezuelan-food",
+      "jagged-potatoes"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -3605,17 +3603,16 @@
   },
   {
     "slug": "jazzy-greek-gigantes-plaki",
-    "title": "Jazzy Greek Gigantes Plaki",
+    "title": "Greek Gigantes Plaki",
     "tags": [
-      "easy-dinner",
       "greek",
-      "healthy",
-      "one-pan",
-      "vietnamese",
-      "weeknight"
+      "stew",
+      "beans",
+      "tomatoes",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -8101,17 +8098,14 @@
   },
   {
     "slug": "jubilant-greek-cheese-lasagna",
-    "title": "Jubilant Greek Cheese Lasagna",
+    "title": "Greek Jubilant Lasagna",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "one-pan",
-      "shojin-friendly",
-      "vegetarian",
-      "weeknight"
+      "lasagna",
+      "greek",
+      "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "cuisine": "greek",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -8367,17 +8361,15 @@
   },
   {
     "slug": "jubilant-light-indian-dough-gulab-jamun",
-    "title": "Jubilant Light Indian Dough Gulab Jamun",
+    "title": "Gulab Jamun",
     "tags": [
-      "gulab-jamun",
-      "indian-dessert",
-      "iron-teppan",
-      "long-fermentation",
-      "szechuan-peppercorn",
-      "vegetarian-friendly"
+      "indian",
+      "dessert",
+      "sweet",
+      "fried"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
