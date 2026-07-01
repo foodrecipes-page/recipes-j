@@ -1,0 +1,89 @@
+{
+  "slug": "jagged-crispy-mexican-chicken-mole-poblano",
+  "title": "Crispy Chicken Mole Tacos",
+  "description": "A twist on traditional mole tacos, this recipe features crispy chicken, smothered in a rich and spicy mole sauce, served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "jagged chocolate",
+      "amount": "2 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "mole paste",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Dredge the chicken in flour, shaking off excess.",
+    "Dip the floured chicken in the beaten eggs, making sure they are fully coated.",
+    "Dredge the egg-coated chicken in flour again, pressing the coating onto the chicken to adhere.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the breaded chicken to the skillet and fry until golden brown, about 5 minutes per side.",
+    "Transfer the fried chicken to a baking sheet and bake in the preheated oven for 15-20 minutes, or until cooked through.",
+    "While the chicken is cooking, heat the mole paste in a small saucepan over low heat.",
+    "Add 1 cup of water to the saucepan and whisk until the sauce is smooth.",
+    "Bring the sauce to a simmer and cook for 5-7 minutes, or until thickened.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of fried chicken onto a tortilla, spooning mole sauce over the top, and garnishing with diced onion and cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "mole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-mexican-chicken-mole-poblano",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:15:18.113Z"
+}
