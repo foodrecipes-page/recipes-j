@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-peppery-turkey-stir-fry",
+  "title": "Stir-Fried Turkey with Peppery Flair",
+  "description": "A quick and flavorful stir-fry made with juicy turkey, crunchy veggies, and a hint of peppery spice.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast, boneless and skinless",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Peppers, sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bamboo shoots, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the turkey breast and cook until browned on both sides, about 5-7 minutes.",
+    "3. Remove the turkey from the skillet and set aside.",
+    "4. Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "5. Add the sliced peppers and onions to the skillet and cook until tender, about 3-4 minutes.",
+    "6. Add the bamboo shoots to the skillet and cook for an additional 2 minutes.",
+    "7. In a small bowl, whisk together the stir-fry sauce and soy sauce.",
+    "8. Pour the sauce into the skillet and stir to combine.",
+    "9. Add the cooked turkey back into the skillet and stir to coat with the sauce.",
+    "10. Season with black pepper and salt to taste.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "turkey",
+    "peppery",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-peppery-turkey-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:56:36.140Z"
+}
