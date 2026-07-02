@@ -4468,17 +4468,14 @@
   },
   {
     "slug": "jazzy-spicy-portuguese-napa-cabbage-hash",
-    "title": "Jazzy Spicy Portuguese Napa Cabbage Hash",
+    "title": "Spicy Hash Brown Cakes with Cabbage Slaw",
     "tags": [
-      "brunch-ideas",
-      "easy-meals",
-      "portuguese-cuisine",
-      "shojin-friendly",
-      "spicy-food",
-      "vegetarian-options"
+      "cabbage",
+      "hash-brown",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -8062,17 +8059,15 @@
   },
   {
     "slug": "jubilant-golden-dutch-cheese-casserole",
-    "title": "Jubilant Golden Dutch Cheese Casserole",
+    "title": "Jubilant Dutch Casserole",
     "tags": [
-      "comfort-food",
-      "copper-pot",
-      "dutch-cuisine",
-      "halal-friendly",
-      "kid-friendly",
-      "one-pot"
+      "cheese",
+      "casserole",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -8775,18 +8770,15 @@
   },
   {
     "slug": "jubilant-smoky-syrian-lamb-kebabs",
-    "title": "Jubilant Smoky Syrian Lamb Kebabs",
+    "title": "Syrian-Style Smoky Lamb Kebabs",
     "tags": [
-      "cheese-pull",
-      "filo-pastry",
-      "grilled-meats",
-      "lamb-recipes",
-      "middle-eastern",
-      "smoky",
-      "syrian-cuisine"
+      "lamb",
+      "kebabs",
+      "syrian",
+      "grilled"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
@@ -17793,17 +17785,16 @@
   },
   {
     "slug": "jumbo-juicy-polish-haricot-bean-stew",
-    "title": "Jumbo Juicy Polish Haricot Bean Stew",
+    "title": "Polish Bean Stew",
     "tags": [
-      "comfort-food",
-      "high-fiber",
-      "jain-friendly",
-      "one-pot",
-      "polish-cuisine",
-      "vegetarian"
+      "stew",
+      "bean",
+      "polish",
+      "sausage",
+      "hearty"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 90,
+    "cuisine": "European",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
