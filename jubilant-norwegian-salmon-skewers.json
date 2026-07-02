@@ -1,0 +1,72 @@
+{
+  "slug": "jubilant-norwegian-salmon-skewers",
+  "title": "Grilled Salmon Skewers",
+  "description": "A flavorful and easy-to-make dish perfect for a quick dinner. The combination of Norwegian salmon and jubilant seasonings creates a delightful taste experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Jubilant seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Norwegian salmon skewers",
+      "amount": "1 pack"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F/200°C).",
+    "Thread the salmon pieces onto the skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together the jubilant seasoning, olive oil, lemon juice, salt, and pepper.",
+    "Brush the mixture onto both sides of the salmon.",
+    "Grill the salmon skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Remove from heat and let rest for 2-3 minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "skewers",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:04:58.464Z"
+}
