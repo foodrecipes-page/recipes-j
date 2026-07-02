@@ -1,0 +1,62 @@
+{
+  "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
+  "title": "French Tomato Gratins",
+  "description": "A delightful French-inspired side dish featuring juicy tomatoes baked in a creamy gratin. Perfect for accompanying your favorite meals.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Jovial San Marzano Tomatoes",
+      "amount": "2 lbs",
+      "notes": "Crushed"
+    },
+    {
+      "name": "French Brie Cheese",
+      "amount": "8 oz",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the crushed tomatoes, chopped basil, minced garlic, and a pinch of salt and pepper.",
+    "Transfer the tomato mixture to 4-6 ramekins or small baking dishes.",
+    "Place a slice of brie cheese on top of each tomato mixture.",
+    "Drizzle with olive oil and sprinkle with additional basil if desired.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "tomato",
+    "cheese",
+    "vegetarian",
+    "side-dish"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-juicy-french-san-marzano-tomato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:01:47.833Z"
+}
