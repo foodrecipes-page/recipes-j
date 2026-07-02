@@ -7010,17 +7010,15 @@
   },
   {
     "slug": "jovial-roasted-kenyan-pinto-bean-stew",
-    "title": "Jovial Roasted Kenyan Pinto Bean Stew",
+    "title": "Kenyan Stew with Pinto Beans",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "high-fiber",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "african-food",
+      "vegetarian-option",
+      "comfort-food"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 80,
+    "cuisine": "African",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -14716,16 +14714,15 @@
   },
   {
     "slug": "juicy-roasted-moroccan-chicken-rfissa",
-    "title": "Juicy Roasted Moroccan Chicken Rfissa",
+    "title": "Moroccan Chicken Rfissa",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "moroccan-cuisine",
-      "one-pot",
-      "roasted-chicken"
+      "chicken",
+      "moroccan",
+      "rfissa",
+      "hearty"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 85,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
