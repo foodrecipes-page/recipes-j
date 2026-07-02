@@ -1,0 +1,82 @@
+{
+  "slug": "jubilant-smoky-syrian-lamb-kebabs",
+  "title": "Syrian-Style Smoky Lamb Kebabs",
+  "description": "A flavorful and aromatic dish featuring smoky lamb kebabs infused with the warm spices of Syria.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Smoky Syrian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Jubilant olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together smoky Syrian spice blend, olive oil, onion, garlic, lemon juice, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "syrian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-smoky-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:02.673Z"
+}
