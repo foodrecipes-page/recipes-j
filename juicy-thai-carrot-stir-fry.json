@@ -1,0 +1,62 @@
+{
+  "slug": "juicy-thai-carrot-stir-fry",
+  "title": "Thai Carrot Stir Fry",
+  "description": "A quick and easy Thai-inspired stir fry with carrots, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": "such as bell peppers or snap peas"
+    },
+    {
+      "name": "stir",
+      "amount": "",
+      "notes": "vegetable oil or oil of choice"
+    },
+    {
+      "name": "fry",
+      "amount": "",
+      "notes": "optional: chopped peanuts or cashews"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the carrots and cook for 3-4 minutes, or until slightly tender.",
+    "Add the juicy vegetables and cook for an additional 2-3 minutes, or until they begin to soften.",
+    "Add the stir-fry sauce (such as soy sauce, hoisin sauce, or tamarind paste) and fry for 1-2 minutes, or until the sauce has thickened.",
+    "Season with salt and pepper to taste, then serve hot.",
+    "Optional: top with chopped peanuts or cashews for added crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "stirfry",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-thai-carrot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:56:23.866Z"
+}
