@@ -1730,17 +1730,15 @@
   },
   {
     "slug": "jammed-dense-korean-kale-curry",
-    "title": "Jammed Dense Korean Kale Curry",
+    "title": "Korean Kale Curry",
     "tags": [
-      "gluten-free",
-      "korean-curry",
-      "mediterranean-inspired",
-      "one-pot-meal",
-      "vegetarian-option",
-      "weeknight-dinner"
+      "korean",
+      "curry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -6702,17 +6700,14 @@
   },
   {
     "slug": "jovial-brazilian-bean-stew",
-    "title": "Jovial Brazilian Bean Stew",
+    "title": "Brazilian Bean Stew",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "one-pot",
-      "red-wine",
-      "vegetarian",
-      "winter-stew"
+      "stew",
+      "bean",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -11599,14 +11594,14 @@
   },
   {
     "slug": "juicy-fatty-australian-turkey-ham-bowl",
-    "title": "juicy fatty australian turkey ham bowl",
+    "title": "Australian Turkey and Ham Bowl",
     "tags": [
       "australian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "turkey",
+      "ham",
+      "bowl"
     ],
-    "cuisine": "australian",
+    "cuisine": "Australian",
     "totalTimeMin": 45,
     "shard": "j"
   },
