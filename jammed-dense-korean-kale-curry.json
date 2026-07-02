@@ -1,0 +1,75 @@
+{
+  "slug": "jammed-dense-korean-kale-curry",
+  "title": "Korean Kale Curry",
+  "description": "A flavorful and nutritious curry made with kale and inspired by Korean cuisine. This dish combines the crunch of kale with the warm, aromatic spices of Korean curry.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups, stems removed and discarded, leaves chopped"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jammed",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup, cooked and mashed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the kale and cook for 3-4 minutes, until wilted.",
+    "Add the jammed and dense, and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional kale if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "curry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammed-dense-korean-kale-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:25.415Z"
+}
