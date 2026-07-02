@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-slovakian-sweetcorn-wrap",
+  "title": "Sweetcorn and Slovakian Wrap",
+  "description": "A simple and flavorful Slovakian-style wrap filled with juicy sweetcorn, perfect for a quick snack or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian wrap",
+      "amount": "1",
+      "notes": "any type of flatbread will do"
+    },
+    {
+      "name": "Sweetcorn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or skillet over medium heat.",
+    "2. Brush the Slovakian wrap with olive oil and set aside.",
+    "3. In the same pan, sauté the diced red onion until translucent.",
+    "4. Add the sweetcorn kernels and cook for an additional 2-3 minutes.",
+    "5. Add the diced juicy tomatoes and cook for an additional 1-2 minutes.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Warm the Slovakian wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wrap by spooning the sweetcorn mixture onto the center of the wrap.",
+    "9. Top with chopped fresh parsley.",
+    "10. Fold the wrap in half to enclose the filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweetcorn",
+    "slovakian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-slovakian-sweetcorn-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:33:32.758Z"
+}
