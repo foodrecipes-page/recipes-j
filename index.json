@@ -7246,18 +7246,16 @@
   },
   {
     "slug": "joyful-french-peanuts-terrine",
-    "title": "Joyful French Peanuts Terrine",
+    "title": "French Terrine with Peanut Crunch",
     "tags": [
-      "beverage-friendly",
-      "bordeaux-inspired",
-      "crowd-pleaser",
-      "one-pan",
-      "plant-based",
-      "spring",
-      "weeknight"
+      "french",
+      "peanuts",
+      "crunchy",
+      "appetizer",
+      "light-meal"
     ],
     "cuisine": "French",
-    "totalTimeMin": 52,
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -10440,17 +10438,14 @@
   },
   {
     "slug": "juicy-chinese-dinner-dan-dan-mian",
-    "title": "dan dan mian",
+    "title": "Dan Mian",
     "tags": [
       "chinese",
-      "dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "yeast"
+      "noodles",
+      "dinner"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
