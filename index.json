@@ -10405,17 +10405,15 @@
   },
   {
     "slug": "juicy-chewy-japanese-ham-noodles",
-    "title": "Juicy Chewy Japanese Ham Noodles",
+    "title": "Japanese Ham Noodle Stir Fry",
     "tags": [
-      "easy-to-make",
-      "high-protein",
-      "japanese-cuisine",
-      "noodle-dish",
-      "one-pot",
-      "weeknight"
+      "japanese",
+      "stir-fry",
+      "ham",
+      "noodles"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -11429,13 +11427,12 @@
   },
   {
     "slug": "juicy-earthy-uruguayan-pork-bake",
-    "title": "Uruguayan Pork Bake",
+    "title": "Uruguayan-Style Pork Chops with Earthy Vegetables",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "latin-inspired",
-      "one-pan",
-      "weeknight"
+      "uruguayan",
+      "pork",
+      "baked",
+      "earthly"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 40,
@@ -16824,14 +16821,15 @@
   },
   {
     "slug": "juicy-thai-carrot-stir-fry",
-    "title": "Juicy Thai Carrot Stir-fry",
+    "title": "Thai Carrot Stir Fry",
     "tags": [
-      "thai",
-      "stir-fry",
-      "herbal"
+      "thaifood",
+      "stirfry",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
