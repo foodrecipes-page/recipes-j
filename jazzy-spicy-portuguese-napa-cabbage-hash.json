@@ -1,0 +1,83 @@
+{
+  "slug": "jazzy-spicy-portuguese-napa-cabbage-hash",
+  "title": "Spicy Hash Brown Cakes with Cabbage Slaw",
+  "description": "Crunchy hash brown cakes paired with a refreshing cabbage slaw. Perfect for a quick breakfast or snack.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large napa cabbage",
+      "amount": "shredded",
+      "notes": "for slaw"
+    },
+    {
+      "name": "2 large potatoes",
+      "amount": "grated",
+      "notes": "for hash"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "finely chopped",
+      "notes": "for hash"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": "for hash"
+    },
+    {
+      "name": "1 cup hash",
+      "amount": "",
+      "notes": "for hash"
+    },
+    {
+      "name": "1 teaspoon spicy seasoning",
+      "amount": "",
+      "notes": "for hash"
+    },
+    {
+      "name": "1 egg",
+      "amount": "",
+      "notes": "for hash"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and set aside.",
+    "Grate the potatoes and squeeze out excess moisture.",
+    "In a large bowl, combine grated potatoes, chopped onion, minced garlic, hash, and spicy seasoning.",
+    "Mix well and add the egg. Season with salt and pepper to taste.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the hash mixture into the pan.",
+    "Press down gently on each cake to form a patty.",
+    "Cook for 4-5 minutes on each side, until golden brown and crispy.",
+    "Serve with shredded cabbage slaw and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "hash-brown",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-spicy-portuguese-napa-cabbage-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:41:55.778Z"
+}
