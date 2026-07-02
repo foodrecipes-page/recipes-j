@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-roasted-moroccan-chicken-rfissa",
+  "title": "Moroccan Chicken Rfissa",
+  "description": "A hearty, flavorful Moroccan dish made with roasted chicken, rfissa, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "rfissa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, cumin, coriander, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes.",
+    "Transfer the chicken to a baking dish and roast in the preheated oven for 25-30 minutes, or until cooked through.",
+    "While the chicken is roasting, cook the rfissa in a large skillet over medium heat, stirring frequently, until lightly browned.",
+    "Add the chopped onion to the skillet with the rfissa and cook until the onion is translucent.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "To serve, place the roasted chicken on top of the rfissa mixture and garnish with fresh herbs, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "rfissa",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-moroccan-chicken-rfissa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:36:30.968Z"
+}
