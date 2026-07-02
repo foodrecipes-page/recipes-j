@@ -10133,15 +10133,14 @@
   },
   {
     "slug": "juicy-buttery-festive-vietnamese-stir-fry",
-    "title": "Juicy Buttery Festive Vietnamese Stir-fry",
+    "title": "Vietnamese Stir Fry",
     "tags": [
-      "festive",
-      "buttery",
-      "juicy",
-      "whisk"
+      "vietnamese",
+      "stir-fry",
+      "chicken"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
