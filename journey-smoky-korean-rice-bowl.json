@@ -1,0 +1,88 @@
+{
+  "slug": "journey-smoky-korean-rice-bowl",
+  "title": "Smoky Korean Journey Rice Bowl",
+  "description": "A hearty and flavorful rice bowl dish inspired by Korean cuisine, featuring a smoky twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 inches",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Roasted sweet potatoes, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Blackened tofu, cubed",
+      "amount": "1 block",
+      "notes": "about 6 ounces"
+    },
+    {
+      "name": "Smoked eggplant, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice bowl mix-ins (optional)",
+      "amount": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Toss the sweet potatoes with 1 tablespoon of oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes or until tender.",
+    "Cook the brown rice according to package instructions.",
+    "In a large pan, heat 1 tablespoon of oil over medium-high. Add the blackened tofu and cook until golden brown, about 5 minutes.",
+    "Add the sliced smoked eggplant to the pan and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the Korean chili paste, soy sauce, and 2 tablespoons of water.",
+    "Pour the sauce into the pan and stir to combine. Cook for 1-2 minutes or until the sauce has thickened.",
+    "To assemble the bowls, place a scoop of cooked brown rice at the bottom. Add the roasted sweet potatoes, blackened tofu, and smoked eggplant on top.",
+    "Garnish with green onions, toasted sesame seeds, and a sprinkle of Korean chili flakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "smoky",
+    "rice-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/journey-smoky-korean-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:11:25.749Z"
+}
