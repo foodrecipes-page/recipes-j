@@ -1,0 +1,90 @@
+{
+  "slug": "joyful-french-peanuts-terrine",
+  "title": "French Terrine with Peanut Crunch",
+  "description": "A classic French terrine with a satisfying crunch of peanuts. Perfect as an appetizer or light meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "250g",
+      "notes": "Lean ground pork for a healthier terrine"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped onions add flavor and texture"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "50g",
+      "notes": "Chopped peanuts for a crunchy topping"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": "Soaked breadcrumbs for added moisture"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Whole eggs for richness and binding"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": "Whole milk for creaminess"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": "Unsalted butter for flavor and richness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to enhance flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large pan, sauté the onions until softened.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "In a separate bowl, mix the eggs, milk, and a pinch of salt and pepper.",
+    "Add the egg mixture to the pork mixture and stir to combine.",
+    "Stir in the breadcrumbs and chopped peanuts.",
+    "Transfer the mixture to a terrine dish and dot with butter.",
+    "Bake for 35-40 minutes, or until the terrine is set and golden brown.",
+    "Allow to cool before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peanuts",
+    "crunchy",
+    "appetizer",
+    "light-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/joyful-french-peanuts-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:26:22.620Z"
+}
