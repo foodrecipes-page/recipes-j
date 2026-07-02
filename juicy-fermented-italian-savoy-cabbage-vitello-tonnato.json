@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-fermented-italian-savoy-cabbage-vitello-tonnato",
+  "title": "Tonnato Sauce-Cured Vitello Roll-Ups",
+  "description": "A classic Italian dish featuring thinly sliced veal rolled with a creamy tonnato sauce, served with a side of sautéed savoy cabbage.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vitello (thinly sliced veal)",
+      "amount": "8 ounces",
+      "notes": "Serrano or butter knife-sliced"
+    },
+    {
+      "name": "Tonnato Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade tonnato sauce recipe or store-bought"
+    },
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 head",
+      "notes": "Separate leaves for wrapping"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tablespoon",
+      "notes": "Dried herbs such as thyme, oregano, and basil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the sliced veal with salt, black pepper, and Italian seasoning.",
+    "Place a few slices of veal on a flat surface and spread a small amount of tonnato sauce in the center.",
+    "Roll each slice into a cylinder and place seam-side down in a baking dish.",
+    "Repeat with the remaining veal slices.",
+    "Bake the veal roll-ups in the preheated oven for 12-15 minutes, or until lightly browned.",
+    "While the veal is baking, heat a tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the savoy cabbage leaves to the skillet and cook for 2-3 minutes, or until slightly wilted.",
+    "Remove the veal roll-ups from the oven and let cool for a few minutes.",
+    "Serve each roll-up with a side of sautéed savoy cabbage and additional tonnato sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "veal",
+    "cabbage",
+    "tonnato",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fermented-italian-savoy-cabbage-vitello-tonnato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:08:39.305Z"
+}
