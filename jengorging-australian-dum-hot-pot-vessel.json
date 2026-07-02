@@ -1,0 +1,68 @@
+{
+  "slug": "jengorging-australian-dum-hot-pot-vessel",
+  "title": "Australian Jengor Stew",
+  "description": "A hearty stew made with jengor and australian ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "serves-1",
+    "serves-4"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jengor",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "australian",
+      "amount": "2 cups",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "dum",
+      "amount": "2 pieces",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "hot pot",
+      "amount": "1",
+      "notes": "medium heat"
+    },
+    {
+      "name": "vessel",
+      "amount": "1",
+      "notes": "large saucepan"
+    }
+  ],
+  "instructions": [
+    "In the vessel, heat the hot pot over medium heat.",
+    "Add the jengor and cook until browned, about 5 minutes.",
+    "Add the australian leaves and cook until wilted, about 2 minutes.",
+    "Add the dum pieces and cook until they start to break down, about 5 minutes.",
+    "Add enough water to cover the jengor and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional australian leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jengorging-australian-dum-hot-pot-vessel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:09:59.232Z"
+}
