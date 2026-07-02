@@ -6925,17 +6925,16 @@
   },
   {
     "slug": "jovial-juicy-french-san-marzano-tomato-gratin",
-    "title": "Jovial Juicy French San Marzano Tomato Gratin",
+    "title": "French Tomato Gratins",
     "tags": [
-      "brunch-ideas",
-      "comfort-food",
-      "french-cuisine",
-      "lazy-sunday",
-      "low-sodium",
-      "one-pan"
+      "french",
+      "tomato",
+      "cheese",
+      "vegetarian",
+      "side-dish"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -14224,17 +14223,16 @@
   },
   {
     "slug": "juicy-peppery-turkey-stir-fry",
-    "title": "Juicy Peppery Turkey Stir-fry",
+    "title": "Stir-Fried Turkey with Peppery Flair",
     "tags": [
-      "juicy",
-      "peppery",
-      "kid-friendly",
+      "stir-fry",
       "turkey",
-      "slow-cook",
-      "dairy-free"
+      "peppery",
+      "gluten-free",
+      "low-carb"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15384,17 +15382,14 @@
   },
   {
     "slug": "juicy-slovakian-sweetcorn-wrap",
-    "title": "Juicy Slovakian Sweetcorn Wrap",
+    "title": "Sweetcorn and Slovakian Wrap",
     "tags": [
-      "easy-dinner",
-      "low-fat",
+      "sweetcorn",
       "slovakian",
-      "ti-leaf-wrap",
-      "vegetarian",
-      "weeknight"
+      "wrap"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
