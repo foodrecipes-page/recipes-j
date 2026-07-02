@@ -1,0 +1,87 @@
+{
+  "slug": "jovial-brazilian-bean-stew",
+  "title": "Brazilian Bean Stew",
+  "description": "A hearty and flavorful stew originating from Brazil, made with jovial beans and tender beef.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red jovial beans",
+      "amount": "1 cup, dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add ground beef and cook until browned, breaking into small pieces.",
+    "Add soaked jovial beans, chicken broth, tomato paste, cumin, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "bean",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-brazilian-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:12.925Z"
+}
