@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-buttery-festive-vietnamese-stir-fry",
+  "title": "Vietnamese Stir Fry",
+  "description": "A quick and flavorful stir fry dish from Vietnam, made with juicy chicken, festive vegetables and stir-fried in a buttery sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the sliced bell pepper and onion to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the snow peas to the skillet and cook until tender, about 2 minutes.",
+    "Return the chicken to the skillet and stir in the fish sauce and soy sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve the stir fry hot, garnished with sliced green onions and a sprinkle of sesame seeds.",
+    "Serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "stir-fry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-festive-vietnamese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:55:31.047Z"
+}
