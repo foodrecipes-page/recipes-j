@@ -5058,15 +5058,13 @@
   },
   {
     "slug": "jengorging-australian-dum-hot-pot-vessel",
-    "title": "Gourmet Grassy Cinnamon Hot Pot-Vessel",
+    "title": "Australian Jengor Stew",
     "tags": [
-      "australian-dish",
-      "breakfast-menu",
-      "energy-boosting",
-      "hot-pot-vessel",
-      "sugar-free-friendly"
+      "australian",
+      "stew",
+      "one-pot"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -11681,16 +11679,16 @@
   },
   {
     "slug": "juicy-fermented-italian-savoy-cabbage-vitello-tonnato",
-    "title": "Juicy Fermented Italian Savoy Cabbage Vitello Tonnato",
+    "title": "Tonnato Sauce-Cured Vitello Roll-Ups",
     "tags": [
-      "crowd-pleaser",
-      "fermented-recipes",
-      "italian-food",
-      "kosher-friendly",
-      "one-pan"
+      "italian",
+      "veal",
+      "cabbage",
+      "tonnato",
+      "sauce"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
