@@ -1,0 +1,68 @@
+{
+  "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina",
+  "title": "Classic Peruvian Papas a la Huancaina",
+  "description": "A Peruvian dish made with boiled potatoes, spicy cheese sauce, and crispy bacon.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4-6 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "huancaina sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "la huancaina cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "jazzy onions",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "snappy bacon",
+      "amount": "6 slices",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water until tender.",
+    "Drain the potatoes and let them cool.",
+    "In a separate pan, cook the bacon until crispy.",
+    "In a large bowl, combine the cooled potatoes, cooked bacon, and thinly sliced onions.",
+    "Pour the huancaina sauce over the top and stir to combine.",
+    "Transfer the mixture to a serving dish and top with shredded cheese.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "potatoes",
+    "cheese",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-snappy-peruvian-potato-papas-a-la-huancaina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:45:52.232Z"
+}
