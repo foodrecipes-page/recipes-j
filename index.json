@@ -4322,17 +4322,15 @@
   },
   {
     "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina",
-    "title": "Jazzy Snappy Peruvian Potato Papas a la Huancaina",
+    "title": "Classic Peruvian Papas a la Huancaina",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
+      "peruvian",
       "potatoes",
-      "south-american",
-      "weeknight"
+      "cheese",
+      "bacon"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "cuisine": "peruvian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -6691,16 +6689,15 @@
   },
   {
     "slug": "journey-smoky-korean-rice-bowl",
-    "title": "Journey-smoky Korean rice bowl",
+    "title": "Smoky Korean Journey Rice Bowl",
     "tags": [
-      "cheese-pull",
-      "flexitarian",
       "korean",
-      "one-pan",
-      "weeknight"
+      "smoky",
+      "rice-bowl",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
