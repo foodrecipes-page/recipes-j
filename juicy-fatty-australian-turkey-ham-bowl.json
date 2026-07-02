@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-fatty-australian-turkey-ham-bowl",
+  "title": "Australian Turkey and Ham Bowl",
+  "description": "A delicious and hearty bowl filled with juicy turkey, fatty ham, and other tasty ingredients. Perfect for a satisfying meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Turkey Breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Fatty Ham",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Season the turkey breast with salt and pepper.",
+    "Place the turkey breast on a baking tray and bake for 25-30 minutes, or until cooked through.",
+    "While the turkey is cooking, cook the brown rice according to package instructions.",
+    "In a large bowl, combine the mixed greens, sliced red onion, and cooked brown rice.",
+    "Once the turkey is done, let it rest for 5 minutes before slicing.",
+    "Add the sliced turkey and fatty ham to the bowl, and drizzle with balsamic glaze.",
+    "Garnish with fresh parsley and serve immediately.",
+    "Cooking time includes resting time for the turkey.",
+    "Adjust cooking time based on turkey size and thickness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "turkey",
+    "ham",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fatty-australian-turkey-ham-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:31.504Z"
+}
