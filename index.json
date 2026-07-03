@@ -4959,16 +4959,15 @@
   },
   {
     "slug": "jelly-like-syrian-tomato-tagine",
-    "title": "Jelly-Like Syrian Tomato Tagine",
+    "title": "Syrian Tagine Jelly",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "main-course",
-      "syrian-cuisine",
-      "vegan-friendly"
+      "syrian",
+      "jelly",
+      "dessert",
+      "vegan"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -15203,17 +15202,15 @@
   },
   {
     "slug": "juicy-show-off-saudi-arabian-mushroom-tagine",
-    "title": "juicy show-off saudi-arabian mushroom tagine",
+    "title": "Saudi Arabian Mushroom Tagine",
     "tags": [
-      "gluten-free",
-      "mushroom",
-      "north-african",
       "saudi-arabian",
+      "mushroom",
       "tagine",
-      "vegan"
+      "middle-eastern"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
