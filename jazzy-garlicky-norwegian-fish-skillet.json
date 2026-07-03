@@ -1,0 +1,83 @@
+{
+  "slug": "jazzy-garlicky-norwegian-fish-skillet",
+  "title": "Garlicky Pan-Seared Fish with Jazzy Norwegian Skillet Sauce",
+  "description": "A flavorful, crispy fish dish with a tangy Norwegian skillet sauce infused with garlic notes.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jazzy Norwegian fish fillets (1 lb)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Garlicky butter (2 sticks, 8 tbsp)",
+      "amount": "6 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced (3 cloves)",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice (1/4 cup)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Skillet seasoning (1 tsp)",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped (1/4 cup)",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1-2 tbsp of garlicky butter in a skillet over medium-high heat.",
+    "Season the fish fillets with salt, black pepper, and skillet seasoning.",
+    "Add 2-3 fillets to the skillet and cook for 3-4 minutes per side, until cooked through.",
+    "Transfer the cooked fish to a plate and repeat with the remaining fillets.",
+    "Reduce heat to medium and add the remaining 4 tbsp of garlicky butter to the skillet.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in lemon juice and cook for an additional minute.",
+    "Return the cooked fish to the skillet and spoon the garlic sauce over the top.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "garlic",
+    "seafood",
+    "easy-dinner",
+    "skillet-casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-garlicky-norwegian-fish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:09:59.350Z"
+}
