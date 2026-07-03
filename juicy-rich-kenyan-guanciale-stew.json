@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-rich-kenyan-guanciale-stew",
+  "title": "Kenyan Braised Guanciale Stew",
+  "description": "A hearty, flavorful stew made with guanciale, juicy beef, and spices inspired by Kenyan cuisine.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and black pepper.",
+    "Heat the guanciale in a large Dutch oven over medium-high heat until crispy.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the tomato paste, curry powder, and cumin to the pot and cook for 1 minute.",
+    "Add the beef broth and water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan",
+    "pork",
+    "guanciale"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-rich-kenyan-guanciale-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:51:01.870Z"
+}
