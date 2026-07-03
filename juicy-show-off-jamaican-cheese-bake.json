@@ -1,0 +1,63 @@
+{
+  "slug": "juicy-show-off-jamaican-cheese-bake",
+  "title": "Jamaican Cheese Bake",
+  "description": "A delightful twist on a classic casserole, this Jamaican cheese bake combines the flavors of the Caribbean with a creamy, cheesy delight.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "show-stopping onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "off the shelf breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sharp cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onions and tomatoes until softened.",
+    "In a separate bowl, mix breadcrumbs and allspice.",
+    "In a greased 9x13 inch baking dish, arrange half of the tomato mixture.",
+    "Sprinkle with half of the breadcrumbs and half of the cheese.",
+    "Repeat the layers.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-show-off-jamaican-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:34:41.004Z"
+}
