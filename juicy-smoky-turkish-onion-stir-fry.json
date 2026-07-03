@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-smoky-turkish-onion-stir-fry",
+  "title": "Turkish Smoky Onion Meatballs",
+  "description": "A flavorful and easy-to-make dish inspired by Turkish cuisine, featuring smoky meatballs served with caramelized onions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Juicy Tomato",
+      "amount": "1 can",
+      "notes": "crushed, 14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground beef, smoky paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add caramelized onion and minced garlic to the bowl and mix until evenly distributed.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each meatball.",
+    "Bake in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the meatballs are baking, heat the crushed tomatoes in a saucepan over medium heat.",
+    "Once the meatballs are done, transfer them to the saucepan with the tomatoes and simmer for 5-7 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "smoky",
+    "meatballs",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-turkish-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:13:51.348Z"
+}
