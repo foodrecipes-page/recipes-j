@@ -1,0 +1,75 @@
+{
+  "slug": "juicy-buttery-spanish-fish-fideua",
+  "title": "Spanish Fish Fideua",
+  "description": "A seafood twist on the popular Spanish dish, featuring juicy fish and fideua noodles.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish Fideua Noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Juicy Fish (halibut or sea bass work well)",
+      "amount": "4 fillets",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the Spanish fideua noodles and cook for 2-3 minutes, stirring occasionally.",
+    "Add the juicy fish fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "In the same skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the cooked fideua noodles back into the skillet and toss with the melted butter until well coated.",
+    "Season with salt and pepper to taste.",
+    "Serve the fideua noodles with the juicy fish on top and garnish with chopped fresh parsley.",
+    "Optional: Add a squeeze of fresh lemon juice for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fish-recipe",
+    "seafood",
+    "fideua"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-spanish-fish-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:50:49.695Z"
+}
