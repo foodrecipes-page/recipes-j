@@ -634,17 +634,16 @@
   },
   {
     "slug": "jagged-fresh-ethiopian-lentils-fir-fir",
-    "title": "Jagged Fresh Ethiopian Lentils Fir Fir",
+    "title": "Fir and Lentil Wats",
     "tags": [
-      "hearty",
-      "high-protein",
-      "international",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "lentils",
+      "ethiopian",
+      "fir",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -4370,17 +4369,14 @@
   },
   {
     "slug": "jazzy-sour-argentinian-parsley-bowl",
-    "title": "Jazzy Sour Argentinian Parsley Bowl",
+    "title": "Jazzy Argentinian Bowl",
     "tags": [
       "argentinian",
-      "breakfast",
-      "buddha-friendly",
-      "hangover-cure",
-      "liver",
-      "snack"
+      "healthy",
+      "lunch"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 5,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -5323,17 +5319,14 @@
   },
   {
     "slug": "jewel-toned-crispy-thai-butternut-squash-skewers",
-    "title": "Jewel Toned Crispy Thai Butternut Squash Skewers",
+    "title": "Thai Squash and Jewel Skewers",
     "tags": [
-      "crispy",
-      "gluten-free",
-      "sugar-free",
       "thai",
       "vegetarian",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -12497,17 +12490,15 @@
   },
   {
     "slug": "juicy-grilled-malaysian-sausages-skewers",
-    "title": "Juicy Grilled Malaysian Sausages Skewers",
+    "title": "Malaysian Sausage Skewers",
     "tags": [
-      "date-night",
-      "grilled",
       "malaysian",
-      "mediterranean-friendly",
-      "sausages",
-      "yuzu"
+      "grilled",
+      "skewers",
+      "sausages"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -14434,16 +14425,16 @@
   },
   {
     "slug": "juicy-pungent-brazilian-vegetables-biryani",
-    "title": "Juicy Pungent Brazilian Vegetables Biryani",
+    "title": "Brazilian Vegetable Biryani",
     "tags": [
-      "brazilian",
-      "high-carb",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "brazilian",
+      "rice",
+      "vegetables",
+      "lunch"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -15188,16 +15179,14 @@
   },
   {
     "slug": "juicy-show-off-jamaican-cheese-bake",
-    "title": "juicy show-off jamaican cheese bake",
+    "title": "Jamaican Cheese Bake",
     "tags": [
+      "caribbean",
       "cheesy",
-      "high-protein",
-      "jamaican",
-      "one-pan",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -15303,16 +15292,15 @@
   },
   {
     "slug": "juicy-silky-ukrainian-cheese-pasta",
-    "title": "Juicy Silky Ukrainian Cheese Pasta",
+    "title": "Ukrainian Pasta Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "pasta",
+      "cheesy",
+      "bake"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
