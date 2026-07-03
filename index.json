@@ -850,16 +850,15 @@
   },
   {
     "slug": "jagged-peppery-canadian-potato-hash",
-    "title": "Jagged Peppery Canadian Potato Hash",
+    "title": "Pan-Seared Hash Browns",
     "tags": [
+      "hash-browns",
+      "potatoes",
       "canadian-cuisine",
-      "comfort-food",
-      "high-carb",
-      "one-pan",
-      "weeknight"
+      "breakfast"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
