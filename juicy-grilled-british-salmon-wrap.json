@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-grilled-british-salmon-wrap",
+  "title": "Grilled Salmon Wrap",
+  "description": "A delicious and healthy British-inspired dish featuring grilled salmon in a fresh wrap.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4 oz",
+      "notes": "Fresh salmon"
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1",
+      "notes": "For wrap"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "Fresh lettuce"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon with salt and pepper.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "Brush tortilla with olive oil.",
+    "Assemble wrap with grilled salmon, lettuce, tomato, and mayonnaise.",
+    "Drizzle with lemon juice.",
+    "Fold wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "salmon",
+    "wrap",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grilled-british-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:00:31.672Z"
+}
