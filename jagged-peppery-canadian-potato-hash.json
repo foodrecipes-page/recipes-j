@@ -1,0 +1,65 @@
+{
+  "slug": "jagged-peppery-canadian-potato-hash",
+  "title": "Pan-Seared Hash Browns",
+  "description": "A crispy pan-seared hash brown dish made with diced potatoes and a hint of peppery flavor. Serve as a side dish or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "preferably Russet or Idaho potatoes"
+    },
+    {
+      "name": "jagged",
+      "amount": "1 tsp",
+      "notes": "coarse black pepper"
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tbsp",
+      "notes": "olive oil or vegetable oil"
+    },
+    {
+      "name": "hash",
+      "amount": "1/4 cup",
+      "notes": "diced cooked bacon or pancetta for added smokiness"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and place them in a bowl of cold water to remove excess starch.",
+    "Drain the potatoes and pat them dry with a paper towel.",
+    "Heat a large non-stick skillet or cast-iron pan over medium heat.",
+    "Add the Canadian oil to the pan and swirl it around to coat the bottom.",
+    "Add the grated potatoes to the pan and press them down to form a flat layer.",
+    "Cook the potatoes for about 5 minutes, until they start to brown and crisp up.",
+    "Use a spatula to flip the hash browns over and cook for another 5 minutes, until crispy and golden brown.",
+    "Remove the hash browns from the pan and place them on a paper towel-lined plate to drain excess oil.",
+    "If using, sprinkle diced cooked bacon or pancetta over the hash browns for added smokiness.",
+    "Serve the pan-seared hash browns hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash-browns",
+    "potatoes",
+    "canadian-cuisine",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-canadian-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:50:06.323Z"
+}
