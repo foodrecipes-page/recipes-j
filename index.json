@@ -12667,15 +12667,13 @@
   },
   {
     "slug": "juicy-ice-bath-shocked-norwegian-rice-vermicelli-bowl",
-    "title": "juicy ice-bath-shocked norwegian rice vermicelli bowl",
+    "title": "Norwegian Rice Bowl",
     "tags": [
-      "buddhist-friendly",
-      "gluten-free",
-      "refined-sugar-free",
-      "vegan",
-      "weeknight"
+      "norwegian-cuisine",
+      "rice-bowl",
+      "vegetarian"
     ],
-    "cuisine": "norwegian",
+    "cuisine": "Norwegian",
     "totalTimeMin": 25,
     "shard": "j"
   },
@@ -14521,17 +14519,16 @@
   },
   {
     "slug": "juicy-rich-kenyan-guanciale-stew",
-    "title": "Juicy Rich Kenyan Guanciale Stew",
+    "title": "Kenyan Braised Guanciale Stew",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "guanciale-recipe",
-      "hearty-stew",
-      "kenyan-cuisine",
-      "one-pot"
+      "beef",
+      "stew",
+      "kenyan",
+      "pork",
+      "guanciale"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
@@ -16081,17 +16078,15 @@
   },
   {
     "slug": "juicy-spicy-dutch-chicken-kebabs",
-    "title": "Juicy Spicy Dutch Chicken Kebabs",
+    "title": "Dutch Chicken Kebabs",
     "tags": [
-      "dutch-cuisine",
-      "gluten-free",
+      "chicken",
+      "grill",
       "kebabs",
-      "low-carb",
-      "spicy-food",
-      "tandoor-cooking"
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -17798,17 +17793,16 @@
   },
   {
     "slug": "jumping-fresh-australian-basil-bake",
-    "title": "Jumping Fresh Australian Basil Bake",
+    "title": "Australian-Style Jumping Fish with Basil",
     "tags": [
-      "australian-cuisine",
-      "baked",
-      "cheesy",
-      "gluten-free",
-      "vegetarian",
-      "yeasty"
+      "australian",
+      "fish",
+      "basil",
+      "lemon",
+      "garlic"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
