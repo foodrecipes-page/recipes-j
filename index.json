@@ -106,17 +106,14 @@
   },
   {
     "slug": "jaded-italian-morning-glory-pak-bung-bruschetta",
-    "title": "Jaded Italian Morning-Glory-Pak-Bung Bruschetta",
+    "title": "Pak Bung Bruschetta",
     "tags": [
-      "breakfast",
-      "diabetic",
-      "gluten-free",
+      "bruschetta",
       "italian",
-      "low-carb",
-      "snack"
+      "veggie"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -3525,17 +3522,16 @@
   },
   {
     "slug": "jazzy-garlicky-norwegian-fish-skillet",
-    "title": "Jazzy Garlicky Norwegian Fish Skillet",
+    "title": "Garlicky Pan-Seared Fish with Jazzy Norwegian Skillet Sauce",
     "tags": [
-      "fish-recipes",
-      "macrobiotic-friendly",
-      "norwegian-cuisine",
-      "one-pan",
-      "seafood-lovers",
-      "weeknight-dinner"
+      "fish",
+      "garlic",
+      "seafood",
+      "easy-dinner",
+      "skillet-casserole"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "cuisine": null,
+    "totalTimeMin": 17,
     "shard": "j"
   },
   {
@@ -10620,17 +10616,15 @@
   },
   {
     "slug": "juicy-crisp-egyptian-chicken-flatbread",
-    "title": "Juicy Crisp Egyptian Chicken Flatbread",
+    "title": "Egyptian Chicken Shawarma",
     "tags": [
-      "buddhist-friendly",
-      "crispy",
-      "date-night",
-      "egyptian",
-      "herbal",
-      "long-fermentation"
+      "chicken",
+      "sharwama",
+      "egyptian-food",
+      "street-food"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -13684,18 +13678,16 @@
   },
   {
     "slug": "juicy-mexican-morbier-mole-poblano",
-    "title": "Juicy Mexican Morbier Mole Poblano",
+    "title": "Poblano and Mole Stuffed Poblanos",
     "tags": [
-      "aerated",
-      "diabetic-friendly",
+      "poblano",
       "mole",
-      "norteno",
-      "nutty",
-      "romantic",
-      "tandoor"
+      "mexican",
+      "vegetarian",
+      "cheese"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
