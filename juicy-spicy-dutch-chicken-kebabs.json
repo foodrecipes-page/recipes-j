@@ -1,0 +1,65 @@
+{
+  "slug": "juicy-spicy-dutch-chicken-kebabs",
+  "title": "Dutch Chicken Kebabs",
+  "description": "A simple and flavorful recipe for chicken kebabs with a Dutch twist. Perfect for a quick dinner or lunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, onion, bell pepper, tomato, and garlic onto skewers.",
+    "Brush kebabs with oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grill",
+    "kebabs",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-dutch-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:57:59.105Z"
+}
