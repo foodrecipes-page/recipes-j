@@ -1,0 +1,64 @@
+{
+  "slug": "juicy-crisp-egyptian-chicken-flatbread",
+  "title": "Egyptian Chicken Shawarma",
+  "description": "A flavorful and easy-to-make dish inspired by Egyptian street food, with juicy chicken and crispy flatbread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably Egyptian or Middle Eastern flatbread"
+    },
+    {
+      "name": "juicy",
+      "amount": "1/4 cup",
+      "notes": "olive oil for brushing"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, whisk together olive oil, salt, and pepper.",
+    "Place the chicken breast in a shallow baking dish and brush with the olive oil mixture.",
+    "Bake the chicken for 20-25 minutes or until cooked through.",
+    "Meanwhile, toast the flatbread for 2-3 minutes or until lightly browned.",
+    "Slice the cooked chicken into thin strips.",
+    "Assemble the shawarma by placing the chicken strips on the toasted flatbread.",
+    "Drizzle with additional olive oil if desired, and garnish with parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "sharwama",
+    "egyptian-food",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-egyptian-chicken-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:13:04.344Z"
+}
