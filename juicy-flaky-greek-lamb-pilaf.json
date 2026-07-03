@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-flaky-greek-lamb-pilaf",
+  "title": "Greek Lamb Pilaf",
+  "description": "A flavorful and aromatic Greek-inspired dish made with juicy lamb, pilaf, and fresh herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Greek Pilaf Rice Mix",
+      "amount": "1 cup",
+      "notes": "Follow package instructions"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "2. Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "3. Transfer the lamb to a separate plate, and set aside.",
+    "4. In the same skillet, add the remaining 1 tbsp of olive oil.",
+    "5. Add the pilaf rice mix and cook according to package instructions.",
+    "6. Add the chopped oregano and lemon juice, and toss to combine.",
+    "7. Return the lamb to the skillet and spoon some of the pilaf mixture over the top.",
+    "8. Reduce heat to low and simmer, covered, for 20 minutes, or until the lamb is cooked through.",
+    "9. Remove from heat and let rest for 5 minutes before serving.",
+    "10. Slice the lamb and serve with the pilaf mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mains",
+    "lamb",
+    "pilaf",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flaky-greek-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:00:03.565Z"
+}
