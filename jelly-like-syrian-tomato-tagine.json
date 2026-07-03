@@ -1,0 +1,62 @@
+{
+  "slug": "jelly-like-syrian-tomato-tagine",
+  "title": "Syrian Tagine Jelly",
+  "description": "A sweet and tangy jelly made with the flavors of Syria, perfect as a dessert or snack.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Like (Sumac)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Syrian Tagine spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine the tomatoes, jelly, sumac, and tagine spice mix in a large saucepan.",
+    "Add the water and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the jelly has thickened.",
+    "Remove from heat and let cool to room temperature.",
+    "Strain the mixture through a fine-mesh sieve into a clean saucepan and discard the solids.",
+    "Bring the mixture to a boil over high heat and cook for an additional 5-10 minutes, or until the jelly has thickened to your liking.",
+    "Remove from heat and let cool to room temperature before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "jelly",
+    "dessert",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-syrian-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:27:56.857Z"
+}
