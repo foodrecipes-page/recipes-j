@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani",
+  "title": "Brazilian Vegetable Biryani",
+  "description": "A flavorful and aromatic rice dish from Brazil, loaded with vegetables and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "2 teaspoons",
+      "notes": "can be substituted with curry powder"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pungent onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and sauté until translucent.",
+    "Add tomatoes and sauté until soft.",
+    "Add mixed vegetables and sauté until tender.",
+    "Add biryani masala and salt. Mix well.",
+    "Add rice to the pan and stir-fry for 2-3 minutes.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low, cover the pan, and simmer for 15-20 minutes.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "brazilian",
+    "rice",
+    "vegetables",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:19:30.096Z"
+}
