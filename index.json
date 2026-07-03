@@ -11261,14 +11261,11 @@
   },
   {
     "slug": "juicy-crunchy-turkish-cheese-kunefe",
-    "title": "Turkish Cheese Kunefe",
+    "title": "Turkish Kunefe Recipe",
     "tags": [
-      "cheese-dessert",
-      "crunchy",
-      "mediterranean-friendly",
-      "turkish-dish",
-      "weeknight",
-      "wood-fired"
+      "turkish",
+      "cheese",
+      "dessert"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 45,
@@ -12884,16 +12881,16 @@
   },
   {
     "slug": "juicy-indulgent-tunisian-chicken-tagine",
-    "title": "Juicy Indulgent Tunisian Chicken Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "air-fried",
-      "high-protein",
-      "one-pan",
+      "north-african",
+      "chicken",
       "tagine",
-      "weeknight"
+      "slow-cooked",
+      "aromatic"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
