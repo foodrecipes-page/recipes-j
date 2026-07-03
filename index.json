@@ -6972,17 +6972,14 @@
   },
   {
     "slug": "jovial-mustardy-kenyan-beef-lasagna",
-    "title": "Jovial Mustardy Kenyan Beef Lasagna",
+    "title": "Kenyan Beef Lasagna",
     "tags": [
-      "diabetic-friendly",
-      "dutch-oven",
-      "gluten-free",
+      "beef-lasagna",
       "kenyan-cuisine",
-      "lasagna",
-      "one-pan"
+      "italian-fusion"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -11487,17 +11484,14 @@
   },
   {
     "slug": "juicy-english-fish-fillet-bangers-and-mash",
-    "title": "Juicy English Fish Fillet Bangers And Mash",
+    "title": "Pan-Seared Fish with English Mash",
     "tags": [
-      "comfort-food",
-      "english-cuisine",
-      "fish-recipes",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "fish",
+      "mash",
+      "pan-seared"
     ],
-    "cuisine": "English",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
