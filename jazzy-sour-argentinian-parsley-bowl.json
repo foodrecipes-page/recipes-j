@@ -1,0 +1,66 @@
+{
+  "slug": "jazzy-sour-argentinian-parsley-bowl",
+  "title": "Jazzy Argentinian Bowl",
+  "description": "A flavorful and healthy bowl filled with the essence of Argentina, featuring jazzy spices and a tangy sour kick.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy Spices",
+      "amount": "2 tsp",
+      "notes": "Custom blend of jazzy spices"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "Sour cream adds a tangy kick"
+    },
+    {
+      "name": "Argentinian Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice commonly used in Argentina"
+    },
+    {
+      "name": "Chopped Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh parsley adds a bright, fresh flavor"
+    },
+    {
+      "name": "Bowl of Mixed Greens",
+      "amount": "2 cups",
+      "notes": "Any mixed greens will work"
+    }
+  ],
+  "instructions": [
+    "Cook the Argentinian rice according to package instructions.",
+    "In a separate pan, heat the jazzy spices over medium heat for 1-2 minutes.",
+    "Add the sour cream to the pan and stir until combined with the jazzy spices.",
+    "In a large bowl, combine the cooked rice, mixed greens, and parsley.",
+    "Pour the jazzy sour cream mixture over the top of the rice mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-sour-argentinian-parsley-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:48:40.418Z"
+}
