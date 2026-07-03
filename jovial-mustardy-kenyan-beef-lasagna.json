@@ -1,0 +1,84 @@
+{
+  "slug": "jovial-mustardy-kenyan-beef-lasagna",
+  "title": "Kenyan Beef Lasagna",
+  "description": "A fusion of Kenyan flavors in a classic Italian dish. This Beef Lasagna recipe combines the bold tastes of Kenya with the comforting familiarity of lasagna.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp",
+      "notes": "Kenyan-style mustard"
+    },
+    {
+      "name": "Jovial Kenyan spices",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lasagna cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella and parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the Kenyan-style mustard, jovial Kenyan spices, and beef broth. Bring the mixture to a simmer and let cook for 2-3 minutes.",
+    "In a large bowl, combine the cooked lasagna noodles, the beef mixture, and the shredded lasagna cheese blend. Mix well to combine.",
+    "Transfer the mixture to a 9x13-inch baking dish and cover with aluminum foil.",
+    "Bake the lasagna in the preheated oven for 25-30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-lasagna",
+    "kenyan-cuisine",
+    "italian-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-mustardy-kenyan-beef-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:00:42.656Z"
+}
