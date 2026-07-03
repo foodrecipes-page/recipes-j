@@ -1,0 +1,79 @@
+{
+  "slug": "jewel-toned-crispy-thai-butternut-squash-skewers",
+  "title": "Thai Squash and Jewel Skewers",
+  "description": "A flavorful and healthy skewer recipe combining the sweetness of butternut squash with the crunch of jewel-toned vegetables, all wrapped up in a Thai-inspired marinade.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium-sized squash, peeled and cubed"
+    },
+    {
+      "name": "Jewel-toned bell peppers",
+      "amount": "2 large bell peppers, sliced"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1 cup crispy fried onions"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 metal or bamboo skewers"
+    },
+    {
+      "name": "Thai peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together peanut oil, soy sauce, honey, and lime juice.",
+    "Add the cubed butternut squash and sliced bell peppers to the marinade and toss to coat.",
+    "Thread the marinated squash and bell peppers onto the skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the squash is tender.",
+    "Garnish with crispy onions and chopped cilantro.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-crispy-thai-butternut-squash-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:33:21.716Z"
+}
