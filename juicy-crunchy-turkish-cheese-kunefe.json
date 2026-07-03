@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-crunchy-turkish-cheese-kunefe",
+  "title": "Turkish Kunefe Recipe",
+  "description": "A traditional Turkish dessert made with crispy phyllo dough and melted cheese.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 14-16 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Kunefe cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup, melted",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to the package instructions.",
+    "Cut the phyllo dough into 4 equal pieces.",
+    "Place one piece of phyllo dough on a flat surface and brush with melted butter.",
+    "Repeat the process with the remaining phyllo dough pieces.",
+    "Place the kunefe cheese on top of the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the cheese to form a square shape.",
+    "Brush the top of the phyllo dough with melted butter.",
+    "Bake the kunefe for 20-25 minutes, or until the phyllo dough is golden brown and the cheese is melted.",
+    "Remove the kunefe from the oven and let it cool for 5 minutes.",
+    "Drizzle the honey over the kunefe and sprinkle with chopped pistachios.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "cheese",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-turkish-cheese-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:34:58.042Z"
+}
