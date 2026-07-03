@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-zesty-australian-eggplant-wrap",
+  "title": "Australian Eggplant Wrap",
+  "description": "A flavorful eggplant wrap with a zesty twist, perfect for a quick and easy meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "Juicy Australian Wrap",
+      "amount": "1",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Zesty Hummus",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the eggplant with a little oil and season with salt and pepper.",
+    "Grill the eggplant for 3-4 minutes per side, or until tender.",
+    "Slice the eggplant into thin strips.",
+    "Warm the wrap according to the package instructions.",
+    "Spread the zesty hummus on the wrap.",
+    "Add the grilled eggplant, lettuce, tomato, cucumber, and red onion.",
+    "Top with feta cheese if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "easy",
+    "lunch",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-zesty-australian-eggplant-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:06.567Z"
+}
