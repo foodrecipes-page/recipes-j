@@ -166,17 +166,15 @@
   },
   {
     "slug": "jagged-bitter-mexican-baby-squid-tacos",
-    "title": "Jagged Bitter Mexican Baby Squid Tacos",
+    "title": "Jagged Squid Tacos",
     "tags": [
-      "bitter-flavors",
-      "grilled",
-      "low-sodium",
-      "mexican-food",
+      "mexican",
       "seafood",
-      "tacos"
+      "tacos",
+      "squid"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -11171,16 +11169,16 @@
   },
   {
     "slug": "juicy-crunchy-chinese-turkey-ham-steamed-bao",
-    "title": "Juicy Crunchy Chinese Turkey Ham Steamed Bao",
+    "title": "Steamed Bao with Turkey and Ham",
     "tags": [
       "chinese",
-      "dim-sum",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "steamed",
+      "turkey",
+      "ham",
+      "bao"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -15782,16 +15780,15 @@
   },
   {
     "slug": "juicy-smoky-turkish-onion-stir-fry",
-    "title": "Juicy Smoky Turkish Onion Stir-Fry",
+    "title": "Turkish Smoky Onion Meatballs",
     "tags": [
       "turkish",
-      "juicy",
-      "onion",
-      "stir-fry",
-      "jain-friendly"
+      "smoky",
+      "meatballs",
+      "onions"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 17,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
