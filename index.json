@@ -4195,16 +4195,14 @@
   },
   {
     "slug": "jazzy-smoky-german-sevaiiya-tagine",
-    "title": "Jazzy Smoky German Sevaiiya Tagine",
+    "title": "Jazzy Smoky German Stew",
     "tags": [
       "german",
-      "one-pot",
-      "quick",
-      "sevaiiya",
-      "smoky"
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -8231,17 +8229,15 @@
   },
   {
     "slug": "jubilant-juicy-venezuelan-cheese-sandwich",
-    "title": "Jubilant Juicy Venezuelan Cheese Sandwich",
+    "title": "Cheesy Venezuelan Sandwich",
     "tags": [
-      "comfort-food",
-      "crowd-pleasers",
-      "easy-lunch",
-      "lacto-vegetarian",
-      "sandwich-recipes",
-      "venezuelan-cuisine"
+      "cheese",
+      "latinamerican",
+      "grilled",
+      "easy"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 16,
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -10135,16 +10131,15 @@
   },
   {
     "slug": "juicy-buttery-spanish-fish-fideua",
-    "title": "Juicy Buttery Spanish Fish Fideua",
+    "title": "Spanish Fish Fideua",
     "tags": [
-      "high-protein",
-      "one-pan",
+      "spanish",
+      "fish-recipe",
       "seafood",
-      "spanish-cuisine",
-      "weeknight"
+      "fideua"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -11794,16 +11789,15 @@
   },
   {
     "slug": "juicy-flaky-greek-lamb-pilaf",
-    "title": "Juicy Flaky Greek Lamb Pilaf",
+    "title": "Greek Lamb Pilaf",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "lamb-recipes",
-      "one-pot",
-      "weeknight-meals"
+      "mains",
+      "lamb",
+      "pilaf",
+      "greek"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
