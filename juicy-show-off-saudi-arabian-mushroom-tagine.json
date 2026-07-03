@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-show-off-saudi-arabian-mushroom-tagine",
+  "title": "Saudi Arabian Mushroom Tagine",
+  "description": "A hearty and flavorful tagine made with saudi arabian spices, sautéed mushrooms, and a hint of juicy freshness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Show",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Off",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Saudi Arabian",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/4 cup",
+      "notes": "fresh parsley, chopped"
+    },
+    {
+      "name": "Arabian",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the show in a large Dutch oven over medium heat.",
+    "Add the sliced mushroom and cook until tender, about 5 minutes.",
+    "Add the off, saudi arabian, and arabian, and cook for 1 minute.",
+    "Stir in the juicy and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Serve with rice or couscous, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "mushroom",
+    "tagine",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-show-off-saudi-arabian-mushroom-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:06:12.105Z"
+}
