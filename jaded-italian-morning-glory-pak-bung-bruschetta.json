@@ -1,0 +1,76 @@
+{
+  "slug": "jaded-italian-morning-glory-pak-bung-bruschetta",
+  "title": "Pak Bung Bruschetta",
+  "description": "A flavorful and easy-to-make appetizer or snack, perfect for a quick morning pick-me-up or an elegant dinner party. Bruschetta is toasted bread rubbed with garlic and topped with diced tomatoes, basil, and mozzarella, then finished with a drizzle of balsamic glaze.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "italian bread",
+      "amount": "1 baguette",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "morning glory",
+      "amount": "1 cup",
+      "notes": "freshly picked or store-bought"
+    },
+    {
+      "name": "pak bung",
+      "amount": "1 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "jaded tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a small bowl, mix together minced garlic and chopped pak bung.",
+    "3. Arrange the bread slices on a baking sheet and toast in the oven for 5 minutes.",
+    "4. Rub the toasted bread with the garlic-pak bung mixture.",
+    "5. Top each bread slice with diced tomatoes, shredded mozzarella, and a sprinkle of chopped morning glory.",
+    "6. Drizzle with balsamic glaze and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bruschetta",
+    "italian",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaded-italian-morning-glory-pak-bung-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:14:58.966Z"
+}
