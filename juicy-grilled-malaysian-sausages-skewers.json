@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-grilled-malaysian-sausages-skewers",
+  "title": "Malaysian Sausage Skewers",
+  "description": "A flavorful and easy-to-make dish featuring grilled sausages and juicy vegetables, perfect for a quick and delicious meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "any type of sausage works well"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut sausages into 1-inch pieces and thread onto skewers.",
+    "Alternate adding vegetables to skewers, leaving a little space between each piece.",
+    "Brush soy sauce, chili flakes, garlic, and lime juice (if using) onto the sausages and vegetables.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until the sausages are cooked through and the vegetables are tender.",
+    "Serve hot, garnished with cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "grilled",
+    "skewers",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grilled-malaysian-sausages-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:01:49.293Z"
+}
