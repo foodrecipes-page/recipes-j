@@ -12434,17 +12434,15 @@
   },
   {
     "slug": "juicy-grilled-british-salmon-wrap",
-    "title": "Juicy Grilled British Salmon Wrap",
+    "title": "Grilled Salmon Wrap",
     "tags": [
       "grilled",
       "salmon",
-      "british",
       "wrap",
-      "kid-friendly",
-      "pescatarian"
+      "fish"
     ],
     "cuisine": "British",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
@@ -17601,18 +17599,16 @@
   },
   {
     "slug": "juicy-zesty-australian-eggplant-wrap",
-    "title": "Juicy Zesty Australian Eggplant Wrap",
+    "title": "Australian Eggplant Wrap",
     "tags": [
-      "banana-leaf",
-      "eggplant",
-      "flexitarian",
-      "low-carb",
-      "quick",
-      "wrap",
-      "zesty"
+      "australian",
+      "vegetarian",
+      "easy",
+      "lunch",
+      "eggplant"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
