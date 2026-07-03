@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-crunchy-chinese-turkey-ham-steamed-bao",
+  "title": "Steamed Bao with Turkey and Ham",
+  "description": "A delicious and easy-to-make steamed bao filled with juicy turkey and ham. Perfect for a quick snack or light meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao buns",
+      "amount": "4-6",
+      "notes": "You can find these in most Asian grocery stores or online."
+    },
+    {
+      "name": "Sliced turkey breast",
+      "amount": "1/2 pound",
+      "notes": "Cooked and sliced."
+    },
+    {
+      "name": "Sliced ham",
+      "amount": "1/4 pound",
+      "notes": "Cooked and sliced."
+    },
+    {
+      "name": "Steamed vegetables",
+      "amount": "1 cup",
+      "notes": "Your choice of crunchy veggies, such as carrots and bell peppers."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped and used as garnish."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together soy sauce and sesame oil. Set aside.",
+    "Cut the bao buns in half and place on a baking sheet.",
+    "Steam the bao buns for 5-7 minutes, or according to package instructions.",
+    "In a separate pan, heat the sliced turkey and ham over medium heat until warmed through.",
+    "Add the steamed vegetables to the pan and stir to combine.",
+    "Spoon the turkey and vegetable mixture onto the steamed bao buns.",
+    "Drizzle the soy sauce mixture over the top and sprinkle with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "steamed",
+    "turkey",
+    "ham",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-chinese-turkey-ham-steamed-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:11:50.185Z"
+}
