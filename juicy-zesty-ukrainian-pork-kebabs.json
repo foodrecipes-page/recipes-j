@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-zesty-ukrainian-pork-kebabs",
+  "title": "Pork Kebabs with Ukrainian Flair",
+  "description": "A twist on traditional pork kebabs, this recipe incorporates Ukrainian flavors and spices for a unique twist. Perfect for a summer evening or outdoor gathering.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "juicy red bell pepper, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "zesty yellow onion, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian-style flat-leaf parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, black pepper, and garlic.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the pork and vegetables onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the pork is cooked through.",
+    "Serve the kebabs hot, garnished with chopped parsley.",
+    "Serve with a side of Ukrainian-style bread for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pork",
+    "kebabs",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-zesty-ukrainian-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:47:48.929Z"
+}
