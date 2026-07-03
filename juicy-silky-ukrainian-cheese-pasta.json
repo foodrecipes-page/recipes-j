@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-silky-ukrainian-cheese-pasta",
+  "title": "Ukrainian Pasta Bake",
+  "description": "A hearty, cheesy pasta bake inspired by Ukrainian cuisine. Perfect for a comforting dinner.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or other short pasta shape"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, diced"
+    },
+    {
+      "name": "silky sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "ukrainian cheese",
+      "amount": "1 cup",
+      "notes": "or substitute with feta or ricotta"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a pan, heat olive oil over medium heat. Add diced onion and cook until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced tomatoes and cook for 5 minutes.",
+    "Stir in sour cream (if using).",
+    "In a large bowl, combine cooked pasta, tomato mixture, and Ukrainian cheese.",
+    "Season with salt and pepper to taste.",
+    "Transfer pasta mixture to a baking dish and top with additional Ukrainian cheese.",
+    "Bake in preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pasta",
+    "cheesy",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-ukrainian-cheese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:18:38.522Z"
+}
