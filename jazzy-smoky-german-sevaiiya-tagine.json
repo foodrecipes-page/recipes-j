@@ -1,0 +1,82 @@
+{
+  "slug": "jazzy-smoky-german-sevaiiya-tagine",
+  "title": "Jazzy Smoky German Stew",
+  "description": "A hearty stew made with smoky flavors and a hint of jazzy spices, inspired by German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "Choose a vegetarian option if preferred"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "Jazzy addition"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Jazzy mustard",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sevaiiya",
+      "amount": "1 cup",
+      "notes": "Uncooked, rinsed, and drained"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add sausage and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add onions and garlic and cook until the onions are softened, about 5 minutes.",
+    "Add paprika and stir to combine.",
+    "Add carrots and potatoes and cook, stirring occasionally, for 5 minutes.",
+    "Add broth, mustard (if using), and Sevaiiya. Bring to a boil, then cover and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-smoky-german-sevaiiya-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:48:58.324Z"
+}
