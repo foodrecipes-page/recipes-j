@@ -6794,17 +6794,16 @@
   },
   {
     "slug": "jovial-dutch-fish-gyoza",
-    "title": "Jovial Dutch Fish Gyoza",
+    "title": "Pan-Seared Gyoza with Jovial Dutch Sauce",
     "tags": [
-      "dutch",
-      "fish",
+      "japanese",
       "gyoza",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "pan-seared",
+      "sauce",
+      "dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15317,18 +15316,15 @@
   },
   {
     "slug": "juicy-slovakian-tofu-dumplings",
-    "title": "Juicy Slovakian Tofu Dumplings",
+    "title": "Slovakian Tofu Dumplings",
     "tags": [
-      "coconut-cream",
-      "jain-friendly",
-      "lemon",
-      "post-workout",
       "slovakian",
-      "steamed",
       "tofu",
-      "vegetarian"
+      "dumplings",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 35,
     "shard": "j"
   },
