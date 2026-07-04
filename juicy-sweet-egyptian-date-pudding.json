@@ -1,0 +1,69 @@
+{
+  "slug": "juicy-sweet-egyptian-date-pudding",
+  "title": "Egyptian Date Pudding",
+  "description": "A rich and creamy dessert made with sweet Egyptian dates and a hint of honey, perfect for warm evenings.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Egyptian dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "juicy sweet pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 package (4-serving size)"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine dates, pineapple, and honey. Cook over medium heat, stirring frequently.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the dates are soft and the liquid has thickened.",
+    "Stir in coconut milk and vanilla extract. Continue to cook for an additional 2-3 minutes.",
+    "Remove from heat and let cool slightly.",
+    "In a separate bowl, mix together pudding mix and 1 cup of cold water. Stir until well combined.",
+    "Pour the pudding mixture into individual serving cups or a large serving dish.",
+    "Pour the date mixture over the top of the pudding.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "dates",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-egyptian-date-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:04:15.685Z"
+}
