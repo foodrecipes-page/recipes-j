@@ -118,19 +118,14 @@
   },
   {
     "slug": "jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
-    "title": "Jaded Juice Cooled Middle-Eastern Rhubarb Fattoush",
+    "title": "Eastern-Inspired Rhubarb Salad",
     "tags": [
-      "cooling-salad",
-      "diabetic-friendly",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "salad",
+      "rhubarb",
+      "eastern"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -8528,16 +8523,13 @@
   },
   {
     "slug": "jubilant-polish-basil-tagine",
-    "title": "Jubilant Polish Basil Tagine",
+    "title": "Basil and Polish Sausage Tagine",
     "tags": [
-      "low-carb",
-      "midnight-craving",
-      "pan-fry",
-      "tagine-style",
-      "thai-flavors",
-      "umami"
+      "polish-sausage",
+      "moroccan-cuisine",
+      "stew"
     ],
-    "cuisine": "Polish",
+    "cuisine": "Moroccan",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -16451,16 +16443,14 @@
   },
   {
     "slug": "juicy-sweet-uruguayan-cheese-empanadas",
-    "title": "Uruguayan Cheese Empanadas",
+    "title": "Uruguayan Empanada Casserole",
     "tags": [
-      "baked-goods",
-      "cheese-filled",
-      "easy-to-make",
-      "kid-friendly",
-      "snack-time",
-      "south-american"
+      "casserole",
+      "empanada",
+      "uruguayan",
+      "cheese"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "uruguayan",
     "totalTimeMin": 30,
     "shard": "j"
   },
