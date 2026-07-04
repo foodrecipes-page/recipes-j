@@ -1,0 +1,67 @@
+{
+  "slug": "juicy-venezuelan-serrano-ham-wraps",
+  "title": "Venezuelan Serrano Ham Wraps",
+  "description": "A quick and delicious snack or meal option, featuring the flavors of Venezuela and savory serrano ham.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "4 ounces, thinly sliced"
+    },
+    {
+      "name": "Serrano Ham",
+      "amount": "2 ounces, thinly sliced"
+    },
+    {
+      "name": "Juicy Wraps",
+      "amount": "4 large wraps"
+    },
+    {
+      "name": "Venezuelan Salsa",
+      "amount": "1/2 cup, store-bought or homemade"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "1. Lay a wrap flat on a clean surface.",
+    "2. Arrange 2 ounces of thinly sliced ham and 1 ounce of thinly sliced serrano ham on the center of the wrap.",
+    "3. Drizzle 2 tablespoons of Venezuelan salsa over the ham.",
+    "4. Sprinkle chopped cilantro over the top.",
+    "5. Fold the bottom edge of the wrap up over the filling.",
+    "6. Fold in the sides and roll the wrap into a tight cylinder.",
+    "7. Serve immediately, with a lime wedge on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "snack",
+    "meat-lovers",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-venezuelan-serrano-ham-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:55:17.418Z"
+}
