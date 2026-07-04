@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-buttery-indian-chickpeas-chana-masala",
+  "title": "Chickpea Chana Masala",
+  "description": "A flavorful and aromatic North Indian dish made with chickpeas in a rich and creamy tomato-based sauce, seasoned with a blend of warming spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chana masala spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add onions and cook until they are lightly browned.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add chickpeas and cook for 2-3 minutes.",
+    "Add tomato puree and cook for 5-7 minutes.",
+    "Add chana masala spice blend and garam masala and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chickpeas",
+    "chana-masala",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-indian-chickpeas-chana-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:25:31.348Z"
+}
