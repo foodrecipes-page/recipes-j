@@ -1,0 +1,64 @@
+{
+  "slug": "juicy-acai-smoothie",
+  "title": "Delicious Acai Smoothie",
+  "description": "A refreshing and healthy acai smoothie made with juicy acai berries and your favorite fruits.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Juicy Acai Berries",
+      "amount": "1 cup",
+      "notes": "Frozen acai berries work well too."
+    },
+    {
+      "name": "Banana",
+      "amount": "1",
+      "notes": "Ripe banana for natural sweetness."
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "amount": "1/2 cup",
+      "notes": "Adjust to desired consistency."
+    },
+    {
+      "name": "Honey (optional)",
+      "amount": "1 tsp",
+      "notes": "For extra sweetness."
+    }
+  ],
+  "instructions": [
+    "Add acai berries, banana, and almond milk to a blender.",
+    "Blend the mixture until smooth.",
+    "Add honey if you want a sweeter smoothie.",
+    "Blend again until well combined.",
+    "Taste and adjust as needed.",
+    "Pour into a glass and serve immediately.",
+    "You can also add other fruits like berries or mango for extra flavor.",
+    "Experiment with different combinations to find your favorite."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "smoothie",
+    "healthy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-acai-smoothie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:03:19.792Z"
+}
