@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-quick-french-alsatian-bread-croissant",
+  "title": "Alsatian Croissant Sandwich",
+  "description": "A delicious sandwich made with flaky croissants and savory Alsatian sausage.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Alsation sausage",
+      "amount": "1 pound",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Croissant",
+      "amount": "4",
+      "notes": "Freshly baked"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": "White bread, for serving"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Gruyère or Emmental work well"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/4 cup",
+      "notes": "Raw"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Slice the cooked sausage and cook it in the pan until lightly browned.",
+    "Butter one side of each croissant.",
+    "Assemble the sandwiches by placing a few slices of sausage, a sprinkle of shredded cheese, a few pieces of chopped onion, and a sprig of thyme onto the unbuttered side of a croissant.",
+    "Place the other croissant on top, buttered side up.",
+    "Cook the sandwiches in the pan for 2-3 minutes on each side, or until golden brown.",
+    "Serve immediately, with additional bread on the side if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "breakfast",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-quick-french-alsatian-bread-croissant",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:19:47.245Z"
+}
