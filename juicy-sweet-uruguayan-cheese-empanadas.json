@@ -1,0 +1,64 @@
+{
+  "slug": "juicy-sweet-uruguayan-cheese-empanadas",
+  "title": "Uruguayan Empanada Casserole",
+  "description": "A twist on traditional empanadas, this casserole combines the flavors of Uruguay with the comfort of a warm, cheesy dish.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uruguayan empanadas",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "sweet onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop sweet onions and sauté until softened.",
+    "Add diced juicy tomatoes to the pan and cook for 2-3 minutes.",
+    "Arrange empanadas in a baking dish.",
+    "Spoon the onion and tomato mixture over the empanadas.",
+    "Sprinkle shredded cheese over the top.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "empanada",
+    "uruguayan",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-uruguayan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:32:07.506Z"
+}
