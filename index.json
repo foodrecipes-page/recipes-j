@@ -10083,17 +10083,16 @@
   },
   {
     "slug": "juicy-buttery-indian-chickpeas-chana-masala",
-    "title": "Juicy Buttery Indian Chickpeas Chana Masala",
+    "title": "Chickpea Chana Masala",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "indian-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "indian",
+      "chickpeas",
+      "chana-masala",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -12066,15 +12065,15 @@
   },
   {
     "slug": "juicy-garlic-turkish-stir-fry",
-    "title": "Juicy Garlic Turkish Stir-fry",
+    "title": "Turkish-Style Stir-Fried Chicken",
     "tags": [
-      "juicy",
-      "bitter",
-      "hangover-cure",
-      "turkish"
+      "turkish",
+      "stir-fry",
+      "chicken",
+      "vegetables"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
