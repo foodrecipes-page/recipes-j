@@ -1,0 +1,68 @@
+{
+  "slug": "jammy-midnight-norwegian-rice-fried-rice",
+  "title": "Norwegian Midnight Rice Bowl",
+  "description": "A simple and flavorful rice bowl dish with midnight rice and a hint of Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian midnight rice",
+      "amount": "1 cup",
+      "notes": "preferably cold"
+    },
+    {
+      "name": "Jammy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add fried rice and stir-fry for 2-3 minutes.",
+    "Add chopped scallions and stir-fry for another minute.",
+    "Spoon the fried rice mixture onto a plate.",
+    "Top with a scoop of Norwegian midnight rice.",
+    "Drizzle with jammy sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "midnight",
+    "rice",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-midnight-norwegian-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:37:18.763Z"
+}
