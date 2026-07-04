@@ -1,0 +1,62 @@
+{
+  "slug": "juicy-pickled-saudia-tomato-salad",
+  "title": "Saudi-Style Tomato Salad",
+  "description": "A refreshing salad made with juicy tomatoes, pickled onions, and a hint of Middle Eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2",
+      "notes": "large and ripe"
+    },
+    {
+      "name": "Pickled Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Saudi Spice Blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salad Greens",
+      "amount": "4 cups",
+      "notes": "mixed"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped salad greens.",
+    "2. Cut the juicy tomatoes into wedges and add them to the bowl.",
+    "3. Sprinkle the pickled onions over the top.",
+    "4. In a small bowl, mix together the Saudi Spice Blend and a squeeze of lemon juice.",
+    "5. Pour the spice mixture over the salad and toss to combine.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "salad",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pickled-saudia-tomato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:19:57.332Z"
+}
