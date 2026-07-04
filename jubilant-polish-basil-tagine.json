@@ -1,0 +1,94 @@
+{
+  "slug": "jubilant-polish-basil-tagine",
+  "title": "Basil and Polish Sausage Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired stew from Eastern Europe, made with Polish sausage and fresh basil.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "500g",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Basil",
+      "amount": "handful",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add Polish sausage and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add cumin, coriander, paprika, and tagine spice mix; cook for 1 minute.",
+    "Add chopped basil, chicken broth, and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the sausage is cooked through and the sauce has thickened, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-sausage",
+    "moroccan-cuisine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-polish-basil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:13:08.093Z"
+}
