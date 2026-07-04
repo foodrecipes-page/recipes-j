@@ -15515,17 +15515,14 @@
   },
   {
     "slug": "juicy-smoky-dutch-lamb-stew",
-    "title": "Juicy Smoky Dutch Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "hearty-stews",
-      "lamb-recipes",
-      "low-carb",
-      "one-pot"
+      "lamb",
+      "stew",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 210,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
