@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-slovakian-tofu-dumplings",
+  "title": "Slovakian Tofu Dumplings",
+  "description": "A hearty and comforting dish combining the flavors of Slovakia with the versatility of tofu.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed"
+    },
+    {
+      "name": "Dumplings (Slovakian)",
+      "amount": "1 package (12-16 count)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Juicy Dumpling Filling",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook dumplings according to package instructions.",
+    "In a large pan, heat 1 tbsp of vegetable oil over medium heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add the juicy dumpling filling and cook until heated through.",
+    "Add cooked dumplings to the pan and toss with the filling mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "tofu",
+    "dumplings",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-slovakian-tofu-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:47:19.615Z"
+}
