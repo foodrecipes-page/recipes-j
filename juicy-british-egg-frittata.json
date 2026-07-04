@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-british-egg-frittata",
+  "title": "British Frittata",
+  "description": "A classic British breakfast dish, this frittata is perfect for a quick and satisfying meal.",
+  "cuisine": "British",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "6 eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "1 cup diced ham",
+      "amount": "",
+      "notes": "British-style"
+    },
+    {
+      "name": "1 cup diced bell peppers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup diced onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup diced mushrooms",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add diced onion, mushrooms, and bell peppers; cook until the vegetables are tender.",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add diced ham to the egg mixture and stir to combine.",
+    "Pour the egg mixture over the cooked vegetables in the skillet.",
+    "Cook until the eggs start to set, about 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Use a spatula to loosen the frittata from the skillet and slide it onto a plate.",
+    "Serve warm, sliced into wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "meat",
+    "vegetarian",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:29:38.536Z"
+}
