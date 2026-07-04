@@ -7829,17 +7829,14 @@
   },
   {
     "slug": "jubilant-dutch-flour-pancakes",
-    "title": "Jubilant Dutch Flour Pancakes",
+    "title": "Dutch Jubilant Pancakes",
     "tags": [
       "breakfast",
-      "buttery",
-      "dolsot",
-      "dutch",
-      "fluffy",
-      "sichuan-pepper"
+      "pancakes",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -14458,17 +14455,14 @@
   },
   {
     "slug": "juicy-quick-french-alsatian-bread-croissant",
-    "title": "Juicy Quick French (Alsatian) Bread Croissant",
+    "title": "Alsatian Croissant Sandwich",
     "tags": [
+      "french",
       "breakfast",
-      "easy",
-      "kid-friendly",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "sandwich"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
