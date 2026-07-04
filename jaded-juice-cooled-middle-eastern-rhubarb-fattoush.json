@@ -1,0 +1,64 @@
+{
+  "slug": "jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
+  "title": "Eastern-Inspired Rhubarb Salad",
+  "description": "A refreshing salad featuring the sweet and tart flavors of rhubarb, commonly found in Eastern cuisine. This salad is perfect for a light and healthy meal.",
+  "cuisine": "Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 bunch",
+      "notes": "Fresh and sliced"
+    },
+    {
+      "name": "Fattoush",
+      "amount": "2 cups",
+      "notes": "Chopped and toasted"
+    },
+    {
+      "name": "Juice",
+      "amount": "2 tablespoons",
+      "notes": "Orange or lemon"
+    },
+    {
+      "name": "Jaded Lettuce",
+      "amount": "2 cups",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Eastern Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "Ground cardamom, cinnamon, and cumin"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped jaded lettuce and sliced rhubarb.",
+    "In a small bowl, whisk together the juice and Eastern spice blend.",
+    "Pour the dressing over the lettuce and rhubarb mixture, and toss to coat.",
+    "Add the fattoush to the bowl and toss gently to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "rhubarb",
+    "eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaded-juice-cooled-middle-eastern-rhubarb-fattoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:38:36.594Z"
+}
