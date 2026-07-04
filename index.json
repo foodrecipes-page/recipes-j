@@ -2282,18 +2282,15 @@
   },
   {
     "slug": "jammy-midnight-norwegian-rice-fried-rice",
-    "title": "Jammy Midnight Norwegian Rice Fried-Rice",
+    "title": "Norwegian Midnight Rice Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "norwegian",
-      "one-pan",
-      "spicy",
-      "vegan",
-      "weeknight"
+      "midnight",
+      "rice",
+      "vegan"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -11725,16 +11722,14 @@
   },
   {
     "slug": "juicy-flaky-crispy-mediterranean-penne-pasta-pasta",
-    "title": "Juicy Flaky Crispy Mediterranean Penne Pasta",
+    "title": "Classic Mediterranean Pasta",
     "tags": [
-      "comfort-food",
-      "mediterranean",
-      "one-pan",
+      "pasta",
       "vegetarian",
-      "weeknight"
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -17797,17 +17792,16 @@
   },
   {
     "slug": "just-silky-uruguayan-gouda-cheese-frittata",
-    "title": "Silky Uruguayan Gouda Cheese Frittata",
+    "title": "Uruguayan Frittata",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "one-pan",
-      "uruguayan-cuisine",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "snack",
+      "eggs",
+      "cheese",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
