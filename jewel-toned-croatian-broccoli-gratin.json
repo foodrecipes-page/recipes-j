@@ -1,0 +1,71 @@
+{
+  "slug": "jewel-toned-croatian-broccoli-gratin",
+  "title": "Pan-Seared Jewel Toned Trout with Broccoli Gratin",
+  "description": "A simple and flavorful dish featuring pan-seared trout and a creamy broccoli gratin. Perfect for a weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 trout fillets (jewel toned)",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "1 head broccoli",
+      "amount": "",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "2 cups grated croatian cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp unsalted butter",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season trout fillets with salt and pepper.",
+    "Heat 1 tbsp butter in a skillet over medium-high heat. Add trout fillets and cook for 2-3 minutes on each side.",
+    "Transfer trout to a baking dish and bake for 8-10 minutes or until cooked through.",
+    "In the same skillet, add remaining 1 tbsp butter. Add broccoli florets and cook until tender, about 3-4 minutes.",
+    "In a separate saucepan, combine grated cheese and heavy cream. Heat over low heat, stirring until smooth.",
+    "Pour cheese sauce over cooked broccoli and transfer to the oven.",
+    "Bake broccoli gratin for an additional 5-7 minutes or until golden brown and bubbly.",
+    "Serve trout with broccoli gratin spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "trout",
+    "broccoli",
+    "gratin",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-croatian-broccoli-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:15:21.942Z"
+}
