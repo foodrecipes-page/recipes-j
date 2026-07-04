@@ -5335,17 +5335,16 @@
   },
   {
     "slug": "jewel-toned-croatian-broccoli-gratin",
-    "title": "Jewel Toned Croatian Broccoli Gratin",
+    "title": "Pan-Seared Jewel Toned Trout with Broccoli Gratin",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "garlicky",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight-meal"
+      "trout",
+      "broccoli",
+      "gratin",
+      "fish",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -8288,17 +8287,15 @@
   },
   {
     "slug": "jubilant-light-french-coconut-macaron",
-    "title": "Jubilant Light French Coconut Macaron",
+    "title": "Coconut Macaroon Jubilation",
     "tags": [
-      "anti-inflammatory",
-      "coconut-cream",
-      "french-pastry",
-      "gluten-free",
-      "post-workout",
-      "vegetarian"
+      "coconut",
+      "macaroon",
+      "french",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -17304,14 +17301,15 @@
   },
   {
     "slug": "juicy-venezuelan-serrano-ham-wraps",
-    "title": "Juicy Venezuelan Serrano Ham Wraps",
+    "title": "Venezuelan Serrano Ham Wraps",
     "tags": [
-      "serrano-ham",
-      "air-fried-wrap",
-      "umami"
+      "latin-american",
+      "snack",
+      "meat-lovers",
+      "easy-to-make"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 13,
+    "cuisine": "Latin American",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
