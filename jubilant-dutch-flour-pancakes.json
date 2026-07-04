@@ -1,0 +1,73 @@
+{
+  "slug": "jubilant-dutch-flour-pancakes",
+  "title": "Dutch Jubilant Pancakes",
+  "description": "Delicious and fluffy Dutch-style pancakes made with jubilant and flour ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dutch flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and sugar.",
+    "In a separate bowl, whisk together jubilant, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Add butter to the pan and let it melt.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes or until golden brown.",
+    "Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-dutch-flour-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:31:54.656Z"
+}
