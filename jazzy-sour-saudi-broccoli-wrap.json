@@ -1,0 +1,62 @@
+{
+  "slug": "jazzy-sour-saudi-broccoli-wrap",
+  "title": "Saudi-Style Jazzy Broccoli Wrap",
+  "description": "A flavorful and healthy wrap filled with sautéed broccoli, jazzy spice, and sour sauce, inspired by Saudi cuisine.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 tsp",
+      "notes": "dry spice mix"
+    },
+    {
+      "name": "sour sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6 wraps",
+      "notes": "large flour tortillas"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tbsp of oil and sauté the broccoli until tender, about 3-4 minutes.",
+    "Add the jazzy spice and stir to combine.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading sour sauce on the bottom half, followed by a portion of the broccoli mixture.",
+    "Fold the bottom half up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "saudi-cuisine",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-sour-saudi-broccoli-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:07:08.931Z"
+}
