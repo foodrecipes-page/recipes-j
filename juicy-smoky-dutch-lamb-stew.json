@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-smoky-dutch-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty stew made with tender lamb and rich flavors.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds lamb shoulder, cut into 1 1/2-inch cubes",
+      "amount": "",
+      "notes": "Choose a lamb shoulder with good marbling for tender results"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Use a neutral oil with a high smoke point"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": "Choose a sweet onion like Vidalia or Maui"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "2 carrots, peeled and chopped",
+      "amount": "",
+      "notes": "Choose firm, bright carrots"
+    },
+    {
+      "name": "2 potatoes, peeled and chopped",
+      "amount": "",
+      "notes": "Choose high-starch potatoes like Russet or Idaho"
+    },
+    {
+      "name": "1 cup lamb broth",
+      "amount": "",
+      "notes": "Use a store-bought or homemade broth"
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": "Use fresh thyme for the best flavor"
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "",
+      "notes": "Choose a fresh bay leaf for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the broth, thyme, and bay leaf to the pot.",
+    "Return the lamb to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Remove the bay leaf and serve the stew hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-dutch-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:26:42.761Z"
+}
