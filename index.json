@@ -9450,18 +9450,17 @@
   },
   {
     "slug": "juicy-andalusian-millet-bake",
-    "title": "juicy Andalusian Millet Bake",
+    "title": "Millet and Andalusian Chicken Bake",
     "tags": [
-      "dairy-free",
-      "hangover-cure",
+      "chicken",
+      "millet",
+      "bake",
       "mediterranean",
-      "one-pan",
-      "spanish",
-      "weeknight",
-      "winey"
+      "gluten-free",
+      "meat"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 75,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -14336,17 +14335,15 @@
   },
   {
     "slug": "juicy-portuguese-shrimp-skewers",
-    "title": "Juicy Portuguese Shrimp Skewers",
+    "title": "Grilled Shrimp Skewers with Portuguese Seasoning",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "gluten-free",
-      "grilled",
-      "portuguese",
-      "seafood"
+      "summer-dinner",
+      "grilled-shrimp",
+      "portuguese-cuisine",
+      "easy-recipe"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -15841,18 +15838,15 @@
   },
   {
     "slug": "juicy-sour-uruguayan-dough-empanadas",
-    "title": "Uruguayan Yuzu Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "beef",
-      "breakfast",
-      "empanadas",
-      "pastry",
       "uruguayan",
-      "weeknight",
-      "yuzu"
+      "beef",
+      "empanadas",
+      "latin-american"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 78,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -16296,13 +16290,13 @@
   },
   {
     "slug": "juicy-sweet-korean-cranberry-songpyeon",
-    "title": "Juicy Sweet Korean Cranberry Songpyeon",
+    "title": "Cranberry Songpyeon",
     "tags": [
-      "ayurvedic-friendly",
-      "deep-fried",
-      "korean-snack",
-      "lazy-sunday",
-      "sweet-treat"
+      "korean",
+      "songpyeon",
+      "cranberry",
+      "sweet",
+      "tangy"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 30,
