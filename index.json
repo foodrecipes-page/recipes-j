@@ -4374,18 +4374,15 @@
   },
   {
     "slug": "jazzy-sour-saudi-broccoli-wrap",
-    "title": "Jazzy Sour Saudi Broccoli Wrap",
+    "title": "Saudi-Style Jazzy Broccoli Wrap",
     "tags": [
       "healthy",
-      "low-sodium",
-      "middle-east",
-      "quick",
-      "sour",
+      "saudi-cuisine",
       "vegetarian",
       "wrap"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "saudi",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -9363,17 +9360,16 @@
   },
   {
     "slug": "juicy-american-bean-sprouts-casserole",
-    "title": "Juicy American Bean Sprouts Casserole",
+    "title": "American-Style Bean Casserole",
     "tags": [
       "american",
-      "bean-sprouts",
       "casserole",
-      "low-fat",
-      "meal-prep",
-      "wine-infused"
+      "beef",
+      "cheese",
+      "kidney-beans"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -12361,17 +12357,17 @@
   },
   {
     "slug": "juicy-greek-tofu-gyro",
-    "title": "Juicy Greek Tofu Gyro",
+    "title": "Greek Tofu Gyro",
     "tags": [
-      "fish-seasoning",
-      "greek-cuisine",
+      "greek",
+      "vegan",
+      "gluten-free",
+      "tofu",
       "gyro",
-      "lacto-vegetarian",
-      "pita-bread",
-      "tofu"
+      "street-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
