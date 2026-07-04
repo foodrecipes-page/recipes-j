@@ -9928,17 +9928,16 @@
   },
   {
     "slug": "juicy-british-egg-frittata",
-    "title": "Juicy British Egg Frittata",
+    "title": "British Frittata",
     "tags": [
       "breakfast",
       "british",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "meat",
+      "vegetarian",
+      "eggs"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -14230,15 +14229,15 @@
   },
   {
     "slug": "juicy-pickled-saudia-tomato-salad",
-    "title": "Juicy Pickled Saudia Tomato Salad",
+    "title": "Saudi-Style Tomato Salad",
     "tags": [
-      "saudia-tomato-salad",
-      "juicy-pickled-sauce",
-      "sous-vide-eggs",
-      "halal-friendly-dish"
+      "tomato",
+      "salad",
+      "middle-eastern",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 90,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
