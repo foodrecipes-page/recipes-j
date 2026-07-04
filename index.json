@@ -9232,14 +9232,14 @@
   },
   {
     "slug": "juicy-acai-smoothie",
-    "title": "Juicy Açaí Smoothie",
+    "title": "Delicious Acai Smoothie",
     "tags": [
-      "açaí",
+      "breakfast",
       "smoothie",
-      "vegan",
-      "gluten-free"
+      "healthy",
+      "vegan"
     ],
-    "cuisine": "Brazilian",
+    "cuisine": null,
     "totalTimeMin": 5,
     "shard": "j"
   },
@@ -9735,16 +9735,16 @@
   },
   {
     "slug": "juicy-bouncy-egyptian-chicken-kebabs",
-    "title": "Juicy Bouncy Egyptian Chicken Kebabs",
+    "title": "Egyptian Chicken Kebabs",
     "tags": [
-      "coconut-cream",
-      "egyptian-cuisine",
-      "grilled-chicken",
-      "high-protein",
-      "post-workout"
+      "chicken",
+      "kebabs",
+      "egyptian",
+      "grilled",
+      "easy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16242,16 +16242,15 @@
   },
   {
     "slug": "juicy-sweet-egyptian-date-pudding",
-    "title": "Juicy Sweet Egyptian Date Pudding",
+    "title": "Egyptian Date Pudding",
     "tags": [
-      "baked-pudding",
-      "comfort-food",
-      "date-based",
-      "egyptian-cuisine",
-      "midnight-cravings"
+      "dessert",
+      "pudding",
+      "dates",
+      "middle-eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
