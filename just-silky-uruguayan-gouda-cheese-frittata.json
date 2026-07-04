@@ -1,0 +1,64 @@
+{
+  "slug": "just-silky-uruguayan-gouda-cheese-frittata",
+  "title": "Uruguayan Frittata",
+  "description": "A traditional Uruguayan-inspired omelette with gouda cheese, perfect for a quick breakfast or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Silky eggs",
+      "amount": "6",
+      "notes": "Room temperature eggs"
+    },
+    {
+      "name": "Just cheese",
+      "amount": "1/2 cup, grated",
+      "notes": "Optional"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together eggs and a pinch of salt.",
+    "Add shredded gouda cheese and mix well.",
+    "Heat a 9-inch oven-safe skillet over medium heat.",
+    "Pour in egg mixture and cook until edges start to set, about 2-3 minutes.",
+    "Sprinkle crumbled Uruguayan cheese on top (if using).",
+    "Transfer skillet to the preheated oven and bake for 12-15 minutes, or until the eggs are almost set.",
+    "Remove from oven and sprinkle grated cheese on top (if using).",
+    "Let it rest for 1-2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "eggs",
+    "cheese",
+    "uruguayan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/just-silky-uruguayan-gouda-cheese-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:51:48.027Z"
+}
