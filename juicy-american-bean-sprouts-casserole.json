@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-american-bean-sprouts-casserole",
+  "title": "American-Style Bean Casserole",
+  "description": "A hearty, comforting casserole filled with beans and topped with a crunchy, cheesy crust. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Ground Beef",
+      "amount": "1 pound",
+      "notes": "Choose 80% lean or higher for best results"
+    },
+    {
+      "name": "Canned Kidney Beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Can be substituted with cheddar or mozzarella"
+    },
+    {
+      "name": "French Sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Casserole-Style Bread Crumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the ground beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the kidney beans, cheese, and sprouts to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix the bread crumbs and a pinch of salt and pepper.",
+    "Sprinkle the bread crumb mixture evenly over the top of the casserole.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the top is golden brown.",
+    "Let it rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "beef",
+    "cheese",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-american-bean-sprouts-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:18:21.350Z"
+}
