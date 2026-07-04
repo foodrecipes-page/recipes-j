@@ -1,0 +1,79 @@
+{
+  "slug": "jubilant-light-french-coconut-macaron",
+  "title": "Coconut Macaroon Jubilation",
+  "description": "A sweet and crispy coconut macaroon dessert infused with the joy of jubilant and light flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jubilant sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "light corn syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "macaron shells",
+      "amount": "1 dozen",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "french vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "In a medium bowl, sift together coconut flakes and jubilant sugar.",
+    "In a separate bowl, whisk together corn syrup, butter, and egg whites until smooth.",
+    "Add the vanilla extract and whisk until combined.",
+    "Pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Spoon the dough onto the macaron shells.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "macaroon",
+    "french",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-light-french-coconut-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:11:51.830Z"
+}
