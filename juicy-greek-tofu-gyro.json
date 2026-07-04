@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-greek-tofu-gyro",
+  "title": "Greek Tofu Gyro",
+  "description": "A plant-based twist on traditional Greek street food. Marinated tofu is grilled to perfection and wrapped in a warm pita with juicy tomatoes, crunchy cucumbers, and creamy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "2 tsp",
+      "notes": "dried oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Gyro pita",
+      "amount": "1",
+      "notes": "warm and toasted"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut tofu into 1-inch cubes and place in a shallow dish.",
+    "3. Drizzle with olive oil and sprinkle with Greek seasoning. Toss to coat.",
+    "4. Grill tofu for 3-4 minutes per side, or until golden brown.",
+    "5. Warm pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "6. Assemble gyro by spreading tzatziki sauce on the pita, followed by grilled tofu, juicy tomatoes, cucumber, red onion, and Kalamata olives.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegan",
+    "gluten-free",
+    "tofu",
+    "gyro",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-greek-tofu-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:36:45.022Z"
+}
