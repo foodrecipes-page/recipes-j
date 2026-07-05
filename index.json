@@ -6352,17 +6352,15 @@
   },
   {
     "slug": "jolly-bouncy-canadian-elderflower-grill",
-    "title": "Jolly Bouncy Canadian Elderflower Grill",
+    "title": "Grilled Canadian Delight",
     "tags": [
-      "bouncy",
-      "canadian",
+      "breakfast",
       "grill",
-      "herbal",
-      "kid-friendly",
-      "satvik"
+      "canadian",
+      "elderflower"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 18,
+    "cuisine": "North American",
+    "totalTimeMin": 13,
     "shard": "j"
   },
   {
