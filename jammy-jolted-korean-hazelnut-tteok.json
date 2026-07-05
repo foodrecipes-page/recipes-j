@@ -1,0 +1,62 @@
+{
+  "slug": "jammy-jolted-korean-hazelnut-tteok",
+  "title": "Korean Tteok Pancake with Hazelnut Jam",
+  "description": "A unique dessert recipe that combines Korean tteok with hazelnut jam, perfect for a sweet treat. The crunchy texture of the tteok pairs well with the sweet and nutty flavor of the hazelnut jam.",
+  "cuisine": "Korean",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tteok",
+      "amount": "1 cup",
+      "notes": "Korean-style rice cakes"
+    },
+    {
+      "name": "Hazelnut Jam",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought jam"
+    },
+    {
+      "name": "Jolted Milk",
+      "amount": "1 cup",
+      "notes": "For soaking the tteok"
+    },
+    {
+      "name": "Korean Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Optional, for added spice"
+    }
+  ],
+  "instructions": [
+    "Soak the tteok in jolted milk for at least 30 minutes.",
+    "Drain the tteok and cut it into small pieces.",
+    "Heat a non-stick pan over medium heat.",
+    "Add the tteok pieces to the pan and cook for 2-3 minutes on each side.",
+    "Serve the cooked tteok with hazelnut jam.",
+    "Optional: Sprinkle Korean red pepper flakes on top of the tteok for added spice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dessert",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-jolted-korean-hazelnut-tteok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:48:59.845Z"
+}
