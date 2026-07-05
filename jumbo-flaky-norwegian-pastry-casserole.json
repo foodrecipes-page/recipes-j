@@ -1,0 +1,69 @@
+{
+  "slug": "jumbo-flaky-norwegian-pastry-casserole",
+  "title": "Norwegian Flaky Pastry Casserole",
+  "description": "A Scandinavian-inspired pastry casserole made with flaky pastry and jumbo ingredients.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jumbo Pastry Sheets",
+      "amount": "2",
+      "notes": "thawed"
+    },
+    {
+      "name": "Flaky Norwegian Pastry Crust",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Casserole Mix",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Fruits",
+      "amount": "1 cup",
+      "notes": "blueberries, strawberries, raspberries"
+    },
+    {
+      "name": "Heavy Whipping Cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the jumbo pastry sheets to a thickness of 1/8 inch.",
+    "Place the pastry sheets in a 9x13 inch baking dish.",
+    "In a large bowl, mix the casserole mix and heavy whipping cream until well combined.",
+    "Pour the mixture over the pastry sheets.",
+    "Top with flaky norwegian pastry crust.",
+    "Bake for 35-40 minutes or until the pastry is golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm, topped with fresh fruits."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pastry",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-flaky-norwegian-pastry-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:02:13.269Z"
+}
