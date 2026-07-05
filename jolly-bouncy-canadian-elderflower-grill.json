@@ -1,0 +1,66 @@
+{
+  "slug": "jolly-bouncy-canadian-elderflower-grill",
+  "title": "Grilled Canadian Delight",
+  "description": "A sweet and savory dish made with Canadian bacon, elderflower syrup, and a hint of bouncy freshness.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices",
+      "notes": "thicker slices preferred"
+    },
+    {
+      "name": "Elderflower syrup",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Jolly good honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Bouncy fresh thyme",
+      "amount": "1 sprig",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season Canadian bacon with salt and pepper.",
+    "Grill Canadian bacon for 4-5 minutes per side, or until caramelized.",
+    "Meanwhile, mix elderflower syrup and honey (if using) in a small bowl.",
+    "Brush the syrup mixture on the grilled Canadian bacon during the last minute of cooking.",
+    "Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "grill",
+    "canadian",
+    "elderflower"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jolly-bouncy-canadian-elderflower-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:22:14.479Z"
+}
