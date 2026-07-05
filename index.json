@@ -3104,16 +3104,16 @@
   },
   {
     "slug": "jazzy-bouncy-korean-corn-tacos",
-    "title": "Jazzy Bouncy Korean Corn Tacos",
+    "title": "Korean-Style Taco Fiesta",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "korean-fusion",
-      "post-workout",
-      "vegetarian-snack"
+      "korean",
+      "tacos",
+      "fusion",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -5465,16 +5465,15 @@
   },
   {
     "slug": "jewel-toned-kenyan-lamb-stew",
-    "title": "Jewel Toned Kenyan Lamb Stew",
+    "title": "Kenyan Lamb Stew",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "lacto-vegetarian",
-      "one-pot",
-      "slow-cooked"
+      "lamb",
+      "stew",
+      "kenyan",
+      "hearty"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "cuisine": "kenyan",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
@@ -12296,17 +12295,15 @@
   },
   {
     "slug": "juicy-greek-red-onions-spanakopita",
-    "title": "Juicy Greek Red Onions Spanakopita",
+    "title": "Greek Spanakopita Stuffed Red Onions",
     "tags": [
-      "greek-food",
-      "one-pan",
-      "red-onions",
+      "greek",
       "spanakopita",
-      "stone-bowl",
+      "stuffed-onions",
       "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "cuisine": "greek",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -17338,15 +17335,16 @@
   },
   {
     "slug": "juicy-vindaye-molcajete",
-    "title": "Juicy Vindaye Molcajete",
+    "title": "Molcajete-Grilled Vindaye Chicken",
     "tags": [
-      "algerian",
-      "juicy",
-      "pescatarian-friendly",
-      "weeknight"
+      "grilled-chicken",
+      "vindaye",
+      "molcajete",
+      "caribbean",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
