@@ -1,0 +1,74 @@
+{
+  "slug": "jewel-toned-russian-plum-pilaf",
+  "title": "Pilaf with Russian Cured Meat and Caramelized Plums",
+  "description": "A hearty and flavorful pilaf dish featuring Russian cured meat and sweet caramelized plums.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Russian cured meat (such as salo or kielbasa)",
+      "amount": "6 oz",
+      "notes": "Diced"
+    },
+    {
+      "name": "Plums",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Jewel-toned onions",
+      "amount": "1 small",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Toned chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onions and cook until caramelized, about 5 minutes.",
+    "Add the diced plums and cook for an additional 2 minutes.",
+    "Add the diced Russian cured meat and cook until browned, about 3 minutes.",
+    "Add the pilaf rice to the skillet and stir to combine with the meat and vegetables.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russeancuredmeat",
+    "caramelizedplums",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-russian-plum-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:59:36.756Z"
+}
