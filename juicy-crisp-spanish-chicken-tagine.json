@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-crisp-spanish-chicken-tagine",
+  "title": "Spanish Chicken Tagine",
+  "description": "A flavorful and aromatic Spanish-inspired chicken dish made with juicy chicken, crisp vegetables, and a hint of tagine spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "juicy red bell pepper",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "crisp spanish onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the sliced onion and red bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the tagine spice mix to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a simmer.",
+    "Return the chicken to the pot and cook until the chicken is cooked through, about 10-12 minutes.",
+    "Serve the chicken and sauce over crusty bread.",
+    "Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "tagine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-spanish-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:35:38.020Z"
+}
