@@ -2533,15 +2533,14 @@
   },
   {
     "slug": "jammy-tender-brittany-bacon-boil",
-    "title": "Jammy Tender Brittany Bacon Boil",
+    "title": "Crispy Bacon and Jammy Eggs",
     "tags": [
       "breakfast",
-      "comfort-food",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "brunch",
+      "eggs",
+      "bacon"
     ],
-    "cuisine": "french",
+    "cuisine": "american",
     "totalTimeMin": 25,
     "shard": "j"
   },
@@ -8613,17 +8612,15 @@
   },
   {
     "slug": "jubilant-slovakian-cheese-pie",
-    "title": "Jubilant Slovakian Cheese Pie",
+    "title": "Slovakian Jubilant Cheese Pie",
     "tags": [
-      "cheesy",
-      "double-fry",
-      "macrobiotic-friendly",
-      "midnight-craving",
-      "puff-pastry",
-      "vegetarian"
+      "cheese",
+      "pie",
+      "slovakian",
+      "snack"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
