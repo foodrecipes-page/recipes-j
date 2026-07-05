@@ -1919,17 +1919,14 @@
   },
   {
     "slug": "jammy-crispy-venezuelan-scamorza-bake",
-    "title": "jammy crispy venezuelan scamorza bake",
+    "title": "Venezuelan-Style Baked Scamorza",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "quick-recovery",
+      "appetizer",
       "snack",
-      "weeknight"
+      "veggie-cheese"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
