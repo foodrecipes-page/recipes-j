@@ -1,0 +1,86 @@
+{
+  "slug": "jolly-light-egyptian-biscuit-tagine",
+  "title": "Egyptian Biscuit Tagine Chicken",
+  "description": "A flavorful and aromatic North African-inspired dish featuring chicken cooked in a rich tagine sauce with biscuits and served with a side of fluffy light rice.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "biscuit",
+      "amount": "2",
+      "notes": "crushed for added texture"
+    },
+    {
+      "name": "egyptian spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "light garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "light tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper, then sear in a hot skillet with 1 tablespoon of olive oil until browned on both sides.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil, then sauté the chopped onion and minced garlic until softened.",
+    "Add the crushed biscuit and cook for an additional 2 minutes.",
+    "Stir in the Egyptian spice blend, tomato paste, and chicken broth.",
+    "Bring the sauce to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Transfer the sauce to the baking dish with the chicken and cover with aluminum foil.",
+    "Bake in the preheated oven for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the chicken is cooked through.",
+    "Serve the chicken with the tagine sauce spooned over the top, accompanied by a side of fluffy light rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "tagine",
+    "biscuit",
+    "fluffy rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jolly-light-egyptian-biscuit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:49:09.618Z"
+}
