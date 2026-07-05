@@ -1,0 +1,68 @@
+{
+  "slug": "jazzy-bouncy-korean-corn-tacos",
+  "title": "Korean-Style Taco Fiesta",
+  "description": "A fusion twist on traditional tacos, with a spicy Korean kick. Enjoy this flavorful and easy-to-make recipe for a quick dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jazzy Jumbo Corn Tortillas",
+      "amount": "8-10 tortillas",
+      "notes": null
+    },
+    {
+      "name": "Bouncy Beef (or tofu for vegetarian)",
+      "amount": "1 lb",
+      "notes": "Cook at 160°F for 20 minutes to ensure food safety"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Taco Corn",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tacos",
+      "amount": null,
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the Bouncy Beef with a pinch of Korean Chili Flakes.",
+    "Grill or cook the beef for 5-7 minutes per side, or until it reaches a safe internal temperature of 160°F.",
+    "Warm the Jazzy Jumbo Corn Tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef onto a tortilla, followed by a sprinkle of Taco Corn and a dollop of your favorite taco toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "tacos",
+    "fusion",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-bouncy-korean-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:27:59.287Z"
+}
