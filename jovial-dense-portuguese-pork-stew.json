@@ -1,0 +1,86 @@
+{
+  "slug": "jovial-dense-portuguese-pork-stew",
+  "title": "Traditional Portuguese Pork Stew",
+  "description": "A hearty, flavorful stew from Portugal made with tender pork and vegetables, perfect for a chilly evening.",
+  "cuisine": "portuguese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork shoulder on all sides, then remove from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the potatoes and carrots, and cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the pork to the pot, cover, and transfer to the oven.",
+    "Braise the pork in the preheated oven at 300°F (150°C) for 2.5 hours, or until tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pork",
+    "stew",
+    "hearty",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-dense-portuguese-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:39:57.707Z"
+}
