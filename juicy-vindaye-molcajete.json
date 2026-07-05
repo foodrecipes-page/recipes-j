@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-vindaye-molcajete",
+  "title": "Molcajete-Grilled Vindaye Chicken",
+  "description": "A flavorful and spicy dish from the Caribbean, where the bold flavors of vindaye meet the rich taste of molcajete-grilled chicken.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1 pound total"
+    },
+    {
+      "name": "vindaye spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available in most Caribbean or Indian grocery stores"
+    },
+    {
+      "name": "molcajete",
+      "amount": "1",
+      "notes": "Mexican stone mortar and pestle"
+    },
+    {
+      "name": "juicy pineapple",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In the molcajete, grind the vindaye spice blend into a fine powder.",
+    "Add the ground vindaye spice blend to a small bowl and mix with lime juice, salt, and pepper.",
+    "Add the chicken breasts to the marinade and mix well to coat.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes.",
+    "Meanwhile, grill the pineapple slices for 2-3 minutes per side, or until caramelized.",
+    "Serve the grilled chicken with grilled pineapple, red onion, and cilantro.",
+    "Garnish with additional vindaye spice blend, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "vindaye",
+    "molcajete",
+    "caribbean",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-vindaye-molcajete",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:43:13.290Z"
+}
