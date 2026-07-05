@@ -1,0 +1,70 @@
+{
+  "slug": "jazzy-chiapan-wheat-huaraches",
+  "title": "Jazzy Chiapan Toast",
+  "description": "A twist on traditional toast, featuring crispy huaraches topped with spicy chiapan sauce and melted cheese.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jazzy",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chiapan sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Huaraches",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toast the huaraches for 5 minutes.",
+    "Spread chiapan sauce on top of the huaraches.",
+    "Place the wheat bread on top of the sauce.",
+    "Sprinkle mozzarella cheese over the bread.",
+    "Place the huaraches under the broiler for 2-3 minutes, until cheese is melted.",
+    "Garnish with cilantro and sour cream, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "toasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-chiapan-wheat-huaraches",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:00:55.003Z"
+}
