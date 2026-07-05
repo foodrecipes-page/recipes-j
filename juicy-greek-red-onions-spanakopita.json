@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-greek-red-onions-spanakopita",
+  "title": "Greek Spanakopita Stuffed Red Onions",
+  "description": "A flavorful twist on traditional spanakopita, filled with the sweetness of caramelized red onions and the savory taste of juicy spinach.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "4 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "spanakopita filling",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "juicy spinach",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Caramelize the red onions in olive oil over low heat for 20-25 minutes.",
+    "Preheat the oven to 375°F (190°C).",
+    "Unroll the spanakopita dough and cut it into 4 equal pieces.",
+    "Place a piece of dough into each red onion shell.",
+    "Spoon the caramelized onions and spinach mixture into the dough.",
+    "Top with feta cheese.",
+    "Fold the dough over the filling and press the edges together.",
+    "Place the onions seam-side down on a baking sheet.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "spanakopita",
+    "stuffed-onions",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-greek-red-onions-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:27:42.452Z"
+}
