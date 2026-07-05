@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-indulgent-british-chocolate-fish-and-chips",
+  "title": "British Fish & Chips",
+  "description": "A classic British dish featuring battered fish, crispy chips, and a side of malt vinegar.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": "Fresh cod fillets are best for this recipe."
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour for dusting."
+    },
+    {
+      "name": "Batter Mix",
+      "amount": "1 cup",
+      "notes": "Store bought or homemade mix."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": "For frying."
+    },
+    {
+      "name": "Chips (Fries)",
+      "amount": "1 bag",
+      "notes": "Thick-cut chips for this recipe."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "2 tbsp",
+      "notes": "For serving."
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep pan to 350°F (180°C).",
+    "Prepare the batter according to the package instructions.",
+    "Dust the cod fillets with flour.",
+    "Dip the floured cod in the batter, coating evenly.",
+    "Carefully place the battered cod in the hot oil.",
+    "Fry for 5-7 minutes or until golden brown and cooked through.",
+    "Remove the cod from the oil with a slotted spoon.",
+    "Increase the oil temperature to 375°F (190°C) for frying the chips.",
+    "Cut the chips into 1/2-inch thick sticks.",
+    "Fry the chips in batches until crispy and golden brown.",
+    "Drain the chips on paper towels.",
+    "Serve the battered fish with chips, malt vinegar, and a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "british",
+    "chips"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indulgent-british-chocolate-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:10:23.036Z"
+}
