@@ -6754,17 +6754,16 @@
   },
   {
     "slug": "jovial-dense-portuguese-pork-stew",
-    "title": "Jovial Dense Portuguese Pork Stew",
+    "title": "Traditional Portuguese Pork Stew",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "macrobiotic",
-      "one-pot",
-      "portuguese-cuisine",
-      "winter-dish"
+      "portuguese",
+      "pork",
+      "stew",
+      "hearty",
+      "comfort food"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "cuisine": "portuguese",
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
@@ -13819,16 +13818,15 @@
   },
   {
     "slug": "juicy-moroccan-couscous-grill",
-    "title": "Juicy Moroccan Couscous Grill",
+    "title": "Moroccan Chicken Grill",
     "tags": [
-      "halal",
-      "low-fat",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "moroccan",
+      "chicken",
+      "grill",
+      "couscous"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
