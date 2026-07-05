@@ -1,0 +1,76 @@
+{
+  "slug": "jeweled-smoky-egyptian-olive-skewers",
+  "title": "Smoky Jeweled Skewers",
+  "description": "A flavorful and colorful skewer recipe that combines smoky and jeweled flavors with a hint of ancient Egyptian spices. Perfect for outdoor gatherings or a quick weeknight meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoky Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Jeweled Eggplant",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Egyptian Spices",
+      "amount": "1 tsp",
+      "notes": "A blend of paprika, cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread the jeweled eggplant, egyptian spices, and garlic onto the skewers.",
+    "Brush the skewers with smoky olive oil.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with lemon juice during the last 2 minutes of grilling.",
+    "Garnish with fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-smoky-egyptian-olive-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:29:01.296Z"
+}
