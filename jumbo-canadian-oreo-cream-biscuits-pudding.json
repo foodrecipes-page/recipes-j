@@ -1,0 +1,59 @@
+{
+  "slug": "jumbo-canadian-oreo-cream-biscuits-pudding",
+  "title": "Canadian Cream Pudding Parfait",
+  "description": "A layered dessert made with Canadian cream, pudding, and biscuits. Perfect for a sweet treat.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Jumbo Biscuits",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Canadian Cream",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Oreo Biscuits",
+      "amount": "1 cup crushed"
+    },
+    {
+      "name": "Pudding",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Crush the Oreos and set aside.",
+    "Cut the jumbo biscuits into small squares.",
+    "In a separate bowl, mix the Canadian cream with the pudding until well combined.",
+    "In a glass or parfait dish, create a layer of biscuits, followed by a layer of the pudding mixture.",
+    "Repeat the layers two more times, ending with a layer of biscuits on top.",
+    "Sprinkle the crushed Oreos over the top layer of biscuits.",
+    "Refrigerate for at least 30 minutes before serving.",
+    "Slice into individual servings and serve chilled.",
+    "Enjoy your delicious Canadian cream pudding parfait!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "parfait",
+    "dessert",
+    "canadian-cream",
+    "pudding",
+    "biscuits"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-canadian-oreo-cream-biscuits-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:55:37.932Z"
+}
