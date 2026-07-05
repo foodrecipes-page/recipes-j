@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-peruvian-beans-talavera-plate-tacu-tacu",
+  "title": "Talavera Tacu Beans",
+  "description": "Hearty Peruvian dish made with juicy tacu, beans, and spices. Serve hot with a side of rice and plantains for a flavorful meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tacu",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the diced onion and minced garlic and cook until the onion is translucent.",
+    "Add the diced red pepper and cook for an additional 2 minutes.",
+    "Add the cooked beans, diced tacu, cumin, paprika, salt, and black pepper.",
+    "Stir to combine and cook for 5-7 minutes or until the tacu is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "tacu",
+    "beans",
+    "veggie",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-peruvian-beans-talavera-plate-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:53:37.272Z"
+}
