@@ -1,0 +1,73 @@
+{
+  "slug": "jubilant-slovakian-cheese-pie",
+  "title": "Slovakian Jubilant Cheese Pie",
+  "description": "A traditional Slovakian-inspired cheese pie with a jubilant twist, perfect for a snack or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian cheese",
+      "amount": "1 block (200g)"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup (100g)"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine Slovakian cheese, flour, milk, butter, jubilant, salt, and eggs. Mix well.",
+    "Roll out the pie crust and place it in a pie dish.",
+    "Pour the cheese mixture into the pie crust.",
+    "Bake for 35-40 minutes or until the crust is golden brown.",
+    "Let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "pie",
+    "slovakian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-slovakian-cheese-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:28:34.315Z"
+}
