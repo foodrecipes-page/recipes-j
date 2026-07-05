@@ -5903,18 +5903,14 @@
   },
   {
     "slug": "jeweled-smoky-egyptian-olive-skewers",
-    "title": "Jeweled Smoky Egyptian Olive Skewers",
+    "title": "Smoky Jeweled Skewers",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "olive-based",
-      "paleo-diet",
-      "quick-snack",
-      "smoky",
-      "whole30-friendly"
+      "vegetarian",
+      "grilled",
+      "summer"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -6137,17 +6133,14 @@
   },
   {
     "slug": "jewish-style-syrian-cabbage-stew",
-    "title": "Syrian Cabbage Stew",
+    "title": "Jewish Syrian Stew with Cabbage",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian"
+      "beef",
+      "cabbage",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Jewish, Syrian",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {
@@ -15104,17 +15097,14 @@
   },
   {
     "slug": "juicy-shattering-korean-chicken-korean-fried-chicken",
-    "title": "Juicy Shattering Korean Chicken",
+    "title": "Crispy Korean-Style Fried Chicken",
     "tags": [
-      "asian-cuisine",
-      "dinner-party",
+      "korean",
       "fried-chicken",
-      "korean-fried-chicken",
-      "shojin-friendly",
-      "spicy-food"
+      "chicken-recipe"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
