@@ -3223,17 +3223,14 @@
   },
   {
     "slug": "jazzy-chiapan-wheat-huaraches",
-    "title": "Jazzy Chiapan Wheat Huaraches",
+    "title": "Jazzy Chiapan Toast",
     "tags": [
-      "comfort-food",
-      "creamy",
       "mexican",
-      "night-craving",
-      "vegetarian",
-      "whole-wheat"
+      "snack",
+      "toasty"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -12751,18 +12748,14 @@
   },
   {
     "slug": "juicy-indulgent-british-chocolate-fish-and-chips",
-    "title": "Juicy Indulgent British Chocolate Fish And Chips",
+    "title": "British Fish & Chips",
     "tags": [
+      "fish",
       "british",
-      "chocolate",
-      "dessert",
-      "fish-and-chips",
-      "indulgent",
-      "unique",
-      "vegetarian"
+      "chips"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
