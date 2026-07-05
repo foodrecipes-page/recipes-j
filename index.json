@@ -2179,18 +2179,15 @@
   },
   {
     "slug": "jammy-jolted-korean-hazelnut-tteok",
-    "title": "Jammy Jolted Korean Hazelnut Tteok",
+    "title": "Korean Tteok Pancake with Hazelnut Jam",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "hazelnut",
-      "korean-food",
-      "snack",
-      "tteok",
-      "whole30"
+      "korean",
+      "dessert",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -6799,17 +6796,15 @@
   },
   {
     "slug": "jovial-flaky-italian-tomato-pasta",
-    "title": "Jovial Flaky Italian Tomato Pasta",
+    "title": "Jovial Italian Pasta",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "one-pan-meals",
-      "pasta-dishes",
-      "shojin-friendly",
-      "vegetarian-recipes"
+      "italian",
+      "pasta",
+      "tomato",
+      "vegetarian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -17590,16 +17585,16 @@
   },
   {
     "slug": "jumbo-canadian-oreo-cream-biscuits-pudding",
-    "title": "Jumbo Canadian Oreo Cream Biscuits Pudding",
+    "title": "Canadian Cream Pudding Parfait",
     "tags": [
-      "canadian",
-      "comfort-food",
+      "parfait",
       "dessert",
-      "low-fat",
-      "weeknight"
+      "canadian-cream",
+      "pudding",
+      "biscuits"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -17618,16 +17613,14 @@
   },
   {
     "slug": "jumbo-flaky-norwegian-pastry-casserole",
-    "title": "Jumbo Flaky Norwegian Pastry Casserole",
+    "title": "Norwegian Flaky Pastry Casserole",
     "tags": [
-      "comfort-food",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "pastry",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 70,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
