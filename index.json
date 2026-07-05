@@ -5612,16 +5612,14 @@
   },
   {
     "slug": "jewel-toned-russian-plum-pilaf",
-    "title": "Jewel Toned Russian Plum Pilaf",
+    "title": "Pilaf with Russian Cured Meat and Caramelized Plums",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "russian-cuisine",
-      "special-occasion",
-      "vegetarian-friendly"
+      "russeancuredmeat",
+      "caramelizedplums",
+      "pilaf"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -10652,16 +10650,15 @@
   },
   {
     "slug": "juicy-crisp-spanish-chicken-tagine",
-    "title": "Juicy Crisp Spanish Chicken Tagine",
+    "title": "Spanish Chicken Tagine",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "chicken",
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
