@@ -6492,16 +6492,16 @@
   },
   {
     "slug": "jolly-light-egyptian-biscuit-tagine",
-    "title": "Jolly Light Egyptian Biscuit Tagine",
+    "title": "Egyptian Biscuit Tagine Chicken",
     "tags": [
-      "comfort-food",
-      "north-african",
-      "one-pot",
+      "north african",
+      "chicken",
       "tagine",
-      "vegetarian"
+      "biscuit",
+      "fluffy rice"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -7335,15 +7335,14 @@
   },
   {
     "slug": "jubilant-basil-spanish-fettuccine-pa-amb-tomaquet",
-    "title": "Jubilant Basil Spanish Fettuccine Pa Amb Tomaquet",
+    "title": "Spanish Fettuccine with Tomaquet Sauce",
     "tags": [
-      "high-fiber",
-      "low-calorie",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "pasta",
+      "tomato",
+      "basil"
     ],
-    "cuisine": "spanish (basque)",
+    "cuisine": "Spanish",
     "totalTimeMin": 25,
     "shard": "j"
   },
