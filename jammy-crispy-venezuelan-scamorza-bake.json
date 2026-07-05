@@ -1,0 +1,62 @@
+{
+  "slug": "jammy-crispy-venezuelan-scamorza-bake",
+  "title": "Venezuelan-Style Baked Scamorza",
+  "description": "A twist on traditional Italian scamorza, this Venezuelan-inspired dish adds a sweet and spicy kick. The crispy exterior and creamy interior make for a delightful appetizer or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza",
+      "amount": "2",
+      "notes": "preferably buffalo milk"
+    },
+    {
+      "name": "jammy",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1",
+      "notes": "type of chili pepper"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "preheated oven"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the scamorza into thick rounds.",
+    "Place the scamorza slices on a baking sheet lined with parchment paper.",
+    "Drizzle with a little bit of oil and bake for 10 minutes.",
+    "Meanwhile, toast the venezuelan chili pepper in a pan until fragrant.",
+    "Remove the scamorza from the oven and top each slice with a toasted venezuelan chili pepper.",
+    "Return to the oven for an additional 2-3 minutes, until the cheese is melted and slightly charred.",
+    "Serve the scamorza hot with a side of jammy for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "veggie-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crispy-venezuelan-scamorza-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:35:37.828Z"
+}
