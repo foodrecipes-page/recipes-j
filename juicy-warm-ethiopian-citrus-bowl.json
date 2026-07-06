@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-warm-ethiopian-citrus-bowl",
+  "title": "Ethiopian-Style Chicken Stew",
+  "description": "A hearty and flavorful stew inspired by Ethiopian cuisine, featuring juicy chicken and a variety of spices.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "pescatarian",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": "for stew"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the berbere spice and cook for 1-2 minutes, stirring constantly.",
+    "Add the diced tomatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the warm water and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve over a bed of rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "stew",
+    "berbere",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-warm-ethiopian-citrus-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:38:20.542Z"
+}
