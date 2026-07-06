@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-thai-chicken-salad",
+  "title": "Thai Chicken Salad",
+  "description": "A refreshing Thai-inspired salad made with juicy chicken, crunchy vegetables, and spicy Thai dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "juicy red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "juicy cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "juicy tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Thai dressing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Chop the chicken breast into bite-sized pieces and season with salt and pepper.",
+    "2. Grill the chicken over medium-high heat until cooked through.",
+    "3. Chop the red bell pepper, cucumber, and tomato into small pieces.",
+    "4. In a large bowl, combine the chopped vegetables and cooked chicken.",
+    "5. Drizzle the Thai dressing over the top of the salad and toss to combine.",
+    "6. Serve the salad immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "salad",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-thai-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:42:21.573Z"
+}
