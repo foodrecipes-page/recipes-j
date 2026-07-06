@@ -1,0 +1,67 @@
+{
+  "slug": "jelly-like-kenyan-meat-skewers",
+  "title": "Kenyan Meat Skewers",
+  "description": "A classic Kenyan dish featuring marinated meat skewers grilled to perfection.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Meat (beef or lamb)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Like (Kenyan spice mix)",
+      "amount": "2 tablespoons",
+      "notes": "available in most Kenyan markets"
+    },
+    {
+      "name": "Jelly (for glaze)",
+      "amount": "1/4 cup",
+      "notes": "such as apricot or orange marmalade"
+    },
+    {
+      "name": "Meat skewers (bamboo or metal)",
+      "amount": "4-6",
+      "notes": " soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together like, meat cubes, and 1 tablespoon of vegetable oil.",
+    "3. Thread meat cubes onto skewers, leaving a small space between each cube.",
+    "4. Brush skewers with remaining 1 tablespoon of vegetable oil.",
+    "5. Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "6. Brush with jelly glaze during last 2 minutes of grilling.",
+    "7. Serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "meat",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-kenyan-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:08:07.965Z"
+}
