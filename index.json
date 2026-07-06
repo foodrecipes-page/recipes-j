@@ -3438,17 +3438,15 @@
   },
   {
     "slug": "jazzy-fluffy-kenyan-milk-pancakes",
-    "title": "Jazzy Fluffy Kenyan Milk Pancakes",
+    "title": "Kenyan Fluffy Pancakes",
     "tags": [
-      "breakfast-ideas",
-      "fluffy-pancakes",
-      "jain-recipes",
-      "kid-friendly",
-      "milk-based",
-      "vegetarian-options"
+      "breakfast",
+      "pancakes",
+      "kenyan",
+      "fluffy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -4838,15 +4836,12 @@
     "slug": "jelly-like-kenyan-meat-skewers",
     "title": "Kenyan Meat Skewers",
     "tags": [
-      "crowd-pleaser",
-      "easy-entertaining",
-      "grilled-meat",
-      "kenyan-cuisine",
-      "outdoor-cooking",
-      "summer-recipes"
+      "grill",
+      "meat",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "j"
   },
   {
@@ -9816,17 +9811,15 @@
   },
   {
     "slug": "juicy-briny-syrian-kiwifruit-tagine",
-    "title": "Juicy Briny Syrian Kiwifruit Tagine",
+    "title": "Syrian Kiwifruit Tagine",
     "tags": [
-      "ayurvedic-friendly",
-      "clay-pot-cooking",
-      "sattvic-diet",
-      "syrian-cuisine",
-      "unique-dinner-ideas",
-      "vegan-option"
+      "kiwifruit",
+      "syrian",
+      "dessert",
+      "tagine"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -10281,14 +10274,13 @@
   },
   {
     "slug": "juicy-charred-turkish-spring-onions-kunefe",
-    "title": "Juicy Charred Turkish Spring Onions Kunefe",
+    "title": "Turkish Spring Kunefe",
     "tags": [
-      "grilled-vegetables",
-      "middle-eastern",
-      "paleo-friendly",
-      "robata-grill",
-      "special-occasion",
-      "turkish-cuisine"
+      "turkish",
+      "spring",
+      "kunefe",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
@@ -13083,14 +13075,13 @@
   },
   {
     "slug": "juicy-korean-pork-dumplings",
-    "title": "Juicy Korean Pork Dumplings",
+    "title": "Korean Pork Dumplings",
     "tags": [
-      "asian-food",
+      "korean",
+      "pork",
       "dumplings",
-      "korean-cuisine",
-      "low-fat",
-      "tandoor-cooking",
-      "truffle-oil"
+      "asian",
+      "finger-food"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
