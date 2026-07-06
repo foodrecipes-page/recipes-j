@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-egyptian-mung-bean-sprouts-fritters",
+  "title": "Egyptian Mung Bean Fritters",
+  "description": "Crispy fritters filled with a flavorful mixture of mung beans, juicy sprouts, and spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung beans",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "juicy sprouts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine mung beans, sprouts, bean sprouts, and spices. Blend until well mixed.",
+    "In a large bowl, combine the blended mixture, flour, and water. Mix well.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop small amounts of the mixture into the pan and flatten slightly.",
+    "Cook for 3-4 minutes or until the fritters are golden brown and crispy.",
+    "Flip the fritters and cook for another 3-4 minutes.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "snack",
+    "egyptian",
+    "mung-bean"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-egyptian-mung-bean-sprouts-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:33:26.096Z"
+}
