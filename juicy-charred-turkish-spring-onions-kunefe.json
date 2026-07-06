@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-charred-turkish-spring-onions-kunefe",
+  "title": "Turkish Spring Kunefe",
+  "description": "A sweet and savory Turkish dessert inspired by the flavors of spring, featuring kunefe pastry and a charred spring onion topping.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kunefe Pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1 large, charred",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Juicy Onions",
+      "amount": "1 large, thinly sliced",
+      "notes": "for filling"
+    },
+    {
+      "name": "Turkish Cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Unroll the kunefe pastry and cut it into diamond shapes.",
+    "In a pan, caramelize the sliced juicy onions over medium heat.",
+    "Add the crumbled Turkish cheese and cook until melted.",
+    "Place a spoonful of the cheese mixture onto each diamond shape of pastry.",
+    "Roll up the pastry and place seam-side down in a baking dish.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Garnish with charred spring onions and chopped pistachios.",
+    "Drizzle with honey and rose water.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "spring",
+    "kunefe",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-charred-turkish-spring-onions-kunefe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:52:33.699Z"
+}
