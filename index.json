@@ -3030,16 +3030,13 @@
   },
   {
     "slug": "jazzy-algerian-ti-leaf-wrap",
-    "title": "Jazzy Algerian Ti-Leaf Wrap",
+    "title": "Jazzy Algerian Wraps",
     "tags": [
-      "algerian",
-      "breakfast",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "algerian",
+    "cuisine": "North African",
     "totalTimeMin": 15,
     "shard": "j"
   },
@@ -12511,16 +12508,16 @@
   },
   {
     "slug": "juicy-herbal-canadian-steak-kebabs",
-    "title": "Juicy Herbal Canadian Steak Kebabs",
+    "title": "Canadian Steak Kebabs",
     "tags": [
-      "canadian-cuisine",
+      "canadian",
+      "steak",
+      "kebabs",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "summer"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
