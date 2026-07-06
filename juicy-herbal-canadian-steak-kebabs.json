@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-herbal-canadian-steak-kebabs",
+  "title": "Canadian Steak Kebabs",
+  "description": "A flavorful and easy-to-make dish that combines the richness of steak with the freshness of herbal spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs Steak ( ribeye or strip loin )",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "1 cup Juicy Pineapple Rings",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp Herbal Spice Blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "8-10 Canadian Bacon Skewers",
+      "amount": "8-10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together olive oil, herbal spice blend, garlic, salt, and black pepper.",
+    "Thread steak, pineapple, and Canadian bacon onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with the olive oil mixture, making sure all the ingredients are coated.",
+    "Grill the kebabs for 8-10 minutes per side, or until the steak reaches an internal temperature of 135°F for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "steak",
+    "kebabs",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-herbal-canadian-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:30:27.847Z"
+}
