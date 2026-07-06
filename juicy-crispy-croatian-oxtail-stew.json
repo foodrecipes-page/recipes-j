@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-crispy-croatian-oxtail-stew",
+  "title": "Croatian Oxtail Stew",
+  "description": "A hearty and flavorful stew from Croatia, made with tender oxtail and a rich tomato-based broth.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add oxtail and brown on all sides, about 5 minutes.",
+    "Remove oxtail and set aside.",
+    "Add onions and garlic and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add beef broth, tomato paste, red wine, bay leaves, and thyme.",
+    "Return oxtail to the pot and bring to a boil.",
+    "Cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until oxtail is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-croatian-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:47:29.050Z"
+}
