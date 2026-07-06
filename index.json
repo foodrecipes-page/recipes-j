@@ -13656,14 +13656,14 @@
   },
   {
     "slug": "juicy-midnight-german-coconut-stir-fry",
-    "title": "Juicy Midnight German Coconut Stir-fry",
+    "title": "German Coconut Stir Fry",
     "tags": [
-      "juicy-midnight-german-coconut-stir-fry",
-      "floral-flavor",
-      "low-sodium-friendly"
+      "german",
+      "coconut",
+      "stirfry"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16707,18 +16707,14 @@
   },
   {
     "slug": "juicy-thai-chicken-salad",
-    "title": "Juicy Thai Chicken Salad",
+    "title": "Thai Chicken Salad",
     "tags": [
       "chicken",
-      "gluten-free",
-      "lunch",
-      "one-pan",
       "salad",
-      "thai",
-      "weeknight"
+      "thaicuisine"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
