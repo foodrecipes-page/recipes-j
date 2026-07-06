@@ -185,16 +185,14 @@
   },
   {
     "slug": "jagged-canadian-hazelnut-salad",
-    "title": "Jagged Canadian Hazelnut Salad",
+    "title": "Hazelnut Crusted Chicken Salad",
     "tags": [
-      "bento-box",
-      "canadian-cuisine",
-      "crunchy-salads",
-      "hazelnut-recipes",
-      "lunch-ideas",
-      "vegetarian-friendly"
+      "salad",
+      "chicken",
+      "hazelnut",
+      "healthy"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "north american",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -7643,10 +7641,12 @@
   },
   {
     "slug": "jubilant-croatian-fideo-noodles",
-    "title": "Jubilant Croatian Fideo Noodles",
+    "title": "Jubilant Croatian Fideo Noodle Bake",
     "tags": [
       "croatian",
-      "dinner"
+      "pasta-bake",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
@@ -10763,17 +10763,14 @@
   },
   {
     "slug": "juicy-crispy-croatian-oxtail-stew",
-    "title": "Juicy Crispy Croatian Oxtail Stew",
+    "title": "Croatian Oxtail Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "diabetic-friendly",
-      "low-carb",
-      "oxtail-recipes",
-      "special-occasion"
+      "croatian",
+      "stew",
+      "beef"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 200,
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
