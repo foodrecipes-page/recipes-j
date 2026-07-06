@@ -1,0 +1,90 @@
+{
+  "slug": "jovial-malaysian-noodle-dish",
+  "title": "Spicy Jovial Noodle Dish",
+  "description": "A flavorful and spicy noodle dish from Malaysia, perfect for a quick lunch or dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jovial noodles",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add chili peppers and cook for 1 minute.",
+    "Add noodles and stir to combine.",
+    "In a small bowl, whisk together soy sauce and honey.",
+    "Pour the soy sauce mixture over the noodles and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Cook noodles according to package instructions before using.",
+    "Adjust chili pepper amount to desired spiciness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "noodle-dish",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-malaysian-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:19:45.095Z"
+}
