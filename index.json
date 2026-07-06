@@ -9673,13 +9673,12 @@
   },
   {
     "slug": "juicy-bitter-thai-tomato-curry",
-    "title": "Juicy Bitter Thai Tomato Curry",
+    "title": "Thai Curry Soup",
     "tags": [
-      "thai",
-      "tomato-curry",
-      "low-sodium",
-      "vegetarian",
-      "quick"
+      "thaicurry",
+      "soup",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -11366,17 +11365,16 @@
   },
   {
     "slug": "juicy-egyptian-mung-bean-sprouts-fritters",
-    "title": "Juicy Egyptian Mung Bean Sprouts Fritters",
+    "title": "Egyptian Mung Bean Fritters",
     "tags": [
-      "deep-fry",
+      "vegan",
+      "vegetarian",
+      "snack",
       "egyptian",
-      "mung-bean",
-      "no-garlic",
-      "no-onion",
-      "ti-leaf-wrap"
+      "mung-bean"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -14043,19 +14041,16 @@
   },
   {
     "slug": "juicy-peppery-lime-leaves-stir-fry",
-    "title": "Juicy Peppery Lime Leaves Stir-fry",
+    "title": "Stir-Fried Peppery Greens",
     "tags": [
-      "peppery",
-      "juicy",
-      "adventurous",
-      "syrian",
-      "caramelized",
-      "limes",
       "stir-fry",
-      "low-sodium"
+      "greens",
+      "lime",
+      "peppery",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
