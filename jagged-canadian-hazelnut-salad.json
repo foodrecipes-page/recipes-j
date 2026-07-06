@@ -1,0 +1,91 @@
+{
+  "slug": "jagged-canadian-hazelnut-salad",
+  "title": "Hazelnut Crusted Chicken Salad",
+  "description": "A healthy and flavorful salad recipe featuring crunchy hazelnut crusted chicken and mixed greens.",
+  "cuisine": "north american",
+  "diet": [
+    "gluten-free",
+    "healthy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jagged cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "canadian greens",
+      "amount": "4 cups",
+      "notes": "mixed"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "In a shallow dish, mix together the chopped hazelnuts and shredded jagged cheese.",
+    "Dip the chicken breast in the hazelnut mixture, pressing gently to adhere.",
+    "Place the chicken breast on a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Meanwhile, whisk together the olive oil and lemon juice in a small bowl.",
+    "In a large bowl, combine the mixed greens and mixed salad.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it thinly.",
+    "Add the sliced chicken to the bowl with the greens and drizzle with the dressing.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "chicken",
+    "hazelnut",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-canadian-hazelnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:54:33.958Z"
+}
