@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-briny-syrian-kiwifruit-tagine",
+  "title": "Syrian Kiwifruit Tagine",
+  "description": "A sweet and tangy tagine made with juicy kiwifruit and a hint of brininess, inspired by Syrian flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "juicy kiwifruit",
+      "amount": "3",
+      "notes": "any variety"
+    },
+    {
+      "name": "briny feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the kiwifruit into 1-inch pieces.",
+    "In a bowl, mix together the feta cheese, tagine spice blend, sugar, and lemon juice.",
+    "Add the kiwifruit pieces to the bowl and toss to coat with the spice mixture.",
+    "Transfer the kiwifruit mixture to a 9x13 inch baking dish.",
+    "Drizzle with water and sprinkle with honey.",
+    "Bake for 25-30 minutes or until the kiwifruit is tender.",
+    "Top with chopped pistachios and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kiwifruit",
+    "syrian",
+    "dessert",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-briny-syrian-kiwifruit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:39:52.188Z"
+}
