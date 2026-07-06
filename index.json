@@ -6903,17 +6903,15 @@
   },
   {
     "slug": "jovial-malaysian-noodle-dish",
-    "title": "Jovial Malaysian Noodle Dish",
+    "title": "Spicy Jovial Noodle Dish",
     "tags": [
-      "jain-friendly",
-      "lazy-sunday",
-      "malaysian-cuisine",
+      "malaysian",
       "noodle-dish",
-      "one-pan",
-      "vegan"
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -7156,18 +7154,15 @@
   },
   {
     "slug": "joyful-dutch-shrimp-frittata",
-    "title": "Joyful Dutch Shrimp Frittata",
+    "title": "Dutch-Style Shrimp Frittata",
     "tags": [
-      "dutch",
-      "fluffy",
-      "high-protein",
-      "one-pan",
-      "ovo-vegetarian",
-      "quick",
-      "romantic"
+      "breakfast",
+      "shrimp",
+      "frittata",
+      "dutch-cuisine"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -17344,17 +17339,16 @@
   },
   {
     "slug": "juicy-warm-ethiopian-citrus-bowl",
-    "title": "Juicy Warm Ethiopian Citrus Bowl",
+    "title": "Ethiopian-Style Chicken Stew",
     "tags": [
-      "easy",
-      "gluten-free",
-      "healthy",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "ethiopian",
+      "chicken",
+      "stew",
+      "berbere",
+      "spices"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 10,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
