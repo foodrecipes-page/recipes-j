@@ -1,0 +1,61 @@
+{
+  "slug": "jazzy-algerian-ti-leaf-wrap",
+  "title": "Jazzy Algerian Wraps",
+  "description": "A flavorful and crunchy wrap recipe inspired by North African cuisine. Made with tender wraps filled with a vibrant mix of herbs and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Algerian wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ti leaf",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Diced wrap",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Lay out the Algerian wraps and place a few pieces of diced wrap on each.",
+    "Sprinkle Jazzy over the wraps, followed by a ti leaf.",
+    "Roll up the wraps tightly and place on a baking sheet.",
+    "Bake for 10-12 minutes or until the wraps are crispy and golden.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-algerian-ti-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:41:19.232Z"
+}
