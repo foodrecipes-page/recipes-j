@@ -2743,18 +2743,14 @@
   },
   {
     "slug": "jarring-malty-syrian-lamb-tagine",
-    "title": "Jarring Malty Syrian Lamb Tagine",
+    "title": "Syrian Lamb Tagine",
     "tags": [
-      "hangover-cure",
-      "high-protein",
       "lamb",
-      "low-glycemic-friendly",
-      "one-pan",
-      "syrian",
-      "weeknight"
+      "middle eastern",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 270,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
@@ -4559,14 +4555,13 @@
   },
   {
     "slug": "jazzy-velvety-russian-egg-frittata",
-    "title": "Jazzy Velvety Russian Egg Frittata",
+    "title": "Russian Frittata",
     "tags": [
-      "brunch-ideas",
-      "eggs-for-breakfast",
-      "frittata-recipes",
-      "gluten-free-options",
-      "russian-cuisine",
-      "vegetarian-recipes"
+      "breakfast",
+      "brunch",
+      "russian",
+      "egg",
+      "frittata"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
