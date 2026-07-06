@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-midnight-german-coconut-stir-fry",
+  "title": "German Coconut Stir Fry",
+  "description": "A sweet and savory German-inspired stir fry with coconut and a hint of midnight spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably Weisswurst or Bratwurst"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "midnight spices",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the German sausage and cook until browned, about 5 minutes.",
+    "Add the midnight spices and stir-fry for 1 minute.",
+    "Stir in the shredded coconut and cook for an additional 2 minutes.",
+    "Season with fry sauce to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "coconut",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-midnight-german-coconut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:11:30.371Z"
+}
