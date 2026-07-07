@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-crisp-greek-haricot-beans-saganaki",
+  "title": "Greek Stuffed Haricot Beans",
+  "description": "A simple and flavorful vegetarian dish inspired by Greek cuisine. Haricot beans are stuffed with a delicious mixture of crispy onions, juicy tomatoes, and a hint of feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "greek feta cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the haricot beans according to package instructions.",
+    "Chop the onions and sauté them in olive oil until crispy.",
+    "Chop the tomatoes and add them to the pan with the onions.",
+    "Crumb the feta cheese and add it to the pan.",
+    "Stuff each haricot bean with the onion and tomato mixture.",
+    "Place the stuffed beans on a baking sheet and bake for 15-20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "beans",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-greek-haricot-beans-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:06:35.851Z"
+}
