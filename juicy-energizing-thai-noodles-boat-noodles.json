@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-energizing-thai-noodles-boat-noodles",
+  "title": "Thai Boat Noodle Soup",
+  "description": "A spicy and flavorful Thai noodle soup made with juicy beef and energizing herbs.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the sliced beef and cook for 3-4 minutes, or until browned.",
+    "Add the rice noodles and cook for 2-3 minutes, or until tender.",
+    "Stir in the coconut milk, fish sauce, and lime juice.",
+    "Add the chopped Thai basil and chili flakes (if using).",
+    "Simmer the soup for 5-7 minutes, or until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with additional Thai basil if desired.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodles",
+    "soup",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-energizing-thai-noodles-boat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:06:18.773Z"
+}
