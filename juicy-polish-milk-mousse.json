@@ -1,0 +1,54 @@
+{
+  "slug": "juicy-polish-milk-mousse",
+  "title": "Creamy Polish Mousse Dessert",
+  "description": "A rich and creamy dessert made with Polish mousse and topped with a layer of juicy milk.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish mousse",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Juicy milk",
+      "amount": "1 cup",
+      "notes": "heavy cream or half-and-half"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Open and scoop the Polish mousse into a serving dish.",
+    "Drizzle the juicy milk over the top of the mousse.",
+    "If desired, sprinkle a pinch of granulated sugar over the top.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "dessert",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-polish-milk-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:00:33.717Z"
+}
