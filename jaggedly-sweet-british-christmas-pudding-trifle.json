@@ -1,0 +1,78 @@
+{
+  "slug": "jaggedly-sweet-british-christmas-pudding-trifle",
+  "title": "Jaggedly British Christmas Trifle",
+  "description": "A layered dessert featuring jaggedly-shaped sponge cake, sweet berries, and creamy custard, perfect for the British Christmas season.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jaggedly-shaped sponge cake",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "mixed berries (strawberries, blueberries, raspberries)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sherry or other sweet wine (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "custard powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the jaggedly-shaped sponge cake into 1-inch cubes.",
+    "In a large bowl, combine the mixed berries and granulated sugar. Let it sit for 15 minutes, until the berries release their juice.",
+    "In a separate bowl, whip the heavy cream until soft peaks form. Add the vanilla extract and continue whipping until stiff peaks form.",
+    "In a separate pan, melt the butter over low heat. Add the custard powder and whisk until smooth.",
+    "To assemble the trifle, start with a layer of jaggedly-shaped sponge cake in the bottom of a large serving dish. Follow with a layer of the berry mixture, then a layer of whipped cream.",
+    "Repeat the layers two more times, ending with a layer of whipped cream on top.",
+    "If using sherry, drizzle it over the top layer of whipped cream.",
+    "Cover the trifle with plastic wrap and refrigerate for at least 2 hours, or overnight.",
+    "Just before serving, sprinkle a layer of granulated sugar over the top of the whipped cream.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "christmas",
+    "pudding",
+    "trifle",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaggedly-sweet-british-christmas-pudding-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:14:37.127Z"
+}
