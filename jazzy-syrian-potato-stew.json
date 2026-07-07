@@ -1,0 +1,58 @@
+{
+  "slug": "jazzy-syrian-potato-stew",
+  "title": "Syrian Stew with Jazzy Potatoes",
+  "description": "A hearty and flavorful Syrian-inspired stew made with tender potatoes and a hint of jazzy spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "jazzy",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add diced potatoes and cook until they start to brown.",
+    "Add stew and jazzy spices, stir well.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Optional: Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "potato",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-syrian-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:00:55.805Z"
+}
