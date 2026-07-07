@@ -1,0 +1,54 @@
+{
+  "slug": "juicy-post-workout-kenyan-semolina-ugali",
+  "title": "Kenyan Semolina Ugali",
+  "description": "A traditional African dish made with semolina flour, perfect for a post-workout meal. This recipe serves as a great source of carbohydrates to replenish energy stores.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "adjust to achieve the right consistency"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the semolina flour and salt.",
+    "Gradually add in the water, stirring continuously to avoid lumps.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "The ugali should be smooth and free of lumps. If it's too thick, add a little more water. If it's too thin, add a little more semolina flour.",
+    "Turn off the heat and let the ugali rest for 2-3 minutes.",
+    "Serve the ugali hot, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "african",
+    "semolina",
+    "ugali"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-post-workout-kenyan-semolina-ugali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:56:58.838Z"
+}
