@@ -14895,15 +14895,15 @@
   },
   {
     "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
-    "title": "Juicy Savory Low-Fat Thai Chicken Stir-fry",
+    "title": "Thai-Style Low-Fat Chicken Stir Fry",
     "tags": [
       "low-fat",
-      "sour",
-      "stir-fry",
-      "thai-style"
+      "thai",
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
