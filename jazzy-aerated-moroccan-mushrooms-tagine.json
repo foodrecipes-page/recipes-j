@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-aerated-moroccan-mushrooms-tagine",
+  "title": "Moroccan Mushroom Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired dish featuring sautéed mushrooms, spices, and a hint of sweetness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "Button or cremini mushrooms work well"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "2 tbsp",
+      "notes": "Use jazzy spice blend or create your own mix"
+    },
+    {
+      "name": "Aerated sugar",
+      "amount": "1 tsp",
+      "notes": "Add a hint of sweetness"
+    },
+    {
+      "name": "Moroccan spices",
+      "amount": "1 tsp",
+      "notes": "Use a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing mushrooms"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add jazzy spice blend and cook for another minute.",
+    "Stir in aerated sugar and cook for 30 seconds.",
+    "Add Moroccan spices and cook for 1 minute.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushrooms",
+    "moroccan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-aerated-moroccan-mushrooms-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:32:37.367Z"
+}
