@@ -2952,19 +2952,14 @@
   },
   {
     "slug": "jazzed-moroccan-eggplant-tagine",
-    "title": "jazzed moroccan eggplant tagine",
+    "title": "Eggplant Tagine",
     "tags": [
-      "breakfast",
-      "dinner",
       "eggplant",
-      "lamb-free",
-      "moroccan",
-      "prosciutto",
       "tagine",
-      "vegetarian"
+      "north-african"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -4456,14 +4451,12 @@
   },
   {
     "slug": "jazzy-syrian-potato-stew",
-    "title": "Jazzy Syrian Potato Stew",
+    "title": "Syrian Stew with Jazzy Potatoes",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "kosher-friendly",
-      "one-pot",
-      "potato-rich",
-      "vegetarian"
+      "syrian",
+      "potato",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 30,
@@ -11210,16 +11203,14 @@
   },
   {
     "slug": "juicy-double-fried-slovakian-duck-confit",
-    "title": "Juicy Double Fried Slovakian Duck Confit",
+    "title": "Slovakian Duck Confit",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "meat-lovers",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "duck",
+      "confit"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
@@ -13018,16 +13009,15 @@
   },
   {
     "slug": "juicy-kenyan-chicken-stew",
-    "title": "Juicy Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "chicken-recipe",
-      "comfort-food",
-      "creamy-stew",
-      "kenyan-cuisine",
-      "one-pot"
+      "african-cuisine",
+      "chicken-recipes",
+      "stews",
+      "lunch-ideas"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "African",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
