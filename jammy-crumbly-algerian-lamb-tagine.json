@@ -1,0 +1,87 @@
+{
+  "slug": "jammy-crumbly-algerian-lamb-tagine",
+  "title": "Lamb Tagine with Algerian Twist",
+  "description": "A classic North African dish with a flavorful twist, featuring lamb, jammy vegetables, and a crumbly crust.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Crumbly pastry",
+      "amount": "1 sheet",
+      "notes": "thawed, for crust"
+    },
+    {
+      "name": "Jammy red onion",
+      "amount": "1 large",
+      "notes": "sliced, caramelized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season lamb with Algerian spice blend and salt.",
+    "Heat olive oil in a large Dutch oven over medium-high.",
+    "Sear lamb until browned, about 5 minutes.",
+    "Add sliced onion and cook until caramelized, about 20 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Cover Dutch oven and transfer to preheated oven.",
+    "Bake for 2 1/2 hours, or until lamb is tender.",
+    "Meanwhile, roll out crumbly pastry and cut into strips.",
+    "Top lamb with pastry strips and return to oven.",
+    "Bake for an additional 10-15 minutes, or until crust is golden."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "pastry",
+    "crust"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crumbly-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:16:26.535Z"
+}
