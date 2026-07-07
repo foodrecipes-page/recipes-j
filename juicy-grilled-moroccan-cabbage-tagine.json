@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-grilled-moroccan-cabbage-tagine",
+  "title": "Moroccan Grilled Cabbage Tagine",
+  "description": "A fusion of flavors from Morocco with a twist of grilled cabbage. Perfect for a delicious and healthy dinner.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 whole head",
+      "notes": "Grilled and chopped"
+    },
+    {
+      "name": "Juicy Chicken Breast",
+      "amount": "2 lbs",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Grilled Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Grill the chicken breast until cooked through, about 5-6 minutes per side.",
+    "Meanwhile, grill the cabbage until slightly charred, about 3-4 minutes per side.",
+    "Chop the grilled cabbage into small pieces.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the chopped cabbage, grilled chicken, and pine nuts to the skillet.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "grilled",
+    "cabbage",
+    "tagine",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grilled-moroccan-cabbage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:54:18.997Z"
+}
