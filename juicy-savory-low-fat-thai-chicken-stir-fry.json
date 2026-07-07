@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-savory-low-fat-thai-chicken-stir-fry",
+  "title": "Thai-Style Low-Fat Chicken Stir Fry",
+  "description": "A quick and easy Thai-inspired dish made with juicy chicken breast, savory vegetables, and a hint of stir-fry flavor. This recipe is perfect for a low-fat dinner option.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "savory bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "low-fat vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "thai stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fat-free soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the low-fat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the bell pepper, mushrooms, and garlic to the skillet and cook until the vegetables are tender, about 3-4 minutes.",
+    "Return the chicken to the skillet and add the thai stir-fry sauce, fat-free soy sauce, and green onions.",
+    "Stir-fry everything together for about 1-2 minutes, until the sauce has thickened.",
+    "Serve the chicken and vegetables hot over rice or noodles.",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "thai",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savory-low-fat-thai-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:43:20.355Z"
+}
