@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-kenyan-chicken-stew",
+  "title": "Kenyan Chicken Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with tender chicken, juicy tomatoes, and a blend of spices.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "kenyan stew spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most African markets"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the stew spice blend, salt, and black pepper. Stir to combine.",
+    "Add the tomatoes and water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "chicken-recipes",
+    "stews",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-kenyan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:54:50.705Z"
+}
