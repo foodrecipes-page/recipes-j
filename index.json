@@ -1957,16 +1957,16 @@
   },
   {
     "slug": "jammy-crumbly-algerian-lamb-tagine",
-    "title": "Algerian Lamb Tagine",
+    "title": "Lamb Tagine with Algerian Twist",
     "tags": [
-      "jain-friendly",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "slow-cooked"
+      "pastry",
+      "crust"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 185,
     "shard": "j"
   },
   {
