@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-canadian-minari-grill",
+  "title": "Grilled Canadian Minari with Juicy Glaze",
+  "description": "A sweet and savory summer dish featuring grilled minari and a juicy glaze made with Canadian maple syrup.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "trimmed and cleaned"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1/4 cup",
+      "notes": "grade A, pure"
+    },
+    {
+      "name": "juicy",
+      "amount": "1/4 cup",
+      "notes": "honey or sugar substitute"
+    },
+    {
+      "name": "grill",
+      "amount": "1",
+      "notes": "preheated to medium-high heat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together maple syrup, honey, garlic, and ginger.",
+    "Brush the minari with vegetable oil and season with salt.",
+    "Grill the minari for 2-3 minutes per side, or until slightly charred.",
+    "Brush the glaze on the minari during the last minute of grilling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "minari",
+    "summer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-canadian-minari-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:49:09.847Z"
+}
