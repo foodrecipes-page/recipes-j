@@ -3690,17 +3690,15 @@
   },
   {
     "slug": "jazzy-japanese-pork-tan-tan-udon",
-    "title": "Jazzy Japanese Pork Tan Tan Udon",
+    "title": "Pork Udon Stir Fry",
     "tags": [
-      "citrusy",
-      "comfort-food",
-      "japanese-cuisine",
-      "noodle-dishes",
-      "pork-recipes",
-      "smoked-food"
+      "pork",
+      "udon",
+      "stir-fry",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -3938,16 +3936,14 @@
   },
   {
     "slug": "jazzy-moroccan-lemon-kebabs",
-    "title": "Jazzy Moroccan Lemon Kebabs",
+    "title": "Jazzy Moroccan Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "hot-stone-plate",
       "kebabs",
-      "moroccan-cuisine"
+      "moroccan",
+      "grilled"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -6663,17 +6659,15 @@
   },
   {
     "slug": "jovial-creamy-turkish-lamb-stew",
-    "title": "Jovial Creamy Turkish Lamb Stew",
+    "title": "Turkish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "slow-cooker",
-      "turkish-cuisine"
+      "turkish",
+      "lamb",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 120,
+    "totalTimeMin": 180,
     "shard": "j"
   },
   {
@@ -7487,17 +7481,16 @@
   },
   {
     "slug": "jubilant-crisp-uruguayan-oreo-pilaf",
-    "title": "Jubilant Crisp Uruguayan Oreo Pilaf",
+    "title": "Uruguayan Jubilant Jubilee Crisp",
     "tags": [
-      "crispy",
-      "one-pot",
-      "pilaf",
-      "south-american",
-      "unique",
-      "vegetarian"
+      "uruguayan",
+      "jubilant",
+      "crisp",
+      "oreo",
+      "dessert"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
