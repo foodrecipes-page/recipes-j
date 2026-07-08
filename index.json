@@ -238,16 +238,15 @@
   },
   {
     "slug": "jagged-citrusy-uruguayan-millet-pilaf",
-    "title": "Jagged Citrusy Uruguayan Millet Pilaf",
+    "title": "Uruguayan Millet Dish",
     "tags": [
-      "gluten-free",
-      "low-sodium",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "uruguayan",
+      "citrusy",
+      "millets",
+      "pilaf"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -555,18 +554,17 @@
   },
   {
     "slug": "jagged-dense-saudi-arabian-lamb-kebabs",
-    "title": "Jagged Dense Saudi Arabian Lamb Kebabs",
+    "title": "Traditional Saudi Arabian Lamb Kebabs",
     "tags": [
-      "flavorful",
-      "grilled",
-      "high-protein",
+      "saudi-arabian",
       "lamb",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "grilled",
+      "meat",
+      "arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -17059,16 +17057,14 @@
   },
   {
     "slug": "juicy-velvety-filipino-herring-dinuguan",
-    "title": "Juicy Velvety Filipino Herring Dinuguan",
+    "title": "Filipino-Style Pork Blood Stew",
     "tags": [
-      "filipino-cuisine",
-      "high-protein",
-      "one-pan",
-      "pescatarian-friendly",
-      "weeknight-dinner"
+      "filipino",
+      "stew",
+      "meat"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 120,
     "shard": "j"
   },
   {
