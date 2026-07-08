@@ -1,0 +1,75 @@
+{
+  "slug": "jagged-gooey-slovakian-fenugreek-bowl",
+  "title": "Slovakian Stew with Fenugreek",
+  "description": "A hearty Slovakian-inspired stew made with tender jagged potatoes, gooey fenugreek sauce, and a hint of traditional Slovakian spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged Potatoes",
+      "amount": "1 pound",
+      "notes": "Medium-sized potatoes"
+    },
+    {
+      "name": "Gooey Fenugreek Sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade fenugreek sauce"
+    },
+    {
+      "name": "Slovakian Spices",
+      "amount": "1 tablespoon",
+      "notes": "A mix of paprika, caraway seeds, and garlic powder"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery, and sauté until tender.",
+    "Add jagged potatoes, Slovakian spices, and fenugreek sauce. Stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "fenugreek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-gooey-slovakian-fenugreek-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:08:17.989Z"
+}
