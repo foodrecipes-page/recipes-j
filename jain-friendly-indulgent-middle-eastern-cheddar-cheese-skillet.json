@@ -1,0 +1,83 @@
+{
+  "slug": "jain-friendly-indulgent-middle-eastern-cheddar-cheese-skillet",
+  "title": "Cheesy Skillet Delight",
+  "description": "A simple yet indulgent skillet dish loaded with cheddar cheese, perfect for a cozy evening. Serve hot and enjoy!",
+  "cuisine": "middle eastern",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Pre-heated oven or a non-stick pan"
+    },
+    {
+      "name": "Eastern Spice Blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Pre-heat the oven to 375°F (190°C).",
+    "In a pre-heated skillet, melt 1 tbsp of butter over low heat.",
+    "Add 2 tsp of Eastern Spice Blend and stir for 1 minute.",
+    "Add 1 cup of cheddar cheese and 1/2 cup of mozzarella cheese. Stir until the cheese is melted and bubbly.",
+    "Transfer the skillet to the pre-heated oven and bake for 5 minutes.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "skillet",
+    "easy-dinner",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jain-friendly-indulgent-middle-eastern-cheddar-cheese-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:59:45.663Z"
+}
