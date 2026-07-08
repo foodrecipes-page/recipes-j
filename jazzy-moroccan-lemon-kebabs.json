@@ -1,0 +1,73 @@
+{
+  "slug": "jazzy-moroccan-lemon-kebabs",
+  "title": "Jazzy Moroccan Kebabs",
+  "description": "A flavorful twist on traditional kebabs, infused with jazzy spices and a squeeze of lemon.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jazzy Spice Blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Moroccan Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "Kebabs Skewers",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together jazzy spice blend and olive oil.",
+    "Thread chicken, bell peppers, onions, and zucchini onto kebabs skewers.",
+    "Brush kebabs with jazzy spice blend mixture and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes, turning occasionally.",
+    "Brush with lemon juice during last minute of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "moroccan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-moroccan-lemon-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:45:04.289Z"
+}
