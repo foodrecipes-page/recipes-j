@@ -1,0 +1,84 @@
+{
+  "slug": "jade-glazed-smoky-crispy-irish-bacon-hash",
+  "title": "Irish Bacon Hash with Crispy Smoky Onions",
+  "description": "A hearty breakfast dish featuring crispy smoky onions, glazed bacon, and a side of crispy jade potatoes. Perfect for a weekend brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Jade Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Glazed Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the Irish bacon into small pieces and cook in a pan until crispy.",
+    "3. Meanwhile, peel and chop the jade potatoes into small cubes. Toss with a little oil and season with salt and pepper.",
+    "4. Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until crispy.",
+    "5. In the same pan used for the bacon, add a little more oil and sauté the smoky onions until caramelized.",
+    "6. Add the crispy onions and glazed onions to the pan and stir to combine.",
+    "7. To assemble the dish, place a scoop of the roasted potatoes on a plate, followed by a few slices of the cooked Irish bacon, and top with a spoonful of the onion mixture.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "irish",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jade-glazed-smoky-crispy-irish-bacon-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:49:15.123Z"
+}
