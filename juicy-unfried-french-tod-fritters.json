@@ -1,0 +1,89 @@
+{
+  "slug": "juicy-unfried-french-tod-fritters",
+  "title": "French Tod Fritters",
+  "description": "A delicious breakfast dish with a French twist, featuring crispy fritters filled with tod.",
+  "cuisine": "French",
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, eggs, milk, sugar, and butter.",
+    "Mix well until smooth batter forms.",
+    "Add tod, parsley, garlic powder, and salt.",
+    "Mix until well combined.",
+    "Heat a non-stick skillet over medium heat.",
+    "Drop spoonfuls of batter into skillet.",
+    "Cook for 3-4 minutes or until golden brown.",
+    "Flip fritters and cook for another 3-4 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "breakfast",
+    "tod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-unfried-french-tod-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:48.290Z"
+}
