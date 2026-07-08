@@ -1,0 +1,79 @@
+{
+  "slug": "jeweled-tunisian-bean-sprouts-stir-fry",
+  "title": "Tunisian Jewel Stir Fry",
+  "description": "A flavorful and colorful stir fry made with Tunisian spices and topped with jeweled garnish.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Jeweled garnish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until onion is translucent.",
+    "Add red bell pepper and cook for 2 minutes.",
+    "Add bean sprouts and cook until tender.",
+    "Add Tunisian spice blend and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving dish and garnish with jeweled garnish.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-tunisian-bean-sprouts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:37:46.313Z"
+}
