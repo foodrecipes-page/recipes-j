@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-juicy-chinese-baby-aubergine-congee",
+  "title": "Stir-Fried Aubergine with Baby Bok Choy and Congee",
+  "description": "A simple and delicious stir-fry recipe combining the flavors of aubergine, baby bok choy, and congee. Perfect for a quick and easy dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged Aubergine",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "Baby Bok Choy",
+      "amount": "1 bunch, cleaned and chopped",
+      "notes": null
+    },
+    {
+      "name": "Congee",
+      "amount": "1 cup, cooked",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced aubergine and stir-fry for 3-4 minutes, or until it starts to soften.",
+    "Add the chopped baby bok choy and stir-fry for another 2-3 minutes, or until the vegetables are tender.",
+    "Add the cooked congee and stir-fry for 1-2 minutes, breaking up any clumps with a spatula.",
+    "Season with soy sauce and salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "aubergine",
+    "bok-choy",
+    "congee",
+    "stir-fry",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-juicy-chinese-baby-aubergine-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:56:51.989Z"
+}
