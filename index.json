@@ -707,17 +707,16 @@
   },
   {
     "slug": "jagged-juicy-chinese-baby-aubergine-congee",
-    "title": "Jagged Juicy Chinese Baby Aubergine Congee",
+    "title": "Stir-Fried Aubergine with Baby Bok Choy and Congee",
     "tags": [
-      "chinese-recipes",
-      "comfort-food",
-      "one-pot",
-      "paleo-friendly",
-      "romantic-dinners",
-      "vegetarian"
+      "aubergine",
+      "bok-choy",
+      "congee",
+      "stir-fry",
+      "chinese-cuisine"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -8411,17 +8410,15 @@
   },
   {
     "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl",
-    "title": "Jubilant Nutty Venezuelan Brown Lentil Bowl",
+    "title": "Venezuelan Lentil Stew",
     "tags": [
+      "vegan",
       "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "plant-based",
-      "vegan-friendly",
-      "weeknight"
+      "lentil",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
