@@ -1,0 +1,92 @@
+{
+  "slug": "jubilant-dutch-potato-fritters",
+  "title": "Dutch Jubilant Fritters",
+  "description": "A delicious and crispy snack made with jubilant and dutch flavors, served with a side of potato salad.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jubilant",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dutch process cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, whisk together flour, cocoa powder, baking soda, baking powder, and salt.",
+    "In a separate bowl, whisk together sugar, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add the melted butter and stir until the batter is smooth.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate.",
+    "Serve the fritters hot with a side of potato salad.",
+    "To make the potato salad, boil diced potatoes until tender.",
+    "In a separate bowl, whisk together mayonnaise and chopped fresh herbs.",
+    "Add the boiled potatoes to the bowl and toss with the mayonnaise mixture.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "fritters",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-dutch-potato-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:36:09.546Z"
+}
