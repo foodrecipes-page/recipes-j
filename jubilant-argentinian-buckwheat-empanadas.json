@@ -1,0 +1,86 @@
+{
+  "slug": "jubilant-argentinian-buckwheat-empanadas",
+  "title": "Argentinian Buckwheat Empanadas Jubilant Delight",
+  "description": "A twist on traditional empanadas, these buckwheat versions are a flavorful and nutritious delight. This recipe combines the earthy taste of buckwheat with the bold flavors of Argentina.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "jubilant argentinian seasoning blend",
+      "amount": "1 tsp",
+      "notes": "available at your local spice shop"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine buckwheat flour and jubilant argentinian seasoning blend.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the sweet potato and black bean mixture in the center of each circle.",
+    "Brush the edges with vegetable oil and fold the dough in half to form a half-circle.",
+    "Press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with vegetable oil and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "argentinian",
+    "empanadas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-argentinian-buckwheat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:29:15.578Z"
+}
