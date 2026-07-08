@@ -2711,17 +2711,15 @@
   },
   {
     "slug": "jarring-malaysian-tempeh-bowl",
-    "title": "Jarring Malaysian Tempeh Bowl",
+    "title": "Malaysian Tempeh Bowl",
     "tags": [
-      "high-protein",
       "malaysian",
-      "one-pot",
-      "quick",
-      "solo-dinner",
-      "vegan"
+      "vegetarian",
+      "tempeh",
+      "bowl"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -4081,16 +4079,15 @@
   },
   {
     "slug": "jazzy-shredded-middle-eastern-chicken-stock-knafeh",
-    "title": "Jazzy Shredded Middle Eastern Chicken Stock Knafeh",
+    "title": "Knafeh Chicken Shawarma",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "gluten-free",
+      "chicken",
+      "shawarma",
       "middle-eastern",
-      "weeknight"
+      "knafah"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -16935,17 +16932,14 @@
   },
   {
     "slug": "juicy-unfried-french-tod-fritters",
-    "title": "juicy unfried french tod fritters",
+    "title": "French Tod Fritters",
     "tags": [
       "french",
-      "halal",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "vegetarian"
+      "breakfast",
+      "tod"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
