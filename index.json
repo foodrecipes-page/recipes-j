@@ -641,16 +641,14 @@
   },
   {
     "slug": "jagged-garlicky-uruguayan-fideo-noodles",
-    "title": "Jagged Garlicky Uruguayan Fideo Noodles",
+    "title": "Uruguayan-Style Jagged Noodle Soup",
     "tags": [
-      "latin-american",
-      "monsoon-inspired",
-      "noodle-dish",
-      "one-pot",
-      "seafood"
+      "uruguayan",
+      "noodle-soup",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -5239,13 +5237,11 @@
   },
   {
     "slug": "jewel-toned-chinese-mars-bar-wonton-soup",
-    "title": "Jewel Toned Chinese Mars Bar Wonton Soup",
+    "title": "Wonton Soup",
     "tags": [
-      "chinese-dessert",
-      "kosher-friendly",
-      "romantic-dish",
-      "sweet-soup",
-      "wonton-soup"
+      "chinese",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -5879,16 +5875,13 @@
   },
   {
     "slug": "jeweled-tunisian-bean-sprouts-stir-fry",
-    "title": "Jeweled Tunisian Bean Sprouts Stir Fry",
+    "title": "Tunisian Jewel Stir Fry",
     "tags": [
-      "one-pan",
-      "quick-dinner",
       "stir-fry",
-      "tunisian-cuisine",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 25,
     "shard": "j"
   },
@@ -10593,17 +10586,14 @@
   },
   {
     "slug": "juicy-crisp-mexican-pork-tacos",
-    "title": "Juicy Crisp Mexican Pork Tacos",
+    "title": "Crispy Pork Tacos",
     "tags": [
-      "crowd-pleaser",
-      "easy-dinner",
-      "mexican-food",
-      "pork-recipes",
+      "mexican",
       "tacos",
-      "weeknight-meal"
+      "pork"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
