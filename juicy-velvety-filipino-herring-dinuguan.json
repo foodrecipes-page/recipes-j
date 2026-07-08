@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-velvety-filipino-herring-dinuguan",
+  "title": "Filipino-Style Pork Blood Stew",
+  "description": "A traditional Filipino dish made with pork blood, meat, and organs, slow-cooked in a rich savory broth.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork blood",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pork organs (liver, kidney, etc.)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sear the pork organs until browned, then set aside.",
+    "Add the onion and garlic to the pot and sauté until softened.",
+    "Add the pork shoulder and cook until browned on all sides.",
+    "Add the pork blood and cooked pork organs back to the pot.",
+    "Season with black pepper and salt to taste.",
+    "Simmer the mixture over low heat for 1 1/2 hours.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "stew",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-velvety-filipino-herring-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:09:08.712Z"
+}
