@@ -1,0 +1,64 @@
+{
+  "slug": "jazzy-snappy-spanish-swede-wrap",
+  "title": "Jazzy Spanish Wrap",
+  "description": "A flavorful and crunchy wrap filled with roasted vegetables and a tangy slaw. Perfect for a quick snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jazzy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Snappy",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Swede",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the swede with 1 tablespoon of olive oil, salt, and pepper. Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large bowl, combine the jazzy, snappy, and roasted swede.",
+    "In a small bowl, whisk together 2 tablespoons of olive oil, 1 tablespoon of apple cider vinegar, and 1 teaspoon of smoked paprika.",
+    "Pour the dressing over the jazzy mixture and toss to combine.",
+    "Warm the wrap in the oven for 1-2 minutes, or until soft and pliable.",
+    "Spoon the jazzy mixture onto the center of the wrap, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-snappy-spanish-swede-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:04:46.633Z"
+}
