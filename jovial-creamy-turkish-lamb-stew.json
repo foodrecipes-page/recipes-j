@@ -1,0 +1,84 @@
+{
+  "slug": "jovial-creamy-turkish-lamb-stew",
+  "title": "Turkish Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Turkey, made with tender lamb, creamy sauce, and a hint of jovial spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jovial spices (paprika, cumin, coriander)",
+      "amount": "1 tsp",
+      "notes": "mixed"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Creamy tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved in 2 tbsp olive oil"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "cooked with lamb"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides, then set aside.",
+    "Soften the onion and garlic in the pot, stirring occasionally.",
+    "Add the jovial spices, Turkish red pepper flakes (if using), and stir for 1 minute.",
+    "Add the browned lamb, creamy tomato paste, chicken broth, and stew.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley (optional)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-creamy-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:20:46.924Z"
+}
