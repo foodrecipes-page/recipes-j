@@ -5178,18 +5178,15 @@
   },
   {
     "slug": "jewel-toned-algerian-beets-tagine",
-    "title": "Jewel Toned Algerian Beets Tagine",
+    "title": "Spiced Algerian Stew",
     "tags": [
-      "algerian-cuisine",
-      "beet-recipes",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "resinous-dishes",
-      "whole30"
+      "north-african",
+      "stew",
+      "beets",
+      "algerian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -7227,18 +7224,14 @@
   },
   {
     "slug": "jubilant-australian-ground-pistachios-pavlova",
-    "title": "Jubilant Australian Ground Pistachios Pavlova",
+    "title": "Australian Pavlova with Pistachio Crust",
     "tags": [
-      "australian-dishes",
-      "dessert",
-      "high-calorie",
-      "pavlova",
-      "pistachio-based",
-      "raspberry-topping",
-      "rich-and-creamy"
+      "australian-pavlova",
+      "pistachio-crust",
+      "dessert"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 210,
+    "cuisine": "Australian",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -9915,18 +9908,15 @@
   },
   {
     "slug": "juicy-british-sausages-full-english-breakfast",
-    "title": "Juicy British Sausages Full English Breakfast",
+    "title": "Full English Breakfast",
     "tags": [
-      "adventurous",
-      "banana-leaf",
-      "chewy",
-      "deep-fry",
-      "fatty",
-      "full-english",
-      "high-protein"
+      "breakfast",
+      "british",
+      "sausages",
+      "eggs"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -10087,31 +10077,30 @@
   },
   {
     "slug": "juicy-canadian-hind-shank-roast",
-    "title": "Juicy Canadian Hind Shank Roast",
+    "title": "Braised Canadian Shank",
     "tags": [
-      "canadian",
-      "family-friendly",
-      "low-fat",
-      "one-pot",
-      "roast",
-      "winter"
+      "beef",
+      "lamb",
+      "braise",
+      "stew",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
     "slug": "juicy-canadian-minari-grill",
-    "title": "Juicy Canadian Minari Grill",
+    "title": "Grilled Canadian Minari with Juicy Glaze",
     "tags": [
-      "canadian",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "korean",
+      "grilled",
+      "minari",
+      "summer",
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 26,
+    "cuisine": "Korean",
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
