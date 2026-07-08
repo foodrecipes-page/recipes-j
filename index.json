@@ -10187,18 +10187,15 @@
   },
   {
     "slug": "juicy-charred-italian-lamb-cacio-e-pepe",
-    "title": "Juicy Charred Italian Lamb Cacio E Pepe",
+    "title": "Charred Lamb Cacio e Pepe",
     "tags": [
-      "cacio-e-pepe",
-      "charred-food",
-      "double-fry",
-      "high-protein",
-      "italian-food",
-      "lamb-recipes",
-      "lotus-leaf-wraps"
+      "italian",
+      "charred",
+      "lamb",
+      "cacio-e-pepe"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
