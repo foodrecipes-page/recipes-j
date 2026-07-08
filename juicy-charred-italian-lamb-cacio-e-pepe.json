@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-charred-italian-lamb-cacio-e-pepe",
+  "title": "Charred Lamb Cacio e Pepe",
+  "description": "A creative twist on the Italian classic, featuring charred lamb and a rich cacio e pepe sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "bone-in, preferably with a good layer of fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for char-grilling"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp",
+      "notes": "dried herbs like thyme, rosemary, and oregano"
+    },
+    {
+      "name": "cacio e pepe cheese",
+      "amount": "1 cup",
+      "notes": "Pecorino Romano, preferably freshly grated"
+    },
+    {
+      "name": "pepper",
+      "amount": "2 tbsp",
+      "notes": "freshly ground black pepper"
+    },
+    {
+      "name": "italian bread",
+      "amount": "1 baguette",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. Season the lamb with Italian seasonings.",
+    "Grill the lamb for 2-3 minutes per side, or until nicely charred. Transfer to a plate and let rest.",
+    "Cook the cacio e pepe cheese according to package instructions. Typically involves melting the cheese in a saucepan over low heat.",
+    "Slice the grilled lamb into thin strips.",
+    "To assemble the dish, place a few slices of lamb onto a slice of Italian bread.",
+    "Top with a spoonful of cacio e pepe cheese, followed by a sprinkle of black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "charred",
+    "lamb",
+    "cacio-e-pepe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-charred-italian-lamb-cacio-e-pepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:05.367Z"
+}
