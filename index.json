@@ -1464,17 +1464,15 @@
   },
   {
     "slug": "jain-friendly-indulgent-middle-eastern-cheddar-cheese-skillet",
-    "title": "Jain Friendly Indulgent Middle Eastern Cheddar Cheese Skillet",
+    "title": "Cheesy Skillet Delight",
     "tags": [
       "cheesy",
-      "indulgent",
-      "jain-friendly",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian"
+      "skillet",
+      "easy-dinner",
+      "comfort-food"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -3103,16 +3101,15 @@
   },
   {
     "slug": "jazzy-canadian-blackeye-pea-fritters",
-    "title": "Jazzy Canadian Blackeye Pea Fritters",
+    "title": "Blackeye Pea Fritter Frenzy",
     "tags": [
-      "canadian-cuisine",
-      "deep-fried",
-      "gluten-free",
-      "low-carb",
-      "romantic-dinner"
+      "blackeye-peas",
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Southern",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -6628,16 +6625,14 @@
   },
   {
     "slug": "jovial-british-fish-fish-and-chips",
-    "title": "Jovial British Fish And Chips",
+    "title": "Classic British Fish and Chips",
     "tags": [
-      "british-cuisine",
-      "one-pot",
-      "paleo-friendly",
-      "seafood",
-      "weeknight"
+      "british",
+      "fish-and-chips",
+      "traditional"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
