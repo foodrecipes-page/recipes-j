@@ -1,0 +1,65 @@
+{
+  "slug": "jagged-garlicky-uruguayan-fideo-noodles",
+  "title": "Uruguayan-Style Jagged Noodle Soup",
+  "description": "A hearty and flavorful soup made with jagged noodles, fideo, and uruguayan spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fideo",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Uruguayan Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add fideo and cook for 2-3 minutes, or until lightly toasted.",
+    "Add jagged noodles, vegetable broth, and uruguayan seasoning.",
+    "Bring to a boil, then reduce heat and simmer for 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "noodle-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "10g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-garlicky-uruguayan-fideo-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:29:00.722Z"
+}
