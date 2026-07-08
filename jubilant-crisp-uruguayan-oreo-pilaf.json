@@ -1,0 +1,73 @@
+{
+  "slug": "jubilant-crisp-uruguayan-oreo-pilaf",
+  "title": "Uruguayan Jubilant Jubilee Crisp",
+  "description": "A unique dessert combining the flavors of Uruguayan jubilant and crisp cookies with a crunchy Oreo topping.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Jubilant cookies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crisp cookies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Oreo cookies",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Crush the jubilant and crisp cookies into fine crumbs.",
+    "Mix the crushed cookies, sugar, and pilaf in a bowl.",
+    "Add the milk and butter to the bowl and mix until well combined.",
+    "Press the mixture into a baking dish.",
+    "Melt the butter and mix with the crushed Oreos.",
+    "Top the cookie mixture with the Oreo mixture.",
+    "Bake for 20 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "jubilant",
+    "crisp",
+    "oreo",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crisp-uruguayan-oreo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:24:22.760Z"
+}
