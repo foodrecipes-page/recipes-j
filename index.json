@@ -13736,18 +13736,16 @@
   },
   {
     "slug": "juicy-moroccan-fish-tagine",
-    "title": "juicy moroccan fish tagine",
+    "title": "Moroccan Fish Tagine",
     "tags": [
-      "easy-clean-up",
-      "gluten-free",
-      "high-protein",
-      "kid-friendly",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "seafood",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -17070,17 +17068,15 @@
   },
   {
     "slug": "juicy-velvety-saudi-arabian-beef-skillet",
-    "title": "Juicy Velvety Saudi Arabian Beef Skillet",
+    "title": "Saudi Arabian Beef Skillet",
     "tags": [
-      "beef-recipe",
-      "cast-iron",
-      "one-pan",
-      "saudi-arabian",
-      "skillet-meal",
-      "weeknight"
+      "saudi arabian",
+      "beef",
+      "skillet",
+      "dinner"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
