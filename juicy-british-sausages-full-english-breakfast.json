@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-british-sausages-full-english-breakfast",
+  "title": "Full English Breakfast",
+  "description": "A classic British breakfast dish featuring sausages, bacon, eggs, and more. Serve hot and enjoy with toast or hash browns.",
+  "cuisine": "British",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "preferably British style"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "rashers"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or brown"
+    },
+    {
+      "name": "Black pudding",
+      "amount": "1 cup",
+      "notes": "or substitute with blood sausage"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "shredded potatoes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill or grill pan to medium-high heat.",
+    "2. Cook the sausages for 5-7 minutes on each side, or until browned and cooked through.",
+    "3. Cook the bacon in a pan over medium heat until crispy.",
+    "4. Fry the mushrooms in the same pan as the bacon until they release their moisture and start to brown.",
+    "5. Add the black pudding to the pan and cook for an additional 2-3 minutes.",
+    "6. Crack the eggs into a separate pan over medium heat and cook until the whites are set and the yolks are cooked to your liking.",
+    "7. Toast some bread and serve with the sausages, bacon, eggs, mushrooms, black pudding, and tomatoes.",
+    "8. Serve the hash browns on the side, or use them as a base for your breakfast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "sausages",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-sausages-full-english-breakfast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:30:12.490Z"
+}
