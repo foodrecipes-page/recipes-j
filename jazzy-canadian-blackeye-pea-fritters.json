@@ -1,0 +1,81 @@
+{
+  "slug": "jazzy-canadian-blackeye-pea-fritters",
+  "title": "Blackeye Pea Fritter Frenzy",
+  "description": "A Southern-inspired twist on classic fritters, using blackeye peas for a boost of protein and fiber.",
+  "cuisine": "Southern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Blackeye Peas",
+      "amount": "1 cup (cooked)"
+    },
+    {
+      "name": "Jazzy Cornmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Canadian All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pea Grated Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, flour, cheese, egg, buttermilk, salt, black pepper, and cayenne pepper.",
+    "Gently fold in the cooked blackeye peas.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls.",
+    "Flatten each ball slightly into a disk shape.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "When oil is hot, add a few fritters to the skillet (do not overcrowd).",
+    "Fry for 3-4 minutes on each side, or until golden brown.",
+    "Transfer fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blackeye-peas",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-canadian-blackeye-pea-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:44:33.626Z"
+}
