@@ -539,17 +539,15 @@
   },
   {
     "slug": "jagged-dense-middle-eastern-chickpea-falafel",
-    "title": "Jagged Dense Middle-Eastern Chickpea Falafel",
+    "title": "Jagged Middle Eastern Falafel Wrap",
     "tags": [
-      "falafel",
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
       "middle-eastern",
-      "vegetarian"
+      "veggie",
+      "wrap",
+      "falafel"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -4276,18 +4274,14 @@
   },
   {
     "slug": "jazzy-snappy-spanish-swede-wrap",
-    "title": "Jazzy Snappy Spanish Swede Wrap",
+    "title": "Jazzy Spanish Wrap",
     "tags": [
-      "andalusian",
-      "halal",
-      "healthy",
-      "leaf-wrap",
       "spanish",
-      "steamed",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
