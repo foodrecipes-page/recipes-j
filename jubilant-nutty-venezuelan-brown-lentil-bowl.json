@@ -1,0 +1,83 @@
+{
+  "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl",
+  "title": "Venezuelan Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with lentils, vegetables, and aromatic spices. This dish is perfect for a cozy dinner with family and friends.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jubilant lentils",
+      "amount": "1 cup",
+      "notes": "brown or green lentils work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "nutty brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, bell pepper, and carrot. Cook until tender, about 5 minutes.",
+    "Add cumin and paprika. Cook for 1 minute.",
+    "Add lentils, veggie broth, and rice. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "lentil",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-nutty-venezuelan-brown-lentil-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:57:16.799Z"
+}
