@@ -1,0 +1,103 @@
+{
+  "slug": "jagged-dense-saudi-arabian-lamb-kebabs",
+  "title": "Traditional Saudi Arabian Lamb Kebabs",
+  "description": "A classic Saudi dish featuring marinated lamb skewers grilled to perfection, served with a side of tangy tahini sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Jagged red onions, thinly sliced",
+      "amount": "2 medium",
+      "notes": "Use a mandoline for precise slices"
+    },
+    {
+      "name": "Dense pita bread, torn into small pieces",
+      "amount": "4-6 pieces",
+      "notes": "For serving as a side"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "120ml",
+      "notes": "For brushing kebabs during grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning lamb"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning lamb"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1-inch piece",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "250ml",
+      "notes": "For serving as a side"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the kebabs hot with a side of tahini sauce and pita bread.",
+    "To make tahini sauce, whisk together 250ml tahini paste, 120ml lemon juice, and 60ml water in a bowl.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sauce chilled or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "kebabs",
+    "grilled",
+    "meat",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:44:21.468Z"
+}
