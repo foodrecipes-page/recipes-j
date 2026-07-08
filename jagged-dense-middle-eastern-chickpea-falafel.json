@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-dense-middle-eastern-chickpea-falafel",
+  "title": "Jagged Middle Eastern Falafel Wrap",
+  "description": "A flavorful and healthy wrap filled with crispy falafel, fresh vegetables, and tangy tahini sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pickled turnips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the falafel for 15-20 minutes, or until crispy and golden brown.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, and pickled turnips.",
+    "Spread a layer of tahini sauce on each pita bread.",
+    "Assemble the wraps by placing 2-3 falafel pieces on each pita, followed by a scoop of the vegetable mixture.",
+    "Drizzle with lemon juice and olive oil.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "veggie",
+    "wrap",
+    "falafel"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-dense-middle-eastern-chickpea-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:45:06.747Z"
+}
