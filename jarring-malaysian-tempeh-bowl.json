@@ -1,0 +1,91 @@
+{
+  "slug": "jarring-malaysian-tempeh-bowl",
+  "title": "Malaysian Tempeh Bowl",
+  "description": "A vegetarian bowl dish inspired by Malaysian cuisine, featuring marinated tempeh and a variety of vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block (250g)",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the tempeh in a mixture of soy sauce, honey, rice vinegar, and coconut oil for at least 30 minutes.",
+    "Preheat a non-stick pan or grill to medium-high heat.",
+    "Cook the tempeh for 3-4 minutes per side, or until golden brown and crispy.",
+    "Cook the brown rice and roasted vegetables according to package instructions.",
+    "To assemble the bowl, place a scoop of brown rice in the bottom, followed by the marinated tempeh, roasted vegetables, pickled cucumber, and chopped cilantro and scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "tempeh",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-malaysian-tempeh-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:57:06.696Z"
+}
