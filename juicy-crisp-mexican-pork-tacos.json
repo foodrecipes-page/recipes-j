@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-crisp-mexican-pork-tacos",
+  "title": "Crispy Pork Tacos",
+  "description": "A Mexican-inspired dish featuring crispy pork, crunchy slaw, and tangy salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Crushed tortilla chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together lime juice, cumin, chili powder, and salt.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork shoulder for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the pork is cooked through.",
+    "While the pork is cooking, prepare the slaw by combining shredded cabbage, diced red onion, and crushed tortilla chips in a bowl.",
+    "Once the pork is done, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the sliced pork in tacos with the slaw, salsa, and any other desired toppings.",
+    "Cook time: 25 minutes.",
+    "Total time: 40 minutes.",
+    "Servings: 4-6."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-mexican-pork-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:13:23.185Z"
+}
