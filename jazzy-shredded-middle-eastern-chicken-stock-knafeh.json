@@ -1,0 +1,78 @@
+{
+  "slug": "jazzy-shredded-middle-eastern-chicken-stock-knafeh",
+  "title": "Knafeh Chicken Shawarma",
+  "description": "A twist on the classic Middle Eastern street food, this shawarma features shredded chicken cooked in a knafeh-infused eastern-style stock.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "knafeh",
+      "amount": "2 tablespoons",
+      "notes": "crumbled"
+    },
+    {
+      "name": "eastern-style stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "jazzy sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as tahini or hummus"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "to serve"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together the eastern-style stock, knafeh, and jazzy sauce.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook on the grill for 5-7 minutes per side, or until cooked through.",
+    "Shred the cooked chicken into bite-sized pieces.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the shawarma by spooning the shredded chicken onto the pita bread, followed by shredded lettuce and carrot if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "middle-eastern",
+    "knafah"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-shredded-middle-eastern-chicken-stock-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:12.854Z"
+}
