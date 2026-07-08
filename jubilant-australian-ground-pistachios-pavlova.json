@@ -1,0 +1,74 @@
+{
+  "slug": "jubilant-australian-ground-pistachios-pavlova",
+  "title": "Australian Pavlova with Pistachio Crust",
+  "description": "A dessert recipe featuring a crunchy pistachio crust and a light Australian pavlova topping.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Jubilant",
+      "amount": "1 1/2 cups",
+      "notes": "Ground jubilant is a type of nut flour used to make the pavlova crust."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": "Chopped pistachios are used to make the crust."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "Used to sweeten the pavlova topping."
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "3",
+      "notes": "Egg whites are used to make the pavlova topping."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Used to enhance flavor in the pavlova topping."
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": "Used to make the whipped cream topping."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a bowl, mix together ground jubilant and chopped pistachios.",
+    "Add sugar and salt to the bowl and mix until well combined.",
+    "Press the mixture into the bottom of a 9-inch round baking dish.",
+    "Bake the crust for 20-25 minutes or until lightly browned.",
+    "In a separate bowl, whip egg whites until stiff peaks form.",
+    "Spread the egg whites over the baked crust.",
+    "Bake the pavlova for an additional 15-20 minutes or until lightly browned.",
+    "Allow the pavlova to cool completely.",
+    "Top with whipped cream and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-pavlova",
+    "pistachio-crust",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-australian-ground-pistachios-pavlova",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:29:51.665Z"
+}
