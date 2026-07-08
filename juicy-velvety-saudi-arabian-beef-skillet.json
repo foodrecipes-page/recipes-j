@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-velvety-saudi-arabian-beef-skillet",
+  "title": "Saudi Arabian Beef Skillet",
+  "description": "A flavorful and aromatic beef skillet dish inspired by Saudi Arabian cuisine, made with tender beef and a blend of spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tbsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 large",
+      "notes": "tomato, diced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil and sauté the beef until browned, about 3-4 minutes.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Stir in the Arabian spice blend and cook for 1 minute.",
+    "Pour in the heavy cream and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-12 minutes or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "beef",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-velvety-saudi-arabian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:47:01.505Z"
+}
