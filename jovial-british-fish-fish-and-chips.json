@@ -1,0 +1,86 @@
+{
+  "slug": "jovial-british-fish-fish-and-chips",
+  "title": "Classic British Fish and Chips",
+  "description": "A traditional British dish made with battered fish, crispy chips (fries), and a side of mushy peas. Serve hot and enjoy!",
+  "cuisine": "British",
+  "diet": [
+    "fish-friendly",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (2)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Batter mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1-2 liters",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chips (fries)",
+      "amount": "2 cups",
+      "notes": "about 2-3 medium-sized potatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Mushy peas",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large frying pan to 180°C (350°F).",
+    "2. Cut the fish fillets into chunks and dust with flour.",
+    "3. Dip the floured fish into the batter mix, making sure it's fully coated.",
+    "4. Carefully place the battered fish into the hot oil and fry for 3-4 minutes on each side.",
+    "5. Remove the fried fish from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. Cut the chips (fries) into long, thin strips and soak them in cold water for 30 minutes.",
+    "7. Drain the chips and dry them with paper towels.",
+    "8. Heat the vegetable oil in a separate pan to 160°C (320°F).",
+    "9. Fry the chips in batches until they're golden brown, about 3-4 minutes per batch.",
+    "10. Remove the chips from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "11. Serve the fried fish with chips and a side of mushy peas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish-and-chips",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 100,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-british-fish-fish-and-chips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:16:31.239Z"
+}
