@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-roasted-greek-potato-stir-fry",
+  "title": "Greek Roasted Potato Wedges",
+  "description": "A delicious Greek-inspired side dish made with crispy roasted potato wedges, perfect for any meal. This recipe combines the flavors of the Mediterranean with the simplicity of roasted potatoes.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4-5",
+      "notes": "Choose high-quality potatoes for the best results"
+    },
+    {
+      "name": "Greek Seasoning",
+      "amount": "2 tsp",
+      "notes": "Use a store-bought or homemade Greek seasoning blend"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Choose a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use sea salt for a more authentic flavor"
+    },
+    {
+      "name": "Juicy Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed lemon juice adds brightness to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C) and line a baking sheet with parchment paper.",
+    "Cut the potatoes into wedges and place them on the prepared baking sheet.",
+    "Drizzle the potatoes with olive oil and sprinkle with Greek seasoning, salt, and a squeeze of lemon juice.",
+    "Toss the potatoes to coat them evenly with the seasonings.",
+    "Roast the potatoes in the preheated oven for 20-25 minutes, or until they are crispy on the outside and tender on the inside.",
+    "Remove the potatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "roasted",
+    "potatoes",
+    "sides",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-greek-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:41:12.677Z"
+}
