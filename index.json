@@ -12969,15 +12969,17 @@
   },
   {
     "slug": "juicy-kenyan-roast-roast",
-    "title": "Kenyan Roast with Hojicha Glaze",
+    "title": "Kenyan-Style Roast Chicken",
     "tags": [
-      "high-protein",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "kenyan",
+      "roast-chicken",
+      "potatoes",
+      "onion",
+      "garlic",
+      "ginger"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 210,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
