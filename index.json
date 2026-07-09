@@ -1490,15 +1490,15 @@
   },
   {
     "slug": "jain-friendly-kenyan-meal-prep-bake",
-    "title": "Jain-Friendly Kenyan Meal-Prep Bake",
+    "title": "Kenyan Sweet Potato Bake",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "vegan-options",
-      "weeknight"
+      "sweet-potatoes",
+      "kenyan-food",
+      "bake",
+      "vegetarian"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -6230,17 +6230,15 @@
   },
   {
     "slug": "jlightly-roasted-almond-paste-mexican-bowl",
-    "title": "JLightlyRoasted Almond Paste Mexican Bowl",
+    "title": "Mexican Almond Chicken Bowl",
     "tags": [
-      "halal-friendly",
-      "kids-friendly",
-      "lightly-roasted",
-      "mexican-dish",
-      "paste-based",
-      "snack"
+      "mexican-restaurant",
+      "healthy-recipes",
+      "chicken-dinner",
+      "low-carb-diet"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 205,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
