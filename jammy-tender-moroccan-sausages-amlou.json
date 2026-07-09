@@ -1,0 +1,65 @@
+{
+  "slug": "jammy-tender-moroccan-sausages-amlou",
+  "title": "Moroccan Sausage Skillet",
+  "description": "A hearty and flavorful skillet dish featuring moroccan seasoned sausages, tender bell peppers, and a sweet jammy sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Moroccan sausages",
+      "amount": "1 pound",
+      "notes": "preferably with a spicy kick"
+    },
+    {
+      "name": "Tender bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Amlou",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Jammy",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large oven-safe skillet over medium-high heat.",
+    "Add the moroccan sausages and cook until browned, about 5 minutes.",
+    "Remove the sausages and set aside.",
+    "Add the tender bell peppers to the skillet and cook until tender.",
+    "Return the sausages to the skillet.",
+    "In a small bowl, whisk together the amlou and jammy.",
+    "Pour the sauce over the sausages and bell peppers.",
+    "Transfer the skillet to the oven and bake at 400°F for 10-12 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sausages",
+    "breakfast",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-moroccan-sausages-amlou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:11:17.002Z"
+}
