@@ -1,0 +1,70 @@
+{
+  "slug": "jubilant-spanish-chestnut-mushroom-pulpo-a-la-gallega",
+  "title": "Pulpo a la Gallega",
+  "description": "A classic Spanish dish from the Galicia region, featuring tender grilled octopus served with potatoes and paprika.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb pulpo (octopus)",
+      "amount": "1/4 cup olive oil",
+      "notes": "Choose fresh, tender pulpo for best results"
+    },
+    {
+      "name": "2 large potatoes, peeled",
+      "amount": "2 cloves a la (garlic)",
+      "notes": "Spanish paprika adds depth to the dish"
+    },
+    {
+      "name": "1/4 cup Spanish paprika",
+      "amount": "Salt and pepper, to taste",
+      "notes": "Grill pulpo until slightly charred"
+    },
+    {
+      "name": "2 cups chestnut mushrooms",
+      "amount": "2 tbsp white wine",
+      "notes": "Add wine to pot for added flavor"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "Chopped fresh parsley, for garnish",
+      "notes": "Garnish with parsley for a pop of color"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut pulpo into bite-sized pieces and season with salt, pepper, and paprika.",
+    "3. Grill pulpo until slightly charred, about 2-3 minutes per side.",
+    "4. Meanwhile, boil potatoes until tender.",
+    "5. In a separate pan, heat olive oil over medium heat.",
+    "6. Add garlic and sauté for 1 minute.",
+    "7. Add chestnut mushrooms and cook until tender, about 3-4 minutes.",
+    "8. Add white wine to the pan and stir to combine.",
+    "9. To serve, place grilled pulpo on top of potatoes and garnish with parsley.",
+    "10. Serve immediately, enjoying the combination of flavors and textures."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-spanish-chestnut-mushroom-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:32:15.991Z"
+}
