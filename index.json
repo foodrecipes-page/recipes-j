@@ -423,16 +423,14 @@
   },
   {
     "slug": "jagged-crispy-vietnamese-chocolate-cha-gio",
-    "title": "Jagged Crispy Vietnamese Chocolate Cha Gio",
+    "title": "Crispy Cha Gio with Chocolate Dipping Sauce",
     "tags": [
+      "vietnamese",
       "chocolate",
-      "fancy-dessert",
-      "monsoon",
-      "spring-rolls",
-      "vietnamese"
+      "fried"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -8640,18 +8638,14 @@
   },
   {
     "slug": "jubilant-spanish-chestnut-mushroom-pulpo-a-la-gallega",
-    "title": "Jubilant Spanish Chestnut Mushroom Pulpo A La Gallega",
+    "title": "Pulpo a la Gallega",
     "tags": [
-      "aerated",
-      "brunch",
-      "herbal",
-      "one-pan",
-      "pescatarian",
       "spanish",
-      "vegetarian"
+      "seafood",
+      "grilled"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14071,17 +14065,16 @@
   },
   {
     "slug": "juicy-pillowy-mediterranean-fish-paella",
-    "title": "Juicy Pillowy Mediterranean Fish Paella",
+    "title": "Pan-Seared Mediterranean Paella Cakes",
     "tags": [
-      "fish",
-      "gluten-free",
       "mediterranean",
-      "one-pan",
+      "spanish",
+      "fish",
       "paella",
-      "pescatarian"
+      "casserole"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14416,15 +14409,16 @@
   },
   {
     "slug": "juicy-roasted-greek-potato-stir-fry",
-    "title": "Juicy Roasted Greek Potato Stir-fry",
+    "title": "Greek Roasted Potato Wedges",
     "tags": [
       "greek",
-      "stir-fry",
-      "hangover-cure",
-      "fodmap-friendly"
+      "roasted",
+      "potatoes",
+      "sides",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
