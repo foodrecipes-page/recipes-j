@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-kenyan-roast-roast",
+  "title": "Kenyan-Style Roast Chicken",
+  "description": "A flavorful and aromatic roast chicken dish inspired by Kenyan cuisine, made with juicy chicken and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat-based",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken, skin on",
+      "amount": "1 whole chicken, 3-4 lbs",
+      "notes": "juicy and fresh"
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "2-3 medium-sized",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium-sized",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "warm and aromatic"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "mildly sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, black pepper, curry powder, and paprika.",
+    "Heat oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken on all sides until browned, about 5-7 minutes.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 30-40 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is roasting, toss the chopped potatoes with oil, salt, and black pepper in a separate bowl.",
+    "After 20 minutes of roasting the chicken, add the potatoes to the oven and continue roasting for another 20-25 minutes, or until the potatoes are golden brown.",
+    "Remove the chicken and potatoes from the oven and let them rest for 5-10 minutes before serving.",
+    " Garnish with chopped onion, garlic, and ginger, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "roast-chicken",
+    "potatoes",
+    "onion",
+    "garlic",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-kenyan-roast-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:16:23.633Z"
+}
