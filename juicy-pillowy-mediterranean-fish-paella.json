@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-pillowy-mediterranean-fish-paella",
+  "title": "Pan-Seared Mediterranean Paella Cakes",
+  "description": "A twist on traditional paella, these crispy cakes are packed with juicy Mediterranean flavors and perfect for a quick dinner or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mediterranean Paella",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": "flaked, boneless, skinless"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a medium bowl, mix together the crushed Mediterranean paella, flaked fish, beaten eggs, minced garlic, diced tomatoes, salt, and pepper.",
+    "3. Divide the mixture into 4 equal parts and shape each part into a round cake.",
+    "4. Heat 1 tablespoon of olive oil in a large non-stick skillet over medium-high heat.",
+    "5. Add 2 paella cakes to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "6. Transfer the cakes to a baking sheet and bake in the preheated oven for 10-12 minutes.",
+    "7. Repeat with the remaining paella cakes.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "spanish",
+    "fish",
+    "paella",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pillowy-mediterranean-fish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:15:55.647Z"
+}
