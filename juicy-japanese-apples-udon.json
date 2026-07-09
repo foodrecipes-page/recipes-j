@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-japanese-apples-udon",
+  "title": "Autumn Apple Udon Noodle Soup",
+  "description": "A hearty and comforting udon noodle soup infused with the sweetness of autumnal apples, perfect for a chilly fall evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy apples",
+      "amount": "2 medium"
+    },
+    {
+      "name": "udon noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the chopped green onions and cook until softened.",
+    "Add the vegetable broth, soy sauce, and maple syrup. Bring to a boil.",
+    "Add the udon noodles and cook according to package instructions.",
+    "Peel and dice the apples, then add them to the pot.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with toasted sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "noodle",
+    "vegetarian",
+    "fall",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-japanese-apples-udon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:22:55.575Z"
+}
