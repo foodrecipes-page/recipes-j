@@ -1,0 +1,84 @@
+{
+  "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha",
+  "title": "Spicy Beg Chicken",
+  "description": "A spicy and aromatic Ethiopian-inspired dish made with tender beg chicken, served with a side of jagged peppers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beg Chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Jagged Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Romano Pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ethiopian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Alicha Spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beg chicken with alicha spice, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the sliced romano pepper and cook for 2-3 minutes.",
+    "Add the jagged peppers and cook for an additional 2-3 minutes.",
+    "Add the seasoned beg chicken to the skillet and cook until browned on all sides.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peppers",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tender-ethiopian-romano-pepper-ye-beg-alicha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:12:02.294Z"
+}
