@@ -1,0 +1,89 @@
+{
+  "slug": "jain-friendly-kenyan-meal-prep-bake",
+  "title": "Kenyan Sweet Potato Bake",
+  "description": "A delicious and easy-to-make Kenyan-inspired sweet potato dish perfect for a meal or snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 large sweet potatoes",
+      "amount": "2",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "1/4 cup coconut oil",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup mixed bell peppers",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 tsp cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange sweet potato slices on the prepared baking sheet.",
+    "Drizzle with coconut oil and sprinkle with cumin, paprika, salt, and pepper.",
+    "Bake for 20 minutes.",
+    "Remove from oven and top with chopped onion, garlic, and bell peppers.",
+    "Return to oven and bake for an additional 15 minutes.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potatoes",
+    "kenyan-food",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jain-friendly-kenyan-meal-prep-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:43:45.956Z"
+}
