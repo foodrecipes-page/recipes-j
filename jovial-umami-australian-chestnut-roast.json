@@ -1,0 +1,79 @@
+{
+  "slug": "jovial-umami-australian-chestnut-roast",
+  "title": "Roast Australian Lamb with Chestnut and Umami Sauce",
+  "description": "A hearty roast lamb dish with chestnut and umami sauce, perfect for a special occasion.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb leg",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium, sliced",
+      "notes": "umami"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Umami paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the lamb leg with salt and black pepper.",
+    "Heat olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the lamb for 20 minutes.",
+    "Reduce oven temperature to 180°C (350°F) and continue roasting for another 20-25 minutes, or until the lamb reaches 63°C (145°F) for medium-rare.",
+    "While the lamb is roasting, sauté the sliced onions and minced garlic in a pan with a little oil until softened.",
+    "Add the sliced chestnuts to the pan and cook for a further 5 minutes.",
+    "Stir in the umami paste and cook for 1 minute.",
+    "Serve the roasted lamb with the chestnut and umami sauce.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "chestnut",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "50g",
+    "carbs": "20g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-umami-australian-chestnut-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:33:46.495Z"
+}
