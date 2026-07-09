@@ -1,0 +1,85 @@
+{
+  "slug": "jlightly-roasted-almond-paste-mexican-bowl",
+  "title": "Mexican Almond Chicken Bowl",
+  "description": "A flavorful and healthy Mexican-inspired dish made with almond-crusted chicken, roasted vegetables, and a hint of spice.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted red pepper paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "jlightly salted tortilla chips",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted vegetables (zucchini, bell peppers, onions)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together almond meal and a pinch of salt.",
+    "Dip each chicken breast in the almond meal mixture, coating both sides evenly.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Drizzle coconut oil over the chicken and bake for 20-25 minutes or until cooked through.",
+    "While the chicken is baking, roast the vegetables in the oven for 15-20 minutes or until tender.",
+    "In a small bowl, mix together roasted red pepper paste and lime juice.",
+    "To assemble the bowls, place a cooked chicken breast on each bowl, followed by roasted vegetables, tortilla chips, and a sprinkle of cilantro.",
+    "Drizzle the roasted red pepper-lime sauce over the top of each bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-restaurant",
+    "healthy-recipes",
+    "chicken-dinner",
+    "low-carb-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jlightly-roasted-almond-paste-mexican-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:27:26.996Z"
+}
