@@ -1,0 +1,74 @@
+{
+  "slug": "jaw-dropping-crunchy-russian-tod-dumplings",
+  "title": "Russian Dropping Jaw Dumplings",
+  "description": "A unique twist on traditional dumplings, incorporating crunchy elements and a hint of Russian flair. This dish is sure to drop jaws with its bold flavors and satisfying textures.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Russian vodka",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tod sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "12-15 wrappers"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and water, stirring until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Divide the dough into small balls and roll out each ball into a thin circle.",
+    "Place a small spoonful of shredded cheese in the center of each dumpling wrapper.",
+    "Dip your finger in Russian vodka and run it along the edges of the dumpling wrapper.",
+    "Fold the dumpling wrapper in half to seal the filling inside.",
+    "Heat a large skillet over medium heat and add a tablespoon of oil.",
+    "Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings hot with a side of crispy fried onions and tod sauce.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "dumplings",
+    "cheese",
+    "crispy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jaw-dropping-crunchy-russian-tod-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:22:23.494Z"
+}
