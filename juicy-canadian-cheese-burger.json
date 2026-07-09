@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-canadian-cheese-burger",
+  "title": "Canadian Burger",
+  "description": "A classic Canadian burger recipe with a juicy patty, melted cheese, and a hint of Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Burger patty seasoning",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, combine the ground beef and burger patty seasoning. Mix well with your hands until just combined.",
+    "3. Divide the beef mixture into 4 equal portions and shape each portion into a ball. Flatten each ball slightly into a patty.",
+    "4. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "5. Meanwhile, toast the burger buns on the grill or in a toaster.",
+    "6. Assemble the burgers with the grilled patties, Canadian bacon, cheese, lettuce, tomato, onion, mayonnaise, and ketchup.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "burger",
+    "cheese",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 36,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-canadian-cheese-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:33:00.461Z"
+}
