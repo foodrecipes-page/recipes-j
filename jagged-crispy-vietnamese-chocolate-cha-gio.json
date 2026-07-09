@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-crispy-vietnamese-chocolate-cha-gio",
+  "title": "Crispy Cha Gio with Chocolate Dipping Sauce",
+  "description": "A unique fusion of Vietnamese spring rolls with crispy fried cha gio, served with a rich and creamy chocolate dipping sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cha gio (Vietnamese spring rolls)",
+      "amount": "12 pieces",
+      "notes": null
+    },
+    {
+      "name": "Jagged chocolate squares",
+      "amount": "8 pieces",
+      "notes": "high-quality dark chocolate"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for chocolate sauce"
+    },
+    {
+      "name": "Powdered milk",
+      "amount": "2 tablespoons",
+      "notes": "for chocolate sauce"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "for chocolate sauce"
+    }
+  ],
+  "instructions": [
+    "Dust cha gio with flour.",
+    "Heat vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Fry cha gio until crispy, about 2-3 minutes per side.",
+    "Drain on paper towels.",
+    "Melt jagged chocolate squares in a double boiler or in the microwave in 10-second increments.",
+    "Whisk together powdered milk, water, and vanilla extract to create chocolate sauce.",
+    "Dip fried cha gio into the chocolate sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chocolate",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-vietnamese-chocolate-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:47:44.094Z"
+}
