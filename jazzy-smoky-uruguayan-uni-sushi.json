@@ -1,0 +1,77 @@
+{
+  "slug": "jazzy-smoky-uruguayan-uni-sushi",
+  "title": "Smoky Uni Sushi",
+  "description": "A fusion sushi dish combining smoky flavors with the freshness of uni.",
+  "cuisine": "Japanese-Argentinean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "Short-grain Japanese rice"
+    },
+    {
+      "name": "Uni",
+      "amount": "8 pieces",
+      "notes": "Fresh sea urchin"
+    },
+    {
+      "name": "Smoky sauce",
+      "amount": "2 tbsp",
+      "notes": "Smoked paprika and chili flakes mixed with soy sauce"
+    },
+    {
+      "name": "Jazzy jalapeño",
+      "amount": "1 slice",
+      "notes": "Thinly sliced jalapeño pepper"
+    },
+    {
+      "name": "Uruguayan chimichurri",
+      "amount": "1 tsp",
+      "notes": "Herbs and spices mixed with olive oil"
+    },
+    {
+      "name": "Sushi nori",
+      "amount": "1 sheet",
+      "notes": "Seaweed sheets for sushi rolls"
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to the package instructions.",
+    "Cut the uni into small pieces and set aside.",
+    "Prepare the smoky sauce by mixing smoked paprika, chili flakes, and soy sauce in a small bowl.",
+    "Cut the jazz jalapeño into thin slices.",
+    "Prepare the Uruguayan chimichurri by mixing herbs and spices with olive oil in a small bowl.",
+    "Lay a sheet of sushi nori flat and spread a thin layer of sushi rice onto it.",
+    "Place a few pieces of uni in the middle of the rice.",
+    "Drizzle the smoky sauce over the uni.",
+    "Top with a slice of jazz jalapeño.",
+    "Roll the sushi using a bamboo sushi mat.",
+    "Repeat the process to make multiple sushi rolls.",
+    "Serve with a side of Uruguayan chimichurri sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sushi",
+    "seafood",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-smoky-uruguayan-uni-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:48:09.727Z"
+}
