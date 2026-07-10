@@ -1,0 +1,74 @@
+{
+  "slug": "jazzy-vietnamese-tempeh-stew",
+  "title": "Tempeh Stew",
+  "description": "A hearty stew made with tempeh and jazzy flavors, perfect for a chilly evening.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 block"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add tempeh, vegetable broth, and stew.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with jazzy to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-vietnamese-tempeh-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:08:35.760Z"
+}
