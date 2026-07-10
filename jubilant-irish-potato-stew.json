@@ -1,0 +1,90 @@
+{
+  "slug": "jubilant-irish-potato-stew",
+  "title": "Irish Stew Delight",
+  "description": "A hearty and comforting Irish stew made with tender potatoes and flavorful meat. Perfect for a chilly evening.",
+  "cuisine": "irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Stew Meat (beef)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jubilant Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the Irish Stew Meat and cook until browned, approximately 5 minutes.",
+    "Remove the browned meat from the pot and set aside.",
+    "Reduce heat to medium and add the onion, carrot, and celery. Cook until the vegetables are tender, approximately 8 minutes.",
+    "Add the flour and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add 2 cups of water, whisking continuously to avoid lumps.",
+    "Return the browned meat to the pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1.5 hours, or until the meat is tender.",
+    "Add the potatoes and continue to simmer for an additional 30 minutes, or until the potatoes are tender.",
+    "Season with thyme, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 155,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "comfort-food",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-irish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:40:06.772Z"
+}
