@@ -4734,16 +4734,13 @@
   },
   {
     "slug": "jelly-like-canadian-dutch-stroop-pancakes",
-    "title": "Jelly-like Canadian Dutch Stroop Pancakes",
+    "title": "Dutch Stroop Pancakes",
     "tags": [
-      "breakfast",
-      "canadian",
-      "dutch",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pancakes",
+      "dessert",
+      "dutch"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "Dutch",
     "totalTimeMin": 30,
     "shard": "j"
   },
@@ -8013,18 +8010,14 @@
   },
   {
     "slug": "jubilant-irish-potato-stew",
-    "title": "Jubilant Irish Potato Stew",
+    "title": "Irish Stew Delight",
     "tags": [
+      "irish-stew",
       "comfort-food",
-      "irish",
-      "potato",
-      "slow-cook",
-      "vegan-friendly",
-      "vegetarian",
-      "winter"
+      "hearty-stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "irish",
+    "totalTimeMin": 175,
     "shard": "j"
   },
   {
@@ -10704,15 +10697,15 @@
   },
   {
     "slug": "juicy-crispy-korean-semolina-hwajeon",
-    "title": "Korean Semolina Hwajeon",
+    "title": "Crispy Hwajeon with Semolina Crunch",
     "tags": [
       "korean",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "dessert",
+      "semolina",
+      "hwajeon"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
