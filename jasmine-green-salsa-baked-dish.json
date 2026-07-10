@@ -1,0 +1,74 @@
+{
+  "slug": "jasmine-green-salsa-baked-dish",
+  "title": "Jasmine Shrimp Fried Rice",
+  "description": "A quick and easy fried rice dish with succulent shrimp and fresh jasmine rice.",
+  "cuisine": "Asian",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": "mild"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add shrimp and cook until pink and just cooked through, about 2-3 minutes. Remove from wok and set aside.",
+    "Push cooked shrimp to one side of the wok. Crack in eggs and scramble until cooked through.",
+    "Mix eggs with shrimp. Add cooked jasmine rice to the wok, breaking up any clumps with a spatula.",
+    "Stir-fry rice with shrimp and eggs for about 2-3 minutes, until combined and heated through.",
+    "Add green onions, green, and salsa to the wok. Stir-fry for another minute, until combined.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving platter and serve immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "fried rice",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jasmine-green-salsa-baked-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:36:54.710Z"
+}
