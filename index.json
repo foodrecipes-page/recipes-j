@@ -2912,18 +2912,14 @@
   },
   {
     "slug": "jazzed-german-mackerel-bisque",
-    "title": "Jazzed German Mackerel Bisque",
+    "title": "German Jazzed Mackerel",
     "tags": [
-      "bisque",
-      "comfort-food",
-      "fish",
       "german",
-      "keto",
-      "one-pan",
-      "weeknight"
+      "mackerel",
+      "fish"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -4542,17 +4538,14 @@
   },
   {
     "slug": "jazzy-vietnamese-tempeh-stew",
-    "title": "Jazzy Vietnamese Tempeh Stew",
+    "title": "Tempeh Stew",
     "tags": [
-      "ca-kho-to",
-      "dolsot",
-      "quick",
-      "stew",
-      "sugar-free",
-      "vegan"
+      "vegan",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -5150,14 +5143,16 @@
   },
   {
     "slug": "jewel-smoked-korean-pear-wrap",
-    "title": "Jewel-Smoked Korean Pear Wrap",
+    "title": "Jewel-Encrusted Smoked Korean Pear Wrap",
     "tags": [
-      "kid-friendly-greek-dish",
-      "smoky-pear-wrap",
-      "vegan-egg-free"
+      "korean",
+      "pear",
+      "wrap",
+      "snack",
+      "easy-to-make"
     ],
-    "cuisine": "korean-greek fusion",
-    "totalTimeMin": 39,
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -10901,17 +10896,16 @@
   },
   {
     "slug": "juicy-crumbly-syrian-chicken-kebabs",
-    "title": "Juicy Crumbly Syrian Chicken Kebabs",
+    "title": "Syrian-Style Chicken Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "kebabs",
+      "syrian",
+      "grill",
+      "healthy"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
