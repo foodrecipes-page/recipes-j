@@ -1,0 +1,79 @@
+{
+  "slug": "jagged-american-feta-wrap",
+  "title": "Gyros Wrap",
+  "description": "A delicious and easy-to-make wrap filled with juicy lamb gyros, crunchy veggies, and creamy feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Jagged lettuce",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "American wrap",
+      "amount": "1",
+      "notes": "Large, whole wheat"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the lamb strips with salt and pepper.",
+    "Grill the lamb for 3-4 minutes per side, or until cooked through.",
+    "Warm the wrap in a dry pan or in the microwave.",
+    "Spread the tzatziki sauce on the wrap.",
+    "Add the grilled lamb, chopped lettuce, crumbled feta, sliced onion, and diced tomato.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "wrap",
+    "gyros"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-american-feta-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:34:24.722Z"
+}
