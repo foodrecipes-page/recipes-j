@@ -1,0 +1,82 @@
+{
+  "slug": "jazzed-german-mackerel-bisque",
+  "title": "German Jazzed Mackerel",
+  "description": "A flavorful and spicy dish combining the bold flavors of German cuisine with the zesty kick of jazzed seasonings and the rich taste of mackerel.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "jazzed seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "german mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "german beer",
+      "amount": "1/4 cup",
+      "notes": "for basting"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the mackerel fillets and pat dry with paper towels.",
+    "3. In a small bowl, mix together jazzed seasoning blend, german mustard, onion, and caraway seeds.",
+    "4. Place the mackerel fillets in a baking dish and brush the jazzed seasoning mixture evenly over both sides of the fish.",
+    "5. Pour the german beer over the mackerel fillets and baste with lemon juice.",
+    "6. Dot the top of each mackerel fillet with butter.",
+    "7. Bake in the preheated oven for 12-15 minutes or until cooked through.",
+    "8. Remove from oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "mackerel",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzed-german-mackerel-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:36:33.637Z"
+}
