@@ -1,0 +1,70 @@
+{
+  "slug": "jewel-smoked-korean-pear-wrap",
+  "title": "Jewel-Encrusted Smoked Korean Pear Wrap",
+  "description": "A sweet and savory wrap filled with the flavors of Korea and the crunch of jewel-toned ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Korean Pear",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Jewel Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Brush the wrap with vegetable oil and cook for 1-2 minutes on each side, until lightly toasted.",
+    "In a small bowl, mix together the Korean chili flakes and sesame seeds.",
+    "Spread the chili flake mixture evenly over the wrap, leaving a 1-inch border around the edges.",
+    "Arrange the smoked pear slices on top of the chili flake mixture.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice the wrap in half and serve immediately.",
+    "Optional: garnish with additional sesame seeds or chopped herbs.",
+    "Serve with a side of kimchi or pickled vegetables for added flavor and crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pear",
+    "wrap",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-smoked-korean-pear-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:08:08.551Z"
+}
