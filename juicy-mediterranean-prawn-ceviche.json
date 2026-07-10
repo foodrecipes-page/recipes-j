@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-mediterranean-prawn-ceviche",
+  "title": "Mediterranean Prawn Ceviche",
+  "description": "A refreshing and light dish that combines the flavors of the Mediterranean with the sweetness of prawns. Perfect for a hot summer day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "Large, fresh prawns are essential for this recipe"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed lemon juice is a must"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic and let it infuse the flavors"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly slice the red onion and add it to the mix"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop the fresh parsley and sprinkle it on top"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt to bring out the flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper is a must"
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together the lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Add the prawns to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the prawns to 'cook' in the acidity of the lemon juice.",
+    "Just before serving, stir in the chopped red onion and parsley.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ceviche immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "prawn",
+    "ceviche",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-mediterranean-prawn-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:03:19.059Z"
+}
