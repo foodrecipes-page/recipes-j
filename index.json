@@ -142,17 +142,15 @@
   },
   {
     "slug": "jagged-american-feta-wrap",
-    "title": "Jagged American Feta Wrap",
+    "title": "Gyros Wrap",
     "tags": [
-      "american-cuisine",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "quick-snack",
-      "vegan-friendly"
+      "greek",
+      "lamb",
+      "wrap",
+      "gyros"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "Greek",
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -3619,15 +3617,13 @@
   },
   {
     "slug": "jazzy-herbal-brazilian-mozzarella-skewers",
-    "title": "Jazzy Herbal Brazilian Mozzarella Skewers",
+    "title": "Brazilian Grilled Mozzarella Skewers with Herbal Butter",
     "tags": [
-      "brazilian-food",
-      "herbal-recipes",
-      "mozzarella-recipes",
-      "post-workout-snacks",
-      "shojin-recipes",
-      "skewer-recipes",
-      "tagliere-recipes"
+      "grilled",
+      "cheese",
+      "snack",
+      "appetizer",
+      "herbal"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 20,
@@ -4177,18 +4173,14 @@
   },
   {
     "slug": "jazzy-smoky-uruguayan-uni-sushi",
-    "title": "Jazzy Smoky Uruguayan uni Sushi",
+    "title": "Smoky Uni Sushi",
     "tags": [
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "seafood",
-      "smoked",
       "sushi",
-      "uruguayan"
+      "seafood",
+      "fusion"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "cuisine": "Japanese-Argentinean",
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
