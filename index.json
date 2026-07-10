@@ -2771,15 +2771,14 @@
   },
   {
     "slug": "jasmine-green-salsa-baked-dish",
-    "title": "Jasmine Green Salsa Baked Dish",
+    "title": "Jasmine Shrimp Fried Rice",
     "tags": [
-      "jasmine",
-      "green salsa",
-      "baked dish",
-      "vegan"
+      "shrimp",
+      "fried rice",
+      "asian"
     ],
-    "cuisine": "Russian Vegan",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -3126,17 +3125,14 @@
   },
   {
     "slug": "jazzy-cheese-canadian-cheese-pizza",
-    "title": "Jazzy Cheese Canadian Cheese Pizza",
+    "title": "Jazzy Cheese Pizza",
     "tags": [
-      "briny",
-      "canadian",
-      "cheese-pull",
-      "halal",
-      "pacific-northwest",
-      "wood-fired"
+      "pizza",
+      "cheese",
+      "italian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
