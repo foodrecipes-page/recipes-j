@@ -1,0 +1,63 @@
+{
+  "slug": "jazzy-crisp-canadian-chinese-broccoli-stir-fry",
+  "title": "Crispy Canadian Stir Fried Broccoli",
+  "description": "A quick and easy stir fry recipe featuring crispy Canadian bacon and fresh broccoli.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 package"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jazzy soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crisp red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the Canadian bacon and cook until crispy, about 2-3 minutes.",
+    "Add the broccoli and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the jazzy soy sauce and crisp red pepper flakes.",
+    "Pour the sauce over the broccoli and Canadian bacon, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "chinese",
+    "broccoli",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crisp-canadian-chinese-broccoli-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:34:26.321Z"
+}
