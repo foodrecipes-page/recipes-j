@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-yeasty-indian-cheese-paratha",
+  "title": "Indian Cheese Paratha",
+  "description": "A classic Indian flatbread filled with melted cheese, perfect for breakfast or snack. This recipe uses homemade paratha dough and a blend of cheese for an authentic taste.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Homemade Paratha Dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Ghee or Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Start by making the paratha dough by combining 1 cup of flour, 1/4 cup of ghee or melted butter, and salt to taste. Knead for 5 minutes until smooth.",
+    "2. Divide the dough into 4 equal portions and roll out each portion into a thin circle.",
+    "3. Heat a non-stick pan over medium heat and cook each paratha for 1-2 minutes on each side, until puffed and lightly browned.",
+    "4. Meanwhile, mix the mozzarella and cheddar cheese in a bowl.",
+    "5. Place a cooked paratha on a flat surface and spread a quarter of the cheese mixture on one half of the paratha.",
+    "6. Fold the other half over the cheese to form a half-moon shape and press the edges to seal.",
+    "7. Cook the paratha for another minute on each side, until the cheese is melted and the paratha is crispy.",
+    "8. Repeat with the remaining dough and cheese mixture.",
+    "9. Serve the Indian cheese paratha hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "snack",
+    "paratha",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-yeasty-indian-cheese-paratha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:34:51.786Z"
+}
