@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-crumbly-syrian-chicken-kebabs",
+  "title": "Syrian-Style Chicken Kebabs",
+  "description": "A flavorful and healthy recipe featuring marinated chicken, juicy skewers, and an authentic Syrian twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Juicy olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Crumbly sumac",
+      "amount": "2 teaspoons",
+      "notes": "Syrian spice blend"
+    },
+    {
+      "name": "Syrian kebab skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together lemon juice, garlic, and sumac.",
+    "3. Add the chicken to the marinade and mix well.",
+    "4. Thread the marinated chicken onto the kebab skewers.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the kebabs for 8-10 minutes, or until cooked through.",
+    "7. Rotate the kebabs halfway through cooking.",
+    "8. Serve hot, garnished with sliced olives and a sprinkle of sumac."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "syrian",
+    "grill",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crumbly-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:03:20.875Z"
+}
