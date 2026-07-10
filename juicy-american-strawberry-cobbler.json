@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-american-strawberry-cobbler",
+  "title": "American Strawberry Cobbler",
+  "description": "A classic dessert featuring juicy strawberries, a crumbly crust, and a sweet cobbler topping.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "3 cups, hulled and sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup, cut into small pieces"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large, beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced strawberries and granulated sugar.",
+    "Let the mixture sit for about 15 minutes, until the strawberries release their juice.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/4 inch.",
+    "Transfer the dough to a 9x9-inch baking dish, trimming any excess.",
+    "Pour the strawberry mixture into the center of the dough, leaving a 1-inch border around the edges.",
+    "Fold the dough edges up over the filling, pressing gently to seal.",
+    "Brush the top of the cobbler with milk and sprinkle with sugar.",
+    "Bake for 40-50 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "strawberry",
+    "cobbler",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-american-strawberry-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:00:13.085Z"
+}
