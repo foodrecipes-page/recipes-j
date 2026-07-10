@@ -1,0 +1,90 @@
+{
+  "slug": "jewel-toned-polish-vegetable-stew",
+  "title": "Toned Jewel Stew",
+  "description": "A hearty stew made with toned beef, polish sausage, and vegetables, perfect for a cold evening.",
+  "cuisine": "american",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (jewel toned)",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the polish sausage and cook until browned, about 3-4 minutes. Remove from pot and set aside with the beef.",
+    "Add the onion and mushroom to the pot and cook until the onion is translucent.",
+    "Add the carrots and potato to the pot and cook for 5 minutes.",
+    "Add the vegetable broth, salt, and pepper to the pot. Stir to combine.",
+    "Return the beef and polish sausage to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until the meat is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "sausage",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-polish-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:53:32.595Z"
+}
