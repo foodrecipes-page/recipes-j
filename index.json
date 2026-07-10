@@ -3188,17 +3188,15 @@
   },
   {
     "slug": "jazzy-crisp-canadian-chinese-broccoli-stir-fry",
-    "title": "Jazzy Crisp Canadian Chinese Broccoli Stir-fry",
+    "title": "Crispy Canadian Stir Fried Broccoli",
     "tags": [
-      "crisp",
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pan",
-      "quick",
-      "weeknight"
+      "canadian",
+      "chinese",
+      "broccoli",
+      "stir-fry"
     ],
-    "cuisine": "Canadian Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 13,
     "shard": "j"
   },
   {
@@ -5531,17 +5529,15 @@
   },
   {
     "slug": "jewel-toned-polish-vegetable-stew",
-    "title": "Jewel Toned Polish Vegetable Stew",
+    "title": "Toned Jewel Stew",
     "tags": [
-      "comfort-food",
-      "monsoon-recipes",
-      "one-pot",
-      "polish-cuisine",
-      "smoked-flavors",
-      "vegetarian"
+      "stew",
+      "beef",
+      "sausage",
+      "comfort food"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 140,
     "shard": "j"
   },
   {
@@ -13338,17 +13334,15 @@
   },
   {
     "slug": "juicy-mediterranean-prawn-ceviche",
-    "title": "Juicy Mediterranean Prawn Ceviche",
+    "title": "Mediterranean Prawn Ceviche",
     "tags": [
-      "easy-to-make",
-      "healthy",
-      "low-calorie",
       "mediterranean",
-      "refreshing",
+      "prawn",
+      "ceviche",
       "seafood"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
