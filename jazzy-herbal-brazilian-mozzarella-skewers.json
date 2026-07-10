@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-herbal-brazilian-mozzarella-skewers",
+  "title": "Brazilian Grilled Mozzarella Skewers with Herbal Butter",
+  "description": "A fusion of Brazilian flavors with mozzarella cheese, grilled to perfection and served with a side of herbal butter. A perfect snack or appetizer for any occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "preferably buffalo mozzarella"
+    },
+    {
+      "name": "Jazzy skewers",
+      "amount": "10-12",
+      "notes": "preferably bamboo or metal skewers"
+    },
+    {
+      "name": "Herbal butter",
+      "amount": "4 tbsp",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Brazilian spices (e.g. malagueta peppers)",
+      "amount": "to taste",
+      "notes": "adjust according to desired heat level"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the mozzarella cheese into 1-inch cubes.",
+    "3. Thread the cheese cubes onto the jazzy skewers.",
+    "4. In a small bowl, mix together the herbal butter ingredients (see notes).",
+    "5. Brush the herbal butter mixture onto both sides of the cheese cubes.",
+    "6. Season with Brazilian spices to taste.",
+    "7. Grill the skewers for 2-3 minutes per side, or until the cheese is melted and slightly charred.",
+    "8. Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "cheese",
+    "snack",
+    "appetizer",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-herbal-brazilian-mozzarella-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:55:29.984Z"
+}
