@@ -1,0 +1,55 @@
+{
+  "slug": "jewel-toned-dutch-rice-pilaf",
+  "title": "Jewel Toned Dutch Pilaf",
+  "description": "A flavorful and colorful side dish, perfect for accompanying any meal. The jewel toned ingredients add a pop of color and nutrition.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "jewel rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dutch carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the dutch carrots and cook until slightly tender, about 3-4 minutes.",
+    "Add the jewel rice and pilaf seasoning. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "easy-side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-dutch-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:36:56.714Z"
+}
