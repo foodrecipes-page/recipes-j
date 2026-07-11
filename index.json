@@ -15137,18 +15137,15 @@
   },
   {
     "slug": "juicy-smoked-polish-pepper-gratin",
-    "title": "Juicy Smoked Polish Pepper Gratin",
+    "title": "Smoked Polish Sausage with Juicy Gratin",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lacto-vegetarian-friendly",
-      "one-pan",
-      "polish-cuisine",
-      "smoky-flavors",
-      "weeknight-dinner"
+      "polish",
+      "sausage",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -16033,15 +16030,14 @@
   },
   {
     "slug": "juicy-sweet-japanese-apple-salad",
-    "title": "Juicy Sweet Japanese Apple Salad",
+    "title": "Autumn Salad with Apple Vinaigrette",
     "tags": [
-      "juicy-apple-salad",
-      "sweet-japanese-dish",
-      "lazy-sunday-meal",
-      "cider-vinegar-salad"
+      "autumn",
+      "salad",
+      "apple-vinaigrette"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
