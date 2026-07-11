@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-light-thai-shrimp-pad-thai",
+  "title": "Thai Shrimp Stir Fry",
+  "description": "A quick and flavorful Thai-inspired stir fry made with succulent shrimp, crunchy vegetables, and aromatic spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Thai Chili",
+      "amount": "1-2",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "Pad Thai Rice Noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the sliced red onion to the skillet and cook until softened, about 2-3 minutes.",
+    "Add the cooked noodles, soy sauce, and Thai chili to the skillet and stir-fry for 2-3 minutes.",
+    "Return the cooked shrimp to the skillet and stir-fry for another minute.",
+    "Stir in the chopped Thai basil and cook for 30 seconds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "shrimp",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-thai-shrimp-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:52:14.061Z"
+}
