@@ -1737,16 +1737,15 @@
   },
   {
     "slug": "jammed-juicy-filipino-serrano-ham-sisig",
-    "title": "Jammed Juicy Filipino Serrano Ham Sisig",
+    "title": "Filipino Sisig Ham Bites",
     "tags": [
-      "cheese-pull",
-      "filipino-food",
-      "jammy-texture",
-      "low-sodium",
-      "snack-ideas"
+      "filipino",
+      "snack",
+      "ham",
+      "sisig"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -5263,17 +5262,14 @@
   },
   {
     "slug": "jewel-toned-dutch-rice-pilaf",
-    "title": "Jewel Toned Dutch Rice Pilaf",
+    "title": "Jewel Toned Dutch Pilaf",
     "tags": [
-      "ayurvedic-friendly",
-      "dutch-cuisine",
+      "vegetarian",
       "gluten-free",
-      "meal-prep",
-      "one-pan",
-      "vegetarian"
+      "easy-side-dish"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
