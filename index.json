@@ -11173,14 +11173,15 @@
   },
   {
     "slug": "juicy-earthy-thai-goats-cheese-stir-fry",
-    "title": "Juicy Earthy Thai Goats Cheese Stir-fry",
+    "title": "Thai-Style Stir Fry",
     "tags": [
-      "goat-cheese",
+      "thai",
       "stir-fry",
-      "lazy-sunday"
+      "chicken",
+      "vegetables"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
