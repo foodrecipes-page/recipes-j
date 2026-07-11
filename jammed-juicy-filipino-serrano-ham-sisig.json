@@ -1,0 +1,71 @@
+{
+  "slug": "jammed-juicy-filipino-serrano-ham-sisig",
+  "title": "Filipino Sisig Ham Bites",
+  "description": "A fusion twist on the classic Filipino sisig dish, combining crispy ham with spicy serrano peppers and tangy jam.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Filipino-style ham",
+      "amount": "250g",
+      "notes": " diced"
+    },
+    {
+      "name": "Serrano peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Jammed fruit (e.g. pineapple, mango)",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Juicy lumpia wrapper (or any spring roll wrapper)",
+      "amount": "6-8",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the lumpia wrapper into quarters.",
+    "2. In a mixing bowl, combine the diced ham, Serrano peppers, and jammed fruit.",
+    "3. Lay a quarter of the lumpia wrapper on a flat surface.",
+    "4. Place about 1 tablespoon of the ham mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with a little water.",
+    "6. Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up to form a tight cylinder.",
+    "7. Repeat with the remaining ingredients.",
+    "8. Heat a non-stick pan or deep fryer with about 1/4 cup of vegetable oil over medium heat.",
+    "9. When the oil is hot, add a few of the ham bites and fry until golden brown and crispy.",
+    "10. Drain the fried bites on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "snack",
+    "ham",
+    "sisig"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammed-juicy-filipino-serrano-ham-sisig",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:19:11.301Z"
+}
