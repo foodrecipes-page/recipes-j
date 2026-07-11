@@ -1,0 +1,80 @@
+{
+  "slug": "jjigae-style-korean-pork-jjigae",
+  "title": "Korean-Style Pork Jjigae",
+  "description": "A spicy and savory Korean stew made with pork and gochujang, served with a side of steamed rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add pork and cook until browned, about 5 minutes.",
+    "Remove pork from pan and set aside.",
+    "Add gochujang, chili flakes, and 1 tablespoon soy sauce to pan.",
+    "Cook, stirring constantly, until sauce is smooth and fragrant, about 2 minutes.",
+    "Add 1 cup water to pan and bring to a boil.",
+    "Return pork to pan and simmer, covered, until tender, about 20 minutes.",
+    "Stir in remaining 1 tablespoon soy sauce and brown sugar (if using).",
+    "Season with salt and black pepper to taste.",
+    "Garnish with green onions and serve over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "stew",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jjigae-style-korean-pork-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:19.557Z"
+}
