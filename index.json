@@ -7506,17 +7506,16 @@
   },
   {
     "slug": "jubilant-crispy-polish-whole-wheat-pilaf",
-    "title": "Jubilant Crispy Polish Whole Wheat Pilaf",
+    "title": "Polish Jubilant Pilaf",
     "tags": [
-      "crispy",
-      "malty",
-      "one-pot",
+      "pilaf",
+      "polish-cuisine",
+      "weeknight-dinner",
       "vegetarian",
-      "weeknight",
-      "whole-grain"
+      "gluten-free"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -15959,17 +15958,14 @@
   },
   {
     "slug": "juicy-stuffed-grapevine-leaves-dolmades",
-    "title": "Juicy Stuffed Grapevine Leaves Dolmades",
+    "title": "Stuffed Dolmades Recipe",
     "tags": [
-      "dinner",
-      "entree",
-      "greek",
-      "low-carb",
-      "stuffed-greens",
-      "vegetarian"
+      "middle-eastern",
+      "stuffed-grape-leaves",
+      "appetizer"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
