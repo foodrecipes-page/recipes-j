@@ -1,0 +1,88 @@
+{
+  "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones",
+  "title": "Camarones al Ajillo Peruano",
+  "description": "A spicy Peruvian garlic shrimp dish with a smoky twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "shellfish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "jagged",
+      "amount": "2 cloves",
+      "notes": "garlic"
+    },
+    {
+      "name": "camarones",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chupe",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 chipotle pepper",
+      "notes": "diced"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "aji amarillo sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced chipotle pepper and cook for 1 minute.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the chopped camarones, diced tomatoes, and aji amarillo sauce. Stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "garlic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:23:04.800Z"
+}
