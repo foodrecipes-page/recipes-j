@@ -1,0 +1,72 @@
+{
+  "slug": "jubilant-crispy-polish-whole-wheat-pilaf",
+  "title": "Polish Jubilant Pilaf",
+  "description": "A simple and flavorful pilaf dish using whole wheat and polish ingredients. Perfect for a quick weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Slice into bite-sized pieces before using"
+    },
+    {
+      "name": "Jubilant Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into bite-sized pieces"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped and fried until crispy"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "2. Add the sliced Polish Sausage and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the sausage from the skillet and set aside.",
+    "4. Add the chopped Jubilant Carrots to the skillet and cook until tender, about 5 minutes.",
+    "5. Add the whole wheat pilaf to the skillet and stir to combine with the carrots.",
+    "6. Return the cooked sausage to the skillet and stir to combine.",
+    "7. Sprinkle the crispy onions on top of the pilaf mixture.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot and enjoy!",
+    "10. Garnish with additional crispy onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pilaf",
+    "polish-cuisine",
+    "weeknight-dinner",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crispy-polish-whole-wheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:11:31.582Z"
+}
