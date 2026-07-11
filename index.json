@@ -1467,17 +1467,16 @@
   },
   {
     "slug": "jain-friendly-italian-tempeh-carbonara",
-    "title": "Jain Friendly Italian Tempeh Carbonara",
+    "title": "Italian Tempeh Carbonara",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "vegan",
+      "tempeh",
+      "carbonara",
+      "pasta"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -12591,16 +12590,14 @@
   },
   {
     "slug": "juicy-indulgent-syrian-chicken-tagine",
-    "title": "Juicy Indulgent Syrian Chicken Tagine",
+    "title": "Syrian Chicken Tagine",
     "tags": [
-      "syrian",
       "chicken",
+      "syrian",
       "tagine",
-      "whole30",
-      "indulgent",
-      "comforting"
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
     "shard": "j"
   },
