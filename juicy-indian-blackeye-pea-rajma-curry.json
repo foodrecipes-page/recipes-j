@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-indian-blackeye-pea-rajma-curry",
+  "title": "Blackeye Curry with Peas and Rajma",
+  "description": "A flavorful and nutritious Indian-inspired curry made with blackeye peas, juicy rajma, and a hint of spice.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup (dried)",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "rajma",
+      "amount": "1 cup (cooked)",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup (fresh)",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add soaked blackeye peas, cooked rajma, and peas. Mix well.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "curry",
+    "blackeye-peas",
+    "rajma",
+    "peas",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-blackeye-pea-rajma-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:20:35.398Z"
+}
