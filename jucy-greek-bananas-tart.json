@@ -1,0 +1,63 @@
+{
+  "slug": "jucy-greek-bananas-tart",
+  "title": "Greek Tarts with Banana Cream Filling",
+  "description": "A classic Greek dessert featuring flaky tarts filled with a creamy banana filling.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tart",
+      "amount": "1 package (6-8 tarts)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bananas",
+      "amount": "3-4 ripe bananas",
+      "notes": ""
+    },
+    {
+      "name": "jucy",
+      "amount": "1 cup jucy syrup",
+      "notes": "replaced with honey or sugar if needed"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain or flavored"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake tart shells for 12-15 minutes, or until lightly golden.",
+    "Let tarts cool completely on a wire rack.",
+    "Peel bananas and slice into 1-inch pieces.",
+    "In a blender, combine sliced bananas, jucy syrup, and greek yogurt. Blend until smooth.",
+    "Fill each tart shell with the banana cream mixture.",
+    "Chill tarts in the refrigerator for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "greek",
+    "banana",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-greek-bananas-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:43:10.031Z"
+}
