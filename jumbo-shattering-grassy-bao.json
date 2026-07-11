@@ -1,0 +1,93 @@
+{
+  "slug": "jumbo-shattering-grassy-bao",
+  "title": "Grassy Bao Delight",
+  "description": "A refreshing twist on traditional bao with a grassy twist and crispy shattering topping.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grassy Bao Dough",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12 pieces",
+      "notes": "Peel and devein"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shattering Sprinkle (Panko Breadcrumbs)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the bao dough according to the package instructions.",
+    "Divide the dough into 12 equal pieces and shape into balls.",
+    "Roll out each ball into a thin circle.",
+    "Place a jumbo shrimp in the center of each circle and drizzle with soy sauce, hoisin sauce, and sesame oil.",
+    "Fold the bao in half and seal the edges.",
+    "Brush the tops with vegetable oil and sprinkle with shattering sprinkle.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve hot with scallions on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-free",
+    "gluten-free",
+    "grassy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-shattering-grassy-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:26:28.974Z"
+}
