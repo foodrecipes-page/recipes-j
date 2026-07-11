@@ -3706,14 +3706,11 @@
   },
   {
     "slug": "jazzy-kenyan-peanut-butter-fritters",
-    "title": "Jazzy Kenyan Peanut Butter Fritters",
+    "title": "Kenyan Peanut Butter Fritters",
     "tags": [
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "savory",
-      "vegetarian",
-      "weeknight"
+      "peanut-butter",
+      "fritters"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
@@ -13123,14 +13120,12 @@
   },
   {
     "slug": "juicy-light-thai-shrimp-pad-thai",
-    "title": "Juicy Light Thai Shrimp Pad Thai",
+    "title": "Thai Shrimp Stir Fry",
     "tags": [
-      "date-night",
-      "light-meal",
-      "pandan-leaf",
-      "seafood",
-      "shrimp-recipes",
-      "thai-cuisine"
+      "thai",
+      "shrimp",
+      "stir-fry",
+      "noodles"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
