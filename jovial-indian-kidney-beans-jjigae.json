@@ -1,0 +1,81 @@
+{
+  "slug": "jovial-indian-kidney-beans-jjigae",
+  "title": "Korean-Style Kidney Bean Jjigae",
+  "description": "A spicy, savory Korean-inspired stew made with kidney beans and jovial spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Jovial Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Jjigae Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat jovial olive oil in a large pan over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and grated ginger; cook for 1 minute, until fragrant.",
+    "Add kidney beans, jjigae paste, Korean chili flakes, soy sauce, and salt.",
+    "Stir to combine, then bring to a simmer.",
+    "Reduce heat to medium-low and cook, uncovered, for 20-25 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with green onions or toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "lentil-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-indian-kidney-beans-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:14.977Z"
+}
