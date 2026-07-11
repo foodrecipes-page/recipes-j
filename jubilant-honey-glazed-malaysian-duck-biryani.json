@@ -1,0 +1,78 @@
+{
+  "slug": "jubilant-honey-glazed-malaysian-duck-biryani",
+  "title": "Malaysian Duck Biryani",
+  "description": "A flavorful and aromatic dish, combining the richness of duck with the spices of a traditional Malaysian biryani.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "1/2 cup",
+      "notes": "basmati rice"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for glazing"
+    },
+    {
+      "name": "Glazed",
+      "amount": "1 tbsp",
+      "notes": "malt vinegar"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "1 tsp",
+      "notes": "curry powder"
+    },
+    {
+      "name": "Biryani",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate the duck in a mixture of honey, glazed, Malaysian, and biryani for at least 30 minutes.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Remove the duck from the marinade, letting any excess liquid drip off.",
+    "Sear the duck until browned on all sides, about 5-7 minutes.",
+    "Transfer the duck to the oven and roast for 20-25 minutes, or until cooked through.",
+    "While the duck is cooking, heat a large saucepan over medium heat.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Add the jubilant to the saucepan and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "To serve, slice the duck and serve with the jubilant rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "biryani",
+    "malaysian",
+    "rice",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-honey-glazed-malaysian-duck-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:16:23.122Z"
+}
