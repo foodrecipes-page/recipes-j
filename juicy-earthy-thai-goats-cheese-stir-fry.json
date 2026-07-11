@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-earthy-thai-goats-cheese-stir-fry",
+  "title": "Thai-Style Stir Fry",
+  "description": "A quick and flavorful Thai-style stir fry made with juicy chicken, earthy vegetables, and a hint of Thai spices. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the onion and bell pepper to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "Add the snow peas to the skillet and cook until they are tender, about 2-3 minutes.",
+    "Add the curry paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cooked chicken back to the skillet and stir to combine with the vegetables and curry paste.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-earthy-thai-goats-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:59:38.482Z"
+}
