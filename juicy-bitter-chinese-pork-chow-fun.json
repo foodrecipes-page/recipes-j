@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-bitter-chinese-pork-chow-fun",
+  "title": "Crispy Pork Chow Fun",
+  "description": "A classic Cantonese dish made with crispy pork, stir-fried with vegetables and served over a bed of fun noodles.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chow fun noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped scallions and cook until fragrant, about 30 seconds.",
+    "Add the pork shoulder and cook until browned, about 3-4 minutes.",
+    "Add the bitter melon and cook until tender, about 2-3 minutes.",
+    "Add the chow fun noodles and stir-fry for 1-2 minutes.",
+    "Add the juicy tomatoes and stir-fry for another minute.",
+    "Season with soy sauce, oyster sauce, salt, and pepper to taste.",
+    "Transfer the noodle mixture to a serving platter or individual plates.",
+    "Cook the remaining 1 tablespoon of vegetable oil in the wok or skillet over high heat.",
+    "Add the cooked pork shoulder and stir-fry until crispy, about 2-3 minutes.",
+    "Transfer the crispy pork to the noodle mixture and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bitter-chinese-pork-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:35:14.772Z"
+}
