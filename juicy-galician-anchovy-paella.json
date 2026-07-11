@@ -1,0 +1,102 @@
+{
+  "slug": "juicy-galician-anchovy-paella",
+  "title": "Galician Seafood Paella",
+  "description": "A classic Spanish dish from the Galicia region, featuring juicy seafood, savory spices, and aromatic saffron. This paella is perfect for a seafood lover's dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "seafood",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Mussels",
+      "amount": "1 pound",
+      "notes": "Freshly harvested from the coast"
+    },
+    {
+      "name": "Galician Shrimp",
+      "amount": "1 cup",
+      "notes": "Peel and de-vein before use"
+    },
+    {
+      "name": "Anchovy Fillets",
+      "amount": "4-6 fillets",
+      "notes": "Packaged in olive oil"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Dried, high-quality saffron"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Spicy, smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced, freshly chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground pepper"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality, extra-virgin oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add the anchovy fillets and cook for 2-3 minutes, until lightly browned.",
+    "Add the galician shrimp and cook for 2-3 minutes, until pink and cooked through.",
+    "Add the mussels and cook for 2-3 minutes, until they open.",
+    "Add the paella rice and stir to combine with the seafood and spices.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the saffron threads and smoked paprika.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "paella",
+    "galicia"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-galician-anchovy-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:45:41.484Z"
+}
