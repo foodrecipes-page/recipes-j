@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-stuffed-grapevine-leaves-dolmades",
+  "title": "Stuffed Dolmades Recipe",
+  "description": "A traditional Middle Eastern dish of grape leaves stuffed with a mixture of rice, meat, and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grapevine leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove the stems.",
+    "In a large mixing bowl, combine the cooked rice, ground beef, chopped onion, chopped parsley, salt, black pepper, and allspice.",
+    "Mix well to combine.",
+    "Lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the rice mixture in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmades seam-side down in a steamer basket and steam for 20-25 minutes, or until the grape leaves are tender.",
+    "Serve warm with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "stuffed-grape-leaves",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-stuffed-grapevine-leaves-dolmades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:41:57.323Z"
+}
