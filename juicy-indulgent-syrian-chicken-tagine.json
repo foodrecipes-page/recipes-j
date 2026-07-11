@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-indulgent-syrian-chicken-tagine",
+  "title": "Syrian Chicken Tagine",
+  "description": "A flavorful and aromatic dish from the Middle East, made with chicken, spices, and dried fruits.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Syrian spices (dried oregano, cinnamon, allspice)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried fruits (dates, prunes)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Syrian spices, dried fruits, chicken broth, and honey.",
+    "Bring to a simmer and cook, covered, until the chicken is cooked through and the sauce has thickened, about 30-40 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "syrian",
+    "tagine",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indulgent-syrian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:07:25.371Z"
+}
