@@ -1,0 +1,86 @@
+{
+  "slug": "julius-aerated-american-ground-sugar-bake",
+  "title": "Classic American Apple Pie",
+  "description": "A traditional dessert with a crumbly crust and sweet American apples. This classic recipe serves a crowd and makes a great dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Julius apples",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground bake mix",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "aerated flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and chop the apples into a large bowl.",
+    "Add sugar, flour, and spices to the bowl and mix.",
+    "Roll out the ground bake mix and place it in a 9-inch pie dish.",
+    "Fill the pie crust with the apple mixture and dot the top with butter.",
+    "Roll out the remaining pie dough and use it to cover the pie.",
+    "Crimp the edges to seal and cut a few slits in the top.",
+    "Brush the egg wash over the pie and sprinkle with sugar.",
+    "Bake for 40-50 minutes or until the crust is golden brown.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "classic",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/julius-aerated-american-ground-sugar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:41:33.604Z"
+}
