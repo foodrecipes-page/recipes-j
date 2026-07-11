@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-smoked-polish-pepper-gratin",
+  "title": "Smoked Polish Sausage with Juicy Gratin",
+  "description": "A hearty and flavorful dish that combines the savory taste of smoked polish sausage with a rich and creamy gratin.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat-lovers",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Polish Sausage",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "Gratin",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jalapenos",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the smoked polish sausage in a pan over medium-high heat until browned.",
+    "In a separate pan, sauté the onion, garlic, and jalapenos until softened.",
+    "Add the butter to the pan and stir until melted.",
+    "Pour in the cream and bring the mixture to a simmer.",
+    "Add the cheddar cheese and stir until melted and smooth.",
+    "Transfer the gratin to a baking dish and top with the cooked sausage.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes or until golden brown and bubbly.",
+    "Serve hot and garnish with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "sausage",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-polish-pepper-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:55:19.273Z"
+}
