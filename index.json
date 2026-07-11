@@ -8953,17 +8953,15 @@
   },
   {
     "slug": "jucy-greek-bananas-tart",
-    "title": "Juicy Greek Bananas Tart",
+    "title": "Greek Tarts with Banana Cream Filling",
     "tags": [
-      "bananas",
       "dessert",
       "greek",
-      "low-carb",
-      "mascarpone",
-      "tart"
+      "banana",
+      "cream"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -9477,17 +9475,14 @@
   },
   {
     "slug": "juicy-bitter-chinese-pork-chow-fun",
-    "title": "Juicy Bitter Chinese Pork Chow Fun",
+    "title": "Crispy Pork Chow Fun",
     "tags": [
-      "bitter-flavors",
-      "chinese-food",
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chinese",
+      "pork",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -11611,16 +11606,14 @@
   },
   {
     "slug": "juicy-flaky-uruguayan-spaghetti-pasta",
-    "title": "Flaky Uruguayan Spaghetti",
+    "title": "Uruguayan-Style Juicy Flaky Pasta",
     "tags": [
-      "diabetic-friendly",
-      "flambe",
-      "one-pan",
       "uruguayan",
-      "weeknight"
+      "pasta",
+      "vegetarian"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 22,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -16790,17 +16783,17 @@
   },
   {
     "slug": "juicy-ukrainian-lamb-kidney-dumplings",
-    "title": "Ukrainian Lamb Kidney Dumplings",
+    "title": "Traditional Ukrainian Lamb and Kidney Dumplings",
     "tags": [
-      "comfort-food",
+      "ukrainian",
+      "lamb",
+      "kidney",
       "dumplings",
-      "lamb-recipes",
-      "low-fat",
-      "malt-extract",
-      "ukrainian-cuisine"
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
