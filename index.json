@@ -5445,17 +5445,14 @@
   },
   {
     "slug": "jewel-toned-moroccan-chwinamul-rfissa",
-    "title": "Jewel Toned Moroccan Chwinamul Rfissa",
+    "title": "Slow Cooked Chwinamul Stew",
     "tags": [
-      "copper-mug",
-      "low-calorie",
-      "moroccan-food",
-      "rfissa",
-      "special-occasion",
-      "vegetarian"
+      "north-african",
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -5968,18 +5965,14 @@
   },
   {
     "slug": "jewelled-light-roasted-canadian-aubergine-gratin",
-    "title": "Jewelled Light Roasted Canadian Aubergine Gratin",
+    "title": "Roasted Aubergine and Canadian Cheese Gratin",
     "tags": [
       "aubergine",
-      "canadian",
-      "cheese",
-      "easy-weeknight",
       "gratin",
-      "milk",
-      "vegetarian"
+      "cheese"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -17332,16 +17325,15 @@
   },
   {
     "slug": "julius-aerated-american-ground-sugar-bake",
-    "title": "julius aerated american ground sugar bake",
+    "title": "Classic American Apple Pie",
     "tags": [
       "american",
-      "breakfast",
-      "ferment-kimchi",
-      "one-pot",
-      "umami"
+      "classic",
+      "dessert",
+      "pie"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
