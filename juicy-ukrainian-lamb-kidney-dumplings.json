@@ -1,0 +1,99 @@
+{
+  "slug": "juicy-ukrainian-lamb-kidney-dumplings",
+  "title": "Traditional Ukrainian Lamb and Kidney Dumplings",
+  "description": "A hearty Ukrainian-inspired dish featuring tender lamb and kidney, wrapped in homemade dumplings and served with a side of sauerkraut.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb, ground",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Kidney, beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tbsp",
+      "notes": "for dumpling dough"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground lamb, beef kidney, onion, garlic, salt, and black pepper. Mix well with your hands until just combined.",
+    "In a separate bowl, combine flour, egg, and water. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll out each piece into a thin circle.",
+    "Place a spoonful of the lamb and kidney mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "In a large pot or Dutch oven, melt 1 tablespoon of butter over medium heat. Add 4-5 dumplings to the pot and cook for 2-3 minutes on each side, until golden brown.",
+    "Remove the dumplings from the pot and set aside. Repeat with the remaining dumplings.",
+    "Add the remaining 1 tablespoon of butter to the pot and cook for 1-2 minutes, until melted.",
+    "Add 1 cup of sauerkraut to the pot and cook for 2-3 minutes, until heated through.",
+    "Serve the dumplings with the sauerkraut and melted butter.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, until the dumplings are cooked through and the sauerkraut is caramelized."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "lamb",
+    "kidney",
+    "dumplings",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-ukrainian-lamb-kidney-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:07:03.140Z"
+}
