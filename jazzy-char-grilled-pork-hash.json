@@ -1,0 +1,92 @@
+{
+  "slug": "jazzy-char-grilled-pork-hash",
+  "title": "Jazzy Char Grilled Pork Chops with Hash Browns",
+  "description": "A flavorful and juicy grilled pork chop dish served with crispy hash browns, perfect for a weeknight dinner.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4-6 chops, 1 inch thick",
+      "notes": ""
+    },
+    {
+      "name": "Jazzy potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C). Season pork chops with salt, pepper, garlic powder, and onion powder.",
+    "Grill pork chops for 5-7 minutes per side or until they reach 145°F (63°C) for medium-rare. Let rest for 5 minutes.",
+    "Meanwhile, heat olive oil in a skillet over medium-high heat. Add grated potatoes and cook for 5 minutes or until golden brown.",
+    "Add hash to the skillet and cook for an additional 2-3 minutes, stirring frequently.",
+    "Serve pork chops with hash browns and garnish with chopped parsley.",
+    "Cook time for hash browns: 5 minutes.",
+    "Cook time for pork chops: 10-14 minutes.",
+    "Total cooking time: 20-25 minutes.",
+    "Grill pork chops at 400°F (200°C) to ensure food safety.",
+    "Preheat skillet to 400°F (200°C) to ensure crispy hash browns.",
+    "Let pork chops rest for 5 minutes before serving to ensure even distribution of juices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "hash-browns",
+    "dinner",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-char-grilled-pork-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:06:07.407Z"
+}
