@@ -1,0 +1,60 @@
+{
+  "slug": "juicy-sweet-japanese-apple-salad",
+  "title": "Autumn Salad with Apple Vinaigrette",
+  "description": "A refreshing mix of crisp greens, juicy apples, and sweet vinaigrette, perfect for a light lunch or dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Apple",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Juicy sweet dressing (below)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "2 cups",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens and shredded salad.",
+    "2. In a small bowl, whisk together the apple cider vinegar, olive oil, and honey until smooth.",
+    "3. Pour the vinaigrette over the salad and toss to combine.",
+    "4. Top the salad with diced apples and serve immediately.",
+    "5. For the vinaigrette, combine 2 tablespoons apple cider vinegar, 1 tablespoon olive oil, and 1 teaspoon honey in a small bowl. Whisk until smooth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "autumn",
+    "salad",
+    "apple-vinaigrette"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-japanese-apple-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:42:25.070Z"
+}
