@@ -1,0 +1,74 @@
+{
+  "slug": "jewelled-light-roasted-canadian-aubergine-gratin",
+  "title": "Roasted Aubergine and Canadian Cheese Gratin",
+  "description": "A flavorful and rich gratin made with roasted aubergine and melted Canadian cheese.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Light Grated Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Canadian Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jewelled Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Roasted Garlic Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the aubergine into 1/2-inch thick slices.",
+    "Brush both sides of the aubergine slices with jewelled olive oil and season with roasted garlic salt and thyme.",
+    "Place the aubergine slices in a single layer on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a separate saucepan, melt the light grated cheese and Canadian cheese over low heat.",
+    "Once the cheese is melted and smooth, stir in some chopped thyme.",
+    "To assemble the gratin, place a layer of roasted aubergine slices in the bottom of a baking dish.",
+    "Pour some of the melted cheese mixture over the aubergine, followed by another layer of aubergine slices.",
+    "Repeat the layers until all the ingredients are used up, finishing with a layer of cheese on top.",
+    "Bake the gratin in the preheated oven for 20-25 minutes, or until the cheese is golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-light-roasted-canadian-aubergine-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:33:15.473Z"
+}
