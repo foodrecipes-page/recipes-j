@@ -1,0 +1,87 @@
+{
+  "slug": "jazzy-kenyan-peanut-butter-fritters",
+  "title": "Kenyan Peanut Butter Fritters",
+  "description": "A sweet and crispy dessert inspired by Kenyan flavors, made with peanut butter and topped with a sweet jazzy sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "smooth or crunchy, your preference"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "jazzy syrup",
+      "amount": "1/4 cup",
+      "notes": "see jazzy syrup recipe below"
+    },
+    {
+      "name": "fritter oil or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In another bowl, whisk together the peanut butter, eggs, and milk.",
+    "Pour the peanut butter mixture into the dry ingredients and mix until a dough forms.",
+    "Using a cookie scoop or your hands, shape the dough into small balls.",
+    "Fry the fritters in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels.",
+    "Serve warm with a drizzle of jazzy syrup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "peanut-butter",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-kenyan-peanut-butter-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:20:19.287Z"
+}
