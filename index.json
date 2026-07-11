@@ -6179,18 +6179,15 @@
   },
   {
     "slug": "jjigae-style-korean-pork-jjigae",
-    "title": "Jjigae-Style Korean Pork Jjigae",
+    "title": "Korean-Style Pork Jjigae",
     "tags": [
-      "halal",
-      "high-protein",
       "korean",
-      "low-carb",
-      "one-pan",
-      "pressure-cooker",
-      "weeknight"
+      "pork",
+      "stew",
+      "jjigae"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -6729,15 +6726,13 @@
   },
   {
     "slug": "jovial-indian-kidney-beans-jjigae",
-    "title": "Jovial Indian Kidney Beans Jjigae",
+    "title": "Korean-Style Kidney Bean Jjigae",
     "tags": [
-      "creamy",
-      "indian",
-      "kidney-beans",
-      "mustardy",
-      "no-onion-no-garlic"
+      "korean",
+      "stew",
+      "lentil-free"
     ],
-    "cuisine": "indian",
+    "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -12452,17 +12447,18 @@
   },
   {
     "slug": "juicy-indian-blackeye-pea-rajma-curry",
-    "title": "Juicy Indian Blackeye Pea Rajma Curry",
+    "title": "Blackeye Curry with Peas and Rajma",
     "tags": [
-      "andhra",
-      "citrusy",
-      "kid-friendly",
-      "one-pot",
-      "paleo-friendly",
+      "indian-cuisine",
+      "curry",
+      "blackeye-peas",
+      "rajma",
+      "peas",
+      "vegan",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
