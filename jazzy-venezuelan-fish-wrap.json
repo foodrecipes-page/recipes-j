@@ -1,0 +1,81 @@
+{
+  "slug": "jazzy-venezuelan-fish-wrap",
+  "title": "Venezuelan-Style Fish Wrap",
+  "description": "Crisp fried fish in a flavorful Venezuelan-inspired wrap.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jazzy fish fillets",
+      "amount": "2",
+      "notes": "preferably tilapia or mahi mahi"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 tsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish into thin strips and marinate in a mixture of lime juice, garlic powder, and cumin for at least 30 minutes.",
+    "2. Heat the olive oil in a large skillet over medium-high heat.",
+    "3. Add the marinated fish to the skillet and cook until golden brown and crispy, about 3-4 minutes per side.",
+    "4. Warm the wrap in the skillet for 1-2 minutes, until soft and pliable.",
+    "5. Assemble the wrap by placing the fried fish in the center and topping with salt and pepper to taste.",
+    "6. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    " venezuelan",
+    "seafood",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-venezuelan-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:09:05.352Z"
+}
