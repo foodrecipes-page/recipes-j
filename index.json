@@ -168,16 +168,14 @@
   },
   {
     "slug": "jagged-buttery-russian-gruyere-toast",
-    "title": "Jagged Buttery Russian Gruyere Toast",
+    "title": "Russian Toast with Gruyere and Jagged",
     "tags": [
-      "breakfast-ideas",
-      "easy-recipes",
-      "low-calorie",
-      "russian-cuisine",
-      "vegetarian-friendly"
+      "breakfast",
+      "cheese",
+      "european"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 20,
+    "cuisine": "French",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -1606,14 +1604,14 @@
   },
   {
     "slug": "jalapeno-spiced-mexican-poblano-rajas-con-crema",
-    "title": "Jalapeño-spiced Mexican Poblano Rajas con Crema",
+    "title": "Spicy Poblano Rajas with Jalapeno Cream Sauce",
     "tags": [
-      "breakfast-ideas",
-      "mexican-food",
-      "one-pan-dishes",
-      "weeknight-meals"
+      "mexican",
+      "spicy",
+      "crema",
+      "poblano"
     ],
-    "cuisine": "mexican",
+    "cuisine": "Mexican",
     "totalTimeMin": 40,
     "shard": "j"
   },
@@ -13472,13 +13470,14 @@
   },
   {
     "slug": "juicy-midnight-herbs-portuguese-stir-fry",
-    "title": "Juicy Midnight Herbs Portuguese Stir-fry",
+    "title": "Portuguese Midnight Stir Fry",
     "tags": [
-      "juicy-midnight-herbs-portuguese-stir-fry",
-      "portuguese-cuisine",
-      "dairy-free-friendly"
+      "portuguese",
+      "stir-fry",
+      "chicken",
+      "vegetables"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 25,
     "shard": "j"
   },
