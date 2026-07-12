@@ -1,0 +1,79 @@
+{
+  "slug": "jagged-sour-middle-eastern-red-peppers-muhammara",
+  "title": "Muhammara Stuffed Red Peppers",
+  "description": "A flavorful eastern-inspired dish featuring roasted red peppers stuffed with a spicy and tangy muhammara mixture.",
+  "cuisine": "Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jagged Red Peppers",
+      "amount": "4",
+      "notes": "any variety"
+    },
+    {
+      "name": "Muhammara",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Middle Eastern Bread",
+      "amount": "1/4 cup",
+      "notes": "crumbs or panko"
+    },
+    {
+      "name": "Sour Cream or Yogurt",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Eastern Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tops off the red peppers and remove seeds and membranes.",
+    "Roast the peppers in olive oil for 20-25 minutes, or until tender.",
+    "In a bowl, mix together muhammara, bread crumbs, and a pinch of salt and pepper.",
+    "Stuff each pepper with the muhammara mixture.",
+    "Place the peppers in a baking dish and cover with foil.",
+    "Bake for an additional 15-20 minutes, or until heated through.",
+    "Optional: top with a dollop of sour cream or yogurt before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern",
+    "stuffed-peppers",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-sour-middle-eastern-red-peppers-muhammara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:15:15.937Z"
+}
