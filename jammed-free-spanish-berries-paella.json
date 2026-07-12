@@ -1,0 +1,88 @@
+{
+  "slug": "jammed-free-spanish-berries-paella",
+  "title": "Spanish Berry Paella",
+  "description": "A delicious and easy-to-make Spanish-inspired paella dish filled with juicy berries. Perfect for a light and healthy meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "free range chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "free-range chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, salt, and pepper. Stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Add the Spanish rice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add the mixed berries and stir to combine.",
+    "Continue to simmer for an additional 5 minutes.",
+    "Garnish with chopped parsley and serve hot.",
+    "Let paella rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "berry",
+    "paella",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammed-free-spanish-berries-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:21:55.982Z"
+}
