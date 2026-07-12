@@ -1,0 +1,92 @@
+{
+  "slug": "jumbo-chewy-dutch-knead-pudding",
+  "title": "Dutch Pudding with Chewy Jumbo Cookies",
+  "description": "A classic dessert featuring chewy jumbo cookies paired with a rich dutch pudding.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch pudding mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "jumbo marshmallows",
+      "amount": "12-15",
+      "notes": null
+    },
+    {
+      "name": "chewy chocolate chips",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.",
+    "Whisk together flour, sugar, and unsalted butter until a dough forms.",
+    "Roll out dough to 1/4 inch thickness. Cut into desired shapes and bake for 12-15 minutes.",
+    "While cookies are baking, prepare dutch pudding according to package instructions.",
+    "In a separate saucepan, melt jumbo marshmallows over low heat, stirring constantly.",
+    "Combine melted marshmallows with dutch pudding mix, stirring until smooth.",
+    "Chop chewy chocolate chips and fold into pudding mixture.",
+    "Dip cooled cookies into pudding mixture, coating each cookie evenly.",
+    "Place coated cookies on a wire rack to set.",
+    "Refrigerate cookies for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "pudding",
+    "dutch",
+    "dessert",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jumbo-chewy-dutch-knead-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:25:48.151Z"
+}
