@@ -317,16 +317,15 @@
   },
   {
     "slug": "jagged-crispy-malaysian-tempeh-satay",
-    "title": "Jagged Crispy Malaysian Tempeh Satay",
+    "title": "Malaysian Satay Tempeh with Crispy Jagged Nuts",
     "tags": [
-      "air-fryer",
-      "high-protein",
       "malaysian",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "tempeh",
+      "satay",
+      "crispy",
+      "jagged"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -3203,17 +3202,15 @@
   },
   {
     "slug": "jazzy-crispy-thai-chicken-satay",
-    "title": "Jazzy Crispy Thai Chicken Satay",
+    "title": "Crispy Satay Chicken",
     "tags": [
-      "appetizer",
-      "dairy-free",
-      "gluten-free",
-      "raw-friendly",
-      "snack",
-      "thai-cuisine"
+      "satay",
+      "chicken",
+      "asian",
+      "quick-dinner"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -5875,16 +5872,13 @@
   },
   {
     "slug": "jewelled-crisp-romantic-polish-dish-tagine",
-    "title": "Jewelled, Crisp Romantic Polish Dish Tagine",
+    "title": "Crisp Polish Jewelled Tagine",
     "tags": [
-      "dairy-free",
-      "one-pan",
-      "polish",
-      "vegetarian",
-      "weeknight"
+      "saudi-arabian",
+      "moroccan"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -15151,18 +15145,15 @@
   },
   {
     "slug": "juicy-smoked-saudi-arabian-lamb-kebabs",
-    "title": "Juicy Smoked Saudi-Arabian Lamb Kebabs",
+    "title": "Smoked Lamb Kebabs",
     "tags": [
-      "binchotan-charcoal",
-      "gluten-free",
-      "grilled",
-      "kebabs",
       "lamb",
-      "parma-ham",
-      "saudi-arabian"
+      "kebabs",
+      "smoked",
+      "arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -15691,14 +15682,14 @@
   },
   {
     "slug": "juicy-spiced-turkish-turkey-stir-fry",
-    "title": "Juicy Spiced Turkish Turkey Stir-fry",
+    "title": "Spiced Turkish Turkey Stir-Fry",
     "tags": [
-      "juicy-spiced-turkish-turkey-stir-fry",
-      "sweet-adventurous-turkish-dish",
-      "paleo-friendly-recipe"
+      "turkish",
+      "stir-fry",
+      "turkey"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 90,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -18301,6 +18292,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--mexican",
+    "title": "Brazilian-Style Mexican Stuffed Vegetables",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "easy-to-make",
+      "stuffed-peppers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "j"
   }
 ]
