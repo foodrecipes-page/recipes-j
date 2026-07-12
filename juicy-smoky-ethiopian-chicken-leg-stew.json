@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-smoky-ethiopian-chicken-leg-stew",
+  "title": "Ethiopian Smoked Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken and smoked spices, inspired by the cuisine of Ethiopia.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken leg",
+      "amount": "1 1/2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian stew spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chicken leg and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Ethiopian stew spice, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the tomato paste and stir to combine, cooking for 1-2 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with steamed rice or injera for a traditional Ethiopian meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "ethiopian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-ethiopian-chicken-leg-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:38:41.146Z"
+}
