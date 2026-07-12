@@ -1,0 +1,96 @@
+{
+  "slug": "jovial-spicy-korean-chicken-tagine",
+  "title": "Spicy Korean Chicken Tagine",
+  "description": "A fusion of Korean and North African flavors, this spicy chicken tagine is a hearty and aromatic dish. Serve over steamed rice or couscous.",
+  "cuisine": "Korean, North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Jovial Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Korean Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the gochujang, chili flakes, and tagine spice blend. Stir to combine.",
+    "Add the carrots and potatoes. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the tagine and cook over low heat for 30-40 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Stir in the fresh cilantro.",
+    "Serve the tagine over steamed rice or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "chicken",
+    "tagine",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-spicy-korean-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:37:03.165Z"
+}
