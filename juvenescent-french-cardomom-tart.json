@@ -1,0 +1,75 @@
+{
+  "slug": "juvenescent-french-cardomom-tart",
+  "title": "French Tart with Cardamom Crust",
+  "description": "A classic French tart with a twist of cardamom in the crust, perfect for a sweet treat.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the crust with a fork to prevent it from bubbling during baking.",
+    "Line the crust with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes.",
+    "Remove the parchment paper and pie weights or beans.",
+    "Increase the oven temperature to 425°F (220°C).",
+    "Whisk together the eggs, heavy cream, and vanilla extract.",
+    "Pour the egg mixture into the baked tart crust.",
+    "Return the tart to the oven and bake for an additional 15-20 minutes, or until the filling is set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cardamom",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juvenescent-french-cardomom-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:38:02.756Z"
+}
