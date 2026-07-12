@@ -1,0 +1,83 @@
+{
+  "slug": "jarring-sichuan-spiced-algerian-sick-day-dish-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A flavorful Moroccan-inspired chicken stew from Algeria, slow-cooked in a clay pot with aromatic spices. Serve over couscous.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in and skin-on"
+    },
+    {
+      "name": "Algerian jarring spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Spiced preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Cubed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay or ceramic tagine over medium heat.",
+    "Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add spices, preserved lemon, carrots, and potatoes.",
+    "Pour in enough water to cover the ingredients and bring to a simmer.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30 minutes.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-sichuan-spiced-algerian-sick-day-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:37.780Z"
+}
