@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-smoked-saudi-arabian-lamb-kebabs",
+  "title": "Smoked Lamb Kebabs",
+  "description": "A flavorful and aromatic dish inspired by Saudi Arabian cuisine, featuring tender lamb kebabs smothered in a rich, smoky sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lamb",
+    "meat-eaters"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, garlic, lemon juice, salt, and black pepper.",
+    "Add lamb cubes to the marinade, tossing to coat evenly.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb reaches a safe internal temperature of 145°F (63°C).",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot with additional lemon wedges on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "smoked",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:21:03.972Z"
+}
