@@ -1051,17 +1051,15 @@
   },
   {
     "slug": "jagged-smoky-irish-lamb-skewers",
-    "title": "Jagged Smoky Irish Lamb Skewers",
+    "title": "Jagged Lamb Skewers",
     "tags": [
-      "easy-dinner",
-      "grilled-meat",
-      "irish-food",
-      "low-carb",
-      "smoky-flavors",
-      "weeknight"
+      "lamb",
+      "grill",
+      "skewers",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
