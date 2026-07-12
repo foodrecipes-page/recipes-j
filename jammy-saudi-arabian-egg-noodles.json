@@ -1,0 +1,57 @@
+{
+  "slug": "jammy-saudi-arabian-egg-noodles",
+  "title": "Saudi Arabian Egg Noodles",
+  "description": "A simple and flavorful recipe inspired by Middle Eastern cuisine. This dish combines the richness of eggs with the comfort of noodles.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "plain, wide egg noodles"
+    },
+    {
+      "name": "saudi arabian",
+      "amount": "1",
+      "notes": "saudi-style spice blend (e.g. sumac, cinnamon, allspice)"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "In a separate pan, scramble the eggs over medium heat.",
+    "Add the saudi arabian spice blend to the scrambled eggs and stir well.",
+    "Combine the cooked noodles and egg mixture. Serve hot.",
+    "Optional: Serve with a side of jammy sauce (e.g. a sweet and spicy sauce made with jam and herbs)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egg",
+    "noodles",
+    "middle eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-saudi-arabian-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:05:24.543Z"
+}
