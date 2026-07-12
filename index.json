@@ -1108,17 +1108,15 @@
   },
   {
     "slug": "jagged-sour-middle-eastern-red-peppers-muhammara",
-    "title": "Jagged Sour Middle Eastern Red Peppers Muhammara",
+    "title": "Muhammara Stuffed Red Peppers",
     "tags": [
-      "dinner-party",
-      "middle-eastern",
-      "smoky",
-      "sour",
-      "spicy",
-      "whole30"
+      "eastern",
+      "stuffed-peppers",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "cuisine": "Eastern",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -1623,15 +1621,15 @@
   },
   {
     "slug": "jalapeo-braised-argentina-morning-glory-pak-bung-braise",
-    "title": "Jalapeño Braised Morning-Glory-Pak-Bung Braise",
+    "title": "Argentine Morning Glory Braise",
     "tags": [
       "argentine",
-      "flexitarian",
-      "morning-glory-pak-bung",
-      "quick-fix"
+      "breakfast",
+      "morning-glory",
+      "vegetarian"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 45,
+    "cuisine": "argentina",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -1721,16 +1719,16 @@
   },
   {
     "slug": "jammed-free-spanish-berries-paella",
-    "title": "Jammed Free Spanish Berries Paella",
+    "title": "Spanish Berry Paella",
     "tags": [
-      "comfort-food",
-      "herbal",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "spanish",
+      "berry",
+      "paella",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -5984,13 +5982,12 @@
   },
   {
     "slug": "jewelled-post-workout-irish-corn-porridge",
-    "title": "Jewelled Post-Workout Irish Corn Porridge",
+    "title": "Irish Porridge Breakfast",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "breakfast",
+      "porridge",
+      "oats",
+      "irish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 12,
@@ -6118,16 +6115,14 @@
   },
   {
     "slug": "jiggly-korean-tinned-tomatoes-stew",
-    "title": "Jiggly Korean Tinned Tomatoes Stew",
+    "title": "Spicy Stew with Tomatoes",
     "tags": [
-      "bain-marie",
-      "korean-cuisine",
-      "macrobiotic-friendly",
       "spicy",
-      "weeknight"
+      "korean",
+      "stew"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -17659,19 +17654,15 @@
   },
   {
     "slug": "juvenescent-french-cardomom-tart",
-    "title": "juvenescent french cardamom tart",
+    "title": "French Tart with Cardamom Crust",
     "tags": [
-      "brunch",
-      "cardamom",
-      "double-fried",
       "french",
-      "kfc",
-      "lyon",
-      "ovo-vegetarian",
-      "tart"
+      "cardamom",
+      "tart",
+      "dessert"
     ],
-    "cuisine": "lyonnais",
-    "totalTimeMin": 70,
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
