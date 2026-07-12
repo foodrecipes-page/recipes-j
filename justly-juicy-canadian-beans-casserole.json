@@ -1,0 +1,77 @@
+{
+  "slug": "justly-juicy-canadian-beans-casserole",
+  "title": "Canadian Casserole",
+  "description": "A hearty, comforting casserole filled with beans and topped with a crispy, golden crust. Perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Justly Cooked Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Canned Beans",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Casserole Mix",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Cook the ground beef in a large skillet over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Add the canned beans, casserole mix, shredded cheese, milk, eggs, salt, and pepper to the skillet. Stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the casserole is hot and the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "canadian",
+    "comfort-food",
+    "beef",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justly-juicy-canadian-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:14:01.064Z"
+}
