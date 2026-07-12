@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-springy-middle-eastern-lentils-mujadara",
+  "title": "Mujadara (Middle Eastern Lentil and Rice Bowl)",
+  "description": "A classic Middle Eastern dish made with lentils, rice, and onions, typically served with a side of salad or yogurt. This recipe is a simple and nutritious option for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils, brown",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "middle eastern rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the cumin and coriander and cook for 1 minute.",
+    "Add the lentils and rice, stir to combine, and cook for 2 minutes.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the lentils and rice are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "rice",
+    "middle eastern",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-springy-middle-eastern-lentils-mujadara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:18:23.458Z"
+}
