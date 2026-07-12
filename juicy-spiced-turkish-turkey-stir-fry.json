@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-spiced-turkish-turkey-stir-fry",
+  "title": "Spiced Turkish Turkey Stir-Fry",
+  "description": "A flavorful and aromatic stir-fry dish with juicy turkey, served with a side of steamed vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Turkey Breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Spiced Stir-Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "see below for sauce recipe"
+    },
+    {
+      "name": "Turkish Spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, paprika, and coriander"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced turkey breast and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the spiced stir-fry sauce and cook for 1-2 minutes, until the sauce has thickened.",
+    "Stir in the chopped cilantro and season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stir-fry",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spiced-turkish-turkey-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:17:14.182Z"
+}
