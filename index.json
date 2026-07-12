@@ -2743,17 +2743,15 @@
   },
   {
     "slug": "jarring-sichuan-spiced-algerian-sick-day-dish-tagine",
-    "title": "Jarring Sichuan-spiced Algerian Sick-day Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
       "algerian",
-      "dinner",
-      "high-protein",
-      "one-pot",
-      "sick-day",
-      "whole30"
+      "chicken",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -14020,18 +14018,15 @@
   },
   {
     "slug": "juicy-portuguese-korean-pear-agemono",
-    "title": "juicy portuguese korean-pear agemono",
+    "title": "Korean-Style Agemono with Portuguese Sausage and Pear",
     "tags": [
-      "deep-fried",
-      "fusion",
-      "korean-pear",
-      "low-carb",
-      "one-pan",
+      "korean",
       "portuguese",
-      "weeknight"
+      "fusion",
+      "breakfast"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 28,
+    "cuisine": "korean-portuguese fusion",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -17334,16 +17329,16 @@
   },
   {
     "slug": "jumbo-chewy-dutch-knead-pudding",
-    "title": "Jumbo Chewy Dutch Knead Pudding",
+    "title": "Dutch Pudding with Chewy Jumbo Cookies",
     "tags": [
-      "date-night",
+      "cookies",
+      "pudding",
+      "dutch",
       "dessert",
-      "high-carb",
-      "one-pan",
-      "weeknight"
+      "chocolate"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
