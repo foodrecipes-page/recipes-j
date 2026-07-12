@@ -2374,16 +2374,16 @@
   },
   {
     "slug": "jammy-saudi-arabian-egg-noodles",
-    "title": "Jammy Saudi Arabian Egg Noodles",
+    "title": "Saudi Arabian Egg Noodles",
     "tags": [
-      "low-sodium",
-      "middle-eastern",
-      "noodle-dish",
-      "one-pan",
-      "weeknight"
+      "egg",
+      "noodles",
+      "middle eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -2442,17 +2442,14 @@
   },
   {
     "slug": "jammy-springy-algerian-lamb-tagine",
-    "title": "Jammy Springy Algerian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "jammy-dishes",
-      "lamb-based",
-      "one-pot",
-      "paleo-friendly",
-      "slow-cooked"
+      "lamb",
+      "north-african",
+      "couscous"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
