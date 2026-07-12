@@ -1,0 +1,58 @@
+{
+  "slug": "juicy-buttery-syrian-v-sterbottensost-cheese-flatbread",
+  "title": "Syrian-Style Grilled Cheese Flatbread",
+  "description": "A simple and flavorful flatbread dish topped with melted cheese, perfect for a quick snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 sheets",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "1 block",
+      "notes": "such as v or sterbottensost"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Butter one side of each flatbread sheet.",
+    "Place one flatbread sheet, buttered side down, on the grill.",
+    "Top with a slice of Syrian cheese.",
+    "Place another flatbread sheet, buttered side up, on top of the cheese.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the flatbread over and cook for an additional 1-2 minutes.",
+    "Repeat with the remaining ingredients to make 3 more flatbreads.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cheese",
+    "syrian-flatbread",
+    "easy-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-syrian-v-sterbottensost-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:40:23.816Z"
+}
