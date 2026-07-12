@@ -1,0 +1,79 @@
+{
+  "slug": "japanese-chilli-bean-grill",
+  "title": "Korean BBQ Beef Tacos",
+  "description": "A fusion of Korean and Mexican cuisine, featuring marinated beef short ribs grilled to perfection and served in a crispy taco shell.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped (for garnish)"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "6-8 shells"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, chilli flakes, and Korean chili paste.",
+    "Add the beef short ribs to the marinade and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the beef from the marinade and season with salt and pepper.",
+    "Grill the beef for 5-7 minutes per side, or until caramelized and cooked through.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by placing a few slices of the grilled beef onto a shell, followed by a spoonful of bean sprouts and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "tacos",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-chilli-bean-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:04:23.199Z"
+}
