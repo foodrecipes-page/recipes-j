@@ -1,0 +1,94 @@
+{
+  "slug": "jagged-smoky-irish-lamb-skewers",
+  "title": "Jagged Lamb Skewers",
+  "description": "Tender lamb skewers seasoned with smoky spices, perfect for a summer evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "jagged",
+      "amount": "2 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "chipotle powder"
+    },
+    {
+      "name": "irish",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "bamboo or metal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together jagged, smoky, irish, salt, and pepper.",
+    "Add lamb cubes to the bowl and toss to coat with spice mixture.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush olive oil and lemon juice onto the lamb.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with lemon wedges and herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grill",
+    "skewers",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-irish-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:46:11.715Z"
+}
