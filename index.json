@@ -6854,16 +6854,16 @@
   },
   {
     "slug": "jovial-spicy-korean-chicken-tagine",
-    "title": "Jovial Spicy Korean Chicken Tagine",
+    "title": "Spicy Korean Chicken Tagine",
     "tags": [
-      "korean-inspired",
-      "low-fat",
-      "one-pot",
+      "korean",
       "spicy",
-      "tagine"
+      "chicken",
+      "tagine",
+      "dinner"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "cuisine": "Korean, North African",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -17540,18 +17540,14 @@
   },
   {
     "slug": "justly-jazzy-jewel-toned-dutch-pancakes-bake",
-    "title": "Justly Jazzy Jewel-Toned Dutch Pancakes Bake",
+    "title": "Jazzy Dutch Pancakes",
     "tags": [
-      "air-fryer",
       "breakfast",
-      "dutch",
-      "jain-friendly",
-      "one-pan",
-      "snappy",
-      "weeknight"
+      "pancakes",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
