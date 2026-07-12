@@ -1,0 +1,104 @@
+{
+  "slug": "justifiably-juicy-malaysian-tofu-curry",
+  "title": "Malaysian-Style Tofu Curry",
+  "description": "A flavorful and spicy curry made with juicy tofu and a blend of Malaysian spices. Serve with steamed rice or noodles for a satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm tofu, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Malaysian-style curry paste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium chicken broth"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added umami flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the spiciness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced, for garnish"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Fry the onion until softened, about 3-4 minutes.",
+    "Add the grated ginger and cook for another minute, stirring constantly.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add the coconut milk and chicken broth. Stir well to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened slightly.",
+    "Add the tofu and cook for 3-4 minutes, or until lightly browned.",
+    "Season the curry with fish sauce, sugar, and lemon juice. Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with sliced cucumber and chopped cilantro.",
+    "Serve with steamed rice or noodles for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "malaysian",
+    "spicy",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justifiably-juicy-malaysian-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:56:56.980Z"
+}
