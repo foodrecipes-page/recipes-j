@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-portuguese-korean-pear-agemono",
+  "title": "Korean-Style Agemono with Portuguese Sausage and Pear",
+  "description": "A fusion dish that combines the crispy exterior of agemono with the flavors of Korean Gochujang and the sweetness of pear, all wrapped up in a Portuguese sausage",
+  "cuisine": "korean-portuguese fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1/2 pound",
+      "notes": "Cooked and sliced"
+    },
+    {
+      "name": "Agemono",
+      "amount": "1/4 cup",
+      "notes": "Crushed into small pieces"
+    },
+    {
+      "name": "Pear",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added heat"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added depth"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the Portuguese sausage and cook until browned, about 3-4 minutes.",
+    "Add the crushed agemono and cook for an additional 2-3 minutes, stirring constantly.",
+    "Add the diced pear and cook for another 2-3 minutes, until the pear is slightly caramelized.",
+    "In a small bowl, whisk together the Gochujang and soy sauce (if using).",
+    "Pour the Gochujang mixture over the pork and pear mixture, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped green onions.",
+    "Optional: Sprinkle with Korean chili flakes for added heat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "portuguese",
+    "fusion",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-portuguese-korean-pear-agemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:34:47.664Z"
+}
