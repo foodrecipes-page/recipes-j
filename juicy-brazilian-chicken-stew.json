@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-brazilian-chicken-stew",
+  "title": "Brazilian Chicken Stew",
+  "description": "A hearty and flavorful stew originating from Brazil, made with tender chicken and a blend of spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the diced tomatoes, stew, cumin, paprika, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped cilantro. Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with some crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "stew",
+    "lunch",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:38:33.377Z"
+}
