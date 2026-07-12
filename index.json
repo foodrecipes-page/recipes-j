@@ -3884,18 +3884,15 @@
   },
   {
     "slug": "jazzy-monsoon-kenyan-haggis-skewers",
-    "title": "Jazzy Monsoon Kenyan Haggis Skewers",
+    "title": "Kenyan Skewers with Haggis Slaw",
     "tags": [
-      "high-protein",
       "kenyan",
-      "monsoon",
-      "one-pan",
-      "skewer",
+      "fusion",
       "vegetarian",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 23,
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {
@@ -9576,17 +9573,16 @@
   },
   {
     "slug": "juicy-brazilian-chicken-stew",
-    "title": "Juicy Brazilian Chicken Stew",
+    "title": "Brazilian Chicken Stew",
     "tags": [
-      "brazilian-cuisine",
-      "chicken-recipes",
-      "cozy-dinners",
-      "low-calorie",
-      "one-pot",
-      "weeknight-meals"
+      "brazilian",
+      "chicken",
+      "stew",
+      "lunch",
+      "comfortfood"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 60,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -9917,16 +9913,14 @@
   },
   {
     "slug": "juicy-buttery-syrian-v-sterbottensost-cheese-flatbread",
-    "title": "Juicy Buttery Syrian V Sterbottensost Cheese Flatbread",
+    "title": "Syrian-Style Grilled Cheese Flatbread",
     "tags": [
-      "baked-goods",
-      "cheese-lover",
-      "kid-friendly",
-      "low-fodmap",
-      "syrian-cuisine"
+      "grilled-cheese",
+      "syrian-flatbread",
+      "easy-snacks"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 13,
     "shard": "j"
   },
   {
@@ -12236,17 +12230,16 @@
   },
   {
     "slug": "juicy-grilled-mediterranean-lamb-kebabs",
-    "title": "Juicy Grilled Mediterranean Lamb Kebabs",
+    "title": "Lamb Kebabs with Mediterranean Flavors",
     "tags": [
       "grilled",
-      "kebabs",
       "lamb",
-      "meal-prep",
+      "kebabs",
       "mediterranean",
-      "shojin-friendly"
+      "summer"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
