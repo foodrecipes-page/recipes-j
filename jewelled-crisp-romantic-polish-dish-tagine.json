@@ -1,0 +1,71 @@
+{
+  "slug": "jewelled-crisp-romantic-polish-dish-tagine",
+  "title": "Crisp Polish Jewelled Tagine",
+  "description": "A flavorful and aromatic dish from North Africa. This tagine is made with a mix of juicy polish sausage, sweet jewelled onions and a hint of crisp cilantro.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Jewelled onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Crisp cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Dish oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Romantic red pepper",
+      "amount": "1",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in the tagine over medium-high heat.",
+    "2. Add the sausage and cook until browned, about 5 minutes.",
+    "3. Add the onions, red pepper, and spice mix. Cook until the onions are tender, about 8 minutes.",
+    "4. Add 1 cup of water and bring to a boil.",
+    "5. Reduce heat to low, cover, and simmer for 10 minutes.",
+    "6. Stir in the cilantro.",
+    "7. Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-crisp-romantic-polish-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:13:39.256Z"
+}
