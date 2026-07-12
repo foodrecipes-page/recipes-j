@@ -1,0 +1,74 @@
+{
+  "slug": "jazzy-crispy-thai-chicken-satay",
+  "title": "Crispy Satay Chicken",
+  "description": "A simple Asian-inspired dish featuring crispy chicken skewers, perfect for a quick dinner or lunch.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "jazzy rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "crispy noodles",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "thai peanut sauce",
+      "amount": "100ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "satay seasoning",
+      "amount": "5g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "20ml",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together satay seasoning and thai peanut sauce.",
+    "2. Add the chicken pieces to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Thread the marinated chicken onto skewers.",
+    "6. Brush the skewers with vegetable oil and cook for 8-10 minutes, turning occasionally.",
+    "7. Meanwhile, cook the jazzy rice according to package instructions.",
+    "8. To assemble, place a portion of jazzy rice on a plate, then top with crispy satay chicken skewers.",
+    "9. Garnish with crispy noodles and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "satay",
+    "chicken",
+    "asian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crispy-thai-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:27:40.884Z"
+}
