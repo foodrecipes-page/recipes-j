@@ -1,0 +1,65 @@
+{
+  "slug": "juicy-sweet-croatian-bread-flatbread",
+  "title": "Croatian Flatbread with Sweet Juicy Topping",
+  "description": "A delicious and easy-to-make flatbread topped with sweet and juicy ingredients. Perfect as a snack or light lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Juicy peaches",
+      "amount": "2 ripe peaches, diced"
+    },
+    {
+      "name": "Sweet honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/2 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Croatian flatbread into triangles or squares.",
+    "In a bowl, mix diced peaches, honey, and chopped mint.",
+    "Place the flatbread slices on a baking sheet.",
+    "Top each flatbread slice with a spoonful of the peach mixture.",
+    "If using feta cheese, sprinkle on top.",
+    "Bake for 10-12 minutes or until the flatbread is crispy.",
+    "Serve warm and enjoy!",
+    "Optional: grill the flatbread for a crispy crust."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "flatbread",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-croatian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:14:36.938Z"
+}
