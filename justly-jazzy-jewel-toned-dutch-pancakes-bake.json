@@ -1,0 +1,79 @@
+{
+  "slug": "justly-jazzy-jewel-toned-dutch-pancakes-bake",
+  "title": "Jazzy Dutch Pancakes",
+  "description": "A delicious and fluffy pancake recipe inspired by Dutch cuisine, perfect for a weekend breakfast.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dutch",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 teaspoons",
+      "notes": "baking powder"
+    },
+    {
+      "name": "jewel",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "pancakes",
+      "amount": "1 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "bake",
+      "amount": "2 large",
+      "notes": "eggs"
+    },
+    {
+      "name": "justly",
+      "amount": "2 tablespoons",
+      "notes": "butter, melted"
+    },
+    {
+      "name": "toned",
+      "amount": "1 teaspoon",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the milk, eggs, melted butter, and vanilla extract.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with your favorite toppings, such as syrup, butter, or fresh fruit.",
+    "Repeat with the remaining batter, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justly-jazzy-jewel-toned-dutch-pancakes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:35:14.785Z"
+}
