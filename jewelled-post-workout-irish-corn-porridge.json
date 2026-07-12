@@ -1,0 +1,61 @@
+{
+  "slug": "jewelled-post-workout-irish-corn-porridge",
+  "title": "Irish Porridge Breakfast",
+  "description": "A hearty, comforting breakfast porridge made with Irish oats and a hint of sweetness. Serve warm with a sprinkle of jewelled sugar on top.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "jewelled sugar",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "post-workout protein powder",
+      "amount": "1 scoop",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the Irish oats and reduce heat to low.",
+    "Simmer for 5-7 minutes or until the oats have absorbed most of the water and have a creamy consistency.",
+    "Stir in the jewelled sugar, if using.",
+    "Serve warm and top with post-workout protein powder, if desired.",
+    "Add a splash of milk or cream, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "oats",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-post-workout-irish-corn-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:08:25.903Z"
+}
