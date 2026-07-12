@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-crispy-malaysian-tempeh-satay",
+  "title": "Malaysian Satay Tempeh with Crispy Jagged Nuts",
+  "description": "A flavorful and spicy Malaysian-inspired dish featuring crispy jagged nuts, marinated tempeh, and a side of spicy peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz"
+    },
+    {
+      "name": "jagged peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, whisk together soy sauce, lime juice, garlic, ginger, and chili flakes.",
+    "Add the tempeh to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tempeh onto skewers.",
+    "In a separate bowl, toss the jagged peanuts with coconut oil and a pinch of salt.",
+    "Spread the peanuts on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "Grill the tempeh skewers over medium heat for 2-3 minutes per side, or until cooked through.",
+    "Serve the satay tempeh with crispy jagged nuts and a side of spicy peanut sauce (recipe below).",
+    "For the spicy peanut sauce, combine 1/2 cup peanut butter, 1/4 cup coconut milk, 2 tbsp soy sauce, and 1 tsp chili flakes in a blender.",
+    "Blend until smooth and creamy. Serve with the satay tempeh."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "tempeh",
+    "satay",
+    "crispy",
+    "jagged"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-malaysian-tempeh-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:17:16.590Z"
+}
