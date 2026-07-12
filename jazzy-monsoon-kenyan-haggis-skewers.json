@@ -1,0 +1,101 @@
+{
+  "slug": "jazzy-monsoon-kenyan-haggis-skewers",
+  "title": "Kenyan Skewers with Haggis Slaw",
+  "description": "A fusion dish featuring Kenyan spices on skewers served with a tangy haggis slaw. Perfect for a summer evening.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kenyan",
+      "amount": "2 tsp",
+      "notes": " Kenyan spice blend"
+    },
+    {
+      "name": "monsoon",
+      "amount": "1 cup",
+      "notes": "Monsoon rice (or regular rice)"
+    },
+    {
+      "name": "haggis",
+      "amount": "1/2 cup",
+      "notes": "Canned haggis"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 bunch",
+      "notes": "Wooden skewers"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 tbsp",
+      "notes": "Jazzy citrus vinaigrette"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "For slaw"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "For slaw"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "For slaw"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "For slaw dressing"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "For slaw dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread Kenyan-spiced vegetables and haggis onto skewers.",
+    "Brush skewers with vegetable oil.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "For slaw, chop onion, carrot, and cabbage.",
+    "Mix slaw ingredients with apple cider vinegar and mayonnaise.",
+    "Serve skewers with a side of haggis slaw.",
+    "Drizzle Jazzy citrus vinaigrette over skewers and slaw.",
+    "Garnish with Monsoon rice and additional Kenyan spices if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fusion",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-monsoon-kenyan-haggis-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:45:52.858Z"
+}
