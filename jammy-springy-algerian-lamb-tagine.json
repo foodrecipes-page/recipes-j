@@ -1,0 +1,75 @@
+{
+  "slug": "jammy-springy-algerian-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional North African dish made with lamb and flavors from the algerian spice blend. Serve over couscous for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds boneless leg of lamb, cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "springy water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "jammy onions",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add sliced onions and cook until softened, about 5 minutes.",
+    "Add lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add Algerian spice blend and cook for 1 minute.",
+    "Add springy water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Season with salt and black pepper.",
+    "Serve lamb and sauce over couscous.",
+    "Garnish with additional onions and spices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "north-african",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "22g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-springy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:07:14.745Z"
+}
