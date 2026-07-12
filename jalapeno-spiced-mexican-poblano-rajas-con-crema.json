@@ -1,0 +1,70 @@
+{
+  "slug": "jalapeno-spiced-mexican-poblano-rajas-con-crema",
+  "title": "Spicy Poblano Rajas with Jalapeno Cream Sauce",
+  "description": "A flavorful and spicy Mexican dish made with roasted poblanos, jalapeno cream sauce, and a hint of spice.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "poblano",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1",
+      "notes": "dried"
+    },
+    {
+      "name": "crema",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mexican spiced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast the dried poblanos in the oven for 15-20 minutes, turning occasionally, until charred and blistered.",
+    "Remove the poblanos from the oven and let them cool in a bowl, covered with plastic wrap.",
+    "Once the poblanos have cooled, peel off the skin and chop them into 1-inch pieces.",
+    "In a blender or food processor, puree the roasted poblanos, jalapeno, crema, and Mexican spiced until smooth.",
+    "Heat the poblano cream sauce over medium heat until hot and bubbly.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the spicy poblano rajas with the jalapeno cream sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "spicy",
+    "crema",
+    "poblano"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jalapeno-spiced-mexican-poblano-rajas-con-crema",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:53:54.374Z"
+}
