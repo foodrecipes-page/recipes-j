@@ -1,0 +1,71 @@
+{
+  "slug": "jalapeo-braised-argentina-morning-glory-pak-bung-braise",
+  "title": "Argentine Morning Glory Braise",
+  "description": "A unique and flavorful braise made with morning glory and a hint of spicy jalapeño, inspired by Argentine cuisine.",
+  "cuisine": "argentina",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morning Glory",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Braising Liquid",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the sliced jalapeño and cook for 2-3 minutes until fragrant.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the morning glory and cook for 5 minutes until slightly tender.",
+    "Add the braising liquid and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes until the morning glory is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "breakfast",
+    "morning-glory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jalapeo-braised-argentina-morning-glory-pak-bung-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:55:50.150Z"
+}
