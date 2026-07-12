@@ -2640,14 +2640,14 @@
   },
   {
     "slug": "japanese-chilli-bean-grill",
-    "title": "Japanese Chilli Bean Grill",
+    "title": "Korean BBQ Beef Tacos",
     "tags": [
-      "japanese",
-      "chilli bean",
-      "grill",
-      "light"
+      "korean",
+      "bbq",
+      "tacos",
+      "grill"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -15939,17 +15939,15 @@
   },
   {
     "slug": "juicy-sweet-croatian-bread-flatbread",
-    "title": "Juicy Sweet Croatian Bread Flatbread",
+    "title": "Croatian Flatbread with Sweet Juicy Topping",
     "tags": [
-      "fermented",
-      "gluten-free",
       "croatian",
       "flatbread",
-      "sweet",
+      "snack",
       "dessert"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -17580,14 +17578,13 @@
   },
   {
     "slug": "justly-juicy-canadian-beans-casserole",
-    "title": "Justly Juicy Canadian Beans Casserole",
+    "title": "Canadian Casserole",
     "tags": [
-      "baked",
+      "casserole",
       "canadian",
       "comfort-food",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "beef",
+      "beans"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 40,
