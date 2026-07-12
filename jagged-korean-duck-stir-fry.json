@@ -1,0 +1,87 @@
+{
+  "slug": "jagged-korean-duck-stir-fry",
+  "title": "Korean-Style Stir-Fried Duck",
+  "description": "A savory and spicy dish featuring crispy fried duck, stir-fried with crunchy vegetables and served with steamed rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "pork-free",
+    "lamb-free",
+    "fish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2 lbs",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Jagged sauce",
+      "amount": "1 cup",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 cup",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Sliced zucchini",
+      "amount": "1 cup",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Season the duck pieces with salt and pepper.",
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "Add the duck pieces and cook until crispy, about 5 minutes.",
+    "Remove the duck from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of sesame oil.",
+    "Add the sliced carrots and zucchini and cook until tender, about 3-4 minutes.",
+    "Add the jagged sauce and Korean chili flakes (if using) to the skillet.",
+    "Return the duck to the skillet and stir to combine with the sauce and vegetables.",
+    "Cook for an additional 1-2 minutes, until the duck is well coated with the sauce.",
+    "Serve immediately, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "duck",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-korean-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:02:41.103Z"
+}
