@@ -710,15 +710,15 @@
   },
   {
     "slug": "jagged-korean-duck-stir-fry",
-    "title": "Jagged Korean Duck Stir-fry",
+    "title": "Korean-Style Stir-Fried Duck",
     "tags": [
       "korean",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "stir-fry",
+      "duck",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -5077,18 +5077,15 @@
   },
   {
     "slug": "jerusalem-spiced-polish-perilla-seed-deulkkae-pierogi",
-    "title": "Jerusalem-Spiced Polish Perilla-Seed-Deulkkae Pierogi",
+    "title": "Deulkkae Pierogi Stew",
     "tags": [
       "deulkkae",
-      "dinner",
-      "perilla-seed",
-      "polish",
-      "spring",
-      "vegetarian",
-      "weeknight"
+      "pierogi",
+      "stew",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -15273,17 +15270,15 @@
   },
   {
     "slug": "juicy-smoky-ethiopian-chicken-leg-stew",
-    "title": "Juicy Smoky Ethiopian Chicken Leg Stew",
+    "title": "Ethiopian Smoked Chicken Stew",
     "tags": [
       "chicken",
+      "stew",
       "ethiopian",
-      "one-pot",
-      "smoky",
-      "spicy",
-      "stew"
+      "smoked"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -17561,17 +17556,15 @@
   },
   {
     "slug": "justifiably-juicy-malaysian-tofu-curry",
-    "title": "Justifiably Juicy Malaysian Tofu Curry",
+    "title": "Malaysian-Style Tofu Curry",
     "tags": [
-      "comfort-food",
-      "curry-dishes",
-      "malaysian-cuisine",
-      "one-pot",
-      "plant-based",
-      "tofu-recipes"
+      "curry",
+      "malaysian",
+      "spicy",
+      "veggie"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
