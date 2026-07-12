@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-grilled-mediterranean-lamb-kebabs",
+  "title": "Lamb Kebabs with Mediterranean Flavors",
+  "description": "A classic summer dish, these lamb kebabs are marinated in a blend of Mediterranean spices and grilled to perfection.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the kebabs"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinating the lamb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 sprigs",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb pieces onto skewers, leaving a little space between each piece.",
+    "Brush the kebabs with olive oil and season with salt and black pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your liking.",
+    "Transfer the kebabs to a plate and sprinkle with oregano.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "kebabs",
+    "mediterranean",
+    "summer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grilled-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:46:54.639Z"
+}
