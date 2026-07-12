@@ -1,0 +1,64 @@
+{
+  "slug": "jagged-buttery-russian-gruyere-toast",
+  "title": "Russian Toast with Gruyere and Jagged",
+  "description": "A simple, elegant toast recipe featuring the bold flavors of russian cheese and jagged.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russian cheese, crumbled",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gruyere cheese, shredded",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jagged cheese, sliced",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Buttery bread, sliced",
+      "amount": "2 slices",
+      "notes": "preferably baguette"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place sliced buttery bread on a baking sheet.",
+    "Top each slice with crumbled Russian cheese, shredded Gruyere cheese, and thinly sliced jagged cheese.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm, garnished with additional sliced jagged cheese if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cheese",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-buttery-russian-gruyere-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:03:20.569Z"
+}
