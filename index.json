@@ -1991,16 +1991,14 @@
   },
   {
     "slug": "jammy-dense-ukrainian-toffee-popcorn-stir-fry",
-    "title": "Jammy Dense Ukrainian Toffee Popcorn Stir-Fry",
+    "title": "Toffee Popcorn Dessert",
     "tags": [
+      "sweets",
       "dessert",
-      "indulgent",
-      "stir-fry",
-      "toffee-popcorn",
-      "ukrainian"
+      "popcorn"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 18,
+    "cuisine": "Western",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -12446,18 +12444,15 @@
   },
   {
     "slug": "juicy-indian-egg-curry",
-    "title": "Juicy Indian Egg Curry",
+    "title": "Egg Curry",
     "tags": [
-      "curry",
-      "diabetic-friendly",
       "egg",
+      "curry",
       "indian",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
