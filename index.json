@@ -2212,16 +2212,14 @@
   },
   {
     "slug": "jammy-light-argentinian-bok-choi-gyoza",
-    "title": "Jammy Light Argentinian Bok Choi Gyoza",
+    "title": "Bok Choi Stir Fry with Gyoza",
     "tags": [
-      "argentinian",
-      "gluten-free",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "asian",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -9983,14 +9981,16 @@
   },
   {
     "slug": "juicy-canadian-squid-sous-vide",
-    "title": "Floral Juicy Canadian Squid Sous-vide",
+    "title": "Sous Vide Squid with Juicy Canadian Pecans",
     "tags": [
+      "seafood",
       "sous-vide",
-      "vegan-friendly",
-      "floral-squid"
+      "pecans",
+      "squid",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "seafood",
+    "totalTimeMin": 135,
     "shard": "j"
   },
   {
@@ -14313,16 +14313,16 @@
   },
   {
     "slug": "juicy-roasted-jamaican-baby-aubergine-roast",
-    "title": "Juicy Roasted Jamaican Baby Aubergine Roast",
+    "title": "Roasted Aubergine Jamaican Jambalaya",
     "tags": [
-      "jamaican-cuisine",
-      "paleo-friendly",
-      "roasted-vegetables",
-      "spicy-food",
-      "weeknight-meal"
+      "caribbean",
+      "jamaican",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
