@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-indian-egg-curry",
+  "title": "Egg Curry",
+  "description": "A flavorful and spicy Indian-inspired egg curry made with juicy eggs and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until translucent.",
+    "Add curry paste and cook for 1 minute.",
+    "Add tomato and cook until soft.",
+    "Add coconut milk, eggs, garam masala, cumin, and salt.",
+    "Simmer for 10 minutes or until the eggs are cooked through.",
+    "Garnish with juicy tomatoes and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg",
+    "curry",
+    "indian",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-egg-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:40:28.918Z"
+}
