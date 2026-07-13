@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-light-jamaican-tamarind-stir-fry",
+  "title": "Jamaican Jerk Chicken with Tamarind Sauce",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring jerk chicken with a tangy tamarind sauce.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "habanero peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together tamarind paste, brown sugar, soy sauce, allspice, thyme, and nutmeg.",
+    "Add the habanero peppers to the bowl and mix until well combined.",
+    "Place the chicken breasts in a large ziplock bag and pour the marinade over them.",
+    "Toss the chicken to coat evenly and refrigerate for at least 2 hours.",
+    "Remove the chicken from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, heat the tamarind sauce in a small saucepan over medium heat.",
+    "Simmer the sauce for 2-3 minutes, stirring occasionally.",
+    "Serve the grilled chicken with the tamarind sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-jamaican-tamarind-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:51.051Z"
+}
