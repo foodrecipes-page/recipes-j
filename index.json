@@ -1242,16 +1242,16 @@
   },
   {
     "slug": "jagged-tunisian-almonds-tagine",
-    "title": "jagged tunisian almonds tagine",
+    "title": "Tunisian Tagine Chicken with Almonds",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "north african",
+      "stew",
+      "almonds",
+      "tagine"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -8653,17 +8653,16 @@
   },
   {
     "slug": "jubilant-sweet-brazilian-kabocha-crumble",
-    "title": "Jubilant Sweet Brazilian Kabocha Crumble",
+    "title": "Brazilian Sweet Kabocha Crumble",
     "tags": [
-      "brazilian-cuisine",
-      "copper-pot",
-      "crumbly-dish",
-      "gluten-free",
-      "kabocha-squash",
-      "low-carb"
+      "dinner",
+      "dessert",
+      "sweet",
+      "brazilian",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
