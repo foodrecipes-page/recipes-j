@@ -5601,15 +5601,14 @@
   },
   {
     "slug": "jeweled-crunchy-turkish-chicken-pilaf",
-    "title": "Jeweled Crunchy Turkish Chicken Pilaf",
+    "title": "Delicious Chicken Pilaf",
     "tags": [
-      "crunchy-texture",
-      "gluten-free",
-      "one-pot",
-      "turkish-cuisine",
-      "vegetarian-friendly"
+      "chicken",
+      "pilaf",
+      "middle-eastern",
+      "dinner"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
     "shard": "j"
   },
@@ -6235,16 +6234,15 @@
   },
   {
     "slug": "jolly-german-quinoa-bake",
-    "title": "Jolly German Quinoa Bake",
+    "title": "German Quinoa Bake",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pan",
-      "quinoa-bake",
-      "weeknight"
+      "german",
+      "quinoa",
+      "bake",
+      "sausage"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -9617,17 +9615,16 @@
   },
   {
     "slug": "juicy-briny-egyptian-lamb-kebabs",
-    "title": "Juicy Briny Egyptian Lamb Kebabs",
+    "title": "Egyptian Lamb Kebabs",
     "tags": [
-      "egyptian-cuisine",
-      "grape-nut-cereal",
-      "high-protein",
-      "lamb-recipes",
-      "low-calorie",
-      "post-workout"
+      "lamb",
+      "kebabs",
+      "egyptian",
+      "grilled",
+      "meat"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -13025,14 +13022,14 @@
   },
   {
     "slug": "juicy-light-jamaican-tamarind-stir-fry",
-    "title": "Floral Juicy Light Jamaican Tamarind Stir-fry",
+    "title": "Jamaican Jerk Chicken with Tamarind Sauce",
     "tags": [
-      "jamaican-tamarind",
-      "egg-free",
-      "light-dish"
+      "jamaican",
+      "chicken",
+      "grilled"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 24,
+    "totalTimeMin": 32,
     "shard": "j"
   },
   {
