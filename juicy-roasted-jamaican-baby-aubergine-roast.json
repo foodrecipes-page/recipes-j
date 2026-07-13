@@ -1,0 +1,100 @@
+{
+  "slug": "juicy-roasted-jamaican-baby-aubergine-roast",
+  "title": "Roasted Aubergine Jamaican Jambalaya",
+  "description": "A spicy, flavorful twist on a classic jambalaya recipe, featuring roasted aubergine and a hint of Jamaican jerk seasoning.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby aubergine",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Roasted red bell pepper",
+      "amount": "1",
+      "notes": "any leftover roasted peppers will do"
+    },
+    {
+      "name": "Juicy tomato",
+      "amount": "1",
+      "notes": "or 1 can of diced tomatoes"
+    },
+    {
+      "name": "Unsalted chicken broth",
+      "amount": "1 cup",
+      "notes": "vegetarian option"
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup",
+      "notes": "any leftover rice will do"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and minced garlic and sauté until the onion is translucent, about 3-4 minutes.",
+    "Add the diced roasted red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the jerk seasoning and stir to combine.",
+    "Add the baby aubergine and cook for 3-4 minutes, until slightly tender.",
+    "Add the chicken broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes or until the liquid has been absorbed.",
+    "Stir in the cooked rice and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "jamaican",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-jamaican-baby-aubergine-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:37:52.278Z"
+}
