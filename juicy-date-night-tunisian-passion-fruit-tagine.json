@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-date-night-tunisian-passion-fruit-tagine",
+  "title": "Tunisian Date Tagine",
+  "description": "A traditional Tunisian sweet tagine made with juicy dates and a hint of passion fruit. This dessert is perfect for warm evenings.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "juicy dates",
+      "amount": "1 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "passion fruit",
+      "amount": "1 cup, pulp and juice",
+      "notes": null
+    },
+    {
+      "name": "tunisian",
+      "amount": null,
+      "notes": "For garnish"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup, mixed (e.g. grapes, figs)",
+      "notes": null
+    },
+    {
+      "name": "tagine",
+      "amount": null,
+      "notes": "Confectioners' sugar for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and dry the dates, then cut them in half lengthwise.",
+    "In a large mixing bowl, combine the date halves, passion fruit pulp and juice, and mixed fruit.",
+    "Mix well until all the ingredients are well combined.",
+    "Transfer the mixture to a 9-inch round baking dish or a deep-dish pie plate.",
+    "Dust with confectioners' sugar and garnish with a sprinkle of Tunisian spice (if using).",
+    "Bake for 25-30 minutes, or until the fruit is tender and the topping is lightly caramelized.",
+    "Remove from the oven and let cool slightly.",
+    "Serve warm or at room temperature, dusting with additional confectioners' sugar if desired.",
+    "Garnish with a few Tunisian spice sprinkles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "date",
+    "passionfruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 55,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-date-night-tunisian-passion-fruit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:19:53.052Z"
+}
