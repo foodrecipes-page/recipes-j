@@ -1,0 +1,60 @@
+{
+  "slug": "jagged-croatian-basil-pilaf",
+  "title": "Croatian Pilaf with Jagged and Basil",
+  "description": "A flavorful pilaf dish from Croatia, featuring jagged and fragrant basil. This hearty meal is perfect for a satisfying lunch or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Croatian Bread",
+      "amount": "1 cup, cubed",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Croatian Pilaf Mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add jagged and cook until lightly browned, about 5 minutes.",
+    "Add cubed bread and cook until toasted, about 3-4 minutes.",
+    "Stir in pilaf mix and cook according to package instructions.",
+    "Fluff pilaf with a fork and stir in chopped basil.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "basil",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-croatian-basil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:06:16.982Z"
+}
