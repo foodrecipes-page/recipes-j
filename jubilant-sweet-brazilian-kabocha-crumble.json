@@ -1,0 +1,76 @@
+{
+  "slug": "jubilant-sweet-brazilian-kabocha-crumble",
+  "title": "Brazilian Sweet Kabocha Crumble",
+  "description": "A delicious and unique dessert that combines the sweetness of kabocha squash with the crunch of a crumble topping, inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "jubilant",
+      "amount": "1/4 cup, packed brown sugar",
+      "notes": ""
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup, granulated sugar",
+      "notes": ""
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp, ground cinnamon",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1 1/2 cups, all-purpose gluten-free flour",
+      "notes": ""
+    },
+    {
+      "name": "brazilian",
+      "amount": "1/2 cup, cold unsalted butter",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss kabocha cubes with sweet and jubilant in a bowl until well combined.",
+    "Transfer kabocha mixture to a baking dish.",
+    "In a separate bowl, mix crumble and brazilian until well combined.",
+    "Add brazilian cold unsalted butter to crumble mixture and mix until crumbly.",
+    "Spread crumble mixture evenly over kabocha mixture.",
+    "Bake for 35-40 minutes or until topping is golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm, topped with additional crumble if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "dessert",
+    "sweet",
+    "brazilian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-sweet-brazilian-kabocha-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:20:54.757Z"
+}
