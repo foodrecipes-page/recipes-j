@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-briny-egyptian-lamb-kebabs",
+  "title": "Egyptian Lamb Kebabs",
+  "description": "A flavorful and aromatic dish originating from Egypt, featuring juicy lamb skewers grilled to perfection.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup",
+      "notes": "mixed with olive oil, lemon juice, and garlic"
+    },
+    {
+      "name": "briny",
+      "amount": "1/2 cup",
+      "notes": "mixed with olive oil, lemon juice, and oregano"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tbsp",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "3. In a large bowl, whisk together olive oil, lemon juice, garlic, and oregano.",
+    "4. Brush the lamb skewers with the marinade, making sure they're evenly coated.",
+    "5. Sprinkle the ground cumin and coriander over the lamb skewers.",
+    "6. Grill the lamb skewers for 8-10 minutes per side, or until cooked through.",
+    "7. Let the lamb skewers rest for 5 minutes before serving.",
+    "8. Serve hot with your favorite sides, such as rice, salad, or flatbread.",
+    "9. Garnish with fresh parsley or cilantro, if desired.",
+    "10. Enjoy your delicious Egyptian Lamb Kebabs!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "egyptian",
+    "grilled",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "40g",
+    "carbs": "5g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-briny-egyptian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:49.449Z"
+}
