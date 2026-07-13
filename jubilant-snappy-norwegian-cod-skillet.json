@@ -1,0 +1,72 @@
+{
+  "slug": "jubilant-snappy-norwegian-cod-skillet",
+  "title": "Pan-Seared Cod with Crispy Jubilant Breading",
+  "description": "A flavorful and crispy cod dish with a jubilant twist, served with a side of skillet-cooked vegetables.",
+  "cuisine": "nordic",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "1 pound"
+    },
+    {
+      "name": "jubilant breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "snappy vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "norwegian all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "skillet-sauteed vegetables",
+      "amount": "1 cup",
+      "notes": "such as asparagus and bell peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "Dust the cod fillets with norwegian all-purpose flour, shaking off excess.",
+    "Dip the floured cod fillets in jubilant breadcrumbs, pressing gently to adhere.",
+    "Heat the snappy vegetable oil in a skillet over medium-high heat.",
+    "Add the breadcrumb-coated cod fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the cod is cooked through.",
+    "While the cod is baking, saute the skillet-sauteed vegetables in a separate skillet with a little oil until tender.",
+    "Serve the cod fillets with a side of skillet-sauteed vegetables and enjoy!",
+    "Season with salt and pepper to taste, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pescatarian",
+    "nordic",
+    "cod",
+    "breading"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-snappy-norwegian-cod-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:36:36.063Z"
+}
