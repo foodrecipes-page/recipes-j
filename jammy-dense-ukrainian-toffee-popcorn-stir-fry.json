@@ -1,0 +1,55 @@
+{
+  "slug": "jammy-dense-ukrainian-toffee-popcorn-stir-fry",
+  "title": "Toffee Popcorn Dessert",
+  "description": "A sweet and crunchy dessert made with toffee and popcorn.",
+  "cuisine": "Western",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "popcorn",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "toffee",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jammy",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Spread popcorn on a baking sheet and toast in the oven for 5 minutes.",
+    "Melt toffee in a saucepan over low heat.",
+    "Stir in jammy until well combined.",
+    "Pour toffee mixture over popcorn and mix until well coated.",
+    "Let cool and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweets",
+    "dessert",
+    "popcorn"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-dense-ukrainian-toffee-popcorn-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:05:11.935Z"
+}
