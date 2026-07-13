@@ -1,0 +1,64 @@
+{
+  "slug": "jeweled-crunchy-turkish-chicken-pilaf",
+  "title": "Delicious Chicken Pilaf",
+  "description": "A flavorful and easy-to-make dish that combines chicken with pilaf. Perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "turkish pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jeweled rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add 1 tablespoon of oil and cook the chicken until browned, about 5-6 minutes.",
+    "Add the pilaf to the skillet and stir to combine with the chicken.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in the jeweled rice and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with crunchy fried onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-crunchy-turkish-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:03:18.127Z"
+}
