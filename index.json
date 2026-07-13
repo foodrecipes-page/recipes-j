@@ -5790,17 +5790,15 @@
   },
   {
     "slug": "jeweled-umami-chinese-pork-hot-pot",
-    "title": "Jeweled Umami Chinese Pork Hot Pot",
+    "title": "Pork and Jeweled Pot Stew",
     "tags": [
-      "chinese-food",
-      "gluten-free",
-      "hot-pot",
-      "pork-recipes",
-      "umami",
-      "whole30"
+      "chinese",
+      "stew",
+      "pork",
+      "vegetables"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "j"
   },
   {
