@@ -430,17 +430,16 @@
   },
   {
     "slug": "jagged-croatian-basil-pilaf",
-    "title": "Jagged Croatian Basil Pilaf",
+    "title": "Croatian Pilaf with Jagged and Basil",
     "tags": [
       "croatian",
-      "fermented",
-      "macrobiotic",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "pilaf",
+      "basil",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -10982,16 +10981,15 @@
   },
   {
     "slug": "juicy-date-night-tunisian-passion-fruit-tagine",
-    "title": "Juicy Date-Night Tunisian Passion Fruit Tagine",
+    "title": "Tunisian Date Tagine",
     "tags": [
-      "agave-leaf",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "tunisian"
+      "tunisian",
+      "date",
+      "passionfruit",
+      "dessert"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -15459,14 +15457,12 @@
   },
   {
     "slug": "juicy-snappy-indian-vegetable-rasam",
-    "title": "Juicy Snappy Indian Vegetable Rasam",
+    "title": "Indian Vegetable Rasam",
     "tags": [
-      "coconut-based",
-      "indian-cuisine",
-      "one-pot",
-      "ovo-vegetarian",
-      "spicy",
-      "weeknight-dinner"
+      "south-indian",
+      "rasam",
+      "vegetable-based",
+      "comfort-food"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
