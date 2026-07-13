@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-canadian-squid-sous-vide",
+  "title": "Sous Vide Squid with Juicy Canadian Pecans",
+  "description": "A simple and delicious recipe for pan-seared squid with a flavorful crust made from sous vide and Canadian pecans.",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "4-6",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Canadian pecans",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Sous vide bag",
+      "amount": "1",
+      "notes": "For cooking the pecans"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For sous vide bath"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide water bath to 190°F (88°C).",
+    "Season the squid tubes with salt and set aside.",
+    "Add the chopped pecans to a sous vide bag with 1 cup of water and seal.",
+    "Cook the pecans in the sous vide bath for 1 hour.",
+    "Melt the butter in a pan over medium heat. Add the minced garlic and cook for 1 minute.",
+    "Add the squid tubes to the pan and cook for 3-4 minutes per side, until opaque and lightly browned.",
+    "Remove the squid from the pan and set aside. Add the cooked pecans to the pan and toss to combine.",
+    "Serve the squid with the pecan crust and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "sous-vide",
+    "pecans",
+    "squid",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-canadian-squid-sous-vide",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:48:22.503Z"
+}
