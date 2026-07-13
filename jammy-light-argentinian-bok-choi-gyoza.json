@@ -1,0 +1,59 @@
+{
+  "slug": "jammy-light-argentinian-bok-choi-gyoza",
+  "title": "Bok Choi Stir Fry with Gyoza",
+  "description": "A simple and flavorful stir fry made with bok choi and served with pan-fried gyoza.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "Gyoza",
+      "amount": "20-25 pieces",
+      "notes": "pan-fry"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the bok choi and stir-fry for 3-4 minutes, or until tender.",
+    "Add the gyoza to the wok and stir-fry for an additional 2 minutes.",
+    "Pour in the light soy sauce and stir to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-light-argentinian-bok-choi-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:45:41.490Z"
+}
