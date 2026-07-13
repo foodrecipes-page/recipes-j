@@ -1,0 +1,84 @@
+{
+  "slug": "jeweled-umami-chinese-pork-hot-pot",
+  "title": "Pork and Jeweled Pot Stew",
+  "description": "A hearty and flavorful stew that combines the rich taste of pork with the sweetness of jeweled vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "jeweled potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "umami soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pork stock",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the cubed pork and cook until browned on all sides.",
+    "Add the chopped cabbage and cook until softened.",
+    "Add the soy sauce, hot sauce, and pork stock.",
+    "Stir in the cubed potatoes.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 45 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stew",
+    "pork",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-umami-chinese-pork-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:48:21.507Z"
+}
