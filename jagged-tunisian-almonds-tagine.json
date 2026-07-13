@@ -1,0 +1,106 @@
+{
+  "slug": "jagged-tunisian-almonds-tagine",
+  "title": "Tunisian Tagine Chicken with Almonds",
+  "description": "A flavorful North African-inspired stew made with chicken, almonds, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jagged almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tunisian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "green olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the almonds, tagine spice blend, cinnamon, cumin, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the chicken to the pot, cover, and transfer to the oven.",
+    "Bake for 25-30 minutes, or until the chicken is cooked through.",
+    "Stir in the green olives and preserved lemon.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north african",
+    "stew",
+    "almonds",
+    "tagine"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tunisian-almonds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:55.709Z"
+}
