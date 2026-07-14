@@ -1,0 +1,60 @@
+{
+  "slug": "juicy-silky-croatian-milk-pudding",
+  "title": "Croatian Pudding with Silk",
+  "description": "A creamy dessert that brings together the rich flavors of Croatia and silky texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Croatian pudding",
+      "amount": "200g"
+    },
+    {
+      "name": "Silky milk",
+      "amount": "300ml"
+    },
+    {
+      "name": "Juicy croatian cream",
+      "amount": "100g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine the croatian pudding and silky milk.",
+    "2. Heat the mixture over medium heat, whisking constantly.",
+    "3. Add the juicy croatian cream and sugar, whisking until the sugar dissolves.",
+    "4. Bring the mixture to a simmer and cook for 5 minutes.",
+    "5. Remove from heat and let cool slightly.",
+    "6. Pour the mixture into individual serving cups or ramekins.",
+    "7. Chill in the refrigerator for at least 2 hours, or until set.",
+    "8. Serve cold, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "dessert",
+    "pudding",
+    "silk"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-croatian-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:27:44.171Z"
+}
