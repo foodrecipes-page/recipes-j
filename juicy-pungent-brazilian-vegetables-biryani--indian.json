@@ -1,0 +1,106 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--indian",
+  "title": "Vegetable Biryani",
+  "description": "A flavorful and aromatic Indian rice dish made with a mix of vegetables and spices. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, ginger paste, cumin powder, coriander powder, turmeric powder, and red chili powder. Cook until the onion is lightly browned.",
+    "Add chopped carrot, green beans, and tomato. Cook for 5 minutes.",
+    "Add salt to taste and mix well.",
+    "Add basmati rice to the pan and mix well.",
+    "Cook for 2-3 minutes or until the rice is lightly toasted.",
+    "Transfer the mixture to a pot and add 2 cups of water.",
+    "Bring the water to a boil, then reduce the heat to low and cover the pot with a tight-fitting lid.",
+    "Simmer for 15-20 minutes or until the water is absorbed and the rice is cooked.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "rice",
+    "vegetable",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:26:23.746Z"
+}
