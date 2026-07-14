@@ -1,0 +1,96 @@
+{
+  "slug": "jovial-tender-kenyan-farfalle-pasta",
+  "title": "Kenyan-Style Pasta with Tender Meat Sauce",
+  "description": "A hearty and flavorful Kenyan-inspired pasta dish made with tender meat sauce and jovial flair.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "pasta (farfalle)",
+      "amount": "250g",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "Kenyan-style"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Cook the farfalle pasta in a large pot of boiling salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat. Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the tomato paste, curry powder, salt, and black pepper. Stir to combine.",
+    "Add the ketchup (if using) and stir to combine.",
+    "Simmer the sauce for 10-15 minutes, stirring occasionally.",
+    "Add the cooked farfalle pasta to the skillet with the meat sauce. Toss to combine, adding some reserved pasta water if the sauce seems too thick.",
+    "Serve hot, garnished with chopped fresh herbs (optional).",
+    "Enjoy your Kenyan-style pasta dish!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "kenyan",
+    "beef",
+    "meat-sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-tender-kenyan-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:50.673Z"
+}
