@@ -7880,17 +7880,15 @@
   },
   {
     "slug": "jubilant-herbal-canadian-lentil-stew",
-    "title": "Jubilant Herbal Canadian Lentil Stew",
+    "title": "Hearty Lentil Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "herbal-remedies",
-      "lentil-stew",
-      "macrobiotic",
-      "one-pot"
+      "lentil",
+      "stew",
+      "canadian",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "cuisine": "canadian",
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
