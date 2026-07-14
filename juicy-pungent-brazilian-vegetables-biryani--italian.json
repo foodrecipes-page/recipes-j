@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--italian",
+  "title": "Italian Vegetable Biryani",
+  "description": "A flavorful Italian-inspired take on the classic Indian dish, featuring fresh vegetables and aromatic spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetables",
+      "amount": "2 cups, mixed (zucchini, bell peppers, onions)"
+    },
+    {
+      "name": "Brazilian Sausage",
+      "amount": "1 lb, sliced",
+      "notes": "Optional: can substitute Italian sausage"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2 large, chopped",
+      "notes": "Optional: can use canned tomatoes"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Biryani Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup, uncooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onions and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mixed vegetables and cook until tender, about 5 minutes.",
+    "Add the biryani spice mix and cook for 1 minute.",
+    "Add the chopped tomatoes and cook until heated through.",
+    "Add the cooked sausage and vegetable mixture to a large pot of cooked rice.",
+    "Mix well and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "biryani",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:24:28.001Z"
+}
