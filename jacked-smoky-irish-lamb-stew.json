@@ -1,0 +1,95 @@
+{
+  "slug": "jacked-smoky-irish-lamb-stew",
+  "title": "Smoky Irish Lamb Stew",
+  "description": "A hearty, comforting stew perfect for a chilly evening. The smoky flavor adds a depth of taste to this classic Irish dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "jacked potatoes",
+      "amount": "2-3",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "smoky bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "irish stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt and pepper. Dust with flour.",
+    "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside.",
+    "Add the lamb to the pot and cook until browned on all sides, about 5 minutes. Remove the lamb and set aside with the bacon.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add the homemade or store-bought Irish stew to the pot and stir to combine.",
+    "Return the lamb and bacon to the pot. Cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2-1/2 to 3 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread or over mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jacked-smoky-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:31:11.841Z"
+}
