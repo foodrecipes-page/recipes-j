@@ -1,0 +1,92 @@
+{
+  "slug": "jammy-peruvian-potatoes-stew",
+  "title": "Peruvian Stew with Jammy Potatoes",
+  "description": "A hearty and flavorful Peruvian stew made with tender potatoes and a variety of spices, served with a side of jammy potatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian potatoes",
+      "amount": "4",
+      "notes": "any variety, such as purple or yellow"
+    },
+    {
+      "name": "Jammy potatoes",
+      "amount": "2",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Peruvian stew",
+      "amount": "1 can",
+      "notes": "look for a brand with no added salt"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Peruvian stew and stir to combine.",
+    "Add the diced potatoes and stir to combine.",
+    "Season with cumin, paprika, salt, and black pepper to taste.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, or until the potatoes are tender.",
+    "While the stew is cooking, prepare the jammy potatoes.",
+    "Cut the potatoes into 1-inch pieces and place in a bowl.",
+    "Drizzle with oil and season with salt and pepper to taste.",
+    "Toss to combine and spread on a baking sheet.",
+    "Roast in the oven at 425°F (220°C) for 20-25 minutes, or until tender and lightly browned.",
+    "Serve the stew hot, topped with the jammy potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "potatoes",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-peruvian-potatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:30:49.022Z"
+}
