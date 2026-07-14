@@ -1,0 +1,89 @@
+{
+  "slug": "juicy-german-potato-stew",
+  "title": "German Potato Stew",
+  "description": "A hearty German-inspired potato stew made with tender chunks of potato and flavorful stew meat.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 pounds",
+      "notes": "any variety, peeled and diced"
+    },
+    {
+      "name": "juicy stew meat",
+      "amount": "1 pound",
+      "notes": "beef or pork, cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken the stew"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the caraway seeds, if using, and cook for 1 minute.",
+    "Add the potatoes, flour, beef broth, and water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until the potatoes are tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-german-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:07:51.687Z"
+}
