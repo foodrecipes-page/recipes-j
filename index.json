@@ -7650,15 +7650,14 @@
     "slug": "jubilant-dutch-vegetable-casserole",
     "title": "Jubilant Dutch Vegetable Casserole",
     "tags": [
-      "comfort-food",
+      "casserole",
       "dutch",
-      "one-pan",
-      "romantic",
-      "vegetarian",
-      "weeknight"
+      "vegetable",
+      "potatoes",
+      "cheese"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
