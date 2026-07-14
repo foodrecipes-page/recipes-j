@@ -1,0 +1,57 @@
+{
+  "slug": "jubilant-jerked-slovakian-potato-gratin",
+  "title": "Jerked Potato Gratin",
+  "description": "A flavorful twist on a classic gratin dish, this recipe combines the spices of jerk seasoning with the comfort of potato.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian potato",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Jerked jubilant",
+      "amount": "2 tablespoons",
+      "notes": "use the spice blend to season the dish"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/2 cup",
+      "notes": "use the grated cheese to top the potatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the Slovakian potatoes and slice them thinly.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Sprinkle a pinch of jerked jubilant over the potatoes.",
+    "Repeat the layers until all potatoes are used, finishing with a layer of potatoes on top.",
+    "Sprinkle the grated gratin cheese over the top layer of potatoes.",
+    "Bake for 45-50 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-jerked-slovakian-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:36:02.965Z"
+}
