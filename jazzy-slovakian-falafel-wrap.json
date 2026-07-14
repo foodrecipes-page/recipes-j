@@ -1,0 +1,75 @@
+{
+  "slug": "jazzy-slovakian-falafel-wrap",
+  "title": "Slovakian Falafel Wrap",
+  "description": "A delicious Slovakian-inspired wrap packed with crispy falafel, crunchy vegetables, and creamy tzatziki sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Slovakian Wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Jazzy Jicama Slaw",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Falafel Seasoning",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with a small amount of oil over medium heat.",
+    "Cook the falafel according to package instructions, about 5-6 minutes per side.",
+    "Meanwhile, slice the lettuce, tomatoes, and red onion.",
+    "In a separate pan, heat the tzatziki sauce over low heat.",
+    "Assemble the wrap by spreading the tzatziki sauce on the bottom half of the wrap, then adding the cooked falafel, sliced vegetables, and a sprinkle of falafel seasoning.",
+    "Top with the remaining wrap half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "falafel",
+    "wrap",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-slovakian-falafel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:26:11.781Z"
+}
