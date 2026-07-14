@@ -1750,16 +1750,14 @@
   },
   {
     "slug": "jammy-brazilian-doenjang-leaf-wrap",
-    "title": "Jammy Brazilian Doenjang Leaf Wrap",
+    "title": "Brazilian Leaf Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "doenjang-recipes",
-      "iron-teppan-recipes",
-      "kosher-friendly",
-      "leaf-wrap-recipes"
+      "snack",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 5,
     "shard": "j"
   },
   {
@@ -14623,16 +14621,14 @@
   },
   {
     "slug": "juicy-savory-british-pork-pie",
-    "title": "Juicy Savory British Pork Pie",
+    "title": "Traditional British Pork Pie",
     "tags": [
-      "british-food",
-      "comfort-food",
-      "pork-pie",
-      "savory-pastry",
-      "special-occasion"
+      "british",
+      "meat-pie",
+      "homemade"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 70,
+    "cuisine": "british",
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
@@ -16346,17 +16342,15 @@
   },
   {
     "slug": "juicy-tender-sardinian-rocket-panforte",
-    "title": "Sardinian Rocket Panforte",
+    "title": "Sardinian Rocket Panzanella",
     "tags": [
-      "bamboo-tray",
-      "brunch-recipe",
-      "halal-friendly",
-      "italian-cuisine",
-      "sardinian-recipe",
-      "stone-bowl-dolsot"
+      "italian",
+      "summer",
+      "salad",
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -18377,6 +18371,19 @@
       "biryani"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--vegetarian",
+    "title": "Brazilian Vegetable Biryani",
+    "tags": [
+      "brazilian",
+      "vegetarian",
+      "rice",
+      "curry"
+    ],
+    "cuisine": "Brazilian",
     "totalTimeMin": 35,
     "shard": "j"
   }
