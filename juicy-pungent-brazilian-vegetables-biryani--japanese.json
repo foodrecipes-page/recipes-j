@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--japanese",
+  "title": "Brazilian Vegetable Biryani",
+  "description": "A Japanese-inspired twist on the classic Indian dish, with Brazilian flavors and juicy vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian vegetables (such as malagueta peppers, tomatoes, and onions)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "Pungent ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Juicy coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Biryani spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add Brazilian vegetables and cook for 3-4 minutes, until tender.",
+    "Add Japanese short-grain rice and cook for 2-3 minutes, until lightly toasted.",
+    "In a separate pot, combine coconut milk, biryani spice blend, and soy sauce. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Add cooked rice mixture to the skillet with vegetables and ginger. Stir-fry for 2-3 minutes, until combined.",
+    "Transfer mixture to a serving dish and garnish with chopped green onions.",
+    "Serve immediately, hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "brazilian",
+    "rice",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:24:41.897Z"
+}
