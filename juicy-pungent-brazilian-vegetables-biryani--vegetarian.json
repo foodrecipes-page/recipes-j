@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--vegetarian",
+  "title": "Brazilian Vegetable Biryani",
+  "description": "A flavorful and aromatic vegetarian biryani dish from Brazil, featuring a mix of juicy vegetables and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine rice"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and garlic, sauté until softened.",
+    "Add carrots, zucchini, and red bell pepper, cook for 5 minutes.",
+    "Add tomatoes, paprika, and salt. Mix well.",
+    "Add rice to the pan, stir-fry for 2 minutes.",
+    "Add 2 cups of water to the pan, bring to a boil.",
+    "Reduce heat to low, cover the pan, and cook for 15 minutes.",
+    "Turn off heat, let it rest for 5 minutes.",
+    "Fluff the biryani with a fork, serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "vegetarian",
+    "rice",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:13:03.831Z"
+}
