@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-herbal-french-lentils-cassoulet",
+  "title": "Classic French Lentil Cassoulet",
+  "description": "A hearty and flavorful French casserole made with lentils, juicy meat, and herbal spices.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French Green Lentils",
+      "amount": "1 cup",
+      "notes": "rinse and drain well"
+    },
+    {
+      "name": "Juicy Pork Sausages",
+      "amount": "4",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Herbal Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, cook the sausages over medium heat, until browned, about 5 minutes.",
+    "Remove the sausages from the pot, and set aside. Add the chopped onions to the pot, and cook, stirring occasionally, until they are dark golden brown, about 20 minutes.",
+    "Add the lentils, broth, thyme, salt, and pepper to the pot. Stir to combine. Bring to a boil, then cover the pot, and transfer it to the preheated oven.",
+    "Bake for 35-40 minutes, or until the lentils are tender, and the liquid has been absorbed.",
+    "Add the cooked sausages back to the pot, and bake for an additional 10-15 minutes, or until heated through.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "cassoulet",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-herbal-french-lentils-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:23:49.484Z"
+}
