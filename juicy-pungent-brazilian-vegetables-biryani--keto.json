@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--keto",
+  "title": "Brazilian Biryani-Style Veggies",
+  "description": "A keto-friendly twist on the Indian classic, featuring juicy vegetables and a pungent kick.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian vegetables (such as collard greens and cabbage)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Pungent onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Biryani rice mix (make sure it's keto-friendly)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add diced onion and cook until softened, about 3-4 minutes.",
+    "Add diced tomatoes and cook for an additional 2-3 minutes.",
+    "Add Brazilian vegetables and cook until tender, about 5 minutes.",
+    "Stir in biryani rice mix, salt, black pepper, and garlic powder.",
+    "Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:22:47.577Z"
+}
