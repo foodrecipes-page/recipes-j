@@ -1,19 +1,15 @@
 [
   {
     "slug": "jacked-smoky-irish-lamb-stew",
-    "title": "Jacked Smoky Irish Lamb Stew",
+    "title": "Smoky Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "high-protein",
-      "irish-cuisine",
-      "lamb-based",
-      "one-pan-meal",
-      "smoky-flavor",
-      "weeknight-dinner"
+      "irish",
+      "lamb",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 200,
     "shard": "j"
   },
   {
@@ -4701,18 +4697,14 @@
   },
   {
     "slug": "jelly-like-italian-pasta-bruschetta",
-    "title": "Jelly Like Italian Pasta Bruschetta",
+    "title": "Pasta Bruschetta",
     "tags": [
-      "appetizer",
-      "bruschetta",
       "italian",
-      "jelly-like",
       "pasta",
-      "snack",
-      "vegetarian"
+      "snack"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
