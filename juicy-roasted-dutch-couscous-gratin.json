@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-roasted-dutch-couscous-gratin",
+  "title": "Dutch Roasted Vegetable Couscous",
+  "description": "A hearty and flavorful couscous dish loaded with roasted vegetables and a hint of Dutch spice, perfect for a cozy dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "juicy carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "roasted red bell peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together the Dutch spice blend, olive oil, garlic, and salt.",
+    "Add the chopped carrots and toss to coat with the spice mixture.",
+    "Transfer the carrots to a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the carrots are roasting, cook the couscous according to package instructions.",
+    "In a separate pan, heat a tablespoon of olive oil over medium heat.",
+    "Add the diced red bell peppers and cook for 5-7 minutes, or until tender.",
+    "Stir in the shredded gratin cheese until melted.",
+    "To assemble the dish, divide the cooked couscous among plates, top with roasted carrots, and spoon the pepper-gratin mixture over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "vegetarian",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 70,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-dutch-couscous-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:35:11.059Z"
+}
