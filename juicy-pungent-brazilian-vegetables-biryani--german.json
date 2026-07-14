@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--german",
+  "title": "Savory German Vegetable Biryani",
+  "description": "A hearty vegetarian dish that brings the flavors of Germany and India together in a delicious biryani. This recipe features a variety of sautéed vegetables and aromatic spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "german allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brazilian basmati rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion, bell pepper, and carrots. Sauté until the vegetables are tender.",
+    "Add the zucchini, allspice, and garam masala. Sauté for 2 minutes.",
+    "Add the basmati rice to the pan and stir to combine with the vegetables and spices.",
+    "Cook for 2-3 minutes or until the rice is lightly toasted.",
+    "Transfer the mixture to a large saucepan or Dutch oven.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "biryani",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:22:38.787Z"
+}
