@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--french",
+  "title": "French Vegetable Biryani",
+  "description": "A flavorful French-inspired vegetable biryani with a mix of tender vegetables and aromatic spices.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian vegetables (such as sweet potatoes and zucchini)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Juicy onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Pungent garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "French biryani spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the Brazilian vegetables and cook for 5 minutes.",
+    "Add the French biryani spice blend and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving dish.",
+    "Garnish with chopped parsley (if using).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "lunch",
+    "easy",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:23:37.178Z"
+}
