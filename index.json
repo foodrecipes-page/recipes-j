@@ -9707,17 +9707,15 @@
   },
   {
     "slug": "juicy-british-lamb-roast",
-    "title": "Juicy British Lamb Roast",
+    "title": "Roasted Lamb with Herbs",
     "tags": [
-      "english-cuisine",
-      "high-protein",
-      "lamb-recipes",
-      "one-pan",
-      "roast-dinner",
-      "weeknight"
+      "lamb",
+      "roast",
+      "herbs",
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 150,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -11878,16 +11876,15 @@
   },
   {
     "slug": "juicy-german-potato-stew",
-    "title": "Juicy German Potato Stew",
+    "title": "German Potato Stew",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "gluten-free",
-      "one-pot",
-      "sick-day"
+      "german",
+      "potato",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 60,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -12259,16 +12256,14 @@
   },
   {
     "slug": "juicy-herbal-borlotti-tagine",
-    "title": "Juicy Herbal Borlotti Tagine",
+    "title": "Herbal Borlotti Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "herbivore-friendly",
-      "one-pan",
-      "saudi-arabian",
-      "vegan-friendly"
+      "stew",
+      "moroccan",
+      "beans",
+      "beef"
     ],
-    "cuisine": "saudi-arabian",
+    "cuisine": "Moroccan",
     "totalTimeMin": 40,
     "shard": "j"
   },
@@ -18251,6 +18246,138 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--vegan",
+    "title": "Brazilian Vegan Biryani",
+    "tags": [
+      "vegan",
+      "brazilian",
+      "biryani",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--german",
+    "title": "Savory German Vegetable Biryani",
+    "tags": [
+      "german",
+      "vegetarian",
+      "biryani",
+      "rice"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--keto",
+    "title": "Brazilian Biryani-Style Veggies",
+    "tags": [
+      "keto",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--french",
+    "title": "French Vegetable Biryani",
+    "tags": [
+      "french",
+      "vegetarian",
+      "lunch",
+      "easy",
+      "biryani"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--italian",
+    "title": "Italian Vegetable Biryani",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "biryani",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--chinese",
+    "title": "Chinese Vegetable Biryani",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "biryani",
+      "lunch"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--japanese",
+    "title": "Brazilian Vegetable Biryani",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "brazilian",
+      "rice",
+      "vegetables"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--gluten-free",
+    "title": "Brazilian Vegetable Biryani",
+    "tags": [
+      "gluten-free",
+      "brazilian",
+      "vegetarian",
+      "one-pot"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--thai",
+    "title": "Thai Vegetable Biryani",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pungent-brazilian-vegetables-biryani--indian",
+    "title": "Vegetable Biryani",
+    "tags": [
+      "indian",
+      "rice",
+      "vegetable",
+      "biryani"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "j"
   }
 ]
