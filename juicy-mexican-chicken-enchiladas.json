@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-mexican-chicken-enchiladas",
+  "title": "Juicy Chicken Enchiladas",
+  "description": "A delicious and flavorful Mexican dish with tender chicken wrapped in tortillas and covered in a rich enchilada sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "In a large bowl, combine the cooked chicken, diced onion, and diced bell pepper.",
+    "Stir in the cumin and chili powder.",
+    "To assemble the enchiladas, lay a tortilla flat and spoon some of the chicken mixture onto the center of the tortilla.",
+    "Roll the tortilla up and place seam-side down in a baking dish.",
+    "Repeat with the remaining tortillas and chicken mixture.",
+    "Pour the enchilada sauce over the rolled tortillas and top with shredded cheese.",
+    "Cover the baking dish with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and bake for an additional 5-10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "enchiladas",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-mexican-chicken-enchiladas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:23:51.748Z"
+}
