@@ -13299,17 +13299,15 @@
   },
   {
     "slug": "juicy-mexican-chicken-enchiladas",
-    "title": "Juicy Mexican Chicken Enchiladas",
+    "title": "Juicy Chicken Enchiladas",
     "tags": [
-      "cheesy",
-      "chicken-recipes",
-      "comfort-food",
+      "mexican",
+      "chicken",
       "enchiladas",
-      "mexican-food",
-      "weeknight-dinner"
+      "dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -13480,16 +13478,15 @@
   },
   {
     "slug": "juicy-mild-egyptian-lamb-stew",
-    "title": "Juicy Mild Egyptian Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "paleo-friendly",
-      "weeknight"
+      "lamb",
+      "stew",
+      "middle eastern",
+      "hearty"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 140,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
@@ -14989,17 +14986,14 @@
   },
   {
     "slug": "juicy-slovakian-sea-bass-tagine",
-    "title": "Juicy Slovakian Sea Bass Tagine",
+    "title": "Pan-Seared Slovakian Bass with Seafood Tagine",
     "tags": [
-      "date-night",
-      "easy-to-make",
-      "fish",
-      "one-pan",
       "slovakian",
+      "seafood",
       "tagine",
-      "weeknight"
+      "mediterranean"
     ],
-    "cuisine": "slovakian",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "j"
   },
