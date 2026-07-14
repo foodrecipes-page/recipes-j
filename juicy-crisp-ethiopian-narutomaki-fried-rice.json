@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-crisp-ethiopian-narutomaki-fried-rice",
+  "title": "Ethiopian-Style Fried Rice",
+  "description": "A fusion dish combining Ethiopian spices with the classic fried rice. Crispy fried onions add a satisfying crunch to this flavorful meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crisp Onions",
+      "amount": "1 cup",
+      "notes": "Fried until crispy"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tsp",
+      "notes": "Available at most international grocery stores"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked",
+      "notes": "Using leftover or freshly cooked"
+    },
+    {
+      "name": "Narutomaki",
+      "amount": "4 slices",
+      "notes": "Japanese fish cakes, for added protein"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the crisp onions and fry until crispy, about 5 minutes.",
+    "Remove the onions from the skillet and set aside.",
+    "Add the diced juicy tomatoes and cook until they start to soften, about 3 minutes.",
+    "Add the Ethiopian Berbere Spice and stir to combine.",
+    "Add the cooked rice to the skillet and stir to combine with the tomato mixture.",
+    "Add the narutomaki slices and stir to combine.",
+    "Return the crispy onions to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the rice is heated through.",
+    "Serve hot, garnished with additional crisp onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fried-rice",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-ethiopian-narutomaki-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:03:24.351Z"
+}
