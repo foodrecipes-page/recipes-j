@@ -2323,16 +2323,14 @@
   },
   {
     "slug": "jammy-peruvian-potatoes-stew",
-    "title": "jammy Peruvian potatoes stew",
+    "title": "Peruvian Stew with Jammy Potatoes",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "peruvian",
-      "vegetarian",
-      "weeknight"
+      "potatoes",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -6856,17 +6854,15 @@
   },
   {
     "slug": "jovial-tender-kenyan-farfalle-pasta",
-    "title": "Jovial Tender Kenyan Farfalle Pasta",
+    "title": "Kenyan-Style Pasta with Tender Meat Sauce",
     "tags": [
-      "coconut-milk-based",
-      "flexitarian-friendly",
-      "kenyan-cuisine",
-      "one-pot",
-      "pasta-dish",
-      "smoky-flavor"
+      "pasta",
+      "kenyan",
+      "beef",
+      "meat-sauce"
     ],
-    "cuisine": "Kenyan-Italian",
-    "totalTimeMin": 30,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
