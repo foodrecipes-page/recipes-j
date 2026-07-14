@@ -4033,15 +4033,16 @@
   },
   {
     "slug": "jazzy-slovakian-falafel-wrap",
-    "title": "jazzy slovakian falafel wrap",
+    "title": "Slovakian Falafel Wrap",
     "tags": [
-      "high-protein",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "falafel",
+      "wrap",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -12281,17 +12282,15 @@
   },
   {
     "slug": "juicy-herbal-french-lentils-cassoulet",
-    "title": "Juicy Herbal French Lentils Cassoulet",
+    "title": "Classic French Lentil Cassoulet",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "lentil-recipes",
-      "meal-prep",
-      "one-pot",
-      "vegetarian-meals"
+      "lentil",
+      "cassoulet",
+      "french",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 75,
+    "totalTimeMin": 65,
     "shard": "j"
   },
   {
@@ -14866,17 +14865,15 @@
   },
   {
     "slug": "juicy-silky-croatian-milk-pudding",
-    "title": "Croatian Milk Pudding",
+    "title": "Croatian Pudding with Silk",
     "tags": [
       "croatian",
       "dessert",
-      "egg-free",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "pudding",
+      "silk"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
