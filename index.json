@@ -1861,18 +1861,15 @@
   },
   {
     "slug": "jammy-crisp-vietnamese-lamb-banh-mi",
-    "title": "Jammy Crisp Vietnamese Lamb Banh Mi",
+    "title": "Banh Mi Sandwich",
     "tags": [
-      "banh-mi",
-      "chocolate",
-      "gluten-free",
+      "vietnamese",
+      "sandwich",
       "lamb",
-      "low-glycemic",
-      "meal-prep",
-      "vietnamese"
+      "banh-mi"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -15633,15 +15630,15 @@
   },
   {
     "slug": "juicy-spiced-uruguayan-turmeric-stir-fry",
-    "title": "Juicy Spiced Uruguayan Turmeric Stir-fry",
+    "title": "Uruguayan Urchin Stir Fry",
     "tags": [
-      "juicy-spiced",
-      "uruguayan-turmeric-stir-fry",
-      "monsoon-flavors",
-      "diabetic-friendly"
+      "uruguayan",
+      "seafood",
+      "fish",
+      "stir-fry"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
