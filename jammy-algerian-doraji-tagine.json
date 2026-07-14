@@ -1,0 +1,94 @@
+{
+  "slug": "jammy-algerian-doraji-tagine",
+  "title": "Algerian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Algeria, made with tender lamb and aromatic tagine spices.",
+  "cuisine": "algerian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Doraji",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, ginger, and garlic; cook until onion is translucent.",
+    "Add lamb and cook until browned on all sides.",
+    "Add tagine spice mix, salt, and pepper; stir to combine.",
+    "Add doraji and tomatoes; stir to combine.",
+    "Add enough water to cover the lamb; bring to a boil.",
+    "Reduce heat to low and simmer for 2 hours.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "algerian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-algerian-doraji-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:54:38.496Z"
+}
