@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-mild-egyptian-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb, juicy vegetables, and aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "stew",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the cumin, paprika, salt, and black pepper to the pot and stir to combine.",
+    "Add the lamb back to the pot, along with the tomato paste if using.",
+    "Pour in enough water to cover the lamb and vegetables.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "middle eastern",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-mild-egyptian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:24:38.125Z"
+}
