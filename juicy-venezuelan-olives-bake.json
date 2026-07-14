@@ -1,0 +1,75 @@
+{
+  "slug": "juicy-venezuelan-olives-bake",
+  "title": "Venezuelan Juicy Chicken Bake",
+  "description": "A flavorful and moist chicken dish inspired by Venezuelan cuisine. This recipe combines the juiciness of chicken with the savory taste of olives.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat dry with paper towels.",
+    "In a small bowl, mix together garlic, oregano, salt, and pepper.",
+    "Rub the garlic-herb mixture all over the chicken breast.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Remove the chicken from the oven and top with olives.",
+    "Return the skillet to the oven and bake for an additional 5 minutes.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "venezuelan",
+    "oven-baked",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-venezuelan-olives-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:45:38.252Z"
+}
