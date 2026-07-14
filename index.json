@@ -7974,17 +7974,14 @@
   },
   {
     "slug": "jubilant-jerked-slovakian-potato-gratin",
-    "title": "Jubilant Jerked Slovakian Potato Gratin",
+    "title": "Jerked Potato Gratin",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "potato-dish",
-      "slovakian-cuisine",
-      "weeknight",
-      "whole30"
+      "potato",
+      "gratin",
+      "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "cuisine": null,
+    "totalTimeMin": 65,
     "shard": "j"
   },
   {
@@ -9375,15 +9372,17 @@
   },
   {
     "slug": "juicy-australian-chicken-stir-fry",
-    "title": "Juicy Australian Chicken Stir-fry",
+    "title": "Australian-Style Chicken Stir Fry",
     "tags": [
       "australian",
-      "juicy",
-      "kid-friendly",
-      "stir-fry"
+      "chicken",
+      "stir-fry",
+      "easy",
+      "quick",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -10345,17 +10344,15 @@
   },
   {
     "slug": "juicy-crisp-ethiopian-narutomaki-fried-rice",
-    "title": "Juicy Crisp Ethiopian Narutomaki Fried Rice",
+    "title": "Ethiopian-Style Fried Rice",
     "tags": [
-      "crispy-fried-rice",
-      "double-fry",
-      "ethiopian-cuisine",
-      "narutomaki-recipe",
-      "solo-dinner",
-      "vegetarian-friendly"
+      "ethiopian",
+      "fried-rice",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14242,14 +14239,12 @@
   },
   {
     "slug": "juicy-roasted-dutch-couscous-gratin",
-    "title": "Juicy Roasted Dutch Couscous Gratin",
+    "title": "Dutch Roasted Vegetable Couscous",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "macrobiotic",
-      "one-pan",
+      "dutch",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
