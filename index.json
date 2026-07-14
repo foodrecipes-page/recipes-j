@@ -983,17 +983,14 @@
   },
   {
     "slug": "jagged-savory-kenyan-beef-stew",
-    "title": "Jagged Savory Kenyan Beef Stew",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 105,
     "shard": "j"
   },
   {
@@ -1735,17 +1732,15 @@
   },
   {
     "slug": "jammy-algerian-doraji-tagine",
-    "title": "Jammy Algerian Doraji Tagine",
+    "title": "Algerian Lamb Stew",
     "tags": [
+      "lamb",
+      "stew",
       "algerian",
-      "comfort-food",
-      "dehydrated",
-      "one-pot",
-      "tagine",
-      "vegan"
+      "tagine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "algerian",
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {
@@ -15026,17 +15021,16 @@
   },
   {
     "slug": "juicy-slow-cooked-vietnamese-barramundi-curry",
-    "title": "Juicy Slow Cooked Vietnamese Barramundi Curry",
+    "title": "Pan-Seared Barramundi with Vietnamese Curry Sauce",
     "tags": [
-      "coconut-based",
-      "healthy",
+      "vietnamese",
+      "fish",
       "seafood",
-      "slow-cooked",
-      "spicy",
-      "vietnamese-cuisine"
+      "curry",
+      "barramundi"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 140,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
