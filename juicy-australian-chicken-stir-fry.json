@@ -1,0 +1,99 @@
+{
+  "slug": "juicy-australian-chicken-stir-fry",
+  "title": "Australian-Style Chicken Stir Fry",
+  "description": "A simple and flavorful stir fry recipe made with juicy Australian chicken, featuring a balance of savory and sweet flavors.",
+  "cuisine": "australian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "Any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the bell pepper to the skillet and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce and honey.",
+    "Pour the soy sauce mixture over the vegetables in the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the chicken and vegetable mixture to a serving platter and garnish with sliced green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chicken",
+    "stir-fry",
+    "easy",
+    "quick",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-australian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:11:16.363Z"
+}
