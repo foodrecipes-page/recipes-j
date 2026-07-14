@@ -1,0 +1,61 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--chinese",
+  "title": "Chinese Vegetable Biryani",
+  "description": "A flavorful and nutritious Chinese-inspired biryani dish packed with juicy vegetables and aromatic spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetables",
+      "amount": "1 cup",
+      "notes": "Mixed vegetables such as carrots, bell peppers, and broccoli"
+    },
+    {
+      "name": "Biryani",
+      "amount": "1 cup",
+      "notes": "Pre-cooked biryani rice"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 cup",
+      "notes": "Diced juicy pineapple"
+    },
+    {
+      "name": "Pungent",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "1 tablespoon",
+      "notes": "Soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the mixed vegetables and cook for 3-4 minutes until they start to soften.",
+    "Add the pre-cooked biryani rice and stir-fry for 2-3 minutes.",
+    "Add the diced juicy pineapple and soy sauce. Stir-fry for another 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "biryani",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:24:31.249Z"
+}
