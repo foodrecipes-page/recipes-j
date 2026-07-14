@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-spiced-uruguayan-turmeric-stir-fry",
+  "title": "Uruguayan Urchin Stir Fry",
+  "description": "A spicy and savory stir fry inspired by Uruguayan cuisine, featuring succulent urchin and a blend of warm spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "urchin",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for high heat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "spiced stir-fry seasoning",
+      "amount": "1 teaspoon",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "adds warmth and depth"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "season to your liking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over high heat.",
+    "Add the sliced onion and cook for 3-4 minutes, until translucent.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the urchin and cook for 2-3 minutes, until it starts to brown.",
+    "Add the spiced stir-fry seasoning and turmeric, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the urchin is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Enjoy your delicious Uruguayan Urchin Stir Fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "seafood",
+    "fish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spiced-uruguayan-turmeric-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:02:29.369Z"
+}
