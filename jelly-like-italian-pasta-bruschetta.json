@@ -1,0 +1,62 @@
+{
+  "slug": "jelly-like-italian-pasta-bruschetta",
+  "title": "Pasta Bruschetta",
+  "description": "A classic Italian dish made with toasted bread and topped with a mixture of pasta, tomatoes, garlic, and herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Bruschetta",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Like",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package directions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add chopped bruschetta and cook for 2-3 minutes.",
+    "Add cooked pasta, Italian seasoning, and jelly to the skillet. Toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-italian-pasta-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:01:12.159Z"
+}
