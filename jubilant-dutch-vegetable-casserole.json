@@ -1,0 +1,89 @@
+{
+  "slug": "jubilant-dutch-vegetable-casserole",
+  "title": "Jubilant Dutch Vegetable Casserole",
+  "description": "A hearty and flavorful casserole made with jubilant spices, dutch potatoes, and a medley of vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Vegetables (carrots, zucchini, bell peppers)",
+      "amount": "1 cup each",
+      "notes": null
+    },
+    {
+      "name": "Jubilant spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Casserole seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the potatoes, then boil them in salted water until tender.",
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the jubilant spice blend, casserole seasoning, and sautéed vegetables to the pot.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Top the potatoes with shredded cheddar cheese and breadcrumbs.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "dutch",
+    "vegetable",
+    "potatoes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-dutch-vegetable-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:11:40.525Z"
+}
