@@ -1,0 +1,58 @@
+{
+  "slug": "jammy-brazilian-doenjang-leaf-wrap",
+  "title": "Brazilian Leaf Wrap",
+  "description": "A simple and delicious snack combining the flavors of Brazil with the freshness of leafy greens. Wrap all the ingredients in a soft wrap to create a perfect snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian Doenjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Leafy Greens",
+      "amount": "1 cup",
+      "notes": "any type of leafy green, chopped"
+    },
+    {
+      "name": "Jammy Wraps",
+      "amount": "1 large"
+    },
+    {
+      "name": "Sliced Cucumber (optional)",
+      "amount": "1/2 cup",
+      "notes": "optional ingredient"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together Brazilian Doenjang and chopped leafy greens.",
+    "Add sliced cucumber if using.",
+    "Lay a large jammy wrap on a clean surface.",
+    "Spread the doenjang and leaf mixture onto the center of the wrap, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-brazilian-doenjang-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:23:10.735Z"
+}
