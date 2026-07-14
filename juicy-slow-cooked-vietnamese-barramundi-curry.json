@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-slow-cooked-vietnamese-barramundi-curry",
+  "title": "Pan-Seared Barramundi with Vietnamese Curry Sauce",
+  "description": "A flavorful and aromatic dish that combines the delicate flavor of barramundi with the bold spices of Vietnamese curry sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "1.5 lbs total"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp",
+      "notes": "Vietnamese-style"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the barramundi fillets with salt and pepper.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the barramundi fillets and sear for 3-4 minutes on each side, or until cooked through.",
+    "Remove the barramundi from the skillet and set aside.",
+    "In the same skillet, add the curry paste and cook for 1-2 minutes, or until fragrant.",
+    "Add the fish sauce, brown sugar, and lime juice to the skillet and stir to combine.",
+    "Return the barramundi to the skillet and spoon some of the curry sauce over the top.",
+    "Simmer the sauce for 1-2 minutes, or until heated through.",
+    "Garnish with chopped cilantro and scallions, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "seafood",
+    "curry",
+    "barramundi"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-slow-cooked-vietnamese-barramundi-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:31:09.998Z"
+}
