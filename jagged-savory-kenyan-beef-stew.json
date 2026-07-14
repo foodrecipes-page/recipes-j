@@ -1,0 +1,70 @@
+{
+  "slug": "jagged-savory-kenyan-beef-stew",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Kenya, made with tender beef and a blend of aromatic spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jagged red chili peppers",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "savory beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tablespoon",
+      "notes": "a blend of turmeric, coriander, and cumin"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the sliced red chili peppers and cook for 2 minutes.",
+    "Add the beef broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 1.5 hours, or until the beef is tender.",
+    "Stir in the kenyan spices and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-savory-kenyan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:43:41.386Z"
+}
