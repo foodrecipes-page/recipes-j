@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--gluten-free",
+  "title": "Brazilian Vegetable Biryani",
+  "description": "A flavorful and nutritious gluten-free biryani dish packed with juicy vegetables and a hint of pungency.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mixed Vegetables (Bell Peppers, Onions, Carrots)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brazilian Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add sausage and cook for 3-4 minutes, until browned.",
+    "Add mixed vegetables and cook for 3-4 minutes, until tender.",
+    "Add cumin, coriander, and salt. Mix well.",
+    "Add cooked brown rice to the skillet. Mix well.",
+    "Transfer the mixture to a serving dish.",
+    "Garnish with fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "brazilian",
+    "vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:25:25.627Z"
+}
