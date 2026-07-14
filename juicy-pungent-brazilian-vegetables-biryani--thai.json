@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-pungent-brazilian-vegetables-biryani--thai",
+  "title": "Thai Vegetable Biryani",
+  "description": "A flavorful and aromatic Thai-inspired biryani dish packed with juicy vegetables and a hint of spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy Thai Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Pungent Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Biryani Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook for 1 minute.",
+    "Add sweet potatoes and cook for 5 minutes.",
+    "Add eggplant and cook for 3 minutes.",
+    "Add coconut milk and bring to a simmer.",
+    "Add rice, salt, and pepper. Stir-fry for 2-3 minutes.",
+    "Transfer to a serving dish and garnish with basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pungent-brazilian-vegetables-biryani--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:25:34.062Z"
+}
