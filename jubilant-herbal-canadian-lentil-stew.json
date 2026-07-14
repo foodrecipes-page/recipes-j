@@ -1,0 +1,66 @@
+{
+  "slug": "jubilant-herbal-canadian-lentil-stew",
+  "title": "Hearty Lentil Stew",
+  "description": "A comforting and flavorful stew made with lentils, vegetables, and a hint of herbal spices.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "Canadian stew mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Herbal broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Jubilant carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine lentils, stew mix, and herbal broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add sliced carrots and onion to the pot.",
+    "Simmer for an additional 20 minutes, or until carrots are tender.",
+    "Add minced garlic and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "canadian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-herbal-canadian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:18:28.177Z"
+}
