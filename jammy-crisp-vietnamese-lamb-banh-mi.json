@@ -1,0 +1,91 @@
+{
+  "slug": "jammy-crisp-vietnamese-lamb-banh-mi",
+  "title": "Banh Mi Sandwich",
+  "description": "A delicious and easy-to-make Vietnamese sandwich with crispy bread and a variety of flavorful ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Banh Mi bread",
+      "amount": "4-6 inches",
+      "notes": "Can be gluten-free"
+    },
+    {
+      "name": "Grilled lamb",
+      "amount": "4 oz",
+      "notes": "Grilled to medium-rare"
+    },
+    {
+      "name": "Crisp pickled carrots",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vietnamese jammy sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Sliced jalapeño",
+      "amount": "1/4 cup",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the lamb to medium-rare, about 4-5 minutes per side.",
+    "Slice the grilled lamb into thin strips.",
+    "Split the Banh Mi bread in half and toast until crispy.",
+    "Spread the Vietnamese jammy sauce on the bottom half of the bread.",
+    "Add the sliced cucumber, sliced jalapeño, and chopped cilantro on top of the sauce.",
+    "Add the sliced grilled lamb on top of the vegetables.",
+    "Spread a layer of mayonnaise on the top half of the bread (if using).",
+    "Place the top half of the bread on the sandwich.",
+    "Cut the sandwich in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "sandwich",
+    "lamb",
+    "banh-mi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crisp-vietnamese-lamb-banh-mi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:52:00.153Z"
+}
