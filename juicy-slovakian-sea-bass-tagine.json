@@ -1,0 +1,99 @@
+{
+  "slug": "juicy-slovakian-sea-bass-tagine",
+  "title": "Pan-Seared Slovakian Bass with Seafood Tagine",
+  "description": "A flavorful and aromatic dish featuring Slovakian bass, cooked to perfection with a seafood tagine served alongside.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian bass fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Seafood tagine spice mix",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry and crisp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Season the Slovakian bass fillets with salt, pepper, and a pinch of seafood tagine spice mix.",
+    "3. Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "4. Sear the bass fillets for 2-3 minutes on each side, or until golden brown.",
+    "5. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "6. While the bass is cooking, heat the remaining 1 tablespoon of olive oil in a separate skillet over medium heat.",
+    "7. Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "8. Add the white wine and cook until reduced by half, stirring occasionally.",
+    "9. Stir in the lemon juice and seafood tagine spice mix. Bring the mixture to a simmer.",
+    "10. Reduce the heat to low and let the sauce simmer for 2-3 minutes, or until slightly thickened.",
+    "11. Fluff the jasmine rice with a fork and divide it among four plates.",
+    "12. Place a cooked bass fillet on top of the rice and spoon the seafood tagine sauce over the fish.",
+    "13. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "tagine",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-slovakian-sea-bass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:12:06.991Z"
+}
