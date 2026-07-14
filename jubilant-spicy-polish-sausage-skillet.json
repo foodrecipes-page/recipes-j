@@ -1,0 +1,75 @@
+{
+  "slug": "jubilant-spicy-polish-sausage-skillet",
+  "title": "Polish Sausage Skillet Delight",
+  "description": "A flavorful and hearty one-pan dish perfect for a chilly evening. Savor the taste of Poland with this simple and satisfying skillet recipe.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Jubilant potatoes",
+      "amount": "2 large, peeled and sliced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1"
+    },
+    {
+      "name": "Spicy bell pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add more oil if necessary, then add the sliced bell pepper, onion, and garlic. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the sliced potatoes to the skillet and cook for 2-3 minutes.",
+    "Return the cooked sausage to the skillet and stir to combine with the potatoes and vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-sausage",
+    "one-pan-dish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-spicy-polish-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T14:16:17.713Z"
+}
