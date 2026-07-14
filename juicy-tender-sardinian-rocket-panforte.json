@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-tender-sardinian-rocket-panforte",
+  "title": "Sardinian Rocket Panzanella",
+  "description": "A refreshing summer salad originating from Sardinia, Italy, featuring juicy tomatoes, tender bread, and peppery rocket.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "Tender bread",
+      "amount": "1 cup, cubed",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Rocket",
+      "amount": "1/2 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Panforte",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced tomatoes, cubed bread, and chopped rocket.",
+    "2. In a small bowl, whisk together olive oil and balsamic vinegar.",
+    "3. Pour the dressing over the tomato mixture and toss to combine.",
+    "4. Add diced panforte and toss gently.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Before serving, toss the salad gently and adjust the seasoning if needed.",
+    "8. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "summer",
+    "salad",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-sardinian-rocket-panforte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:51:19.236Z"
+}
