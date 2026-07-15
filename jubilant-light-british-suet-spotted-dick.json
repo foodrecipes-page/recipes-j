@@ -1,0 +1,90 @@
+{
+  "slug": "jubilant-light-british-suet-spotted-dick",
+  "title": "Spotted Dick",
+  "description": "A traditional British steamed pudding made with suet and dried fruit.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried fruit (currants or raisins)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Whole milk or a non-dairy alternative"
+    },
+    {
+      "name": "Butter or margarine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jubilant mixed spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the suet, flour, dried fruit, sugar, and mixed spice.",
+    "2. In a separate bowl, whisk together the egg and milk.",
+    "3. Add the egg mixture to the dry ingredients and stir until well combined.",
+    "4. Add the melted butter or margarine and stir until the mixture is smooth.",
+    "5. Grease a 1-pint pudding basin or a heatproof bowl with butter or margarine.",
+    "6. Transfer the pudding mixture to the prepared basin or bowl.",
+    "7. Cover the pudding with a piece of parchment paper or aluminum foil, tied with string.",
+    "8. Place the pudding in a large pot or steamer, and add enough boiling water to come halfway up the side of the pudding.",
+    "9. Steam the pudding for 2 hours, or until it is cooked through and firm to the touch.",
+    "10. Remove the pudding from the steamer and let it cool for 10 minutes.",
+    "11. Serve the pudding warm, with custard or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pudding",
+    "dessert",
+    "fruit",
+    "suet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "4g",
+    "carbs": "60g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-light-british-suet-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T18:33:09.848Z"
+}
