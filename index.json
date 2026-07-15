@@ -17565,18 +17565,16 @@
   },
   {
     "slug": "jvanilla-spiced-ancho-chile-quesadilla",
-    "title": "JVanilla Spiced Ancho Chile Quesadilla",
+    "title": "Spicy Ancho Chile Quesadillas",
     "tags": [
-      "adventurous",
-      "mexican-poblano",
-      "resinous",
-      "springy",
-      "tandoor",
-      "vanilla",
-      "vegetarian-friendly"
+      "mexican",
+      "quesadillas",
+      "spicy",
+      "ancho-chile",
+      "vegetarian"
     ],
-    "cuisine": "mexican (poblano)",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
