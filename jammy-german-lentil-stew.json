@@ -1,0 +1,54 @@
+{
+  "slug": "jammy-german-lentil-stew",
+  "title": "Hearty German Stew",
+  "description": "A comforting, slow-cooked stew filled with tender lentils and flavorful spices. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "german",
+      "amount": "2 cups chopped vegetables (carrots, potatoes, onions)"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped vegetables and cook until tender, about 5 minutes.",
+    "Add lentils, beef broth, water, and tomato paste. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "german-stew"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-german-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:23:35.125Z"
+}
