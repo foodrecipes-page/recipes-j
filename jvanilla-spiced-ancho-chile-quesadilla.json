@@ -1,0 +1,72 @@
+{
+  "slug": "jvanilla-spiced-ancho-chile-quesadilla",
+  "title": "Spicy Ancho Chile Quesadillas",
+  "description": "A flavorful and spicy twist on traditional quesadillas, featuring the rich flavor of ancho chiles. Perfect for a spicy dinner or lunch.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho chiles",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "Jalapeño vanilla",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Spiced tortilla",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet over medium heat.",
+    "Toast the ancho chiles, either in the skillet or under the broiler, until fragrant.",
+    "Rip the toasted chiles into small pieces and soak them in hot water until rehydrated.",
+    "Drain the rehydrated chiles and chop them into small pieces.",
+    "In a separate pan, sauté the chopped chiles and jalapeño vanilla (if using) over medium heat until fragrant.",
+    "Warm the spiced tortillas in the microwave for 10-15 seconds.",
+    "Assemble the quesadillas by placing a quarter of the cheese and a quarter of the chile mixture on one half of each tortilla, then folding them in half.",
+    "Cook the quesadillas in the skillet until the tortillas are crispy and the cheese is melted.",
+    "Flip the quesadillas and cook for an additional 2-3 minutes.",
+    "Cut the quesadillas into wedges and garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quesadillas",
+    "spicy",
+    "ancho-chile",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jvanilla-spiced-ancho-chile-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:26:39.233Z"
+}
