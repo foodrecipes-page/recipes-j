@@ -1,0 +1,76 @@
+{
+  "slug": "jubilant-charred-argentinian-meat-skewers",
+  "title": "Argentinian Jubilant Meat Skewers",
+  "description": "A delicious and flavorful dish originating from Argentina, perfect for a summer evening. The combination of meat, spices, and charred vegetables creates a mouth-watering experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Meat (Skirt Steak or Flank Steak)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Jubilant Pepper",
+      "amount": "2",
+      "notes": "Sliced into rings"
+    },
+    {
+      "name": "Charred Onion",
+      "amount": "1",
+      "notes": "Sliced into rings"
+    },
+    {
+      "name": "Argentinian Chimichurri",
+      "amount": "100ml",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "20ml",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread meat, jubilant pepper, and charred onion onto skewers.",
+    "3. In a small bowl, mix together Argentinian chimichurri, garlic, salt, and pepper.",
+    "4. Brush the skewers with olive oil and then brush with the chimichurri mixture.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "meat-based",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-charred-argentinian-meat-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:49:52.207Z"
+}
