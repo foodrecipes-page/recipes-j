@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-spanish-serrano-ham-paella",
+  "title": "Spanish Ham and Serrano Paella",
+  "description": "A classic Spanish dish made with juicy ham and spicy serrano peppers.",
+  "cuisine": "Spanish",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish ham",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Serrano peppers",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Uncooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced Spanish ham and cook until lightly browned, about 5 minutes.",
+    "Add the sliced Serrano peppers and cook for an additional 2 minutes.",
+    "Add the diced tomatoes, uncooked rice, chicken broth, smoked paprika, salt, and pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "ham",
+    "serrano-peppers"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spanish-serrano-ham-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:28:43.496Z"
+}
