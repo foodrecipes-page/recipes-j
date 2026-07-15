@@ -10817,16 +10817,15 @@
   },
   {
     "slug": "juicy-crunchy-chinese-noodle-bowl",
-    "title": "Juicy Crunchy Chinese Noodle Bowl",
+    "title": "Juicy Noodle Bowl",
     "tags": [
-      "chinese-food",
-      "dinner-ideas",
-      "noodle-bowl",
-      "stone-bowl",
-      "vegetarian"
+      "chinese",
+      "noodle",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -11677,16 +11676,15 @@
   },
   {
     "slug": "juicy-fresh-british-asparagus-skillet",
-    "title": "Juicy Fresh British Asparagus Skillet",
+    "title": "Pan-Seared British Asparagus with Garlic",
     "tags": [
-      "brunch",
-      "dairy-free",
-      "one-pan",
-      "quick",
-      "vegetarian"
+      "asparagus",
+      "garlic",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "j"
   },
   {
