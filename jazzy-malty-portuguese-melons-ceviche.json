@@ -1,0 +1,64 @@
+{
+  "slug": "jazzy-malty-portuguese-melons-ceviche",
+  "title": "Refreshing Melon and Ceviche Salad",
+  "description": "A light and refreshing salad perfect for hot summer days, combining the sweetness of melons with the tanginess of ceviche.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "melon",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "ceviche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jazzy citrus",
+      "amount": "2 tablespoons, juice"
+    },
+    {
+      "name": "portuguese sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine diced melon and ceviche.",
+    "Squeeze the juice of 2 tablespoons of jazzy citrus over the top of the melon mixture.",
+    "Sprinkle a pinch of portuguese sea salt to taste.",
+    "Garnish with chopped fresh mint leaves.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a gentle stir and adjust the seasoning if needed.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "refreshing",
+    "summer",
+    "salad",
+    "seafood-free",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-malty-portuguese-melons-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:29:15.410Z"
+}
