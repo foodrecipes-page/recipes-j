@@ -1,0 +1,63 @@
+{
+  "slug": "joltin-shaggy-miso-marinated-stir-fry-on-salt-block",
+  "title": "Miso Stir Fry",
+  "description": "A simple and flavorful stir fry made with miso paste and served with a side of marinated marveled vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Marinated shaggy (vegetables)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Joltin (oil)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Block (tofu)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat joltin in a pan over medium-high heat.",
+    "Add marinated shaggy and stir for 2-3 minutes.",
+    "Add miso paste and stir for another minute.",
+    "If using block, add it and stir for 1-2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "miso",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/joltin-shaggy-miso-marinated-stir-fry-on-salt-block",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:26:26.038Z"
+}
