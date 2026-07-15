@@ -15385,17 +15385,16 @@
   },
   {
     "slug": "juicy-snappy-polish-pork-skewers",
-    "title": "Juicy Snappy Polish Pork Skewers",
+    "title": "Pork Skewers Polonaise",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "weeknight",
-      "whole30"
+      "pork",
+      "skewers",
+      "polish",
+      "grilled",
+      "summer"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -15513,17 +15512,15 @@
   },
   {
     "slug": "juicy-spanish-serrano-ham-paella",
-    "title": "Juicy Spanish Serrano Ham Paella",
+    "title": "Spanish Ham and Serrano Paella",
     "tags": [
-      "basque-region",
-      "gluten-free",
-      "low-fat",
-      "one-pot",
-      "pressure-cooker",
-      "spanish-cuisine"
+      "spanish",
+      "paella",
+      "ham",
+      "serrano-peppers"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -18336,6 +18333,31 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--gluten-free",
+    "title": "Crispy Polish Flatbread",
+    "tags": [
+      "polish-flatbread",
+      "gluten-free-bread",
+      "snack-idea"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-polish-rye-bread-flatbread--japanese",
+    "title": "Japanese-Style Grilled Bread",
+    "tags": [
+      "japanese",
+      "grilled",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
     "shard": "j"
   }
 ]
