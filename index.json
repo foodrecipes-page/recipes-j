@@ -2071,17 +2071,16 @@
   },
   {
     "slug": "jammy-gooey-argentinian-dill-pickles-empanadas",
-    "title": "Jammy Gooey Argentinian Dill Pickles Empanadas",
+    "title": "Gooey Empanada Sandwich",
     "tags": [
       "argentinian",
-      "chocolate",
-      "dessert-like",
-      "pickles",
+      "lunch",
       "snack",
-      "sugar"
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -3515,17 +3514,13 @@
   },
   {
     "slug": "jazzy-greek-rice-risotto",
-    "title": "Jazzy Greek Rice Risotto",
+    "title": "Creamy Jazzy Risotto",
     "tags": [
-      "ayurvedic-friendly",
-      "creamy",
-      "garnish-rich",
-      "lazy-sunday",
-      "mediterranean",
-      "pungent",
-      "quick"
+      "risotto",
+      "italian",
+      "comfort-food"
     ],
-    "cuisine": "Greek",
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -8037,16 +8032,16 @@
   },
   {
     "slug": "jubilant-light-british-suet-spotted-dick",
-    "title": "Jubilant Light British Suet Spotted Dick",
+    "title": "Spotted Dick",
     "tags": [
-      "comfort-food",
-      "easy-dessert",
-      "lazy-sunday",
-      "traditional-british",
-      "vegetarian-friendly"
+      "british",
+      "pudding",
+      "dessert",
+      "fruit",
+      "suet"
     ],
     "cuisine": "British",
-    "totalTimeMin": 80,
+    "totalTimeMin": 135,
     "shard": "j"
   },
   {
