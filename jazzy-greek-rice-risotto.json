@@ -1,0 +1,64 @@
+{
+  "slug": "jazzy-greek-rice-risotto",
+  "title": "Creamy Jazzy Risotto",
+  "description": "A rich and flavorful risotto dish featuring jazzy ingredients and a touch of greek flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jazzy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "greek",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "preferably arborio"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of greek in a large skillet over medium heat.",
+    "Add 1 cup of jazzy and sauté until fragrant.",
+    "Add 1 cup of risotto and cook for 1-2 minutes.",
+    "Add 2 cups of rice and cook for 2-3 minutes.",
+    "Add 4 cups of vegetable broth, 1 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "Continue cooking until the risotto is creamy and the rice is tender.",
+    "Remove from heat and let rest for 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "italian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-greek-rice-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:40:56.406Z"
+}
