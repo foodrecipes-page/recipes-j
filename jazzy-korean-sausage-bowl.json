@@ -1,0 +1,87 @@
+{
+  "slug": "jazzy-korean-sausage-bowl",
+  "title": "Sausage and Jazzy Bowl",
+  "description": "A fusion of Korean and spicy flavors with a twist of excitement.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 lb",
+      "notes": "Korean-style sausage"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1/4 cup",
+      "notes": "Spicy Korean-inspired sauce"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Stainless steel or ceramic bowl"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Cooked white or brown rice"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Spicy Korean fermented cabbage"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking and dressing"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For seasoning and dressing"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For balancing flavors"
+    }
+  ],
+  "instructions": [
+    "Cook the sausage in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the sausage is browned and cooked through, remove it from the pan and set it aside.",
+    "In the same pan, add the jazzy sauce and cook for 1-2 minutes, until fragrant.",
+    "Add the kimchi to the pan and cook for an additional 2-3 minutes, until heated through.",
+    "To assemble the bowls, place a scoop of rice in the bottom of each bowl.",
+    "Add the cooked sausage on top of the rice, followed by the kimchi and jazzy sauce.",
+    "Drizzle the sesame oil and soy sauce over the top of each bowl, and sprinkle with sugar to balance the flavors.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-fusion",
+    "spicy",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-korean-sausage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:05:11.326Z"
+}
