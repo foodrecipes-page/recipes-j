@@ -1,0 +1,63 @@
+{
+  "slug": "jazzy-smoky-canadian-bread-casserole",
+  "title": "Smoky Canadian Casserole",
+  "description": "A hearty, comforting casserole filled with smoky flavors and a crunchy topping.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jazzy bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the jazzy bread into 1-inch cubes.",
+    "In a large skillet, sauté the smoky until fragrant. Add the casserole and cook according to package instructions.",
+    "In a separate bowl, mix the canadian with a splash of water to create a paste.",
+    "In a greased 9x13-inch baking dish, arrange half of the bread cubes.",
+    "Spoon the casserole mixture over the bread, followed by the remaining bread cubes.",
+    "Drizzle the canadian paste over the top.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "casserole",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-smoky-canadian-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:45:39.139Z"
+}
