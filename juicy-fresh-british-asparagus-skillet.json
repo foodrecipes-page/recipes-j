@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-fresh-british-asparagus-skillet",
+  "title": "Pan-Seared British Asparagus with Garlic",
+  "description": "A simple and healthy side dish that showcases the freshness of British asparagus, pan-seared to perfection with garlic.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "1 pound British asparagus",
+      "amount": "1 pound",
+      "notes": "Fresh and tender"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the asparagus under cold water and pat dry with a paper towel.",
+    "2. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "3. Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "4. Add the asparagus to the skillet and cook for 3-4 minutes per side, or until tender.",
+    "5. Season with salt and pepper to taste.",
+    "6. If desired, squeeze a tablespoon of lemon juice over the asparagus.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "garlic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fresh-british-asparagus-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:48:21.588Z"
+}
