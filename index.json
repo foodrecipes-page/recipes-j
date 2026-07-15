@@ -2054,17 +2054,13 @@
   },
   {
     "slug": "jammy-german-lentil-stew",
-    "title": "Jammy German Lentil Stew",
+    "title": "Hearty German Stew",
     "tags": [
-      "german-cuisine",
-      "jain-friendly",
-      "lentil-stew",
-      "one-pot",
-      "slow-cooked",
-      "vegetarian"
+      "lentils",
+      "german-stew"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -16045,17 +16041,15 @@
   },
   {
     "slug": "juicy-sweet-uruguayan-hake-bake",
-    "title": "Juicy Sweet Uruguayan Hake Bake",
+    "title": "Uruguayan Hake Bake",
     "tags": [
-      "easy-dinner",
-      "fish",
-      "one-pan",
-      "pescatarian",
+      "latin-american",
+      "seafood",
       "uruguayan",
-      "weeknight"
+      "bake"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
