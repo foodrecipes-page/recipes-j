@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-crunchy-chinese-noodle-bowl",
+  "title": "Juicy Noodle Bowl",
+  "description": "A quick and easy noodle bowl recipe with juicy chicken and crunchy vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Noodle",
+      "amount": "8 ounces",
+      "notes": "preferably thin and fresh"
+    },
+    {
+      "name": "Crunchy Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Crunchy Bell Peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the noodle according to the package instructions.",
+    "In a pan, heat the sesame oil over medium-high heat.",
+    "Add the sliced chicken and cook until browned.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the soy sauce and stir well.",
+    "Add the cooked noodle to the pan and stir well.",
+    "Add the sliced carrots and bell peppers to the pan.",
+    "Cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped scallions if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "noodle",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-chinese-noodle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:11:48.561Z"
+}
