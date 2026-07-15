@@ -1103,17 +1103,15 @@
   },
   {
     "slug": "jagged-spicy-argentinian-beef-skewers",
-    "title": "Jagged Spicy Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
       "argentinian",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "beef-skewers",
+      "grilled",
+      "spicy"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 38,
     "shard": "j"
   },
   {
