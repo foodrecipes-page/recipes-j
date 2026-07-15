@@ -1,0 +1,63 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--japanese",
+  "title": "Japanese-Style Grilled Bread",
+  "description": "A simple Japanese-inspired recipe that uses grilled flatbread as the base for a delicious and savory snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "juicy",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rye",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bread",
+      "amount": "2 slices, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the flatbread into thin strips.",
+    "Grill the flatbread slices for 2-3 minutes on each side, or until crispy and slightly charred.",
+    "In a small bowl, mix together the juicy, polish, and rye.",
+    "Brush the flatbread slices with the mixture and season with salt and pepper.",
+    "Serve the grilled flatbread slices on top of two slices of bread.",
+    "Garnish with additional juicy, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:28:36.710Z"
+}
