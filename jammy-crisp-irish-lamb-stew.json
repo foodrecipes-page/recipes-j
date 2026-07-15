@@ -1,0 +1,81 @@
+{
+  "slug": "jammy-crisp-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting Irish lamb stew made with tender lamb, potatoes, and vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic, crisp, and Irish, and cook for 1 minute.",
+    "Add the potatoes, salt, and pepper, and stir to combine.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Check the lamb for tenderness and adjust the cooking time as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "irish-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crisp-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:24:05.631Z"
+}
