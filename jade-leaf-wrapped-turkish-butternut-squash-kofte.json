@@ -1,0 +1,85 @@
+{
+  "slug": "jade-leaf-wrapped-turkish-butternut-squash-kofte",
+  "title": "Turkish-Style Stuffed Butternut Squash",
+  "description": "A flavorful and nutritious dish that combines the sweetness of butternut squash with the spices of Turkish cuisine.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "jade wrapped kofte",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the butternut squash in half lengthwise and scoop out the seeds.",
+    "Place the squash cut-side up on a baking sheet and roast for 30 minutes.",
+    "While the squash is roasting, heat some oil in a pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the cumin and paprika and cook for 1 minute.",
+    "Add the kofte and cook until browned on all sides, about 5 minutes.",
+    "Remove the squash from the oven and fill each half with the kofte mixture.",
+    "Season with salt and black pepper to taste.",
+    "Return the squash to the oven and roast for another 15-20 minutes, or until the flesh is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stuffed-squash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jade-leaf-wrapped-turkish-butternut-squash-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:01.045Z"
+}
