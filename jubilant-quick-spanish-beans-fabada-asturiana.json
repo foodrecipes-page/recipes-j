@@ -1,0 +1,89 @@
+{
+  "slug": "jubilant-quick-spanish-beans-fabada-asturiana",
+  "title": "Fabada Asturiana with Spanish Beans",
+  "description": "A hearty Spanish stew originating from Asturias, made with fabada beans, chorizo, and morcilla.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fabada Asturiana beans",
+      "amount": "1 cup, dried",
+      "notes": ""
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "2 sausages",
+      "notes": ""
+    },
+    {
+      "name": "Morcilla (Spanish blood sausage)",
+      "amount": "2 sausages",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pimentón (smoked paprika)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced chorizo and morcilla and cook, breaking up the meat with a spoon, until browned, about 5 minutes.",
+    "Add the fabada beans, red wine, water, and smoked paprika. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the Fabada Asturiana hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "beans",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-quick-spanish-beans-fabada-asturiana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:26:00.661Z"
+}
