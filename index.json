@@ -3684,17 +3684,14 @@
   },
   {
     "slug": "jazzy-korean-sausage-bowl",
-    "title": "Jazzy Korean Sausage Bowl",
+    "title": "Sausage and Jazzy Bowl",
     "tags": [
-      "bento",
-      "high-protein",
-      "korean",
-      "quick",
-      "sausage",
-      "savory"
+      "korean-fusion",
+      "spicy",
+      "lunch-ideas"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -7234,16 +7231,14 @@
   },
   {
     "slug": "jubilant-charred-argentinian-meat-skewers",
-    "title": "Jubilant Charred Argentinian Meat Skewers",
+    "title": "Argentinian Jubilant Meat Skewers",
     "tags": [
-      "grilled-meats",
-      "high-protein",
-      "low-carb",
-      "south-american",
-      "special-occasion"
+      "argentinian",
+      "meat-based",
+      "grill"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -16784,16 +16779,14 @@
   },
   {
     "slug": "juicy-velvety-canadian-thai-eggplant-bowl",
-    "title": "Juicy Velvety Canadian Thai Eggplant Bowl",
+    "title": "Thai Eggplant Bowl with Canadian Twist",
     "tags": [
+      "thaifood",
+      "eggplant",
       "canadian",
-      "healthy",
-      "one-pan",
-      "thai",
-      "vegetarian",
-      "weeknight"
+      "veggiebowl"
     ],
-    "cuisine": "Canadian Thai",
+    "cuisine": "Thai-Canadian",
     "totalTimeMin": 35,
     "shard": "j"
   },
