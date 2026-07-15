@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "Grilled beef skewers with a mix of vegetables, inspired by traditional Argentinian cuisine. Perfect for a quick and flavorful dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef (skewer-friendly cut)",
+      "amount": null,
+      "notes": "such as flank steak or sirloin"
+    },
+    {
+      "name": "1 large onion",
+      "amount": null,
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "2 large bell peppers",
+      "amount": null,
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": null,
+      "notes": "minced"
+    },
+    {
+      "name": "1 teaspoon oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread beef, onion, bell peppers, and garlic onto skewers.",
+    "In a small bowl, mix together oregano, paprika, salt, and pepper.",
+    "Brush the mixture onto both sides of the beef and vegetables.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef reaches 135°F (57°C) for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:04:44.150Z"
+}
