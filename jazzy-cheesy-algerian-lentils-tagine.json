@@ -1,0 +1,63 @@
+{
+  "slug": "jazzy-cheesy-algerian-lentils-tagine",
+  "title": "Algerian Lentil Tagine",
+  "description": "A hearty and flavorful Algerian-inspired stew made with red lentils, jazzed up with aromatic spices and a hint of cheesy goodness.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "jazzy",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine in a large pot over medium heat.",
+    "Saute the jazzy and algerian spices for 1 minute.",
+    "Add the red lentils and cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes, or until the lentils are tender.",
+    "Stir in the cheesy goodness and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lentil",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": "20g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-cheesy-algerian-lentils-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:29:07.186Z"
+}
