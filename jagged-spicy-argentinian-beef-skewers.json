@@ -1,0 +1,88 @@
+{
+  "slug": "jagged-spicy-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "A flavorful and spicy dish originating from Argentina, featuring marinated beef skewers grilled to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (1.5 pounds)",
+      "amount": "",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Jagged hot sauce (2 tablespoons)",
+      "amount": "",
+      "notes": "For marinade and serving"
+    },
+    {
+      "name": "Skewers (10-12)",
+      "amount": "",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Olive oil (2 tablespoons)",
+      "amount": "",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped onion (1 medium)",
+      "amount": "",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chopped bell pepper (1 medium)",
+      "amount": "",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chopped fresh cilantro (1/4 cup)",
+      "amount": "",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together jagged hot sauce, olive oil, garlic, and salt.",
+    "3. Add the beef strips to the marinade and mix well.",
+    "4. Thread the marinated beef, onion, bell pepper, and cilantro onto the skewers.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches 145°F (63°C) for medium-rare.",
+    "7. Let the skewers rest for 5 minutes before serving.",
+    "8. Serve hot with additional jagged hot sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-skewers",
+    "grilled",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-spicy-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:04:20.732Z"
+}
