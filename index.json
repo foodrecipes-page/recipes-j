@@ -15203,17 +15203,17 @@
   },
   {
     "slug": "juicy-smoky-french-fish-papillote",
-    "title": "Juicy Smoky French Fish Papillote",
+    "title": "French Baked Fish with Smoky Flavor",
     "tags": [
-      "brunch",
-      "buddhist",
-      "flaky",
       "french",
-      "pescatarian",
-      "smoky"
+      "baked-fish",
+      "smoky",
+      "papillote",
+      "fish-only",
+      "pescatarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 27,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
