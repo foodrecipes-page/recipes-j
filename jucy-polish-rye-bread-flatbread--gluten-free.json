@@ -1,0 +1,78 @@
+{
+  "slug": "jucy-polish-rye-bread-flatbread--gluten-free",
+  "title": "Crispy Polish Flatbread",
+  "description": "A crispy flatbread recipe inspired by traditional Polish cuisine, made with gluten-free bread. Enjoy as a snack or side dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish bread",
+      "amount": "1 loaf (gluten-free)",
+      "notes": "Crusty on the outside, soft on the inside"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "2-3 pieces",
+      "notes": "For crunchy texture"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For balance of flavors"
+    },
+    {
+      "name": "Jucy meat (optional)",
+      "amount": "1/2 cup",
+      "notes": "For added protein (cook separately to safe temperature)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For brushing bread"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice Polish bread into 1-inch thick slices.",
+    "Brush each slice with olive oil and sprinkle with salt and sugar.",
+    "Place bread slices on a baking sheet and bake for 10-12 minutes or until crispy.",
+    "While bread is baking, brush flatbread with olive oil and sprinkle with salt.",
+    "Place flatbread on a separate baking sheet and bake for 5-7 minutes or until crispy.",
+    "If using Jucy meat, cook separately to a safe internal temperature of 165°F (74°C).",
+    "To assemble, place a slice of crispy Polish bread on a flatbread.",
+    "Add Jucy meat on top (if using) and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-flatbread",
+    "gluten-free-bread",
+    "snack-idea"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-polish-rye-bread-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:28:33.002Z"
+}
