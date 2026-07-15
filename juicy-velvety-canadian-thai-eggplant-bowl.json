@@ -1,0 +1,111 @@
+{
+  "slug": "juicy-velvety-canadian-thai-eggplant-bowl",
+  "title": "Thai Eggplant Bowl with Canadian Twist",
+  "description": "A flavorful and nutritious bowl filled with the sweetness of eggplant, the spiciness of Thai chilies, and the creaminess of a Canadian dairy touch.",
+  "cuisine": "Thai-Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Chilies",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Canadian Beef (optional)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Coconut Milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large skillet over medium-high heat.",
+    "2. Add the Thai red chilies and cook for 1-2 minutes, until fragrant.",
+    "3. Add the garlic and ginger and cook for another minute.",
+    "4. Add the Canadian beef (if using) and cook until browned.",
+    "5. Add the eggplant and cook until tender.",
+    "6. Stir in the coconut milk, soy sauce, and honey. Bring to a simmer.",
+    "7. Reduce heat to low and let simmer for 5-7 minutes.",
+    "8. Taste and adjust seasoning with salt and pepper.",
+    "9. Garnish with Thai basil and serve over a bowl of steamed rice or noodles.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "eggplant",
+    "canadian",
+    "veggiebowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-velvety-canadian-thai-eggplant-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:22:42.848Z"
+}
