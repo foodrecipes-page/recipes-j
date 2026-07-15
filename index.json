@@ -1842,16 +1842,14 @@
   },
   {
     "slug": "jammy-crisp-irish-lamb-stew",
-    "title": "Jammy Crisp Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "lamb-recipes",
-      "low-calorie",
-      "one-pot"
+      "lamb",
+      "irish-stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 140,
+    "totalTimeMin": 110,
     "shard": "j"
   },
   {
@@ -3804,17 +3802,16 @@
   },
   {
     "slug": "jazzy-malty-portuguese-melons-ceviche",
-    "title": "Jazzy Malty Portuguese Melons Ceviche",
+    "title": "Refreshing Melon and Ceviche Salad",
     "tags": [
-      "glassy-jelly",
-      "malty",
-      "melons",
-      "portuguese",
-      "raw-friendly",
-      "scallop-shell"
+      "refreshing",
+      "summer",
+      "salad",
+      "seafood-free",
+      "light"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 15,
+    "cuisine": "Latin American",
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -4046,16 +4043,14 @@
   },
   {
     "slug": "jazzy-smoky-canadian-bread-casserole",
-    "title": "Jazzy Smoky Canadian Bread Casserole",
+    "title": "Smoky Canadian Casserole",
     "tags": [
-      "bread-casserole",
       "comfort-food",
-      "kid-friendly",
-      "kosher",
+      "casserole",
       "smoky"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -6690,13 +6685,12 @@
   },
   {
     "slug": "jovial-light-dutch-mushroom-stew",
-    "title": "Jovial Light Dutch Mushroom Stew",
+    "title": "Hearty Mushroom Stew",
     "tags": [
-      "light-dutch",
-      "mushroom-based",
-      "one-pot",
-      "weeknight",
-      "yeast-based"
+      "dutch",
+      "stew",
+      "mushroom",
+      "vegetarian"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
@@ -15515,18 +15509,15 @@
   },
   {
     "slug": "juicy-spanish-garlic-bake",
-    "title": "Juicy Spanish Garlic Bake",
+    "title": "Spanish Garlic Chicken",
     "tags": [
-      "easy",
+      "chicken",
       "garlic",
-      "gluten-free",
-      "kashrut",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "oven-roasted"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
