@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-snappy-polish-pork-skewers",
+  "title": "Pork Skewers Polonaise",
+  "description": "Tender pork skewers marinated in a classic Polish-inspired sauce, served with a side of snappy veggies.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Juicy and tender"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Polish sausage, sliced",
+      "amount": "1/4 pound",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1/2 cup",
+      "notes": "Snappy and sweet"
+    },
+    {
+      "name": "Bell pepper, sliced",
+      "amount": "1/2 cup",
+      "notes": "Colorful and crunchy"
+    },
+    {
+      "name": "Skewers, wooden or metal",
+      "amount": "8-10",
+      "notes": "For grilling"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "Preheat grill to medium-high heat (400°F)."
+    },
+    {
+      "step": "Thread pork, sausage, onion, and pepper onto skewers, leaving space between each piece."
+    },
+    {
+      "step": "Brush skewers with vegetable oil and season with salt and pepper."
+    },
+    {
+      "step": "Grill skewers for 8-10 minutes, turning occasionally, until pork is cooked through."
+    },
+    {
+      "step": "Serve skewers hot, garnished with fresh parsley or dill."
+    }
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "skewers",
+    "polish",
+    "grilled",
+    "summer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-snappy-polish-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:45:47.710Z"
+}
