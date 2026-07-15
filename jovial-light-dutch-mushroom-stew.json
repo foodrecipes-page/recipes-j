@@ -1,0 +1,78 @@
+{
+  "slug": "jovial-light-dutch-mushroom-stew",
+  "title": "Hearty Mushroom Stew",
+  "description": "A comforting and flavorful stew made with tender mushrooms and a hint of Dutch spice, perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jovial mushrooms",
+      "amount": "2 cups",
+      "notes": "any variety"
+    },
+    {
+      "name": "light vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tsp",
+      "notes": "whole-grain or honey mustard"
+    },
+    {
+      "name": "dutch spice blend",
+      "amount": "1 tsp",
+      "notes": "purchased or homemade mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegetable broth, mustard, and spice blend. Stir to combine.",
+    "Add the potatoes and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stew",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-light-dutch-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:15:15.316Z"
+}
