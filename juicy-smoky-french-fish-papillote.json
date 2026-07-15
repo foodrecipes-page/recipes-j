@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-smoky-french-fish-papillote",
+  "title": "French Baked Fish with Smoky Flavor",
+  "description": "A simple and flavorful fish dish baked in a papillote with smoky spices and herbs.",
+  "cuisine": "French",
+  "diet": [
+    "fish-only",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet (any white fish)",
+      "amount": "2",
+      "notes": "any white fish like cod, tilapia, or mahi-mahi"
+    },
+    {
+      "name": "French parsley",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "papillote",
+      "amount": "1",
+      "notes": "large sheet of parchment paper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillet with salt and pepper.",
+    "In a small bowl, mix minced garlic, smoked paprika, and chopped parsley.",
+    "Place the fish fillet on the center of the parchment paper.",
+    "Drizzle olive oil over the fish, then sprinkle the garlic-paprika mixture.",
+    "Place the halved tomatoes around the fish.",
+    "Fold the parchment paper over the fish, creating a papillote.",
+    "Place the papillote on a baking sheet and bake for 12-15 minutes.",
+    "Remove from the oven and let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "baked-fish",
+    "smoky",
+    "papillote",
+    "fish-only",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-french-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:26:14.098Z"
+}
