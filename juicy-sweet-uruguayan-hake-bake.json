@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-sweet-uruguayan-hake-bake",
+  "title": "Uruguayan Hake Bake",
+  "description": "A simple and flavorful Uruguayan-inspired dish featuring hake baked with sweet and juicy flavors.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan sweet bread",
+      "amount": "1 slice",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the hake fillets with salt and black pepper.",
+    "Heat the olive oil in a baking dish over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the hake fillets and cook for 2-3 minutes on each side.",
+    "Transfer the baking dish to the preheated oven.",
+    "Bake for 8-10 minutes or until the hake is cooked through.",
+    "While the hake is baking, mix the chimichurri sauce and lemon juice in a small bowl.",
+    "Remove the hake from the oven and brush the chimichurri sauce mixture on top.",
+    "Serve the hake with a slice of Uruguayan sweet bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "seafood",
+    "uruguayan",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-uruguayan-hake-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:59:13.361Z"
+}
