@@ -8296,16 +8296,15 @@
   },
   {
     "slug": "jubilant-quick-spanish-beans-fabada-asturiana",
-    "title": "Quick Spanish Beans Fabada Asturiana",
+    "title": "Fabada Asturiana with Spanish Beans",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "quick-fix",
-      "spanish-cuisine"
+      "spanish",
+      "beans",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "cuisine": "spanish",
+    "totalTimeMin": 80,
     "shard": "j"
   },
   {
