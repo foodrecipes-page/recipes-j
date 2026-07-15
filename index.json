@@ -3098,18 +3098,15 @@
   },
   {
     "slug": "jazzy-cheesy-algerian-lentils-tagine",
-    "title": "Jazzy Cheesy Algerian Lentils Tagine",
+    "title": "Algerian Lentil Tagine",
     "tags": [
-      "cheesy",
-      "crowd-pleaser",
-      "easy",
-      "egg-free",
-      "garlicky",
-      "tagine",
-      "vegetarian"
+      "algerian",
+      "lentil",
+      "stew",
+      "vegan"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -9218,17 +9215,15 @@
   },
   {
     "slug": "juicy-argentinian-beef-skewers",
-    "title": "Juicy Argentinian Beef Skewers",
+    "title": "Argentinian Beef Skewers",
     "tags": [
       "argentinian",
-      "dairy-free",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
