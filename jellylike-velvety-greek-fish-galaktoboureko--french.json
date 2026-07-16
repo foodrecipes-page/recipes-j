@@ -1,0 +1,69 @@
+{
+  "slug": "jellylike-velvety-greek-fish-galaktoboureko--french",
+  "title": "Galaktoboureko Crème Brûlée",
+  "description": "A creamy Galaktoboureko-inspired dessert with a caramelized sugar crust, French flair, and a velvety texture.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jellylike honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "galaktoboureko filo dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a medium bowl, whisk together the greek yogurt, velvety cream, eggs, and granulated sugar.",
+    "3. Stir in the jellylike honey.",
+    "4. Cut the galaktoboureko filo dough into small pieces and line a baking dish with them.",
+    "5. Pour the cream mixture into the baking dish.",
+    "6. Bake for 35-40 minutes or until the edges are golden brown.",
+    "7. Remove from the oven and let cool to room temperature.",
+    "8. Cover with plastic wrap and refrigerate for at least 2 hours.",
+    "9. Just before serving, sprinkle a thin layer of granulated sugar on top.",
+    "10. Caramelize the sugar with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "creme brulee",
+    "dessert",
+    "galaktoboureko"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jellylike-velvety-greek-fish-galaktoboureko--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:10:42.984Z"
+}
