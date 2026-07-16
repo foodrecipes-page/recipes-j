@@ -16590,17 +16590,16 @@
   },
   {
     "slug": "juicy-turkish-lamb-kunefe",
-    "title": "Juicy Turkish Lamb Kunefe",
+    "title": "Turkish-Style Lamb Kunefe",
     "tags": [
-      "chocolate-dessert",
-      "lamb-recipes",
-      "low-glycemic",
-      "one-pan",
-      "turkish-cuisine",
-      "wine-based"
+      "turkish",
+      "dessert",
+      "cheese",
+      "meat",
+      "pastry"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -18351,6 +18350,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 13,
+    "shard": "j"
+  },
+  {
+    "slug": "jiggly-korean-tinned-tomatoes-stew--indian",
+    "title": "Tomato Stew",
+    "tags": [
+      "tomato",
+      "stew",
+      "indian",
+      "comfortfood"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jiggly-korean-tinned-tomatoes-stew--chinese",
+    "title": "Korean Stew with Tomatoes",
+    "tags": [
+      "korean-chinese",
+      "stew",
+      "tomatoes"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "j"
   }
 ]
