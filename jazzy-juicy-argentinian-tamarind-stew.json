@@ -1,0 +1,69 @@
+{
+  "slug": "jazzy-juicy-argentinian-tamarind-stew",
+  "title": "Argentinian Tamarind Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, featuring tamarind and a mix of spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy Jaz",
+      "amount": "1 cup, diced",
+      "notes": "Use a sweet and tangy variety"
+    },
+    {
+      "name": "Juicy Beef",
+      "amount": "500g, cubed",
+      "notes": "Choose a lean cut for a healthier option"
+    },
+    {
+      "name": "Argentinian Seasoning",
+      "amount": "2 tsp",
+      "notes": "A blend of herbs and spices typical of Argentina"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste for a sweet and sour flavor"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups, diced",
+      "notes": "Use a variety that holds its shape during cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the diced Jazzy Jaz and cook until tender, about 5 minutes.",
+    "Add the cubed Juicy Beef and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Argentinian Seasoning and stir to combine.",
+    "Add the Tamarind Paste and stir to combine.",
+    "Add the diced Stew and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "argentinian",
+    "beef",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-juicy-argentinian-tamarind-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:32:23.037Z"
+}
