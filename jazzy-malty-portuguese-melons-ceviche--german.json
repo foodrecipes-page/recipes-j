@@ -1,0 +1,59 @@
+{
+  "slug": "jazzy-malty-portuguese-melons-ceviche--german",
+  "title": "Traditional German Fruit Salad",
+  "description": "A classic German fruit salad recipe perfect for warm weather, featuring a sweet and tangy mix of melons and a hint of malty flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Melons",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tablespoons, syrup"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced melons and chopped jazzy.",
+    "2. In a small bowl, whisk together malty syrup and a splash of water until well combined.",
+    "3. Pour the malty syrup mixture over the melon mixture and toss to coat.",
+    "4. Stir in chopped portuguese.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Just before serving, give the salad a good stir and adjust the sweetness level to taste.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fruit-salad",
+    "dessert",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-malty-portuguese-melons-ceviche--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:41:44.895Z"
+}
