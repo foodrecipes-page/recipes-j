@@ -2468,16 +2468,15 @@
   },
   {
     "slug": "jammy-tender-indian-rice-khichdi",
-    "title": "Jammy Tender Indian Rice Khichdi",
+    "title": "Khichdi with Indian Flair",
     "tags": [
-      "comfort-food",
+      "indian",
+      "vegetarian",
       "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "tamil-inspired"
+      "comfort-food"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -18588,6 +18587,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-garlicky-uruguayan-fideo-noodles--keto",
+    "title": "Keto Uruguayan Noodle Stir Fry",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "stir-fry",
+      "noodles"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
