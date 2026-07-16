@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-spanish-serrano-ham-paella--japanese",
+  "title": "Spanish Paella-Style Japanese Serrano Ham",
+  "description": "A fusion dish combining Japanese flavors with Spanish paella-style cooking. Serrano ham is marinated in a sweet soy sauce and sake mixture before being grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "1 cup, thinly sliced"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 cups, mixed Japanese vegetables (e.g. bell peppers, zucchini, carrots)"
+    },
+    {
+      "name": "spanish",
+      "amount": "2 cups, short-grain Japanese rice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. In a small bowl, whisk together soy sauce, sake, brown sugar, rice vinegar, and sesame oil. Add sliced serrano ham and marinate for at least 30 minutes.",
+    "3. Cook Japanese rice according to package instructions.",
+    "4. Grill marinated serrano ham for 2-3 minutes per side, or until caramelized.",
+    "5. Grill mixed Japanese vegetables for 3-4 minutes per side, or until tender.",
+    "6. To assemble paella, layer cooked rice, grilled vegetables, and grilled serrano ham in a large skillet or paella pan.",
+    "7. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "spanish",
+    "paella",
+    "serrano-ham",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spanish-serrano-ham-paella--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:07:30.361Z"
+}
