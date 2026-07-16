@@ -18511,5 +18511,18 @@
     "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jeweled-indulgent-japanese-lemons-takikomi-gohan--vegetarian",
+    "title": "Vegetarian Takikomi Gohan",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "rice",
+      "mushroom"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
