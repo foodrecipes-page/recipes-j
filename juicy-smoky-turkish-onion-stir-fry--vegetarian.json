@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-smoky-turkish-onion-stir-fry--vegetarian",
+  "title": "Smoky Turkish Vegetable Stir Fry",
+  "description": "A flavorful and healthy vegetarian stir fry inspired by Turkish cuisine, with smoky spices and a variety of colorful vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "2 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Stir fry mix (bell peppers, carrots, broccoli)",
+      "amount": "1 bag",
+      "notes": "Pre-cut"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until they start to soften, about 3-4 minutes.",
+    "Add the smoky paprika and Turkish red pepper flakes. Cook for 1 minute, until fragrant.",
+    "Add the pre-cut stir fry mix and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Stir in the remaining 1 tablespoon of vegetable oil.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-turkish-onion-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:20:25.397Z"
+}
