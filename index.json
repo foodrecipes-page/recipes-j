@@ -18563,5 +18563,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-australian-ground-pistachios-pavlova--indian",
+    "title": "Pistachio Pavlova Naan Bites",
+    "tags": [
+      "indian",
+      "snack",
+      "pavlova",
+      "pistachio"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crisp-ethiopian-tomato-crumb--japanese",
+    "title": "Crunchy Japanese-Style Crispy Pork Cutlet",
+    "tags": [
+      "japanese",
+      "crispy",
+      "pork-cutlet",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "j"
   }
 ]
