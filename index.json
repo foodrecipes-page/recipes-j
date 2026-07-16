@@ -11390,17 +11390,16 @@
   },
   {
     "slug": "juicy-flaky-chinese-pork-dim-sum",
-    "title": "Juicy Flaky Chinese Pork Dim Sum",
+    "title": "Crispy Pork Dumplings",
     "tags": [
-      "chinese-food",
-      "dim-sum",
-      "mason-jar-recipes",
-      "mediterranean-inspired",
-      "pork-recipes",
-      "wood-fired-oven"
+      "chinese-cuisine",
+      "pork",
+      "dumplings",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18402,6 +18401,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indian-egg-curry--indian",
+    "title": "Indian Egg Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-spicy-ethiopian-chicken-wot--vegan",
+    "title": "Spicy Ethiopian Chickpea Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "stew"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 50,
     "shard": "j"
   }
 ]
