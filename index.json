@@ -3614,18 +3614,15 @@
   },
   {
     "slug": "jazzy-juicy-argentinian-tamarind-stew",
-    "title": "Jazzy Juicy Argentinian Tamarind Stew",
+    "title": "Argentinian Tamarind Stew",
     "tags": [
-      "argentinian",
-      "hangover-cure",
-      "one-pot",
-      "quick",
       "stew",
-      "vegan",
-      "weeknight"
+      "argentinian",
+      "beef",
+      "tamarind"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -18536,6 +18533,35 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indulgent-tunisian-chicken-tagine--chinese",
+    "title": "Tunisian Chicken Tagine with Chinese Twist",
+    "tags": [
+      "chicken",
+      "tagine",
+      "fusion",
+      "tunisian",
+      "chinese",
+      "dinner"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-bouncy-korean-corn-tacos--japanese",
+    "title": "Korean Corn Tacos with Jazzy Slaw",
+    "tags": [
+      "korean food",
+      "japanese cuisine",
+      "tacos",
+      "corn",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
