@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-smoky-dutch-lamb-stew--japanese",
+  "title": "Japanese Stew with Smoky Lamb",
+  "description": "A hearty, comforting Japanese stew made with smoky lamb, juicy vegetables, and a blend of spices.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the remaining 1 tablespoon of sesame oil to the pot, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato, and cook for an additional 5 minutes.",
+    "Add the beef broth, soy sauce, and browned lamb back to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stew",
+    "lamb",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-dutch-lamb-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:31:13.435Z"
+}
