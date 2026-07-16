@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-crisp-ethiopian-tomato-crumb--japanese",
+  "title": "Crunchy Japanese-Style Crispy Pork Cutlet",
+  "description": "A crispy Japanese-style pork cutlet recipe using juicy pork and crunchy crumb topping. Serve with a side of steamed vegetables for a well-rounded meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlet",
+      "amount": "4",
+      "notes": "1 pound of pork cutlet, preferably boneless and lean"
+    },
+    {
+      "name": "crispy crumb",
+      "amount": "1 cup",
+      "notes": "Japanese-style panko breadcrumbs"
+    },
+    {
+      "name": "juicy",
+      "amount": "1",
+      "notes": "1 cup of buttermilk or yogurt for marinating the pork"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten eggs for coating the pork"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour for coating the pork"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "sliced tomatoes for garnish"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "0.5 teaspoon",
+      "notes": "Ethiopian berbere spice for marinade"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together the flour, eggs, and buttermilk.",
+    "2. Add the pork cutlet to the marinade and coat evenly.",
+    "3. Let the pork marinate for at least 30 minutes.",
+    "4. Preheat a non-stick skillet or a deep fryer to 375°F (190°C).",
+    "5. Dredge the marinated pork in the flour mixture, shaking off excess.",
+    "6. Dip the floured pork in the beaten eggs, making sure to coat evenly.",
+    "7. Coat the egg-coated pork in the Japanese-style panko breadcrumbs.",
+    "8. Fry the breaded pork until golden brown and crispy, about 3-4 minutes per side.",
+    "9. Place the fried pork on a paper towel-lined plate to drain excess oil.",
+    "10. Serve the crispy pork cutlet with sliced tomatoes and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "crispy",
+    "pork-cutlet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 22,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-ethiopian-tomato-crumb--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:16:30.343Z"
+}
