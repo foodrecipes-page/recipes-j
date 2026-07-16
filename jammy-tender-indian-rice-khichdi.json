@@ -1,0 +1,79 @@
+{
+  "slug": "jammy-tender-indian-rice-khichdi",
+  "title": "Khichdi with Indian Flair",
+  "description": "A flavorful and comforting Indian-inspired khichdi dish made with tender rice and spices. This easy recipe is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khichdi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "green beans or peas"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "jammy",
+      "amount": "1/4 cup",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin and turmeric powder, and sauté for 1-2 minutes.",
+    "Add rice and khichdi, and sauté for 2-3 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and cover the pan.",
+    "Simmer for 15-20 minutes, or until the rice is cooked.",
+    "Add salt to taste, and mix well.",
+    "Garnish with tender green beans or peas, if desired.",
+    "Serve hot, garnished with jammy chutney if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-indian-rice-khichdi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:52:57.817Z"
+}
