@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-spicy-ethiopian-chicken-wot--vegan",
+  "title": "Spicy Ethiopian Chickpea Stew",
+  "description": "A vegan twist on traditional Ethiopian wot, made with chickpeas and a blend of spices.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "2 cups, drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "spicy red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chickpea broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, ginger, and garlic; cook, stirring occasionally, until onion is translucent, about 5 minutes.",
+    "Add red pepper flakes, cumin, and berbere spice; cook, stirring constantly, for 1 minute.",
+    "Add chickpeas, broth, and tomato paste; bring to a boil.",
+    "Reduce heat to low and simmer, covered, until stew has thickened and flavors have melded, about 30 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-ethiopian-chicken-wot--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:45:17.756Z"
+}
