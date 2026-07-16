@@ -1872,17 +1872,14 @@
   },
   {
     "slug": "jammy-croatian-date-night-tart",
-    "title": "jammy croatian date-night tart",
+    "title": "Tart Date Jam Crostata",
     "tags": [
-      "date-night",
-      "european",
-      "oven-baked",
-      "romantic",
-      "sugar-optional",
+      "dessert",
+      "sweet",
       "tart"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 63,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -18426,6 +18423,44 @@
     ],
     "cuisine": "ethiopian",
     "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-turkish-onion-stir-fry--vegetarian",
+    "title": "Smoky Turkish Vegetable Stir Fry",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-dutch-lamb-stew--japanese",
+    "title": "Japanese Stew with Smoky Lamb",
+    "tags": [
+      "japanese",
+      "stew",
+      "lamb",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 105,
+    "shard": "j"
+  },
+  {
+    "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--vegan",
+    "title": "Thai Vegan Chicken Noodle Soup",
+    "tags": [
+      "vegan",
+      "thai",
+      "soup",
+      "noodle"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "j"
   }
 ]
