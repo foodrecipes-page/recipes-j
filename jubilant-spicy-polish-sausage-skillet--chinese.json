@@ -1,0 +1,64 @@
+{
+  "slug": "jubilant-spicy-polish-sausage-skillet--chinese",
+  "title": "Sausage Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry using polish sausage and a variety of ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "1 cup",
+      "notes": " sliced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large",
+      "notes": " any color"
+    },
+    {
+      "name": "Spicy",
+      "amount": "1 tablespoon",
+      "notes": " chili flakes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": " low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of spicy in skillet over medium-high heat.",
+    "Add sliced polish sausage and cook for 4-5 minutes until browned.",
+    "Add sliced jubilant and cook for an additional 3-4 minutes.",
+    "Stir in soy sauce and cook for 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "easy",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-spicy-polish-sausage-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:09:52.501Z"
+}
