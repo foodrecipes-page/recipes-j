@@ -1,0 +1,99 @@
+{
+  "slug": "juicy-indulgent-tunisian-chicken-tagine--chinese",
+  "title": "Tunisian Chicken Tagine with Chinese Twist",
+  "description": "A fusion dish combining the flavors of Tunisia and China, featuring chicken cooked in a rich tagine sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the ginger and garlic to the pot and cook until fragrant, about 1 minute.",
+    "Add the red bell pepper to the pot and cook until tender, about 3 minutes.",
+    "Add the chicken broth, tunisian spice blend, and soy sauce to the pot.",
+    "Return the chicken breast to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Serve over steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "fusion",
+    "tunisian",
+    "chinese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indulgent-tunisian-chicken-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:39:14.492Z"
+}
