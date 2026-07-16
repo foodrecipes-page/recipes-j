@@ -1,0 +1,57 @@
+{
+  "slug": "jammy-croatian-date-night-tart",
+  "title": "Tart Date Jam Crostata",
+  "description": "A sweet and tangy tart filled with a date and jam filling, perfect for a dessert or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "date",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "tart jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "croatian pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a bowl, mix together the chopped dates and tart jam.",
+    "Spread the date and jam mixture evenly over the pastry dough.",
+    "Fold the edges of the pastry dough up over the filling, pressing gently to seal.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "sweet",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-croatian-date-night-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:40:45.064Z"
+}
