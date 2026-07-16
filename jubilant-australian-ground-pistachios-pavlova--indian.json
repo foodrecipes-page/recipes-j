@@ -1,0 +1,85 @@
+{
+  "slug": "jubilant-australian-ground-pistachios-pavlova--indian",
+  "title": "Pistachio Pavlova Naan Bites",
+  "description": "Crispy naan bites filled with a sweet pistachio pavlova-inspired filling, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pavlova",
+      "amount": "1/2 cup",
+      "notes": "chopped pavlova meringue"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped pistachios"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1/4 cup",
+      "notes": "jubilant sugar, or substitute with granulated sugar"
+    },
+    {
+      "name": "australian",
+      "amount": "2 tablespoons",
+      "notes": "australian yogurt (or substitute with plain yogurt)"
+    },
+    {
+      "name": "ground",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cardamom"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for naan dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": "for naan dough"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing naan dough"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large mixing bowl, combine pavlova, pistachios, jubilant, and ground. Mix well.",
+    "3. Add australian yogurt and mix until a smooth filling forms.",
+    "4. In a separate bowl, mix together all-purpose flour and warm water to form a dough.",
+    "5. Knead the dough for 5-7 minutes until smooth.",
+    "6. Divide the dough into 8-10 equal portions and roll each portion into a ball.",
+    "7. Flatten each ball into a disk shape and brush with ghee or oil.",
+    "8. Place a tablespoon of the pavlova filling in the center of each disk.",
+    "9. Fold the dough over the filling to form a triangle or a square shape, and press the edges together to seal.",
+    "10. Brush the tops with ghee or oil and bake for 12-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "pavlova",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-australian-ground-pistachios-pavlova--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:00:46.718Z"
+}
