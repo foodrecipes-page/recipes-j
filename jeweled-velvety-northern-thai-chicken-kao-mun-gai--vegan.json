@@ -1,0 +1,84 @@
+{
+  "slug": "jeweled-velvety-northern-thai-chicken-kao-mun-gai--vegan",
+  "title": "Thai Vegan Chicken Noodle Soup",
+  "description": "A delicious and comforting vegan soup inspired by Thai flavors. A perfect meal for a chilly day.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kao",
+      "amount": "2 cups",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "northern thai",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "mun",
+      "amount": "1 cup",
+      "notes": " sliced mushrooms"
+    },
+    {
+      "name": "gai",
+      "amount": "1 cup",
+      "notes": "marinated tofu"
+    },
+    {
+      "name": "jeweled",
+      "amount": "1 cup",
+      "notes": "mixed bell peppers"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tbsp",
+      "notes": "coconut cream"
+    },
+    {
+      "name": "thai",
+      "amount": "2 tsp",
+      "notes": "red curry paste"
+    },
+    {
+      "name": "chicken",
+      "amount": "2 tsp",
+      "notes": "vegan chicken seasoning"
+    }
+  ],
+  "instructions": [
+    "Combine vegetable broth, red curry paste, and vegan chicken seasoning in a large pot.",
+    "Bring to a boil, then reduce heat to low and let simmer for 10 minutes.",
+    "Add sliced mushrooms and marinated tofu to the pot and cook for an additional 5 minutes.",
+    "Add mixed bell peppers and cook until tender.",
+    "Cook rice noodles according to package instructions.",
+    "Combine cooked noodles, soup mixture, and coconut cream in a large bowl.",
+    "Stir to combine and serve hot.",
+    "Garnish with additional mixed bell peppers if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai",
+    "soup",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-velvety-northern-thai-chicken-kao-mun-gai--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:49:24.881Z"
+}
