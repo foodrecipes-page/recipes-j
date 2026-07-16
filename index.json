@@ -18376,5 +18376,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-spanish-serrano-ham-paella--japanese",
+    "title": "Spanish Paella-Style Japanese Serrano Ham",
+    "tags": [
+      "japanese",
+      "spanish",
+      "paella",
+      "serrano-ham",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jellylike-velvety-greek-fish-galaktoboureko--french",
+    "title": "Galaktoboureko Crème Brûlée",
+    "tags": [
+      "french",
+      "creme brulee",
+      "dessert",
+      "galaktoboureko"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "j"
   }
 ]
