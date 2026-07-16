@@ -1,0 +1,87 @@
+{
+  "slug": "jiggly-korean-tinned-tomatoes-stew--chinese",
+  "title": "Korean Stew with Tomatoes",
+  "description": "A twist on traditional Chinese hot pot, this recipe incorporates the bold flavors of Korea.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jiggly tomatoes",
+      "amount": "2 cans (14 oz each)",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tinned water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Stew meat (beef or pork)",
+      "amount": "1 lb",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add stew meat and cook until browned, about 3-4 minutes.",
+    "Add Korean chili flakes, soy sauce, and sugar. Stir to combine.",
+    "Add tinned water and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes, or until meat is tender.",
+    "Stir in jiggly tomatoes and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-chinese",
+    "stew",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jiggly-korean-tinned-tomatoes-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:25:55.650Z"
+}
