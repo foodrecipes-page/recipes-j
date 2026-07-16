@@ -1,0 +1,90 @@
+{
+  "slug": "jeweled-indulgent-japanese-lemons-takikomi-gohan--gluten-free",
+  "title": "Japanese-Style Takikomi Gohan",
+  "description": "A traditional Japanese dish with jeweled vegetables and lemons, made gluten-free for a healthier option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice (gohan)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cooked to 165°F"
+    },
+    {
+      "name": "Jeweled vegetables (such as carrots, green beans, and peas)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Takikomi seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes.",
+    "Cook the rice in a rice cooker or on the stovetop until it's tender.",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "Heat a pan with sesame oil and cook the chicken until it's browned and cooked through.",
+    "Add the jeweled vegetables to the pan and cook until they're tender.",
+    "Stir in the takikomi seasoning and soy sauce.",
+    "Squeeze the lemons over the top and sprinkle with green onions and sesame seeds.",
+    "Serve the chicken and vegetables over the cooked rice.",
+    " Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "gluten-free",
+    "rice",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-indulgent-japanese-lemons-takikomi-gohan--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:59:56.084Z"
+}
