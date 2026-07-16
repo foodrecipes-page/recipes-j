@@ -1,0 +1,67 @@
+{
+  "slug": "jain-friendly-roasted-american-challots-grill",
+  "title": "American-Style Grilled Challot Burgers",
+  "description": "A delicious twist on traditional burgers, featuring grilled challots and a hint of American flavor.",
+  "cuisine": null,
+  "diet": [
+    "friendly",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "4",
+      "notes": "1-inch thick slices"
+    },
+    {
+      "name": "roasted",
+      "amount": "1/2 cup",
+      "notes": "roasted red bell pepper, diced"
+    },
+    {
+      "name": "american",
+      "amount": "2 tbsp",
+      "notes": "American-style BBQ sauce"
+    },
+    {
+      "name": "jain",
+      "amount": "4",
+      "notes": "whole wheat hamburger buns"
+    },
+    {
+      "name": "friendly",
+      "amount": "8 oz",
+      "notes": "friendly-style cheese, sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill challot slices for 3-4 minutes per side, or until charred and cooked through.",
+    "3. Meanwhile, toast hamburger buns on the grill.",
+    "4. Spread a layer of American-style BBQ sauce on each toasted bun.",
+    "5. Add a grilled challot slice, a slice of friendly-style cheese, and a dollop of roasted red bell pepper.",
+    "6. Top with the remaining bun half.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "grill",
+    "burgers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jain-friendly-roasted-american-challots-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:55:52.581Z"
+}
