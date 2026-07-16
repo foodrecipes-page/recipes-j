@@ -1,0 +1,80 @@
+{
+  "slug": "jiggly-korean-tinned-tomatoes-stew--indian",
+  "title": "Tomato Stew",
+  "description": "A flavorful Indian-inspired stew featuring tinned tomatoes and jiggly texture from the stew. Perfect for a comforting meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tinned tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and sauté until softened.",
+    "Add minced garlic and sauté for another minute.",
+    "Add cumin powder, coriander powder, and turmeric powder. Mix well.",
+    "Add tinned tomatoes and water. Stir well.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Add stew and season with salt to taste.",
+    "Simmer for another 10 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tomato",
+    "stew",
+    "indian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jiggly-korean-tinned-tomatoes-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:25:15.048Z"
+}
