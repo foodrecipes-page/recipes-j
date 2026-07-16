@@ -1,0 +1,93 @@
+{
+  "slug": "jazzy-bouncy-korean-corn-tacos--japanese",
+  "title": "Korean Corn Tacos with Jazzy Slaw",
+  "description": "A fusion twist on traditional tacos, combining spicy Korean flavors with the crunch of corn and a side of jazzy slaw.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tacos",
+      "amount": "8-10 shells",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "korean",
+      "amount": "1/4 cup gochujang",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "jazzy",
+      "amount": "1 cup shredded cabbage",
+      "notes": "add a splash of rice vinegar for extra flavor"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/4 cup chopped cilantro",
+      "notes": "add on top of slaw for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for slaw dressing"
+    }
+  ],
+  "instructions": [
+    "Prepare gochujang marinade by mixing together gochujang, soy sauce, and sugar. Place corn and green onion in a bowl and pour marinade over. Let sit for at least 30 minutes.",
+    "Heat a skillet over medium-high heat. Add sesame oil and cook corn mixture for 5-7 minutes, until slightly charred.",
+    "Cook tacos shells according to package instructions.",
+    "Assemble tacos by placing cooked corn mixture onto a shell, followed by a sprinkle of cilantro and green onion.",
+    "Prepare jazzy slaw by mixing together shredded cabbage, chopped cilantro, and a splash of rice vinegar.",
+    "Serve tacos with a side of jazzy slaw and garnish with additional cilantro and green onion if desired.",
+    "Cook time may vary depending on desired level of char on corn mixture.",
+    "Tacos can be served immediately, or refrigerated for up to 2 hours before serving.",
+    "Slaw can be made ahead of time and refrigerated overnight.",
+    "For an added kick, sprinkle a pinch of gochugaru (Korean chili flakes) on top of tacos."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean food",
+    "japanese cuisine",
+    "tacos",
+    "corn",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-bouncy-korean-corn-tacos--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:01:22.935Z"
+}
