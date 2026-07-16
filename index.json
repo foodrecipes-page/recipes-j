@@ -1471,16 +1471,14 @@
   },
   {
     "slug": "jain-friendly-roasted-american-challots-grill",
-    "title": "Jain-Friendly Roasted American Challots Grill",
+    "title": "American-Style Grilled Challot Burgers",
     "tags": [
-      "grilled",
-      "high-fiber",
-      "jain-friendly",
-      "roasted",
-      "vegan-friendly"
+      "american",
+      "grill",
+      "burgers"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -18473,6 +18471,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jeweled-indulgent-japanese-lemons-takikomi-gohan--gluten-free",
+    "title": "Japanese-Style Takikomi Gohan",
+    "tags": [
+      "japanese",
+      "gluten-free",
+      "rice",
+      "chicken",
+      "vegetables"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-mexican-chicken-enchiladas--vegan",
+    "title": "Vegan Mexican Enchilada Casserole",
+    "tags": [
+      "vegan",
+      "mexican",
+      "casserole",
+      "enchiladas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-spicy-polish-sausage-skillet--chinese",
+    "title": "Sausage Stir Fry",
+    "tags": [
+      "chinese",
+      "easy",
+      "sausage"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
