@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-indian-egg-curry--indian",
+  "title": "Indian Egg Curry",
+  "description": "A flavorful and spicy Indian-inspired egg curry made with juicy eggs and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "2 sprigs",
+      "notes": "optional"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and grated ginger; sauté for 1 minute.",
+    "Add curry powder and garam masala; sauté for 1 minute.",
+    "Add curry leaves (if using) and sauté for 30 seconds.",
+    "Add eggs and stir gently to combine with spices.",
+    "Cook for 5-6 minutes or until eggs are cooked through.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-egg-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:46:31.234Z"
+}
