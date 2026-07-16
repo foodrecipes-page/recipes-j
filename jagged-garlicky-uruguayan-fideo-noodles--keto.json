@@ -1,0 +1,81 @@
+{
+  "slug": "jagged-garlicky-uruguayan-fideo-noodles--keto",
+  "title": "Keto Uruguayan Noodle Stir Fry",
+  "description": "A spicy and savory stir fry dish made with Uruguayan fideo noodles, garlicky jagged vegetables, and a hint of Uruguayan flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideo Noodles",
+      "amount": "8 oz",
+      "notes": "Uruguayan style"
+    },
+    {
+      "name": "Jagged Vegetables",
+      "amount": "1 cup",
+      "notes": "Garlicky flavor"
+    },
+    {
+      "name": "Uruguayan Sausages",
+      "amount": "2",
+      "notes": "Chorizo or morcilla"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Optional for extra heat"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the diced jagged vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Uruguayan sausages and cook until browned, breaking them up with a spoon as they cook.",
+    "Add the fideo noodles to the skillet and stir to combine with the vegetables and sausages.",
+    "Season with salt, black pepper, and chili flakes (if using).",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "uruguayan",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-garlicky-uruguayan-fideo-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:51:39.589Z"
+}
