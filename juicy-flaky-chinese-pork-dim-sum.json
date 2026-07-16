@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-flaky-chinese-pork-dim-sum",
+  "title": "Crispy Pork Dumplings",
+  "description": "A classic Chinese dish made with juicy pork and crispy wrappers. Serve as a snack or appetizer.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "flaky",
+      "amount": "2 packages",
+      "notes": "Wonton wrappers"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cloves",
+      "notes": "Garlic, minced"
+    },
+    {
+      "name": "dim",
+      "amount": "1 cup",
+      "notes": "Chopped cabbage"
+    },
+    {
+      "name": "sum",
+      "amount": "2 tablespoons",
+      "notes": "Soy sauce"
+    }
+  ],
+  "instructions": [
+    "Combine pork, garlic, and soy sauce in a bowl. Mix well.",
+    "Lay a wonton wrapper on a flat surface. Place a tablespoon of the pork mixture in the center.",
+    "Brush the edges of the wrapper with water. Fold the wrapper into a triangle and press the edges together to seal.",
+    "Heat 2 inches of oil in a wok or deep frying pan over medium-high heat.",
+    "When the oil is hot, add a few dumplings to the pan (do not overcrowd).",
+    "Fry the dumplings until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "pork",
+    "dumplings",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flaky-chinese-pork-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:56:10.404Z"
+}
