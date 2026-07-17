@@ -1,0 +1,69 @@
+{
+  "slug": "jammy-light-argentinian-bok-choi-gyoza--gluten-free",
+  "title": "Argentinian Gyoza Stir Fry",
+  "description": "A quick and easy stir fry using Asian-style gyoza and Argentinian bok choi, perfect for a gluten-free meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian bok choi",
+      "amount": "2 bunches",
+      "notes": "Separate into individual florets"
+    },
+    {
+      "name": "Gyoza",
+      "amount": "1 package (about 20 gyoza)",
+      "notes": "Pan-fry before adding to stir fry"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Jammy sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tbsp of jammy sesame oil in a large skillet or wok over medium-high heat.",
+    "2. Pan-fry the gyoza until lightly browned on both sides, about 2-3 minutes per side.",
+    "3. Remove the gyoza from the skillet and set aside.",
+    "4. Add the remaining 1 tbsp of jammy sesame oil to the skillet and stir-fry the separated bok choi florets until tender, about 3-4 minutes.",
+    "5. Return the pan-fried gyoza to the skillet and stir-fry for another minute.",
+    "6. Add the light soy sauce and stir to combine.",
+    "7. Season with salt to taste.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "bok-choi",
+    "gyoza",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-light-argentinian-bok-choi-gyoza--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:44:45.848Z"
+}
