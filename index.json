@@ -2795,17 +2795,14 @@
   },
   {
     "slug": "jaw-dropping-smoky-moroccan-ground-poppy-seeds-seffa",
-    "title": "Jaw Dropping Smoky Moroccan Ground Poppy Seeds Seffa",
+    "title": "Smoky Moroccan Chicken Tagine",
     "tags": [
-      "middle-eastern",
+      "chicken",
       "moroccan",
-      "smoky",
-      "special-occasion",
-      "spicy",
-      "sugar-free"
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -15289,17 +15286,16 @@
   },
   {
     "slug": "juicy-smoky-syrian-chicken-kebabs",
-    "title": "Juicy Smoky Syrian Chicken Kebabs",
+    "title": "Syrian Juicy Chicken Kebabs",
     "tags": [
-      "grilled-chicken",
-      "low-sodium",
-      "middle-eastern",
-      "passion-fruit",
-      "smoky-flavor",
-      "syrian-cuisine"
+      "syrian",
+      "chicken-kebabs",
+      "grilled",
+      "summer",
+      "easy"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "j"
   },
   {
@@ -18691,6 +18687,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--italian",
+    "title": "Italian Beer Cheese Wrap",
+    "tags": [
+      "italian",
+      "snack",
+      "cheese",
+      "beer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
     "shard": "j"
   }
 ]
