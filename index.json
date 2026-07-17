@@ -14335,16 +14335,15 @@
   },
   {
     "slug": "juicy-roasted-tunisian-chicken-pilaf",
-    "title": "Juicy Roasted Tunisian Chicken Pilaf",
+    "title": "Tunisian Chicken Pilaf",
     "tags": [
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "tunisian-cuisine",
-      "weeknight"
+      "chicken",
+      "pilaf",
+      "north-african",
+      "roasted"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 63,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
