@@ -1,0 +1,67 @@
+{
+  "slug": "jagged-light-venezuelan-pickle-casserole--chinese",
+  "title": "Venezuelan Pickle Casserole Stir Fry",
+  "description": "A unique fusion of Venezuelan flavors with a Chinese twist. This casserole stir fry combines crispy pickles with savory jagged meat.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jagged meat",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Venezuelan pickle",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Casserole rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok over medium-high heat.",
+    "Add jagged meat and cook until browned, about 3-4 minutes.",
+    "Add light soy sauce and stir to coat. Cook for an additional 1-2 minutes.",
+    "Add Venezuelan pickle and cook until slightly caramelized, about 2-3 minutes.",
+    "Stir in cooked casserole rice and cook for 1-2 minutes.",
+    "Transfer to a serving dish and garnish with chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "venezuelan-food",
+    "casserole-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-light-venezuelan-pickle-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:23:03.128Z"
+}
