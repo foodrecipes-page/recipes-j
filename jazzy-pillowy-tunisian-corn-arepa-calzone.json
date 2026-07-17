@@ -1,0 +1,72 @@
+{
+  "slug": "jazzy-pillowy-tunisian-corn-arepa-calzone",
+  "title": "Tunisian Arepa Calzone",
+  "description": "A twist on the classic Italian dish, this Tunisian Arepa Calzone combines Tunisian spices with the crispy texture of arepas.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tunisian",
+      "amount": "2 teaspoons",
+      "notes": "use a Tunisian spice blend"
+    },
+    {
+      "name": "pillowy arepa dough",
+      "amount": "4 arepas",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "calzone filling",
+      "amount": "1 cup",
+      "notes": "a mix of mozzarella, ricotta, and parmesan cheese"
+    },
+    {
+      "name": "jazzy sauce",
+      "amount": "1 cup",
+      "notes": "a spicy tomato sauce"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen corn kernels"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the arepas"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brush the arepas with olive oil and bake for 10 minutes.",
+    "Spoon the calzone filling onto one half of each arepa.",
+    "Fold the other half over the filling and press down gently.",
+    "Place the calzones on a baking sheet and bake for an additional 5 minutes.",
+    "Drizzle with jazzy sauce and sprinkle with tunisian spice blend."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "arepa",
+    "calzone",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-pillowy-tunisian-corn-arepa-calzone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:25:19.213Z"
+}
