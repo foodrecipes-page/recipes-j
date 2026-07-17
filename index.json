@@ -3397,17 +3397,14 @@
   },
   {
     "slug": "jazzy-german-barley-curry",
-    "title": "Jazzy German Barley Curry",
+    "title": "Curry Jazzy German Stew",
     "tags": [
-      "barley",
-      "curry",
       "german",
-      "low-sodium",
-      "one-pot",
-      "vegetarian"
+      "curry",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -3902,18 +3899,14 @@
   },
   {
     "slug": "jazzy-pillowy-tunisian-corn-arepa-calzone",
-    "title": "Jazzy Pillowy Tunisian Corn Arepa Calzone",
+    "title": "Tunisian Arepa Calzone",
     "tags": [
-      "calzone-recipe",
-      "corn-arepa-recipe",
-      "indulgent-recipe",
-      "lunch-recipe",
-      "mirepoix-base-recipe",
-      "one-pan-recipe",
-      "tunisian-cuisine",
-      "vegan-friendly"
+      "tunisian",
+      "arepa",
+      "calzone",
+      "snack"
     ],
-    "cuisine": "tunisian",
+    "cuisine": "Tunisian",
     "totalTimeMin": 35,
     "shard": "j"
   },
