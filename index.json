@@ -18774,5 +18774,19 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "j"
+  },
+  {
+    "slug": "jammy-light-argentinian-bok-choi-gyoza--gluten-free",
+    "title": "Argentinian Gyoza Stir Fry",
+    "tags": [
+      "argentinian",
+      "bok-choi",
+      "gyoza",
+      "stir-fry",
+      "gluten-free"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 13,
+    "shard": "j"
   }
 ]
