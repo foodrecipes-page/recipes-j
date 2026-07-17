@@ -1,0 +1,54 @@
+{
+  "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--italian",
+  "title": "Italian Beer Cheese Wrap",
+  "description": "A savory Italian-inspired wrap filled with beer-steeped cheese and served warm. Perfect for a casual snack or light meal.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "8 oz",
+      "notes": "such as Edam or Gouda"
+    },
+    {
+      "name": "japanese wrap",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the beer and bring to a simmer.",
+    "Reduce heat to low and let steep for 5 minutes, or until slightly reduced.",
+    "Add the cheese to the skillet and stir until melted and smooth.",
+    "Warm the Japanese wrap in the microwave for 10-15 seconds.",
+    "Spoon the beer-steeped cheese onto the center of the wrap.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "cheese",
+    "beer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-style-beer-steeped-dutch-cheese-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:07:54.744Z"
+}
