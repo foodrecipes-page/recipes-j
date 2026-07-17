@@ -1,0 +1,62 @@
+{
+  "slug": "juicy-smoky-potato-salad",
+  "title": "Smoky Potato Salad",
+  "description": "A classic potato salad with a smoky twist, perfect for a summer barbecue.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup, chopped (smoked paprika)",
+      "notes": "optional"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 tablespoons, chopped (fresh parsley)",
+      "notes": "optional"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in a large pot of salted water until tender, about 10-12 minutes.",
+    "Drain the potatoes and let them cool to room temperature.",
+    "In a separate bowl, whisk together the mayonnaise and chopped parsley (if using).",
+    "Add the cooled potatoes to the bowl and toss until they are well coated with the dressing.",
+    "If using smoked paprika, stir it in to give the salad a smoky flavor.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato-salad",
+    "summer-side-dish",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-potato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:02:19.990Z"
+}
