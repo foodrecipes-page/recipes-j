@@ -1,0 +1,59 @@
+{
+  "slug": "jazzy-german-barley-curry",
+  "title": "Curry Jazzy German Stew",
+  "description": "A hearty and flavorful stew combining the best of German and Indian cuisine. Perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barley",
+      "amount": "1 cup",
+      "notes": "pearled barley"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tablespoons",
+      "notes": "curry powder"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1 cup",
+      "notes": "jazzy mushrooms, sliced"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for the stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add sliced Jazzy and cook until tender, about 5 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add barley and water, bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "curry",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-german-barley-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:46:51.269Z"
+}
