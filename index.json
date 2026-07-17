@@ -18747,5 +18747,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-tender-sardinian-rocket-panforte--chinese",
+    "title": "Panforte-Glazed Sardinian Sausage Stir Fry",
+    "tags": [
+      "chinese",
+      "fusion",
+      "stir-fry",
+      "panforte",
+      "sardinian-sausage"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-british-seitan-cornish-pasty--german",
+    "title": "Traditional German Seitan Pasty",
+    "tags": [
+      "german",
+      "vegetarian",
+      "pasty",
+      "seitan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "j"
   }
 ]
