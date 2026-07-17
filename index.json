@@ -16210,14 +16210,12 @@
   },
   {
     "slug": "juicy-tender-greek-beans-fasolada",
-    "title": "Greek Beans Fasolada",
+    "title": "Traditional Greek Fasolada",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "mediterranean",
-      "one-pot",
+      "greek",
+      "beans",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 80,
@@ -18696,6 +18694,58 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-syrian-steak-kebabs--indian",
+    "title": "Spicy Syrian Steak Kebabs",
+    "tags": [
+      "indian",
+      "kebabs",
+      "grill",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-tender-indian-rice-khichdi--italian",
+    "title": "Italian-Style Khichdi Risotto",
+    "tags": [
+      "italian",
+      "indian",
+      "fusion",
+      "risotto",
+      "khichdi"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-syrian-lentil-wrap--keto",
+    "title": "Keto Lentil Wrap",
+    "tags": [
+      "keto",
+      "lentil",
+      "wrap",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-light-venezuelan-pickle-casserole--chinese",
+    "title": "Venezuelan Pickle Casserole Stir Fry",
+    "tags": [
+      "chinese-fusion",
+      "venezuelan-food",
+      "casserole-stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
