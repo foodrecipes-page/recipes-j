@@ -1,0 +1,107 @@
+{
+  "slug": "justifiably-juicy-malaysian-tofu-curry--chinese",
+  "title": "Tofu Curry with Juicy Vegetables",
+  "description": "A Chinese-inspired tofu curry with a variety of juicy vegetables, all cooked to perfection in a flavorful sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "justifiably oil",
+      "amount": "2 tablespoons",
+      "notes": "any neutral-tasting oil with a high smoke point"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook until it starts to brown, about 3-4 minutes.",
+    "Add the bell pepper and cook for another 2-3 minutes, until it starts to soften.",
+    "Add the carrot and potato, and cook for 5 minutes, until they start to brown.",
+    "Add the curry paste and stir for 1-2 minutes, until fragrant.",
+    "Add the tofu and cook for 2-3 minutes, until it starts to brown.",
+    "Pour in the coconut milk and chicken broth, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook for 10-15 minutes, until the vegetables are tender.",
+    "Add the fish sauce and sugar, if using, and stir to combine.",
+    "Add the malaysian chili flakes, if using, and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "curry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justifiably-juicy-malaysian-tofu-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:30:49.190Z"
+}
