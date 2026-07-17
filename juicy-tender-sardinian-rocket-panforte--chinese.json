@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-tender-sardinian-rocket-panforte--chinese",
+  "title": "Panforte-Glazed Sardinian Sausage Stir Fry",
+  "description": "A fusion twist on traditional Chinese stir-fry with the addition of Panforte-glazed Sardinian sausage and crispy rocket. This sweet and savory dish is perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sardinian sausage",
+      "amount": "250g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Rocket",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Panforte",
+      "amount": "120g",
+      "notes": "diced"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "for glazing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the Sardinian sausage in soy sauce for at least 10 minutes.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the marinated sausage and cook until browned, about 3-4 minutes.",
+    "Add the diced Panforte and cook for another 2 minutes.",
+    "Add the chopped rocket and cook until wilted, about 1 minute.",
+    "Add the chopped tomatoes and cook for another minute.",
+    "Drizzle honey over the top and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fusion",
+    "stir-fry",
+    "panforte",
+    "sardinian-sausage"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-sardinian-rocket-panforte--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:51:09.840Z"
+}
