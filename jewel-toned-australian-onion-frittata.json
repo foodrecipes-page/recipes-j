@@ -1,0 +1,59 @@
+{
+  "slug": "jewel-toned-australian-onion-frittata",
+  "title": "Australian Frittata",
+  "description": "A hearty Australian-inspired frittata packed with onion and a twist of Aussie flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian eggs",
+      "amount": "6",
+      "notes": "Fresh eggs for a moist frittata"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped for sautéing"
+    },
+    {
+      "name": "jewel-toned bell pepper",
+      "amount": "1 large",
+      "notes": "Diced for added crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs and set aside.",
+    "In a large skillet, sauté onion over medium heat until softened.",
+    "Add diced jewel-toned bell pepper and cook for another 2-3 minutes.",
+    "Pour whisked eggs over the skillet mixture.",
+    "Transfer skillet to preheated oven and bake for 18-20 minutes or until the eggs are set.",
+    "Remove from oven and let it rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "frittata",
+    "meat-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-australian-onion-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:03:32.725Z"
+}
