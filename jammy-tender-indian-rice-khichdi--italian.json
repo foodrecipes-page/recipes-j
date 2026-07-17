@@ -1,0 +1,85 @@
+{
+  "slug": "jammy-tender-indian-rice-khichdi--italian",
+  "title": "Italian-Style Khichdi Risotto",
+  "description": "A unique fusion of Italian and Indian flavors, this khichdi risotto is a creative twist on traditional Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khichdi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tender",
+      "amount": "2 cups, mixed vegetables"
+    },
+    {
+      "name": "jammy",
+      "amount": "2 tablespoons, fig jam"
+    },
+    {
+      "name": "indian",
+      "amount": "2 teaspoons, garam masala"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "for deglazing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mixed vegetables and cook until tender, about 5-6 minutes.",
+    "Add the garam masala and cook for 1 minute.",
+    "Add the white wine and deglaze the skillet, scraping up any browned bits.",
+    "Add the rice and khichdi to the skillet and stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the liquid has been absorbed.",
+    "Stir in the fig jam and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "indian",
+    "fusion",
+    "risotto",
+    "khichdi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-indian-rice-khichdi--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:09:54.735Z"
+}
