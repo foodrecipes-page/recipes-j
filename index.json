@@ -4876,17 +4876,15 @@
   },
   {
     "slug": "jerk-jamaican-feta-tagine",
-    "title": "Jerk Jamaican Feta Tagine",
+    "title": "Jerk Tagine Chicken",
     "tags": [
-      "brunch-ideas",
-      "copper-cooking",
-      "jamaican-cuisine",
-      "one-pot",
-      "spicy-food",
-      "vegan-friendly"
+      "caribbean",
+      "chicken",
+      "feta",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -9973,17 +9971,15 @@
   },
   {
     "slug": "juicy-charred-peruvian-seafood-ceviche-clasico",
-    "title": "Juicy Charred Peruvian Seafood Ceviche Clasico",
+    "title": "Peruvian-Style Charred Seafood Ceviche",
     "tags": [
-      "date-night",
-      "halal",
-      "high-protein",
-      "low-carb",
       "peruvian",
-      "seafood"
+      "ceviche",
+      "seafood",
+      "charred"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "j"
   },
   {
