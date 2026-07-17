@@ -5073,16 +5073,16 @@
   },
   {
     "slug": "jewel-toned-australian-onion-frittata",
-    "title": "Jewel Toned Australian Onion Frittata",
+    "title": "Australian Frittata",
     "tags": [
-      "australian-cuisine",
-      "brunch-recipe",
-      "macrobiotic-friendly",
-      "one-pan-dish",
-      "vegetarian-option"
+      "australian",
+      "breakfast",
+      "frittata",
+      "meat-free",
+      "gluten-free"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -15265,15 +15265,14 @@
   },
   {
     "slug": "juicy-smoky-potato-salad",
-    "title": "Juicy Smoky Potato Salad",
+    "title": "Smoky Potato Salad",
     "tags": [
-      "smoky",
-      "juicy",
-      "potato",
-      "salad"
+      "potato-salad",
+      "summer-side-dish",
+      "barbecue"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18655,6 +18654,32 @@
       "rice"
     ],
     "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-lazy-american-plant-based-casserole--french",
+    "title": "French Plant-Based Casserole",
+    "tags": [
+      "french",
+      "vegan",
+      "lasagna",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-american-bean-sprouts-casserole--thai",
+    "title": "Thai Bean Sprout Casserole",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "casserole",
+      "bean-sprouts"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "j"
   }
