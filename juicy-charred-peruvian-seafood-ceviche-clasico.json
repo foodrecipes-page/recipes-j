@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-charred-peruvian-seafood-ceviche-clasico",
+  "title": "Peruvian-Style Charred Seafood Ceviche",
+  "description": "A refreshing and spicy Peruvian-style ceviche with a twist of charred seafood. Perfect for a light and flavorful dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "seafood",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs fresh seafood mix (shrimp, scallops, fish)",
+      "amount": "1.5 lbs",
+      "notes": "Raw and sashimi-grade"
+    },
+    {
+      "name": "1/2 cup freshly squeezed lime juice",
+      "amount": "1/2 cup",
+      "notes": "100% lime juice, no additives"
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "1/4 cup diced red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "1 minced garlic clove",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 diced aji amarillo pepper",
+      "amount": "1 pepper",
+      "notes": "Charred and diced"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Char the aji amarillo pepper over an open flame or in a broiler until blackened.",
+    "2. Peel the skin off the charred pepper and dice it.",
+    "3. In a large bowl, combine the seafood mix, lime juice, cilantro, red onion, garlic, and diced aji amarillo pepper.",
+    "4. Season with salt and pepper to taste.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the seafood to 'cook' in the lime juice.",
+    "6. Just before serving, stir in the chopped cilantro and serve immediately.",
+    "7. Garnish with additional cilantro if desired.",
+    "8. Serve with crusty bread or over rice for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "seafood",
+    "charred"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-charred-peruvian-seafood-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:28:08.102Z"
+}
