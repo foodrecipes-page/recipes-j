@@ -1,0 +1,93 @@
+{
+  "slug": "jazzy-lazy-american-plant-based-casserole--french",
+  "title": "French Plant-Based Casserole",
+  "description": "A French-inspired casserole made with plant-based ingredients, perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plant-based ground meat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lazy American lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "based casserole sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "american cheese shreds (dairy-free)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jazzy mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "casserole vegetables (bell peppers, onions, carrots)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped casserole vegetables and cook until they're tender.",
+    "Stir in the plant-based ground meat and cook until it's browned.",
+    "Add the casserole sauce and stir to combine.",
+    "In a large bowl, combine the cooked lasagna noodles, mushroom and vegetable mixture, and American cheese shreds.",
+    "Transfer the mixture to a 9x13-inch baking dish and top with additional American cheese shreds if desired.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vegan",
+    "lasagna",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-lazy-american-plant-based-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:21:19.498Z"
+}
