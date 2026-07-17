@@ -1,0 +1,73 @@
+{
+  "slug": "jubilant-syrian-lentil-wrap--keto",
+  "title": "Keto Lentil Wrap",
+  "description": "A tasty and healthy keto wrap made with lentils and syrian ingredients. This meal is perfect for a quick lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Jubilant lentils",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Lentil seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the jubilant lentils according to package instructions.",
+    "2. In a pan, heat the olive oil over medium heat.",
+    "3. Add the cooked lentils to the pan and stir in the lentil seasoning.",
+    "4. Warm the syrian wrap in the microwave for 10-15 seconds.",
+    "5. Spoon the lentil mixture onto the center of the warmed wrap.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "lentil",
+    "wrap",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-syrian-lentil-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:18:09.906Z"
+}
