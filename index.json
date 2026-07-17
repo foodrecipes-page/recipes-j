@@ -7446,16 +7446,14 @@
   },
   {
     "slug": "jubilant-crunchy-mediterranean-kale-salad",
-    "title": "Jubilant Crunchy Mediterranean Kale Salad",
+    "title": "Crunchy Kale Salad",
     "tags": [
       "kale",
-      "low-fodmap",
-      "mediterranean",
-      "peach-dressing",
-      "salad"
+      "salad",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -8136,17 +8134,16 @@
   },
   {
     "slug": "jubilant-norwegian-galangal-skewers",
-    "title": "Jubilant Norwegian Galangal Skewers",
+    "title": "Galangal Skewers with Jubilant Norwegian Glaze",
     "tags": [
-      "gluten-free",
       "grilled",
-      "norwegian-cuisine",
-      "paleo",
-      "skewers",
-      "whole30"
+      "vegan-friendly",
+      "skewer",
+      "norwegian",
+      "galangal"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 32,
+    "cuisine": "Asian-Fusion",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
