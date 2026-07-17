@@ -1,0 +1,77 @@
+{
+  "slug": "jewelled-crisp-romantic-polish-dish-tagine--vegan",
+  "title": "Crisp Jewelled Vegan Tagine",
+  "description": "A delicious and hearty vegan tagine made with jewelled rice and crispy vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jewelled rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "romantic vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tumeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the romantic vegetables and polish mushrooms, cook until crispy.",
+    "Add the jewelled rice, cumin, coriander, and tumeric, cook for 1 minute.",
+    "Add the vegan stock and salt, bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "moroccan",
+    "tagine",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-crisp-romantic-polish-dish-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:54:39.773Z"
+}
