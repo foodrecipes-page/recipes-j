@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-smoky-syrian-chicken-kebabs",
+  "title": "Syrian Juicy Chicken Kebabs",
+  "description": "A flavorful and aromatic recipe for chicken kebabs with a smoky twist inspired by Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Syrian kebab spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at Middle Eastern stores or online"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adds a smoky flavor to the kebabs"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the kebabs during grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Syrian kebab spice blend, smoked paprika, lemon juice, and 2 tablespoons of olive oil.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Let the chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated chicken, garlic, and onion onto skewers.",
+    "Brush the kebabs with the remaining 2 tablespoons of olive oil.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are cooked through and slightly charred.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as rice, salad, or pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken-kebabs",
+    "grilled",
+    "summer",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-syrian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:38:14.782Z"
+}
