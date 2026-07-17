@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-roasted-tunisian-chicken-pilaf",
+  "title": "Tunisian Chicken Pilaf",
+  "description": "A flavorful and aromatic North African-inspired dish featuring roasted chicken, juicy spices, and a nutty pilaf.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy roasted spices",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tunisian chili peppers",
+      "amount": "1-2",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, heat the pilaf according to package instructions.",
+    "In a large bowl, combine the cooked pilaf, roasted spices, and chopped parsley.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing.",
+    "Serve the sliced chicken on top of the pilaf mixture.",
+    "Garnish with additional parsley and tunisian chili peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "north-african",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-tunisian-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:52:40.956Z"
+}
