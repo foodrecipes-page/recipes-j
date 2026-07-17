@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-tender-greek-beans-fasolada",
+  "title": "Traditional Greek Fasolada",
+  "description": "A hearty and comforting Greek bean stew, made with juicy tender beans in a rich vegetable broth.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried fasolada beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, minced garlic, chopped carrots, and chopped celery. Cook until the vegetables are tender.",
+    "Add the dried fasolada beans, vegetable broth, canned tomatoes, salt, and pepper. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Stir in the lemon juice and serve hot, garnished with fresh parsley or oregano."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "beans",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-greek-beans-fasolada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:44:46.600Z"
+}
