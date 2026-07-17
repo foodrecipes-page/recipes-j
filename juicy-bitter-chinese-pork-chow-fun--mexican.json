@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-bitter-chinese-pork-chow-fun--mexican",
+  "title": "Carnitas Tacos",
+  "description": "Tender pork carnitas served in a crispy taco shell with fresh cilantro and a squeeze of lime juice.",
+  "cuisine": "mexican",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "chow mein noodles",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 ounces"
+    },
+    {
+      "name": "chinese five spice",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "juicy orange",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "bitter lime",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6-8",
+      "notes": "for tacos"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 1 tablespoon of oil over medium-high heat. Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the crushed chow mein noodles, diced tomatoes, Chinese five spice, orange juice, and lime juice to the pot. Stir to combine.",
+    "Cover the pot and transfer it to the preheated oven. Braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly. Shred the pork with two forks and stir to combine with the braising liquid.",
+    "Season the pork with salt and pepper to taste.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pork onto a tortilla, followed by a sprinkle of shredded cabbage if desired.",
+    "Serve immediately and enjoy!",
+    "Note: If using a slow cooker, cook the pork on low for 8-10 hours. Brown the pork in a skillet before adding it to the slow cooker for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos",
+    "carnitas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bitter-chinese-pork-chow-fun--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:13:11.351Z"
+}
