@@ -1,0 +1,84 @@
+{
+  "slug": "jubilant-british-seitan-cornish-pasty--german",
+  "title": "Traditional German Seitan Pasty",
+  "description": "A German twist on the classic Cornish pasty, filled with seitan instead of meat and served as a hearty dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "cornish pasty dough",
+      "amount": "1 package (2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "jubilant jubilee potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "british butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/2 cup",
+      "notes": "sauteed"
+    },
+    {
+      "name": "chopped carrots",
+      "amount": "1/2 cup",
+      "notes": "sauteed"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Cornish pasty dough to a thickness of about 1/8 inch.",
+    "Place a portion of the seitan in the center of the dough, leaving a 1-inch border around it.",
+    "Add the diced potatoes, sauteed onions and carrots, and melted butter on top of the seitan.",
+    "Brush the edges of the dough with water and fold the dough over the filling to form a half-moon shape.",
+    "Crimp the edges to seal the pasty and cut a few slits in the top to allow steam to escape.",
+    "Place the pasty on a baking sheet and brush with Worcestershire sauce.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "pasty",
+    "seitan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-british-seitan-cornish-pasty--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:17:21.162Z"
+}
