@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-syrian-steak-kebabs--indian",
+  "title": "Spicy Syrian Steak Kebabs",
+  "description": "A flavorful and spicy twist on traditional kebabs, featuring juicy Syrian steak, marinated in a blend of Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian steak",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, grated",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together cumin, coriander, cayenne pepper, and lemon juice.",
+    "2. Add the Syrian steak cubes and mix to coat.",
+    "3. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated steak, tomatoes, onion, and garlic onto skewers.",
+    "6. Brush the skewers with olive oil and season with salt.",
+    "7. Grill for 8-10 minutes per side, or until the steak reaches 130°F - 135°F.",
+    "8. Let the kebabs rest for 5 minutes before serving.",
+    "9. Serve hot with your favorite sides, such as basmati rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kebabs",
+    "grill",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-syrian-steak-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:50:20.154Z"
+}
