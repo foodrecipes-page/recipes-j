@@ -1,0 +1,65 @@
+{
+  "slug": "jubilant-norwegian-galangal-skewers",
+  "title": "Galangal Skewers with Jubilant Norwegian Glaze",
+  "description": "A flavorful and easy-to-make dish that combines the spicy sweetness of galangal with the vibrant flavors of Norway. Perfect for a quick dinner or a special occasion.",
+  "cuisine": "Asian-Fusion",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 cup",
+      "notes": "mixed berries"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 cup",
+      "notes": "cloudberry jam"
+    },
+    {
+      "name": "skewers",
+      "amount": "20 bamboo skewers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Thread the galangal slices onto the skewers, leaving a little space between each piece.",
+    "3. Brush the skewers with a little bit of oil and season with salt and pepper.",
+    "4. Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "5. Meanwhile, mix the jubilant and norwegian ingredients in a small bowl.",
+    "6. Once the skewers are done, brush them with the jubilant and norwegian glaze.",
+    "7. Serve immediately and enjoy!",
+    "8. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegan-friendly",
+    "skewer",
+    "norwegian",
+    "galangal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-norwegian-galangal-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:51:21.727Z"
+}
