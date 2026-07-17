@@ -18593,5 +18593,69 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-bitter-chinese-pork-chow-fun--mexican",
+    "title": "Carnitas Tacos",
+    "tags": [
+      "mexican",
+      "pork",
+      "tacos",
+      "carnitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 195,
+    "shard": "j"
+  },
+  {
+    "slug": "justifiably-juicy-malaysian-tofu-curry--chinese",
+    "title": "Tofu Curry with Juicy Vegetables",
+    "tags": [
+      "chinese",
+      "curry",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-brazilian-bean-stew--mexican",
+    "title": "Brazilian Bean Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "black-beans"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-crisp-spanish-chicken-tagine--vegetarian",
+    "title": "Crisp Spanish Chickpea Tagine",
+    "tags": [
+      "spanish",
+      "vegan",
+      "gluten-free",
+      "lunch"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-crisp-romantic-polish-dish-tagine--vegan",
+    "title": "Crisp Jewelled Vegan Tagine",
+    "tags": [
+      "vegan",
+      "moroccan",
+      "tagine",
+      "rice"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
