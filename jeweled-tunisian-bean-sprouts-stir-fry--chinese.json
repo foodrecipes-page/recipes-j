@@ -1,0 +1,77 @@
+{
+  "slug": "jeweled-tunisian-bean-sprouts-stir-fry--chinese",
+  "title": "Stir Fry with Jeweled Tofu and Bean Sprouts",
+  "description": "A quick and easy Chinese-inspired stir fry recipe featuring jeweled tofu and crunchy bean sprouts.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jeweled tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tunisian olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tunisian olive oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry until fragrant.",
+    "Add the jeweled tofu and stir-fry for 2-3 minutes.",
+    "Add the bean sprouts and stir-fry for another 2-3 minutes.",
+    "Add the stir fry sauce and stir-fry for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "tofu",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-tunisian-bean-sprouts-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:18:14.058Z"
+}
