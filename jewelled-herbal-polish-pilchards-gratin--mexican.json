@@ -1,0 +1,68 @@
+{
+  "slug": "jewelled-herbal-polish-pilchards-gratin--mexican",
+  "title": "Polish Jewelled Sopes",
+  "description": "A Mexican-inspired twist on traditional Polish pierogi, topped with jewels of flavor and herbs.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish pierogi dough",
+      "amount": "12-15 pieces"
+    },
+    {
+      "name": "Jewelled pilchard",
+      "amount": "1 can, drained and flaked"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Herbal butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out pierogi dough to 1/4 inch thickness.",
+    "Cut out circles using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of pilchard mixture onto one half of each circle.",
+    "Fold dough in half and press edges to seal.",
+    "Brush tops with herbal butter and sprinkle with grated cheese.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Garnish with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "polish",
+    "fish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-herbal-polish-pilchards-gratin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:05:27.355Z"
+}
