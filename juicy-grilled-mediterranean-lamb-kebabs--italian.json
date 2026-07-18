@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-grilled-mediterranean-lamb-kebabs--italian",
+  "title": "Grilled Lamb Kebabs Italian-Style",
+  "description": "A classic Italian-inspired dish featuring tender lamb skewers, marinated in aromatic herbs and spices.",
+  "cuisine": "italian",
+  "diet": [
+    "beef-free",
+    "pork-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Trim excess fat before cutting"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Fresh Rosemary, chopped",
+      "amount": "2 sprigs",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Fresh Thyme, chopped",
+      "amount": "2 sprigs",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Red Onion, sliced",
+      "amount": "1 medium",
+      "notes": "For skewers"
+    },
+    {
+      "name": "Red Bell Pepper, sliced",
+      "amount": "1 medium",
+      "notes": "For skewers"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "1 medium",
+      "notes": "For skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, rosemary, thyme, garlic, salt, and black pepper.",
+    "Add lamb cubes to the marinade and mix until coated.",
+    "Thread lamb, onion, bell pepper, and zucchini onto skewers.",
+    "Brush skewers with marinade and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches 145°F.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve immediately and enjoy!",
+    "Optional: Serve with a side of garlic bread or a simple green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grilled-mediterranean-lamb-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:59:46.445Z"
+}
