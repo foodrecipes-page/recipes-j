@@ -10428,18 +10428,14 @@
   },
   {
     "slug": "juicy-crispy-canadian-salmon-skillet",
-    "title": "Juicy Crispy Canadian Salmon Skillet",
+    "title": "Pan-Seared Canadian Salmon",
     "tags": [
+      "salmon",
       "gluten-free",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "quick-dinner",
-      "sous-vide"
+      "easy-dinner"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 29,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -19026,6 +19022,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-kenyan-coconut-curry--gluten-free",
+    "title": "Jazzy Kenyan Coconut Curry",
+    "tags": [
+      "kenyan",
+      "curry",
+      "coconut",
+      "gluten-free"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "j"
   }
 ]
