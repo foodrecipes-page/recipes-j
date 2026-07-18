@@ -4531,17 +4531,15 @@
   },
   {
     "slug": "jelly-filled-canadian-cod-chowder",
-    "title": "Jelly-Filled Canadian Cod Chowder",
+    "title": "Canadian Cod Chowder",
     "tags": [
       "canadian",
-      "cod",
-      "custard",
-      "jelly",
-      "one-pan",
-      "weeknight"
+      "fish-chowder",
+      "lunch-recipe",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -7610,17 +7608,15 @@
   },
   {
     "slug": "jubilant-fatty-velvety-malaysian-digestive-biscuits-pan-fried",
-    "title": "Jubilant Fatty Velvety Malaysian Digestive Biscuits Pan-Fried",
+    "title": "Malaysian Biscuit Delight",
     "tags": [
-      "breakfast",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "malaysian",
+      "dessert",
+      "sweet",
+      "easy"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 52,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -10579,17 +10575,16 @@
   },
   {
     "slug": "juicy-crispy-uruguayan-beef-skewers",
-    "title": "Juicy Crispy Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
       "beef",
       "grilled",
-      "high-protein",
-      "one-pan",
+      "skewers",
       "uruguayan",
-      "weeknight"
+      "chimichurri"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
