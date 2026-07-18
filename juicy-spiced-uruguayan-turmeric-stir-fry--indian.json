@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-spiced-uruguayan-turmeric-stir-fry--indian",
+  "title": "Turmeric Chicken Fry",
+  "description": "A flavorful and aromatic dish from the streets of India, featuring juicy chicken marinated in a blend of spices and cooked to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "uruguayan turmeric",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "spiced salt",
+      "amount": "1 tsp",
+      "notes": "homemade blend"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Marinate the chicken in a mixture of turmeric, salt, and chili flakes for at least 30 minutes.",
+    "2. Heat oil in a large skillet over medium-high heat.",
+    "3. Add the onion and cook until lightly browned, about 3-4 minutes.",
+    "4. Add the ginger and garlic and cook for another minute.",
+    "5. Add the marinated chicken and cook until browned on both sides and cooked through, about 6-7 minutes.",
+    "6. Serve hot garnished with fresh cilantro and lemon wedges.",
+    "7. Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "fry",
+    "turmeric",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spiced-uruguayan-turmeric-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:21:51.078Z"
+}
