@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-smoky-dutch-lamb-stew--keto",
+  "title": "Smoky Lamb Stew",
+  "description": "A hearty and flavorful Dutch-Style lamb stew that's perfect for a cold winter's night. This keto-friendly recipe is packed with smoky goodness and tender lamb.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the lamb shoulder in a large Dutch oven over medium-high heat.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the sliced bacon to the pot and cook until crispy.",
+    "Remove the bacon from the pot and set it aside with the lamb.",
+    "Add the sliced onion to the pot and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced carrots and celery to the pot and cook for 5 minutes.",
+    "Add the browned lamb, bacon, smoked paprika, salt, and pepper to the pot.",
+    "Stir in the Dutch mustard and bring the stew to a simmer.",
+    "Reduce the heat to low and let the stew cook for 2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-dutch-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:18:28.506Z"
+}
