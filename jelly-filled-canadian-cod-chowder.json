@@ -1,0 +1,88 @@
+{
+  "slug": "jelly-filled-canadian-cod-chowder",
+  "title": "Canadian Cod Chowder",
+  "description": "A hearty Canadian-inspired fish chowder filled with chunks of cod and a sweet touch of jelly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 lb",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tbsp",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "Filled",
+      "amount": "6-8 filled potatoes (such as Russet or Yukon gold)",
+      "notes": "peeled, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for broth"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil over medium in a large pot.",
+    "Add onion and garlic; cook until softened.",
+    "Add flour; cook 1 min.",
+    "Slowly add milk and water, whisking continuously.",
+    "Bring to a boil, then reduce heat.",
+    "Add cod, potatoes, and jelly.",
+    "Simmer 10-12 min or until fish flakes easily.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "fish-chowder",
+    "lunch-recipe",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-filled-canadian-cod-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:16:27.820Z"
+}
