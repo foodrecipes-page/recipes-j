@@ -1,0 +1,72 @@
+{
+  "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--german",
+  "title": "Beer Steeped German Cheese Wrap",
+  "description": "A German-inspired wrap filled with a rich beer-steeped cheese, served with a side of savory Dutch-style pickled vegetables.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beer",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "german cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "dutch-style pickling spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dutch-style pickling vegetables (such as carrots and onions)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "japanese-style wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Steep the beer in a saucepan over low heat for 10 minutes.",
+    "Add the german cheese to the beer saucepan and stir until melted.",
+    "Add the dutch-style pickling spices to the melted cheese and stir to combine.",
+    "Slice the dutch-style pickling vegetables into thin strips.",
+    "Add the sliced pickling vegetables to the melted cheese mixture and stir to combine.",
+    "Warm the japanese-style wrap in the microwave for 10 seconds.",
+    "Spoon the beer-steeped cheese mixture onto the warmed wrap.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "beer-steeped",
+    "cheese",
+    "wrap",
+    "dutch-style",
+    "pickled-vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-style-beer-steeped-dutch-cheese-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:13:45.827Z"
+}
