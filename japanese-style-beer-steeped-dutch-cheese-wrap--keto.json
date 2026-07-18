@@ -1,0 +1,91 @@
+{
+  "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--keto",
+  "title": "Japanese Style Beer Steeped Beef Wrap",
+  "description": "A keto twist on traditional beef wraps, infused with Japanese flavors and topped with melted cheese.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sliced beef ( ribeye or sirloin )",
+      "amount": "8 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Japanese beer",
+      "amount": "1/2 cup",
+      "notes": "steeped for 30 minutes"
+    },
+    {
+      "name": "Low-carb wrap",
+      "amount": "1",
+      "notes": "tortilla or collard green wrap"
+    },
+    {
+      "name": "Melted cheese ( cheddar or mozzarella )",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "low-carb option"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine beef slices and Japanese beer. Let it steep for 30 minutes, refrigerated.",
+    "2. Preheat a non-stick skillet or griddle over medium-high heat. Remove beef from the marinade, letting any excess liquid drip off.",
+    "3. Add the beef to the skillet and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Meanwhile, warm the low-carb wrap in the microwave for 10-15 seconds.",
+    "5. Assemble the wrap by placing the cooked beef on the wrap, followed by melted cheese, green onions, sesame seeds, soy sauce, garlic powder, and black pepper.",
+    "6. Serve immediately and enjoy!",
+    "7. Optional: Add sliced veggies like bell peppers, carrots, or cucumber for added crunch and nutrients.",
+    "8. For an extra crispy wrap, cook it in a skillet for 1-2 minutes on each side, or until golden brown.",
+    "9. Consider serving with a side of pickled ginger or wasabi for added flavor and fun.",
+    "10. Enjoy your keto Japanese style beef wrap!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "low-carb",
+    "keto",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "5g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-style-beer-steeped-dutch-cheese-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:01:08.980Z"
+}
