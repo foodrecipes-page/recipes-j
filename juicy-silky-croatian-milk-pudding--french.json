@@ -1,0 +1,68 @@
+{
+  "slug": "juicy-silky-croatian-milk-pudding--french",
+  "title": "French Creamy Pudding Dessert",
+  "description": "A classic French dessert made with silky pudding and milk, perfect for any occasion.",
+  "cuisine": "french",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "silk",
+      "amount": "250ml",
+      "notes": "High-quality silk or pudding"
+    },
+    {
+      "name": "milk",
+      "amount": "150ml",
+      "notes": "Whole milk for rich flavor"
+    },
+    {
+      "name": "croatian pudding",
+      "amount": "100g",
+      "notes": "Optional, for added texture"
+    },
+    {
+      "name": "juicy",
+      "amount": "100g",
+      "notes": "Unknown ingredient, assuming fruit or gelatin"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for sweetness"
+    }
+  ],
+  "instructions": [
+    "Combine silk or pudding, milk, and sugar in a medium saucepan.",
+    "Whisk until smooth and bring to a simmer over medium heat.",
+    "Reduce heat to low and cook for 5 minutes, stirring occasionally.",
+    "Remove from heat and stir in Croatian pudding, if using.",
+    "Allow the mixture to cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled, garnished with fresh fruit or a sprinkle of sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "pudding",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-croatian-milk-pudding--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:31:00.454Z"
+}
