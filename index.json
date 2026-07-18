@@ -16576,17 +16576,16 @@
   },
   {
     "slug": "juicy-ukrainian-dates-bake",
-    "title": "Juicy Ukrainian Dates Bake",
+    "title": "Baked Ukrainian Delight",
     "tags": [
-      "herbal",
-      "light",
-      "one-pan",
-      "satvik",
-      "vegetarian",
-      "weeknight"
+      "ukrainian",
+      "dessert",
+      "dates",
+      "bake",
+      "sweet"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -18806,6 +18805,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
+    "slug": "jelly-like-kenyan-meat-skewers--french",
+    "title": "French Meat Skewers with Fruit Chutney",
+    "tags": [
+      "french",
+      "grilled",
+      "skewers",
+      "meat"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 38,
     "shard": "j"
   }
 ]
