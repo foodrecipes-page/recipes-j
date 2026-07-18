@@ -10360,17 +10360,14 @@
   },
   {
     "slug": "juicy-crisp-ukrainian-goose-roast",
-    "title": "Juicy Crisp Ukrainian Goose Roast",
+    "title": "Ukrainian Goose Roast",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "indulgent",
-      "roasted-meats",
-      "special-occasion",
-      "traditional-ukrainian"
+      "ukrainian-cuisine",
+      "goose-roast",
+      "holiday-dinner"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 75,
     "shard": "j"
   },
   {
@@ -18937,6 +18934,33 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-spiced-uruguayan-turmeric-stir-fry--indian",
+    "title": "Turmeric Chicken Fry",
+    "tags": [
+      "indian",
+      "chicken",
+      "fry",
+      "turmeric",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-croatian-milk-pudding--french",
+    "title": "French Creamy Pudding Dessert",
+    "tags": [
+      "french",
+      "dessert",
+      "pudding",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "j"
   }
 ]
