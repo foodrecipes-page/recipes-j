@@ -9418,18 +9418,15 @@
   },
   {
     "slug": "juicy-bramley-apple-irish-apples-stew",
-    "title": "Juicy Bramley Apple Irish Apples Stew",
+    "title": "Irish Stew with Bramley Apples",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "easy-to-make",
-      "irish-apples",
-      "one-pot",
-      "sick-day",
-      "winter-stew"
+      "irish",
+      "lamb",
+      "stew",
+      "apples"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 150,
     "shard": "j"
   },
   {
@@ -19016,6 +19013,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jeweled-tunisian-bean-sprouts-stir-fry--chinese",
+    "title": "Stir Fry with Jeweled Tofu and Bean Sprouts",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "tofu",
+      "veggies"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "j"
   }
 ]
