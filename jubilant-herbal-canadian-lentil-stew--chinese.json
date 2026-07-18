@@ -1,0 +1,62 @@
+{
+  "slug": "jubilant-herbal-canadian-lentil-stew--chinese",
+  "title": "Canadians Lentil Stew",
+  "description": "A hearty, comforting chinese-inspired stew made with lentils and a hint of herbal flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "canadian",
+      "amount": "2 tablespoons, chopped fresh herbs"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups, diced vegetables (such as carrots, potatoes, and onions)"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 teaspoon, dried thyme"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons, vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add stew and cook until the vegetables are tender.",
+    "Add lentil, herbal, and canadian. Season with salt and pepper to taste.",
+    "Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until the lentil is tender.",
+    "Serve hot, garnished with additional canadian if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "gluten-free",
+    "stew",
+    "lentil"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-herbal-canadian-lentil-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:00:58.391Z"
+}
