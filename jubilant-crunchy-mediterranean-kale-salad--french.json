@@ -1,0 +1,58 @@
+{
+  "slug": "jubilant-crunchy-mediterranean-kale-salad--french",
+  "title": "French Kale Salad",
+  "description": "A simple French-inspired salad featuring curly kale, crunchy walnuts, and a tangy vinaigrette.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, stems removed and discarded, leaves torn into bite-sized pieces"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Red Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, massage the kale with your hands for about 2-3 minutes to help soften it.",
+    "2. In a small bowl, whisk together the red cider vinegar, olive oil, and honey until well combined.",
+    "3. Pour the dressing over the kale and toss to coat.",
+    "4. Sprinkle the chopped walnuts over the top of the salad and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kale",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crunchy-mediterranean-kale-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:23:39.523Z"
+}
