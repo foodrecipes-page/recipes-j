@@ -766,17 +766,16 @@
   },
   {
     "slug": "jagged-molten-saudi-arabian-lamb-kebabs",
-    "title": "Jagged Molten Saudi Arabian Lamb Kebabs",
+    "title": "Saudian Lamb Kebabs",
     "tags": [
-      "dairy",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "grilled",
+      "middle eastern",
+      "arabian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -9301,16 +9300,15 @@
   },
   {
     "slug": "juicy-australian-corn-grill",
-    "title": "Juicy Australian Corn Grill",
+    "title": "Grilled Australian Corn on the Cob",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "grilled-vegetables",
-      "sick-day-meals",
-      "vegetarian-friendly"
+      "grilled",
+      "corn",
+      "australian",
+      "summer"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
