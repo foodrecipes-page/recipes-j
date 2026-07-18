@@ -9707,15 +9707,14 @@
   },
   {
     "slug": "juicy-buttery-almond-crumble",
-    "title": "Juicy Buttery Almond Crumble",
+    "title": "Buttery Crumble Almond Crisp",
     "tags": [
-      "juicy",
-      "almond",
-      "crumble",
-      "sweet"
+      "dessert",
+      "fruit-crunchy",
+      "almond-crunch"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -18953,6 +18952,45 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "just-flaky-syrian-onion-flatbread--french",
+    "title": "Syrian Flatbread with Caramelized Onion and Thyme",
+    "tags": [
+      "french",
+      "snack",
+      "flatbread",
+      "onion",
+      "thyme"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-date-night-tunisian-passion-fruit-tagine--keto",
+    "title": "Tunisian Date Tagine",
+    "tags": [
+      "tunisian",
+      "dates",
+      "passion-fruit",
+      "keto-dessert"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-american-rice-bowl--keto",
+    "title": "Jazzy American Keto Rice Bowl",
+    "tags": [
+      "keto",
+      "american",
+      "cheesy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "j"
   }
 ]
