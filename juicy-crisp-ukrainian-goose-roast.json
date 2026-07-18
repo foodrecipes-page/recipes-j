@@ -1,0 +1,69 @@
+{
+  "slug": "juicy-crisp-ukrainian-goose-roast",
+  "title": "Ukrainian Goose Roast",
+  "description": "A hearty and flavorful roast goose dish from Ukraine, perfect for special occasions. The crisp skin and juicy meat will impress your guests.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose",
+      "amount": "1 whole",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup cherry sauce",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup breadcrumbs",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 tsp paprika",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the goose and pat dry with paper towels.",
+    "Season the goose with salt, pepper, and paprika.",
+    "Heat some oil in a large skillet over medium-high heat. Sear the goose until browned on all sides, about 5 minutes.",
+    "Transfer the goose to a roasting pan and roast in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue roasting for another 30-40 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Baste the goose with cherry sauce during the last 10 minutes of roasting.",
+    "Meanwhile, mix breadcrumbs and chopped onion in a bowl.",
+    "Once the goose is done, let it rest for 10 minutes before carving.",
+    "Serve with a side of roasted vegetables and a dollop of cherry sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "goose-roast",
+    "holiday-dinner"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crisp-ukrainian-goose-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:25:21.709Z"
+}
