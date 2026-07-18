@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-crispy-canadian-salmon-skillet",
+  "title": "Pan-Seared Canadian Salmon",
+  "description": "A simple yet flavorful recipe for pan-seared salmon, topped with a crispy skillet crust.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillets",
+      "amount": "4 (6 oz)",
+      "notes": null
+    },
+    {
+      "name": "juicy lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "crispy panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Dredge the salmon in panko breadcrumbs, pressing gently to adhere.",
+    "Add olive oil to the preheated skillet and swirl to coat.",
+    "Sear the salmon for 3-4 minutes per side, or until cooked through.",
+    "Transfer the salmon to a plate and top with lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "gluten-free",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-canadian-salmon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:34:13.472Z"
+}
