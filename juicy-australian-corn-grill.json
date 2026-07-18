@@ -1,0 +1,51 @@
+{
+  "slug": "juicy-australian-corn-grill",
+  "title": "Grilled Australian Corn on the Cob",
+  "description": "A simple and delicious side dish that brings out the natural sweetness of Australian corn. Perfect for summer BBQs or picnics.",
+  "cuisine": "Australian",
+  "diet": [
+    null
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Australian Corn",
+      "amount": "4 ears of corn",
+      "notes": ""
+    },
+    {
+      "name": "Juicy",
+      "amount": "2 tablespoons unsalted butter, softened",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Shuck the corn and remove any silk.",
+    "Brush the corn with melted butter, if using.",
+    "Grill the corn for 10-12 minutes, turning every 2-3 minutes, until slightly charred.",
+    "Remove the corn from the grill and season with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "australian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-australian-corn-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:26:25.599Z"
+}
