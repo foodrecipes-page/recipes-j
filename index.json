@@ -7473,18 +7473,14 @@
   },
   {
     "slug": "jubilant-dense-algerian-cornmeal-casserole",
-    "title": "Jubilant Dense Algerian Cornmeal Casserole",
+    "title": "Algerian Jubilant Casserole",
     "tags": [
-      "cornmeal",
-      "dense",
-      "festive",
-      "macrobiotic",
-      "oven-bake",
-      "spicy",
-      "vegan"
+      "comfort-food",
+      "casserole",
+      "algerian-cuisine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 50,
     "shard": "j"
   },
   {
@@ -18784,6 +18780,19 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 13,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-dutch-lamb-stew--keto",
+    "title": "Smoky Lamb Stew",
+    "tags": [
+      "keto",
+      "lamb",
+      "stew",
+      "dutch"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 140,
     "shard": "j"
   }
 ]
