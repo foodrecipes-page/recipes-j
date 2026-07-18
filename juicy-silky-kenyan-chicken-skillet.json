@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-silky-kenyan-chicken-skillet",
+  "title": "Kenyan Chicken Skillet",
+  "description": "A flavorful and spicy Kenyan-inspired dish made with chicken and vegetables, cooked in a skillet to perfection.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 medium juicy onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cups silky spinach",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon kenyan spice blend",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 large skillet",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes on each side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion to the skillet and cook for 3-4 minutes, or until softened.",
+    "Add the kenyan spice blend to the skillet and cook for 1 minute.",
+    "Add the spinach to the skillet and cook until wilted.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and spices.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "skillet",
+    "african"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-kenyan-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:44:06.167Z"
+}
