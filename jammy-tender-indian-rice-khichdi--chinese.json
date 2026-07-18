@@ -1,0 +1,72 @@
+{
+  "slug": "jammy-tender-indian-rice-khichdi--chinese",
+  "title": "Savory Khichdi Fried Rice",
+  "description": "A Chinese-inspired twist on the traditional Indian khichdi dish, featuring crispy fried rice and savory flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "khichdi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "jammy",
+      "amount": "1 tablespoon",
+      "notes": "Asian-style jammy sauce"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "sliced or chopped vegetables (e.g., carrots, peas)"
+    },
+    {
+      "name": "indian",
+      "amount": "1 teaspoon",
+      "notes": "curry powder or Indian spice blend"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced or chopped tender vegetables and cook until they start to soften, about 2-3 minutes.",
+    "Push the vegetables to one side of the skillet. Crack an egg into the other side of the skillet and scramble it until cooked through.",
+    "Mix the egg with the vegetables.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Add the khichdi, jammy sauce, and Indian spice blend to the rice mixture.",
+    "Stir-fry everything together for about 5 minutes, until the rice is heated through and starting to brown.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Savory Khichdi Fried Rice to a serving platter and garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "indian",
+    "fried-rice",
+    "khichdi",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-indian-rice-khichdi--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:25:55.513Z"
+}
