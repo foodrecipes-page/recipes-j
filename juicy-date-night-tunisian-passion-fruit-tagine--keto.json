@@ -1,0 +1,55 @@
+{
+  "slug": "juicy-date-night-tunisian-passion-fruit-tagine--keto",
+  "title": "Tunisian Date Tagine",
+  "description": "A sweet and tangy dessert inspired by the rich flavors of Tunisian cuisine, featuring fresh dates and a hint of juicy sweetness.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh dates",
+      "amount": "1 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "Juicy passion fruit",
+      "amount": "1 cup, juice only",
+      "notes": null
+    },
+    {
+      "name": "Tunisian fruit",
+      "amount": "1 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the date juice, passion fruit juice, and Tunisian fruit.",
+    "Heat the mixture over medium heat, stirring occasionally, until the fruit is tender and the liquid has thickened.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 20-25 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool to room temperature before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "dates",
+    "passion-fruit",
+    "keto-dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-date-night-tunisian-passion-fruit-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:57:05.890Z"
+}
