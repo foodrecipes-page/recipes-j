@@ -1,0 +1,62 @@
+{
+  "slug": "jubilant-fatty-velvety-malaysian-digestive-biscuits-pan-fried",
+  "title": "Malaysian Biscuit Delight",
+  "description": "A simple Malaysian-inspired dessert using biscuits and a velvety topping. This dish is perfect for those looking for a sweet treat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Biscuits",
+      "amount": "1 package (12-15 biscuits)"
+    },
+    {
+      "name": "Jubilant jubilee jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fatty coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Velvety whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Digestive biscuits crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Bake the biscuits in the oven for 5-7 minutes or until lightly toasted.",
+    "In a separate bowl, mix the jubilee jam and coconut cream until well combined.",
+    "Dip each toasted biscuit into the jam-coconut cream mixture, coating both sides evenly.",
+    "Place the coated biscuits on a serving plate or individual plates.",
+    "Top each biscuit with whipped cream and sprinkle with digestive biscuits crumbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "sweet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-fatty-velvety-malaysian-digestive-biscuits-pan-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:37:49.679Z"
+}
