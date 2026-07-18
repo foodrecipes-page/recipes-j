@@ -1074,17 +1074,15 @@
   },
   {
     "slug": "jagged-smoky-turkish-prosciutto-menemen",
-    "title": "Jagged Smoky Turkish Prosciutto Menemen",
+    "title": "Prosciutto and Menemen Turkish-Style Breakfast",
     "tags": [
-      "breakfast-ideas",
-      "high-protein",
-      "one-pan",
-      "smoky",
-      "turkish-inspired",
-      "weeknight"
+      "breakfast",
+      "turkish",
+      "egg",
+      "pork-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -18991,6 +18989,33 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-herbal-canadian-lentil-stew--chinese",
+    "title": "Canadians Lentil Stew",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "gluten-free",
+      "stew",
+      "lentil"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-herbal-polish-pilchards-gratin--mexican",
+    "title": "Polish Jewelled Sopes",
+    "tags": [
+      "mexican",
+      "polish",
+      "fish",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
