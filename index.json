@@ -18844,5 +18844,32 @@
     "cuisine": "Japanese",
     "totalTimeMin": 23,
     "shard": "j"
+  },
+  {
+    "slug": "jammy-tender-indian-rice-khichdi--chinese",
+    "title": "Savory Khichdi Fried Rice",
+    "tags": [
+      "chinese",
+      "indian",
+      "fried-rice",
+      "khichdi",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-crunchy-mediterranean-kale-salad--french",
+    "title": "French Kale Salad",
+    "tags": [
+      "salad",
+      "kale",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 10,
+    "shard": "j"
   }
 ]
