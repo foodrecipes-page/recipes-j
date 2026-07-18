@@ -1,0 +1,81 @@
+{
+  "slug": "jagged-smoky-turkish-prosciutto-menemen",
+  "title": "Prosciutto and Menemen Turkish-Style Breakfast",
+  "description": "A twist on the traditional Turkish menemen, adding crispy prosciutto and a smoky twist with jagged spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "breakfast",
+    "egg",
+    "pork-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Menemen spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, whisk together eggs, menemen spice mix, smoked paprika, and salt.",
+    "Heat a non-stick skillet over medium heat. Add prosciutto and cook until crispy.",
+    "Pour egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the oven and bake for 8-10 minutes or until eggs are cooked through.",
+    "Meanwhile, toast Turkish bread and cut into quarters.",
+    "Remove the skillet from the oven and sprinkle with garlic.",
+    "Serve eggs with crispy prosciutto, garlic, and toasted bread on the side.",
+    "Garnish with jagged spice to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "turkish",
+    "egg",
+    "pork-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-turkish-prosciutto-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:19:31.123Z"
+}
