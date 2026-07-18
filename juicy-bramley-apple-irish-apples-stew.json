@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-bramley-apple-irish-apples-stew",
+  "title": "Irish Stew with Bramley Apples",
+  "description": "A hearty and flavorful Irish stew made with tender lamb, crunchy Bramley apples, and a hint of sweetness.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish stewing lamb",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Bramley apples",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "1 cup",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb in batches until browned on all sides, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth, whisking continuously to avoid lumps.",
+    "Return the browned lamb to the pot and add the chopped Bramley apples.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "apples"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bramley-apple-irish-apples-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:13:34.915Z"
+}
