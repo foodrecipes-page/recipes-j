@@ -1,0 +1,89 @@
+{
+  "slug": "jammy-springy-algerian-lamb-tagine--indian",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional Indian-inspired dish with the flavors of Algeria, featuring tender lamb in a rich and aromatic tagine sauce.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds boneless shoulder or neck",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "ground cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "jammy",
+      "amount": "2 tablespoons",
+      "notes": "ras el hanout spice blend"
+    },
+    {
+      "name": "springy",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large, heavy pot or Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, cinnamon, and turmeric. Cook for 1 minute.",
+    "Add ras el hanout and cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over couscous or rice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "algerian",
+    "lamb",
+    "tagine",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-springy-algerian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:38:02.351Z"
+}
