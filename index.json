@@ -18794,5 +18794,20 @@
     "cuisine": "Dutch",
     "totalTimeMin": 140,
     "shard": "j"
+  },
+  {
+    "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--german",
+    "title": "Beer Steeped German Cheese Wrap",
+    "tags": [
+      "german",
+      "beer-steeped",
+      "cheese",
+      "wrap",
+      "dutch-style",
+      "pickled-vegetables"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 10,
+    "shard": "j"
   }
 ]
