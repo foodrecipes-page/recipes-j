@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-earthy-uruguayan-pork-bake--chinese",
+  "title": "Uruguayan BBQ Pork",
+  "description": "A twist on traditional Chinese BBQ, this recipe incorporates Uruguayan flavors to create a unique and delicious dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Braised red cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, whisk together hoisin sauce, soy sauce, brown sugar, and sesame oil.",
+    "Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork shoulder in a large Dutch oven or oven-safe pot and cover with a lid.",
+    "Bake for 2 hours, or until the pork is tender and easily shreds with a fork.",
+    "In a separate pan, heat a tablespoon of sesame oil over medium heat.",
+    "Add the sliced ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced garlic and cook for an additional minute.",
+    "Add the braised red cabbage to the pan and stir to combine with the ginger and garlic.",
+    "Cook for an additional 2-3 minutes, until the cabbage is slightly caramelized.",
+    "Serve the pork shoulder with the braised red cabbage and garnish with Uruguayan chimichurri."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "bbq",
+    "pork",
+    "chinese",
+    "cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-earthy-uruguayan-pork-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:52:28.538Z"
+}
