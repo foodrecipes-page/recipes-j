@@ -11447,17 +11447,15 @@
   },
   {
     "slug": "juicy-flaky-portuguese-cod-pilaf",
-    "title": "Juicy Flaky Portuguese Cod Pilaf",
+    "title": "Pan-Seared Cod with Portuguese Pilaf",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "low-carb",
-      "portuguese-cuisine",
+      "portuguese",
+      "fish",
       "seafood",
-      "sous-vide"
+      "gluten-free"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -18818,6 +18816,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 38,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-grilled-mediterranean-lamb-kebabs--italian",
+    "title": "Grilled Lamb Kebabs Italian-Style",
+    "tags": [
+      "italian",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 36,
+    "shard": "j"
+  },
+  {
+    "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--keto",
+    "title": "Japanese Style Beer Steeped Beef Wrap",
+    "tags": [
+      "japanese",
+      "beef",
+      "low-carb",
+      "keto",
+      "wrap"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 23,
     "shard": "j"
   }
 ]
