@@ -1,0 +1,64 @@
+{
+  "slug": "jazzy-kenyan-peanut-butter-fritters--chinese",
+  "title": "Kenyan-Style Jazzy Fritters with Peanut Butter Sauce",
+  "description": "Crispy Kenyan-inspired fritters filled with a sweet and crunchy jazz apple filling, served with a creamy peanut butter dipping sauce, perfect for a Chinese-inspired dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jazzy",
+      "amount": "2",
+      "notes": "jazz apple filling"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "peanut",
+      "amount": "1/4 cup",
+      "notes": "peanut butter"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a mixing bowl, combine the jazz apple filling and kenyan flour.",
+    "Using a spoon, scoop small amounts of the mixture into the hot oil.",
+    "Fry the fritters until golden brown, about 3-4 minutes.",
+    "Drain the fritters on paper towels.",
+    "For the peanut butter sauce, mix the peanut butter and melted butter in a bowl.",
+    "Serve the fritters with the peanut butter sauce for dipping.",
+    "Enjoy your crispy Kenyan-style jazzy fritters with peanut butter sauce!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "fritters",
+    "peanut-butter",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-kenyan-peanut-butter-fritters--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:42:12.141Z"
+}
