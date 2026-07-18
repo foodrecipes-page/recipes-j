@@ -1,0 +1,58 @@
+{
+  "slug": "jazzy-american-rice-bowl--keto",
+  "title": "Jazzy American Keto Rice Bowl",
+  "description": "A keto-friendly take on a classic American dish, served in a bowl.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "American cheese",
+      "amount": "4 slices",
+      "notes": "Low fat"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Caution: not a keto staple, but used here for flavor"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "A serving bowl"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix together crushed jazzy, low-fat American cheese, and cooked rice.",
+    "3. Transfer the mixture to a serving bowl.",
+    "4. Bake in the preheated oven for 10-12 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "american",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-american-rice-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:02:38.737Z"
+}
