@@ -18871,5 +18871,72 @@
     "cuisine": "french",
     "totalTimeMin": 10,
     "shard": "j"
+  },
+  {
+    "slug": "jammy-springy-algerian-lamb-tagine--indian",
+    "title": "Algerian Lamb Tagine",
+    "tags": [
+      "indian",
+      "algerian",
+      "lamb",
+      "tagine",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-kenyan-peanut-butter-fritters--chinese",
+    "title": "Kenyan-Style Jazzy Fritters with Peanut Butter Sauce",
+    "tags": [
+      "chinese",
+      "dessert",
+      "fritters",
+      "peanut-butter",
+      "kenyan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-earthy-uruguayan-pork-bake--chinese",
+    "title": "Uruguayan BBQ Pork",
+    "tags": [
+      "uruguayan",
+      "bbq",
+      "pork",
+      "chinese",
+      "cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 135,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-dutch-vegetable-casserole--vegan",
+    "title": "Vegan Dutch Vegetable Casserole",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-dutch-vegetable-casserole--gluten-free",
+    "title": "Veggie Dutch Casserole",
+    "tags": [
+      "dutch",
+      "gluten-free",
+      "casserole",
+      "vegetable"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
