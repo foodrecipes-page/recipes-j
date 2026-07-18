@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-crispy-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A flavorful and easy-to-make dish featuring Uruguayan-style grilled beef skewers with a crispy crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 lb)",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Uruguayan chimichurri sauce (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "skewers (10-12 inches)",
+      "amount": "",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "juicy pineapple chunks (1 cup)",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Thread beef strips onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with black pepper and garlic powder (if using).",
+    "Grill skewers for 8-10 minutes per side, or until beef reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with Uruguayan chimichurri sauce and a side of grilled pineapple (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grilled",
+    "skewers",
+    "uruguayan",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crispy-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:31:06.502Z"
+}
