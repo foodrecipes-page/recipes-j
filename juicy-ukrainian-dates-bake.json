@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-ukrainian-dates-bake",
+  "title": "Baked Ukrainian Delight",
+  "description": "A traditional Ukrainian dessert featuring juicy dates and a sweet bake crust.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup, pitted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup, softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, whisk together flour, sugar, and baking powder.",
+    "Add softened butter and mix until a dough forms.",
+    "Press dough into a 9x9-inch baking dish.",
+    "Arrange dates on top of the dough.",
+    "In a small bowl, whisk together eggs and vanilla extract.",
+    "Pour egg mixture over the dates.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dessert",
+    "dates",
+    "bake",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-ukrainian-dates-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:34:48.545Z"
+}
