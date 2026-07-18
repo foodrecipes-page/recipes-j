@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-buttery-almond-crumble",
+  "title": "Buttery Crumble Almond Crisp",
+  "description": "A sweet and crunchy dessert topped with a buttery crumble and crunchy almonds.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "juicy fruit (such as peaches)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "crumble mixture",
+      "amount": "1 cup",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together flour, sugar, and cold butter until crumbly.",
+    "Add in almonds and mix until well combined.",
+    "Transfer the mixture to a baking dish and press down evenly.",
+    "Top with juicy fruit and crumble mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!",
+    "Note: If using a different type of fruit, adjust the baking time accordingly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fruit-crunchy",
+    "almond-crunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:34:03.548Z"
+}
