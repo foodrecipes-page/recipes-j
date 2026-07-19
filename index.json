@@ -2908,17 +2908,15 @@
   },
   {
     "slug": "jazzy-algerian-almond-tagine",
-    "title": "Jazzy Algerian Almond Tagine",
+    "title": "Algerian Tagine Chicken",
     "tags": [
-      "comfort-food",
-      "nutty",
-      "one-pot",
-      "paleo-friendly",
-      "traditional",
-      "wood-fired"
+      "algerian",
+      "chicken",
+      "tagine",
+      "oven"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -15618,17 +15616,15 @@
   },
   {
     "slug": "juicy-spicy-sweet-vietnamese-pork-bun-cha",
-    "title": "Juicy Spicy Sweet Vietnamese Pork Bun Cha",
+    "title": "Vietnamese Grilled Pork Buns",
     "tags": [
-      "easy-to-make",
-      "grilled",
-      "meat-based",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "grilled",
+      "pork",
+      "buns"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -15771,18 +15767,15 @@
   },
   {
     "slug": "juicy-sweet-german-borlotti-beans-gratin",
-    "title": "juicy sweet german borlotti beans gratin",
+    "title": "Borlotti Bean and Sweet German Gratin",
     "tags": [
-      "comfort-food",
       "german",
+      "vegetarian",
       "gratin",
-      "one-pan",
-      "satvik-friendly",
-      "sweet",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 50,
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -19165,6 +19158,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-springy-middle-eastern-lentils-mujadara--italian",
+    "title": "Mujadara Italiano",
+    "tags": [
+      "italian",
+      "lentil",
+      "vegetarian",
+      "rice"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
