@@ -393,18 +393,16 @@
   },
   {
     "slug": "jagged-crispy-thai-deodeok-root-som-tum",
-    "title": "Jagged Crispy Thai Deodeok Root Som Tum",
+    "title": "Crispy Deodeok Bites with Thai Som Sauce",
     "tags": [
-      "citrusy",
-      "crispy",
-      "date-night",
-      "gluten-free",
-      "som-tum",
-      "thai-cuisine",
-      "vegetarian"
+      "korean",
+      "thai",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "Korean, Thai",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -19141,6 +19139,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-moroccan-long-bean-mechoui--chinese",
+    "title": "Smoky Moroccan Mechoui Beans",
+    "tags": [
+      "chinese",
+      "moroccan",
+      "fusion",
+      "slow-cooked"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
     "shard": "j"
   }
 ]
