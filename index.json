@@ -12422,15 +12422,13 @@
   },
   {
     "slug": "juicy-irish-green-olives-stir-fry",
-    "title": "Floral Juicy Irish Green Olives Stir-fry",
+    "title": "Irish Green Stir Fry",
     "tags": [
-      "juicy",
-      "floral",
-      "kid-friendly",
       "irish",
-      "stir-fry"
+      "stir-fry",
+      "green"
     ],
-    "cuisine": "Irish",
+    "cuisine": "irish",
     "totalTimeMin": 25,
     "shard": "j"
   },
