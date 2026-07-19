@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-smoky-moroccan-long-bean-mechoui--chinese",
+  "title": "Smoky Moroccan Mechoui Beans",
+  "description": "A fusion of Chinese and Moroccan flavors, this slow-cooked bean dish is perfect for a cold evening.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky moroccan spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "long bean",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "juicy bean paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and ginger; cook until fragrant, 1 minute.",
+    "Add bean paste; cook, stirring constantly, 1 minute.",
+    "Add soy sauce and brown sugar; stir to combine.",
+    "Add long bean and bean; stir to coat with sauce.",
+    "Cover and cook for 10-12 minutes, or until beans are tender.",
+    "Stir in smoky moroccan spice blend.",
+    "Cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "moroccan",
+    "fusion",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-moroccan-long-bean-mechoui--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:17:10.112Z"
+}
