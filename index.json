@@ -2295,17 +2295,17 @@
   },
   {
     "slug": "jammy-pillowy-thai-rice-curry",
-    "title": "Thai Rice Curry with Soft and Fluffy Texture",
+    "title": "Thai-Style Curry Rice Bowl",
     "tags": [
-      "ayurvedic-friendly",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "curry",
+      "rice",
+      "thai",
+      "lunch",
+      "dinner",
+      "easy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
@@ -19152,6 +19152,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-tender-saudi-arabian-sausages-stew--japanese",
+    "title": "Saudi Arabian Beef Stew",
+    "tags": [
+      "beef",
+      "japanese",
+      "stew",
+      "sausages"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
     "shard": "j"
   }
 ]
