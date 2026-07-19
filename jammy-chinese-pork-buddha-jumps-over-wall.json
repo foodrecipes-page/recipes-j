@@ -1,0 +1,63 @@
+{
+  "slug": "jammy-chinese-pork-buddha-jumps-over-wall",
+  "title": "Buddha's Pork Stir Fry",
+  "description": "A classic Chinese-inspired stir fry made with tender pork and a variety of vegetables, served with a sweet and tangy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "buddha's wall",
+      "amount": "2 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "jumps over",
+      "amount": "1 cup",
+      "notes": "bell peppers sliced"
+    },
+    {
+      "name": "chinese jammy",
+      "amount": "2 tablespoons",
+      "notes": "sweet soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced bell peppers and cook until tender, about 3-4 minutes.",
+    "Return the pork to the skillet and stir in the sweet soy sauce.",
+    "Add the mixed greens and cook until wilted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pork",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-chinese-pork-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:33:53.931Z"
+}
