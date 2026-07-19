@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-roasted-syrian-lamb-roast",
+  "title": "Syrian Roast Lamb",
+  "description": "A flavorful and aromatic Syrian-style roast lamb recipe, perfect for special occasions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "ask for the bone-in version"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "minced onion",
+      "amount": "2",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Rinse the lamb shoulder and pat dry with paper towels.",
+    "Season the lamb with salt, black pepper, allspice, cumin, and paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the lamb on all sides until browned, about 5 minutes. Remove from heat.",
+    "Transfer the lamb to a large roasting pan, fat side up.",
+    "In the same skillet, cook the minced onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Pour the cooked onion mixture over the lamb, then sprinkle with lemon juice.",
+    "Roast the lamb in the preheated oven for 2.5 hours, or until tender.",
+    "Let the lamb rest for 15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-syrian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:24:17.534Z"
+}
