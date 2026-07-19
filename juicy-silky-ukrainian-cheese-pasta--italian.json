@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-silky-ukrainian-cheese-pasta--italian",
+  "title": "Classic Ukrainian Pasta Frittata",
+  "description": "A creative twist on traditional Italian pasta dishes, this Ukrainian-inspired pasta frittata combines silky pasta with juicy Ukrainian sausage, perfect for a satisfying dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ukrainian sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "silky pasta",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "juicy pasta",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the silky and juicy pasta according to the package instructions. Drain and set aside.",
+    "Cook the Ukrainian sausage in a large skillet over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "In a large bowl, whisk together the eggs and a pinch of salt. Stir in the shredded cheese.",
+    "Add the cooked pasta to the egg mixture and stir to combine.",
+    "Add the cooked Ukrainian sausage to the pasta mixture and stir to combine.",
+    "Pour the pasta and sausage mixture into a greased 9-inch (23cm) pie plate or skillet.",
+    "Bake for 25-30 minutes, or until the eggs are set and the frittata is golden brown on top.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "breakfast",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-ukrainian-cheese-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:22:25.858Z"
+}
