@@ -1,0 +1,108 @@
+{
+  "slug": "juicy-bramley-apple-irish-apples-stew--indian",
+  "title": "Spiced Apple Stew",
+  "description": "A delicious and comforting Indian-inspired stew made with juicy apples, sweet bramley apples, and flavorful irish stewing beef.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Stewing Beef",
+      "amount": "500g",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Bramley Apples",
+      "amount": "2",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Juicy Apples",
+      "amount": "1",
+      "notes": "Peel, core, and chop"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chop"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger, cumin, coriander, turmeric, cinnamon, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Add apples, water, and yogurt. Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir occasionally and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "beef",
+    "apples",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bramley-apple-irish-apples-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:22:01.625Z"
+}
