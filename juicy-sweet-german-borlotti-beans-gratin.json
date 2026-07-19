@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-sweet-german-borlotti-beans-gratin",
+  "title": "Borlotti Bean and Sweet German Gratin",
+  "description": "A hearty, comforting dish featuring creamy sweet German potatoes, tender borlotti beans, and a rich gratin topping.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet German Potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Borlotti Beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Grated Cheddar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the sweet German potatoes.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover.",
+    "Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and set aside.",
+    "In a large skillet, cook the crumbled bacon over medium heat until crispy.",
+    "Remove the cooked bacon from the skillet with a slotted spoon and set aside.",
+    "Add the chopped onions to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the borlotti beans, crumbled bacon, and grated cheddar cheese.",
+    "In a greased 9x13 inch baking dish, arrange a layer of the cooked potatoes.",
+    "Top the potatoes with the bean and cheese mixture, followed by a sprinkle of grated cheese.",
+    "Pour the heavy cream over the top of the gratin.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-german-borlotti-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:29:23.379Z"
+}
