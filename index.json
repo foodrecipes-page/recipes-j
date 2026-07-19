@@ -19134,5 +19134,18 @@
     "cuisine": "Irish",
     "totalTimeMin": 60,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-creamy-australian-rigatoni-pasta--thai",
+    "title": "Thai Jubilant Pasta",
+    "tags": [
+      "thai",
+      "pasta",
+      "creamy",
+      "quick-cooking"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "j"
   }
 ]
