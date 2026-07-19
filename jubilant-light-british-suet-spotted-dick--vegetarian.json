@@ -1,0 +1,81 @@
+{
+  "slug": "jubilant-light-british-suet-spotted-dick--vegetarian",
+  "title": "Spotted Dick Steamed Pudding",
+  "description": "A traditional British steamed pudding made with suet and dried fruit, perfect for a cold winter's day.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "suet",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1 cup",
+      "notes": "mixed berries and citrus"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spotted dick spice blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer or a large pot with a steamer basket.",
+    "In a large mixing bowl, combine the flour, suet, dried fruit, brown sugar, eggs, milk, and spices. Mix well.",
+    "Pour the mixture into a greased 1-pint pudding basin or a heatproof bowl.",
+    "Cover the pudding with parchment paper or aluminum foil and tie with string.",
+    "Place the pudding in the steamer or pot and steam for 2 hours.",
+    "Remove the pudding from the steamer and let it cool for 10 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pudding",
+    "dessert",
+    "vegetarian",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-light-british-suet-spotted-dick--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:17:49.036Z"
+}
