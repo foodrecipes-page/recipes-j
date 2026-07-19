@@ -19083,5 +19083,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 165,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-turkish-prosciutto-menemen--french",
+    "title": "Smoked Prosciutto Menemen",
+    "tags": [
+      "breakfast",
+      "european",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
