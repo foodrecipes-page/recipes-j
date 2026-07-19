@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-nostalgic-earthy-tofu-stir-fry",
+  "title": "Tofu Stir Fry",
+  "description": "A simple and flavorful stir fry dish made with crispy tofu, crunchy vegetables, and a hint of soy sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block, drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced onion and bell pepper and cook until they start to soften, about 2-3 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked tofu back into the skillet and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes, until the tofu is well coated with the soy sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "vegetarian",
+    "gluten-free",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-nostalgic-earthy-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:15:22.464Z"
+}
