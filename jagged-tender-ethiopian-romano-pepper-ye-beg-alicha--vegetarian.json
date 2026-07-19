@@ -1,0 +1,86 @@
+{
+  "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha--vegetarian",
+  "title": "Spicy Ethiopian Stew",
+  "description": "A flavorful and spicy stew made with tender vegetables and Ethiopian spices, served with a side of crusty bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jagged carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tender zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "romano cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon, ground",
+      "notes": ""
+    },
+    {
+      "name": "ye berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "see note"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the carrots, zucchini, and berbere spice, and cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Stir in the romano cheese, if using.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Note: Ye berbere spice can be found at most African or Middle Eastern markets, or online. To make your own, combine 2 tablespoons of chili powder, 1 tablespoon of ground cumin, 1 tablespoon of ground coriander, 1 teaspoon of ground cinnamon, and 1/2 teaspoon of cayenne pepper in a small bowl. Store in an airtight container for up to 6 months.",
+    "Optional: Serve with a side of crusty bread or injera for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tender-ethiopian-romano-pepper-ye-beg-alicha--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:13:36.076Z"
+}
