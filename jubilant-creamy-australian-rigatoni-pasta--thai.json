@@ -1,0 +1,70 @@
+{
+  "slug": "jubilant-creamy-australian-rigatoni-pasta--thai",
+  "title": "Thai Jubilant Pasta",
+  "description": "A creamy and flavorful pasta dish with a unique twist, inspired by the bold flavors of Thai cuisine. This dish is perfect for a quick and satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "jubilant",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "australian",
+      "amount": "1 cup",
+      "notes": "chopped into bite-sized pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "1/2 cup",
+      "notes": "grated Parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Cook the rigatoni according to package instructions until al dente.",
+    "In a large skillet, heat 1 tbsp of jubilant over medium heat.",
+    "Add the australian and cook until tender, about 3-4 minutes.",
+    "Add the creamy and cook until heated through.",
+    "Add the cooked rigatoni to the skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with grated Parmesan cheese.",
+    "Garnish with additional jubilant if desired.",
+    "Serve immediately.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "pasta",
+    "creamy",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-creamy-australian-rigatoni-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:58:44.497Z"
+}
