@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-irish-green-olives-stir-fry",
+  "title": "Irish Green Stir Fry",
+  "description": "A quick and easy stir fry recipe with a delicious Irish twist, featuring juicy chicken, crunchy green vegetables, and savory olives.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "irish green cabbage",
+      "amount": "1 head",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green bell peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced cabbage, bell peppers, and green onions to the skillet and cook until the vegetables are tender, about 3-5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir in the soy sauce.",
+    "Add the sliced olives to the skillet and cook for an additional minute.",
+    "Serve the Irish Green Stir Fry hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stir-fry",
+    "green"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-irish-green-olives-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:09:09.497Z"
+}
