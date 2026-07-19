@@ -11543,14 +11543,12 @@
   },
   {
     "slug": "juicy-french-bramley-apples-canele",
-    "title": "Juicy French Bramley Apples Canele",
+    "title": "French Apple Crumble",
     "tags": [
-      "bramley-apples",
-      "canele",
-      "date-night",
-      "french-dessert",
-      "lacquerware-bowl",
-      "puff-pastry"
+      "french",
+      "apple",
+      "crumble",
+      "dessert"
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
@@ -13539,15 +13537,16 @@
   },
   {
     "slug": "juicy-nostalgic-earthy-tofu-stir-fry",
-    "title": "Juicy Nostalgic Earthy Tofu Stir-fry",
+    "title": "Tofu Stir Fry",
     "tags": [
-      "tofu",
       "stir-fry",
-      "juicy",
-      "earthly"
+      "tofu",
+      "vegetarian",
+      "gluten-free",
+      "quick-cooking"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14267,16 +14266,14 @@
   },
   {
     "slug": "juicy-roasted-syrian-lamb-roast",
-    "title": "Juicy Roasted Syrian Lamb Roast",
+    "title": "Syrian Roast Lamb",
     "tags": [
-      "lamb-recipes",
-      "middle-eastern",
-      "roasted-meat",
-      "special-occasion",
-      "yeasty-dishes"
+      "lamb",
+      "roast",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 170,
     "shard": "j"
   },
   {
