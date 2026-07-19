@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-smoky-turkish-prosciutto-menemen--french",
+  "title": "Smoked Prosciutto Menemen",
+  "description": "A twist on the classic Turkish menemen with smoky prosciutto and a French flair.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Prosciutto",
+      "amount": "6 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Jagged Turkish Cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Menemen Spice Mix",
+      "amount": "1 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked prosciutto and cook until crispy, about 2-3 minutes.",
+    "Add the chopped parsley and cook until wilted.",
+    "Crack in the eggs and cook until the whites are set.",
+    "Sprinkle the shredded Turkish cheese and cook until melted.",
+    "Season with salt, pepper, and menemen spice mix.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "european",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-turkish-prosciutto-menemen--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:25:24.239Z"
+}
