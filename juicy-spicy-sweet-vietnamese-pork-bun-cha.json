@@ -1,0 +1,101 @@
+{
+  "slug": "juicy-spicy-sweet-vietnamese-pork-bun-cha",
+  "title": "Vietnamese Grilled Pork Buns",
+  "description": "A sweet and savory Vietnamese-inspired street food dish featuring grilled pork and steamed buns. Serve immediately for the best experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sweet bun",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grilling sauce",
+      "amount": "1/4 cup",
+      "notes": "Vietnamese-style or similar"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1-2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing grill"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together grilling sauce, hoisin sauce, sriracha, salt, and black pepper.",
+    "Brush the mixture onto the sliced pork, making sure to coat evenly.",
+    "Grill the pork for 3-4 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "While the pork is cooking, toast the buns on the grill or in a toaster.",
+    "Once the pork is cooked, let it rest for 2-3 minutes before slicing it thinly.",
+    "Assemble the buns by spreading a layer of pickled carrots and daikon on the bottom bun.",
+    "Add a few slices of the grilled pork on top of the pickled vegetables.",
+    "Drizzle a small amount of hoisin sauce on top of the pork, if using.",
+    "Sprinkle chopped cilantro on top of the pork for garnish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-sweet-vietnamese-pork-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:57:17.615Z"
+}
