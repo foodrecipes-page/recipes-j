@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-sweet-peruvian-chicken-dumplings",
+  "title": "Peruvian Chicken Dumplings",
+  "description": "A hearty and flavorful dish that combines the rich flavors of Peruvian cuisine with juicy chicken and dumplings.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "juicy dumplings",
+      "amount": "12-15 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sweet onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Peruvian chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chicken broth, cumin, paprika, salt, and pepper. Bring to a boil, then reduce heat to low and simmer for 10-12 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the dumplings according to package instructions or make your own from scratch.",
+    "Once the chicken is cooked, add the dumplings to the skillet and simmer for an additional 2-3 minutes, until the dumplings are cooked through.",
+    "Serve the Peruvian chicken and dumplings hot, garnished with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-peruvian-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:52:00.816Z"
+}
