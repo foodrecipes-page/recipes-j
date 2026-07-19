@@ -19032,5 +19032,31 @@
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-british-lamb-roast--keto",
+    "title": "Juicy British Lamb Roast",
+    "tags": [
+      "lamb",
+      "roast",
+      "keto",
+      "british"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 150,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-ukrainian-cheese-pasta--italian",
+    "title": "Classic Ukrainian Pasta Frittata",
+    "tags": [
+      "italian",
+      "pasta",
+      "breakfast",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
