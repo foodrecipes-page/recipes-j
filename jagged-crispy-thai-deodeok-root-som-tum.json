@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-crispy-thai-deodeok-root-som-tum",
+  "title": "Crispy Deodeok Bites with Thai Som Sauce",
+  "description": "A crunchy and flavorful snack from Korean and Thai cuisine, featuring deodeok, som, and tum in a sweet and spicy sauce.",
+  "cuisine": "Korean, Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Jagged Tum",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Crispy Root",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Thai Som Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the deodeok into bite-sized pieces and set aside.",
+    "In a bowl, mix together the diced jagged tum and crispy root.",
+    "In a separate bowl, mix together the Thai som sauce and vegetable oil.",
+    "Add the deodeok to the bowl with the tum and root mixture, and toss to coat.",
+    "Drizzle the som sauce mixture over the deodeok mixture and toss to coat.",
+    "Line a baking sheet with parchment paper and arrange the deodeok bites in a single layer.",
+    "Bake for 15-20 minutes, or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "thai",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-thai-deodeok-root-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:52:39.994Z"
+}
