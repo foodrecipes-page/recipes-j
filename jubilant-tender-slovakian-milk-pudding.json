@@ -1,0 +1,62 @@
+{
+  "slug": "jubilant-tender-slovakian-milk-pudding",
+  "title": "Slovakian Pudding",
+  "description": "A traditional Slovakian dessert made with creamy pudding and topped with a delightful jubilant sauce. This sweet treat is perfect for any occasion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "slovakian pudding",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "jubilant sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "tender biscuits",
+      "amount": "1 package",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the Slovakian pudding according to the package instructions.",
+    "Mix the jubilant sauce with the milk in a separate bowl.",
+    "Split the tender biscuits in half and place them on a baking sheet.",
+    "Drizzle the jubilant sauce mixture over the biscuits.",
+    "Bake the biscuits in the oven for 5-7 minutes, or until golden brown.",
+    "Serve the warm biscuits with a scoop of the Slovakian pudding."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tender-slovakian-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:29:51.810Z"
+}
