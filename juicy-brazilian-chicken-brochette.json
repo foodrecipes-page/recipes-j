@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-brazilian-chicken-brochette",
+  "title": "Brazilian Chicken Brochette",
+  "description": "A flavorful Brazilian-inspired dish featuring marinated chicken brochette, grilled to perfection. Serve with your favorite sides for a delicious and satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Brazilian-Style Marinade",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Juicy Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh chunks"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pork Skewers (for brochette)",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine marinade ingredients and blend until smooth.",
+    "3. Place chicken in a large bowl and pour marinade over it. Toss to coat.",
+    "4. Cover bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Thread chicken and vegetables onto pork skewers, leaving a small space between each piece.",
+    "6. Brush skewers with olive oil and season with salt and pepper.",
+    "7. Grill skewers for 8-10 minutes per side, or until chicken is cooked through and slightly charred.",
+    "8. Serve hot, garnished with fresh cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-brazilian-chicken-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:21:24.793Z"
+}
