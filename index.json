@@ -12447,14 +12447,12 @@
   },
   {
     "slug": "juicy-irish-spinach-pie",
-    "title": "Juicy Irish Spinach Pie",
+    "title": "Irish Spinach Pie",
     "tags": [
-      "banana-leaf",
-      "halal-friendly",
-      "irish-dish",
-      "mushroom",
-      "shortcrust-pie",
-      "spinach"
+      "irish",
+      "spinach",
+      "pie",
+      "vegetarian"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
@@ -19057,6 +19055,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-bramley-apple-irish-apples-stew--indian",
+    "title": "Spiced Apple Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "beef",
+      "apples",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jalapeo-braised-argentina-morning-glory-pak-bung-braise--mexican",
+    "title": "Spicy Morning Braise",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "beef",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 165,
     "shard": "j"
   }
 ]
