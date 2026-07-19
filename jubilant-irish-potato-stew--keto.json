@@ -1,0 +1,66 @@
+{
+  "slug": "jubilant-irish-potato-stew--keto",
+  "title": "Irish Stew",
+  "description": "A low-carb, keto-friendly twist on the classic Irish stew. This hearty dish is loaded with flavorful stew meat and vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Jubilant garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Keto-friendly broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, brown the stew meat over medium-high heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the sliced carrots and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced potatoes, keto-friendly broth, and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 45-50 minutes or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "low-carb",
+    "keto-friendly"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-irish-potato-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:32:52.738Z"
+}
