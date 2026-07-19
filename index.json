@@ -9431,17 +9431,14 @@
   },
   {
     "slug": "juicy-brazilian-chicken-brochette",
-    "title": "Juicy Brazilian Chicken Brochette",
+    "title": "Brazilian Chicken Brochette",
     "tags": [
-      "bouncy-qq",
       "brazilian",
-      "earthy",
-      "grilling",
-      "no-onion-no-garlic",
-      "quick-fix"
+      "chicken",
+      "grilled"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -15885,16 +15882,15 @@
   },
   {
     "slug": "juicy-sweet-peruvian-chicken-dumplings",
-    "title": "Juicy Sweet Peruvian Chicken Dumplings",
+    "title": "Peruvian Chicken Dumplings",
     "tags": [
       "peruvian",
+      "chicken",
       "dumplings",
-      "dairy-free",
-      "gluten-free",
-      "single-dinner"
+      "comfort-food"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
