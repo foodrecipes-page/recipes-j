@@ -1,0 +1,80 @@
+{
+  "slug": "jovial-tender-saudi-arabian-sausages-stew--japanese",
+  "title": "Saudi Arabian Beef Stew",
+  "description": "A hearty, flavorful stew originating from Saudi Arabia, adapted with Japanese flair. This dish is perfect for a cold evening.",
+  "cuisine": "japanese",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian sausages",
+      "amount": "1 pound",
+      "notes": "Use any Japanese-style sausages as a substitute."
+    },
+    {
+      "name": "Beef stew meat",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat sesame oil in a large Dutch oven over medium-high heat.",
+    "2. Add sliced onion and cook until browned, about 5 minutes.",
+    "3. Add sliced ginger and cook for 1 minute.",
+    "4. Add beef stew meat and cook until browned on all sides, about 5 minutes.",
+    "5. Add Saudi Arabian sausages and cook until browned, about 3 minutes.",
+    "6. Add soy sauce, garlic, and 2 cups of water.",
+    "7. Bring to a boil, then cover and transfer to the oven.",
+    "8. Braise for 2 1/2 hours, or until the meat is tender.",
+    "9. Serve hot, garnished with sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "stew",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-tender-saudi-arabian-sausages-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:37:55.681Z"
+}
