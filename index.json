@@ -1759,17 +1759,15 @@
   },
   {
     "slug": "jammy-chinese-pork-buddha-jumps-over-wall",
-    "title": "Jammy Chinese Pork Buddha Jumps Over Wall",
+    "title": "Buddha's Pork Stir Fry",
     "tags": [
-      "ayurvedic-friendly",
-      "chinese-cuisine",
-      "lotus-leaf-wrap",
-      "post-workout",
-      "sattvic-diet",
-      "steamed-dish"
+      "chinese",
+      "stir-fry",
+      "pork",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -8610,17 +8608,14 @@
   },
   {
     "slug": "jubilant-tender-slovakian-milk-pudding",
-    "title": "Jubilant Tender Slovakian Milk Pudding",
+    "title": "Slovakian Pudding",
     "tags": [
-      "gluten-free",
-      "indulgent",
-      "milk-pudding",
       "slovakian",
-      "traditional",
-      "vegetarian"
+      "pudding",
+      "dessert"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 17,
     "shard": "j"
   },
   {
