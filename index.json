@@ -19167,5 +19167,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha--vegetarian",
+    "title": "Spicy Ethiopian Stew",
+    "tags": [
+      "ethiopian",
+      "stew",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
