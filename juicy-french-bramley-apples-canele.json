@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-french-bramley-apples-canele",
+  "title": "French Apple Crumble",
+  "description": "A classic dessert featuring tender apples and a crunchy, buttery topping.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "6",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Juicy apples",
+      "amount": "1",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Canele",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oatmeal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced apples and sugar. Let it sit for 10 minutes.",
+    "In a separate bowl, mix flour, oatmeal, and chopped canele.",
+    "Add butter to the dry mixture and mix until crumbly.",
+    "Add egg and vanilla extract to the crumb mixture and mix well.",
+    "Transfer the apple mixture to a baking dish and top it with the crumb mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Serve warm with vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "apple",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-french-bramley-apples-canele",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:54:54.743Z"
+}
