@@ -19095,5 +19095,19 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-light-british-suet-spotted-dick--vegetarian",
+    "title": "Spotted Dick Steamed Pudding",
+    "tags": [
+      "british",
+      "pudding",
+      "dessert",
+      "vegetarian",
+      "steamed"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 140,
+    "shard": "j"
   }
 ]
