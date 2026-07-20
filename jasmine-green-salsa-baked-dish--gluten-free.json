@@ -1,0 +1,73 @@
+{
+  "slug": "jasmine-green-salsa-baked-dish--gluten-free",
+  "title": "Grilled Baked Salmon with Salsa Glaze",
+  "description": "A flavorful and healthy dish made with baked salmon glazed with a spicy salsa topping, served with steamed jasmine rice.",
+  "cuisine": "Asian-inspired",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "baked salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for brushing salmon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon fillets with salt and pepper.",
+    "Brush coconut oil on both sides of salmon.",
+    "Grill salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, combine baked salsa, lime juice, and chopped green onions in a bowl.",
+    "Brush the salsa mixture on top of salmon during the last minute of grilling.",
+    "Serve with steamed jasmine rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "salmon",
+    "grilled",
+    "salsa",
+    "jasmine-rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jasmine-green-salsa-baked-dish--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:21:07.283Z"
+}
