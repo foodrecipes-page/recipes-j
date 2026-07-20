@@ -6031,18 +6031,15 @@
   },
   {
     "slug": "jjammy-gooey-jcure-pancakes",
-    "title": "JJammy Gooey JCure Pancakes",
+    "title": "Gooey Pancake Stack",
     "tags": [
-      "dark-brown-sugar",
-      "hot-stone-plate",
-      "jjammy-gooey",
-      "low-carb-friendly",
-      "salmon",
-      "shio-koji-cure",
-      "solo-dinner"
+      "breakfast",
+      "pancakes",
+      "sweet",
+      "tangy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -13521,14 +13518,14 @@
   },
   {
     "slug": "juicy-nostalgic-earthy-ferment-stir-fry",
-    "title": "Juicy Nostalgic Earthy Ferment Stir-fry",
+    "title": "Pan-Seared Stir-Fry",
     "tags": [
-      "juicy",
-      "ferment",
-      "earthly",
-      "japanese"
+      "stir-fry",
+      "vegetarian",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "Asian",
     "totalTimeMin": 18,
     "shard": "j"
   },
