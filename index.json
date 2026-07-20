@@ -19245,5 +19245,17 @@
     "cuisine": null,
     "totalTimeMin": 55,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-tender-mexican-beef-birria--indian",
+    "title": "Tender Beef Birria Tacos",
+    "tags": [
+      "beef",
+      "indian-inspired",
+      "tacos"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
+    "shard": "j"
   }
 ]
