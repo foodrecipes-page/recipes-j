@@ -1,0 +1,89 @@
+{
+  "slug": "jamaican-jerk-jamaican-ground-beef-burger",
+  "title": "Jamaican Jerk Burger",
+  "description": "A flavorful burger topped with a spicy jerk seasoning, served on a toasted bun with all the fixings.",
+  "cuisine": "jamaican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Form the ground beef into 4 patties.",
+    "Season the patties with Jamaican Jerk Seasoning.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Assemble the burgers by spreading mayonnaise and sour cream on the bottom bun, followed by a patty, lettuce, tomato, onion, and mozzarella cheese.",
+    "Top with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgers",
+    "jerk",
+    "beef",
+    "bbq",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jamaican-jerk-jamaican-ground-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:59:08.020Z"
+}
