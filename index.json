@@ -19232,5 +19232,18 @@
     "cuisine": "german",
     "totalTimeMin": 32,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-irish-spinach-pie--vegan",
+    "title": "Irish Spinach Pie",
+    "tags": [
+      "irish",
+      "spinach",
+      "pie",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "j"
   }
 ]
