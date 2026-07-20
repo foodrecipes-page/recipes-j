@@ -16274,18 +16274,14 @@
   },
   {
     "slug": "juicy-thai-lentils-bao",
-    "title": "Juicy Thai Lentils Bao",
+    "title": "Thai Lentil Bao",
     "tags": [
-      "bao",
-      "gluten-free",
       "lentils",
-      "one-pan",
-      "post-workout",
       "thaifood",
-      "vegan"
+      "bao"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -19190,6 +19186,45 @@
     ],
     "cuisine": "Asian-inspired",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-jamaican-snow-peas-curry--vegan",
+    "title": "Jamaican Jewel Rice Bowl",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "rice",
+      "bowl"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jelly-like-ukrainian-honey-cake-kulich--gluten-free",
+    "title": "Ukrainian Kulich Cake",
+    "tags": [
+      "ukrainian",
+      "cake",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-kenyan-chicken-skillet--chinese",
+    "title": "Kenyan Chicken Stir Fry",
+    "tags": [
+      "chinese",
+      "kenyan",
+      "stir-fry",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
