@@ -1045,16 +1045,16 @@
   },
   {
     "slug": "jagged-smoky-moroccan-sloe-berries-briouat",
-    "title": "Jagged Smoky Moroccan Sloe Berries Briouat",
+    "title": "Sloe Briouat",
     "tags": [
-      "almond-flour",
-      "moroccan-food",
-      "sloe-berries",
-      "smoky-flavors",
-      "vegetarian-desserts"
+      "moroccan",
+      "dessert",
+      "pastry",
+      "sloe-berry",
+      "briouat"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "j"
   },
   {
@@ -8208,16 +8208,14 @@
   },
   {
     "slug": "jubilant-portuguese-vegetable-skillet",
-    "title": "Jubilant Portuguese Vegetable Skillet",
+    "title": "Portuguese Vegetable Stir Fry",
     "tags": [
-      "lacto-vegetarian",
-      "one-pan",
-      "portuguese-cuisine",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "portuguese",
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
