@@ -1,0 +1,75 @@
+{
+  "slug": "juicy-irish-spinach-pie--vegan",
+  "title": "Irish Spinach Pie",
+  "description": "A delicious vegan pie filled with sautéed spinach and topped with a flaky crust.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy spinach",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "irish pie crust",
+      "amount": "1 (homemade or store-bought)",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a pie dish.",
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the spinach to the pan and cook until wilted.",
+    "Season with salt to taste.",
+    "Pour the spinach mixture into the pie crust.",
+    "Roll out the remaining pie crust to fit the top of the pie.",
+    "Crisscross the top crust with a knife.",
+    "Bake for 30-40 minutes, or until the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "spinach",
+    "pie",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-irish-spinach-pie--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:35:44.798Z"
+}
