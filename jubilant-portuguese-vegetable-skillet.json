@@ -1,0 +1,77 @@
+{
+  "slug": "jubilant-portuguese-vegetable-skillet",
+  "title": "Portuguese Vegetable Stir Fry",
+  "description": "A hearty and flavorful stir fry made with a variety of vegetables and a hint of Portuguese spices. This dish is perfect for a quick and easy weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jubilant Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Portuguese Onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Vegetable Skillet",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Vegetable Oil in the Skillet over medium-high heat.",
+    "Add the sliced Onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced Garlic and cook for an additional minute.",
+    "Add the sliced Skillet, Bell Pepper, and Zucchini to the skillet. Cook until the vegetables are tender, about 5-6 minutes.",
+    "Season with Salt and Black Pepper to taste.",
+    "Serve hot, garnished with chopped Fresh Cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-portuguese-vegetable-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:00:54.712Z"
+}
