@@ -1,0 +1,93 @@
+{
+  "slug": "jubilant-tender-mexican-beef-birria--indian",
+  "title": "Tender Beef Birria Tacos",
+  "description": "A fusion twist on traditional Indian cuisine, featuring tender beef birria in a flavorful Indian-inspired taco.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 can",
+      "notes": "diced tomatoes with green chilies"
+    },
+    {
+      "name": "jubilant",
+      "amount": "2 tablespoons",
+      "notes": "ginger paste"
+    },
+    {
+      "name": "tender",
+      "amount": "2 tablespoons",
+      "notes": "garam masala"
+    },
+    {
+      "name": "birria",
+      "amount": "2 tablespoons",
+      "notes": "birria spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for braising"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic, ginger paste, garam masala, and birria spice blend. Cook for 1 minute.",
+    "Add diced tomatoes, coconut milk, salt, and water. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2 1/2 hours, or until beef is tender.",
+    "Shred beef with two forks and return to pot. Simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Warm tacos with the beef birria and serve with desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "indian-inspired",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tender-mexican-beef-birria--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:58:39.512Z"
+}
