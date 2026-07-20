@@ -1,0 +1,64 @@
+{
+  "slug": "jelly-like-ukrainian-honey-cake-kulich--gluten-free",
+  "title": "Ukrainian Kulich Cake",
+  "description": "A traditional Ukrainian sweet bread, made with love and a touch of honey.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kulich",
+      "amount": "1 (homemade or store-bought)"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Like",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cake",
+      "amount": "1 cup (crumbs)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crumb the store-bought or homemade kulich into a bowl.",
+    "Mix in the honey, jelly, and like until well combined.",
+    "Add the cake crumbs and stir until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Shape the dough into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper.",
+    "Bake for 30-35 minutes, or until golden brown.",
+    "Let cool completely before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "cake",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-ukrainian-honey-cake-kulich--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:36:09.072Z"
+}
