@@ -19257,5 +19257,31 @@
     "cuisine": "indian",
     "totalTimeMin": 170,
     "shard": "j"
+  },
+  {
+    "slug": "jovial-flaky-italian-tomato-pasta--german",
+    "title": "Spätzle mit Tomatensoße",
+    "tags": [
+      "german",
+      "noodle",
+      "homemade",
+      "tomato-sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-crisp-canadian-chinese-broccoli-stir-fry--japanese",
+    "title": "Crispy Broccoli Stir Fry",
+    "tags": [
+      "broccoli",
+      "stir-fry",
+      "japanese",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "j"
   }
 ]
