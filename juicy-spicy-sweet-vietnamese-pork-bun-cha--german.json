@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-spicy-sweet-vietnamese-pork-bun-cha--german",
+  "title": "Spicy Vietnamese Pork Bun",
+  "description": "A fusion twist on the classic German sausage, this spicy Vietnamese pork bun is a flavorful and refreshing take on traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "",
+      "notes": "Fish sauce, lime juice, and chili flakes for marinade"
+    },
+    {
+      "name": "bun",
+      "amount": "4",
+      "notes": "Vietnamese-style buns"
+    },
+    {
+      "name": "cha",
+      "amount": "2",
+      "notes": "Vietnamese chilies"
+    },
+    {
+      "name": "juicy",
+      "amount": "",
+      "notes": "Pork fat for browning"
+    },
+    {
+      "name": "sweet",
+      "amount": "2tbsp",
+      "notes": "Sugar for balance"
+    },
+    {
+      "name": "spicy",
+      "amount": "1tbsp",
+      "notes": "Red pepper flakes for spice"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, fish sauce, lime juice, and chili flakes. Mix well until all ingredients are fully incorporated.",
+    "2. Divide the pork mixture into 4 equal parts and shape each part into a ball. Flatten each ball slightly into a patty.",
+    "3. Heat a large skillet over medium-high heat and add pork fat for browning. Once hot, add the patties and cook for 3-4 minutes on each side, until browned and cooked through.",
+    "4. Meanwhile, toast the Vietnamese buns by grilling them over an open flame or by baking them in the oven for a few minutes.",
+    "5. Assemble the buns by placing a cooked patty on each bun, followed by a few slices of fresh chili and a drizzle of sweet chili sauce.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "german",
+    "vietnamese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spicy-sweet-vietnamese-pork-bun-cha--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:47:01.503Z"
+}
