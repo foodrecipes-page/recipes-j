@@ -1633,17 +1633,16 @@
   },
   {
     "slug": "jamaican-jerk-jamaican-ground-beef-burger",
-    "title": "Jamaican Jerk Jamaican Ground Beef Burger",
+    "title": "Jamaican Jerk Burger",
     "tags": [
-      "grilled",
-      "high-protein",
-      "meat-lovers",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "burgers",
+      "jerk",
+      "beef",
+      "bbq",
+      "grilling"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -19177,6 +19176,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jasmine-green-salsa-baked-dish--gluten-free",
+    "title": "Grilled Baked Salmon with Salsa Glaze",
+    "tags": [
+      "gluten-free",
+      "salmon",
+      "grilled",
+      "salsa",
+      "jasmine-rice"
+    ],
+    "cuisine": "Asian-inspired",
+    "totalTimeMin": 22,
     "shard": "j"
   }
 ]
