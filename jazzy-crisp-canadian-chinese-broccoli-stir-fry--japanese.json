@@ -1,0 +1,69 @@
+{
+  "slug": "jazzy-crisp-canadian-chinese-broccoli-stir-fry--japanese",
+  "title": "Crispy Broccoli Stir Fry",
+  "description": "A quick and easy Japanese-inspired dish featuring crispy broccoli and a savory stir-fry sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canadian",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of jazzy in a large skillet over medium-high heat.",
+    "Add the crisp and cook until golden brown, about 3-4 minutes.",
+    "Add the broccoli and cook for an additional 2-3 minutes, until tender but still crisp.",
+    "In a small bowl, whisk together canadian, chinese, and stir.",
+    "Pour the sauce over the broccoli and crisp, and stir to combine.",
+    "Add the fry and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broccoli",
+    "stir-fry",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-crisp-canadian-chinese-broccoli-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:06:32.834Z"
+}
