@@ -1,0 +1,62 @@
+{
+  "slug": "jjammy-gooey-jcure-pancakes",
+  "title": "Gooey Pancake Stack",
+  "description": "A stack of fluffy pancakes with a gooey center, topped with a sweet and tangy jjammy sauce.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jjammy",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gooey",
+      "amount": "1/4 cup",
+      "notes": "honey or maple syrup"
+    },
+    {
+      "name": "jcure",
+      "amount": "1 tsp",
+      "notes": "optional, for flavor"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together jjammy and gooey until well combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook pancakes according to package instructions or until bubbles appear on surface.",
+    "Flip pancakes and cook for an additional 1-2 minutes.",
+    "Place cooked pancakes on a serving plate and top with jjammy-gooey mixture.",
+    "If using jcure, sprinkle on top of pancakes for added flavor.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "sweet",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jjammy-gooey-jcure-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:52:32.214Z"
+}
