@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-thai-lentils-bao",
+  "title": "Thai Lentil Bao",
+  "description": "A flavorful and nutritious Thai-inspired dish made with red lentils, served in steamed bao buns. Perfect as a snack or light meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "steamed bao buns",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add lentils, broth, and coconut milk. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Steam bao buns according to package instructions.",
+    "Spoon lentil mixture into bao buns and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "thaifood",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-thai-lentils-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:31:55.538Z"
+}
