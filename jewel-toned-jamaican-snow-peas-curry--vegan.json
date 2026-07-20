@@ -1,0 +1,73 @@
+{
+  "slug": "jewel-toned-jamaican-snow-peas-curry--vegan",
+  "title": "Jamaican Jewel Rice Bowl",
+  "description": "A flavorful and nutritious vegan meal featuring a spicy Jamaican-inspired rice bowl with jewel-toned vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jewel rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "toned water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegan oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the snow peas and peas; cook until tender, about 3-4 minutes.",
+    "Add the jewel rice and toned water to the skillet.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 18-20 minutes or until the rice is tender and the liquid is absorbed.",
+    "Fluff the rice mixture with a fork.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "rice",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-jamaican-snow-peas-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:31:06.589Z"
+}
