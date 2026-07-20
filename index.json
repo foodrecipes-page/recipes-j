@@ -14058,17 +14058,15 @@
   },
   {
     "slug": "juicy-rich-mediterranean-chicken-tagine",
-    "title": "Juicy Rich Mediterranean Chicken Tagine",
+    "title": "Mediterranean Chicken Tagine",
     "tags": [
-      "chicken-recipe",
-      "gluten-free",
-      "low-calorie",
-      "meal-prep",
+      "chicken",
       "mediterranean",
-      "one-pot"
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
