@@ -1,0 +1,78 @@
+{
+  "slug": "jovial-flaky-italian-tomato-pasta--german",
+  "title": "Spätzle mit Tomatensoße",
+  "description": "A classic German dish featuring homemade spätzle noodles tossed in a rich tomato sauce. Perfect for a hearty dinner.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky italian pasta",
+      "amount": "1 1/2 cups",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "3 ripe",
+      "notes": "chopped"
+    },
+    {
+      "name": "jovial all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for homemade spätzle"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "for homemade spätzle"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Gradually add in the flaky italian pasta and cook until al dente.",
+    "While the pasta is cooking, make the homemade spätzle by mixing the jovial all-purpose flour, large egg, salt, and ground black pepper in a bowl.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a long rope.",
+    "Cut the rope into 1/2-inch pieces and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add in the chopped tomato and cook until tender, about 3-5 minutes.",
+    "Add in the cooked spätzle noodles and toss in the tomato sauce until well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "noodle",
+    "homemade",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-flaky-italian-tomato-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:57:04.243Z"
+}
