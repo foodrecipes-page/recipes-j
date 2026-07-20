@@ -13337,17 +13337,15 @@
   },
   {
     "slug": "juicy-molten-italian-carrots-orecchiette",
-    "title": "Juicy Molten Italian Carrots Orecchiette",
+    "title": "Spicy Molten Italian Carrot Pasta",
     "tags": [
-      "gluten-free",
-      "italian-food",
-      "one-pan",
-      "robata-grill",
-      "vegan-recipes",
-      "weeknight"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -19220,6 +19218,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-spicy-sweet-vietnamese-pork-bun-cha--german",
+    "title": "Spicy Vietnamese Pork Bun",
+    "tags": [
+      "pork",
+      "german",
+      "vietnamese",
+      "spicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 32,
     "shard": "j"
   }
 ]
