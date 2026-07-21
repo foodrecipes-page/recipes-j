@@ -4524,13 +4524,13 @@
     "slug": "jelly-filled-canadian-cod-chowder",
     "title": "Canadian Cod Chowder",
     "tags": [
+      "seafood",
       "canadian",
-      "fish-chowder",
-      "lunch-recipe",
+      "chowder",
       "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -5586,17 +5586,15 @@
   },
   {
     "slug": "jeweled-herbed-mediterranean-goats-cheese-skewers",
-    "title": "Jeweled Herbed Mediterranean Goats Cheese Skewers",
+    "title": "Grilled Herbed Goat Cheese Skewers with Jeweled Med",
     "tags": [
-      "gluten-free",
-      "grilling",
-      "mediterranean",
-      "romantic",
-      "summer",
-      "vegetarian"
+      "grilled",
+      "herbs",
+      "cheese",
+      "appetizer"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -19321,6 +19319,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-irish-green-olives-stir-fry--german",
+    "title": "German Irish Sausage Fry",
+    "tags": [
+      "german",
+      "sausages",
+      "stir-fry",
+      "irish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 17,
     "shard": "j"
   }
 ]
