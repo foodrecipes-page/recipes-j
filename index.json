@@ -19422,5 +19422,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 22,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-ukrainian-lamb-kidney-dumplings--japanese",
+    "title": "Japanese Lamb Dumplings",
+    "tags": [
+      "japanese",
+      "lamb",
+      "dumplings",
+      "ukrainian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-chinese-pig-char-siu-bao--keto",
+    "title": "Keto Chinese BBQ Pork Bao",
+    "tags": [
+      "keto",
+      "chinese",
+      "bbq",
+      "pork"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-savory-italian-fod-stir-fry--french",
+    "title": "French Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "french",
+      "hearty"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "j"
   }
 ]
