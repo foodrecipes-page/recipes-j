@@ -1,0 +1,67 @@
+{
+  "slug": "juicy-saudi-arabian-pepper-roast",
+  "title": "Saudi Arabian Pepper Roast",
+  "description": "Deliciously marinated Arabian roast with a kick of pepper, inspired by traditional Saudi flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian roast",
+      "amount": "1 pound",
+      "notes": "Look for a high-quality, grass-fed roast"
+    },
+    {
+      "name": "Pepper",
+      "amount": "2 tablespoons, finely ground",
+      "notes": "Use a mix of black and white pepper for added flavor"
+    },
+    {
+      "name": "Juicy juice",
+      "amount": "1/4 cup",
+      "notes": "Your preferred brand or freshly squeezed"
+    },
+    {
+      "name": "Arabian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the roast during cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 325°F (165°C).",
+    "In a small bowl, whisk together the juicy juice, Arabian spice blend, and 1 teaspoon of the ground pepper.",
+    "Rub the marinade all over the Saudi Arabian roast, making sure to coat it evenly.",
+    "Place the roast in a large Dutch oven or oven-safe pot, and brush with olive oil.",
+    "Cover the pot with a lid and roast in the preheated oven for 2 1/2 hours, or until the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "Remove the roast from the oven and let it rest for 10 minutes before slicing.",
+    "Sprinkle the remaining 1 tablespoon of ground pepper over the sliced roast, and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "pepper",
+    "roast",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-saudi-arabian-pepper-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:22:56.416Z"
+}
