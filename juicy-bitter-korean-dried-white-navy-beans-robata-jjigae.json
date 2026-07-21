@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
+  "title": "Spicy Korean White Bean Jjigae",
+  "description": "A spicy Korean chili stew made with white beans and robust flavors, perfect for a cold day.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white beans, drained and rinsed",
+      "amount": "1 cup (200g)"
+    },
+    {
+      "name": "robata (gochugaru) flakes",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "juicy pork or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "navy beans, soaked overnight",
+      "amount": "1 cup (180g)"
+    },
+    {
+      "name": "dried korean chili paste (gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "soy sauce (optional)",
+      "amount": "2 tsp",
+      "notes": "optional, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add chili flakes, chili paste, and stir for a minute.",
+    "Add white beans, navy beans, and soy sauce (if using).",
+    "Stir to combine, then add water to cover the ingredients.",
+    "Bring to a boil, reduce heat to low and simmer for 30 minutes.",
+    "Stir in robata flakes and cook for an additional 5 minutes.",
+    "Serve hot, garnished with green onions and kimchi (optional).",
+    "Note: For a spicier version, add more chili flakes or robata flakes.",
+    "For a milder version, reduce the amount of chili flakes or omit the robata flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:48:18.026Z"
+}
