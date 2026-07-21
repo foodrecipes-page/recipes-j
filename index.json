@@ -19283,5 +19283,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-crunchy-chinese-noodle-bowl--japanese",
+    "title": "Japanese-Style Crunchy Noodle Bowl",
+    "tags": [
+      "noodle-bowl",
+      "japanese-food",
+      "vegetarian",
+      "quick-meal"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-korean-cranberry-songpyeon--french",
+    "title": "Songpyeon-Infused French Cranberry Crumble",
+    "tags": [
+      "dessert",
+      "korean-french-fusion",
+      "cranberry",
+      "songpyeon"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jarring-mediterranean-hazelnut-tagine--french",
+    "title": "French Hazelnut Chicken Tagine",
+    "tags": [
+      "chicken",
+      "hazelnuts",
+      "tagine",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
