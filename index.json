@@ -19409,5 +19409,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jgoozy-irish-raisin-pudding--japanese",
+    "title": "Raisin Irish Pudding",
+    "tags": [
+      "japanese",
+      "dessert",
+      "pudding",
+      "raisin"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "j"
   }
 ]
