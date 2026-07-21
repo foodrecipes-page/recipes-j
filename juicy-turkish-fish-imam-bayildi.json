@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-turkish-fish-imam-bayildi",
+  "title": "Turkish Imam Bayildi Stuffed Fish",
+  "description": "A flavorful and aromatic dish where Turkish imam bayildi (stuffed eggplant) filling is used to stuff a fish, adding a unique twist to the classic recipe.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (sea bass or cod)",
+      "amount": "1 whole fish (1.5 kg)",
+      "notes": "preferably with skin on"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Turkish imam bayildi filling",
+      "amount": "1 cup",
+      "notes": "see separate recipe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Juicy bayaldi (optional)",
+      "amount": "1/4 cup",
+      "notes": "see separate recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Rinse the fish and pat dry with paper towels.",
+    "Make incisions on both sides of the fish and fill with the Turkish imam bayildi filling.",
+    "Season the fish with salt, black pepper, cumin, and paprika.",
+    "Place the fish on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes or until the fish is cooked through.",
+    "If using juicy bayaldi, serve on top of the fish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "seafood",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-turkish-fish-imam-bayildi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:24:52.315Z"
+}
