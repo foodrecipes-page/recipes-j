@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-smoky-indian-galangal-vada-pav--gluten-free",
+  "title": "Galangal Vada Pav",
+  "description": "A twist on the classic Indian street food, replacing traditional breadcrumbs with a gluten-free galangal mixture. This version is smoky and flavorful.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "pav bread",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vada mixture",
+      "amount": "1 cup",
+      "notes": "see instructions below"
+    },
+    {
+      "name": "smoky chutney",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "juicy cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat oil over medium heat.",
+    "2. Add the vada mixture and cook until golden brown.",
+    "3. Meanwhile, toast the pav bread.",
+    "4. Assemble the vada pav by placing a toasted pav bread on a plate and topping it with a vada, a dollop of smoky chutney, and a sprinkle of cilantro.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "gluten-free",
+    "snack",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-indian-galangal-vada-pav--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:29:40.425Z"
+}
