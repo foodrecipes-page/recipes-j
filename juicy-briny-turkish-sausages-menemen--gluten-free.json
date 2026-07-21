@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-briny-turkish-sausages-menemen--gluten-free",
+  "title": "Turkish-Style Sausage Skillet",
+  "description": "A gluten-free breakfast skillet recipe featuring juicy Turkish sausages and menemen.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkish Sausages",
+      "amount": "4-6",
+      "notes": "Choose a gluten-free sausage option"
+    },
+    {
+      "name": "Menemen",
+      "amount": "2 cups",
+      "notes": "Menemen is a Turkish-style scrambled egg dish made with sautéed onions, tomatoes and spices"
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "1 can",
+      "notes": "Chopped or crushed tomatoes work well"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the Turkish sausages and cook until browned, about 5-7 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the menemen to the skillet and stir to combine with the sausage drippings.",
+    "Add the chopped tomatoes, salt, and black pepper to the skillet and stir to combine.",
+    "Return the sausages to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the menemen is set.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "turkish",
+    "sausages",
+    "menemen",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-briny-turkish-sausages-menemen--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:41:03.536Z"
+}
