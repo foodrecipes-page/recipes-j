@@ -19485,5 +19485,19 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-french-fish-papillote--french",
+    "title": "Pan-Seared Fish in Papillote",
+    "tags": [
+      "french",
+      "fish",
+      "baked-fish",
+      "lemon",
+      "parsley"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "j"
   }
 ]
