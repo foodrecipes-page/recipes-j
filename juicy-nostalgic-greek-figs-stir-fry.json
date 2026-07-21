@@ -1,0 +1,73 @@
+{
+  "slug": "juicy-nostalgic-greek-figs-stir-fry",
+  "title": "Fried Figs with Greek Twist",
+  "description": "A sweet and savory dessert that combines the freshness of figs with a classic Greek twist. Perfect for warm weather.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Figs",
+      "amount": "4-6",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Plain, non-fat"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Raw, pure"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": "Pure"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the figs in half and place on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil, sprinkle with cinnamon, and drizzle with honey.",
+    "Bake for 15-20 minutes, or until the figs are tender and caramelized.",
+    "Meanwhile, mix the Greek yogurt with vanilla extract in a small bowl.",
+    "Serve the yogurt mixture over the warm figs.",
+    "Garnish with a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "greek",
+    "figs",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-nostalgic-greek-figs-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:42:41.397Z"
+}
