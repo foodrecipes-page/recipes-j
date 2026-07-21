@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-crunchy-chinese-noodle-bowl--japanese",
+  "title": "Japanese-Style Crunchy Noodle Bowl",
+  "description": "A light and refreshing Japanese-inspired noodle bowl featuring crunchy vegetables and a savory sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crunchy Vegetable Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Ginger Sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Crunchy Vegetable Noodles according to package instructions.",
+    "In a large bowl, whisk together the Sesame Ginger Sauce, Soy Sauce, Rice Vinegar, Honey, and Ginger until smooth.",
+    "Add the cooked noodles to the bowl and toss to coat with the sauce.",
+    "Top with chopped Green Onions, Crushed Peanuts, and sliced Juicy Carrots.",
+    "Drizzle with Sesame Oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-bowl",
+    "japanese-food",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-chinese-noodle-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:10:29.734Z"
+}
