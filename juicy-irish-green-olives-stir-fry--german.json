@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-irish-green-olives-stir-fry--german",
+  "title": "German Irish Sausage Fry",
+  "description": "A hearty German-inspired dish featuring juicy Irish sausage, sautéed with green onions and olives. Serve with a side of crispy bread.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Sausage",
+      "amount": "4",
+      "notes": "about 1 inch long"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "to fry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the Irish sausage and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped green onions and cook until they start to soften, about 2-3 minutes.",
+    "Add the sliced olives and cook for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with crispy bread on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausages",
+    "stir-fry",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-irish-green-olives-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:03:03.475Z"
+}
