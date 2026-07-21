@@ -1,0 +1,65 @@
+{
+  "slug": "juicy-ukrainian-lamb-kidney-dumplings--japanese",
+  "title": "Japanese Lamb Dumplings",
+  "description": "A unique fusion of Japanese and Ukrainian flavors, these lamb dumplings are a tasty twist on traditional Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package (usually 20-24 pieces)"
+    },
+    {
+      "name": "kidney",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 tablespoons, chopped scallions"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "2 tablespoons, chopped fresh dill"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground lamb, chopped kidney, chopped scallions, and chopped dill. Mix well with your hands or a wooden spoon until just combined.",
+    "2. Lay a dumpling wrapper on a clean surface. Place a tablespoon of the lamb mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point. Press the edges together to seal the dumpling.",
+    "5. Repeat with the remaining dumpling wrappers and lamb mixture.",
+    "6. In a large pot or steamer, bring 2 inches of water to a boil. Reduce the heat to medium-low and place a steamer basket over the water.",
+    "7. Place the dumplings in the steamer basket and cover with a lid.",
+    "8. Steam the dumplings for 10-12 minutes, or until they are cooked through.",
+    "9. Serve the dumplings hot with your favorite dipping sauce.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "dumplings",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-ukrainian-lamb-kidney-dumplings--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:42:14.537Z"
+}
