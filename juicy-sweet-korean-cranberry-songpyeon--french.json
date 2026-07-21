@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-sweet-korean-cranberry-songpyeon--french",
+  "title": "Songpyeon-Infused French Cranberry Crumble",
+  "description": "A sweet and tangy dessert combining the flavors of France and Korea. Crunchy oat topping with a hint of sesame seeds complements the sweet songpyeon and cranberry filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "songpyeon",
+      "amount": "1 cup",
+      "notes": "short-grain rice flour"
+    },
+    {
+      "name": "fresh or frozen cranberries",
+      "amount": "1 cup",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together songpyeon, cranberries, granulated sugar, and flour.",
+    "Transfer the mixture into a 9x9-inch baking dish.",
+    "In another bowl, mix together butter and sesame seeds.",
+    "Add the butter mixture to the dry ingredients (rolled oats and salt) and mix until crumbly.",
+    "Spread the crumb mixture evenly over the filling.",
+    "Bake for 40-45 minutes or until the topping is golden brown and the filling is bubbly.",
+    "Serve warm with vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "korean-french-fusion",
+    "cranberry",
+    "songpyeon"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-korean-cranberry-songpyeon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:18:56.518Z"
+}
