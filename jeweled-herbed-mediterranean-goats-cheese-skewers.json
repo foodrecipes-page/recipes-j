@@ -1,0 +1,61 @@
+{
+  "slug": "jeweled-herbed-mediterranean-goats-cheese-skewers",
+  "title": "Grilled Herbed Goat Cheese Skewers with Jeweled Med",
+  "description": "A refreshing summer appetizer featuring herbed goat cheese, juicy herbs, and sweet jeweled mediterranean ingredients, all perfectly grilled on skewers.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Herbed Goat Cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Fresh Herbs (Parsley, Thyme, Oregano)",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jeweled Mediterranean Mix",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Skewers",
+      "amount": "20",
+      "notes": "wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread goat cheese, herbs, and mediterranean mix onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 20,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "herbs",
+    "cheese",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jeweled-herbed-mediterranean-goats-cheese-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:29:21.248Z"
+}
