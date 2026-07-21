@@ -1,0 +1,82 @@
+{
+  "slug": "jubilant-chiapan-beans-burrito",
+  "title": "Jubilant Burrito",
+  "description": "A flavorful burrito filled with beans, chiapan, and jubilant, perfect for a quick dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chiapan",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortilla",
+      "amount": "1, large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the cooked beans and chiapan in a pan over medium heat.",
+    "Add cumin and stir well.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20 seconds.",
+    "Spoon the bean and chiapan mixture onto the tortilla.",
+    "Add jubilant on top of the bean mixture.",
+    "Sprinkle shredded cheese over jubilant.",
+    "Add salsa on top of the cheese.",
+    "Season with salt and pepper to taste.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "burrito",
+    "mexican",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-chiapan-beans-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:54:59.717Z"
+}
