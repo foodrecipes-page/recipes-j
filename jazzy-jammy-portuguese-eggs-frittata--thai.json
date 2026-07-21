@@ -1,0 +1,70 @@
+{
+  "slug": "jazzy-jammy-portuguese-eggs-frittata--thai",
+  "title": "Thai-Style Egg Frittata",
+  "description": "A fusion twist on the classic frittata, infused with Thai flavors and spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6"
+    },
+    {
+      "name": "Jazzy Jalapeño",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Jammy Jus",
+      "amount": "2 tbsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Portuguese Chorizo",
+      "amount": "1",
+      "notes": "diced, cooked"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "3. Add cooked chorizo and cook for 2-3 minutes, until crispy.",
+    "4. In a large bowl, whisk together eggs, jammy jus, and a pinch of salt.",
+    "5. Add diced jalapeño and chopped cilantro to the egg mixture and stir.",
+    "6. Pour the egg mixture over the cooked chorizo and stir gently.",
+    "7. Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the eggs are set.",
+    "8. Remove from the oven and let it cool for a few minutes.",
+    "9. Slice into wedges and serve hot.",
+    "10. Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "breakfast",
+    "frittata",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-jammy-portuguese-eggs-frittata--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:35:34.814Z"
+}
