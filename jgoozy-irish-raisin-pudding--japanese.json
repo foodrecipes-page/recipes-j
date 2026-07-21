@@ -1,0 +1,59 @@
+{
+  "slug": "jgoozy-irish-raisin-pudding--japanese",
+  "title": "Raisin Irish Pudding",
+  "description": "A Japanese-inspired dessert with a unique twist from traditional ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish raisin bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Jgoozy syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Cut the Irish raisin bread into 1-inch cubes and place on a baking sheet.",
+    "3. Bake for 10-12 minutes or until golden brown.",
+    "4. In a separate bowl, mix together the pudding mix and Jgoozy syrup.",
+    "5. Add the sugar and mix until dissolved.",
+    "6. Pour the pudding mixture over the toasted bread cubes.",
+    "7. Refrigerate for at least 2 hours or until chilled.",
+    "8. Serve cold and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "pudding",
+    "raisin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jgoozy-irish-raisin-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:29:22.442Z"
+}
