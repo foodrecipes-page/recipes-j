@@ -7214,18 +7214,15 @@
   },
   {
     "slug": "jubilant-chiapan-beans-burrito",
-    "title": "Jubilant Chiapan Beans Burrito",
+    "title": "Jubilant Burrito",
     "tags": [
-      "bean-based",
       "burrito",
-      "dairy-free",
-      "leaf-wrap",
       "mexican",
-      "nostalgic",
-      "vegetarian"
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -14428,16 +14425,15 @@
   },
   {
     "slug": "juicy-saudi-arabian-pepper-roast",
-    "title": "Juicy Saudi Arabian Pepper Roast",
+    "title": "Saudi Arabian Pepper Roast",
     "tags": [
-      "herbal",
-      "low-fat",
-      "pepper-roast",
-      "romantic",
-      "saudi-arabian"
+      "arabian",
+      "pepper",
+      "roast",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 165,
     "shard": "j"
   },
   {
@@ -19519,6 +19515,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 5,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-mustardy-kenyan-beef-lasagna--french",
+    "title": "French Beef Lasagna",
+    "tags": [
+      "french",
+      "lasagna",
+      "beef"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 75,
+    "shard": "j"
+  },
+  {
+    "slug": "jaded-italian-morning-glory-pak-bung-bruschetta--mexican",
+    "title": "Mexican Morning Glory Bruschetta",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "j"
   }
 ]
