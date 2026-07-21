@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-grill-xinjiang-jumbo-shrimp-skewers",
+  "title": "Xinjiang Shrimp Skewers",
+  "description": "Crispy grilled shrimp skewers marinated in a blend of Xinjiang spices, perfect for a summer evening.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jumbo shrimp",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Juicy xinjiang chili peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Grill",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 dozen",
+      "notes": "preferably bamboo"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lime juice, ginger, garlic, salt, and black pepper.",
+    "3. Add sliced xinjiang chili peppers and mix well.",
+    "4. Add the jumbo shrimp and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "5. Thread the marinated shrimp and xinjiang chili peppers onto the skewers.",
+    "6. Brush the grill with oil to prevent sticking.",
+    "7. Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "xinjiang",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 14,
+    "carbs": 6,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grill-xinjiang-jumbo-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:21:22.224Z"
+}
