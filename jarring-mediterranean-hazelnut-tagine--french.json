@@ -1,0 +1,90 @@
+{
+  "slug": "jarring-mediterranean-hazelnut-tagine--french",
+  "title": "French Hazelnut Chicken Tagine",
+  "description": "A classic tagine dish from French cuisine, made with chicken and hazelnuts in a rich and aromatic sauce.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mediterranean tagine spice mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped hazelnuts and cook for 1-2 minutes.",
+    "Add the Mediterranean tagine spice mix and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the chicken to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 25-30 minutes, or until the chicken is cooked through.",
+    "Remove the pot from the oven and stir in the honey.",
+    "Serve the chicken hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "hazelnuts",
+    "tagine",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-mediterranean-hazelnut-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:00:22.298Z"
+}
