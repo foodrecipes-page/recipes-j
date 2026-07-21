@@ -1,0 +1,109 @@
+{
+  "slug": "juicy-smoked-russian-beef-skewers--chinese",
+  "title": "Beef Skewer Stir Fry",
+  "description": "A quick and delicious stir fry recipe using beef skewers and a variety of vegetables. This dish is inspired by traditional Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef skewers",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until they are translucent, about 2-3 minutes.",
+    "Add the sliced bell peppers and carrots, and cook for an additional 4-5 minutes, until the vegetables are tender.",
+    "Add the beef skewers to the skillet and cook for 2-3 minutes per side, until they are cooked through.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, sugar, salt, and pepper.",
+    "Pour the sauce over the beef and vegetables, and stir to coat.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Garnish with chopped scallions and sesame seeds.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "skewers",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-russian-beef-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:42:10.358Z"
+}
