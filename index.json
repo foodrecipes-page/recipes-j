@@ -11381,16 +11381,16 @@
   },
   {
     "slug": "juicy-flaky-malaysian-chicken-satay",
-    "title": "Juicy Flaky Malaysian Chicken Satay",
+    "title": "Malaysian Satay Chicken",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-glycemic",
-      "malaysian-cuisine",
-      "sous-vide"
+      "malaysian",
+      "chicken",
+      "grilled",
+      "peanut-sauce",
+      "satay"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 33,
     "shard": "j"
   },
   {
@@ -12560,16 +12560,18 @@
   },
   {
     "slug": "juicy-japanese-orange-inari-zushi",
-    "title": "Juicy Japanese Orange Inari Zushi",
+    "title": "Japanese-Style Inari Zushi",
     "tags": [
-      "adventurous",
       "japanese",
-      "one-pan",
-      "sushi",
-      "weeknight"
+      "inari",
+      "zushi",
+      "dessert",
+      "vegetarian",
+      "dairy-free",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
@@ -19380,6 +19382,31 @@
       "gluten-free"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-crispy-venezuelan-scamorza-bake--chinese",
+    "title": "Scamorza Fritters with Jammy Dipping Sauce",
+    "tags": [
+      "fritters",
+      "scamorza",
+      "cheese",
+      "dipping-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jade-cooked-chinese-pork-cai-fun--chinese",
+    "title": "Cai Fun with Pork",
+    "tags": [
+      "chinese",
+      "pork",
+      "noodles"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "j"
   }
