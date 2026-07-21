@@ -1,0 +1,74 @@
+{
+  "slug": "jade-cooked-chinese-pork-cai-fun--chinese",
+  "title": "Cai Fun with Pork",
+  "description": "A classic Chinese dish featuring stir-fried pork and cai fun noodles. Quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "fun noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "cai",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "jade",
+      "amount": "1 tablespoon",
+      "notes": "chopped scallions"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the wok and set aside.",
+    "Add the remaining 1 tablespoon of oil to the wok.",
+    "Add the chopped cai and cook until wilted, about 2-3 minutes.",
+    "Add the cooked noodles to the wok and stir to combine with the cai.",
+    "Return the pork to the wok and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes, until the pork is coated in the sauce.",
+    "Serve hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pork",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jade-cooked-chinese-pork-cai-fun--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:35:18.297Z"
+}
