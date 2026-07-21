@@ -9360,16 +9360,14 @@
   },
   {
     "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae",
-    "title": "Juicy Bitter Korean Dried White Navy Beans Robata Jjigae",
+    "title": "Spicy Korean White Bean Jjigae",
     "tags": [
-      "fodmap-friendly",
-      "high-protein",
-      "korean-cuisine",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 60,
     "shard": "j"
   },
   {
@@ -11958,19 +11956,16 @@
   },
   {
     "slug": "juicy-grill-xinjiang-jumbo-shrimp-skewers",
-    "title": "Juicy Grill Xinjiang Jumbo Shrimp Skewers",
+    "title": "Xinjiang Shrimp Skewers",
     "tags": [
       "grilled",
-      "hangover-cure",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
       "seafood",
-      "weeknight",
-      "xianjiang"
+      "xinjiang",
+      "shrimp",
+      "skewers"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 42,
+    "cuisine": "Asian",
+    "totalTimeMin": 21,
     "shard": "j"
   },
   {
@@ -19358,6 +19353,19 @@
       "chicken"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-jammy-portuguese-eggs-frittata--thai",
+    "title": "Thai-Style Egg Frittata",
+    "tags": [
+      "thai",
+      "breakfast",
+      "frittata",
+      "egg"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "j"
   }
