@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-snappy-algerian-paneer-tagine--thai",
+  "title": "Thai Snappy Paneer Tagine",
+  "description": "A Thai twist on the classic North African dish, featuring juicy snappy vegetables and algerian spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "snappy vegetables",
+      "amount": "1",
+      "notes": "bell peppers, carrots, snap peas"
+    },
+    {
+      "name": "algerian spices",
+      "amount": "2 tsp",
+      "notes": "cumin, coriander, paprika"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of coconut oil in a large pan over medium heat.",
+    "Add the algerian spices and cook for 1 minute, until fragrant.",
+    "Add the snappy vegetables and cook for 3-4 minutes, until tender.",
+    "Add the paneer and cook for 2-3 minutes, until lightly browned.",
+    "Add the Thai red curry paste and cook for 1 minute, until fragrant.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 5-7 minutes, until the sauce has thickened.",
+    "Stir in the lime juice, fish sauce, and brown sugar.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "tagine",
+    "paneer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-snappy-algerian-paneer-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:08:14.137Z"
+}
