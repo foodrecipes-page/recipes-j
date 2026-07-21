@@ -1,0 +1,87 @@
+{
+  "slug": "jazzy-spicy-mexican-chicken-tacos",
+  "title": "Spicy Chicken Tacos",
+  "description": "A flavorful and spicy twist on traditional tacos, filled with marinated chicken and topped with fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "jazzy jalapeno peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mexican cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "spicy taco seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "tacos shells",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken breasts in a mixture of cumin, spicy taco seasoning, and sliced jalapeno peppers for at least 30 minutes.",
+    "Preheat a grill to medium-high heat.",
+    "Grill the chicken breasts for 5-7 minutes per side, or until cooked through.",
+    "Shred the cooked chicken into bite-sized pieces.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the shredded chicken onto a shell, followed by a sprinkle of cheese, a dollop of sour cream, and a spoonful of salsa.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "spicy",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-spicy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:35:55.562Z"
+}
