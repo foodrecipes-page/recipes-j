@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-flaky-malaysian-chicken-satay",
+  "title": "Malaysian Satay Chicken",
+  "description": "A flavorful and aromatic Malaysian-inspired dish featuring marinated chicken, served with a peanut sauce. Perfect for a quick and easy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "satay peanut sauce (store-bought or homemade)",
+      "amount": "",
+      "notes": "Optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken satay sticks",
+      "amount": "",
+      "notes": "Optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, soy sauce, brown sugar, garlic, and ginger. Blend until smooth.",
+    "In a large bowl, whisk together the blended mixture and a pinch of salt. Add the chicken breast and coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat the grill to medium-high heat. Thread the marinated chicken onto skewers, if using.",
+    "Grill the chicken for 8-10 minutes per side, or until cooked through. Transfer to a plate and let rest for 5 minutes.",
+    "Meanwhile, heat the peanut sauce (if using) in a small saucepan over low heat.",
+    "Serve the grilled chicken with the peanut sauce spooned over the top. Garnish with fresh cilantro, if desired.",
+    "Optional: Serve with satay peanut sauce on the side for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "grilled",
+    "peanut-sauce",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flaky-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:56:29.302Z"
+}
