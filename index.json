@@ -2746,16 +2746,15 @@
   },
   {
     "slug": "jasmine-thai-goose-khao-pad",
-    "title": "Jasmine Thai Goose Khao Pad",
+    "title": "Thai Khao Pad Stir Fry",
     "tags": [
-      "date-night",
-      "diabetic-friendly",
-      "goose-fat",
-      "light",
-      "umami-rich"
+      "thai",
+      "rice",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -4242,17 +4241,15 @@
   },
   {
     "slug": "jazzy-spicy-mexican-chicken-tacos",
-    "title": "Jazzy Spicy Mexican Chicken Tacos",
+    "title": "Spicy Chicken Tacos",
     "tags": [
-      "chicken",
       "mexican",
-      "pressure-cooker",
+      "chicken",
       "spicy",
-      "tacos",
-      "weeknight"
+      "tacos"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "j"
   },
   {
@@ -13536,16 +13533,15 @@
   },
   {
     "slug": "juicy-nostalgic-greek-figs-stir-fry",
-    "title": "Juicy Nostalgic Greek Figs Stir-fry",
+    "title": "Fried Figs with Greek Twist",
     "tags": [
-      "juicy-greek-figs",
-      "herbal-stir-fry",
-      "nostalgic-dish",
-      "vanilla-figs",
-      "plant-based-friendly"
+      "dessert",
+      "greek",
+      "figs",
+      "fry"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -19498,6 +19494,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-syrian-lentil-wrap--german",
+    "title": "German Lentil Wrap",
+    "tags": [
+      "german",
+      "lentil",
+      "wrap",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pickled-saudia-tomato-salad--indian",
+    "title": "Indian-Style Sauerkraut Salad",
+    "tags": [
+      "indian-salad",
+      "sourdough-salad",
+      "easy-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 5,
     "shard": "j"
   }
 ]
