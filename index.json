@@ -19461,5 +19461,31 @@
     "cuisine": "french",
     "totalTimeMin": 170,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-indian-galangal-vada-pav--gluten-free",
+    "title": "Galangal Vada Pav",
+    "tags": [
+      "indian",
+      "gluten-free",
+      "snack",
+      "street-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-snappy-algerian-paneer-tagine--thai",
+    "title": "Thai Snappy Paneer Tagine",
+    "tags": [
+      "thaifood",
+      "tagine",
+      "paneer",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
