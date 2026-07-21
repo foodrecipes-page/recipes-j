@@ -1,0 +1,95 @@
+{
+  "slug": "juicy-savory-italian-fod-stir-fry--french",
+  "title": "French Beef Stew",
+  "description": "A hearty French stew made with tender beef, vegetables, and a rich red wine broth.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion, carrot, and celery until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the red wine, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth, tomato paste, thyme, and bay leaves. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 1/2 hours, or until the beef is tender.",
+    "Remove from oven and let rest for 10 minutes before serving.",
+    "Strain the broth and discard the solids. Serve the beef and vegetables in the rich broth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savory-italian-fod-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:48:29.747Z"
+}
