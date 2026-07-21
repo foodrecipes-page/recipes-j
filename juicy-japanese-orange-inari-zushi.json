@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-japanese-orange-inari-zushi",
+  "title": "Japanese-Style Inari Zushi",
+  "description": "A classic Japanese sweet tofu pouch dessert, typically served as a snack or dessert. In this recipe, we're combining the sweetness of inari with the juiciness of orange.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Inari tofu pouches",
+      "amount": "6-8 pouches"
+    },
+    {
+      "name": "Orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine orange marmalade, granulated sugar, water, orange juice, and matcha powder.",
+    "Heat the mixture over low heat, stirring occasionally, until the sugar has dissolved.",
+    "Remove from heat and stir in a pinch of salt.",
+    "Cut the inari tofu pouches in half lengthwise.",
+    "Place the pouches in a shallow dish and brush the orange marmalade mixture evenly over both sides of the tofu.",
+    "Sprinkle sesame seeds over the tofu.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "inari",
+    "zushi",
+    "dessert",
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-japanese-orange-inari-zushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:08:20.327Z"
+}
