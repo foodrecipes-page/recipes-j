@@ -1,0 +1,68 @@
+{
+  "slug": "jammy-crispy-venezuelan-scamorza-bake--chinese",
+  "title": "Scamorza Fritters with Jammy Dipping Sauce",
+  "description": "Crispy fried scamorza cheese fritters served with a sweet and tangy jammy dipping sauce, inspired by Chinese flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "bake mix",
+      "amount": "20g"
+    },
+    {
+      "name": "jammy filling",
+      "amount": "50g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Combine flour, bake mix, and water in a bowl to form a dough.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Cut the dough into small pieces and flatten each piece into a disk.",
+    "Place a small amount of scamorza cheese in the center of each disk.",
+    "Fold the dough over the cheese and press the edges to seal.",
+    "Heat oil in a deep frying pan to 180°C.",
+    "Fry the fritters in batches until golden brown.",
+    "Drain the fritters on paper towels.",
+    "Serve the fritters with a jammy dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "scamorza",
+    "cheese",
+    "dipping-sauce"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-crispy-venezuelan-scamorza-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:20:20.441Z"
+}
