@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-smoky-chinese-pig-char-siu-bao--keto",
+  "title": "Keto Chinese BBQ Pork Bao",
+  "description": "A keto version of the classic Chinese BBQ pork bao. This recipe is low in carbs and high in fat.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Make sure to get a piece with a good balance of meat and fat."
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "2 tablespoons",
+      "notes": "This spice blend is a key component of Chinese BBQ sauce."
+    },
+    {
+      "name": "Siu bao sauce",
+      "amount": "1/4 cup",
+      "notes": "You can make your own or use store-bought."
+    },
+    {
+      "name": "Char siu",
+      "amount": "2 tablespoons",
+      "notes": "This is a type of Chinese BBQ sauce. You can use either store-bought or homemade."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": "To make the keto bao dough."
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "To bind the dough together."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "To cook the pork and the bao."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together the Chinese five-spice and siu bao sauce.",
+    "Rub the spice mixture all over the pork belly, making sure to coat it evenly.",
+    "Place the pork belly in a baking dish and roast for 20 minutes.",
+    "While the pork is cooking, make the keto bao dough by mixing together the almond flour, eggs, and coconut oil.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your bao to be.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a piece of the pork belly in the center of each dough circle.",
+    "Fold the dough over the pork to form a half-moon shape and press the edges together to seal the bao.",
+    "Place the bao on a baking sheet lined with parchment paper.",
+    "Brush the tops of the bao with char siu and bake for an additional 10-15 minutes, or until the dough is golden brown.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "chinese",
+    "bbq",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-chinese-pig-char-siu-bao--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:46:32.033Z"
+}
