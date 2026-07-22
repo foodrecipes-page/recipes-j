@@ -9434,17 +9434,14 @@
   },
   {
     "slug": "juicy-brazilian-minari-burger",
-    "title": "Brazilian Minari Burger",
+    "title": "Brazilian Burger",
     "tags": [
-      "brazilian",
-      "burgers",
-      "meat-alternative",
-      "minari",
-      "vegan",
-      "veggie"
+      "burger",
+      "beef",
+      "grilled"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -19643,6 +19640,19 @@
       "padron"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-greek-rice-risotto--gluten-free",
+    "title": "Greek Jazzy Risotto",
+    "tags": [
+      "greek",
+      "risotto",
+      "gluten-free",
+      "lunch"
+    ],
+    "cuisine": "Greek",
     "totalTimeMin": 25,
     "shard": "j"
   }
