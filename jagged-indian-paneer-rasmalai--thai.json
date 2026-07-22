@@ -1,0 +1,93 @@
+{
+  "slug": "jagged-indian-paneer-rasmalai--thai",
+  "title": "Thai Paneer Curry",
+  "description": "A twist on traditional Indian paneer, this Thai-inspired dish combines the creaminess of rasmalai with the bold flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jagged",
+      "amount": "2 inches",
+      "notes": "julienned"
+    },
+    {
+      "name": "paneer",
+      "amount": "8 oz",
+      "notes": "cubed"
+    },
+    {
+      "name": "rasmalai",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a pan over medium heat.",
+    "Add the jagged and sauté for 2 minutes.",
+    "Add the cubed paneer and cook for 3 minutes.",
+    "Add the crushed rasmalai and stir well.",
+    "Add the garlic, ginger, curry powder, cumin powder, and coriander powder. Cook for 1 minute.",
+    "Season with salt to taste.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "paneer",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-indian-paneer-rasmalai--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:47:22.191Z"
+}
