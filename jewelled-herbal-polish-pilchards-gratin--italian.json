@@ -1,0 +1,90 @@
+{
+  "slug": "jewelled-herbal-polish-pilchards-gratin--italian",
+  "title": "Baked Pilchard Gratinee with Jewelled Rice",
+  "description": "A hearty Italian-inspired dish featuring pilchards baked in a gratin with a side of jewelled rice. Perfect for a cozy dinner with family and friends.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can (drained and flaked)",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or low-fat"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": "heavy or whipping"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "jewelled rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herbal seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the polish sausage and garlic until browned.",
+    "In a separate saucepan, combine the milk, cream, and parmesan cheese. Heat over medium heat, stirring constantly, until the cheese is melted and the sauce is smooth.",
+    "Add the pilchards, herbal seasoning, and cooked sausage mixture to the saucepan. Stir to combine.",
+    "Transfer the mixture to a baking dish and top with additional parmesan cheese.",
+    "Bake for 20-25 minutes, or until the cheese is golden brown and bubbly.",
+    "While the pilchard gratin is baking, prepare the jewelled rice according to package instructions.",
+    "Serve the pilchard gratin over the jewelled rice and enjoy!",
+    "Cook the butter in a pan until it has melted and it has a nice golden brown color.",
+    "Add the melted butter to the pilchard gratin and sprinkle with parmesan cheese.",
+    "Return the pilchard gratin to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pilchards",
+    "gratin",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewelled-herbal-polish-pilchards-gratin--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:23:12.333Z"
+}
