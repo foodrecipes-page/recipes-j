@@ -1,0 +1,68 @@
+{
+  "slug": "jazzy-velvety-russian-egg-frittata--chinese",
+  "title": "Chinese Egg Frittata",
+  "description": "A fusion of Chinese and Italian flavors in a simple egg dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "4"
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": "optional, can be omitted"
+    },
+    {
+      "name": "Jazzy",
+      "amount": "1 tsp",
+      "notes": "ground Szechuan pepper"
+    },
+    {
+      "name": "Velvety",
+      "amount": "1 tsp",
+      "notes": "ground sesame oil"
+    },
+    {
+      "name": "Russian",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tbsp of oil over medium heat.",
+    "Add the ground Szechuan pepper and cook for 1 minute.",
+    "Push the pepper mixture to one side of the pan.",
+    "Crack the eggs into the other side of the pan and scramble them.",
+    "Mix the eggs with the pepper mixture.",
+    "Add the ground sesame oil and black pepper. Mix well.",
+    "If using frittata, crumble it into the eggs and mix well.",
+    "Transfer the egg mixture to a greased 9-inch round baking dish.",
+    "Bake for 20-25 minutes or until the eggs are set.",
+    "Remove from the oven and let it cool for 5 minutes.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese-fusion",
+    "egg-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-velvety-russian-egg-frittata--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:13:20.324Z"
+}
