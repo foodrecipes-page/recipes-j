@@ -1,0 +1,97 @@
+{
+  "slug": "jagged-saudi-arabian-beef-kidney-tagine--chinese",
+  "title": "Chinese Beef Tagine",
+  "description": "A Chinese-inspired twist on traditional Moroccan tagine, using beef and aromatic spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Kidney",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jagged (Red) Potatoes",
+      "amount": "3-4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Saud Arabian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Saud Arabian Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Five-Spice Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Arabian Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Saud Arabian Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Saud Arabian Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef kidney and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the sliced potatoes to the pot and cook until they start to brown, about 5 minutes.",
+    "Add the cumin, five-spice powder, tagine spice mix, salt, and black pepper to the pot and stir to combine.",
+    "Return the beef kidney to the pot and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the paprika and cook for an additional 10 minutes.",
+    "Serve hot, garnished with parsley.",
+    "Let the dish rest for 10 minutes before serving.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-saudi-arabian-beef-kidney-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:25:59.419Z"
+}
