@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-fermented-italian-savoy-cabbage-vitello-tonnato--thai",
+  "title": "Thai-Style Cabbage Stir Fry with Savoy Cabbage Slaw",
+  "description": "A fusion dish that combines the crunch of cabbage with the flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "juicy cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "italian fermented vegetables",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vitello",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tonnato sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok over medium-high heat.",
+    "Add sliced vitello and cook until browned, about 3 minutes.",
+    "Add shredded cabbage and cook until wilted, about 2 minutes.",
+    "Add fish sauce, lime juice, and chili flakes. Stir to combine.",
+    "Add fermented vegetables and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot with a side of savoy cabbage slaw.",
+    "For the slaw, combine shredded savoy cabbage, lime juice, and fish sauce in a bowl.",
+    "Toss to combine and season with salt to taste.",
+    "Garnish with toasted chopped nuts or seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "cabbage",
+    "stir-fry",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-fermented-italian-savoy-cabbage-vitello-tonnato--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:06:17.434Z"
+}
