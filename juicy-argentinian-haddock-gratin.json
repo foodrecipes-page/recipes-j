@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-argentinian-haddock-gratin",
+  "title": "Argentinian Haddock Gratin",
+  "description": "A simple, flavorful dish from Argentina, featuring pan-seared haddock topped with a creamy gratin.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "2 fillets",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the haddock fillets with salt and pepper.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Add the haddock fillets and cook for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "While the haddock is baking, mix the diced tomatoes, onion, garlic, and lemon juice in a bowl.",
+    "Stir in the grated parmesan cheese.",
+    "Remove the skillet from the oven and top each haddock fillet with the tomato mixture.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, until the top is golden brown.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "fish",
+    "gratin",
+    "haddock"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-argentinian-haddock-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:17:27.171Z"
+}
