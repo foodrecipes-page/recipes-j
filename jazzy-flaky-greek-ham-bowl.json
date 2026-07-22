@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-flaky-greek-ham-bowl",
+  "title": "Jazzy Greek Ham Bowl",
+  "description": "A delicious and healthy bowl filled with juicy ham, crispy greek yogurt, and crunchy vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ham",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Flaky crackers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jazzy pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together Greek yogurt and jazzy pepper.",
+    "Add sliced ham on top of the yogurt mixture.",
+    "Sprinkle flaky crackers on top of the ham.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-flaky-greek-ham-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:32:30.585Z"
+}
