@@ -1,0 +1,63 @@
+{
+  "slug": "jazzy-greek-rice-risotto--gluten-free",
+  "title": "Greek Jazzy Risotto",
+  "description": "A flavorful and gluten-free risotto dish, blending the freshness of Greek herbs with the unique taste of jazzy ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jazzy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "greek",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "risotto",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water to 180°F (82°C).",
+    "In a large skillet, sauté 1 cup of rice in 2 tbsp of greek until lightly toasted.",
+    "Add 1 cup of jazzy to the skillet and stir well.",
+    "Add 2 cups of risotto to the skillet and stir well.",
+    "Add the hot water to the skillet, 1 cup at a time, stirring continuously.",
+    "Cook for 15-20 minutes or until the risotto is creamy and tender.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "risotto",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-greek-rice-risotto--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:01:19.649Z"
+}
