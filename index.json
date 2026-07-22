@@ -2878,16 +2878,14 @@
   },
   {
     "slug": "jazzed-up-vietnamese-kippers-vietnamese-kippers-mini-bun-cha",
-    "title": "Jazzed-Up Vietnamese Kippers Mini Bun Cha",
+    "title": "Vietnamese Kipper Mini Buns",
     "tags": [
-      "dinner-ideas",
-      "fodmap-friendly",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "fish",
+      "snack"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 16,
     "shard": "j"
   },
   {
@@ -5352,16 +5350,14 @@
   },
   {
     "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones",
-    "title": "Jewel Toned Peruvian Shrimp Chupe De Camarones",
+    "title": "Camarones con Chupe de Mariscos",
     "tags": [
-      "comfort-food",
-      "one-pot-meal",
-      "ovo-vegetarian-friendly",
-      "peruvian-cuisine",
-      "seafood-stew"
+      "seafood",
+      "peruvian",
+      "stew"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -8221,16 +8217,16 @@
   },
   {
     "slug": "jubilant-roasted-german-pork-roast",
-    "title": "Jubilant Roasted German Pork Roast",
+    "title": "German Roast Pork",
     "tags": [
-      "cataplana-recipe",
-      "festive-dinner",
-      "german-cuisine",
-      "roasted-meat",
-      "shojin-friendly"
+      "german",
+      "pork",
+      "roast",
+      "beef",
+      "main-course"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 100,
+    "cuisine": "german",
+    "totalTimeMin": 165,
     "shard": "j"
   },
   {
@@ -9223,17 +9219,15 @@
   },
   {
     "slug": "juicy-argentinian-haddock-gratin",
-    "title": "Juicy Argentinian Haddock Gratin",
+    "title": "Argentinian Haddock Gratin",
     "tags": [
-      "argentinian-cuisine",
-      "bain-marie",
-      "cheesy",
-      "lazy-sunday",
-      "pescatarian",
-      "wine-based"
+      "argentinian",
+      "fish",
+      "gratin",
+      "haddock"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
