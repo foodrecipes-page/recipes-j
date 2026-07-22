@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-brazilian-minari-burger",
+  "title": "Brazilian Burger",
+  "description": "A classic Brazilian-inspired burger with juicy beef and crispy minari.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy beef patties",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Minari leaves",
+      "amount": "4",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Brazilian burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the beef patties with salt and pepper.",
+    "3. Grill the beef patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "4. Meanwhile, grill the minari leaves for 1-2 minutes per side, or until they're crispy.",
+    "5. Grill the bacon slices until crispy.",
+    "6. Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a beef patty, bacon, minari, cheese, lettuce, tomato, and onion.",
+    "7. Top with the top bun.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "beef",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-brazilian-minari-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:44:52.713Z"
+}
