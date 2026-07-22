@@ -1,0 +1,81 @@
+{
+  "slug": "jazzed-up-vietnamese-kippers-vietnamese-kippers-mini-bun-cha",
+  "title": "Vietnamese Kipper Mini Buns",
+  "description": "A fusion of Vietnamese flavors with the richness of smoked kippers, served in a crispy mini bun.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "4",
+      "notes": "smoked"
+    },
+    {
+      "name": "mini bun",
+      "amount": "1 package",
+      "notes": "preferably Vietnamese-style"
+    },
+    {
+      "name": "vietnamese chili sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha mayo"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": "softened"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Split the mini buns in half and toast until lightly browned.",
+    "Butter the kippers and grill for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, mix the chili sauce and butter in a small bowl.",
+    "Assemble the buns by spreading the chili sauce mixture on the bottom half, followed by a kipper fillet, a few slices of pickled carrot, a sprinkle of cilantro, and finally the top half of the bun.",
+    "Garnish with green onions and sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "fish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzed-up-vietnamese-kippers-vietnamese-kippers-mini-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:04:49.528Z"
+}
