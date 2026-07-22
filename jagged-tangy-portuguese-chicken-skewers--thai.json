@@ -1,0 +1,85 @@
+{
+  "slug": "jagged-tangy-portuguese-chicken-skewers--thai",
+  "title": "Thai-Style Chicken Skewers",
+  "description": "Spicy and tangy, these Thai-style chicken skewers are a refreshing twist on traditional grilled chicken. Marinated in a blend of Thai spices, they're perfect for a quick and easy dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "jagged portuguese cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "tangy hot sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine hot sauce, fish sauce, brown sugar, garlic, and lemon juice. Blend until smooth.",
+    "3. Thread chicken onto skewers, leaving a small space between each piece.",
+    "4. Brush coconut oil onto both sides of the chicken.",
+    "5. Place skewers on the grill and cook for 8-10 minutes, or until chicken is cooked through.",
+    "6. During the last 2-3 minutes of cooking, brush the skewers with the blended sauce.",
+    "7. Remove skewers from the grill and let rest for a few minutes.",
+    "8. If using, sprinkle crumbled portuguese cheese over the top of the chicken.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tangy-portuguese-chicken-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:59:07.314Z"
+}
