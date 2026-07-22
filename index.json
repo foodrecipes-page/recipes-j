@@ -19539,5 +19539,56 @@
     "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-saudi-arabian-beef-kidney-tagine--chinese",
+    "title": "Chinese Beef Tagine",
+    "tags": [
+      "chinese",
+      "beef",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 110,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-velvety-russian-egg-frittata--chinese",
+    "title": "Chinese Egg Frittata",
+    "tags": [
+      "breakfast",
+      "chinese-fusion",
+      "egg-dish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-tender-brittany-bacon-boil--gluten-free",
+    "title": "Brittany's Gluten-Free Boil Up",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "gluten-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jewelled-herbal-polish-pilchards-gratin--italian",
+    "title": "Baked Pilchard Gratinee with Jewelled Rice",
+    "tags": [
+      "italian",
+      "pilchards",
+      "gratin",
+      "seafood",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
