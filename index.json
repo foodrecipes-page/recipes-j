@@ -19655,5 +19655,31 @@
     "cuisine": "Greek",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-buttery-syrian-v-sterbottensost-cheese-flatbread--indian",
+    "title": "Syrian-Style Flatbread with Sterbottensost Cheese",
+    "tags": [
+      "indian",
+      "flatbread",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 12,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-fermented-italian-savoy-cabbage-vitello-tonnato--thai",
+    "title": "Thai-Style Cabbage Stir Fry with Savoy Cabbage Slaw",
+    "tags": [
+      "thai",
+      "cabbage",
+      "stir-fry",
+      "slaw"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "j"
   }
 ]
