@@ -1,0 +1,89 @@
+{
+  "slug": "jagged-tangy-portuguese-chicken-skewers",
+  "title": "Grilled Chicken Skewers with Jagged Tangy Sauce",
+  "description": "A flavorful and spicy dish featuring chicken skewers marinated in a tangy sauce, served with a side of portuguese flair.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged Tangy Sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "port wine",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine jagged tangy sauce ingredients and blend until smooth.",
+    "2. In a large bowl, whisk together port wine, olive oil, garlic, lemon juice, salt, and pepper.",
+    "3. Add the chicken breast to the marinade and mix well.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Preheat grill to medium-high heat.",
+    "6. Thread the chicken breast onto the portuguese skewers.",
+    "7. Brush the grill with olive oil to prevent sticking.",
+    "8. Grill the chicken skewers for 8-10 minutes per side, or until cooked through.",
+    "9. Brush the jagged tangy sauce onto the chicken skewers during the last minute of grilling.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "portuguese-cuisine",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tangy-portuguese-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:47:36.479Z"
+}
