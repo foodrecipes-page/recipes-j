@@ -3298,17 +3298,15 @@
   },
   {
     "slug": "jazzy-flaky-greek-ham-bowl",
-    "title": "Jazzy Flaky Greek Ham Bowl",
+    "title": "Jazzy Greek Ham Bowl",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "greek",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 5,
     "shard": "j"
   },
   {
@@ -19624,6 +19622,33 @@
       "vegetarian"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-algerian-tomato-tagine--indian",
+    "title": "Chicken Tagine with Tomato and Spice",
+    "tags": [
+      "indian",
+      "chicken",
+      "tagine",
+      "spice",
+      "tomato"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-quick-norwegian-padron-peppers-grill--mexican",
+    "title": "Grilled Padron Peppers with Norwegian Chorizo",
+    "tags": [
+      "mexican",
+      "grilled",
+      "chorizo",
+      "padron"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "j"
   }
