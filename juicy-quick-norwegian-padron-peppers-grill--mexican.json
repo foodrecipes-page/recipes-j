@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-quick-norwegian-padron-peppers-grill--mexican",
+  "title": "Grilled Padron Peppers with Norwegian Chorizo",
+  "description": "A Mexican-inspired twist on traditional grilled peppers, featuring Norwegian chorizo and juicy peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian Chorizo",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Padron Peppers",
+      "amount": "4-6",
+      "notes": "thick, green peppers"
+    },
+    {
+      "name": "Juicy Peppers",
+      "amount": "2",
+      "notes": "red, bell-shaped"
+    },
+    {
+      "name": "Quick Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Slice the Norwegian Chorizo into 1-inch pieces.",
+    "Grill the chorizo for 2-3 minutes per side, or until browned.",
+    "Grill the Padron Peppers for 3-4 minutes per side, or until blistered.",
+    "Grill the Juicy Peppers for 4-5 minutes per side, or until tender.",
+    "Brush the peppers with Quick Olive Oil and season with salt and pepper.",
+    "Serve the grilled chorizo and peppers together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "grilled",
+    "chorizo",
+    "padron"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-quick-norwegian-padron-peppers-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:35:11.770Z"
+}
