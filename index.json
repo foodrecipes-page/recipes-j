@@ -19613,5 +19613,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-indian-paneer-rasmalai--thai",
+    "title": "Thai Paneer Curry",
+    "tags": [
+      "thai",
+      "paneer",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
