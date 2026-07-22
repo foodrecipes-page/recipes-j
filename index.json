@@ -19679,5 +19679,30 @@
     "cuisine": "thai",
     "totalTimeMin": 23,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-garlicky-norwegian-fish-skillet--french",
+    "title": "Pan-Seared Fish with Garlic Crust",
+    "tags": [
+      "fish",
+      "french",
+      "garlic",
+      "delicious"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jvanilla-spiced-ancho-chile-quesadilla--mexican",
+    "title": "Spicy Quesadilla Filling",
+    "tags": [
+      "mexican",
+      "spicy",
+      "quesadilla"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
