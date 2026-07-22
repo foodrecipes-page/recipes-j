@@ -1,0 +1,65 @@
+{
+  "slug": "juicy-buttery-syrian-v-sterbottensost-cheese-flatbread--indian",
+  "title": "Syrian-Style Flatbread with Sterbottensost Cheese",
+  "description": "A flavorful and savory flatbread dish inspired by Indian cuisine, featuring the unique taste of Swedish Sterbottensost cheese.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably warm"
+    },
+    {
+      "name": "Sterbottensost cheese",
+      "amount": "120g, crumbled",
+      "notes": "use high-quality cheese"
+    },
+    {
+      "name": "Buttery",
+      "amount": "20g, softened",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/2 cup, chopped fresh cilantro",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 tsp, ground cumin",
+      "notes": "for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with buttery, then sprinkle with crumbled Sterbottensost cheese.",
+    "Bake in the oven for 5-7 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and sprinkle with chopped cilantro (if using).",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "flatbread",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-syrian-v-sterbottensost-cheese-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:03:20.127Z"
+}
