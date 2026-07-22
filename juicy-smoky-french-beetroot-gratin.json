@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-smoky-french-beetroot-gratin",
+  "title": "Smoky Beetroot Gratin",
+  "description": "A delicious French-inspired beetroot gratin with a smoky twist.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 large"
+    },
+    {
+      "name": "Jusly roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoked cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Slice the beetroot into 1cm thick rounds.",
+    "3. In a separate bowl, mix together the roasted garlic, smoked cheddar cheese, and heavy cream.",
+    "4. Grease a small baking dish with butter.",
+    "5. Arrange a layer of beetroot slices in the dish.",
+    "6. Pour some of the cheese and cream mixture over the beetroot.",
+    "7. Repeat steps 5 and 6 until all the ingredients are used up, finishing with a layer of cheese on top.",
+    "8. Dot the top of the gratin with butter.",
+    "9. Bake in the preheated oven for 25-30 minutes, or until the top is golden brown.",
+    "10. Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "gratin",
+    "french",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-french-beetroot-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:32:19.786Z"
+}
