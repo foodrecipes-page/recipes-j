@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-algerian-tomato-tagine--indian",
+  "title": "Chicken Tagine with Tomato and Spice",
+  "description": "A flavorful Indian-inspired dish made with juicy chicken, algerian spice, and fresh tomato, cooked to perfection in a traditional tagine.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "algerian spice",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "juicy olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the chicken in a hot skillet with ghee or oil until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion, ginger, cumin, coriander, and salt to the skillet and cook until the onion is translucent.",
+    "Add the diced tomato and cook for an additional 2-3 minutes.",
+    "Stir in the algerian spice and cook for 1 minute.",
+    "Return the chicken to the skillet and simmer for 5-7 minutes to allow the flavors to meld.",
+    "Stir in the pitted and sliced olives and cook for an additional 1-2 minutes.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with chopped fresh cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "tagine",
+    "spice",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-algerian-tomato-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:09:18.922Z"
+}
