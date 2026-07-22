@@ -1,0 +1,70 @@
+{
+  "slug": "jazzy-garlicky-norwegian-fish-skillet--french",
+  "title": "Pan-Seared Fish with Garlic Crust",
+  "description": "A classic French dish featuring a flavorful garlic crust on a pan-seared fish fillet, served with a side of steamed vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Norwegian)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Jazzy (butter or margarine)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the fish fillet and pat dry with a paper towel.",
+    "3. In a small bowl, mix together minced garlic and jazzy.",
+    "4. Place the fish fillet on a flat surface and spread the garlic-jazzy mixture evenly on top.",
+    "5. Season with salt and pepper to taste.",
+    "6. Heat a skillet over medium-high heat and add a small amount of jazzy.",
+    "7. Add the fish fillet to the skillet and sear for 2-3 minutes on each side.",
+    "8. Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "9. Remove the fish from the oven and let it rest for a few minutes before serving.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "french",
+    "garlic",
+    "delicious"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-garlicky-norwegian-fish-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:32:20.935Z"
+}
