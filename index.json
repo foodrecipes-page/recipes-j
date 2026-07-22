@@ -15049,17 +15049,15 @@
   },
   {
     "slug": "juicy-smoky-french-beetroot-gratin",
-    "title": "Juicy Smoky French Beetroot Gratin",
+    "title": "Smoky Beetroot Gratin",
     "tags": [
-      "beetroot-recipe",
-      "french-cuisine",
+      "beetroot",
       "gratin",
-      "kid-friendly",
-      "ovo-vegetarian",
-      "smoky-flavor"
+      "french",
+      "smoky"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -19589,6 +19587,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzed-moroccan-eggplant-tagine--german",
+    "title": "German Eggplant Tagine",
+    "tags": [
+      "eggplant",
+      "german",
+      "moroccan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-tangy-portuguese-chicken-skewers--thai",
+    "title": "Thai-Style Chicken Skewers",
+    "tags": [
+      "thai",
+      "chicken",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
