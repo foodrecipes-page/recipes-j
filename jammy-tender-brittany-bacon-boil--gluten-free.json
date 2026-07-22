@@ -1,0 +1,65 @@
+{
+  "slug": "jammy-tender-brittany-bacon-boil--gluten-free",
+  "title": "Brittany's Gluten-Free Boil Up",
+  "description": "A hearty boil made with tender chunks of meat and a hint of jammy sweetness, perfect for a comforting meal.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Brittany potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "jammy carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "boil seasoning",
+      "amount": "1 teaspoon",
+      "notes": "use a gluten-free blend"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil.",
+    "2. Add the beef and cook until browned, about 5 minutes.",
+    "3. Add the bacon and cook until crispy, about 3 minutes.",
+    "4. Add the potatoes, onions, and carrots to the pot.",
+    "5. Sprinkle the boil seasoning over the top and stir to combine.",
+    "6. Reduce heat to medium-low and simmer, covered, for 20 minutes.",
+    "7. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-brittany-bacon-boil--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:17:59.840Z"
+}
