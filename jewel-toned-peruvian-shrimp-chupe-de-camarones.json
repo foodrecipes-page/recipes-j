@@ -1,0 +1,78 @@
+{
+  "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones",
+  "title": "Camarones con Chupe de Mariscos",
+  "description": "A Peruvian-style seafood stew with succulent shrimp and a flavorful chupe de mariscos sauce.",
+  "cuisine": "peruvian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chupe",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "ají amarillo paste"
+    },
+    {
+      "name": "jewel",
+      "amount": "1 medium",
+      "notes": "yellow onion, diced"
+    },
+    {
+      "name": "toned",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "de",
+      "amount": "1 cup",
+      "notes": "fish stock"
+    },
+    {
+      "name": "camarones",
+      "amount": "1 teaspoon",
+      "notes": "shrimp broth powder"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chupe de mariscos and cook for 2 minutes.",
+    "Add the fish stock, shrimp broth powder, and ají amarillo paste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer.",
+    "Add the peeled and deveined shrimp and cook until pink and cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "peruvian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:03:52.000Z"
+}
