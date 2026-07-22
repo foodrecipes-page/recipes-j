@@ -1,0 +1,102 @@
+{
+  "slug": "justly-sweet-portuguese-macaroni-pasta",
+  "title": "Baked Macaroni Pasta",
+  "description": "A simple Portuguese-inspired pasta bake with justly cooked macaroni and sweet flavors.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Justly",
+      "amount": "1 cup",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Sweet",
+      "amount": "",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Portuguese",
+      "amount": "",
+      "notes": "for flavor",
+      "unit": ""
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "8 oz",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "",
+      "unit": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "",
+      "notes": "",
+      "unit": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté garlic, salt, and pepper until fragrant.",
+    "Add butter and stir until melted.",
+    "Add justly and sweet and stir until combined.",
+    "Stir in cooked macaroni.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Sprinkle with grated Parmesan and Mozzarella.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "pasta",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justly-sweet-portuguese-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:21:19.281Z"
+}
