@@ -1,0 +1,88 @@
+{
+  "slug": "jazzed-moroccan-eggplant-tagine--german",
+  "title": "German Eggplant Tagine",
+  "description": "A twist on traditional Moroccan tagine, this German-inspired dish features eggplant as the main ingredient.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "about 1 inch thick"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 jar",
+      "notes": "couscous spice blend"
+    },
+    {
+      "name": "jazzed",
+      "amount": "1 tsp",
+      "notes": "german-style seasoning blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut eggplant in half lengthwise and scoop out the insides.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sauté chopped onion and minced garlic until softened.",
+    "Add Moroccan spice blend and German seasoning blend; cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add heavy cream (if using) and stir to combine.",
+    "Place eggplant halves in a baking dish and spoon the tagine mixture into the eggplant.",
+    "Bake for 20-25 minutes or until eggplant is tender.",
+    "Serve with crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "german",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzed-moroccan-eggplant-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:44:41.345Z"
+}
