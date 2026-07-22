@@ -1,0 +1,81 @@
+{
+  "slug": "jubilant-roasted-german-pork-roast",
+  "title": "German Roast Pork",
+  "description": "A classic German-inspired dish featuring a tender and juicy roasted pork shoulder.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "roasted german beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "jubilant spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "3-4 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (165°C).",
+    "Season the pork shoulder with salt, pepper, and jubilant spices.",
+    "Heat the roasted german beer in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a plate and set aside.",
+    "Add the roasted vegetables and roast potatoes to the pot, cooking for 5 minutes.",
+    "Return the pork to the pot and add enough liquid to cover the bottom of the pot.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Braise the pork for 2-1/2 to 3 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "roast",
+    "beef",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-roasted-german-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:21:48.037Z"
+}
