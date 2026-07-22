@@ -1,0 +1,64 @@
+{
+  "slug": "jvanilla-spiced-ancho-chile-quesadilla--mexican",
+  "title": "Spicy Quesadilla Filling",
+  "description": "A flavorful and spicy filling for quesadillas, made with ancho chile and jvanilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ancho chile",
+      "amount": "2 dried chiles",
+      "notes": "rehydrated and chopped"
+    },
+    {
+      "name": "jvanilla",
+      "amount": "2 pods",
+      "notes": "split and seeds removed"
+    },
+    {
+      "name": "spiced",
+      "amount": "1 tsp ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "quesadilla",
+      "amount": "4 large tortillas",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rehydrate the ancho chile by soaking it in hot water for 20 minutes.",
+    "Remove the seeds and chop the rehydrated ancho chile.",
+    "Split the jvanilla pods and remove the seeds.",
+    "Heat a large skillet over medium heat.",
+    "Add the chopped ancho chile and cook for 2 minutes.",
+    "Add the ground cumin and cook for another minute.",
+    "Add the chopped jvanilla and cook for 2 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the quesadillas by filling the tortillas with the spicy filling and folding them in half.",
+    "Cook the quesadillas in the skillet for 2-3 minutes on each side, until crispy and melted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "spicy",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jvanilla-spiced-ancho-chile-quesadilla--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:06:06.386Z"
+}
