@@ -19825,5 +19825,19 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae--japanese",
+    "title": "Robata-Style Korean Bean Dishes",
+    "tags": [
+      "korean",
+      "japanese",
+      "beans",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
