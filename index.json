@@ -19773,5 +19773,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-crispy-german-collard-flatbread--gluten-free",
+    "title": "German Collard Greens Flatbread",
+    "tags": [
+      "gluten-free",
+      "german",
+      "collard-greens",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
