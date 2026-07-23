@@ -15917,17 +15917,15 @@
   },
   {
     "slug": "juicy-sweet-zanzibari-dum-stir-fry",
-    "title": "Juicy Sweet Zanzibari Dum Stir-fry",
+    "title": "Sweet Zanzibari Dum Stir-Fry",
     "tags": [
-      "sweet",
-      "juicy",
-      "zanzibari",
-      "dumpling",
       "stir-fry",
-      "vegetarian"
+      "asian-cuisine",
+      "vegetarian",
+      "quick-meal"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "j"
   },
   {
