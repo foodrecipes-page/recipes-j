@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-silky-polish-trout-pilaf",
+  "title": "Polish Trout Pilaf",
+  "description": "A flavorful and nutritious pilaf dish infused with the delicate taste of trout, perfect for a dinner meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Trout fillet",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat. Add sliced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add Polish sausage and cook until browned, about 5 minutes.",
+    "Add pilaf to the skillet and stir to combine with sausage and onion mixture.",
+    "Add trout fillet to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve trout on top of pilaf mixture.",
+    "Cook for an additional 2-3 minutes to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "trout",
+    "pilaf",
+    "sausage",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-polish-trout-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:48:42.689Z"
+}
