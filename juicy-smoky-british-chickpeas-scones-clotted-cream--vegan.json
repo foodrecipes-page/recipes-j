@@ -1,0 +1,54 @@
+{
+  "slug": "juicy-smoky-british-chickpeas-scones-clotted-cream--vegan",
+  "title": "Scones with Clotted Cream Alternative",
+  "description": "A vegan twist on a classic British dessert, using chickpea-based clotted cream and served with a side of juicy, smoky fruits.",
+  "cuisine": "british",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "scones",
+      "amount": "6-8"
+    },
+    {
+      "name": "chickpea cream",
+      "amount": "1 cup",
+      "notes": "made by blending 1 can chickpeas with 1/4 cup maple syrup and 1/4 cup lemon juice"
+    },
+    {
+      "name": "smoky fruit",
+      "amount": "1 cup",
+      "notes": "such as grilled or poached apples or pears"
+    },
+    {
+      "name": "juicy fruit",
+      "amount": "1 cup",
+      "notes": "such as fresh berries or sliced peaches"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut scones in half horizontally.",
+    "Spread a layer of chickpea cream on each scone.",
+    "Top with a spoonful of smoky fruit.",
+    "Garnish with a sprinkle of juicy fruit.",
+    "Serve warm or at room temperature.",
+    "Enjoy as a vegan dessert or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "british",
+    "dessert"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoky-british-chickpeas-scones-clotted-cream--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:10:03.287Z"
+}
