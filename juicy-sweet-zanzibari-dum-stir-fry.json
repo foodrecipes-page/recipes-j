@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-sweet-zanzibari-dum-stir-fry",
+  "title": "Sweet Zanzibari Dum Stir-Fry",
+  "description": "A quick and flavorful stir-fry with sweet and savory Zanzibari spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet dum",
+      "amount": "1 cup",
+      "notes": "any type of dum"
+    },
+    {
+      "name": "Zanzibari stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 30 seconds.",
+    "Add the chopped green onions and stir-fry for 1 minute.",
+    "Add the Zanzibari stir-fry sauce and stir-fry for 1 minute.",
+    "Add the sweet dum and stir-fry for 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter and sprinkle with sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "asian-cuisine",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-zanzibari-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:01:14.273Z"
+}
