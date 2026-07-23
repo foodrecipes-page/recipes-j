@@ -1,0 +1,80 @@
+{
+  "slug": "juicy-creamy-turkish-aubergine-dolma--italian",
+  "title": "Turkish Dolma Stuffed Aubergine",
+  "description": "A creative twist on traditional Italian aubergine recipes, using Turkish dolma as a filling.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "turkish dolma",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the aubergine in half lengthwise and scoop out the insides, leaving a shell about 1/4 inch thick.",
+    "3. In a pan, heat the olive oil over medium heat and cook the garlic until fragrant.",
+    "4. Add the Turkish dolma to the pan and cook until heated through.",
+    "5. Stuff each aubergine shell with the dolma mixture and top with parmesan cheese.",
+    "6. Season with salt to taste.",
+    "7. Place the stuffed aubergines on a baking sheet and bake for 25-30 minutes, or until tender.",
+    "8. Garnish with chopped parsley, if desired.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegan-option",
+    "aubergine",
+    "stuffed",
+    "dolma"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:17:50.719Z"
+}
