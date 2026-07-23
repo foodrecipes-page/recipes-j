@@ -14896,17 +14896,15 @@
   },
   {
     "slug": "juicy-smoked-roman-italian-black-beans-tacos",
-    "title": "Juicy Smoked Roman Black Bean Tacos",
+    "title": "Smoked Italian Black Bean Tacos",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "roman-italian",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "tacos",
+      "sausage",
+      "beans"
     ],
-    "cuisine": "roman italian",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -15776,17 +15774,15 @@
   },
   {
     "slug": "juicy-sweet-mexican-bananas-tostada",
-    "title": "Juicy Sweet Mexican Bananas Tostada",
+    "title": "Mexican Banana Tostada",
     "tags": [
-      "diabetic-friendly",
-      "fried-bananas",
-      "gluten-free",
-      "mexican-dish",
-      "sweet-treat",
-      "tostada-recipe"
+      "dessert",
+      "mexican",
+      "banana",
+      "tostada"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -19838,6 +19834,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones--french",
+    "title": "Camarones a la Peruvienne",
+    "tags": [
+      "french",
+      "peruvian",
+      "seafood",
+      "shrimp",
+      "smoky"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
     "shard": "j"
   }
 ]
