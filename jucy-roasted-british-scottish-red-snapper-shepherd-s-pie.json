@@ -1,0 +1,80 @@
+{
+  "slug": "jucy-roasted-british-scottish-red-snapper-shepherd-s-pie",
+  "title": "Scottish Shepherd's Pie",
+  "description": "A traditional Scottish dish made with ground meat and topped with a layer of mashed potatoes and cheese.",
+  "cuisine": "Scottish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peas",
+      "amount": "150g"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "4-5"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a large pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and carrot to the pan and cook until the vegetables are softened.",
+    "Add the peas, red wine, and beef broth to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Meanwhile, prepare the mashed potatoes by boiling them in salted water until they are tender.",
+    "Drain the potatoes and mash them with butter and milk.",
+    "Transfer the meat mixture to a baking dish and top with the mashed potatoes.",
+    "Sprinkle the grated cheese over the top of the potatoes.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the potatoes are golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "shepherds-pie",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-roasted-british-scottish-red-snapper-shepherd-s-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:40:27.597Z"
+}
