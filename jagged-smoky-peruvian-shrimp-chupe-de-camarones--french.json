@@ -1,0 +1,85 @@
+{
+  "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones--french",
+  "title": "Camarones a la Peruvienne",
+  "description": "A French-inspired Peruvian-style shrimp recipe with a smoky twist. This easy-to-make dish is perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged Peruvian Aji Amarillo Chili",
+      "amount": "2-3",
+      "notes": "diced"
+    },
+    {
+      "name": "Shrimp (Camorones de Mar)",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Smoked Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "De Camarones Fish Stock",
+      "amount": "1 cup",
+      "notes": "chicken or seafood stock as substitute"
+    },
+    {
+      "name": "Chupe de Mar (Peruvian Seafood Stew Mix)",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with seafood seasoning"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the diced Aji Amarillo Chili and cook for 1-2 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the white wine and fish stock, and bring to a simmer.",
+    "Stir in the Chupe de Mar (or seafood seasoning) and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the shrimp hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peruvian",
+    "seafood",
+    "shrimp",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-peruvian-shrimp-chupe-de-camarones--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:22:39.392Z"
+}
