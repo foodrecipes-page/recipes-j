@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-sour-uruguayan-dough-empanadas--thai",
+  "title": "Uruguayan-Style Empanada Filling with Thai Twist",
+  "description": "A fusion recipe combining the flavors of Uruguay with the spicy kick of Thailand. Pan-seared empanadas filled with a savory beef filling, onions, and a hint of cumin, served with a side of tangy and sour chutney.",
+  "cuisine": "thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Beef",
+      "amount": "1 lb",
+      "notes": "ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Juicy Tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Sour Chutney",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Dough",
+      "amount": "1 package",
+      "notes": "empanada dough"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, cook the Uruguayan beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Stir in the cumin and cook for 1 minute.",
+    "Roll out the empanada dough and cut into circles.",
+    "Place a spoonful of the beef mixture onto one half of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops with egg wash and bake for 20-25 minutes or until golden brown.",
+    "Fry the empanadas in hot oil until crispy and golden brown.",
+    "Serve with a side of sour chutney for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "thai-fusion",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sour-uruguayan-dough-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:29:54.960Z"
+}
