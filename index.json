@@ -8839,11 +8839,12 @@
   },
   {
     "slug": "jucy-roasted-british-scottish-red-snapper-shepherd-s-pie",
-    "title": "Juicy Roasted British Scottish Red Snapper Shepherd's Pie",
+    "title": "Scottish Shepherd's Pie",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "scottish",
+      "shepherds-pie",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "Scottish",
     "totalTimeMin": 50,
@@ -19785,6 +19786,44 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoky-british-chickpeas-scones-clotted-cream--vegan",
+    "title": "Scones with Clotted Cream Alternative",
+    "tags": [
+      "vegan",
+      "british",
+      "dessert"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--vegan",
+    "title": "Stuffed Aubergine Dolma",
+    "tags": [
+      "vegan",
+      "turkish",
+      "healthy",
+      "aubergine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tender-greek-beans-fasolada--thai",
+    "title": "Thai-Style Fasolada Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "vegetarian",
+      "beans"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
