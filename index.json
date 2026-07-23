@@ -19704,5 +19704,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-tunisian-beef-kidney-tagine--gluten-free",
+    "title": "Tagine Beef Stew",
+    "tags": [
+      "north-african",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-russian-plum-pilaf--french",
+    "title": "French-Style Pilaf with Plum",
+    "tags": [
+      "french",
+      "vegetarian",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
