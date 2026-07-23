@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-british-cod-fish-and-chips--mexican",
+  "title": "Mexican Fish Tacos",
+  "description": "A twist on traditional British fish and chips, this Mexican-inspired dish features cod in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "corn"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "chips (tortilla chips)",
+      "amount": "1 bag",
+      "notes": "for serving"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1 cup",
+      "notes": "sour cream alternative"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Dredge cod fillets in flour and fry for 3-4 minutes on each side, or until golden brown.",
+    "Drain cod on paper towels and season with salt and pepper.",
+    "Warm corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a piece of cod on a tortilla, then topping with a spoonful of Mexican crema, diced onion, sliced radishes, and a sprinkle of cilantro.",
+    "Serve immediately, with tortilla chips on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-british-cod-fish-and-chips--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:23:24.362Z"
+}
