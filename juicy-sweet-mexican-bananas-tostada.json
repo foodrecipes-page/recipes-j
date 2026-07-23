@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-sweet-mexican-bananas-tostada",
+  "title": "Mexican Banana Tostada",
+  "description": "A sweet and unique dessert tostada featuring caramelized bananas and a crunchy tostada crust.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ripe Bananas",
+      "amount": "3",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Tostada Shells",
+      "amount": "4",
+      "notes": "Crunchy corn shells"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon for sprinkling"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": "For caramelizing bananas"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed lime juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange tostada shells on a baking sheet.",
+    "Bake for 5-7 minutes or until crispy and golden brown.",
+    "In a skillet, combine sliced bananas and brown sugar over medium heat.",
+    "Cook, stirring occasionally, until bananas are caramelized and golden brown.",
+    "Stir in lime juice and cook for an additional 1-2 minutes.",
+    "To assemble, place a baked tostada shell on a plate.",
+    "Top with a caramelized banana slice, sprinkle with cinnamon.",
+    "Repeat for remaining tostada shells and banana slices.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "mexican",
+    "banana",
+    "tostada"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-mexican-bananas-tostada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:33:24.598Z"
+}
