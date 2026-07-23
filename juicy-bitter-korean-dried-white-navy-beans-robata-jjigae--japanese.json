@@ -1,0 +1,77 @@
+{
+  "slug": "juicy-bitter-korean-dried-white-navy-beans-robata-jjigae--japanese",
+  "title": "Robata-Style Korean Bean Dishes",
+  "description": "A hearty and flavorful dish combining navy beans with the bold flavors of Korean cuisine, all wrapped up in the smokiness of robata.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white beans",
+      "amount": "1 cup dried, soaked overnight and drained"
+    },
+    {
+      "name": "navy beans",
+      "amount": "1 cup dried, soaked overnight and drained"
+    },
+    {
+      "name": "dried korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "robata sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "juicy vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "korean chili paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bitter green onions",
+      "amount": "1/4 cup, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the robata to medium-high heat.",
+    "2. In a large pot, heat 1 tablespoon of vegetable oil over medium heat.",
+    "3. Add the Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "4. Add the navy and white beans and cook for 5 minutes, stirring occasionally.",
+    "5. Add the robata sauce, soy sauce, and Korean chili paste. Stir to combine.",
+    "6. Reduce heat to low and simmer for 20 minutes, or until the beans are tender.",
+    "7. Stir in the green onions and cook for an additional 2 minutes.",
+    "8. Serve the bean dishes hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "japanese",
+    "beans",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-bitter-korean-dried-white-navy-beans-robata-jjigae--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:46:05.839Z"
+}
