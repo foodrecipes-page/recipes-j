@@ -5923,14 +5923,15 @@
   },
   {
     "slug": "jglistening-japanese-kombu-bisque",
-    "title": "JGlistening Japanese Kombu Bisque",
+    "title": "Japanese Kombu Simmered Jglistening",
     "tags": [
-      "garlic-free",
-      "gluten-free",
-      "onion-free"
+      "japanese",
+      "kombu",
+      "jglistening",
+      "vegetarian"
     ],
-    "cuisine": "Japanese (inspired by Syrian)",
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -19848,6 +19849,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-creamy-turkish-aubergine-dolma--italian",
+    "title": "Turkish Dolma Stuffed Aubergine",
+    "tags": [
+      "italian",
+      "vegan-option",
+      "aubergine",
+      "stuffed",
+      "dolma"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
