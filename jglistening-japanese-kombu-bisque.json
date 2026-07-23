@@ -1,0 +1,58 @@
+{
+  "slug": "jglistening-japanese-kombu-bisque",
+  "title": "Japanese Kombu Simmered Jglistening",
+  "description": "A Japanese-inspired dish featuring jglistening simmered in a kombu broth. This recipe is perfect for a light lunch or dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jglistening",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "bisque",
+      "amount": "100ml",
+      "notes": "Japanese dashi broth"
+    }
+  ],
+  "instructions": [
+    "Cut the jglistening into bite-sized pieces.",
+    "Combine the kombu and bisque in a large pot.",
+    "Heat the mixture over medium heat.",
+    "Add the jglistening to the pot.",
+    "Simmer for 10-12 minutes or until the jglistening is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "kombu",
+    "jglistening",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jglistening-japanese-kombu-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:50:07.095Z"
+}
