@@ -1,0 +1,91 @@
+{
+  "slug": "juicy-smoked-roman-italian-black-beans-tacos",
+  "title": "Smoked Italian Black Bean Tacos",
+  "description": "A delicious and flavorful taco recipe featuring smoked Italian sausage, juicy black beans, and a hint of roman spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Italian Sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Black Beans",
+      "amount": "1 can, 15 oz",
+      "notes": ""
+    },
+    {
+      "name": "Roman Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Italian Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tacos Shells",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the smoked Italian sausage and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the roman spice blend and cook for 1 minute, stirring constantly.",
+    "Add the black beans to the skillet and stir to combine with the sausage and spice blend.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Warm the tacos shells according to package instructions.",
+    "Assemble the tacos by spooning the sausage and bean mixture into the shells.",
+    "Top with shredded cheese, sour cream, and salsa.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "tacos",
+    "sausage",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-roman-italian-black-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:11:58.278Z"
+}
