@@ -19764,5 +19764,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 23,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-syrian-potato-stew--thai",
+    "title": "Thai Jazzy Stew",
+    "tags": [
+      "thaistew",
+      "jazzymeal",
+      "syrianfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
