@@ -4789,17 +4789,15 @@
   },
   {
     "slug": "jellylike-earthy-malaysian-gelatin-pudding",
-    "title": "Jellylike Earthy Malaysian Gelatin Pudding",
+    "title": "Earthy Pudding Delight",
     "tags": [
-      "ayurvedic",
-      "date-night",
-      "gluten-free",
-      "malaysian-dessert",
-      "tamasic",
-      "vegetarian-friendly"
+      "vegan",
+      "dessert",
+      "malaysian",
+      "pudding"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -14750,17 +14748,16 @@
   },
   {
     "slug": "juicy-silky-polish-trout-pilaf",
-    "title": "Juicy Silky Polish Trout Pilaf",
+    "title": "Polish Trout Pilaf",
     "tags": [
-      "fish-recipes",
-      "gluten-free",
-      "nut-free",
-      "one-pan-meals",
-      "polish-cuisine",
-      "romantic-dinners"
+      "polish",
+      "trout",
+      "pilaf",
+      "sausage",
+      "dinner"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "j"
   },
   {
