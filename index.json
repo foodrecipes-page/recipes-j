@@ -19729,5 +19729,30 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-turkish-beans-stew--thai",
+    "title": "Thai Stew",
+    "tags": [
+      "thaistew",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sour-uruguayan-dough-empanadas--thai",
+    "title": "Uruguayan-Style Empanada Filling with Thai Twist",
+    "tags": [
+      "empanada",
+      "thai-fusion",
+      "uruguayan",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "j"
   }
 ]
