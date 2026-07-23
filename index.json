@@ -19864,5 +19864,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-italian-cocoa-tiramisu--german",
+    "title": "German Chocolate Cake with Italian Espresso",
+    "tags": [
+      "german",
+      "chocolate",
+      "espresso",
+      "cake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
