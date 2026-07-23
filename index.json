@@ -19752,5 +19752,17 @@
     "cuisine": "thai",
     "totalTimeMin": 50,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-british-cod-fish-and-chips--mexican",
+    "title": "Mexican Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
+    "shard": "j"
   }
 ]
