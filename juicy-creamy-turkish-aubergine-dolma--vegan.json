@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-creamy-turkish-aubergine-dolma--vegan",
+  "title": "Stuffed Aubergine Dolma",
+  "description": "A vegan take on the classic Turkish dish, featuring roasted aubergine stuffed with a creamy mixture and seasoned with herbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium-sized",
+      "notes": "any color will do"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned, but salted and free of added sugars"
+    },
+    {
+      "name": "turkish bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free or panko works well"
+    },
+    {
+      "name": "creamy cashew cheese",
+      "amount": "1 cup",
+      "notes": "see a recipe for a vegan cashew cheese or substitute with a similar product"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": "fresh or dried herbs will work"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the aubergine in half lengthwise and place on a baking sheet.",
+    "3. Roast the aubergine for 30-40 minutes, or until tender and lightly browned.",
+    "4. In a separate bowl, mix together the bread crumbs, cashew cheese, parsley, garlic powder, and salt.",
+    "5. Scoop the roasted aubergine flesh out of the skin, and mix it into the bread crumb mixture.",
+    "6. Stuff each aubergine half with the bread crumb mixture.",
+    "7. Place the stuffed aubergine on a baking sheet and bake for an additional 15-20 minutes.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "turkish",
+    "healthy",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-creamy-turkish-aubergine-dolma--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:30:17.763Z"
+}
