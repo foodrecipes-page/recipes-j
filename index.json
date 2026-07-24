@@ -11081,17 +11081,15 @@
   },
   {
     "slug": "juicy-ethiopian-lamb-skewers",
-    "title": "Juicy Ethiopian Lamb Skewers",
+    "title": "Ethiopian Lamb Skewers",
     "tags": [
-      "ethiopian-cuisine",
-      "grilled-meat",
-      "lamb-recipes",
-      "low-carb",
-      "raclette-grill",
-      "yuzu-recipes"
+      "ethiopian",
+      "lamb",
+      "skewers",
+      "barbecue"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 38,
     "shard": "j"
   },
   {
@@ -12234,16 +12232,15 @@
   },
   {
     "slug": "juicy-indian-cherry-tomatoes-skewers",
-    "title": "Juicy Indian Cherry Tomatoes Skewers",
+    "title": "Skewered Cherry Tomato Kebabs with Juicy Chicken",
     "tags": [
-      "grilled-vegetables",
-      "indian-cuisine",
-      "kosher-friendly",
-      "monsoon-recipes",
-      "quick-snacks"
+      "indian",
+      "kebabs",
+      "chicken",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "cuisine": "indian",
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -20078,6 +20075,19 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 180,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-saudia-onion-stir-fry--vegan",
+    "title": "Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "snack",
+      "quick",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "j"
   }
 ]
