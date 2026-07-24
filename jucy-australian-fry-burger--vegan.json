@@ -1,0 +1,77 @@
+{
+  "slug": "jucy-australian-fry-burger--vegan",
+  "title": "Vegan Australian Burger",
+  "description": "A tasty and juicy vegan Australian burger made with a flavorful patty and topped with fresh vegetables. Perfect for a quick and easy meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black bean patty",
+      "amount": "1",
+      "notes": "made with black beans, oats, and spices"
+    },
+    {
+      "name": "fry bread bun",
+      "amount": "1",
+      "notes": "made with whole wheat flour and water"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "fresh and sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "juicy sauce",
+      "amount": "2 tbsp",
+      "notes": "made with ketchup, vinegar, and spices"
+    },
+    {
+      "name": "fry onions",
+      "amount": "1/4 cup",
+      "notes": "sliced and caramelized"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Prepare the black bean patty according to package instructions.",
+    "Toast the fry bread bun on the pan for 2-3 minutes.",
+    "Spread 1 tbsp of juicy sauce on the bottom bun.",
+    "Add the black bean patty on top of the sauce.",
+    "Add sliced avocado, tomato, and lettuce on top of the patty.",
+    "Add the top bun and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "australian",
+    "burger",
+    "black-bean"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-australian-fry-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:44:20.008Z"
+}
