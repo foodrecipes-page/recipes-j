@@ -1,0 +1,93 @@
+{
+  "slug": "jagged-smoky-irish-lamb-skewers--thai",
+  "title": "Jagged Lamb Skewers with Smoky Thai Sauce",
+  "description": "Grilled lamb skewers marinated in a smoky Thai-inspired sauce, perfect for a flavorful and spicy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Jagged bamboo skewers",
+      "amount": "12",
+      "notes": "Soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "Smoky Thai sauce (see below)",
+      "amount": "1 cup",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai ingredient for flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Sweetener for the sauce"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "2 tablespoons",
+      "notes": "A Thai staple for flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use 2-3 cloves if you like garlic"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Adjust the level of heat to your taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "Garnish for the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine fish sauce, brown sugar, ginger, garlic, chili flakes, and lime juice. Blend until smooth.",
+    "Thread lamb pieces onto jagged bamboo skewers, leaving a small space between each piece.",
+    "Brush the lamb skewers with the smoky Thai sauce, making sure they are evenly coated.",
+    "Grill the lamb skewers for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C) for medium-rare.",
+    "Remove the lamb skewers from the grill and let them rest for 5 minutes.",
+    "Serve the lamb skewers hot, garnished with chopped cilantro and additional smoky Thai sauce if desired.",
+    "Serve with steamed vegetables or rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "grilled-lamb",
+    "skewers",
+    "smoky-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-irish-lamb-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:27:56.458Z"
+}
