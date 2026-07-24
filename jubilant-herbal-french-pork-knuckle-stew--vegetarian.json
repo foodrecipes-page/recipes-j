@@ -1,0 +1,91 @@
+{
+  "slug": "jubilant-herbal-french-pork-knuckle-stew--vegetarian",
+  "title": "Herbal Stew",
+  "description": "A flavorful and comforting stew made with a variety of herbs and vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French stew",
+      "amount": "1 large",
+      "notes": "any type of stew suitable for this recipe"
+    },
+    {
+      "name": "Herbal",
+      "amount": "2 tablespoons",
+      "notes": "dried or fresh herbs of your choice (e.g. thyme, rosemary, parsley)"
+    },
+    {
+      "name": "Pork",
+      "amount": "null",
+      "notes": "omitted due to diet requirement"
+    },
+    {
+      "name": "Jubilant",
+      "amount": "1 teaspoon",
+      "notes": "any type of spice or seasoning that adds a joyful flavor"
+    },
+    {
+      "name": "Knuckle",
+      "amount": "null",
+      "notes": "omitted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "any type of onion"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "any type of carrot"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "any type of potato"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "any type of tomato"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth or stock"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the onion, carrot, and potato, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato and cook for an additional 2 minutes.",
+    "Add the herbal mixture, stew, jubilant, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-herbal-french-pork-knuckle-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:50:59.007Z"
+}
