@@ -1,0 +1,67 @@
+{
+  "slug": "jgelatinous-sudanes-yogurt-cazuela-pilaf",
+  "title": "Cazuela with Pilaf and Yogurt",
+  "description": "A simple and comforting dish from South America, made with cazuela, pilaf and yogurt.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cazuela",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "250g",
+      "notes": "cooked"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "250g",
+      "notes": "plain full-fat"
+    },
+    {
+      "name": "Jgelatinous",
+      "amount": "10g",
+      "notes": "optional"
+    },
+    {
+      "name": "Sudanes",
+      "amount": "2",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the cazuela and cook until browned.",
+    "Add the pilaf and stir to combine.",
+    "Add the yogurt and stir to combine.",
+    "Add the jgelatinous (if using) and sudanes.",
+    "Season with salt and pepper to taste.",
+    "Simmer for 20 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "south-american",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jgelatinous-sudanes-yogurt-cazuela-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:38:41.851Z"
+}
