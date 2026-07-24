@@ -1,0 +1,67 @@
+{
+  "slug": "julius-aerated-american-ground-sugar-bake--mexican",
+  "title": "Mexican Ground Beef Tacos",
+  "description": "A classic Mexican dish made with ground beef, perfect for tacos, burritos, or other Mexican-inspired meals.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground american beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "julius sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "aerated bake",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground",
+      "amount": "1/4 teaspoon",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the sugar, salt, and pepper to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with desired toppings.",
+    "Serve with aerated bake on the side.",
+    "Optional: add diced onions, bell peppers, or other toppings to the tacos."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "ground-beef",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/julius-aerated-american-ground-sugar-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:46:58.044Z"
+}
