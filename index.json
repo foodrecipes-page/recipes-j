@@ -2485,16 +2485,15 @@
   },
   {
     "slug": "jammy-tunisian-date-night-tagine",
-    "title": "Jammy Tunisian Date Night Tagine",
+    "title": "Tagine of Dates and Jammy Onions",
     "tags": [
-      "date-night",
-      "high-protein",
       "north-african",
-      "one-pan",
-      "romantic"
+      "vegetarian",
+      "sweet-and-savory",
+      "weeknight-dinner"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -19916,6 +19915,45 @@
       "lamb-substitute"
     ],
     "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-sweet-japanese-apple-salad--vegan",
+    "title": "Autumn Apple Salad",
+    "tags": [
+      "autumn",
+      "apple",
+      "salad",
+      "vegan",
+      "japanese"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina--german",
+    "title": "German-Style Huancaina Potatoes",
+    "tags": [
+      "german",
+      "peruvian",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-irish-lamb-skewers--thai",
+    "title": "Jagged Lamb Skewers with Smoky Thai Sauce",
+    "tags": [
+      "thai-food",
+      "grilled-lamb",
+      "skewers",
+      "smoky-sauce"
+    ],
+    "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "j"
   }
