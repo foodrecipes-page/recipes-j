@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-snappy-algerian-paneer-tagine--italian",
+  "title": "Pan-Seared Paneer with Algerian Spices",
+  "description": "A unique Italian-inspired dish that combines the creaminess of paneer with the bold flavors of Algerian spices. Serve as a main course or a side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "8 oz",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "algerian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2",
+      "notes": "cherry tomatoes"
+    },
+    {
+      "name": "snappy zucchini",
+      "amount": "1",
+      "notes": "medium zucchini"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add zucchini and cook for 3-4 minutes until tender.",
+    "Add cherry tomatoes and cook for an additional 2-3 minutes.",
+    "Add algerian spices and stir to combine.",
+    "Add paneer to the skillet and cook for 2-3 minutes on each side until golden brown.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "paneer",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-snappy-algerian-paneer-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:48:54.752Z"
+}
