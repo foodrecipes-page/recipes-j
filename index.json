@@ -20099,5 +20099,19 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-double-fried-slovakian-duck-confit--german",
+    "title": "Slovakian Confit Duck Leg with German Spaetzle",
+    "tags": [
+      "german",
+      "slovakian",
+      "confit",
+      "duck",
+      "spaetzle"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "j"
   }
 ]
