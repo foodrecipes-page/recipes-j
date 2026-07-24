@@ -80,15 +80,12 @@
   },
   {
     "slug": "jade-malaysian-celeriac-stir-fry",
-    "title": "Jade Malaysian Celeriac Stir-fry",
+    "title": "Malaysian Stir Fry",
     "tags": [
-      "banana-leaf",
-      "easy",
-      "lunch",
-      "malaysian",
-      "satvik-friendly",
+      "vegetarian",
+      "asian",
       "stir-fry",
-      "weeknight"
+      "celeriac"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
@@ -20088,6 +20085,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-dense-irish-toffee-popcorn-bake--italian",
+    "title": "Italian Jubilant Popcorn Bake",
+    "tags": [
+      "italian",
+      "dessert",
+      "popcorn",
+      "toffee"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "j"
   }
 ]
