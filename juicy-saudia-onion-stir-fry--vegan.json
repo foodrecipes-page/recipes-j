@@ -1,0 +1,55 @@
+{
+  "slug": "juicy-saudia-onion-stir-fry--vegan",
+  "title": "Vegan Stir Fry",
+  "description": "A quick and easy vegan stir fry made with juicy onions and served as a snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "juicy"
+    },
+    {
+      "name": "saudia",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or olive oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "any variety of vegan stir-fry mix"
+    }
+  ],
+  "instructions": [
+    "Heat the saudia in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook until it starts to soften, about 3 minutes.",
+    "Add the fry and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-saudia-onion-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:56:08.786Z"
+}
