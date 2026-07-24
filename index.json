@@ -5909,16 +5909,14 @@
   },
   {
     "slug": "jgelatinous-sudanes-yogurt-cazuela-pilaf",
-    "title": "JGelatinous Sudanes Yogurt Cazuela Pilaf",
+    "title": "Cazuela with Pilaf and Yogurt",
     "tags": [
-      "glassy-jelly",
-      "instant-yeast",
-      "kosher-friendly",
-      "sausage-pilaf",
-      "yogurt-coddle"
+      "south-american",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "South American",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -20029,6 +20027,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-snappy-algerian-paneer-tagine--italian",
+    "title": "Pan-Seared Paneer with Algerian Spices",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "paneer",
+      "algerian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "j"
   }
 ]
