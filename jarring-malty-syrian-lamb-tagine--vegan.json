@@ -1,0 +1,74 @@
+{
+  "slug": "jarring-malty-syrian-lamb-tagine--vegan",
+  "title": "Vegan Tagine with Lamb Substitute",
+  "description": "A flavorful and aromatic stew inspired by North African cuisine, using a lamb substitute for a meat-free option.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jarring",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malty",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lamb (substitute)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the Syrian, Jarring, and Malty. Cook for 5 minutes, stirring frequently.",
+    "Add the Lamb (substitute) and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the Tagine spice blend and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "north-african",
+    "stew",
+    "lamb-substitute"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-malty-syrian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:25:36.674Z"
+}
