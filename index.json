@@ -20053,5 +20053,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jarring-malaysian-tempeh-bowl--gluten-free",
+    "title": "Malaysian Tempeh Stir Fry",
+    "tags": [
+      "gluten-free",
+      "malaysian",
+      "stir-fry",
+      "tempeh"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-molten-slovakian-pork-stew--keto",
+    "title": "Slovakian Pork Stew",
+    "tags": [
+      "slovakian",
+      "pork",
+      "stew",
+      "keto"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 180,
+    "shard": "j"
   }
 ]
