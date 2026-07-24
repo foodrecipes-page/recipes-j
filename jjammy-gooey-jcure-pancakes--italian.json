@@ -1,0 +1,80 @@
+{
+  "slug": "jjammy-gooey-jcure-pancakes--italian",
+  "title": "Italian-Style Pancakes with Caramelized Jcure",
+  "description": "A sweet and savory twist on traditional pancakes, topped with a caramelized jcure and gooey jjammy sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jjammy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gooey syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jcure",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pancakes",
+      "amount": "4"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together flour, sugar, eggs, and milk.",
+    "Add butter to the batter and stir until combined.",
+    "Cook pancakes on the skillet or griddle for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip pancakes and cook for an additional 1-2 minutes.",
+    "Meanwhile, caramelize jcure in a small saucepan over medium heat, stirring frequently.",
+    "To assemble, place a pancake on a plate, top with a spoonful of caramelized jcure and a drizzle of gooey jjammy sauce.",
+    "Serve immediately and enjoy!",
+    "Cook jcure to an internal temperature of at least 145°F (63°C) for food safety.",
+    "Adjust cooking time and temperature as needed for desired level of caramelization."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jjammy-gooey-jcure-pancakes--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:11:33.002Z"
+}
