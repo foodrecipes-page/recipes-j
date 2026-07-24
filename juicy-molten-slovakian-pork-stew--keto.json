@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-molten-slovakian-pork-stew--keto",
+  "title": "Slovakian Pork Stew",
+  "description": "A hearty Slovakian-inspired stew made with tender pork, juicy vegetables, and a rich, savory broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and celery to the pot and cook for 5 minutes.",
+    "Add the red wine to the pot and cook until the liquid is almost completely reduced, about 5 minutes.",
+    "Add the beef broth, browned pork, and smoked paprika to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and the sauce has thickened.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "stew",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-molten-slovakian-pork-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:28:53.338Z"
+}
