@@ -1,0 +1,88 @@
+{
+  "slug": "jammy-tender-brittany-bacon-boil--german",
+  "title": "Traditional German Bacon Schnitzel",
+  "description": "A classic German dish made with tenderized pork, crispy bacon, and a sweet jammy glaze.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "jammy glaze (homemade or store-bought)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Prepare the pork cutlets by pounding them thinly and seasoning with salt and black pepper.",
+    "2. In a shallow dish, mix together the flour, a pinch of salt, and a few grinds of black pepper.",
+    "3. In another shallow dish, beat the egg.",
+    "4. In a third shallow dish, place the panko breadcrumbs.",
+    "5. Dip each pork cutlet in the flour mixture, coating both sides evenly.",
+    "6. Dip the floured pork cutlet in the egg, making sure it's fully coated.",
+    "7. Finally, coat the pork cutlet in the panko breadcrumbs, pressing the crumbs gently onto the meat to ensure they stick.",
+    "8. Heat a large skillet over medium-high heat and add the bacon slices.",
+    "9. Cook the bacon until crispy, flipping halfway through.",
+    "10. Remove the bacon from the skillet and set aside.",
+    "11. In the same skillet, add a small amount of oil and cook the breaded pork cutlets for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "12. Transfer the cooked pork cutlets to a plate and top each one with a slice of crispy bacon and a spoonful of jammy glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bacon",
+    "schnitzel",
+    "pork",
+    "jammy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-tender-brittany-bacon-boil--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:31:57.532Z"
+}
