@@ -1,0 +1,71 @@
+{
+  "slug": "jazzy-snappy-peruvian-potato-papas-a-la-huancaina--german",
+  "title": "German-Style Huancaina Potatoes",
+  "description": "A twist on traditional German potato dishes, infused with Peruvian flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "huancaina",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "papas",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "jazzy",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "snappy",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and dice the potatoes, and boil them for 5 minutes.",
+    "Drain the potatoes and let them cool.",
+    "Mix the huancaina with the jazzy and snappy (if using), and spread it evenly over the potatoes.",
+    "Bake the potatoes in the preheated oven for 20 minutes.",
+    "Remove the potatoes from the oven and sprinkle with peruvian (if using).",
+    "Serve the potatoes hot, garnished with additional huancaina if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "peruvian",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-snappy-peruvian-potato-papas-a-la-huancaina--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:21:34.851Z"
+}
