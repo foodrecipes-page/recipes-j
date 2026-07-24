@@ -19905,5 +19905,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jarring-malty-syrian-lamb-tagine--vegan",
+    "title": "Vegan Tagine with Lamb Substitute",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "lamb-substitute"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
