@@ -1,0 +1,85 @@
+{
+  "slug": "jammy-juicy-thai-fish-kao-mun-gai",
+  "title": "Thai-Style Grilled Fish with Mun's Spicy Glaze",
+  "description": "A flavorful and spicy Thai-inspired dish featuring grilled fish topped with a sweet and spicy mun-made glaze. Perfect for a quick and easy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gai (fish)",
+      "amount": "4 fillets",
+      "notes": "any firm white fish"
+    },
+    {
+      "name": "mun (chili sauce)",
+      "amount": "1/4 cup",
+      "notes": "or substitute with sriracha"
+    },
+    {
+      "name": "kao (coconut milk)",
+      "amount": "1/2 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "thai (fish sauce)",
+      "amount": "2 tbsp",
+      "notes": "or substitute with soy sauce"
+    },
+    {
+      "name": "juicy (bell peppers)",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "jammy (honey)",
+      "amount": "2 tbsp",
+      "notes": "or substitute with maple syrup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the fish with salt and pepper.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "In a blender or food processor, combine mun, kao, and thai. Blend until smooth.",
+    "Brush the mun glaze onto the grilled fish during the last minute of cooking.",
+    "Serve the fish with the mun glaze spooned over the top, garnished with sliced juicy bell peppers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "fish",
+    "spicy",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-juicy-thai-fish-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:09:56.595Z"
+}
