@@ -1,0 +1,71 @@
+{
+  "slug": "jubilant-dense-irish-toffee-popcorn-bake--italian",
+  "title": "Italian Jubilant Popcorn Bake",
+  "description": "A sweet and crunchy Italian dessert featuring jubilant popcorn and toffee.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Popcorn",
+      "amount": "2 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Toffee",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dense Irish Jubilant",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Bake",
+      "amount": "1/4 cup",
+      "notes": "melted butter"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. In a large bowl, mix together the popcorn, toffee, and jubilant.",
+    "3. In a separate bowl, melt the butter for the bake.",
+    "4. Pour the butter mixture over the popcorn mixture and stir until well combined.",
+    "5. If desired, sprinkle with sugar and salt.",
+    "6. Transfer the mixture to a baking dish and bake for 10-12 minutes.",
+    "7. Remove from the oven and let cool.",
+    "8. Break apart and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "popcorn",
+    "toffee"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-dense-irish-toffee-popcorn-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:42:06.410Z"
+}
