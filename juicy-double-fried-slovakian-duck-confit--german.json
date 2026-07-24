@@ -1,0 +1,76 @@
+{
+  "slug": "juicy-double-fried-slovakian-duck-confit--german",
+  "title": "Slovakian Confit Duck Leg with German Spaetzle",
+  "description": "A traditional German dish with a twist from Slovakia, featuring tender confit duck leg served with homemade spaetzle and a side of braised red cabbage.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Confit Duck Leg",
+      "amount": "2 legs"
+    },
+    {
+      "name": "Spaetzle Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck legs with salt and black pepper.",
+    "Bake the duck legs for 20 minutes.",
+    "While the duck is baking, cook the spaetzle according to the package instructions.",
+    "In a large pan, sauté the chopped onion and caraway seeds until softened.",
+    "Add the braised red cabbage to the pan and cook for an additional 5 minutes.",
+    "Serve the confit duck leg with the spaetzle and braised red cabbage.",
+    "Drizzle with apple cider vinegar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "slovakian",
+    "confit",
+    "duck",
+    "spaetzle"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-double-fried-slovakian-duck-confit--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:23:48.993Z"
+}
