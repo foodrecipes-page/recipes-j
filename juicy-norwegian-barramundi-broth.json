@@ -1,0 +1,57 @@
+{
+  "slug": "juicy-norwegian-barramundi-broth",
+  "title": "Pan-Seared Barramundi with Juicy Broth",
+  "description": "Cooking barramundi to perfection with a flavorful broth, perfect for a light meal. This dish showcases the delicate taste of the fish.",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Juicy broth",
+      "amount": "1 cup",
+      "notes": "Chicken or fish broth"
+    },
+    {
+      "name": "Norwegian butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted butter for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the barramundi fillets with salt and pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the barramundi for 2-3 minutes on each side, until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, until the fish is cooked through.",
+    "While the fish is cooking, heat the broth in a separate saucepan over low heat.",
+    "Serve the barramundi with the hot broth spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barramundi",
+    "seafood",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-norwegian-barramundi-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:10:02.169Z"
+}
