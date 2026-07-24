@@ -1,0 +1,88 @@
+{
+  "slug": "jarring-malaysian-tempeh-bowl--gluten-free",
+  "title": "Malaysian Tempeh Stir Fry",
+  "description": "A flavorful and spicy stir fry made with tempeh, inspired by Malaysian cuisine. Gluten-free and delicious!",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 package",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Malaysian seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tempeh and cook until golden brown, about 3-4 minutes.",
+    "Add the Malaysian seasoning blend, garlic, and ginger, and stir-fry for 1 minute.",
+    "Add the chili peppers and bok choy, and stir-fry until the vegetables are tender-crisp.",
+    "In a small bowl, whisk together the soy sauce and hoisin sauce.",
+    "Pour the sauce over the tempeh and vegetables, and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over a bowl of steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "stir-fry",
+    "tempeh"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-malaysian-tempeh-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:18:55.920Z"
+}
