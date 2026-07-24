@@ -19877,5 +19877,32 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "j"
+  },
+  {
+    "slug": "jucy-australian-fry-burger--vegan",
+    "title": "Vegan Australian Burger",
+    "tags": [
+      "vegan",
+      "australian",
+      "burger",
+      "black-bean"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-tender-brittany-bacon-boil--german",
+    "title": "Traditional German Bacon Schnitzel",
+    "tags": [
+      "german",
+      "bacon",
+      "schnitzel",
+      "pork",
+      "jammy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
