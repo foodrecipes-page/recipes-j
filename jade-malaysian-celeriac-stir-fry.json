@@ -1,0 +1,71 @@
+{
+  "slug": "jade-malaysian-celeriac-stir-fry",
+  "title": "Malaysian Stir Fry",
+  "description": "A simple and flavorful stir fry dish inspired by Malaysian cuisine. This recipe combines the natural sweetness of celeriac with the crunch of vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "Jade",
+      "amount": "1 cup",
+      "notes": "jade greens, chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large frying pan over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry until fragrant.",
+    "Add the celeriac and cook until it starts to soften.",
+    "Add the chopped jade greens and stir-fry until they are wilted.",
+    "Season with soy sauce to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "asian",
+    "stir-fry",
+    "celeriac"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jade-malaysian-celeriac-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:23:47.588Z"
+}
