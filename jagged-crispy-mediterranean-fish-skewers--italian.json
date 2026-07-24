@@ -1,0 +1,88 @@
+{
+  "slug": "jagged-crispy-mediterranean-fish-skewers--italian",
+  "title": "Pan-Seared Mediterranean Fish Skewers",
+  "description": "A flavorful and colorful Italian-inspired dish, featuring succulent fish skewers seared to perfection and served with a side of crunchy Mediterranean vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4-6 pieces, 1 inch in size",
+      "notes": "You can also use other white fish like Mahi or Snapper"
+    },
+    {
+      "name": "Jagged Skewers",
+      "amount": "12-16",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Crispy Feta Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Optional, for garnish"
+    },
+    {
+      "name": "Mediterranean Vegetables",
+      "amount": "1 cup, mixed ( bell peppers, onions, cherry tomatoes, olives) ",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Mince before use"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Coarse salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Soak the skewers in water for 30 minutes. Cut the fish into 1-inch pieces and thread onto the skewers, leaving a little space between each piece.",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic, salt, and pepper. Brush the mixture onto both sides of the fish.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 8-10 minutes, or until the fish is cooked through.",
+    "While the fish is cooking, heat a non-stick pan over medium-high heat. Add the Mediterranean vegetables and cook for 3-4 minutes, or until they start to brown.",
+    "Add the crispy feta cheese to the pan and cook for an additional 1-2 minutes, or until melted and golden brown.",
+    "Remove the fish skewers from the oven and serve immediately with the Mediterranean vegetables and crispy feta cheese.",
+    "Garnish with fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "italian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-mediterranean-fish-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:29:19.919Z"
+}
