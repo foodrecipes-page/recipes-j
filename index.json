@@ -2152,16 +2152,17 @@
   },
   {
     "slug": "jammy-juicy-thai-fish-kao-mun-gai",
-    "title": "Jammy Juicy Thai Fish Kao Mun Gai",
+    "title": "Thai-Style Grilled Fish with Mun's Spicy Glaze",
     "tags": [
-      "jammy-sauce",
-      "one-pan",
-      "pescatarian",
-      "thai-cuisine",
-      "weeknight"
+      "thai",
+      "grilled",
+      "fish",
+      "spicy",
+      "gluten-free",
+      "dairy-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
