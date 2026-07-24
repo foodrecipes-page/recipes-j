@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-ethiopian-lamb-skewers",
+  "title": "Ethiopian Lamb Skewers",
+  "description": "A flavorful and spicy dish featuring juicy lamb marinated in traditional Ethiopian spices, grilled to perfection on skewers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together berbere spice, garlic, lemon juice, salt, and black pepper.",
+    "Add lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes per side, or until lamb is cooked through to an internal temperature of 145°F.",
+    "Transfer skewers to a plate and let rest for 5 minutes.",
+    "Garnish with chopped cilantro and parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lamb",
+    "skewers",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-ethiopian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:15:17.550Z"
+}
