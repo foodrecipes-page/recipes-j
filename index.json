@@ -19978,5 +19978,57 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "jjammy-gooey-jcure-pancakes--italian",
+    "title": "Italian-Style Pancakes with Caramelized Jcure",
+    "tags": [
+      "italian",
+      "breakfast",
+      "pancakes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-algerian-almond-tagine--french",
+    "title": "Jazzy Algerian Chicken Tagine",
+    "tags": [
+      "chicken",
+      "north-african",
+      "tagine",
+      "algerian",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-crispy-mediterranean-fish-skewers--italian",
+    "title": "Pan-Seared Mediterranean Fish Skewers",
+    "tags": [
+      "fish",
+      "mediterranean",
+      "italian",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-crisp-uruguayan-oreo-pilaf--japanese",
+    "title": "Crisp Oreo Tempura",
+    "tags": [
+      "japanese",
+      "dessert",
+      "oreo",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "j"
   }
 ]
