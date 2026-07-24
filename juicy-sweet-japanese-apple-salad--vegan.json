@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-sweet-japanese-apple-salad--vegan",
+  "title": "Autumn Apple Salad",
+  "description": "A refreshing and flavorful salad made with crisp apple, juicy greens, and sweet notes from the dressing.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "juicy greens",
+      "amount": "4 cups",
+      "notes": "such as mixed greens or arugula"
+    },
+    {
+      "name": "sweet apple",
+      "amount": "1 large",
+      "notes": "such as fuji or honeycrisp"
+    },
+    {
+      "name": "salad",
+      "amount": "2 cups",
+      "notes": "such as shredded carrot and sliced cucumber"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the juicy greens and salad.",
+    "2. In a small bowl, whisk together the apple cider vinegar and maple syrup to make the dressing.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Slice the sweet apple into thin wedges and arrange on top of the salad.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "autumn",
+    "apple",
+    "salad",
+    "vegan",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sweet-japanese-apple-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:49:19.601Z"
+}
