@@ -1,0 +1,74 @@
+{
+  "slug": "jubilant-crisp-uruguayan-oreo-pilaf--japanese",
+  "title": "Crisp Oreo Tempura",
+  "description": "A Japanese-inspired dessert featuring crispy Oreo cookies in a light tempura batter.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies",
+      "amount": "12-15",
+      "notes": "crushed"
+    },
+    {
+      "name": "Jubilant rice flour",
+      "amount": "1 cup",
+      "notes": "preferably Japanese mochiko"
+    },
+    {
+      "name": "Crisp cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Uruguayan sparkling water",
+      "amount": "1 cup",
+      "notes": "or any carbonated water"
+    },
+    {
+      "name": "Pilaf vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Soda water",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, whisk together rice flour and cornstarch.",
+    "2. Gradually pour in sparkling water and mix until smooth, creating a light tempura batter.",
+    "3. Dip crushed Oreos into the batter, making sure they are fully coated.",
+    "4. Fry battered Oreos in hot vegetable oil at 350°F (180°C) until golden brown, about 2-3 minutes.",
+    "5. Drain excess oil on paper towels and dust with additional cornstarch if desired.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "oreo",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-crisp-uruguayan-oreo-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:58:01.216Z"
+}
