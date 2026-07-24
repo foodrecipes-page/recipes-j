@@ -1,0 +1,87 @@
+{
+  "slug": "juicy-indian-cherry-tomatoes-skewers",
+  "title": "Skewered Cherry Tomato Kebabs with Juicy Chicken",
+  "description": "A flavorful and colorful Indian-inspired kebab dish featuring juicy chicken, cherry tomatoes, and a hint of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "juicy pineapple",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, cherry tomatoes, onion, and pineapple onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt, black pepper, and garam masala.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Remove skewers from grill and let rest for 2-3 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "kebabs",
+    "chicken",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-cherry-tomatoes-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:23:38.969Z"
+}
