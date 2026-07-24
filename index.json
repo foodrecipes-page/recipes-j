@@ -20041,5 +20041,17 @@
     "cuisine": "italian",
     "totalTimeMin": 27,
     "shard": "j"
+  },
+  {
+    "slug": "julius-aerated-american-ground-sugar-bake--mexican",
+    "title": "Mexican Ground Beef Tacos",
+    "tags": [
+      "mexican",
+      "ground-beef",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
