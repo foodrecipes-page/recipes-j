@@ -1,0 +1,78 @@
+{
+  "slug": "juvenescent-french-cardomom-tart--thai",
+  "title": "Thai Cardamom Tart",
+  "description": "A unique Thai dessert that combines the flavors of cardamom and tart with a crispy crust. Perfect for those who enjoy sweet and savory",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French tart dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Juvenescent sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the French tart dough and place it in a tart pan.",
+    "In a bowl, mix together the juvenescent sugar, cardamom pods, eggs, heavy cream, butter, salt, and vanilla extract.",
+    "Pour the mixture into the tart crust.",
+    "Bake for 35-40 minutes or until the edges are golden brown.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "thaifood",
+    "cardamom"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juvenescent-french-cardomom-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:16:09.356Z"
+}
