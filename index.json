@@ -20277,5 +20277,18 @@
     "cuisine": "thai",
     "totalTimeMin": 23,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-soft-roasted-kenyan-plantains-bake--mexican",
+    "title": "Kenyan Plantain Bake",
+    "tags": [
+      "mexican",
+      "plantains",
+      "dessert",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
