@@ -1,0 +1,67 @@
+{
+  "slug": "jawshan-syrian-butter-tagine--thai",
+  "title": "Thai-Style Tagine Chicken",
+  "description": "A flavorful and aromatic Thai-inspired dish made with chicken cooked in a rich tagine sauce, served with steamed jasmine rice.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 lbs boneless, skinless chicken breast or thighs",
+      "amount": "boneless, skinless chicken breast or thighs",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup jawshan",
+      "amount": "1/2 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "2 cups syrian",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of melted butter in a large pan over medium-high heat.",
+    "Add the minced jawshan and cook until fragrant, about 1-2 minutes.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chopped syrian, 1 cup of water, and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the chicken is cooked through, about 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "tagine",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jawshan-syrian-butter-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:41:28.383Z"
+}
