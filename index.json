@@ -20225,5 +20225,44 @@
     "cuisine": "Mexican",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-buttery-almond-crumble--french",
+    "title": "French Almond Crumble Tart",
+    "tags": [
+      "french",
+      "dessert",
+      "almond",
+      "tart",
+      "crumble"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--japanese",
+    "title": "Steeped Dutch Cheese Wrap",
+    "tags": [
+      "japanese",
+      "beer",
+      "cheese",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-tender-ethiopian-romano-pepper-ye-beg-alicha--indian",
+    "title": "Jagged Pepper Chicken Tikka Masala",
+    "tags": [
+      "chicken",
+      "tikka masala",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
