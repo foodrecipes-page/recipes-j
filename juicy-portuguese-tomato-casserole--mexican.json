@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-portuguese-tomato-casserole--mexican",
+  "title": "Mexican Casserole Delight",
+  "description": "A flavorful and hearty Mexican-inspired casserole filled with juicy chicken, savory spices, and melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "portuguese tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 medium",
+      "notes": "baked and diced"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the chicken in a skillet over medium-high heat until browned, about 5-6 minutes.",
+    "Add the diced onion and bell pepper to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the cumin, chili powder, and tomato sauce. Cook for 1 minute.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Arrange the diced casserole and shredded cheese on top of the mixture.",
+    "Bake in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "casserole",
+    "chicken",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-portuguese-tomato-casserole--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:47:14.305Z"
+}
