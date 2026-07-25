@@ -1,0 +1,88 @@
+{
+  "slug": "jubilant-tender-mexican-beef-birria--keto",
+  "title": "Keto Birria Beef Tacos",
+  "description": "A twist on traditional Mexican birria, this keto version replaces traditional tortillas with tender beef and serves it with a tangy sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef, birria cut",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Jubilant, tender",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lard or beef fat",
+      "amount": "2 tbsp",
+      "notes": "For browning the beef"
+    }
+  ],
+  "instructions": [
+    "1. Season the beef with salt, black pepper, garlic powder, cumin, and chili powder. Let it sit for 30 minutes.",
+    "2. Heat the lard or beef fat in a large Dutch oven over medium-high heat. Brown the beef on all sides, about 5 minutes per side. Remove from heat and set aside.",
+    "3. Add the Mexican oregano to the pot and toast for 1 minute, until fragrant.",
+    "4. Add 2 cups of beef broth to the pot and bring to a simmer.",
+    "5. Return the beef to the pot and let it cook until it's tender, about 2-3 hours.",
+    "6. Shred the beef with two forks and return it to the pot. Simmer for an additional 10 minutes.",
+    "7. Taste and adjust the seasoning as needed.",
+    "8. Serve the beef in bowls with your favorite toppings, such as diced radishes, lime wedges, and cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "keto",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tender-mexican-beef-birria--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:58:39.984Z"
+}
