@@ -8971,17 +8971,14 @@
   },
   {
     "slug": "juicy-algerian-crustaceans-tagine",
-    "title": "juicy Algerian crustaceans Tagine",
+    "title": "North African Algerian Seafood Tagine",
     "tags": [
-      "algerian",
-      "easy-to-make",
-      "low-calorie",
-      "mediterranean",
-      "one-pan",
       "seafood",
+      "north-african",
+      "algerian",
       "tagine"
     ],
-    "cuisine": "algerian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "j"
   },
@@ -16778,16 +16775,13 @@
   },
   {
     "slug": "juicy-vietnamese-pancetta-noodles",
-    "title": "Juicy Vietnamese Pancetta Noodles",
+    "title": "Vietnamese Pancetta Noodle Soup",
     "tags": [
-      "brunch-recipe",
-      "noodle-dish",
-      "pancetta-recipe",
-      "pescatarian-friendly",
-      "vietnamese-cuisine",
-      "yeasty-flavors"
+      "vietnamese",
+      "soup",
+      "noodle"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "j"
   },
