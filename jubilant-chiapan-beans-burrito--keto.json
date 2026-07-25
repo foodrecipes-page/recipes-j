@@ -1,0 +1,56 @@
+{
+  "slug": "jubilant-chiapan-beans-burrito--keto",
+  "title": "Jubilant Chiapan Keto Burrito",
+  "description": "A keto twist on the classic Mexican dish, featuring jubilant and chiapan as main attractions. This recipe is perfect for a low-carb diet.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jubilant",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Chiapan",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Beans",
+      "amount": "1/2 cup, cooked"
+    },
+    {
+      "name": "Burrito",
+      "amount": "1 whole, for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together jubilant, chiapan, and beans.",
+    "Spoon the mixture onto the center of the burrito.",
+    "Fold the bottom half of the burrito up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Place the burrito on a baking sheet lined with parchment paper and bake for 15-20 minutes, or until the filling is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "keto-friendly",
+    "mexican-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-chiapan-beans-burrito--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:53:21.732Z"
+}
