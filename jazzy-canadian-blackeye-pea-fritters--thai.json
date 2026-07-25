@@ -1,0 +1,65 @@
+{
+  "slug": "jazzy-canadian-blackeye-pea-fritters--thai",
+  "title": "Thai Fritter Stir Fry",
+  "description": "A flavorful and spicy Thai stir-fry dish made with crispy fritters and a variety of vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy Fritters",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Canadian Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Blackeye Peas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Canadian peas and blackeye peas to the skillet and stir-fry for 3-4 minutes.",
+    "Add the Jazzy Fritters to the skillet and stir-fry for an additional 2-3 minutes.",
+    "Season the dish with salt and pepper to taste.",
+    "Serve the stir-fry hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-canadian-blackeye-pea-fritters--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:44:17.720Z"
+}
