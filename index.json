@@ -20107,5 +20107,17 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "j"
+  },
+  {
+    "slug": "jain-friendly-kenyan-meal-prep-bake--vegan",
+    "title": "Kenyan Ugali with Steamed Vegetables",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
