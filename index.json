@@ -6877,13 +6877,15 @@
   },
   {
     "slug": "joyful-croatian-grain-risotto",
-    "title": "Joyful Croatian Grain Risotto",
+    "title": "Traditional Croatian Risotto",
     "tags": [
       "croatian",
-      "lunch"
+      "risotto",
+      "vegetarian",
+      "italian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -11202,16 +11204,15 @@
   },
   {
     "slug": "juicy-fermented-malaysian-dish-grill",
-    "title": "Malaysian Fermented Grill",
+    "title": "Malaysian Grilled Pork Skewers",
     "tags": [
-      "fermented",
-      "grilled",
-      "hangover-cure",
-      "healthy",
+      "grill",
+      "pork",
+      "kecap-manis",
       "malaysian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 31,
     "shard": "j"
   },
   {
@@ -20130,6 +20131,32 @@
     ],
     "cuisine": "Welsh",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-tender-mexican-beef-birria--keto",
+    "title": "Keto Birria Beef Tacos",
+    "tags": [
+      "beef",
+      "mexican",
+      "keto",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 225,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-crispy-malaysian-tempeh-satay--thai",
+    "title": "Grilled Satay Tempeh with Spicy Malaysian Peanut Sauce",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "grilled",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
