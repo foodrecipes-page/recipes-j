@@ -1203,16 +1203,15 @@
   },
   {
     "slug": "jagged-tender-peruvian-potatoes-papa-rellena",
-    "title": "Jagged Tender Peruvian Potatoes Papa Rellena",
+    "title": "Peruvian Stuffed Potatoes",
     "tags": [
-      "flambe-sauce",
-      "halal-friendly",
-      "mason-jar-recipe",
-      "peruvian-cuisine",
-      "romantic-dinner"
+      "peruvian",
+      "stuffed-potatoes",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "j"
   },
   {
@@ -2535,16 +2534,14 @@
   },
   {
     "slug": "jammy-venezuelan-soy-sauce-quick-fix",
-    "title": "Jammy Venezuelan Soy Sauce Quick-Fix",
+    "title": "Quick Venezuelan Jammy Fix",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "one-pan",
-      "quick-fix",
-      "vegan"
+      "breakfast",
+      "quick",
+      "easy"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "j"
   },
   {
