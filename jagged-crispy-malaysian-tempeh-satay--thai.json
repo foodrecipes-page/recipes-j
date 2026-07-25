@@ -1,0 +1,70 @@
+{
+  "slug": "jagged-crispy-malaysian-tempeh-satay--thai",
+  "title": "Grilled Satay Tempeh with Spicy Malaysian Peanut Sauce",
+  "description": "A Thai-inspired dish featuring marinated tempeh grilled to perfection and served with a spicy peanut sauce. Crispy and jagged vegetables add a satisfying crunch to each bite.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Jagged vegetables (such as bell peppers, carrots, and onions)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Malaysian peanut sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crusty satay",
+      "amount": "4-6 pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together vegetable oil, Thai red curry paste, and coconut milk. Add tempeh and marinate for at least 30 minutes.",
+    "3. Remove tempeh from marinade and grill for 3-4 minutes per side, or until slightly charred.",
+    "4. Meanwhile, heat Malaysian peanut sauce in a small saucepan over low heat.",
+    "5. Grill jagged vegetables for 2-3 minutes per side, or until slightly tender.",
+    "6. Serve grilled tempeh with spicy peanut sauce and crispy satay on the side.",
+    "7. Garnish with chopped cilantro and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-malaysian-tempeh-satay--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:37:22.072Z"
+}
