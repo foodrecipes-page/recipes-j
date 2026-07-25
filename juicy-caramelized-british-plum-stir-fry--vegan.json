@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-caramelized-british-plum-stir-fry--vegan",
+  "title": "Vegan Plum Crumble",
+  "description": "A delicious vegan plum crumble dessert made with fresh plums and a crunchy oat topping.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "3 cups, sliced",
+      "notes": null
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the sliced plums, coconut sugar, cinnamon, and nutmeg. Mix well.",
+    "Transfer the plum mixture to a 9x9-inch baking dish.",
+    "In another bowl, mix together the oats, flour, and vegan butter until crumbly.",
+    "Spread the oat mixture evenly over the plum filling.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "plum",
+    "oat",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-caramelized-british-plum-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:13:26.574Z"
+}
