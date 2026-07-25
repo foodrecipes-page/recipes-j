@@ -1,0 +1,97 @@
+{
+  "slug": "juicy-peruvian-burrata-skillet",
+  "title": "Peruvian Skillet with Juicy Chicken and Burrata",
+  "description": "Savor the flavors of Peru in this vibrant skillet dish, loaded with juicy chicken, creamy burrata, and a hint of spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peruvian pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "burrata cheese",
+      "amount": "1 ball",
+      "notes": "drained"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "preferably extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Peruvian pepper to the skillet and cook until slightly charred, about 2-3 minutes.",
+    "Add the onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir in the salt and black pepper.",
+    "Reduce heat to low and simmer the chicken for 2-3 minutes.",
+    "Crack the burrata cheese into the skillet and stir until creamy and melted.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the chicken and sauce hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "skillet",
+    "burrata"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-peruvian-burrata-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:06:34.368Z"
+}
