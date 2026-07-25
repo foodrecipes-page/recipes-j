@@ -1,0 +1,87 @@
+{
+  "slug": "jazzy-norwegian-banana-bowl--mexican",
+  "title": "Norwegian Jazzy Banana Bowl",
+  "description": "A Mexican-inspired bowl filled with Norwegian-style banana, jazzy spices, and a variety of textures.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jazzy Banana",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "Banana",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Granola",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mash the bananas.",
+    "2. Add coconut flakes, honey, lime juice, cinnamon, and sugar to the mashed bananas and mix well.",
+    "3. In a separate bowl, mix together Norwegian granola and a pinch of cinnamon.",
+    "4. Add the jazzy banana slices on top of the granola mixture in the bowl.",
+    "5. Pour the banana mixture over the granola and jazzy banana slices.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "banana",
+    "breakfast",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-norwegian-banana-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:22:26.468Z"
+}
