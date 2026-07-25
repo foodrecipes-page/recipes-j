@@ -1,0 +1,71 @@
+{
+  "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl--japanese",
+  "title": "Venezuelan Lentil Bowl",
+  "description": "A hearty, comforting lentil bowl dish with a Japanese twist. This recipe combines the flavors of Venezuela with the simplicity of Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown",
+      "amount": "2 tablespoons",
+      "notes": "for cooking the lentils"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "2 teaspoons",
+      "notes": "pimentón or Japanese furikake"
+    },
+    {
+      "name": "nutty",
+      "amount": "1/4 cup",
+      "notes": "chopped sesame seeds"
+    },
+    {
+      "name": "jubilant",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce or tamari"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and pick out any debris.",
+    "Cook the lentils in 2 cups of water with the brown until they are tender.",
+    "Drain the lentils and stir in the venezuelan and jubilant.",
+    "Transfer the lentils to a serving bowl.",
+    "Sprinkle the nutty on top of the lentils.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "japanese",
+    "veggie",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-nutty-venezuelan-brown-lentil-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:00:32.037Z"
+}
