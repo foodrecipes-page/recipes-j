@@ -20264,5 +20264,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-crispy-kenyan-sweet-potato-fritters--thai",
+    "title": "Thai Sweet Potato Fritters",
+    "tags": [
+      "thai",
+      "snack",
+      "sweet potatoes",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "j"
   }
 ]
