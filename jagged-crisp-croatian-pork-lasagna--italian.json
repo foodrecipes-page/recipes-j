@@ -1,0 +1,97 @@
+{
+  "slug": "jagged-crisp-croatian-pork-lasagna--italian",
+  "title": "Croatian Lasagna",
+  "description": "A classic Italian dish with a Croatian twist, featuring layers of lasagna noodles, rich meat sauce, and a blend of cheeses.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "jagged",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "croatian",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lasagna",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook the pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the jagged, croatian, salt, and black pepper to the skillet and cook for an additional 2-3 minutes.",
+    "In a large bowl, combine the ricotta cheese, mascarpone cheese, eggs, salt, and black pepper. Mix well to combine.",
+    "Spread a layer of the meat sauce in the bottom of a 20x20cm baking dish. Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta mixture over the noodles, followed by half of the shredded parmesan cheese.",
+    "Repeat the layers, starting with the meat sauce, noodles, ricotta mixture, and parmesan cheese.",
+    "Top the final layer of noodles with the remaining ricotta mixture and parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "lasagna",
+    "meat-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crisp-croatian-pork-lasagna--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:18:15.129Z"
+}
