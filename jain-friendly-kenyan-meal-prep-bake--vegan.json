@@ -1,0 +1,79 @@
+{
+  "slug": "jain-friendly-kenyan-meal-prep-bake--vegan",
+  "title": "Kenyan Ugali with Steamed Vegetables",
+  "description": "A traditional Kenyan meal made with cornmeal and served with steamed vegetables. Perfect for a quick and easy dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Gradually add the cornmeal, stirring constantly to prevent lumps.",
+    "Reduce heat to medium and cook for 5-7 minutes, stirring frequently.",
+    "While the ugali is cooking, steam the carrots, zucchini, and onions until tender.",
+    "Heat a tablespoon of oil in a pan over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the steamed vegetables to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the steamed vegetables alongside the ugali."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jain-friendly-kenyan-meal-prep-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:59:34.372Z"
+}
