@@ -1,0 +1,98 @@
+{
+  "slug": "juicy-indian-broccoli-aloo-gobi",
+  "title": "Gobi Aloo Masala",
+  "description": "A flavorful and aromatic North Indian dish made with broccoli, potatoes, and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli (gobi)",
+      "amount": "2 cups florets",
+      "notes": "fresh"
+    },
+    {
+      "name": "Potatoes (aloo)",
+      "amount": "2 medium, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Juicy (onion)",
+      "amount": "1 large, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add sliced onion and sauté until it's translucent.",
+    "Add ginger paste and garlic paste. Sauté for 1 minute.",
+    "Add broccoli, potatoes, coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "Cook for 5 minutes or until the vegetables are tender.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "north-indian",
+    "gobi-aloo-masala"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-indian-broccoli-aloo-gobi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:23:26.717Z"
+}
