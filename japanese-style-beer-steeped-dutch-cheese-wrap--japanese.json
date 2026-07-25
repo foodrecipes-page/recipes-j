@@ -1,0 +1,82 @@
+{
+  "slug": "japanese-style-beer-steeped-dutch-cheese-wrap--japanese",
+  "title": "Steeped Dutch Cheese Wrap",
+  "description": "A unique Japanese-inspired dish featuring a crispy Dutch cheese wrapped around a savory, beer-steeped filling.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch Cheese",
+      "amount": "1 block (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Japanese-Style Beer",
+      "amount": "1 cup",
+      "notes": "Steeping temperature: 60°C/140°F"
+    },
+    {
+      "name": "Wrapping Bread",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steep the Japanese-Style Beer in a saucepan at 60°C/140°F for 10 minutes.",
+    "Mix the soy sauce, ginger, garlic, and sesame seeds together in a separate bowl.",
+    "Add the steeped beer mixture to the bowl and stir well.",
+    "Place the Dutch Cheese in a separate pan and heat over low heat until melted.",
+    "Add the beer mixture to the melted cheese and mix well.",
+    "Place the Wrapping Bread on a flat surface and spread the cheese-beer mixture evenly.",
+    "Place sliced Green Onions on top of the cheese-beer mixture.",
+    "Roll the wrapping bread into a neat cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beer",
+    "cheese",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/japanese-style-beer-steeped-dutch-cheese-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:04:13.072Z"
+}
