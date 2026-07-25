@@ -1,0 +1,55 @@
+{
+  "slug": "jammy-venezuelan-soy-sauce-quick-fix",
+  "title": "Quick Venezuelan Jammy Fix",
+  "description": "A quick and easy Venezuelan-style dish made with jammy ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jammy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "quick fix",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of soy sauce in a pan over medium heat.",
+    "Add 1/2 cup of venezuelan and stir for 2 minutes.",
+    "Add 1 cup of jammy and stir for 3 minutes.",
+    "Stir in 1/4 cup of quick fix.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-venezuelan-soy-sauce-quick-fix",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:51:51.030Z"
+}
