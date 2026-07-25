@@ -20290,5 +20290,58 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-norwegian-banana-bowl--mexican",
+    "title": "Norwegian Jazzy Banana Bowl",
+    "tags": [
+      "mexican",
+      "banana",
+      "breakfast",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-filipino-ricotta-curry--italian",
+    "title": "Jazzy Italian Ricotta Ravioli",
+    "tags": [
+      "italian",
+      "pasta",
+      "ricotta",
+      "ravioli",
+      "homemade"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-portuguese-tomato-casserole--mexican",
+    "title": "Mexican Casserole Delight",
+    "tags": [
+      "mexican",
+      "casserole",
+      "chicken",
+      "cheese"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl--japanese",
+    "title": "Venezuelan Lentil Bowl",
+    "tags": [
+      "lentil",
+      "japanese",
+      "veggie",
+      "bowl"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
