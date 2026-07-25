@@ -1,0 +1,71 @@
+{
+  "slug": "jagged-tender-peruvian-potatoes-papa-rellena",
+  "title": "Peruvian Stuffed Potatoes",
+  "description": "A traditional Peruvian dish with tender potatoes and flavorful fillings.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Potatoes (Papa) ",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter ",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese ",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion ",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro ",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Scrub and poke the potatoes with a fork, then bake for 45-60 minutes until tender.",
+    "While potatoes bake, melt the butter in a pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "Once potatoes are done, let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and scoop out some of the flesh to make room for fillings.",
+    "Divide the cooked onion and cilantro mixture among the potatoes, followed by the shredded cheese.",
+    "Return the stuffed potatoes to the oven and bake for an additional 10-15 minutes, until cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stuffed-potatoes",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tender-peruvian-potatoes-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:11:29.368Z"
+}
