@@ -4153,15 +4153,15 @@
   },
   {
     "slug": "jazzy-soft-roasted-kenyan-plantains-bake",
-    "title": "Jazzy Soft Roasted Kenyan Plantains Bake",
+    "title": "Kenyan Plantain Bake",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "lacto-vegetarian",
-      "one-pan"
+      "kenyan",
+      "plantain",
+      "dessert",
+      "vegan-friendly"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "j"
   },
   {
@@ -20118,6 +20118,18 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-welsh-cod-stew--vegan",
+    "title": "Welsh Stew for a Rainy Day",
+    "tags": [
+      "welsh-stew",
+      "vegan-stew",
+      "rainy-day-recipe"
+    ],
+    "cuisine": "Welsh",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
