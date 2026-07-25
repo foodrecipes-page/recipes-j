@@ -1,0 +1,78 @@
+{
+  "slug": "jammy-ukrainian-saskatoon-berries-gratin",
+  "title": "Saskatoon Berry Gratin",
+  "description": "A sweet dessert featuring saskatoon berries topped with a crunchy gratin. Perfect for warm weather gatherings.",
+  "cuisine": "Canadian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "ukrainian borscht",
+      "amount": "1 cup",
+      "notes": "For added flavor and color"
+    },
+    {
+      "name": "jammy biscuits",
+      "amount": "1/2 cup",
+      "notes": "Crushed or crumbled"
+    },
+    {
+      "name": "gratin",
+      "amount": "1/2 cup",
+      "notes": "Shredded or grated"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "Melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix saskatoon berries, ukrainian borscht, and granulated sugar in a bowl.",
+    "Transfer the mixture to a baking dish.",
+    "Top with crushed jammy biscuits and shredded gratin.",
+    "Drizzle with melted butter.",
+    "Pour in heavy cream, if using.",
+    "Bake for 25-30 minutes or until the topping is golden brown and the fruit is tender.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional saskatoon berries, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saskatoon-berry",
+    "dessert",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-ukrainian-saskatoon-berries-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:19:01.579Z"
+}
