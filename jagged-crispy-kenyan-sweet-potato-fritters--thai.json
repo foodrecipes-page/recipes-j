@@ -1,0 +1,74 @@
+{
+  "slug": "jagged-crispy-kenyan-sweet-potato-fritters--thai",
+  "title": "Thai Sweet Potato Fritters",
+  "description": "Crispy fritters made with sweet potatoes, a perfect snack or side dish for any Thai meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "jagged",
+      "amount": "1 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine grated sweet potatoes, flour, and jagged. Mix well.",
+    "2. Heat about 1/2 inch of vegetable oil in a frying pan over medium heat.",
+    "3. Using a spoon, drop small portions of the sweet potato mixture into the oil.",
+    "4. Flatten the mixture slightly with a spatula.",
+    "5. Cook for 3-4 minutes or until the fritters are golden brown and crispy.",
+    "6. Flip the fritters over and cook for another 3-4 minutes.",
+    "7. Remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "8. Sprinkle crispy and kenyan on top of the fritters.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "sweet potatoes",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-kenyan-sweet-potato-fritters--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:52:04.497Z"
+}
