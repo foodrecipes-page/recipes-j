@@ -1,0 +1,79 @@
+{
+  "slug": "jazzy-filipino-ricotta-curry--italian",
+  "title": "Jazzy Italian Ricotta Ravioli",
+  "description": "A creative twist on traditional ricotta ravioli, made with jazzy flair and inspired by the Italian countryside. Perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "250g"
+    },
+    {
+      "name": "jazzy",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "curry",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "a drizzle"
+    }
+  ],
+  "instructions": [
+    "Combine ricotta, jazzy, curry, and egg in a bowl. Mix well.",
+    "Add flour and salt to the bowl. Mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece into a thin sheet.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a spoonful of ricotta mixture in the center of each circle.",
+    "Fold the dough over the filling to form a ravioli shape.",
+    "Repeat with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil. Cook the ravioli for 3-5 minutes, or until they float to the surface.",
+    "Drizzle with olive oil and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "ricotta",
+    "ravioli",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-filipino-ricotta-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:26:34.285Z"
+}
