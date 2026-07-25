@@ -13701,17 +13701,15 @@
   },
   {
     "slug": "juicy-peruvian-burrata-skillet",
-    "title": "Juicy Peruvian Burrata Skillet",
+    "title": "Peruvian Skillet with Juicy Chicken and Burrata",
     "tags": [
-      "cast-iron",
-      "kid-friendly",
-      "low-carb",
-      "one-pan",
       "peruvian",
-      "wine-based"
+      "chicken",
+      "skillet",
+      "burrata"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -20157,6 +20155,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-canadian-blackeye-pea-fritters--thai",
+    "title": "Thai Fritter Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "j"
   }
 ]
