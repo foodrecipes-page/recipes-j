@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-algerian-crustaceans-tagine",
+  "title": "North African Algerian Seafood Tagine",
+  "description": "A traditional North African dish from Algeria, made with a variety of crustaceans and a flavorful tagine sauce. Perfect for a warm evening with family and friends.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Scallops",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Algerian olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add cumin, coriander, and ginger. Cook for 1 minute.",
+    "Add garlic and cook for 1 minute.",
+    "Add mussels, shrimp, and scallops. Cook until the shells open, about 5 minutes.",
+    "Add chickpeas, olives, and tagine sauce. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "north-african",
+    "algerian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-algerian-crustaceans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:55:50.211Z"
+}
