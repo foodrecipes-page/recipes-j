@@ -1,0 +1,81 @@
+{
+  "slug": "juicy-buttery-almond-crumble--french",
+  "title": "French Almond Crumble Tart",
+  "description": "A delicious French dessert featuring a buttery almond crumble topping on a flaky pastry crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "white sugar"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup",
+      "notes": "available in store or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out the all-purpose flour to form a circle for the crust.",
+    "3. Place the rolled out dough into a 9-inch tart pan with a removable bottom.",
+    "4. Press the dough evenly into the corners of the pan.",
+    "5. In a separate bowl, combine the softened butter, almond flour, granulated sugar, and a pinch of salt.",
+    "6. Add the eggs to the almond flour mixture and mix until a dough forms.",
+    "7. Press the dough evenly into the crust.",
+    "8. Sprinkle the crumble topping over the dough.",
+    "9. Bake for 35-40 minutes or until the crust is golden brown.",
+    "10. Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "almond",
+    "tart",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-almond-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:48:42.539Z"
+}
