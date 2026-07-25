@@ -20176,5 +20176,44 @@
     "cuisine": "Thai",
     "totalTimeMin": 45,
     "shard": "j"
+  },
+  {
+    "slug": "jawshan-syrian-butter-tagine--thai",
+    "title": "Thai-Style Tagine Chicken",
+    "tags": [
+      "thaifood",
+      "tagine",
+      "chicken"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-caramelized-british-plum-stir-fry--vegan",
+    "title": "Vegan Plum Crumble",
+    "tags": [
+      "vegan",
+      "dessert",
+      "plum",
+      "oat",
+      "crumble"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-crisp-croatian-pork-lasagna--italian",
+    "title": "Croatian Lasagna",
+    "tags": [
+      "italian",
+      "pasta",
+      "lasagna",
+      "meat-sauce"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "j"
   }
 ]
