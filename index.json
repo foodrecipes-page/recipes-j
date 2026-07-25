@@ -13133,15 +13133,15 @@
   },
   {
     "slug": "juicy-mexican-jersey-royal-potatoes-tacos",
-    "title": "juicy mexican jersey royal potatoes tacos",
+    "title": "Royal Jersey Tacos",
     "tags": [
+      "royal",
+      "jersey",
       "mexican",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "tacos"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
