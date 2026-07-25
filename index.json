@@ -12208,17 +12208,15 @@
   },
   {
     "slug": "juicy-indian-broccoli-aloo-gobi",
-    "title": "Juicy Indian Broccoli Aloo Gobi",
+    "title": "Gobi Aloo Masala",
     "tags": [
-      "bento-box",
-      "gluten-free",
-      "indian-food",
-      "one-pan",
+      "indian",
       "vegetarian",
-      "weeknight"
+      "north-indian",
+      "gobi-aloo-masala"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -20214,6 +20212,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-chiapan-beans-burrito--keto",
+    "title": "Jubilant Chiapan Keto Burrito",
+    "tags": [
+      "low-carb",
+      "keto-friendly",
+      "mexican-cuisine"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
