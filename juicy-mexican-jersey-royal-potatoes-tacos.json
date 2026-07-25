@@ -1,0 +1,67 @@
+{
+  "slug": "juicy-mexican-jersey-royal-potatoes-tacos",
+  "title": "Royal Jersey Tacos",
+  "description": "A delicious fusion of Jersey flavors with a Mexican twist, perfect for a casual dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Royal Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Jersey Potatoes",
+      "amount": "1 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Juicy Tacos",
+      "amount": "4",
+      "notes": "Soft corn shells"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss diced Royal Potatoes with a little oil and roast in the oven for 20 minutes.",
+    "Grate Jersey Potatoes and squeeze out excess moisture.",
+    "In a pan, heat some oil and add grated potatoes. Cook until crispy.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by filling shells with roasted potatoes, crispy potatoes, cheese, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "royal",
+    "jersey",
+    "mexican",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-mexican-jersey-royal-potatoes-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:43:55.689Z"
+}
