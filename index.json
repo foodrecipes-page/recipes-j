@@ -2494,15 +2494,14 @@
   },
   {
     "slug": "jammy-ukrainian-saskatoon-berries-gratin",
-    "title": "Jammy Ukrainian Saskatoon Berries Gratin",
+    "title": "Saskatoon Berry Gratin",
     "tags": [
-      "clay-pot-cook",
+      "saskatoon-berry",
       "dessert",
-      "gluten-free",
-      "kid-friendly"
+      "canadian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -20164,6 +20163,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juvenescent-french-cardomom-tart--thai",
+    "title": "Thai Cardamom Tart",
+    "tags": [
+      "dessert",
+      "thaifood",
+      "cardamom"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
     "shard": "j"
   }
 ]
