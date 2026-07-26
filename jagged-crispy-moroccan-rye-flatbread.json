@@ -1,0 +1,67 @@
+{
+  "slug": "jagged-crispy-moroccan-rye-flatbread",
+  "title": "Crispy Moroccan Flatbread Topping with Jagged Rye",
+  "description": "A flavorful and crunchy flatbread topping made with crispy jagged rye, moroccan spices, and other delicious ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Jagged Rye",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together crispy jagged rye, moroccan spice blend, and salt.",
+    "3. Brush flatbread with olive oil on both sides.",
+    "4. Sprinkle the rye mixture evenly over the flatbread.",
+    "5. Bake in the oven for 10-12 minutes or until crispy and golden brown.",
+    "6. Remove from oven and sprinkle with fresh parsley.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "crispy",
+    "rye",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-crispy-moroccan-rye-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:31:55.582Z"
+}
