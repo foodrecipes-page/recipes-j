@@ -1,0 +1,70 @@
+{
+  "slug": "juicy-silky-polish-trout-pilaf--german",
+  "title": "Polish Trout with Pilaf",
+  "description": "A flavorful and light German-inspired dish featuring pan-seared trout served with a side of Polish-style pilaf.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "silkily smooth butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "polish rye bread crumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy lemon",
+      "amount": "1",
+      "notes": "juice and wedges for serving"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup cooked",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the trout fillets and pat them dry with a paper towel.",
+    "In a small bowl, mix together the butter, polish rye bread crumbs, and a pinch of salt and pepper.",
+    "Place the trout fillets on a baking sheet lined with parchment paper.",
+    "Sprinkle the butter mixture evenly over the trout fillets.",
+    "Bake in the preheated oven for 12-15 minutes or until cooked through.",
+    "While the trout is baking, heat a tablespoon of butter in a saucepan over medium heat.",
+    "Add the cooked pilaf to the saucepan and stir to combine with the butter.",
+    "Serve the pan-seared trout with the Polish-style pilaf and a squeeze of fresh lemon juice.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "pilaf",
+    "trout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-polish-trout-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:08:57.427Z"
+}
