@@ -20614,5 +20614,42 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-flavorful-mediterranean-beef-stew--german",
+    "title": "Beef Stew with Mediterranean Twist",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "mediterranean"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 150,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-savoy-cabbage-japanese-stir-fry--japanese",
+    "title": "Japanese Stir-Fried Cabbage",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-velvety-ukrainian-noodles--german",
+    "title": "Velvety Ukrainian Noodle Soup",
+    "tags": [
+      "german",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
