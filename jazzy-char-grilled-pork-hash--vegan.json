@@ -1,0 +1,82 @@
+{
+  "slug": "jazzy-char-grilled-pork-hash--vegan",
+  "title": "Pork-free Hash",
+  "description": "A vegan version of the classic hash dish, made with roasted vegetables and served as a side or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add mushroom and cook until tender, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add hash browns and cook, breaking up with a spoon, until golden brown and crispy, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving dish and garnish with parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "hash",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-char-grilled-pork-hash--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:26:07.765Z"
+}
