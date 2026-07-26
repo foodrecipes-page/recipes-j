@@ -1,0 +1,67 @@
+{
+  "slug": "jammy-jolted-korean-hazelnut-tteok--thai",
+  "title": "Korean-Style Sweet Tteok Bites",
+  "description": "A fusion dessert combining Korean tteok with a hint of jammy sweetness and crunchy hazelnut.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tteok",
+      "amount": "1 cup",
+      "notes": "Korean-style rice cakes"
+    },
+    {
+      "name": "Hazelnut",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Jammy",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jolted",
+      "amount": "1/4 cup, chopped nuts",
+      "notes": "Jolted peanuts for added crunch"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for added spice"
+    }
+  ],
+  "instructions": [
+    "1. Cut tteok into bite-sized pieces.",
+    "2. In a pan, toast chopped hazelnuts over medium heat, stirring frequently.",
+    "3. In a separate pan, heat jammy jam over low heat until warm and fragrant.",
+    "4. In a large bowl, combine toasted hazelnuts, jammy jam, and chopped jolted peanuts.",
+    "5. Add tteok pieces to the bowl and toss until well coated.",
+    "6. Sprinkle Korean chili flakes on top (if using).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "dessert",
+    "korean-style"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-jolted-korean-hazelnut-tteok--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:03:59.966Z"
+}
