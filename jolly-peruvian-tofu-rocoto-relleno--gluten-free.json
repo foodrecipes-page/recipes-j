@@ -1,0 +1,76 @@
+{
+  "slug": "jolly-peruvian-tofu-rocoto-relleno--gluten-free",
+  "title": "Grilled Rocoto Relleno",
+  "description": "A Peruvian-inspired dish featuring stuffed rocoto peppers, perfect for a gluten-free dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers (4)",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "relleno",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "jolly good rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "peruvian seasoning blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut off the tops of the rocoto peppers and remove seeds.",
+    "3. In a bowl, mix together cooked jolly good rice, cubed tofu, diced relleno, and peruvian seasoning blend.",
+    "4. Stuff each rocoto pepper with the rice mixture.",
+    "5. Drizzle with olive oil and season with salt.",
+    "6. Place the stuffed rocoto peppers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "gluten-free",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jolly-peruvian-tofu-rocoto-relleno--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:57:50.007Z"
+}
