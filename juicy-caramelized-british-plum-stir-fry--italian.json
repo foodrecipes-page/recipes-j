@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-caramelized-british-plum-stir-fry--italian",
+  "title": "Pan-Seared British Plum Cakes",
+  "description": "Moist plum cakes made with caramelized British plums, a perfect dessert for any occasion. Serve warm with a scoop of vanilla ice cream.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "British plums",
+      "amount": "4-5",
+      "notes": "caramelized"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Gently fold in the caramelized British plums.",
+    "Scoop the batter into 8-10 muffin cups.",
+    "Bake for 18-20 minutes, or until a toothpick inserted into the center of a cake comes out clean.",
+    "Allow the cakes to cool in the pan for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Dust the cakes with confectioners' sugar before serving.",
+    "Serve warm with a scoop of vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "british",
+    "plums",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-caramelized-british-plum-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:05:56.290Z"
+}
