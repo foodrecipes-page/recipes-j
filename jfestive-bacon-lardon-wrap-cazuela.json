@@ -1,0 +1,73 @@
+{
+  "slug": "jfestive-bacon-lardon-wrap-cazuela",
+  "title": "Cazuela Wrap with Lardon and Jfestive",
+  "description": "A twist on the classic Spanish omelette, with crispy lardon and spicy jfestive.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cazuela",
+      "amount": "1",
+      "notes": "preferably Spanish omelette pan"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "crispy and diced"
+    },
+    {
+      "name": "lardon",
+      "amount": "100g",
+      "notes": "thick-cut and diced"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "large flour or corn tortilla"
+    },
+    {
+      "name": "jfestive",
+      "amount": "1/4 cup",
+      "notes": " diced, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the lardon in a pan over medium heat until crispy.",
+    "2. Remove the lardon from the pan and set aside.",
+    "3. Crack the eggs from the cazuela into a bowl and whisk.",
+    "4. Add the diced jfestive to the eggs and mix.",
+    "5. Add the cooked lardon back into the pan and pour in the egg mixture.",
+    "6. Cook for 2-3 minutes until the eggs start to set.",
+    "7. Add diced bacon to the pan and mix.",
+    "8. Use a spatula to gently fold the omelette in half.",
+    "9. Cook for another 2 minutes.",
+    "10. Warm the wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "11. Assemble the wraps by placing a portion of the omelette onto each wrap.",
+    "12. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "lardon",
+    "jfestive"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jfestive-bacon-lardon-wrap-cazuela",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:00:06.730Z"
+}
