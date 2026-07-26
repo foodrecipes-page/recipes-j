@@ -1,0 +1,68 @@
+{
+  "slug": "jubilant-velvety-ukrainian-noodles--german",
+  "title": "Velvety Ukrainian Noodle Soup",
+  "description": "A hearty German-inspired noodle soup with a smooth, velvety texture and Ukrainian flair.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "jubilant",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the noodles and Ukrainian ingredient and cook for 5 minutes.",
+    "Stir in the velvety ingredient and Jubilant seasoning.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-velvety-ukrainian-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:54:01.108Z"
+}
