@@ -20703,5 +20703,30 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-polish-trout-pilaf--german",
+    "title": "Polish Trout with Pilaf",
+    "tags": [
+      "german",
+      "fish",
+      "pilaf",
+      "trout"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-spicy-egyptian-red-snapper-bowl--chinese",
+    "title": "Spicy Red Snapper Bowl",
+    "tags": [
+      "chinese",
+      "snapper",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "j"
   }
 ]
