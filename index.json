@@ -11836,18 +11836,15 @@
   },
   {
     "slug": "juicy-greek-feta-bowl",
-    "title": "Juicy Greek Feta Bowl",
+    "title": "Greek Feta Salad Bowl",
     "tags": [
-      "easy-assembly",
+      "salad",
       "greek",
-      "homemade",
-      "molten",
-      "nostalgic",
-      "peppery",
-      "quick-meal"
+      "feta",
+      "tomatoes"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "j"
   },
   {
@@ -20565,6 +20562,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry--gluten-free",
+    "title": "Gluten-Free Indian-Style Burger",
+    "tags": [
+      "indian",
+      "burger",
+      "gluten-free",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "journey-smoky-korean-rice-bowl--french",
+    "title": "Smoky French Journey Rice Bowl",
+    "tags": [
+      "french",
+      "rice-bowl",
+      "korean-bbq",
+      "smoky-gouda"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
