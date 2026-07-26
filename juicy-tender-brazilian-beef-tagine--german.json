@@ -1,0 +1,88 @@
+{
+  "slug": "juicy-tender-brazilian-beef-tagine--german",
+  "title": "Beef Tagine Roulades with German Seasonings",
+  "description": "A twist on traditional German beef roulades with the bold flavors of a Brazilian tagine. A hearty dish perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy beef tenderloin",
+      "amount": "1 lb",
+      "notes": "sliced into 1-inch thick pieces"
+    },
+    {
+      "name": "brazilian tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "german seasonings (salt, pepper, thyme, and rosemary)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the beef with salt, pepper, thyme, and rosemary.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Sear the beef until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the beef to a baking dish.",
+    "In the same skillet, add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Brazilian tagine spice blend and cook for 1 minute.",
+    "Add the white wine and beef broth, scraping up any browned bits from the bottom of the pan.",
+    "Bring the liquid to a simmer and cook until reduced by half, about 5 minutes.",
+    "Pour the tagine sauce over the beef and cover with aluminum foil.",
+    "Bake in the preheated oven for 20-25 minutes or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the beef rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "tagine",
+    "roulades"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-brazilian-beef-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:24:25.136Z"
+}
