@@ -1,0 +1,89 @@
+{
+  "slug": "juicy-flavorful-mediterranean-beef-stew--german",
+  "title": "Beef Stew with Mediterranean Twist",
+  "description": "A hearty German-inspired beef stew with a Mediterranean flair, featuring tender beef and vegetables in a rich broth.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown beef cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove browned beef from pot and set aside.",
+    "Add chopped onion to pot and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped carrots and potatoes; cook for 5 minutes.",
+    "Add red wine, beef broth, and tomato paste; stir to combine.",
+    "Return browned beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until beef is tender, about 2 hours.",
+    "Stir in chopped parsley and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-flavorful-mediterranean-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:15:21.540Z"
+}
