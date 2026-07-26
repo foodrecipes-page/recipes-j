@@ -1,0 +1,94 @@
+{
+  "slug": "juicy-spiced-malaysian-tomato-stir-fry--mexican",
+  "title": "Malaysian Inspired Beef Fajitas",
+  "description": "Spicy beef fajitas with a malaysian twist, served with warm flour tortillas and a side of stir-fried tomatoes.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "malaysian stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "spiced beef seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the beef seasoning and cook for 2 minutes.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the malaysian stir-fry sauce and stir to coat.",
+    "Add the sliced onions and bell peppers and stir-fry for 2-3 minutes.",
+    "Add the juicy tomatoes and stir-fry for 1 minute.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the beef and vegetables onto the tortillas and topping with shredded cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "fajitas",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-spiced-malaysian-tomato-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:38:34.875Z"
+}
