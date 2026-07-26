@@ -1,0 +1,102 @@
+{
+  "slug": "juicy-jellied-syrian-vegetables-wrap--keto",
+  "title": "Keto Syrian Wrap",
+  "description": "A delicious and healthy keto Syrian wrap filled with crispy vegetables and flavorful jellied meat.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian jellied meat",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Juicy lettuce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Vegetables (cucumber, tomato, bell pepper)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap the Syrian jellied meat in aluminum foil and bake for 10 minutes.",
+    "Chop the juicy lettuce, cucumber, tomato, and bell pepper.",
+    "Prepare the vegetables by slicing them thinly.",
+    "Mix the feta cheese with olive oil, salt, and black pepper.",
+    "Assemble the wrap by spreading the feta cheese mixture on the wrap, then adding the chopped vegetables and jellied meat.",
+    "Drizzle with olive oil and serve immediately.",
+    "Cook time: 12 minutes.",
+    "Total time: 22 minutes.",
+    "Servings: 1."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "syrian",
+    "wrap",
+    "meat",
+    "vegetables",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-jellied-syrian-vegetables-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:15:51.342Z"
+}
