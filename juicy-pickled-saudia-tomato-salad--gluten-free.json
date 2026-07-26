@@ -1,0 +1,71 @@
+{
+  "slug": "juicy-pickled-saudia-tomato-salad--gluten-free",
+  "title": "Saudi-Style Grilled Chicken Salad",
+  "description": "A simple and flavorful salad featuring grilled chicken, juicy tomatoes, and pickled vegetables, all topped with a refreshing salad and a touch of Saudi flair.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "juicy and ripe"
+    },
+    {
+      "name": "pickled vegetables",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salad greens",
+      "amount": "4 cups",
+      "notes": "fresh and crisp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling chicken"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season chicken breast with salt and pepper.",
+    "3. Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Let chicken rest for 5 minutes before slicing.",
+    "5. In a large bowl, combine sliced chicken, diced tomatoes, pickled vegetables, and salad greens.",
+    "6. Drizzle with olive oil and lemon juice.",
+    "7. Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "salad",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-pickled-saudia-tomato-salad--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:35:04.886Z"
+}
