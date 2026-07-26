@@ -20589,5 +20589,30 @@
     "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-dutch-rice-pilaf--mexican",
+    "title": "Mexican Rice Pilaf",
+    "tags": [
+      "mexican",
+      "rice",
+      "pilaf"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-kenyan-chicken-skillet--italian",
+    "title": "Chicken Skillet Italian-Style",
+    "tags": [
+      "italian",
+      "chicken",
+      "skillet",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "j"
   }
 ]
