@@ -1,0 +1,91 @@
+{
+  "slug": "jewel-toned-dutch-rice-pilaf--mexican",
+  "title": "Mexican Rice Pilaf",
+  "description": "A flavorful Mexican dish made with rice, pilaf, and spices. This recipe is a great side dish for any Mexican meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jewel rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toned chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch oven",
+      "amount": "",
+      "notes": "For cooking the rice"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons olive oil in a Dutch oven over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add Jewel rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add Toned chicken broth, Pilaf, cumin, chili powder, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Fluff with a fork and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "rice",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-dutch-rice-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:22:12.517Z"
+}
