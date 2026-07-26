@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-silky-kenyan-chicken-skillet--italian",
+  "title": "Chicken Skillet Italian-Style",
+  "description": "A classic Italian-inspired chicken dish cooked in a skillet with juicy flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kenyan tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "silky parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the sliced onion and cook for 3-4 minutes, or until softened.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the crushed tomatoes and Italian seasoning. Stir to combine.",
+    "Return the chicken to the skillet and simmer for 5 minutes, or until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "skillet",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-kenyan-chicken-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:49:36.906Z"
+}
