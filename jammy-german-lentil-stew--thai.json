@@ -1,0 +1,83 @@
+{
+  "slug": "jammy-german-lentil-stew--thai",
+  "title": "Lentil Stew",
+  "description": "A hearty Thai-inspired lentil stew made with a blend of aromatic spices. Serve with steamed rice for a comforting meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup dried green lentils, rinsed and drained",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "german",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "any neutral-tasting oil"
+    },
+    {
+      "name": "stew",
+      "amount": "2 medium onions, chopped",
+      "notes": "any variety"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated fresh ginger",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium broth or stock"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large pot over medium heat.",
+    "Add onions and cook, stirring occasionally, until they begin to soften, about 5 minutes.",
+    "Add garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add red curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add lentils, coconut milk, and vegetable broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until lentils are tender, about 30-40 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-german-lentil-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:13:20.743Z"
+}
