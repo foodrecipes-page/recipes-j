@@ -1,0 +1,66 @@
+{
+  "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry--gluten-free",
+  "title": "Gluten-Free Indian-Style Burger",
+  "description": "A flavorful and healthy twist on the classic burger, featuring an Indian-inspired patty and toppings.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy Burger Patty",
+      "amount": "4",
+      "notes": "Made with ground meat and Indian spices"
+    },
+    {
+      "name": "Garlic Naan Buns",
+      "amount": "2",
+      "notes": "Gluten-free and flavored with garlic"
+    },
+    {
+      "name": "Stir-Fried Onions",
+      "amount": "1",
+      "notes": "Sautéed with Indian spices"
+    },
+    {
+      "name": "Mint Chutney",
+      "amount": "1/2 cup",
+      "notes": "A tangy and refreshing condiment"
+    },
+    {
+      "name": "Burger Toppings",
+      "amount": "as needed",
+      "notes": "Choose your favorite toppings"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Form the juicy burger patty and grill for 4-5 minutes per side, or until cooked to your liking.",
+    "3. Meanwhile, toast the garlic naan buns on the grill or in a toaster.",
+    "4. Stir-fry the onions with Indian spices until softened and fragrant.",
+    "5. Assemble the burger by spreading mint chutney on the bottom bun, followed by the burger patty, stir-fried onions, and any desired toppings.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "burger",
+    "gluten-free",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "25g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-adventurous-indian-garlic-burger-bun-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:19:56.755Z"
+}
