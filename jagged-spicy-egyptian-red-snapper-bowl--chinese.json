@@ -1,0 +1,81 @@
+{
+  "slug": "jagged-spicy-egyptian-red-snapper-bowl--chinese",
+  "title": "Spicy Red Snapper Bowl",
+  "description": "A flavorful and spicy Chinese-inspired dish featuring snapper, served in a bowl with an assortment of spices and vegetables.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "jagged red chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season snapper fillets with egyptian spices.",
+    "Heat a skillet over medium-high heat.",
+    "Add sliced jagged red chilies and cook for 2 minutes.",
+    "Add snapper fillets and sear for 2-3 minutes per side.",
+    "Transfer skillet to the preheated oven and bake for 8-10 minutes.",
+    "While snapper is baking, mix soy sauce, brown sugar, and rice vinegar in a small bowl.",
+    "Remove snapper from the oven and brush with the soy sauce mixture.",
+    "Garnish with chopped green onions and serve in a bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snapper",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-spicy-egyptian-red-snapper-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:37:18.655Z"
+}
