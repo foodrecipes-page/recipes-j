@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-greek-feta-bowl",
+  "title": "Greek Feta Salad Bowl",
+  "description": "A refreshing salad made with juicy tomatoes, crumbled feta cheese, and a hint of greek flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Greek Olives",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the sliced tomatoes, olives, cucumber, and red onion.",
+    "2. Crumble the feta cheese and sprinkle it over the salad.",
+    "3. Chop the fresh parsley and sprinkle it over the salad.",
+    "4. Drizzle the extra virgin olive oil over the salad.",
+    "5. Squeeze the red wine vinegar over the salad and toss to combine.",
+    "6. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "greek",
+    "feta",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-greek-feta-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:37:57.050Z"
+}
