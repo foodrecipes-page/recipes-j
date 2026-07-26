@@ -1,0 +1,68 @@
+{
+  "slug": "jain-friendly-roasted-american-challots-grill--german",
+  "title": "Grilled Bratwurst with Sauerkraut and Potatoes",
+  "description": "A classic German dish featuring grilled bratwurst, tangy sauerkraut, and tender potatoes, all roasted to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Jain Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Challots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Roasted Vegetable Sauerkraut",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "American Mustard",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the bratwurst for 5-7 minutes per side, or until nicely charred.",
+    "Meanwhile, toss the sliced potatoes and challots with a little oil and season with salt and pepper.",
+    "Grill the potato mixture for 5-7 minutes per side, or until tender and lightly browned.",
+    "Serve the grilled bratwurst with sauerkraut, potatoes, and a dollop of American mustard.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "bratwurst",
+    "sauerkraut",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jain-friendly-roasted-american-challots-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:06:17.231Z"
+}
