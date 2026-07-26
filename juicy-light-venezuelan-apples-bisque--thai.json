@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-light-venezuelan-apples-bisque--thai",
+  "title": "Thai Apple Bisque",
+  "description": "A refreshing twist on a classic bisque, combining the sweetness of apples with the bold flavors of Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Apples",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Light Coconut Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Cane Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the Thai Red Curry Paste in a little bit of oil until fragrant.",
+    "Add the chopped apples and cook until they start to soften.",
+    "Pour in the Vegetable Broth and bring the mixture to a boil.",
+    "Reduce the heat and let it simmer for 20 minutes.",
+    "Use an immersion blender to puree the mixture until smooth.",
+    "Stir in the Light Coconut Milk and Venezuelan Cane Sugar.",
+    "Return the pot to the heat and warm the bisque through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh Cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "bisque",
+    "apples",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-venezuelan-apples-bisque--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:23:26.736Z"
+}
