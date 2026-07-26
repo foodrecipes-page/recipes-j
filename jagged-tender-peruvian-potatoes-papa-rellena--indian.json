@@ -1,0 +1,93 @@
+{
+  "slug": "jagged-tender-peruvian-potatoes-papa-rellena--indian",
+  "title": "Peruvian Potato Rellena",
+  "description": "A twist on traditional Indian street food, these crispy potato cakes are filled with a delicious Peruvian-style beef and potato mixture.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jagged potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tender potatoes",
+      "amount": "1 large",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound",
+      "notes": "cooked and crumbled"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1-2 inches of oil in a deep frying pan to 350°F (175°C).",
+    "Mix grated potatoes, onion, garlic, cumin, coriander, paprika, salt, and pepper in a bowl.",
+    "Add cooked beef to the potato mixture and mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Carefully place the patties in the hot oil and fry until golden brown, about 3-4 minutes per side.",
+    "Remove the patties from the oil and place on a paper towel-lined plate.",
+    "Serve hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-recipe",
+    "peruvian-cuisine",
+    "potato-recipe",
+    "snack-recipe",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-tender-peruvian-potatoes-papa-rellena--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:10:46.447Z"
+}
