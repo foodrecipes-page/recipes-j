@@ -20499,5 +20499,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 27,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-caramelized-british-plum-stir-fry--italian",
+    "title": "Pan-Seared British Plum Cakes",
+    "tags": [
+      "italian",
+      "british",
+      "plums",
+      "cake"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
