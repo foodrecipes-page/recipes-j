@@ -20512,5 +20512,59 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-jellied-syrian-vegetables-wrap--keto",
+    "title": "Keto Syrian Wrap",
+    "tags": [
+      "keto",
+      "syrian",
+      "wrap",
+      "meat",
+      "vegetables",
+      "low-carb"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-light-venezuelan-apples-bisque--thai",
+    "title": "Thai Apple Bisque",
+    "tags": [
+      "thai",
+      "bisque",
+      "apples",
+      "soup"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tender-brazilian-beef-tagine--german",
+    "title": "Beef Tagine Roulades with German Seasonings",
+    "tags": [
+      "german",
+      "beef",
+      "tagine",
+      "roulades"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-spiced-malaysian-tomato-stir-fry--mexican",
+    "title": "Malaysian Inspired Beef Fajitas",
+    "tags": [
+      "beef",
+      "mexican",
+      "fajitas",
+      "malaysian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
