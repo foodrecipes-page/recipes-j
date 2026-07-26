@@ -1,0 +1,76 @@
+{
+  "slug": "jubilant-light-indian-dough-gulab-jamun--mexican",
+  "title": "Jubilant Indian Gulab Jamun Dessert",
+  "description": "A Mexican-inspired twist on the traditional Indian dessert, featuring jubilant gulab jamun dough balls in a sweet and tangy light syrup.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jubilant dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "light syrup",
+      "amount": "1 cup",
+      "notes": "equal parts water and sugar, simmered until dissolved"
+    },
+    {
+      "name": "gulab",
+      "amount": "1/4 cup",
+      "notes": "dried or fresh, rehydrated and chopped"
+    },
+    {
+      "name": "jamun",
+      "amount": "1/2 cup",
+      "notes": "dried or fresh, rehydrated and chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/4 tsp",
+      "notes": "ground, optional"
+    }
+  ],
+  "instructions": [
+    "1. Combine light syrup and gulab in a saucepan, bringing to a boil over medium heat.",
+    "2. Reduce heat to low and simmer for 5 minutes, or until syrup has thickened slightly.",
+    "3. Add jamun and vanilla extract (if using) to the syrup, stirring to combine.",
+    "4. Meanwhile, cut jubilant dough into small balls, about 1-inch in diameter.",
+    "5. Fry dough balls in hot oil until golden brown, about 2-3 minutes per side.",
+    "6. Remove fried dough balls from oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Add fried dough balls to the syrup and toss to coat.",
+    "8. Serve warm or at room temperature, garnished with chopped cardamom (if using).",
+    "9. Refrigerate leftovers in an airtight container for up to 3 days.",
+    "10. Reheat in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "indian",
+    "dessert",
+    "sweet",
+    "gulabjamun"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-light-indian-dough-gulab-jamun--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:02:36.059Z"
+}
