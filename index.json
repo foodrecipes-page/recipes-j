@@ -346,17 +346,15 @@
   },
   {
     "slug": "jagged-crispy-moroccan-rye-flatbread",
-    "title": "Jagged Crispy Moroccan Rye Flatbread",
+    "title": "Crispy Moroccan Flatbread Topping with Jagged Rye",
     "tags": [
-      "flatbread",
-      "moroccan-food",
-      "rye-bread",
-      "snack",
-      "vegan",
-      "vegetarian"
+      "moroccan",
+      "crispy",
+      "rye",
+      "flatbread"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 22,
     "shard": "j"
   },
   {
@@ -13063,14 +13061,16 @@
   },
   {
     "slug": "juicy-mediterranean-tomato-stir-fry",
-    "title": "Juicy Mediterranean Tomato Stir-fry",
+    "title": "Mediterranean Stir Fry",
     "tags": [
-      "juicy-mediterranean-tomato-stir-fry",
-      "fermented-malaysian-dish",
-      "nostalgic-malaysian-recipe"
+      "mediterranean",
+      "stir-fry",
+      "easy",
+      "quick",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -20370,6 +20370,31 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-jolted-korean-hazelnut-tteok--thai",
+    "title": "Korean-Style Sweet Tteok Bites",
+    "tags": [
+      "sweet",
+      "dessert",
+      "korean-style"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-char-grilled-pork-hash--vegan",
+    "title": "Pork-free Hash",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "hash",
+      "side-dish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "j"
   }
 ]
