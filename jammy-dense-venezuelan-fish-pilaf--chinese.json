@@ -1,0 +1,62 @@
+{
+  "slug": "jammy-dense-venezuelan-fish-pilaf--chinese",
+  "title": "Venezuelan-Style Fish Pilaf",
+  "description": "A delicious fusion dish combining the flavors of Venezuela and China, featuring fish and pilaf as the main ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "any firm white fish works well"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "jammy",
+      "amount": "2 tablespoons",
+      "notes": "Venezuelan-style jam or chutney"
+    },
+    {
+      "name": "dense",
+      "amount": "1/4 cup",
+      "notes": "chopped scallions"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the fish and cook for 3-4 minutes on each side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the pilaf to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the jammy and dense to the skillet and stir to combine.",
+    "Return the fish to the skillet and stir to coat with the pilaf mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pilaf",
+    "chinese-fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-dense-venezuelan-fish-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:12:12.707Z"
+}
