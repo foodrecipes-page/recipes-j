@@ -5888,14 +5888,15 @@
   },
   {
     "slug": "jfestive-bacon-lardon-wrap-cazuela",
-    "title": "JFestive Bacon Lardon Wrap Cazuela",
+    "title": "Cazuela Wrap with Lardon and Jfestive",
     "tags": [
-      "bacon-lardon",
-      "low-glycemic-friendly",
-      "sam-wrap"
+      "spanish",
+      "breakfast",
+      "lardon",
+      "jfestive"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -20675,6 +20676,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jolly-peruvian-tofu-rocoto-relleno--gluten-free",
+    "title": "Grilled Rocoto Relleno",
+    "tags": [
+      "peruvian",
+      "gluten-free",
+      "grilled"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jain-friendly-roasted-american-challots-grill--german",
+    "title": "Grilled Bratwurst with Sauerkraut and Potatoes",
+    "tags": [
+      "german",
+      "grilled",
+      "bratwurst",
+      "sauerkraut",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "j"
   }
 ]
