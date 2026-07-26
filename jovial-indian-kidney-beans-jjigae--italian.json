@@ -1,0 +1,76 @@
+{
+  "slug": "jovial-indian-kidney-beans-jjigae--italian",
+  "title": "Italian-Style Kidney Bean Jjigae",
+  "description": "A unique fusion of Italian and Korean flavors, combining kidney beans with jovial spices and a hint of Indian flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can, 14.5 oz"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jjigae paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add kidney beans, diced tomatoes, tomato paste, jjigae paste, and italian seasoning.",
+    "Stir well to combine and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Cook time: 10-15 minutes.",
+    "Total time: 25-30 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-korean-fusion",
+    "vegetarian",
+    "kidney-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jovial-indian-kidney-beans-jjigae--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:33:58.031Z"
+}
