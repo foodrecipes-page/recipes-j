@@ -1,0 +1,93 @@
+{
+  "slug": "juicy-grill-xinjiang-jumbo-shrimp-skewers--keto",
+  "title": "Keto Xinjiang Shrimp Skewers",
+  "description": "A flavorful and spicy keto dish from Xinjiang region, featuring succulent shrimp grilled to perfection on skewers.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy large shrimp",
+      "amount": "12 pieces",
+      "notes": "deveined and peeled"
+    },
+    {
+      "name": "grill oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "xinxing chili pepper",
+      "amount": "2-3",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1 tablespoon of water"
+    },
+    {
+      "name": "toasted cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "toasted coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "xiao bai cai",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together chili pepper, brown sugar, cumin, coriander, salt, and black pepper.",
+    "Brush grill oil onto the skewers and sprinkle with chili pepper mixture.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Transfer skewers to a plate and garnish with chopped xiao bai cai and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "grilled",
+    "shrimp",
+    "xinjiang",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-grill-xinjiang-jumbo-shrimp-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:18:18.963Z"
+}
