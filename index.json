@@ -20409,5 +20409,95 @@
     "cuisine": "thai",
     "totalTimeMin": 55,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-light-indian-dough-gulab-jamun--mexican",
+    "title": "Jubilant Indian Gulab Jamun Dessert",
+    "tags": [
+      "mexican",
+      "indian",
+      "dessert",
+      "sweet",
+      "gulabjamun"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-dense-venezuelan-fish-pilaf--chinese",
+    "title": "Venezuelan-Style Fish Pilaf",
+    "tags": [
+      "fish",
+      "pilaf",
+      "chinese-fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-grill-xinjiang-jumbo-shrimp-skewers--keto",
+    "title": "Keto Xinjiang Shrimp Skewers",
+    "tags": [
+      "keto",
+      "grilled",
+      "shrimp",
+      "xinjiang",
+      "skewers"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoked-roman-italian-black-beans-tacos--mexican",
+    "title": "Smoked Bean Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "smoked",
+      "beans"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-german-lentil-stew--german",
+    "title": "German Lentil Stew",
+    "tags": [
+      "german",
+      "lentils",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jovial-indian-kidney-beans-jjigae--italian",
+    "title": "Italian-Style Kidney Bean Jjigae",
+    "tags": [
+      "italian-korean-fusion",
+      "vegetarian",
+      "kidney-beans"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-pickled-saudia-tomato-salad--gluten-free",
+    "title": "Saudi-Style Grilled Chicken Salad",
+    "tags": [
+      "grilled-chicken",
+      "salad",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
+    "shard": "j"
   }
 ]
