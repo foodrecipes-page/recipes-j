@@ -1,0 +1,72 @@
+{
+  "slug": "journey-smoky-korean-rice-bowl--french",
+  "title": "Smoky French Journey Rice Bowl",
+  "description": "A classic French dish with a smoky twist, served in a bowl with steamed rice and a variety of flavors.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "Dinner",
+  "ingredients": [
+    {
+      "name": "Journey Korean BBQ Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Gouda Cheese",
+      "amount": "2 cups shredded",
+      "notes": ""
+    },
+    {
+      "name": "Steamed French Rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sweet potatoes with 1 tsp olive oil, salt, and pepper. Roast for 20 minutes.",
+    "In a large bowl, combine steamed rice, roasted sweet potatoes, and Korean chili flakes.",
+    "In a separate pan, heat journey Korean BBQ sauce over medium heat.",
+    "Add shredded Smoky Gouda cheese to the sauce and stir until melted.",
+    "Pour the sauce and cheese mixture over the rice and sweet potatoes.",
+    "Garnish with fresh scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "Medium",
+  "tags": [
+    "french",
+    "rice-bowl",
+    "korean-bbq",
+    "smoky-gouda"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/journey-smoky-korean-rice-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:28:21.827Z"
+}
