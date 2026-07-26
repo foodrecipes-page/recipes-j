@@ -20357,5 +20357,19 @@
     "cuisine": "indian",
     "totalTimeMin": 27,
     "shard": "j"
+  },
+  {
+    "slug": "jazzy-venezuelan-rice-fried-rice--japanese",
+    "title": "Japanese Fried Rice",
+    "tags": [
+      "japanese",
+      "rice",
+      "fried",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "j"
   }
 ]
