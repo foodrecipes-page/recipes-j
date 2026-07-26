@@ -1,0 +1,72 @@
+{
+  "slug": "jagged-smoky-moroccan-sloe-berries-briouat--chinese",
+  "title": "Sloe Berry Briouat",
+  "description": "A unique dessert fusion of Moroccan briouat pastry with Chinese-inspired sloe berry filling, perfect for adventurous eaters.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Briouat Pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Sloe Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Light Corn Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Jagged Red Pepper, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the briouat pastry and cut into desired shapes.",
+    "In a bowl, mix together sloe berries, granulated sugar, corn syrup, and Moroccan spices.",
+    "Brush the edges of the pastry with beaten egg and fill with the berry mixture.",
+    "Fold the pastry over the filling and press edges to seal.",
+    "Brush the tops of the pastries with vegetable oil and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "moroccan",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-moroccan-sloe-berries-briouat--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:42:22.356Z"
+}
