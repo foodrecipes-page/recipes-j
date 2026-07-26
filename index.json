@@ -20343,5 +20343,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "j"
+  },
+  {
+    "slug": "jagged-tender-peruvian-potatoes-papa-rellena--indian",
+    "title": "Peruvian Potato Rellena",
+    "tags": [
+      "indian-recipe",
+      "peruvian-cuisine",
+      "potato-recipe",
+      "snack-recipe",
+      "street-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "j"
   }
 ]
