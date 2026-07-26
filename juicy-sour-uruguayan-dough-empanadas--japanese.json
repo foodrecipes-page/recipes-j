@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-sour-uruguayan-dough-empanadas--japanese",
+  "title": "Japanese Empanada Teriyaki",
+  "description": "A twist on traditional empanadas by combining Uruguayan dough with Japanese teriyaki flavors, perfect for a quick dinner.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dough",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Uruguayan Empanada Dough",
+      "amount": "1 cup",
+      "notes": "you can substitute with regular dough"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Juicy Shrimp",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough and cut into circles.",
+    "Mix the ground beef with a pinch of salt and black pepper.",
+    "Place a tablespoon of the meat mixture in the center of each dough circle.",
+    "Add a few pieces of green onion and a piece of shrimp on top of the meat.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops with teriyaki sauce and sprinkle with sesame seeds.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve with a dollop of sour cream and a side of soy sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "japanese",
+    "dinner",
+    "beef",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-sour-uruguayan-dough-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:29:30.028Z"
+}
