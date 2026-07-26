@@ -1,0 +1,79 @@
+{
+  "slug": "jammy-german-lentil-stew--german",
+  "title": "German Lentil Stew",
+  "description": "A hearty and comforting German-inspired lentil stew made with a variety of vegetables and spices. Serve with some crusty bread for a satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "250g",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "german",
+      "amount": "2 tablespoons",
+      "notes": "Grain mustard"
+    },
+    {
+      "name": "jammy",
+      "amount": "1 onion",
+      "notes": "Chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "2 carrots",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 liter",
+      "notes": "Vegetable broth"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for another 5 minutes.",
+    "Add the lentils, grain mustard, salt, and pepper. Stir to combine.",
+    "Add the water and bay leaves. Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Remove the bay leaves and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-german-lentil-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:29:38.003Z"
+}
