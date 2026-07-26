@@ -20649,5 +20649,32 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-sour-uruguayan-dough-empanadas--japanese",
+    "title": "Japanese Empanada Teriyaki",
+    "tags": [
+      "empanadas",
+      "japanese",
+      "dinner",
+      "beef",
+      "shrimp"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-moroccan-sloe-berries-briouat--chinese",
+    "title": "Sloe Berry Briouat",
+    "tags": [
+      "chinese",
+      "dessert",
+      "moroccan",
+      "fruit"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
