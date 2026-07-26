@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-mediterranean-tomato-stir-fry",
+  "title": "Mediterranean Stir Fry",
+  "description": "A flavorful and quick stir fry packed with Mediterranean ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2",
+      "notes": "Cherry tomatoes"
+    },
+    {
+      "name": "Mediterranean Stir Fry Mix",
+      "amount": "1 cup",
+      "notes": "Pre-made mix from the grocery store"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the Mediterranean stir fry mix and cook according to package instructions.",
+    "Add the juicy tomatoes and cook for an additional 3-4 minutes, until they start to break down.",
+    "Stir in the crumbled feta cheese and chopped parsley.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "easy",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-mediterranean-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:02:01.306Z"
+}
