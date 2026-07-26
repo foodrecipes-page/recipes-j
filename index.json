@@ -19969,15 +19969,13 @@
   },
   {
     "slug": "jazzy-algerian-almond-tagine--french",
-    "title": "Jazzy Algerian Chicken Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
       "chicken",
-      "north-african",
-      "tagine",
-      "algerian",
-      "french"
+      "almonds",
+      "algerian"
     ],
-    "cuisine": "french",
+    "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "j"
   },
