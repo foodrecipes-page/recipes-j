@@ -1,0 +1,67 @@
+{
+  "slug": "jazzy-venezuelan-rice-fried-rice--japanese",
+  "title": "Japanese Fried Rice",
+  "description": "A classic Japanese dish made with stir-fried rice, vegetables, and your choice of protein. Serve immediately for a quick and easy meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fried rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "jazzy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the scallions and cook until they are softened.",
+    "Add the fried rice and stir-fry for 2-3 minutes.",
+    "Add the jazzy and venezuelan and stir-fry for another 2-3 minutes.",
+    "Season with soy sauce to taste (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice",
+    "fried",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-venezuelan-rice-fried-rice--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:08:43.258Z"
+}
