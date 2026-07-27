@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-croatian-beans-bake--italian",
+  "title": "Italian-Style Baked Beans",
+  "description": "A twist on traditional baked beans with a Mediterranean flair.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch\"|\"dinner",
+  "ingredients": [
+    {
+      "name": "croatian beans",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, combine the Croatian beans, crushed tomatoes, olive oil, minced garlic, oregano, basil, salt, and black pepper.",
+    "Transfer the mixture to a baking dish.",
+    "Cover with aluminum foil and bake for 1 hour.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "beans",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-croatian-beans-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:19:09.352Z"
+}
