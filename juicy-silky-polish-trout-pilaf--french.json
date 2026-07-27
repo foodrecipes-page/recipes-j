@@ -1,0 +1,89 @@
+{
+  "slug": "juicy-silky-polish-trout-pilaf--french",
+  "title": "French Trout Pilaf",
+  "description": "A delicate French-inspired pilaf dish featuring pan-seared trout and perfectly cooked rice.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "silk onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until caramelized, about 8 minutes.",
+    "Add the sliced carrots and cook for an additional 5 minutes.",
+    "Add the polish sausage and cook until browned, about 4 minutes.",
+    "Add the pilaf rice and stir to combine. Cook for 1-2 minutes.",
+    "Add 2 cups of water and bring to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "While the rice cooks, season the trout fillets with salt and pepper.",
+    "Heat a non-stick skillet over medium heat. Add a small amount of oil and sear the trout fillets for 2-3 minutes per side.",
+    "Serve the trout fillets on top of the pilaf rice, garnished with a lemon wedge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pilaf",
+    "trout",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-polish-trout-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:55:10.288Z"
+}
