@@ -1,0 +1,92 @@
+{
+  "slug": "juicy-ethiopian-lamb-skewers--thai",
+  "title": "Thai Lamb Satay Skewers",
+  "description": "A Thai-inspired appetizer featuring marinated lamb chunks grilled to perfection on skewers. Serve with a side of peanut sauce for dipping.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "chopped (for garnish)"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine curry paste, coconut milk, fish sauce, brown sugar, and lime juice. Blend until smooth.",
+    "2. Add the lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat. Thread the marinated lamb onto the skewers, leaving a small space between each piece.",
+    "4. Brush the grill with vegetable oil to prevent sticking. Grill the lamb skewers for 8-10 minutes, turning occasionally, or until cooked to your desired level of doneness.",
+    "5. Meanwhile, prepare the peanut sauce by blending the peanut butter, 2 tablespoons of water, and 1 tablespoon of lime juice until smooth. Season with salt to taste.",
+    "6. Serve the lamb skewers hot with a side of peanut sauce for dipping. Garnish with chopped peanuts and fresh cilantro (if desired).",
+    "7. Enjoy as an appetizer or snack!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "appetizer",
+    "snack",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-ethiopian-lamb-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:00:59.168Z"
+}
