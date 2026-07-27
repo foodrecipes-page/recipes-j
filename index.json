@@ -20880,5 +20880,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-australian-onion-frittata--japanese",
+    "title": "Australian Frittata with Jewel Toned Vegetables",
+    "tags": [
+      "japanese",
+      "frittata",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
