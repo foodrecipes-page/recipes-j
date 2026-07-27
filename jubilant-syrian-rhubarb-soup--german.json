@@ -1,0 +1,77 @@
+{
+  "slug": "jubilant-syrian-rhubarb-soup--german",
+  "title": "German Rhubarb Pie",
+  "description": "A classic German dessert made with fresh rhubarb and a crumbly crust.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jubilant (optional)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make the crust by combining flour, sugar, and salt in a bowl.",
+    "Add cold butter and mix until the mixture resembles coarse crumbs.",
+    "Press the mixture into a pie dish.",
+    "In a separate bowl, whisk together eggs, vanilla extract, and confectioners' sugar.",
+    "Add the egg mixture to the pie crust and spread evenly.",
+    "Arrange the rhubarb on top of the egg mixture.",
+    "Bake for 40-50 minutes or until the crust is golden brown and the rhubarb is tender.",
+    "Let the pie cool before serving. Garnish with confectioners' sugar and jubilant (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-syrian-rhubarb-soup--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:06:18.328Z"
+}
