@@ -1,0 +1,82 @@
+{
+  "slug": "juicy-smoked-saudi-arabian-lamb-kebabs--german",
+  "title": "Smoked Lamb Kebabs with German Spice",
+  "description": "A flavorful German-inspired dish featuring juicy lamb kebabs with a smoky twist. Perfect for a summer evening or outdoor BBQ.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "You can also use lamb chops instead of cubes"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "This gives the kebabs a smoky flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "German-style mustard",
+      "amount": "1 tsp",
+      "notes": "This adds a tangy flavor to the kebabs"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": "Adjust the seasoning to your liking"
+    },
+    {
+      "name": "Vegetables (bell peppers, onions, mushrooms, cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": "Choose your favorite vegetables to grill with the lamb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a good quality olive oil for grilling"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Garnish with fresh parsley for a pop of color"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a large bowl, whisk together smoked paprika, garlic, mustard, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread lamb cubes and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your liking.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with your favorite sides, such as German-style potato salad or braised red cabbage."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "kebabs",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-smoked-saudi-arabian-lamb-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:41:23.523Z"
+}
