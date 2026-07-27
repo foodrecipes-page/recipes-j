@@ -1,0 +1,86 @@
+{
+  "slug": "jubilant-tender-mexican-beef-birria--italian",
+  "title": "Italian Beef Birria Tacos",
+  "description": "A fusion twist on traditional Italian and Mexican dishes, featuring tender Italian beef in a rich birria sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g) beef brisket"
+    },
+    {
+      "name": "jubilant",
+      "amount": "1/2 teaspoon dried oregano"
+    },
+    {
+      "name": "tender",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 chipotle pepper in adobo sauce, chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup red wine"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons tomato paste"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 chipotle peppers in adobo sauce"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped cilantro, for garnish"
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "8-10 warm tortillas"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Season the beef with oregano, garlic, and chipotle pepper.",
+    "3. Sear the beef in a large Dutch oven over medium-high heat until browned on all sides.",
+    "4. Add the beef broth, red wine, and tomato paste to the pot. Stir to combine.",
+    "5. Cover the pot and transfer it to the preheated oven.",
+    "6. Braise the beef for 2 1/2 to 3 hours, or until tender.",
+    "7. Shred the beef with two forks and return it to the pot.",
+    "8. Simmer the birria sauce over low heat for 10-15 minutes.",
+    "9. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "10. Assemble the tacos by spooning the beef and birria sauce onto a tortilla, then topping with cilantro and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "mexican",
+    "beef",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-tender-mexican-beef-birria--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:01:46.650Z"
+}
