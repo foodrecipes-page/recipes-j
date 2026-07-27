@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-tender-slovakian-pork-skillet",
+  "title": "Slovakian Pork Skillet",
+  "description": "A hearty Slovakian-inspired skillet dish featuring juicy pork, onions, and bell peppers.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Return the pork to the skillet and stir in the paprika, salt, and black pepper.",
+    "Reduce heat to medium-low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve with crusty bread or over egg noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-slovakian-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:27:38.607Z"
+}
