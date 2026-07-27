@@ -1,0 +1,71 @@
+{
+  "slug": "jewel-toned-australian-onion-frittata--japanese",
+  "title": "Australian Frittata with Jewel Toned Vegetables",
+  "description": "A fusion of Japanese and Italian flavors, this frittata is packed with Australian vegetables and a hint of sweetness from the jewel toned vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Jewel Toned bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Toned mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Australian zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Frittata eggs",
+      "amount": "6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the sliced onions and cook until they are translucent and starting to caramelize.",
+    "Add the sliced bell peppers and cook for an additional 2-3 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the sliced zucchini and cook until it starts to soften.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the vegetables in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set and the frittata is golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata and slide it onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "frittata",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-australian-onion-frittata--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:57:57.092Z"
+}
