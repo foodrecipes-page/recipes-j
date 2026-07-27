@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-smoky-turkish-prosciutto-menemen--italian",
+  "title": "Smoky Italian Menemen",
+  "description": "A smoky twist on the classic Turkish menemen, incorporating Italian flavors with prosciutto and jagged cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jagged cheese",
+      "amount": "8 oz",
+      "notes": "Pecorino or Parmesan work well"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "olive oil",
+      "notes": "Use a high-quality, smoky olive oil"
+    },
+    {
+      "name": "2 cloves",
+      "amount": "garlic, minced",
+      "notes": "Mince fresh garlic for the best flavor"
+    },
+    {
+      "name": "2",
+      "amount": "jagged, cut into small pieces",
+      "notes": "Remove any seeds or stems"
+    },
+    {
+      "name": "4",
+      "amount": "eggs",
+      "notes": "Use room temperature eggs for easier cooking"
+    },
+    {
+      "name": "4 slices",
+      "amount": "prosciutto, diced",
+      "notes": "Italian prosciutto is a great addition"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "paprika",
+      "notes": "Smoked paprika for added depth"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium heat.",
+    "2. Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "3. Add the jagged cheese and cook for 2-3 minutes, until it starts to melt.",
+    "4. Crack in the eggs and scramble them with the cheese and garlic.",
+    "5. Add the diced prosciutto and cook for an additional 2 minutes.",
+    "6. Sprinkle with smoked paprika and season with salt and pepper to taste.",
+    "7. Serve immediately, garnished with additional jagged cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "smoky",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-turkish-prosciutto-menemen--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:49:38.406Z"
+}
