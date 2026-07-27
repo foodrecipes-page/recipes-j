@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-chinese-pork-stir-fry",
+  "title": "Cantonese-Style Stir-Fry",
+  "description": "A classic Chinese dish made with juicy pork, quick-cooked in a savory sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or loin"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger (grated)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "scallions (chopped)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "In the same wok, heat the remaining 1 tablespoon of vegetable oil over medium heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the cooked pork back into the wok and stir in the soy sauce and hoisin sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the chopped scallions and serve hot.",
+    "Serve immediately and garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cantonese",
+    "chinese",
+    "pork",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-chinese-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:35:35.472Z"
+}
