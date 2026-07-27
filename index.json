@@ -20765,5 +20765,30 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-light-venezuelan-apples-bisque--mexican",
+    "title": "Auténtico Tostada de Tres Leches con Manzana",
+    "tags": [
+      "mexican",
+      "dessert",
+      "3-leches-cake"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-jerked-slovakian-potato-gratin--keto",
+    "title": "Keto Slovakian Jerked Potatoes",
+    "tags": [
+      "keto",
+      "low-carb",
+      "slovakian",
+      "jerked"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "j"
   }
 ]
