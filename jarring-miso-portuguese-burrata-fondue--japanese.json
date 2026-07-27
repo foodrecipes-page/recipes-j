@@ -1,0 +1,62 @@
+{
+  "slug": "jarring-miso-portuguese-burrata-fondue--japanese",
+  "title": "Japanese Miso Fondue",
+  "description": "A fusion of Japanese and Swiss flavors, this miso fondue is a rich and savory treat.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fondue cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Portuguese bread",
+      "amount": "1 baguette"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, heat the sake, soy sauce, and mirin over low heat.",
+    "Add the miso paste and stir until dissolved.",
+    "Gradually add in the fondue cheese, stirring constantly.",
+    "Continue heating until the cheese is melted and smooth.",
+    "Transfer the fondue to a fondue pot or a small ceramic bowl.",
+    "Serve with sliced Portuguese bread for dipping."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fondue",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jarring-miso-portuguese-burrata-fondue--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:55:35.609Z"
+}
