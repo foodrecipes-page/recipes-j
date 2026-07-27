@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-silky-argentinian-duck-wrap--german",
+  "title": "Argentinian Duck Wrap",
+  "description": "A German-inspired take on the classic wrap, featuring juicy Argentinian duck and silky wrap.",
+  "cuisine": "german",
+  "diet": [
+    "meat-lovers",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian duck breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Silky wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 tablespoons",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tablespoons",
+      "notes": "mild"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon",
+      "notes": "light"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the duck breast with salt and pepper.",
+    "Grill the duck for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the duck rest for 5 minutes before slicing it thinly.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading mayonnaise on the bottom half, followed by sliced duck, jalapeño, cheese, cilantro, and salsa.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "wrap",
+    "duck",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-silky-argentinian-duck-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:25:55.457Z"
+}
