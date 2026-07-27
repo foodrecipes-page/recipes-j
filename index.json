@@ -20790,5 +20790,45 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-ethiopian-lamb-skewers--gluten-free",
+    "title": "Lamb Skewers",
+    "tags": [
+      "lamb",
+      "skewers",
+      "ethiopian",
+      "gluten-free"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-portuguese-tomato-casserole--thai",
+    "title": "Thai-Style Casserole",
+    "tags": [
+      "thai",
+      "casserole",
+      "chicken",
+      "tomato",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-polish-trout-pilaf--french",
+    "title": "French Trout Pilaf",
+    "tags": [
+      "french",
+      "pilaf",
+      "trout",
+      "sauce"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
