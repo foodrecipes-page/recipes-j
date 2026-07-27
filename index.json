@@ -20830,5 +20830,31 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-ethiopian-lamb-skewers--thai",
+    "title": "Thai Lamb Satay Skewers",
+    "tags": [
+      "thai",
+      "appetizer",
+      "snack",
+      "lamb"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-indian-broccoli-aloo-gobi--thai",
+    "title": "Thai Broccoli and Gobi Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "j"
   }
 ]
