@@ -20892,5 +20892,45 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jubilant-syrian-rhubarb-soup--german",
+    "title": "German Rhubarb Pie",
+    "tags": [
+      "german",
+      "dessert",
+      "pie"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "j"
+  },
+  {
+    "slug": "jucy-australian-fry-burger--italian",
+    "title": "Australian Burger Italian-Style",
+    "tags": [
+      "italian",
+      "burger",
+      "beef",
+      "cheese",
+      "onion",
+      "tomato"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-turkish-prosciutto-menemen--italian",
+    "title": "Smoky Italian Menemen",
+    "tags": [
+      "italian",
+      "breakfast",
+      "smoky",
+      "eggs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "j"
   }
 ]
