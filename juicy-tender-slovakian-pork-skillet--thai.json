@@ -1,0 +1,90 @@
+{
+  "slug": "juicy-tender-slovakian-pork-skillet--thai",
+  "title": "Thai Pork Skillet",
+  "description": "A hearty and flavorful Thai-inspired pork dish cooked in a skillet, perfect for a quick weeknight dinner. The sweet and spicy flavors will transport your taste buds to the streets of Bangkok.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup juicy pork shoulder, sliced",
+      "amount": "",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "2 medium slovakian onions, sliced",
+      "amount": "",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Thai red curry paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed bell peppers, sliced",
+      "amount": "",
+      "notes": "any color"
+    },
+    {
+      "name": "2 tablespoons fish sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes. Remove from the skillet.",
+    "Add the remaining 1 tablespoon of oil to the skillet. Add the onions and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the bell peppers and cook until tender, about 5 minutes.",
+    "Add the fish sauce, brown sugar, and soy sauce. Stir to combine.",
+    "Return the pork to the skillet. Cook until heated through, about 2-3 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Serve with steamed rice or noodles to soak up the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "skillet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-tender-slovakian-pork-skillet--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:16:40.483Z"
+}
