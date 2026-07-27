@@ -1,0 +1,86 @@
+{
+  "slug": "juicy-portuguese-tomato-casserole--vegan",
+  "title": "Portuguese Vegan Casserole",
+  "description": "A hearty, plant-based take on the classic Portuguese casserole, featuring a rich tomato sauce and savory vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese",
+      "amount": "1 cup (250g) of dried beans (such as black beans or chickpeas)",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups (400g) of cherry tomatoes, halved",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "2 tablespoons of olive oil",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup (115g) of sliced bell peppers",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "2 cloves of garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 teaspoon of smoked paprika",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 teaspoon of salt",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1/4 teaspoon of black pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the sliced bell peppers and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cherry tomatoes, smoked paprika, salt, and black pepper.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Add the dried beans to the pan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "vegan",
+    "casserole",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-portuguese-tomato-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:10:42.773Z"
+}
