@@ -20986,5 +20986,17 @@
     "cuisine": "thai",
     "totalTimeMin": 185,
     "shard": "j"
+  },
+  {
+    "slug": "jain-friendly-kenyan-meal-prep-bake--vegetarian",
+    "title": "Kenyan Vegetable Stew",
+    "tags": [
+      "kenyan",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
