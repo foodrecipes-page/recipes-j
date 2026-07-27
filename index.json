@@ -10006,13 +10006,12 @@
   },
   {
     "slug": "juicy-chinese-pork-stir-fry",
-    "title": "Juicy Chinese Pork Stir-fry",
+    "title": "Cantonese-Style Stir-Fry",
     "tags": [
-      "fodmap-friendly",
-      "one-pan",
-      "quick",
-      "sweet-sour",
-      "weeknight"
+      "cantonese",
+      "chinese",
+      "pork",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -20855,6 +20854,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-portuguese-tomato-casserole--vegan",
+    "title": "Portuguese Vegan Casserole",
+    "tags": [
+      "portuguese",
+      "vegan",
+      "casserole",
+      "tomato-sauce"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jarring-miso-portuguese-burrata-fondue--japanese",
+    "title": "Japanese Miso Fondue",
+    "tags": [
+      "japanese",
+      "fondue",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "j"
   }
 ]
