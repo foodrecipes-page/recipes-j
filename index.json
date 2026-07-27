@@ -12203,14 +12203,15 @@
   },
   {
     "slug": "juicy-indian-broccoli-aloo-gobi",
-    "title": "Gobi Aloo Masala",
+    "title": "Palak Gobi Aloo",
     "tags": [
       "indian",
       "vegetarian",
-      "north-indian",
-      "gobi-aloo-masala"
+      "spinach",
+      "potatoes",
+      "broccoli"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "j"
   },
@@ -20931,6 +20932,59 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-tender-slovakian-pork-skillet--thai",
+    "title": "Thai Pork Skillet",
+    "tags": [
+      "thai",
+      "pork",
+      "skillet",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-silky-argentinian-duck-wrap--german",
+    "title": "Argentinian Duck Wrap",
+    "tags": [
+      "german",
+      "wrap",
+      "duck",
+      "argentinian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-tender-mexican-beef-birria--italian",
+    "title": "Italian Beef Birria Tacos",
+    "tags": [
+      "italian",
+      "mexican",
+      "beef",
+      "taco"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 230,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-middle-eastern-morbier-mansaf--thai",
+    "title": "Thai-Style Mansaf Ribs",
+    "tags": [
+      "ribs",
+      "mansaf",
+      "thai",
+      "bbq",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 185,
     "shard": "j"
   }
 ]
