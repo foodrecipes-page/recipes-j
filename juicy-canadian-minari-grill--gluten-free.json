@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-canadian-minari-grill--gluten-free",
+  "title": "Grilled Canadian Salmon with Minari Slaw",
+  "description": "A simple and flavorful dish featuring grilled salmon, paired with a refreshing minari slaw. This recipe is gluten-free and perfect for a light lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillet",
+      "amount": "2",
+      "notes": "Fresh and wild-caught"
+    },
+    {
+      "name": "Minari leaves",
+      "amount": "1 bunch",
+      "notes": "Also known as shiso or perilla leaves"
+    },
+    {
+      "name": "Juicy pineapple",
+      "amount": "1",
+      "notes": "Cut into wedges"
+    },
+    {
+      "name": "Grill-friendly olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the salmon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the salmon fillet and pat it dry with paper towels.",
+    "Season the salmon with salt and black pepper.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the salmon for 4-5 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, prepare the minari slaw by mixing the minari leaves with pineapple wedges and a squeeze of lime juice.",
+    "To serve, place the grilled salmon on a plate and top with the minari slaw."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "salmon",
+    "minari",
+    "slaw",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-canadian-minari-grill--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:09:16.529Z"
+}
