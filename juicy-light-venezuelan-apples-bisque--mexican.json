@@ -1,0 +1,60 @@
+{
+  "slug": "juicy-light-venezuelan-apples-bisque--mexican",
+  "title": "Auténtico Tostada de Tres Leches con Manzana",
+  "description": "Un clásico de la cocina mexicana fusionado con la dulzura de la manzana. Este postre sorprendente combina la textura crujiente de la tostada con la suavidad de la crema de leche evaporada y la frescura de una manzana fresca.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "light venezuelan tostadas",
+      "amount": "4-6",
+      "notes": "preferiblemente crujientes"
+    },
+    {
+      "name": "bisque de leche evaporada",
+      "amount": "1 lata",
+      "notes": ""
+    },
+    {
+      "name": "juicy apples",
+      "amount": "2",
+      "notes": "peladas y cortadas en cubos"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 cucharadas",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Calienta las tostadas en el horno a 180°C durante 5 minutos, o hasta que estén crujientes.",
+    "En un tazón grande, mezcla la bisque de leche evaporada con el azúcar hasta que se disuelva.",
+    "Agrega los cubos de manzana a la mezcla de leche y revuelve para combinar.",
+    "Coloca una tostada en un plato individual y vierte la mezcla de leche y manzana encima.",
+    "Repite el proceso con las tostadas restantes.",
+    "Sirve inmediatamente y disfruta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "3-leches-cake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-light-venezuelan-apples-bisque--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:34:40.987Z"
+}
