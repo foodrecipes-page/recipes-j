@@ -1,0 +1,83 @@
+{
+  "slug": "jucy-australian-fry-burger--italian",
+  "title": "Australian Burger Italian-Style",
+  "description": "A twist on the classic burger, with juicy Australian beef and Italian-inspired toppings.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Beef Patties",
+      "amount": "4",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Brioche Buns",
+      "amount": "4",
+      "notes": "Toasted for added crunch"
+    },
+    {
+      "name": "Italian-Style Cheese",
+      "amount": "8 slices",
+      "notes": "Mozzarella and Parmesan blend"
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "1 medium",
+      "notes": "Sautéed until translucent"
+    },
+    {
+      "name": "Crushed Italian Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried oregano, basil, and thyme blend"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling and sautéing"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season Australian Beef Patties with salt and Italian Seasoning. Grill for 4-5 minutes per side, or until cooked to desired temperature (160°F/71°C).",
+    "Meanwhile, toast brioche buns on the grill or in a toaster.",
+    "Sauté chopped onion in olive oil until translucent.",
+    "Assemble burgers by spreading crushed Italian tomatoes on the bottom bun, followed by a cooked patty, a few slices of Italian-Style Cheese, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "burger",
+    "beef",
+    "cheese",
+    "onion",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "30g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jucy-australian-fry-burger--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:12:32.857Z"
+}
