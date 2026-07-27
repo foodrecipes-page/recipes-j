@@ -16143,16 +16143,14 @@
   },
   {
     "slug": "juicy-tender-slovakian-pork-skillet",
-    "title": "Juicy Tender Slovakian Pork Skillet",
+    "title": "Slovakian Pork Skillet",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "pork-recipes",
-      "slovakian-cuisine",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "skillet"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "j"
   },
   {
@@ -20727,6 +20725,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-canadian-minari-grill--gluten-free",
+    "title": "Grilled Canadian Salmon with Minari Slaw",
+    "tags": [
+      "grilled",
+      "salmon",
+      "minari",
+      "slaw",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-croatian-beans-bake--italian",
+    "title": "Italian-Style Baked Beans",
+    "tags": [
+      "italian",
+      "beans",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 105,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-smoked-saudi-arabian-lamb-kebabs--german",
+    "title": "Smoked Lamb Kebabs with German Spice",
+    "tags": [
+      "german",
+      "lamb",
+      "kebabs",
+      "smoked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
