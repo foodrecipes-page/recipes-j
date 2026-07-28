@@ -1,0 +1,78 @@
+{
+  "slug": "juicy-crunchy-middle-eastern-bamboo-shoot-knafeh",
+  "title": "Eastern-Style Bamboo Shoot Knafeh",
+  "description": "A unique dessert that combines the flaky pastry of knafeh with the earthy flavor of bamboo shoots, all from the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 cup, sliced",
+      "notes": "Canned or cooked fresh"
+    },
+    {
+      "name": "Knafeh Dough",
+      "amount": "1 package",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1 cup",
+      "notes": "Crumbly, not smooth"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "2 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Pistachio, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook knafeh dough according to package instructions.",
+    "In a separate pan, heat the sliced bamboo shoots over medium heat, stirring occasionally.",
+    "Combine cottage cheese and confectioners' sugar in a bowl.",
+    "Add rose water to the cottage cheese mixture and stir well.",
+    "To assemble the knafeh, place a layer of cooked dough in the bottom of a serving dish.",
+    "Spread half of the cottage cheese mixture on top of the dough.",
+    "Add the heated bamboo shoots on top of the cottage cheese.",
+    "Spread the remaining cottage cheese mixture over the bamboo shoots.",
+    "Top with another layer of cooked dough.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Garnish with chopped pistachios and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "dessert",
+    "knafeh",
+    "bamboo-shoot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-crunchy-middle-eastern-bamboo-shoot-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:01:14.841Z"
+}
