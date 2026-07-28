@@ -21246,5 +21246,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "jfestive-bacon-lardon-wrap-cazuela--indian",
+    "title": "Cazuela Wrap with Indian-Style Bacon and Lardon",
+    "tags": [
+      "indian",
+      "fusion",
+      "wrap",
+      "bacon",
+      "lardon"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
