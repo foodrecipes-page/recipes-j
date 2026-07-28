@@ -1,0 +1,74 @@
+{
+  "slug": "juicy-buttery-indian-chickpeas-chana-masala--japanese",
+  "title": "Chickpea Masala Bites",
+  "description": "Crispy Japanese-inspired bites filled with a flavorful chickpea and chana masala mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "chana masala",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/2 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "juicy indian chilies",
+      "amount": "2",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (175°C).",
+    "2. In a large bowl, whisk together flour and a pinch of salt.",
+    "3. Gradually add buttermilk, whisking until smooth.",
+    "4. Add chana masala, mix well.",
+    "5. Add chickpeas and mix until coated.",
+    "6. If using, add grated cheese and mix until combined.",
+    "7. Using a spoon, drop small balls of the mixture into the hot oil.",
+    "8. Fry for 3-4 minutes, or until golden brown.",
+    "9. Using a slotted spoon, remove bites from oil and place on paper towels to drain excess oil.",
+    "10. Serve warm, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "vegan-option"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-buttery-indian-chickpeas-chana-masala--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:55:56.026Z"
+}
