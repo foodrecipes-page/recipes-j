@@ -1,0 +1,83 @@
+{
+  "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl--mexican",
+  "title": "Jubilant Lentil Bowl",
+  "description": "A flavorful mexican bowl filled with jubilant lentils, topped with brown venezuelan spices and a sprinkle of nutty crunch.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jubilant",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "brown",
+      "amount": "2 cups",
+      "notes": "mixed rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium heat.",
+    "Add the chopped onion and cook for 3-4 minutes until softened.",
+    "Add the cooked jubilant and lentil mixture to the pan and stir to combine.",
+    "Add the cumin and stir to combine.",
+    "Transfer the mixture to a large bowl.",
+    "Top with shredded cheese, lettuce, and chopped tomato.",
+    "Sprinkle brown mixed rice on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "lentil",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jubilant-nutty-venezuelan-brown-lentil-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:02:12.536Z"
+}
