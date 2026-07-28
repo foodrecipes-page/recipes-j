@@ -21260,5 +21260,31 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jewish-style-syrian-cabbage-stew--japanese",
+    "title": "Jewish-Style Syrian Stew with Cabbage",
+    "tags": [
+      "comfort-food",
+      "vegetarian",
+      "stew",
+      "cabbage"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-ukrainian-saskatoon-berries-gratin--japanese",
+    "title": "Saskatoon Berry Gratin",
+    "tags": [
+      "dessert",
+      "japanese",
+      "berry",
+      "gratin"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
