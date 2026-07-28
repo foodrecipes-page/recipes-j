@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry--keto",
+  "title": "Indian-Style Keto Burger",
+  "description": "A flavorful and spicy keto burger inspired by Indian cuisine. Perfect for adventurous eaters and keto dieters.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Burger",
+      "amount": "1 (90% fat) patty",
+      "notes": "Look for a keto-friendly patty or make your own"
+    },
+    {
+      "name": "Bun",
+      "amount": "1 (keto-friendly) bun made from almond flour or coconut flour",
+      "notes": "Make sure it's low in carbs"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a low-carb stir fry sauce or make your own with coconut aminos and spices"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fresh Scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the burger patty"
+    },
+    {
+      "name": "Cilantro Chutney",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill over medium-high heat.",
+    "2. Add 1 tbsp of coconut oil to the skillet and swirl it around.",
+    "3. Place the burger patty in the skillet and cook for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "4. While the burger is cooking, toast the keto-friendly bun on the grill or in the oven.",
+    "5. Once the burger is cooked, assemble the burger by spreading a layer of stir fry sauce on the bottom bun, followed by the burger patty, a sprinkle of chopped cilantro and scallions, and finally the top bun.",
+    "6. Serve immediately and enjoy!",
+    "7. If using cilantro chutney, serve it on the side for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "burger",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "5g",
+    "fat": "50g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-adventurous-indian-garlic-burger-bun-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:11:48.673Z"
+}
