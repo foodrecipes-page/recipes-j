@@ -1,0 +1,69 @@
+{
+  "slug": "jazzy-turkish-vermicelli-onigiri",
+  "title": "Vermicelli Jazzy Onigiri Bites",
+  "description": "A unique fusion dish that combines the flavors of Asia and the Mediterranean. Quick, easy, and fun to make, these onigiri bites are perfect for snacking.",
+  "cuisine": "Fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vermicelli pasta",
+      "amount": "1 cup",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "Jazzy cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Mozzarella or similar melty cheese works well"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 tsp",
+      "notes": "Paprika, cumin, or sumac add a nice flavor"
+    },
+    {
+      "name": "Onigiri rice",
+      "amount": "2 cups",
+      "notes": "Japanese short-grain rice works best"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "For added flavor, optional"
+    }
+  ],
+  "instructions": [
+    "Cook vermicelli pasta according to package instructions. Drain and set aside.",
+    "Prepare Japanese short-grain rice according to package instructions.",
+    "Mix cooked vermicelli pasta and Japanese rice together.",
+    "Add shredded jazzy cheese, Turkish spices, and a pinch of salt to the mixture. Mix well.",
+    "Shape the mixture into small onigiri triangles.",
+    "Place a small amount of soy sauce on the surface of each onigiri, if using.",
+    "Gently press the edges of each onigiri to seal.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy",
+    "fusion",
+    "japanesefood",
+    "italianfood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-turkish-vermicelli-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:18:58.065Z"
+}
