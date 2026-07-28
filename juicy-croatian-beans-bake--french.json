@@ -1,0 +1,56 @@
+{
+  "slug": "juicy-croatian-beans-bake--french",
+  "title": "French Cassoulet",
+  "description": "A classic French dish made with white beans, meat, and sometimes lamb. It's a hearty casserole that's perfect for special occasions. This version features juicy sausages and a crispy, golden-brown crust.",
+  "cuisine": "french",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Juicy sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Croatian white beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Bake",
+      "amount": "1",
+      "notes": "cassoulet dish or 9x13 inch baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Brown the sausages in a large skillet over medium-high heat, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the Croatian white beans to the skillet and cook until they're lightly browned, about 5 minutes.",
+    "Transfer the beans to the bake and arrange the sausages on top.",
+    "Cover the bake with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove the cassoulet from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cassoulet",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-croatian-beans-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:49:18.969Z"
+}
