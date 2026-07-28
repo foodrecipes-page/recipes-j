@@ -1,0 +1,67 @@
+{
+  "slug": "jelly-like-australian-fish-bake--indian",
+  "title": "Australian Fish Bake with Jelly Glaze",
+  "description": "A unique Indian-inspired fish dish with a sweet and tangy jelly glaze. Serve with a side of basmati rice or naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Barramundi fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Jelly (such as apricot or apple)",
+      "amount": "1 cup",
+      "notes": "Unflavored and unsweetened"
+    },
+    {
+      "name": "Like (such as cumin, coriander, and turmeric)",
+      "amount": "2 tsp",
+      "notes": "Mix of Indian spices"
+    },
+    {
+      "name": "Bake (such as lemon and garlic)",
+      "amount": "1 tsp",
+      "notes": "Mix of lemon zest and minced garlic"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and pepper.",
+    "In a small bowl, mix together the like spices and bake.",
+    "Place the fish fillets on the prepared baking sheet.",
+    "Brush the jelly glaze over the fish fillets, making sure to coat them evenly.",
+    "Sprinkle the like spice and bake mixture over the fish.",
+    "Bake in the preheated oven for 12-15 minutes, or until the fish is cooked through.",
+    "Serve the fish hot, garnished with fresh cilantro if desired.",
+    "Serve with a side of basmati rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "bake",
+    "glaze",
+    "jelly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jelly-like-australian-fish-bake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:40:03.836Z"
+}
