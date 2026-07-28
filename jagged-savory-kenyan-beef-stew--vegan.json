@@ -1,0 +1,83 @@
+{
+  "slug": "jagged-savory-kenyan-beef-stew--vegan",
+  "title": "Jagged Stew",
+  "description": "A hearty Kenyan-inspired stew made with jagged and savory flavors, perfect for a cold night. This vegan stew is a unique twist on a classic dish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jagged",
+      "amount": "2 cups"
+    },
+    {
+      "name": "savory mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stew broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef-free broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the mushrooms and cook until they release their liquid.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the stew and beef-free broth, potatoes, and carrots.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve with crusty bread or over rice.",
+    "Enjoy your delicious and hearty stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "stew",
+    "hearty",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-savory-kenyan-beef-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:38:55.214Z"
+}
