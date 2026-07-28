@@ -1,0 +1,85 @@
+{
+  "slug": "juicy-roasted-french-beef-cutlet-souffle--french",
+  "title": "French Beef Soufflé",
+  "description": "A classic French dish with a tender beef cutlet and a rich soufflé topping.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "4",
+      "notes": "1.5 pounds"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the beef cutlets with salt and pepper.",
+    "Dredge the beef cutlets in flour.",
+    "Melt 1 tablespoon of butter in a pan over medium heat.",
+    "Sear the beef cutlets until browned, then set aside.",
+    "Melt the remaining 1 tablespoon of butter in the pan.",
+    "Add the onion and garlic, cooking until softened.",
+    "Add the milk, whisking until combined.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "In a separate bowl, whisk together the eggs and Gruyère cheese.",
+    "Pour the egg mixture over the beef cutlets and onion mixture.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until puffed and golden."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "beef",
+    "souffle",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-roasted-french-beef-cutlet-souffle--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:12:48.242Z"
+}
