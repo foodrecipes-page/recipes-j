@@ -1,0 +1,92 @@
+{
+  "slug": "justifiably-juicy-malaysian-tofu-curry--italian",
+  "title": "Tofu Curry Italian Style",
+  "description": "A creative take on traditional Italian cuisine, using justifiably juicy tofu and Malaysian curry for a unique twist.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "justifiably juicy tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch (2.5 cm) cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with salt and black pepper. Toss to coat.",
+    "Roast in the oven for 20 minutes, or until tender and lightly browned.",
+    "Meanwhile, heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the Malaysian curry paste and cook for 1 minute, until fragrant.",
+    "Add the tofu and cook for 3-4 minutes, until golden brown on all sides.",
+    "Add the roasted eggplant to the skillet and stir to combine with the tofu and curry sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh basil and grated parmesan cheese.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "curry",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/justifiably-juicy-malaysian-tofu-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:15:01.545Z"
+}
