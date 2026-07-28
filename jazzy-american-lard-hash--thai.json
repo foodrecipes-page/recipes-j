@@ -1,0 +1,70 @@
+{
+  "slug": "jazzy-american-lard-hash--thai",
+  "title": "Thai-Style Fried Rice",
+  "description": "A simple and flavorful dish made with leftover rice, vegetables, and spices. Serve with your favorite chili sauce or fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jazzy jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Hash browned onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "American sweet chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large skillet over medium-high heat.",
+    "Add the browned onions and cook until fragrant.",
+    "Push the onions to one side of the pan.",
+    "Add a little more oil if needed, then crack in 2 eggs.",
+    "Scramble the eggs until cooked through, then mix with the onions.",
+    "Add the cooked rice to the pan, breaking up any clumps.",
+    "Stir-fry the rice with the egg and onion mixture for about 5 minutes.",
+    "Add the sweet chili sauce and stir-fry for another minute.",
+    "Transfer the rice mixture to a serving platter.",
+    "Garnish with chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "friedrice",
+    "vegetarian",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-american-lard-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:06:20.218Z"
+}
