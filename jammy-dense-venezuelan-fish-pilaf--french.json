@@ -1,0 +1,78 @@
+{
+  "slug": "jammy-dense-venezuelan-fish-pilaf--french",
+  "title": "French-Style Fish Pilaf",
+  "description": "A simple and flavorful French-inspired pilaf dish featuring fish as the main ingredient, perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish, 1 lb)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Pilaf Rice (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jammy Onions (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dense Cherry Tomatoes (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the jammy onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the dense cherry tomatoes and cook for an additional 2-3 minutes.",
+    "Add the Venezuelan pilaf rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes or until the water is absorbed.",
+    "Flake in the cooked fish and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "pilaf",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-dense-venezuelan-fish-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:58:15.151Z"
+}
