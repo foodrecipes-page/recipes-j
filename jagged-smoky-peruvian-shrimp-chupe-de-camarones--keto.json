@@ -1,0 +1,73 @@
+{
+  "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones--keto",
+  "title": "Peruvian Shrimp Stir Fry with Smoky Camarones",
+  "description": "A keto stir fry dish made with succulent shrimp, smoky camarones, and Peruvian-inspired flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 oz (340g)",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoky camarones",
+      "amount": "1 cup (120g)",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "jagged",
+      "amount": "1/4 cup (30g)",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 tsp (5g)",
+      "notes": "Peruvian seasoning blend"
+    },
+    {
+      "name": "chicken fat",
+      "amount": "2 tbsp (30g)",
+      "notes": "melted"
+    },
+    {
+      "name": "chupe de camarones",
+      "amount": "2 cups (240g)",
+      "notes": "Peruvian-style shrimp broth"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken fat in a large skillet over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the smoky camarones and jagged to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the Peruvian seasoning blend and cook for 1 minute, until fragrant.",
+    "Add the chupe de camarones to the skillet and bring to a simmer.",
+    "Return the shrimp to the skillet and cook for 1-2 minutes, until heated through.",
+    "Serve immediately, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "stir-fry",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "36g",
+    "carbs": "5g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-smoky-peruvian-shrimp-chupe-de-camarones--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:48:58.013Z"
+}
