@@ -1,0 +1,83 @@
+{
+  "slug": "juicy-egyptian-mung-bean-sprouts-fritters--indian",
+  "title": "Mung Bean Sprout Fritter Curry",
+  "description": "A flavorful Indian-inspired dish featuring juicy mung bean sprouts and crispy fritters, served in a delicious curry sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy mung beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egyptian flatbread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "fritters",
+      "amount": "6-8"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger, cook until onion is translucent.",
+    "Add mung bean sprouts, cook for 2-3 minutes.",
+    "Add curry powder, cook for 1 minute.",
+    "Add water, bring to a boil.",
+    "Add fritters, cook for 5-7 minutes.",
+    "Season with salt to taste.",
+    "Serve with Egyptian flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "sprouts",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-egyptian-mung-bean-sprouts-fritters--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:45:20.800Z"
+}
