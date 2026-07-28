@@ -1,0 +1,74 @@
+{
+  "slug": "joyful-turkish-haddock-grill",
+  "title": "Turkish-Style Grilled Haddock",
+  "description": "A flavorful and healthy seafood dish inspired by Turkish cuisine, featuring haddock grilled to perfection with a hint of joyful spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "2 tsp",
+      "notes": "A blend of paprika, garlic, and cumin"
+    },
+    {
+      "name": "Joyful olive oil",
+      "amount": "2 tbsp",
+      "notes": "Mild and flavorful"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped and garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Rinse the haddock fillets under cold water and pat dry with paper towels.",
+    "In a small bowl, mix together the Turkish spices and olive oil.",
+    "Brush the spice mixture evenly onto both sides of the haddock fillets.",
+    "Season with salt and pepper to taste.",
+    "Grill the haddock for 4-5 minutes per side, or until cooked through and flaky.",
+    "Serve immediately, garnished with chopped parsley and a squeeze of lemon juice.",
+    "Let the fish rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "grilled",
+    "turkish-cuisine",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/joyful-turkish-haddock-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:32:34.657Z"
+}
