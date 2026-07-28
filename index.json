@@ -6939,16 +6939,15 @@
   },
   {
     "slug": "joyful-turkish-haddock-grill",
-    "title": "Joyful Turkish Haddock Grill",
+    "title": "Turkish-Style Grilled Haddock",
     "tags": [
-      "floral",
+      "seafood",
       "grilled",
-      "low-sodium",
-      "pescatarian",
-      "quick"
+      "turkish-cuisine",
+      "healthy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "j"
   },
   {
@@ -20996,6 +20995,43 @@
       "stew"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-spicy-mexican-chicken-tacos--italian",
+    "title": "Chicken Torta",
+    "tags": [
+      "italian",
+      "mexican",
+      "chicken"
+    ],
+    "cuisine": "italian-mexican",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jammy-dense-venezuelan-fish-pilaf--french",
+    "title": "French-Style Fish Pilaf",
+    "tags": [
+      "fish",
+      "pilaf",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-peppery-mexican-grains-flan--german",
+    "title": "German-Style Sausage and Grain Bowl",
+    "tags": [
+      "german",
+      "sausage",
+      "grains",
+      "slaw"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "j"
   }
