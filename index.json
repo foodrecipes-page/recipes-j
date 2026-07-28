@@ -20618,14 +20618,15 @@
   },
   {
     "slug": "juicy-savoy-cabbage-japanese-stir-fry--japanese",
-    "title": "Japanese Stir-Fried Cabbage",
+    "title": "Stir-Fried Savoy Cabbage",
     "tags": [
       "japanese",
       "stir-fry",
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "j"
   },
   {
@@ -21139,6 +21140,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-smoky-peruvian-shrimp-chupe-de-camarones--keto",
+    "title": "Peruvian Shrimp Stir Fry with Smoky Camarones",
+    "tags": [
+      "peruvian",
+      "shrimp",
+      "stir-fry",
+      "keto"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
