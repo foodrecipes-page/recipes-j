@@ -1,0 +1,70 @@
+{
+  "slug": "jfestive-bacon-lardon-wrap-cazuela--indian",
+  "title": "Cazuela Wrap with Indian-Style Bacon and Lardon",
+  "description": "A fusion of Indian flavors with the simplicity of a wrap, featuring crispy bacon and lardon, and a hint of jfestive spice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cazuela",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "lardon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "jfestive",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Cook the lardon until crispy, then set aside.",
+    "Cook the bacon until crispy, then set aside with the lardon.",
+    "Add the cazuela to the pan and cook until tender.",
+    "Add the jfestive to the pan and stir to combine.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing the cazuela mixture onto the center of the wrap, followed by the bacon and lardon.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up to form a neat package.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fusion",
+    "wrap",
+    "bacon",
+    "lardon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jfestive-bacon-lardon-wrap-cazuela--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:27:40.032Z"
+}
