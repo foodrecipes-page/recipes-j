@@ -21154,5 +21154,34 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-umami-british-beef-stew--french",
+    "title": "British Beef Stew à la Française",
+    "tags": [
+      "beef",
+      "stew",
+      "british",
+      "french",
+      "umami",
+      "hearty"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "j"
+  },
+  {
+    "slug": "jelly-like-australian-fish-bake--indian",
+    "title": "Australian Fish Bake with Jelly Glaze",
+    "tags": [
+      "indian",
+      "fish",
+      "bake",
+      "glaze",
+      "jelly"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "j"
   }
 ]
