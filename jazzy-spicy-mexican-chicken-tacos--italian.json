@@ -1,0 +1,91 @@
+{
+  "slug": "jazzy-spicy-mexican-chicken-tacos--italian",
+  "title": "Chicken Torta",
+  "description": "A twist on the classic Italian sub, Chicken Torta combines tender chicken with bold Mexican flavors.",
+  "cuisine": "italian-mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breasts",
+      "notes": "cut into thin cutlets"
+    },
+    {
+      "name": "jazzy",
+      "amount": "2 tablespoons Italian seasoning",
+      "notes": ""
+    },
+    {
+      "name": "mexican",
+      "amount": "2 tablespoons taco seasoning",
+      "notes": ""
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon cayenne pepper",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4 Italian-style sub rolls",
+      "notes": ""
+    },
+    {
+      "name": "tacos",
+      "amount": "1 cup shredded cheese, such as mozzarella or cheddar",
+      "notes": ""
+    },
+    {
+      "name": "provolone",
+      "amount": "1 cup sliced provolone cheese",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head lettuce, shredded",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large tomatoes, sliced",
+      "notes": ""
+    },
+    {
+      "name": "mayo",
+      "amount": "2 tablespoons mayonnaise",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together Italian seasoning, taco seasoning, and cayenne pepper. Rub the spice mixture all over the chicken cutlets.",
+    "3. Heat a large skillet over medium-high heat. Add the chicken and cook for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the sub rolls in the oven for 2-3 minutes, or until lightly browned.",
+    "5. Assemble the sandwiches by spreading mayonnaise on the bottom half of each roll, followed by a chicken cutlet, a few slices of cheese, some lettuce, tomato, and a dollop of mayonnaise on top.",
+    "6. Place the sandwiches under the broiler for 1-2 minutes, or until the cheese is melted and bubbly.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mexican",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jazzy-spicy-mexican-chicken-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:29:22.770Z"
+}
