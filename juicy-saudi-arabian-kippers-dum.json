@@ -1,0 +1,79 @@
+{
+  "slug": "juicy-saudi-arabian-kippers-dum",
+  "title": "Saudi Arabian Kippers Kebabs",
+  "description": "A flavorful and spicy dish inspired by Saudi Arabian cuisine, featuring kippers kebabs marinated in a blend of Saudi and Arabian spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kippers",
+      "amount": "4"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Sauteed onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Dum ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Saudi Arabian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together dum ghee, Saudi Arabian spice blend, lime juice, salt, and black pepper.",
+    "Add the diced tomatoes, sauteed onions, and chopped cilantro to the marinade. Mix well.",
+    "Thread the kippers onto skewers, leaving a small space between each piece.",
+    "Brush the kippers with the marinade, making sure they are evenly coated.",
+    "Grill the kippers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve the kippers kebabs hot with additional marinade sauce for dipping.",
+    "Garnish with fresh cilantro and serve with basmati rice or flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "pescatarian",
+    "saudi-arabian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-saudi-arabian-kippers-dum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:01:23.612Z"
+}
