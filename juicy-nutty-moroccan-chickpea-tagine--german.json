@@ -1,0 +1,84 @@
+{
+  "slug": "juicy-nutty-moroccan-chickpea-tagine--german",
+  "title": "Moroccan Chickpea Stew (German Twist)",
+  "description": "A hearty German-inspired stew infused with the exotic flavors of Morocco, featuring chickpeas and a blend of aromatic spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 lb",
+      "notes": "boneless pork shoulder, cut into 1-inch pieces"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp",
+      "notes": "almond flour"
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork shoulder until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add another tbsp of oil to the pot, then sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the cumin, coriander, and almond flour. Cook for 1 minute.",
+    "Add the browned pork, chickpeas, tomato paste, and 2 cups of water to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-moroccan",
+    "chickpea-stew",
+    "pork-shoulder"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-nutty-moroccan-chickpea-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:32:53.320Z"
+}
