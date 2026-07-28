@@ -1,67 +1,68 @@
 {
   "slug": "juicy-savoy-cabbage-japanese-stir-fry--japanese",
-  "title": "Japanese Stir-Fried Cabbage",
-  "description": "A quick and delicious Japanese-inspired stir-fry made with cabbage, savory seasonings, and a hint of sweetness.",
+  "title": "Stir-Fried Savoy Cabbage",
+  "description": "A quick and easy Japanese-inspired stir-fry made with crispy savoy cabbage and savory seasonings.",
   "cuisine": "japanese",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "cabbage",
-      "amount": "1 medium head, thinly sliced"
+      "name": "Savoy cabbage",
+      "amount": "1 head"
     },
     {
-      "name": "juicy stir-fry sauce",
+      "name": "Juicy stir-fry sauce",
       "amount": "2 tablespoons"
     },
     {
-      "name": "savoy cabbage",
-      "amount": "1 small head, thinly sliced"
-    },
-    {
-      "name": "japanese soy sauce",
+      "name": "Japanese sesame oil",
       "amount": "1 tablespoon"
     },
     {
-      "name": "sugar",
+      "name": "Soy sauce",
       "amount": "1 teaspoon"
     },
     {
-      "name": "grated ginger",
+      "name": "Cooking oil",
       "amount": "1 tablespoon"
     },
     {
-      "name": "sesame oil",
-      "amount": "1 tablespoon"
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
-    "Add the grated ginger and stir-fry for 1 minute.",
-    "Add the sliced cabbage and stir-fry for 3-4 minutes, or until it begins to soften.",
-    "Add the stir-fry sauce, soy sauce, and sugar. Stir-fry for an additional 2-3 minutes, until the cabbage is tender.",
-    "Serve hot, garnished with sesame seeds if desired."
+    "Heat the cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the savoy cabbage and cook until slightly softened, about 3-4 minutes.",
+    "Add the juicy stir-fry sauce, sesame oil, and soy sauce. Stir-fry until the cabbage is tender and well coated.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped green onions.",
+    "Serve immediately.",
+    "Optional: Add protein like tofu or tempeh for added nutrition."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 10,
-  "totalTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "japanese",
     "stir-fry",
-    "vegetarian"
+    "vegetarian",
+    "vegan"
   ],
   "nutrition": {
-    "calories": 150,
+    "calories": 120,
     "protein": 2,
     "carbs": 20,
-    "fat": 7
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/juicy-savoy-cabbage-japanese-stir-fry--japanese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T15:39:28.600Z"
+  "createdAt": "2026-07-22T17:14:52.069Z"
 }
