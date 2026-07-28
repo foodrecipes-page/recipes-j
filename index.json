@@ -21057,5 +21057,18 @@
     "cuisine": "australian",
     "totalTimeMin": 40,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-roasted-french-beef-cutlet-souffle--french",
+    "title": "French Beef Soufflé",
+    "tags": [
+      "french",
+      "beef",
+      "souffle",
+      "dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "j"
   }
 ]
