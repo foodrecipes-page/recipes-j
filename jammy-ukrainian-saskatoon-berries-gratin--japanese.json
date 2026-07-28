@@ -1,0 +1,71 @@
+{
+  "slug": "jammy-ukrainian-saskatoon-berries-gratin--japanese",
+  "title": "Saskatoon Berry Gratin",
+  "description": "A Japanese-inspired dessert featuring sweet saskatoon berries topped with a crispy gratin crust.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "jammy berries",
+      "amount": "1/4 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ukrainian cheese (or substitute)",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together saskatoon berries, sugar, cinnamon, and nutmeg.",
+    "Transfer the berry mixture to a 6-inch baking dish.",
+    "Top with jammy berries and ukrainian cheese.",
+    "In a small bowl, mix together grated gratin and a pinch of salt.",
+    "Sprinkle the gratin mixture evenly over the top of the berry mixture.",
+    "Bake for 25-30 minutes, or until the gratin is golden brown and the berries are bubbly.",
+    "Serve warm, topped with additional jammy berries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "japanese",
+    "berry",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jammy-ukrainian-saskatoon-berries-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:07:03.519Z"
+}
