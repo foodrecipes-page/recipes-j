@@ -21114,5 +21114,31 @@
     "cuisine": "indian",
     "totalTimeMin": 22,
     "shard": "j"
+  },
+  {
+    "slug": "jdecadent-zesty-oatmeal-pilaf--thai",
+    "title": "Thai-Style Oatmeal Pilaf",
+    "tags": [
+      "thai-breakfast",
+      "oatmeal",
+      "pilaf",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-egyptian-mung-bean-sprouts-fritters--indian",
+    "title": "Mung Bean Sprout Fritter Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "sprouts",
+      "fritters"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
