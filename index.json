@@ -14799,16 +14799,14 @@
   },
   {
     "slug": "juicy-slovakian-tomato-pasta",
-    "title": "Juicy Slovakian Tomato Pasta",
+    "title": "Slovakian Pasta Bolognese",
     "tags": [
-      "easy-dinner",
-      "low-calorie",
-      "one-pot",
-      "romantic-dinner",
-      "slovakian-cuisine",
+      "pasta",
+      "slovakian",
+      "tomato",
       "vegetarian"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -21182,6 +21180,71 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-light-jamaican-tamarind-stir-fry--indian",
+    "title": "Tamarind Chicken Curry",
+    "tags": [
+      "indian",
+      "chicken",
+      "curry",
+      "tamarind"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-nutty-moroccan-chickpea-tagine--german",
+    "title": "Moroccan Chickpea Stew (German Twist)",
+    "tags": [
+      "german-moroccan",
+      "chickpea-stew",
+      "pork-shoulder"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "jagged-savory-kenyan-beef-stew--vegan",
+    "title": "Jagged Stew",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "stew",
+      "hearty",
+      "comfort"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-malty-portuguese-melons-ceviche--mexican",
+    "title": "Malty Ceviche with Jazzy Melons",
+    "tags": [
+      "mexican",
+      "snack",
+      "fish",
+      "seafood",
+      "ceviche"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-buttery-indian-chickpeas-chana-masala--japanese",
+    "title": "Chickpea Masala Bites",
+    "tags": [
+      "appetizer",
+      "snack",
+      "vegan-option"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
