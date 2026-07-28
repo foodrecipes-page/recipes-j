@@ -1,0 +1,88 @@
+{
+  "slug": "jagged-peppery-mexican-grains-flan--german",
+  "title": "German-Style Sausage and Grain Bowl",
+  "description": "A hearty, comforting bowl filled with spicy sausage, crunchy grains, and a tangy slaw. Perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jagged German Sausages",
+      "amount": "4",
+      "notes": "look for smoked or knockwurst sausages"
+    },
+    {
+      "name": "Mexican Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flan",
+      "amount": "1/2 cup",
+      "notes": "cubed, for garnish"
+    },
+    {
+      "name": "Peppery Red Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Grains (such as wheat or rye)",
+      "amount": "2 cups",
+      "notes": "cooked, for serving"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the quinoa according to package instructions.",
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the onions and toss with vinegar, oil, salt, and pepper. Roast in the oven for 20 minutes.",
+    "Grill or pan-fry the sausages until browned and cooked through.",
+    "Serve the sausages on top of a bed of grains, with roasted onions and a dollop of flan.",
+    "Season with salt and pepper to taste.",
+    "Garnish with additional sliced onions and a sprinkle of grains, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "grains",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jagged-peppery-mexican-grains-flan--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:05:24.433Z"
+}
