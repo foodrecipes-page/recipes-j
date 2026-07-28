@@ -940,15 +940,11 @@
   },
   {
     "slug": "jagged-savory-ethiopian-cheese-azifa",
-    "title": "Jagged Savory Ethiopian Cheese Azifa",
+    "title": "Spicy Jagged Cheese Azifa",
     "tags": [
-      "ayurvedic-friendly",
-      "cheese-pull",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "savory",
-      "solo-dinner",
-      "vegetarian"
+      "cheesy",
+      "spicy",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -21080,6 +21076,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "j"
+  },
+  {
+    "slug": "jubilant-nutty-venezuelan-brown-lentil-bowl--mexican",
+    "title": "Jubilant Lentil Bowl",
+    "tags": [
+      "mexican",
+      "lentil",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "j"
   }
 ]
