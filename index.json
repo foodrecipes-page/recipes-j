@@ -14375,16 +14375,15 @@
   },
   {
     "slug": "juicy-saudi-arabian-kippers-dum",
-    "title": "Saudi-Arabian Kippers Dum",
+    "title": "Saudi Arabian Kippers Kebabs",
     "tags": [
-      "breakfast",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "saudi-arabian"
+      "kebabs",
+      "pescatarian",
+      "saudi-arabian",
+      "grilled"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
     "shard": "j"
   },
   {
@@ -21033,6 +21032,30 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-croatian-beans-bake--french",
+    "title": "French Cassoulet",
+    "tags": [
+      "cassoulet",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-zesty-australian-eggplant-wrap--gluten-free",
+    "title": "Australian-Style Eggplant Wrap",
+    "tags": [
+      "australian",
+      "gluten-free",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "j"
   }
 ]
