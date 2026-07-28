@@ -1,0 +1,72 @@
+{
+  "slug": "juicy-zesty-australian-eggplant-wrap--gluten-free",
+  "title": "Australian-Style Eggplant Wrap",
+  "description": "A flavorful and healthy eggplant wrap recipe that combines the flavors of Australia with the option of gluten-free wraps.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick strips"
+    },
+    {
+      "name": "juicy tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 gluten-free wrap",
+      "notes": "toasted"
+    },
+    {
+      "name": "zesty hummus",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Place the eggplant strips on a baking sheet, drizzle with a little oil, and season with salt.",
+    "Roast the eggplant in the oven for 20-25 minutes, or until tender.",
+    "While the eggplant is cooking, toast the wrap in a pan or in the oven.",
+    "Spread the hummus on the toasted wrap.",
+    "Add the roasted eggplant, diced tomatoes, shredded lettuce, and thinly sliced red onion on top of the hummus.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-zesty-australian-eggplant-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:50:20.474Z"
+}
