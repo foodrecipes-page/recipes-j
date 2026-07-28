@@ -4347,16 +4347,15 @@
   },
   {
     "slug": "jazzy-turkish-vermicelli-onigiri",
-    "title": "Jazzy Turkish Vermicelli Onigiri",
+    "title": "Vermicelli Jazzy Onigiri Bites",
     "tags": [
-      "onigiri",
-      "rice",
       "snack",
-      "turkish",
-      "vegan",
-      "vegetarian"
+      "easy",
+      "fusion",
+      "japanesefood",
+      "italianfood"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "Fusion",
     "totalTimeMin": 35,
     "shard": "j"
   },
@@ -21088,6 +21087,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "j"
+  },
+  {
+    "slug": "jazzy-american-lard-hash--thai",
+    "title": "Thai-Style Fried Rice",
+    "tags": [
+      "thaifood",
+      "friedrice",
+      "vegetarian",
+      "easyrecipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-adventurous-indian-garlic-burger-bun-stir-fry--keto",
+    "title": "Indian-Style Keto Burger",
+    "tags": [
+      "keto",
+      "indian",
+      "burger",
+      "low-carb"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "j"
   }
 ]
