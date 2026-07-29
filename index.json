@@ -19969,15 +19969,16 @@
   },
   {
     "slug": "jagged-crispy-mediterranean-fish-skewers--italian",
-    "title": "Pan-Seared Mediterranean Fish Skewers",
+    "title": "Grilled Fish Skewers with Mediterranean Flair",
     "tags": [
-      "fish",
-      "mediterranean",
       "italian",
+      "fish",
+      "grilled",
+      "mediterranean",
       "skewers"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 23,
     "shard": "j"
   },
   {
@@ -21336,6 +21337,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-peruvian-burrata-skillet--mexican",
+    "title": "Mexican Skillet with Buratta",
+    "tags": [
+      "mexican",
+      "chicken",
+      "skillet",
+      "cheesy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-australian-onion-frittata--gluten-free",
+    "title": "Australian-Style Jewel-Toned Frittata",
+    "tags": [
+      "australian",
+      "breakfast",
+      "cheesy",
+      "gluten-free"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "j"
   }
 ]
