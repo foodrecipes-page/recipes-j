@@ -21325,5 +21325,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones--indian",
+    "title": "Spicy Shrimp and Jewel Toned Vegetable Stir Fry",
+    "tags": [
+      "indian-cuisine",
+      "shrimp-recipe",
+      "stir-fry-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "j"
   }
 ]
