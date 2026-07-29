@@ -1,0 +1,96 @@
+{
+  "slug": "juicy-peruvian-burrata-skillet--mexican",
+  "title": "Mexican Skillet with Buratta",
+  "description": "A flavorful Mexican skillet dish featuring juicy chicken, Peruvian potatoes, and creamy burrata cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Peruvian potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the diced potatoes to the skillet and cook for 3-4 minutes, or until they start to brown.",
+    "Add the cumin, chili powder, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the spice mixture.",
+    "Reduce the heat to medium-low and simmer for 5 minutes, or until the potatoes are tender.",
+    "Stir in the burrata cheese until melted and well combined.",
+    "Serve the skillet hot, garnished with chopped cilantro.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "skillet",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/juicy-peruvian-burrata-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:27:19.520Z"
+}
