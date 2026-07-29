@@ -21312,5 +21312,18 @@
     "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "jammy-chinese-pork-buddha-jumps-over-wall--japanese",
+    "title": "Buddha's Wall Pork Katsu",
+    "tags": [
+      "japanese",
+      "pork",
+      "cutlet",
+      "katsu"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
