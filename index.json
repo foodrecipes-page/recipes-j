@@ -21286,5 +21286,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "j"
+  },
+  {
+    "slug": "juicy-fermented-malaysian-dish-grill--indian",
+    "title": "Tandoori Chicken Tikka",
+    "tags": [
+      "indian",
+      "chicken",
+      "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "j"
+  },
+  {
+    "slug": "juicy-flaky-greek-lamb-pilaf--french",
+    "title": "Lamb Pilaf with Greek Flair",
+    "tags": [
+      "lamb",
+      "pilaf",
+      "french",
+      "greek",
+      "one-pot"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "j"
   }
 ]
