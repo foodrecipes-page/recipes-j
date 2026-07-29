@@ -1,0 +1,69 @@
+{
+  "slug": "jewel-toned-peruvian-shrimp-chupe-de-camarones--indian",
+  "title": "Spicy Shrimp and Jewel Toned Vegetable Stir Fry",
+  "description": "A flavorful and easy-to-make Indian-inspired stir fry with succulent shrimp and a colorful medley of vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jewel Toned Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Toned Zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Potatoes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Camarones Seasoning Blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the Jewel Toned Bell Peppers, Toned Zucchini, and Peruvian Potatoes to the skillet.",
+    "Cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Add the Camarones Seasoning Blend and stir to combine.",
+    "Return the cooked shrimp to the skillet and stir to combine with the vegetables and seasoning.",
+    "Cook for an additional 1-2 minutes to allow the flavors to meld.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "shrimp-recipe",
+    "stir-fry-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/jewel-toned-peruvian-shrimp-chupe-de-camarones--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:37:07.538Z"
+}
